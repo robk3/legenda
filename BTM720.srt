@@ -1,21 +1,21 @@
 1
 00:00:37,822 --> 00:00:41,024
-<i>VocÍ acha que j· ouviu todas
-as histÛrias do Batman?</i>
+<i>Voc√™ acha que j√° ouviu todas
+as hist√≥rias do Batman?</i>
 
 2
 00:00:41,026 --> 00:00:43,460
-<i>Eu garanto, vocÍ n„o ouviu...</i>
+<i>Eu garanto, voc√™ n√£o ouviu...</i>
 
 3
 00:00:43,462 --> 00:00:45,228
-<i>Eu mesmo n„o
+<i>Eu mesmo n√£o
 teria acreditado</i>
 
 4
 00:00:45,230 --> 00:00:48,162
-<i>Se n„o tivesse visto
-com meus prÛprios olhos.</i>
+<i>Se n√£o tivesse visto
+com meus pr√≥prios olhos.</i>
 
 5
 00:00:48,164 --> 00:00:52,634
@@ -25,20 +25,20 @@ quase matou este gato.</i>
 6
 00:00:52,636 --> 00:00:55,805
 <i>Desligue isto, Grodd.
-Acabou. VocÍ chegou ao fim!</i>
+Acabou. Voc√™ chegou ao fim!</i>
 
 7
 00:00:55,807 --> 00:00:57,772
-<i>N„o, estou t„o perto!</i>
+<i>N√£o, estou t√£o perto!</i>
 
 8
 00:00:57,774 --> 00:01:02,644
-VocÍ n„o vai interferir com o meu
+Voc√™ n√£o vai interferir com o meu
 experimento desta vez, Batman.
 
 9
 00:01:07,752 --> 00:01:08,953
-Mulher gato, n„o!
+Mulher gato, n√£o!
 
 10
 00:01:57,401 --> 00:01:58,402
@@ -55,12 +55,12 @@ Hmm?
 
 13
 00:02:18,055 --> 00:02:21,093
-… japones.
+√â japones.
 E este sou eu.
 
 14
 00:02:28,098 --> 00:02:30,198
-L· esta ele,
+L√° esta ele,
 peguem-no!
 
 15
@@ -69,8 +69,8 @@ Samurai?
 
 16
 00:02:32,336 --> 00:02:35,740
-Parem! Me escutem, eu n„o quero
-machucar nenhum de vocÍs.
+Parem! Me escutem, eu n√£o quero
+machucar nenhum de voc√™s.
 
 17
 00:02:38,676 --> 00:02:40,044
@@ -93,11 +93,11 @@ mata-lo assim que o avistasse.
 
 21
 00:02:51,889 --> 00:02:54,155
-N„o È permitido a ele viver.
+N√£o √© permitido a ele viver.
 
 22
 00:02:54,157 --> 00:02:55,893
-Quem È o seu mestre?
+Quem √© o seu mestre?
 
 23
 00:04:30,153 --> 00:04:32,621
@@ -110,12 +110,12 @@ Tudo offline.
 25
 00:04:34,025 --> 00:04:36,193
 Mas pelo que percebo,
-este È o Jap„o antigo.
+este √© o Jap√£o antigo.
 
 26
 00:04:37,828 --> 00:04:41,198
-O que n„o explica
-o que est· acontecendo l· em cima.
+O que n√£o explica
+o que est√° acontecendo l√° em cima.
 
 27
 00:04:57,148 --> 00:04:58,547
@@ -124,11 +124,11 @@ o que est· acontecendo l· em cima.
 28
 00:05:00,217 --> 00:05:01,917
 - <i>O Coringa?</i>
-- T„o cedo?
+- T√£o cedo?
 
 29
 00:05:01,919 --> 00:05:03,619
-Est· certo, Bats.
+Est√° certo, Bats.
 
 30
 00:05:03,621 --> 00:05:05,355
@@ -148,37 +148,37 @@ E Arlequina.
 
 34
 00:05:14,999 --> 00:05:17,299
-Ah, mas vocÍ
+Ah, mas voc√™
 tem que admitir,
 
 35
 00:05:17,301 --> 00:05:20,703
-nÛs realmente fizemos
-vocÍ cair nessa, n„o fizemos?
+n√≥s realmente fizemos
+voc√™ cair nessa, n√£o fizemos?
 
 36
 00:05:20,705 --> 00:05:24,739
-J· chega. O que vocÍ est·
+J√° chega. O que voc√™ est√°
 armando desta vez, Coringa?
 
 37
 00:05:26,343 --> 00:05:28,311
-VocÍ n„o ouviu?
+Voc√™ n√£o ouviu?
 Todos tem me chamado de
 
 38
 00:05:28,313 --> 00:05:31,112
 Diruku Tin Mao,
-O DemÙnio Rei.
+O Dem√¥nio Rei.
 
 39
 00:05:31,114 --> 00:05:33,148
 O mais poderoso
-homem no Jap„o.
+homem no Jap√£o.
 
 40
 00:05:33,150 --> 00:05:35,020
-Mas vocÍ pode me chamar de...
+Mas voc√™ pode me chamar de...
 
 41
 00:05:35,886 --> 00:05:39,021
@@ -191,13 +191,13 @@ quis ser um Lorde.
 
 43
 00:05:41,325 --> 00:05:43,626
-Isso n„o era o que
-chamaria de aspiraÁ„o.
+Isso n√£o era o que
+chamaria de aspira√ß√£o.
 
 44
 00:05:43,628 --> 00:05:45,561
 Mas quando a vida joga
-vocÍ viaja no tempo,
+voc√™ viaja no tempo,
 
 45
 00:05:45,563 --> 00:05:47,795
@@ -210,13 +210,13 @@ as vezes temos que fazer uma viagem.
 
 47
 00:05:49,801 --> 00:05:52,100
-<i>Se n„o fosse por
-sua m·quina est˙pida</i>
+<i>Se n√£o fosse por
+sua m√°quina est√∫pida</i>
 
 48
 00:05:52,102 --> 00:05:54,869
 <i>esta pequena ilha jamais
-estaria em meu itiner·rio.</i>
+estaria em meu itiner√°rio.</i>
 
 49
 00:05:54,871 --> 00:05:58,172
@@ -230,22 +230,22 @@ com um pouco de molho.
 
 51
 00:06:13,290 --> 00:06:16,026
-Sou eu, ou est· ficando
+Sou eu, ou est√° ficando
 bem quente aqui?
 
 52
 00:06:19,362 --> 00:06:22,598
-Ah, n„o fuja.
-Sou seu maior f„.
+Ah, n√£o fuja.
+Sou seu maior f√£.
 
 53
 00:06:25,169 --> 00:06:29,674
-<i>Ah, agora, agora, Batman, vocÍ
-n„o quer brincar mais?</i>
+<i>Ah, agora, agora, Batman, voc√™
+n√£o quer brincar mais?</i>
 
 54
 00:06:30,842 --> 00:06:33,609
-Ah, agora olha o que vocÍ fez.
+Ah, agora olha o que voc√™ fez.
 
 55
 00:06:33,611 --> 00:06:37,746
@@ -258,32 +258,32 @@ Hmm.
 
 57
 00:06:39,850 --> 00:06:43,588
-N„o sabe que um luta com leques afiados
-È muito ruim para o meio ambiente?
+N√£o sabe que um luta com leques afiados
+√© muito ruim para o meio ambiente?
 
 58
 00:06:45,756 --> 00:06:47,590
-… vocÍ quem continua
+√â voc√™ quem continua
 jogando eles.
 
 59
 00:06:47,592 --> 00:06:50,195
-Porque vocÍ n„o deixa
+Porque voc√™ n√£o deixa
 que eles o atinjam.
 
 60
 00:07:01,205 --> 00:07:03,338
-Parece que est·
+Parece que est√°
 com pouco desses leques.
 
 61
 00:07:03,340 --> 00:07:06,111
-Ent„o o que vai
+Ent√£o o que vai
 fazer agora, Coringa?
 
 62
 00:07:07,912 --> 00:07:11,213
-Ah, eu tenho opÁıes, Bats.
+Ah, eu tenho op√ß√µes, Bats.
 
 63
 00:07:11,215 --> 00:07:13,148
@@ -291,7 +291,7 @@ Eu ainda tenho a Arlequina,
 
 64
 00:07:13,150 --> 00:07:16,721
-e um exÈrcito Samurai que tem vocÍ cercado.
+e um ex√©rcito Samurai que tem voc√™ cercado.
 
 65
 00:07:20,357 --> 00:07:22,727
@@ -301,7 +301,7 @@ Vou ficar com minhas chances.
 66
 00:07:50,087 --> 00:07:52,223
 Devemos ir
-atr·s dele, Lorde C?
+atr√°s dele, Lorde C?
 
 67
 00:07:53,222 --> 00:07:55,157
@@ -314,13 +314,13 @@ a luz do luar.
 
 69
 00:08:01,599 --> 00:08:05,303
-NÛs temos todo o tempo
+N√≥s temos todo o tempo
 do mundo.
 
 70
 00:08:10,808 --> 00:08:13,711
 Anda, anda.
-Ele n„o pode estar longe.
+Ele n√£o pode estar longe.
 
 71
 00:08:19,282 --> 00:08:20,818
@@ -328,11 +328,11 @@ Hum?
 
 72
 00:08:25,121 --> 00:08:26,624
-N„o tenha medo.
+N√£o tenha medo.
 
 73
 00:08:27,958 --> 00:08:30,960
-… sÛ um pequeno miado.
+√â s√≥ um pequeno miado.
 
 74
 00:08:30,962 --> 00:08:32,895
@@ -351,24 +351,24 @@ que algo havia acontecido.
 77
 00:08:37,668 --> 00:08:39,467
 Estou feliz
-que foi vocÍ.
+que foi voc√™.
 
 78
 00:08:39,469 --> 00:08:41,003
-Como vocÍ chegou aqui?
+Como voc√™ chegou aqui?
 
 79
 00:08:41,005 --> 00:08:43,938
-Da mesma forma que vocÍ.
-A m·quina do tempo do Gorila Grodd.
+Da mesma forma que voc√™.
+A m√°quina do tempo do Gorila Grodd.
 
 80
 00:08:43,940 --> 00:08:45,941
-Isso aconteceu dois anos atr·s.
+Isso aconteceu dois anos atr√°s.
 
 81
 00:08:45,943 --> 00:08:48,311
-Como isso È possÌvel?
+Como isso √© poss√≠vel?
 
 82
 00:08:48,313 --> 00:08:51,846
@@ -377,11 +377,11 @@ salto no tempo. Talvez ajude.
 
 83
 00:08:51,848 --> 00:08:55,417
-<i>Diga qual o seu negÛcio, macaco.</i>
+<i>Diga qual o seu neg√≥cio, macaco.</i>
 
 84
 00:08:55,419 --> 00:08:57,485
-<i>Por que vocÍ nos trouxe aqui?</i>
+<i>Por que voc√™ nos trouxe aqui?</i>
 
 85
 00:08:57,487 --> 00:09:01,289
@@ -390,35 +390,35 @@ eu os trouxe aqui</i>
 
 86
 00:09:01,291 --> 00:09:04,292
-<i>para revelar minha maior invenÁ„o.</i>
+<i>para revelar minha maior inven√ß√£o.</i>
 
 87
 00:09:04,294 --> 00:09:06,128
 <i>Capuz Vermelho,
-este È Asa Noturna.</i>
+este √© Asa Noturna.</i>
 
 88
 00:09:06,130 --> 00:09:08,563
 <i>A pista estava correta. Isso aqui
-È como uma convenÁ„o criminosa.</i>
+√© como uma conven√ß√£o criminosa.</i>
 
 89
 00:09:08,565 --> 00:09:11,767
 <i>Sim, eu posso visualizar
-todos daqui tambÈm.</i>
+todos daqui tamb√©m.</i>
 
 90
 00:09:11,769 --> 00:09:14,470
 <i>Bem, a festa do
-prefeito È esta noite.</i>
+prefeito √© esta noite.</i>
 
 91
 00:09:14,472 --> 00:09:16,138
-Eu n„o estava sÛ.
+Eu n√£o estava s√≥.
 
 92
 00:09:16,140 --> 00:09:18,139
-Todos estavam l· tambÈm.
+Todos estavam l√° tamb√©m.
 
 93
 00:09:18,141 --> 00:09:20,808
@@ -430,21 +430,21 @@ Robin Vermelho e Robin.
 
 95
 00:09:23,246 --> 00:09:25,081
-Ent„o onde eles est„o?
+Ent√£o onde eles est√£o?
 
 96
 00:09:25,083 --> 00:09:26,281
-Eu n„o sei.
+Eu n√£o sei.
 
 97
 00:09:26,283 --> 00:09:28,550
-Eu n„o vi
+Eu n√£o vi
 nenhum deles.
 
 98
 00:09:28,552 --> 00:09:33,355
 <i>Mas desde que chegaram, os criminosos de
-Gotham est„o espalhando selvageria no Jap„o.</i>
+Gotham est√£o espalhando selvageria no Jap√£o.</i>
 
 99
 00:09:33,357 --> 00:09:35,957
@@ -453,7 +453,7 @@ Gotham est„o espalhando selvageria no Jap„o.</i>
 100
 00:09:35,959 --> 00:09:39,561
 <i>Agora, testemunhem me tornar
-mestre do tempo e do espaÁo,</i>
+mestre do tempo e do espa√ßo,</i>
 
 101
 00:09:39,563 --> 00:09:42,167
@@ -461,51 +461,51 @@ mestre do tempo e do espaÁo,</i>
 
 102
 00:09:50,241 --> 00:09:51,606
-N„o tenho mais imagens.
+N√£o tenho mais imagens.
 
 103
 00:09:51,608 --> 00:09:53,975
-O resto s„o apenas
-arquivos de a˙dio.
+O resto s√£o apenas
+arquivos de a√∫dio.
 
 104
 00:09:53,977 --> 00:09:57,312
-A m·quina de Grodd deve ter
-afetado a transferÍncia de dados.
+A m√°quina de Grodd deve ter
+afetado a transfer√™ncia de dados.
 
 105
 00:09:57,314 --> 00:09:59,414
-<i>Agora est· tudo de
-cabeÁa para baixo.</i>
+<i>Agora est√° tudo de
+cabe√ßa para baixo.</i>
 
 106
 00:09:59,416 --> 00:10:03,118
-<i>Eu acho que o macaco est·
-confundindo as nossas cabeÁas.</i>
+<i>Eu acho que o macaco est√°
+confundindo as nossas cabe√ßas.</i>
 
 107
 00:10:03,120 --> 00:10:07,559
-<i>VocÍ n„o vai interferir com
+<i>Voc√™ n√£o vai interferir com
 o meu experimento desta vez, Bat...</i>
 
 108
 00:10:10,093 --> 00:10:14,196
-Ent„o o Coringa È sÛ um acaso
-benefici·rio do experimento do Grodd.
+Ent√£o o Coringa √© s√≥ um acaso
+benefici√°rio do experimento do Grodd.
 
 109
 00:10:14,198 --> 00:10:17,968
-Bem, ninguÈm nunca disse
-que ele n„o prosperou no caos.
+Bem, ningu√©m nunca disse
+que ele n√£o prosperou no caos.
 
 110
 00:10:19,270 --> 00:10:21,003
-Mas estavamos l·
+Mas estavamos l√°
 ao mesmo tempo,
 
 111
 00:10:21,005 --> 00:10:22,437
-Por que a diferenÁa de dois anos?
+Por que a diferen√ßa de dois anos?
 
 112
 00:10:22,439 --> 00:10:24,739
@@ -519,7 +519,7 @@ deve ter afetado o salto.
 
 114
 00:10:27,944 --> 00:10:32,246
-Uma quest„o de segundos,
+Uma quest√£o de segundos,
 se transformaram em dois anos agora.
 
 115
@@ -559,7 +559,7 @@ todos os <i>Sengoku Daimyos</i>
 122
 00:10:54,738 --> 00:10:57,172
 e se tornaram
-lordes de suas provÌncias.
+lordes de suas prov√≠ncias.
 
 123
 00:10:57,174 --> 00:10:58,840
@@ -571,23 +571,23 @@ Isso mesmo.
 
 125
 00:11:00,310 --> 00:11:03,111
-Este perÌodo no Jap„o foi uma
-Època feudal de provÌncias em guerra.
+Este per√≠odo no Jap√£o foi uma
+√©poca feudal de prov√≠ncias em guerra.
 
 126
 00:11:03,113 --> 00:11:08,783
-<i>Sim. Cada um dos criminosos de Gotham est·
-tentando conquistar e unificar o Jap„o.</i>
+<i>Sim. Cada um dos criminosos de Gotham est√°
+tentando conquistar e unificar o Jap√£o.</i>
 
 127
 00:11:08,785 --> 00:11:11,287
 <i>O Pinguin tomou o controle
-da provÌncia de Kai.</i>
+da prov√≠ncia de Kai.</i>
 
 128
 00:11:11,289 --> 00:11:15,023
 <i>Ele enfrenta repetidamente a
-provÌncia vizinha de Echigo,</i>
+prov√≠ncia vizinha de Echigo,</i>
 
 129
 00:11:15,025 --> 00:11:16,993
@@ -600,12 +600,12 @@ meus amigos de penas finas.</i>
 
 131
 00:11:27,103 --> 00:11:30,275
-<i>Eu vou enterrar vocÍ na
+<i>Eu vou enterrar voc√™ na
 lama, seu urubu velho.</i>
 
 132
 00:11:33,309 --> 00:11:36,978
-<i>Na provÌncia de Nutsu,
+<i>Na prov√≠ncia de Nutsu,
 reina supremo o Exterminador.</i>
 
 133
@@ -614,13 +614,13 @@ reina supremo o Exterminador.</i>
 
 134
 00:11:38,948 --> 00:11:42,951
-<i>Ser· a minha vez
+<i>Ser√° a minha vez
 de atacar. Sim.</i>
 
 135
 00:11:42,953 --> 00:11:46,020
 <i>Duas Caras tomou o
-controle da provÌncia de Omie.</i>
+controle da prov√≠ncia de Omie.</i>
 
 136
 00:11:46,022 --> 00:11:47,388
@@ -633,44 +633,44 @@ um vassalo do Coringa.</i>
 
 138
 00:11:51,728 --> 00:11:56,699
-<i>Vamos ver, qual ser·
+<i>Vamos ver, qual ser√°
 meu proximo movimento?</i>
 
 139
 00:11:56,701 --> 00:12:01,903
 <i>Mas agora mesmo, O lorde feudal que
-est· mais perto de unificar o Jap„o</i>
+est√° mais perto de unificar o Jap√£o</i>
 
 140
 00:12:01,905 --> 00:12:03,308
-<i>È o Coringa.</i>
+<i>√© o Coringa.</i>
 
 141
 00:12:17,788 --> 00:12:22,023
-Ent„o todos est„o tentado tomar
-este paÌs e reescrever a histÛria.
+Ent√£o todos est√£o tentado tomar
+este pa√≠s e reescrever a hist√≥ria.
 
 142
 00:12:22,025 --> 00:12:25,293
-NÛs temos que encontrar Gorila Grodd.
-VocÍ o tem visto?
+N√≥s temos que encontrar Gorila Grodd.
+Voc√™ o tem visto?
 
 143
 00:12:25,295 --> 00:12:27,662
-N„o recentemente.
+N√£o recentemente.
 
 144
 00:12:27,664 --> 00:12:30,265
-Por que n„o unimos forÁas, Bruce?
+Por que n√£o unimos for√ßas, Bruce?
 
 145
 00:12:30,267 --> 00:12:31,933
-Unir forÁas?
+Unir for√ßas?
 
 146
 00:12:31,935 --> 00:12:34,668
 Eu quero voltar pra casa. Dois anos
-È muito tempo para ficar longe.
+√© muito tempo para ficar longe.
 
 147
 00:12:34,670 --> 00:12:37,040
@@ -683,33 +683,33 @@ Juro.
 
 149
 00:12:38,943 --> 00:12:42,076
-NÛs apenas temos que
+N√≥s apenas temos que
 entrar naquela torre.
 
 150
 00:12:42,078 --> 00:12:45,349
-O Coringa mantÈm a m·quina
+O Coringa mant√©m a m√°quina
 do tempo do Grodd ali.
 
 151
 00:13:01,464 --> 00:13:03,632
-Este aspecto de mission·rio
-n„o È ruim.
+Este aspecto de mission√°rio
+n√£o √© ruim.
 
 152
 00:13:03,634 --> 00:13:07,336
-Muitos mission·rios Crist„o vieram ao
-Jap„o nesta era.
+Muitos mission√°rios Crist√£o vieram ao
+Jap√£o nesta era.
 
 153
 00:13:07,338 --> 00:13:10,305
-Desta forma vocÍ n„o vai parecer
+Desta forma voc√™ n√£o vai parecer
 muito suspeito para um ocidental.
 
 154
 00:13:10,307 --> 00:13:13,209
 O corte de morcego
-È um belo toque.
+√© um belo toque.
 
 155
 00:13:13,211 --> 00:13:14,709
@@ -717,69 +717,69 @@ Obrigado.
 
 156
 00:13:14,711 --> 00:13:16,412
-Ent„o, por que vocÍ
+Ent√£o, por que voc√™
 me trouxe aqui?
 
 157
 00:13:16,414 --> 00:13:17,812
 Eu queria que
-vocÍ visse isso.
+voc√™ visse isso.
 
 158
 00:13:17,814 --> 00:13:20,715
-O Coringa est· fazendo
+O Coringa est√° fazendo
 algo estranho.
 
 159
 00:13:20,717 --> 00:13:22,086
-<i>Isso È carv„o?</i>
+<i>Isso √© carv√£o?</i>
 
 160
 00:13:23,688 --> 00:13:27,888
-<i>Ent„o o coringa est· realmente
+<i>Ent√£o o coringa est√° realmente
 mudando a linha do tempo.</i>
 
 161
 00:13:27,890 --> 00:13:31,259
-A revoluÁ„o industrial
+A revolu√ß√£o industrial
 aconteceu muito depois.
 
 162
 00:13:31,261 --> 00:13:34,629
 Eu duvido que o coringa
-se importe com histÛria.
+se importe com hist√≥ria.
 
 163
 00:13:34,631 --> 00:13:36,898
 Eu acho que seja o que
-ele est· fazendo,
+ele est√° fazendo,
 
 164
 00:13:36,900 --> 00:13:39,066
-ele usar· para
+ele usar√° para
 se tornar um Shogun.
 
 165
 00:13:39,068 --> 00:13:41,235
-Mas n„o È apenas o Coringa.
+Mas n√£o √© apenas o Coringa.
 
 166
 00:13:41,237 --> 00:13:44,141
-NÛs temos que deter todos os criminosos
-de Gotham para salvar a histÛria.
+N√≥s temos que deter todos os criminosos
+de Gotham para salvar a hist√≥ria.
 
 167
 00:13:45,509 --> 00:13:47,075
-NÛs precisaremos de armas para isso.
+N√≥s precisaremos de armas para isso.
 
 168
 00:13:47,077 --> 00:13:50,345
-Se ao menos ouvesse alguÈm
+Se ao menos ouvesse algu√©m
 que pudesse nos ajudar.
 
 169
 00:13:50,347 --> 00:13:52,746
-Ch·, senhor?
+Ch√°, senhor?
 
 170
 00:13:52,748 --> 00:13:54,985
@@ -787,12 +787,12 @@ Ah, muito apreciado.
 
 171
 00:13:58,487 --> 00:14:00,055
-Ah, este È ch· negro?
+Ah, este √© ch√° negro?
 
 172
 00:14:00,057 --> 00:14:02,023
-DifÌcil de encontrar nessa
-regi„o da floresta.
+Dif√≠cil de encontrar nessa
+regi√£o da floresta.
 
 173
 00:14:02,025 --> 00:14:04,826
@@ -810,8 +810,8 @@ Eu pesso desculpas.
 
 176
 00:14:11,168 --> 00:14:14,201
-<i>Est· um pouco mas r˙stico
-ao que est· acostumado.</i>
+<i>Est√° um pouco mas r√∫stico
+ao que est√° acostumado.</i>
 
 177
 00:14:14,203 --> 00:14:17,174
@@ -824,26 +824,26 @@ Que?
 
 179
 00:14:20,977 --> 00:14:23,412
-Eu n„o acredito
-Selena, vocÍ n„o me contou.
+Eu n√£o acredito
+Selena, voc√™ n√£o me contou.
 
 180
 00:14:23,414 --> 00:14:27,048
-Eu sei, mas eu queria ver a express„o
+Eu sei, mas eu queria ver a express√£o
 de surpresa em seu rosto.
 
 181
 00:14:27,050 --> 00:14:28,984
-N„o a raz„o para se preocupar.
+N√£o a raz√£o para se preocupar.
 
 182
 00:14:28,986 --> 00:14:31,820
-Os veÌculos est„o muito
+Os ve√≠culos est√£o muito
 bem conservados, Mestre Bruce.
 
 183
 00:14:31,822 --> 00:14:34,789
-Mas eu n„o entendo.
+Mas eu n√£o entendo.
 
 184
 00:14:34,791 --> 00:14:37,225
@@ -857,8 +857,8 @@ em nos encontrarmos aqui.
 
 186
 00:14:39,762 --> 00:14:43,965
-E ambos imaginamos que era uma quest„o
-de tempo atÈ sua chegada.
+E ambos imaginamos que era uma quest√£o
+de tempo at√© sua chegada.
 
 187
 00:14:43,967 --> 00:14:45,801
@@ -866,8 +866,8 @@ E aqui estou eu.
 
 188
 00:14:45,803 --> 00:14:49,571
-<i>Bem, eu acho que o Coringa ficar·
-muito chocado ao vÍ-lo nele.</i>
+<i>Bem, eu acho que o Coringa ficar√°
+muito chocado ao v√™-lo nele.</i>
 
 189
 00:14:49,573 --> 00:14:50,806
@@ -885,7 +885,7 @@ te-lo encontrado na floresta, mestre Bruce.
 192
 00:14:56,280 --> 00:14:59,547
 Eu, por exemplo, sempre quis
-visitar este lindo paÌs
+visitar este lindo pa√≠s
 
 193
 00:14:59,549 --> 00:15:02,917
@@ -893,8 +893,8 @@ mas eu prefiro o fazer em meu tempo.
 
 194
 00:15:02,919 --> 00:15:06,488
-Embora, devo admitir, eu tive atÈ
-algumas novas idÈias culin·rias.
+Embora, devo admitir, eu tive at√©
+algumas novas id√©ias culin√°rias.
 
 195
 00:15:06,490 --> 00:15:09,423
@@ -903,8 +903,8 @@ feito com miso.</i>
 
 196
 00:15:10,894 --> 00:15:12,893
-Vejo que apesar de tudo vocÍ
-n„o mudou, velho amigo.
+Vejo que apesar de tudo voc√™
+n√£o mudou, velho amigo.
 
 197
 00:15:12,895 --> 00:15:16,097
@@ -913,8 +913,8 @@ este prato que aacabou de falar.
 
 198
 00:15:16,099 --> 00:15:18,935
-N„o queria me gabar senhor,
-mas È muito bom!
+N√£o queria me gabar senhor,
+mas √© muito bom!
 
 199
 00:15:19,636 --> 00:15:21,005
@@ -931,16 +931,16 @@ Fogo!
 202
 00:15:30,448 --> 00:15:32,616
 Impacto direto!
-NÛs o pegamos.
+N√≥s o pegamos.
 
 203
 00:15:38,456 --> 00:15:40,455
-- Hum? O que È isso?
+- Hum? O que √© isso?
 - Afastem-se.
 
 204
 00:15:40,457 --> 00:15:42,456
-Eu vou atr·s do Coringa.
+Eu vou atr√°s do Coringa.
 
 205
 00:15:42,458 --> 00:15:44,994
@@ -953,12 +953,12 @@ Pode deixar.
 
 207
 00:16:06,916 --> 00:16:08,652
-Batman est· vindo!
+Batman est√° vindo!
 
 208
 00:16:09,754 --> 00:16:11,519
-- O que È isso?
-- Batman est· aqui
+- O que √© isso?
+- Batman est√° aqui
 
 209
 00:16:11,521 --> 00:16:12,956
@@ -970,12 +970,12 @@ Apontar! Fogo!
 
 211
 00:16:21,198 --> 00:16:24,099
-<i>Ele est· espancando os nossos
-atiradores e nossos canhıes.</i>
+<i>Ele est√° espancando os nossos
+atiradores e nossos canh√µes.</i>
 
 212
 00:16:24,101 --> 00:16:25,734
-E est· se aproximando r·pido
+E est√° se aproximando r√°pido
 
 213
 00:16:25,736 --> 00:16:28,469
@@ -984,12 +984,12 @@ show de marionetes.
 
 214
 00:16:30,473 --> 00:16:33,140
-Ele n„o È nada sem o
+Ele n√£o √© nada sem o
 Batmovel estupido!
 
 215
 00:16:33,142 --> 00:16:35,679
-O que me d· uma ideia interessante.
+O que me d√° uma ideia interessante.
 
 216
 00:16:40,517 --> 00:16:41,718
@@ -1002,7 +1002,7 @@ parachoque magnetizado.
 
 218
 00:16:48,891 --> 00:16:51,592
-Sempre t„o esperto
+Sempre t√£o esperto
 com sua tecnologia.
 
 219
@@ -1013,16 +1013,16 @@ o castelo Arkham!
 220
 00:16:54,497 --> 00:16:57,664
 Mas, pudim, o castelo
-n„o est· pronto ainda.
+n√£o est√° pronto ainda.
 
 221
 00:16:57,666 --> 00:16:59,268
-Mas este È o Batman!
+Mas este √© o Batman!
 
 222
 00:16:59,270 --> 00:17:02,437
-Inicialmente ele È a
-raz„o em termos construÌdo.
+Inicialmente ele √© a
+raz√£o em termos constru√≠do.
 
 223
 00:17:02,439 --> 00:17:03,940
@@ -1034,11 +1034,11 @@ Preparar, Coringa.
 
 225
 00:17:35,571 --> 00:17:37,907
-Que diabos È aquilo?
+Que diabos √© aquilo?
 
 226
 00:17:38,809 --> 00:17:40,341
-Isto È loucura.
+Isto √© loucura.
 
 227
 00:17:43,312 --> 00:17:46,448
@@ -1060,7 +1060,7 @@ Incoming.
 
 231
 00:17:59,762 --> 00:18:01,398
-Agora, È a minha vez.
+Agora, √© a minha vez.
 
 232
 00:18:07,003 --> 00:18:09,070
@@ -1068,20 +1068,20 @@ Agora, È a minha vez.
 
 233
 00:18:09,072 --> 00:18:11,205
-Ooh, invadindo o port„o.
+Ooh, invadindo o port√£o.
 
 234
 00:18:11,207 --> 00:18:13,743
-<i>Vou lhe dar uma m„ozinha.</i>
+<i>Vou lhe dar uma m√£ozinha.</i>
 
 235
 00:18:16,613 --> 00:18:21,516
 <i>Agora vou esmagar seu brinquedo preferido,
-Com vocÍ dentro dele.</i>
+Com voc√™ dentro dele.</i>
 
 236
 00:18:21,518 --> 00:18:22,752
-N„o hoje.
+N√£o hoje.
 
 237
 00:18:32,530 --> 00:18:35,462
@@ -1095,11 +1095,11 @@ Meu velho amigo.
 239
 00:18:36,933 --> 00:18:38,767
 <i>Sabe o que eu mais gosto
-Em vocÍ</i>
+Em voc√™</i>
 
 240
 00:18:38,769 --> 00:18:40,704
-<i>VocÍ È t„o previsÌvel.</i>
+<i>Voc√™ √© t√£o previs√≠vel.</i>
 
 241
 00:18:45,408 --> 00:18:48,743
@@ -1108,16 +1108,16 @@ Minhas iguarias favoritas.
 
 242
 00:18:48,745 --> 00:18:50,213
-N„o t„o r·pido.
+N√£o t√£o r√°pido.
 
 243
 00:19:08,464 --> 00:19:10,699
 Acabou, Coringa.
-VocÍ acabou.
+Voc√™ acabou.
 
 244
 00:19:10,701 --> 00:19:14,301
-N„o, eu n„o acho que vocÍ fez
+N√£o, eu n√£o acho que voc√™ fez
 isto completamente certo.
 
 245
@@ -1126,12 +1126,12 @@ Hmm?
 
 246
 00:19:21,845 --> 00:19:23,745
-Que terrÌvel
+Que terr√≠vel
 
 247
 00:19:23,747 --> 00:19:27,516
-VocÍ pode vir atr·s de mim, ou salvar
-aquela m„e e sua crianÁa l· em baixo.
+Voc√™ pode vir atr√°s de mim, ou salvar
+aquela m√£e e sua crian√ßa l√° em baixo.
 
 248
 00:19:27,518 --> 00:19:28,818
@@ -1139,19 +1139,19 @@ Sua escolha, Bats!
 
 249
 00:19:29,219 --> 00:19:30,221
-N„o!
+N√£o!
 
 250
 00:19:56,913 --> 00:19:58,512
-Bane? Como vocÍ...
+Bane? Como voc√™...
 
 251
 00:20:29,579 --> 00:20:31,881
-Esta n„o È a sua luta!
+Esta n√£o √© a sua luta!
 
 252
 00:20:41,391 --> 00:20:42,593
-Vai! R·pido!
+Vai! R√°pido!
 
 253
 00:20:44,427 --> 00:20:45,995
@@ -1159,7 +1159,7 @@ Preciso de mais poder.
 
 254
 00:20:49,832 --> 00:20:51,201
-Espere! N„o!
+Espere! N√£o!
 
 255
 00:21:01,011 --> 00:21:03,510
@@ -1178,25 +1178,25 @@ nos mesmos truques.
 258
 00:21:18,161 --> 00:21:21,262
 Oh, isso me deixa triste
-ele È t„o burro.
+ele √© t√£o burro.
 
 259
 00:21:21,264 --> 00:21:24,466
-Est· sempre arriscando sua vida
+Est√° sempre arriscando sua vida
 para salvar pessoas comuns.
 
 260
 00:21:24,468 --> 00:21:27,035
 Se tivesse deixado eles morrerem
-e vindo atr·s de mim...
+e vindo atr√°s de mim...
 
 261
 00:21:27,037 --> 00:21:31,205
-talvez vocÍ n„o se encontrasse t„o mau
+talvez voc√™ n√£o se encontrasse t√£o mau
 
 262
 00:21:31,207 --> 00:21:33,141
-Eu n„o estou arrependido.
+Eu n√£o estou arrependido.
 
 263
 00:21:33,143 --> 00:21:35,242
@@ -1204,17 +1204,17 @@ Bem, o que devemos fazer agora?
 
 264
 00:21:35,244 --> 00:21:36,711
-VocÍ vai apenas ficar ai,
+Voc√™ vai apenas ficar ai,
 
 265
 00:21:36,713 --> 00:21:38,645
-ou vocÍ vai me
+ou voc√™ vai me
 divertir mais um pouco?
 
 266
 00:21:38,647 --> 00:21:42,451
-Eu n„o estou aqui
-para sua divers„o.
+Eu n√£o estou aqui
+para sua divers√£o.
 
 267
 00:21:42,453 --> 00:21:44,451
@@ -1227,8 +1227,8 @@ se foram
 
 269
 00:21:46,556 --> 00:21:49,324
-… melhor comeÁar a pensar
-o que far· para o segundo ato.
+√â melhor come√ßar a pensar
+o que far√° para o segundo ato.
 
 270
 00:21:49,326 --> 00:21:52,928
@@ -1245,8 +1245,8 @@ Han?
 
 273
 00:22:00,436 --> 00:22:04,171
-Eu n„o quis dizer isso!
-Eu estava sendo sarc·stico!
+Eu n√£o quis dizer isso!
+Eu estava sendo sarc√°stico!
 
 274
 00:22:09,011 --> 00:22:11,447
@@ -1271,17 +1271,17 @@ Quem mais fez este salto no tempo?
 279
 00:22:43,245 --> 00:22:44,779
 Capuz vermelho,
-e Robin, tambÈm.
+e Robin, tamb√©m.
 
 280
 00:22:44,781 --> 00:22:46,748
-Mas capuz vermelho est· fora
-em miss„o de reconhecimento
+Mas capuz vermelho est√° fora
+em miss√£o de reconhecimento
 
 281
 00:22:46,750 --> 00:22:49,319
 para descobrir o que aconteceu
-com as outras provÌncias.
+com as outras prov√≠ncias.
 
 282
 00:22:50,020 --> 00:22:51,719
@@ -1289,11 +1289,11 @@ Alfred e Mulher Gato?
 
 283
 00:22:51,721 --> 00:22:52,920
-N„o se preocupe.
+N√£o se preocupe.
 
 284
 00:22:52,922 --> 00:22:54,521
-Robin j· foi
+Robin j√° foi
 ao encontro deles.
 
 285
@@ -1308,7 +1308,7 @@ E ele?
 287
 00:22:59,261 --> 00:23:01,229
 Batman, este
-È Aeon.
+√© Aeon.
 
 288
 00:23:01,231 --> 00:23:03,431
@@ -1317,40 +1317,40 @@ depois que chegamos aqui.
 
 289
 00:23:03,433 --> 00:23:05,967
-<i>Ele È o lider de um
-cl„ ninja.</i>
+<i>Ele √© o lider de um
+cl√£ ninja.</i>
 
 290
 00:23:05,969 --> 00:23:07,935
-<i>Cl„ ninja?</i>
+<i>Cl√£ ninja?</i>
 
 291
 00:23:07,937 --> 00:23:10,238
-NÛs somos o cl„ dos
+N√≥s somos o cl√£ dos
 morcegos de Hida.
 
 292
 00:23:10,240 --> 00:23:13,242
-Nossas vidas s„o guiadas
+Nossas vidas s√£o guiadas
 por uma antiga profecia.
 
 293
 00:23:22,853 --> 00:23:26,688
-<i>A lenda diz que quando o paÌs
+<i>A lenda diz que quando o pa√≠s
 entrar no caos</i>
 
 294
 00:23:26,690 --> 00:23:30,424
 <i>um ninja forasteiro usando
-uma mascara de morcego vir·</i>
+uma mascara de morcego vir√°</i>
 
 295
 00:23:30,426 --> 00:23:32,826
-<i>e ir· restaurar a ordem em nossa terra.</i>
+<i>e ir√° restaurar a ordem em nossa terra.</i>
 
 296
 00:23:32,828 --> 00:23:37,031
-<i>O cl„ morcego, nÛs esperamos
+<i>O cl√£ morcego, n√≥s esperamos
 toda a nossa vida por este momento.</i>
 
 297
@@ -1360,11 +1360,11 @@ com a sua vida.</i>
 
 298
 00:23:39,336 --> 00:23:43,039
-<i>Este È o nosso destino.</i>
+<i>Este √© o nosso destino.</i>
 
 299
 00:23:49,780 --> 00:23:52,146
-Agora, nÛs finalmente olhamos para vocÍ,
+Agora, n√≥s finalmente olhamos para voc√™,
 
 300
 00:23:52,148 --> 00:23:54,883
@@ -1394,13 +1394,13 @@ o Batwing, a Batmoto
 
 306
 00:24:39,029 --> 00:24:43,364
-foram todos destruÌdos
-pelas m„os do Coringa.
+foram todos destru√≠dos
+pelas m√£os do Coringa.
 
 307
 00:24:43,366 --> 00:24:47,237
 Como poderemos recuperar a vantagem
-quando n„o temos nada?
+quando n√£o temos nada?
 
 308
 00:24:50,639 --> 00:24:51,739
@@ -1409,7 +1409,7 @@ Batman.
 309
 00:24:51,741 --> 00:24:53,541
 Monkichi tem uma
-mensagem para vocÍ.
+mensagem para voc√™.
 
 310
 00:24:53,543 --> 00:24:55,109
@@ -1417,12 +1417,12 @@ Monkichi?
 
 311
 00:24:55,111 --> 00:24:57,010
-… estranho, mas Robin
+√â estranho, mas Robin
 fez amizade com esse macaco.
 
 312
 00:24:57,012 --> 00:24:58,445
-Ele È realmente
+Ele √© realmente
 muito esperto
 
 313
@@ -1432,28 +1432,28 @@ tudo que eu digo.
 
 314
 00:25:02,385 --> 00:25:03,785
-<i>O que È isso?</i>
+<i>O que √© isso?</i>
 
 315
 00:25:03,787 --> 00:25:06,289
 Ele diz que pegou de
-alguÈm na montanha.
+algu√©m na montanha.
 
 316
 00:25:08,124 --> 00:25:09,693
-Est· em InglÍs.
+Est√° em Ingl√™s.
 
 317
 00:25:11,761 --> 00:25:13,097
-… Grodd.
+√â Grodd.
 
 318
 00:25:48,998 --> 00:25:51,699
-Ah, isso È bom.
+Ah, isso √© bom.
 
 319
 00:25:51,701 --> 00:25:53,867
-Por que, N„o importa se
+Por que, N√£o importa se
 macacos ou humanos,
 
 320
@@ -1463,59 +1463,59 @@ relaxamos em um banho quente, Batman?
 
 321
 00:25:59,643 --> 00:26:03,143
-<i>VocÍ pode aproveitar
-as ·guas tambÈm.</i>
+<i>Voc√™ pode aproveitar
+as √°guas tamb√©m.</i>
 
 322
 00:26:03,145 --> 00:26:05,813
-N„o, estou bem por aqui.
+N√£o, estou bem por aqui.
 
 323
 00:26:05,815 --> 00:26:08,182
-Eu nunca teria tomado vocÍ
-pelo tipo tÌmido,
+Eu nunca teria tomado voc√™
+pelo tipo t√≠mido,
 
 324
 00:26:08,184 --> 00:26:11,652
-mas vocÍ est· sempre atr·s de uma m·scara.
+mas voc√™ est√° sempre atr√°s de uma m√°scara.
 
 325
 00:26:11,654 --> 00:26:14,622
-Tem certeza que n„o
+Tem certeza que n√£o
 quer reconsiderar?
 
 326
 00:26:16,858 --> 00:26:18,492
 <i>Estou supondo que
-vocÍ n„o me convidou aqui</i>
+voc√™ n√£o me convidou aqui</i>
 
 327
 00:26:18,494 --> 00:26:21,095
-<i>apenas me me juntar a vocÍ
+<i>apenas me me juntar a voc√™
 num banho quente.</i>
 
 328
 00:26:21,097 --> 00:26:23,330
-T„o impaciente.
+T√£o impaciente.
 
 329
 00:26:23,332 --> 00:26:24,865
 Bem, o que
-vocÍ esperava?
+voc√™ esperava?
 
 330
 00:26:24,867 --> 00:26:27,701
-SÛ estamos nesta bagunÁa
-por causa de vocÍ, Grodd.
+S√≥ estamos nesta bagun√ßa
+por causa de voc√™, Grodd.
 
 331
 00:26:27,703 --> 00:26:31,038
-Primeiramente, por que vocÍ
-inventou esta m·quina do tempo?
+Primeiramente, por que voc√™
+inventou esta m√°quina do tempo?
 
 332
 00:26:31,040 --> 00:26:34,976
-Isso È como perguntar por que
+Isso √© como perguntar por que
 este velho gorila atravassou a estrada
 
 333
@@ -1539,11 +1539,11 @@ E eu teria conseguido.
 337
 00:26:48,724 --> 00:26:51,159
 <i>O motor tremor foi a
-minha maior invenÁ„o.</i>
+minha maior inven√ß√£o.</i>
 
 338
 00:26:51,161 --> 00:26:54,395
-<i>Mas a sua interferÍncia nos
+<i>Mas a sua interfer√™ncia nos
 trouxe para este tempo e lugar.</i>
 
 339
@@ -1552,7 +1552,7 @@ trouxe para este tempo e lugar.</i>
 
 340
 00:26:56,398 --> 00:26:58,734
-Ambos somo respons·veis
+Ambos somo respons√°veis
 pelo que aconteceu naquela noite
 
 341
@@ -1563,7 +1563,7 @@ para voltar para casa.
 342
 00:27:03,706 --> 00:27:05,940
 O que
-vocÍ diz, Batman?
+voc√™ diz, Batman?
 
 343
 00:27:05,942 --> 00:27:07,307
@@ -1571,7 +1571,7 @@ Eu serei a isca.
 
 344
 00:27:07,309 --> 00:27:09,911
-… a melhor maneira
+√â a melhor maneira
 atrair o Coringa.
 
 345
@@ -1586,26 +1586,26 @@ meu caro Gorila Grodd.
 347
 00:27:45,315 --> 00:27:47,749
 Parece que este
-lugar concorda com vocÍ.
+lugar concorda com voc√™.
 
 348
 00:27:47,751 --> 00:27:51,618
 Hmm. Bem, sei que isto
-n„o e apenas uma visita social.
+n√£o e apenas uma visita social.
 
 349
 00:27:51,620 --> 00:27:53,720
-Onde est· o Batman?
+Onde est√° o Batman?
 
 350
 00:27:53,722 --> 00:27:56,089
-Claramente vocÍ n„o tem tempo para
+Claramente voc√™ n√£o tem tempo para
 amabilidades agora que definiu sua meta.
 
 351
 00:27:56,091 --> 00:27:59,626
-Ooh, isto est· t„o obvio?
-… a roupa, n„o È?
+Ooh, isto est√° t√£o obvio?
+√â a roupa, n√£o √©?
 
 352
 00:27:59,628 --> 00:28:01,062
@@ -1613,22 +1613,22 @@ Meio que entrega o jogo.
 
 353
 00:28:01,064 --> 00:28:04,098
-Imagine todo este paÌs
+Imagine todo este pa√≠s
 num caos total.
 
 354
 00:28:04,100 --> 00:28:08,501
 Uma terra cheia de sofrimento
-desnecess·rio e dor.
+desnecess√°rio e dor.
 
 355
 00:28:08,503 --> 00:28:10,805
-… muito interessante
+√â muito interessante
 que de todos os humanos,
 
 356
 00:28:10,807 --> 00:28:13,173
-vocÍ È o ˙nico que ficou
+voc√™ √© o √∫nico que ficou
 com o motor tremor.
 
 357
@@ -1643,7 +1643,7 @@ em troca do Batman.
 
 359
 00:28:19,549 --> 00:28:21,248
-Ent„o onde ele est·?
+Ent√£o onde ele est√°?
 
 360
 00:28:21,250 --> 00:28:22,452
@@ -1655,7 +1655,7 @@ Bem aqui.
 
 362
 00:28:30,760 --> 00:28:33,294
-NÛs lhe cercamos, Coringa.
+N√≥s lhe cercamos, Coringa.
 
 363
 00:28:34,364 --> 00:28:35,665
@@ -1667,7 +1667,7 @@ Peguem!
 
 365
 00:28:54,716 --> 00:28:55,915
-N„o!
+N√£o!
 
 366
 00:28:55,917 --> 00:28:58,085
@@ -1677,16 +1677,16 @@ Para onde nos leva?
 367
 00:28:58,087 --> 00:29:00,721
 Sabiamos que teria homens
-escondidos na ·gua.
+escondidos na √°gua.
 
 368
 00:29:00,723 --> 00:29:03,423
-… uma pena
-todos v„o morrer.
+√â uma pena
+todos v√£o morrer.
 
 369
 00:29:03,425 --> 00:29:05,795
-Ent„o por que n„o
+Ent√£o por que n√£o
 se junta a eles?
 
 370
@@ -1695,26 +1695,26 @@ Talvez numa outra hora.
 
 371
 00:29:19,642 --> 00:29:22,078
-VocÍ ainda est· condenado.
+Voc√™ ainda est√° condenado.
 
 372
 00:29:29,051 --> 00:29:32,455
-VocÍ subestima
+Voc√™ subestima
 seu oponente, Coringa.
 
 373
 00:29:33,522 --> 00:29:35,789
-Como vocÍ
+Como voc√™
 sempre faz.
 
 374
 00:29:35,791 --> 00:29:38,462
 Mas como?
-NÛs matamos vocÍ.
+N√≥s matamos voc√™.
 
 375
 00:29:41,163 --> 00:29:42,933
-J· ouviu falar de chamariz?
+J√° ouviu falar de chamariz?
 
 376
 00:29:59,816 --> 00:30:00,817
@@ -1722,7 +1722,7 @@ Oh.
 
 377
 00:30:25,340 --> 00:30:29,643
-Droga. Eu nunca imaginei vocÍ
+Droga. Eu nunca imaginei voc√™
 lado a lado com o Batman, Gorila Grodd.
 
 378
@@ -1742,22 +1742,22 @@ falante para me pegar
 
 381
 00:31:24,966 --> 00:31:27,768
-Estou t„o constrangido
-por vocÍ, Batman.
+Estou t√£o constrangido
+por voc√™, Batman.
 
 382
 00:31:27,770 --> 00:31:30,604
-N„o fique. Estou feliz
+N√£o fique. Estou feliz
 em desapontar.
 
 383
 00:31:30,606 --> 00:31:35,609
 Oh, eu teria cuidado. Se ele se virou
-contra mim, ele ir· se virar contra vocÍ.
+contra mim, ele ir√° se virar contra voc√™.
 
 384
 00:31:38,714 --> 00:31:42,182
-Sou t„o grato por sermos capazes
+Sou t√£o grato por sermos capazes
 de confiar um no outro
 
 385
@@ -1767,39 +1767,39 @@ Muito obrigado.
 386
 00:31:43,586 --> 00:31:46,921
 Mas neste mundo,
-confianÁa n„o significa nada.
+confian√ßa n√£o significa nada.
 
 387
 00:31:46,923 --> 00:31:50,657
-N„o vocÍ vai se submeter ao meu controle.
+N√£o voc√™ vai se submeter ao meu controle.
 
 388
 00:31:50,659 --> 00:31:53,729
-Cl„ morcego,
+Cl√£ morcego,
 destrua todos.
 
 389
 00:31:58,835 --> 00:32:01,234
-N„o podemos ser abalados
+N√£o podemos ser abalados
 por seus maus pensamentos.
 
 390
 00:32:01,236 --> 00:32:05,072
-NÛs temos o dominio sobre nossos
+N√≥s temos o dominio sobre nossos
 corpos e nossas mentes.
 
 391
 00:32:05,074 --> 00:32:06,606
-Ent„o vocÍ tem.
+Ent√£o voc√™ tem.
 
 392
 00:32:06,608 --> 00:32:09,011
-Ent„o se prepare
+Ent√£o se prepare
 para ser aniquilado.
 
 393
 00:32:21,090 --> 00:32:22,091
-L·!
+L√°!
 
 394
 00:32:28,330 --> 00:32:30,064
@@ -1807,7 +1807,7 @@ L·!
 
 395
 00:32:30,066 --> 00:32:33,599
-VocÍ se aliou ao
+Voc√™ se aliou ao
 Duas Caras, Gorila Grodd?
 
 396
@@ -1817,12 +1817,12 @@ Robin Vermelho.
 
 397
 00:32:37,574 --> 00:32:41,711
-VocÍ n„o sabia que Gorilla Grodd
-est· sempre dois passos a frente?
+Voc√™ n√£o sabia que Gorilla Grodd
+est√° sempre dois passos a frente?
 
 398
 00:32:47,450 --> 00:32:48,684
-N„o!
+N√£o!
 
 399
 00:32:51,921 --> 00:32:55,292
@@ -1846,11 +1846,11 @@ duarante a nossa luta.
 403
 00:33:06,603 --> 00:33:10,671
 Faz parte da sua
-maneira m·quina tremor, n„o faz?
+maneira m√°quina tremor, n√£o faz?
 
 404
 00:33:10,673 --> 00:33:13,074
-E o que vocÍ
+E o que voc√™
 quer em troca?
 
 405
@@ -1865,7 +1865,7 @@ Temos um acordo.
 407
 00:33:19,048 --> 00:33:21,651
 Eu pensei que
-poderiamos fazer negÛcios.
+poderiamos fazer neg√≥cios.
 
 408
 00:33:27,089 --> 00:33:28,857
@@ -1885,25 +1885,25 @@ Procurando por mim, Bats?
 
 412
 00:33:39,735 --> 00:33:42,035
-N„o faÁa isso, Coringa.
+N√£o fa√ßa isso, Coringa.
 
 413
 00:33:42,037 --> 00:33:44,939
-Precisamos ir! Ela n„o vai
+Precisamos ir! Ela n√£o vai
 flutuar por muito tempo.
 
 414
 00:33:44,941 --> 00:33:46,707
-Pegue os outros, v·!
+Pegue os outros, v√°!
 
 415
 00:33:46,709 --> 00:33:48,275
-E vocÍ?
+E voc√™?
 
 416
 00:33:48,277 --> 00:33:49,777
 Eu fico.
-Ele n„o vai fugir!
+Ele n√£o vai fugir!
 
 417
 00:33:49,779 --> 00:33:52,180
@@ -1911,21 +1911,21 @@ Oh, Estou lisongeado, Batman.
 
 418
 00:33:52,182 --> 00:33:54,714
-N„o n„o passamos muito
+N√£o n√£o passamos muito
 tempo juntos.
 
 419
 00:33:54,716 --> 00:33:56,683
-Somos t„o ocupados.
+Somos t√£o ocupados.
 
 420
 00:33:56,685 --> 00:34:00,820
 Para ser honesto, se Duas Caras tivesse
-matado vocÍ, eu nunca me perdoaria.
+matado voc√™, eu nunca me perdoaria.
 
 421
 00:34:00,822 --> 00:34:02,923
-Eu mereÁo
+Eu mere√ßo
 matar o Batman.
 
 422
@@ -1934,12 +1934,12 @@ matar o Batman.
 
 423
 00:34:04,359 --> 00:34:06,227
-VocÍ È louco.
+Voc√™ √© louco.
 Vai se matar.
 
 424
 00:34:06,229 --> 00:34:07,661
-Ugh! Isto È o que estou tentando
+Ugh! Isto √© o que estou tentando
 
 425
 00:34:07,663 --> 00:34:09,697
@@ -1953,15 +1953,15 @@ no inferno!
 
 427
 00:34:14,569 --> 00:34:15,772
-<i>Coringa, n„o!</i>
+<i>Coringa, n√£o!</i>
 
 428
 00:34:18,341 --> 00:34:20,977
-N„o!
+N√£o!
 
 429
 00:34:29,551 --> 00:34:32,321
-Hmm. Ent„o acabou.
+Hmm. Ent√£o acabou.
 
 430
 00:35:05,187 --> 00:35:06,189
@@ -1977,7 +1977,7 @@ Mmm.
 
 433
 00:35:35,017 --> 00:35:37,484
-As renovaÁıes est„o
+As renova√ß√µes est√£o
 quase completas.
 
 434
@@ -1986,17 +1986,17 @@ Contate os outros daimyos.
 
 435
 00:35:39,120 --> 00:35:41,788
-A batalha ser· em
+A batalha ser√° em
 Jigokukohara, o campo do inferno.
 
 436
 00:35:41,790 --> 00:35:43,493
 Veremos
-quem ser· o shogun.
+quem ser√° o shogun.
 
 437
 00:35:45,727 --> 00:35:48,328
-<i>E quando nÛs
+<i>E quando n√≥s
 iremos para casa?</i>
 
 438
@@ -2005,7 +2005,7 @@ Agora, em breve.
 
 439
 00:35:50,432 --> 00:35:54,100
-<i>Ainda precisamos obter trÍs
+<i>Ainda precisamos obter tr√™s
 conversores de energia</i>
 
 440
@@ -2015,8 +2015,8 @@ e Exterminador.</i>
 
 441
 00:35:56,506 --> 00:36:01,107
-<i>Ent„o o motor tremor estar· completo e
-podermos nos mover pelo tempo e pelo espaÁo.</i>
+<i>Ent√£o o motor tremor estar√° completo e
+podermos nos mover pelo tempo e pelo espa√ßo.</i>
 
 442
 00:36:01,109 --> 00:36:03,780
@@ -2025,8 +2025,8 @@ de sair da frente?</i>
 
 443
 00:36:05,915 --> 00:36:08,448
-Comer uma banana n„o È
-um pequeno clichÍ?
+Comer uma banana n√£o √©
+um pequeno clich√™?
 
 444
 00:36:08,450 --> 00:36:11,421
@@ -2053,7 +2053,7 @@ Entendo.
 
 449
 00:36:45,086 --> 00:36:46,553
-<i>Bem, o que È isso?</i>
+<i>Bem, o que √© isso?</i>
 
 450
 00:36:46,555 --> 00:36:48,689
@@ -2061,8 +2061,8 @@ Aeon trouxe, senhor.
 
 451
 00:36:48,691 --> 00:36:52,091
-<i>Ele disse que È a lend·ria m·scara
-do cl„ morcego</i>
+<i>Ele disse que √© a lend√°ria m√°scara
+do cl√£ morcego</i>
 
 452
 00:36:52,093 --> 00:36:54,997
@@ -2071,16 +2071,16 @@ pelo seu dono de direito.</i>
 
 453
 00:37:19,421 --> 00:37:20,988
-N„o tenho nada.
+N√£o tenho nada.
 
 454
 00:37:20,990 --> 00:37:22,991
-Nenhum veÌculo
+Nenhum ve√≠culo
 ou armas.
 
 455
 00:37:24,493 --> 00:37:27,426
-Eu n„o sabia
+Eu n√£o sabia
 mais quem eu era.
 
 456
@@ -2099,7 +2099,7 @@ porque eu estava cego
 
 459
 00:37:40,776 --> 00:37:43,879
-para a traiÁ„o de Grodd,
+para a trai√ß√£o de Grodd,
 mas finalmente para mim mesmo.
 
 460
@@ -2109,7 +2109,7 @@ em me chamar de mestre.
 
 461
 00:37:48,984 --> 00:37:50,718
-Ent„o o que vai fazer?
+Ent√£o o que vai fazer?
 
 462
 00:37:50,720 --> 00:37:52,086
@@ -2117,7 +2117,7 @@ Apenas pendurar-se?
 
 463
 00:37:52,088 --> 00:37:54,988
-O que eu sempre faÁo,
+O que eu sempre fa√ßo,
 Eu vou lutar.
 
 464
@@ -2127,7 +2127,7 @@ Eu estava errado.
 465
 00:37:56,926 --> 00:37:58,491
 Eu pensei
-que n„o tinha nada.
+que n√£o tinha nada.
 
 466
 00:37:58,493 --> 00:38:00,560
@@ -2141,11 +2141,11 @@ meu corpo, meu espirito...
 
 468
 00:38:08,403 --> 00:38:09,504
-e tenho todos vocÍs.
+e tenho todos voc√™s.
 
 469
 00:38:10,439 --> 00:38:12,375
-Isto È mais que suficiente.
+Isto √© mais que suficiente.
 
 470
 00:38:19,747 --> 00:38:22,750
@@ -2155,7 +2155,7 @@ tem suas proprias regras.</i>
 471
 00:38:22,752 --> 00:38:26,456
 E se quisermos ganhar,
-È hora de jogar conforme as regras.
+√© hora de jogar conforme as regras.
 
 472
 00:38:27,589 --> 00:38:28,922
@@ -2163,17 +2163,17 @@ Eu juro
 
 473
 00:38:28,924 --> 00:38:31,026
-sua fÈ em mim
-n„o ser· desperdiÁada.
+sua f√© em mim
+n√£o ser√° desperdi√ßada.
 
 474
 00:38:33,162 --> 00:38:35,430
-<i>NÛs iremos dominar
+<i>N√≥s iremos dominar
 os caminhos do ninja.</i>
 
 475
 00:38:36,798 --> 00:38:40,868
-nossas armas ser„o
+nossas armas ser√£o
 tudo o que existe.
 
 476
@@ -2187,7 +2187,7 @@ E vou transformar a sua lenda
 478
 00:38:52,080 --> 00:38:54,814
 <i>As tecnicas ninjas
-s„o extremamente eficientes.</i>
+s√£o extremamente eficientes.</i>
 
 479
 00:38:54,816 --> 00:38:56,750
@@ -2200,12 +2200,12 @@ habilidades marciais</i>
 
 481
 00:38:58,754 --> 00:39:00,953
-<i>Grodd n„o saber· o que o atingiu.</i>
+<i>Grodd n√£o saber√° o que o atingiu.</i>
 
 482
 00:39:00,955 --> 00:39:03,323
 <i>Se eles nos atacarem com a fortaleza
-movel, vamos agir mais r·pido que eles</i>
+movel, vamos agir mais r√°pido que eles</i>
 
 483
 00:39:03,325 --> 00:39:05,926
@@ -2218,21 +2218,21 @@ movel, vamos agir mais r·pido que eles</i>
 485
 00:39:07,997 --> 00:39:10,397
 <i>A habilidade dos ferreiros
-ninja È incrÌvel.</i>
+ninja √© incr√≠vel.</i>
 
 486
 00:39:10,399 --> 00:39:14,500
-<i>A precis„o de suas armas n„o È equiparada
-nem mesmo pelos padıes do sÈculo 21.</i>
+<i>A precis√£o de suas armas n√£o √© equiparada
+nem mesmo pelos pad√µes do s√©culo 21.</i>
 
 487
 00:39:17,071 --> 00:39:20,140
-<i>A vida selvagem daqui È excepcional.</i>
+<i>A vida selvagem daqui √© excepcional.</i>
 
 488
 00:39:20,142 --> 00:39:21,875
 <i>Estou planejando uma dieta
-rica em proteÌnas.</i>
+rica em prote√≠nas.</i>
 
 489
 00:39:21,877 --> 00:39:24,845
@@ -2246,15 +2246,15 @@ para o jantar hoje a noite, senhor?</i>
 491
 00:39:27,048 --> 00:39:29,817
 <i>Quando o trigo estiver pronto para a
-colheita, poderemos prepara p„o fresco.</i>
+colheita, poderemos prepara p√£o fresco.</i>
 
 492
 00:39:29,819 --> 00:39:32,419
-<i>Bem, vocÍ sabe o que dizem,</i>
+<i>Bem, voc√™ sabe o que dizem,</i>
 
 493
 00:39:32,421 --> 00:39:34,754
-<i>Guerras s„o vencidas com estomagos cheios.</i>
+<i>Guerras s√£o vencidas com estomagos cheios.</i>
 
 494
 00:39:34,756 --> 00:39:36,790
@@ -2292,11 +2292,11 @@ Ah, sim, claro.
 501
 00:40:28,444 --> 00:40:31,414
 Ah,
-vocÍ deve estar exausto.
+voc√™ deve estar exausto.
 
 502
 00:40:35,850 --> 00:40:40,120
-… um dia bem quente para um
+√â um dia bem quente para um
 monge budista viajar.
 
 503
@@ -2309,8 +2309,8 @@ Pare! Pare por favor!
 
 505
 00:40:53,035 --> 00:40:55,705
-Se n„o mostrar o seu rosto,
-vou quebra seu braÁo.
+Se n√£o mostrar o seu rosto,
+vou quebra seu bra√ßo.
 
 506
 00:40:57,673 --> 00:40:59,772
@@ -2323,12 +2323,12 @@ Certo, certo, certo.
 508
 00:41:05,914 --> 00:41:09,982
 Disseram que estava morto,
-mas n„o acreditei.
+mas n√£o acreditei.
 
 509
 00:41:09,984 --> 00:41:12,220
-Ent„o estive
-procurando por vocÍ.
+Ent√£o estive
+procurando por voc√™.
 
 510
 00:41:12,687 --> 00:41:14,154
@@ -2336,7 +2336,7 @@ Coringa?
 
 511
 00:41:14,156 --> 00:41:16,689
-Por que vocÍ insiste em me chamar assim?
+Por que voc√™ insiste em me chamar assim?
 
 512
 00:41:16,691 --> 00:41:18,825
@@ -2344,15 +2344,15 @@ Adimita!
 
 513
 00:41:18,827 --> 00:41:21,729
-N„o! N„o! Minha querida!
+N√£o! N√£o! Minha querida!
 
 514
 00:41:21,731 --> 00:41:24,600
-N„o, n„o, vocÍ È maluco?
+N√£o, n√£o, voc√™ √© maluco?
 
 515
 00:41:25,568 --> 00:41:28,134
-Acha que sou est˙pido?
+Acha que sou est√∫pido?
 
 516
 00:41:28,136 --> 00:41:30,069
@@ -2369,7 +2369,7 @@ Querida?
 
 519
 00:41:34,176 --> 00:41:36,910
-VocÍ tambÈm!
+Voc√™ tamb√©m!
 Arlequina!
 
 520
@@ -2388,15 +2388,15 @@ Por favor. Por favor.</i>
 
 523
 00:41:57,932 --> 00:42:00,234
-Eu n„o entendo.
+Eu n√£o entendo.
 
 524
 00:42:00,236 --> 00:42:02,468
-Eu n„o sou quem pensa que sou.
+Eu n√£o sou quem pensa que sou.
 
 525
 00:42:02,470 --> 00:42:04,873
-VocÍ ainda vai negar isso...
+Voc√™ ainda vai negar isso...
 
 526
 00:42:23,091 --> 00:42:25,825
@@ -2408,30 +2408,30 @@ VocÍ ainda vai negar isso...
 
 528
 00:42:29,798 --> 00:42:32,466
-<i>O mesmo que vocÍ.</i>
+<i>O mesmo que voc√™.</i>
 
 529
 00:42:32,468 --> 00:42:35,067
-Eu ouvi que vocÍ tinha encontrado
+Eu ouvi que voc√™ tinha encontrado
 o Coringa e Arlequina.
 
 530
 00:42:35,069 --> 00:42:38,807
 Boatos de fazendeiros estrangeiros
-na ·rea correspondem com a descriÁ„o.
+na √°rea correspondem com a descri√ß√£o.
 
 531
 00:42:51,919 --> 00:42:54,687
-<i>Ent„o, vocÍs n„o
+<i>Ent√£o, voc√™s n√£o
 se lembram de nada?</i>
 
 532
 00:42:54,689 --> 00:42:56,557
-<i>N„o.</i>
+<i>N√£o.</i>
 
 533
 00:42:56,559 --> 00:42:59,658
-NÛs n„o conseguimos nos lembrar
+N√≥s n√£o conseguimos nos lembrar
 de nada do nosso passado.
 
 534
@@ -2450,16 +2450,16 @@ campos juntos.
 
 537
 00:43:10,571 --> 00:43:12,372
-N„o deixe eles te enganarem, Batman.
+N√£o deixe eles te enganarem, Batman.
 
 538
 00:43:12,374 --> 00:43:14,707
-Est„o com os mesmos
+Est√£o com os mesmos
 velhos truques.
 
 539
 00:43:14,709 --> 00:43:16,811
-Eu n„o estou certo,
+Eu n√£o estou certo,
 Capuz Vermelho.
 
 540
@@ -2488,11 +2488,11 @@ esposa e eu estamos sempre dizendo
 
 545
 00:43:44,173 --> 00:43:45,941
-… como se tivessemos renascido.
+√â como se tivessemos renascido.
 
 546
 00:43:47,376 --> 00:43:51,176
-<i>Querida, r·pido!
+<i>Querida, r√°pido!
 Venha, olhe!</i>
 
 547
@@ -2507,7 +2507,7 @@ Tem que ver isso.</i>
 549
 00:43:56,352 --> 00:43:58,250
 Um broto,
-vocÍ est· de brincadeira?
+voc√™ est√° de brincadeira?
 
 550
 00:43:58,252 --> 00:43:59,986
@@ -2515,22 +2515,22 @@ Chega!
 
 551
 00:43:59,988 --> 00:44:03,323
-Isso È diferente. Eu fui enganado
+Isso √© diferente. Eu fui enganado
 por eles antes.
 
 552
 00:44:03,325 --> 00:44:05,993
-<i>N„o existe a mesma
+<i>N√£o existe a mesma
 loucura nos olhos deles.</i>
 
 553
 00:44:05,995 --> 00:44:10,330
-<i>Se vocÍ o conhecesse como conheÁo, saberia que
+<i>Se voc√™ o conhecesse como conhe√ßo, saberia que
 ele nunca conseguiria esconder esta parte dele.</i>
 
 554
 00:44:10,332 --> 00:44:12,698
-<i>… o que faz dele o que ele È.</i>
+<i>√â o que faz dele o que ele √©.</i>
 
 555
 00:44:25,312 --> 00:44:27,546
@@ -2539,7 +2539,7 @@ Oh, querida.
 556
 00:44:29,450 --> 00:44:32,520
 Conseguimos.
-Est„o finalmente crescendo.
+Est√£o finalmente crescendo.
 
 557
 00:44:35,223 --> 00:44:37,089
@@ -2547,21 +2547,21 @@ Bruce...
 
 558
 00:44:37,091 --> 00:44:40,493
-Ele n„o È o Coringa.
-Ao menos, n„o mais.
+Ele n√£o √© o Coringa.
+Ao menos, n√£o mais.
 
 559
 00:44:40,495 --> 00:44:42,962
-Ambos perderam a memÛria
-durante a explos„o.
+Ambos perderam a mem√≥ria
+durante a explos√£o.
 
 560
 00:44:42,964 --> 00:44:44,598
-N„o h· necessidade de incomoda-los.
+N√£o h√° necessidade de incomoda-los.
 
 561
 00:44:44,600 --> 00:44:46,000
-VocÍ n„o pode estar falando sÈrio.
+Voc√™ n√£o pode estar falando s√©rio.
 
 562
 00:44:46,002 --> 00:44:47,633
@@ -2579,7 +2579,7 @@ apenas ficar de olho neles.
 
 565
 00:44:53,809 --> 00:44:55,711
-<i>Eles n„o v„o machucar ninguem.</i>
+<i>Eles n√£o v√£o machucar ninguem.</i>
 
 566
 00:44:58,781 --> 00:45:01,017
@@ -2592,7 +2592,7 @@ Espero que esteja certo.
 
 568
 00:45:45,260 --> 00:45:47,393
-ConstruÁ„o completa.
+Constru√ß√£o completa.
 
 569
 00:45:47,395 --> 00:45:52,868
@@ -2606,16 +2606,16 @@ Castelo Arkham, erga-se!
 571
 00:46:33,040 --> 00:46:36,341
 Aquela macaco malandro
-est· finalmente em aÁ„o.
+est√° finalmente em a√ß√£o.
 
 572
 00:46:36,343 --> 00:46:40,749
-Vamos pegar o que È nosso e
-emplumar o ninho que construÌmos.
+Vamos pegar o que √© nosso e
+emplumar o ninho que constru√≠mos.
 
 573
 00:46:42,785 --> 00:46:46,453
-Voe! castelo do homem pass·ro troiano.
+Voe! castelo do homem pass√°ro troiano.
 
 574
 00:46:46,455 --> 00:46:48,788
@@ -2623,12 +2623,12 @@ Abra suas asas!
 
 575
 00:46:48,790 --> 00:46:52,192
-N„o vou permitir
-que este paraÌso seja destruido
+N√£o vou permitir
+que este para√≠so seja destruido
 
 576
 00:46:52,194 --> 00:46:54,528
-pelas maquinaÁıes do homem.
+pelas maquina√ß√µes do homem.
 
 577
 00:46:54,530 --> 00:46:57,497
@@ -2636,7 +2636,7 @@ Castelo de veneno de plantas Juroku.
 
 578
 00:46:57,499 --> 00:47:00,935
-CresÁa. E deixe que colham o que semeamos.
+Cres√ßa. E deixe que colham o que semeamos.
 
 579
 00:47:03,171 --> 00:47:05,171
@@ -2644,13 +2644,13 @@ CresÁa. E deixe que colham o que semeamos.
 
 580
 00:47:05,173 --> 00:47:08,942
-Agora finalmente veremos quem È o
-mais poderoso senhor da guerra do Jap„o.
+Agora finalmente veremos quem √© o
+mais poderoso senhor da guerra do Jap√£o.
 
 581
 00:47:08,944 --> 00:47:13,346
-Castelo de Gakuju Sharaso explodir·
-todos vocÍs.
+Castelo de Gakuju Sharaso explodir√°
+todos voc√™s.
 
 582
 00:47:13,348 --> 00:47:14,549
@@ -2668,24 +2668,24 @@ no campo do inferno
 
 585
 00:47:23,057 --> 00:47:27,729
-<i>O castelo Fudo Omote do Duas Caras se encontrar·
-com eles, e decidir· o destino do Jap„o.</i>
+<i>O castelo Fudo Omote do Duas Caras se encontrar√°
+com eles, e decidir√° o destino do Jap√£o.</i>
 
 586
 00:47:50,118 --> 00:47:51,787
-Um Ûtimo ch·, Alfred.
+Um √≥timo ch√°, Alfred.
 
 587
 00:47:52,655 --> 00:47:53,856
-O prazer È meu.
+O prazer √© meu.
 
 588
 00:47:55,189 --> 00:47:57,656
-Todos os catelos daimyo est„o se movendo.
+Todos os catelos daimyo est√£o se movendo.
 
 589
 00:47:57,658 --> 00:47:58,861
-Esta È a nossa chance.
+Esta √© a nossa chance.
 
 590
 00:48:00,194 --> 00:48:04,363
@@ -2694,25 +2694,25 @@ para esmagar a todos.
 
 591
 00:48:04,365 --> 00:48:07,936
-Ent„o relamente merecer·
+Ent√£o relamente merecer√°
 o nome "o campo do inferno"
 
 592
 00:48:09,303 --> 00:48:11,071
-Mas o que importa È que
+Mas o que importa √© que
 
 593
 00:48:11,073 --> 00:48:13,174
 os conversores e o motor tremor
-estar„o no mesmo lugar.
+estar√£o no mesmo lugar.
 
 594
 00:48:14,642 --> 00:48:16,542
-… isso.
+√â isso.
 
 595
 00:48:16,544 --> 00:48:18,745
-Esta È a nossa oportunidade
+Esta √© a nossa oportunidade
 
 596
 00:48:18,747 --> 00:48:21,484
@@ -2721,20 +2721,20 @@ de derrota-los e retornar a Gotham.
 597
 00:48:23,385 --> 00:48:26,852
 <i>lembrem-se, as maquinas,
-n„o importa qu„o grande,</i>
+n√£o importa qu√£o grande,</i>
 
 598
 00:48:26,854 --> 00:48:29,156
-ainda s„o controladas por humanos.
+ainda s√£o controladas por humanos.
 
 599
 00:48:29,158 --> 00:48:32,024
 Se pudermos derrotar as pessoas
-dentro das m·quinas,
+dentro das m√°quinas,
 
 600
 00:48:32,026 --> 00:48:33,796
-ent„o temos uma chance de lutar.
+ent√£o temos uma chance de lutar.
 
 601
 00:48:34,528 --> 00:48:36,095
@@ -2746,11 +2746,11 @@ ent„o temos uma chance de lutar.
 
 603
 00:48:39,001 --> 00:48:41,667
-Eu n„o sou mais o Batman.
+Eu n√£o sou mais o Batman.
 
 604
 00:48:41,669 --> 00:48:44,604
-Eu serei o que o cl„ morcego me chama.
+Eu serei o que o cl√£ morcego me chama.
 
 605
 00:48:44,606 --> 00:48:46,705
@@ -2758,8 +2758,8 @@ Eu serei o que o cl„ morcego me chama.
 
 606
 00:48:46,707 --> 00:48:51,310
-<i>Eu serie o legend·rio ninja que
-trar· paz para a terra deles.</i>
+<i>Eu serie o legend√°rio ninja que
+trar√° paz para a terra deles.</i>
 
 607
 00:48:51,312 --> 00:48:52,615
@@ -2771,7 +2771,7 @@ trar· paz para a terra deles.</i>
 
 609
 00:49:19,540 --> 00:49:23,475
-Este Pinguim se move t„o rapidamente
+Este Pinguim se move t√£o rapidamente
 na terra como faz no mar!
 
 610
@@ -2795,7 +2795,7 @@ armadilha voadora.
 
 614
 00:49:39,260 --> 00:49:44,497
-<i>TransformaÁ„o montanha do
+<i>Transforma√ß√£o montanha do
 vento do fogo florestal.</i>
 
 615
@@ -2808,7 +2808,7 @@ Dois podem jogar este jogo.
 
 617
 00:49:48,903 --> 00:49:52,106
-<i>transformaÁ„o multid„o de flores.</i>
+<i>transforma√ß√£o multid√£o de flores.</i>
 
 618
 00:49:57,979 --> 00:49:59,846
@@ -2820,8 +2820,8 @@ No alvo.
 
 620
 00:50:02,084 --> 00:50:05,151
-<i>TransformaÁ„o artilharia
-centena de canhıes.</i>
+<i>Transforma√ß√£o artilharia
+centena de canh√µes.</i>
 
 621
 00:50:05,153 --> 00:50:06,586
@@ -2850,15 +2850,15 @@ Deixe ele para mim.
 
 627
 00:50:43,624 --> 00:50:46,961
-<i>TransformaÁ„o Duas Caras!</i>
+<i>Transforma√ß√£o Duas Caras!</i>
 
 628
 00:50:52,133 --> 00:50:53,600
-Olha! L·.
+Olha! L√°.
 
 629
 00:50:53,602 --> 00:50:55,337
-RobÙs gigantes?
+Rob√¥s gigantes?
 
 630
 00:51:08,450 --> 00:51:10,515
@@ -2874,7 +2874,7 @@ Acabem com eles!
 
 633
 00:51:18,760 --> 00:51:20,826
-Atr·s de nÛs.
+Atr√°s de n√≥s.
 
 634
 00:51:20,828 --> 00:51:23,231
@@ -2895,8 +2895,8 @@ Eu aprecio sua lealdade, Duas Caras.
 
 638
 00:51:55,796 --> 00:51:59,233
-Claro. AtÈ a moeda
-me disser o contr·rio.
+Claro. At√© a moeda
+me disser o contr√°rio.
 
 639
 00:52:03,539 --> 00:52:06,439
@@ -2914,12 +2914,12 @@ membro a membro, Grodd.
 
 642
 00:52:16,251 --> 00:52:20,285
-… f·cil de entendar
+√â f√°cil de entendar
 as leis da probabilidade
 
 643
 00:52:21,290 --> 00:52:23,392
-… apenas uma qust„o de tempo
+√â apenas uma qust√£o de tempo
 
 644
 00:52:25,660 --> 00:52:26,862
@@ -2944,25 +2944,25 @@ Bem, isso foi legal.
 
 649
 00:53:22,249 --> 00:53:26,220
-Ë hora de ir aos negÛcios.
+√® hora de ir aos neg√≥cios.
 
 650
 00:54:05,993 --> 00:54:07,627
-O que vocÍ est· fazendo agora?
+O que voc√™ est√° fazendo agora?
 
 651
 00:54:07,629 --> 00:54:12,434
 Todos os criminosos de Gotham
-agora est„o sob meu controle mental.
+agora est√£o sob meu controle mental.
 
 652
 00:54:15,102 --> 00:54:17,069
-<i>O que eles n„o sabem</i>
+<i>O que eles n√£o sabem</i>
 
 653
 00:54:17,071 --> 00:54:21,239
-È que eu os manipulei para
-construir suas fortalezas tambÈm.
+√© que eu os manipulei para
+construir suas fortalezas tamb√©m.
 
 654
 00:54:21,241 --> 00:54:23,341
@@ -2971,11 +2971,11 @@ aquela tecnologia?</i>
 
 655
 00:54:23,343 --> 00:54:26,212
-Eles s„o peÁas de uma quebra cabeÁas maior.
+Eles s√£o pe√ßas de uma quebra cabe√ßas maior.
 
 656
 00:54:26,214 --> 00:54:30,383
-<i>Como as provÌncias feudais do Jap„o.</i>
+<i>Como as prov√≠ncias feudais do Jap√£o.</i>
 
 657
 00:54:30,385 --> 00:54:32,685
@@ -2987,19 +2987,19 @@ Desculpe quebra a promessa...
 
 659
 00:54:36,357 --> 00:54:39,024
-mas vocÍ n„o vai a lugar nenhum.
+mas voc√™ n√£o vai a lugar nenhum.
 
 660
 00:54:39,026 --> 00:54:42,028
-Eu vou governar este paÌs
+Eu vou governar este pa√≠s
 
 661
 00:54:42,030 --> 00:54:45,297
-e transfor·-lo em um reino de macacos,
+e transfor√°-lo em um reino de macacos,
 
 662
 00:54:45,299 --> 00:54:47,933
-<i>e reescrever a histÛria do mundo!</i>
+<i>e reescrever a hist√≥ria do mundo!</i>
 
 663
 00:55:01,481 --> 00:55:03,217
@@ -3020,7 +3020,7 @@ que entre o novo
 
 667
 00:55:32,280 --> 00:55:34,747
-Sem troca ou devoluÁ„o
+Sem troca ou devolu√ß√£o
 
 668
 00:55:37,019 --> 00:55:38,084
@@ -3028,20 +3028,20 @@ Coringa?
 
 669
 00:55:38,086 --> 00:55:39,551
-N„o pode ser.
+N√£o pode ser.
 
 670
 00:55:39,553 --> 00:55:41,187
-Ol·, Bats.
+Ol√°, Bats.
 
 671
 00:55:41,189 --> 00:55:45,060
-VocÍ j· deveria saber que n„o
+Voc√™ j√° deveria saber que n√£o
 pode acalmar um homem louco.
 
 672
 00:55:53,334 --> 00:55:56,602
-VocÍ nunca quer chegar
+Voc√™ nunca quer chegar
 cedo demais para uma festa.
 
 673
@@ -3050,30 +3050,30 @@ Certo?
 
 674
 00:56:00,874 --> 00:56:03,575
-Ol·, gatinha bonitinha.
+Ol√°, gatinha bonitinha.
 
 675
 00:56:03,577 --> 00:56:07,546
-VocÍ nos pegou de surpresa
+Voc√™ nos pegou de surpresa
 la no lago, Grodd.
 
 676
 00:56:07,548 --> 00:56:10,249
-Mas agora È hora
+Mas agora √© hora
 de um receber de volta
 
 677
 00:56:10,251 --> 00:56:14,520
-A paralisia n„o È permante, mas
+A paralisia n√£o √© permante, mas
 estamos pensando em aumentar a dose
 
 678
 00:56:14,522 --> 00:56:17,025
-Era tem as melhores plantas, n„o acha?
+Era tem as melhores plantas, n√£o acha?
 
 679
 00:56:17,792 --> 00:56:19,125
-DesgraÁado.
+Desgra√ßado.
 
 680
 00:56:19,127 --> 00:56:20,292
@@ -3081,20 +3081,20 @@ Agora, agora, agora,
 
 681
 00:56:20,294 --> 00:56:22,060
-N„o v· se esforÁar demais
+N√£o v√° se esfor√ßar demais
 
 682
 00:56:22,062 --> 00:56:23,962
-N„o que vocÍ possa se mover
+N√£o que voc√™ possa se mover
 de qualquer forma...
 
 683
 00:56:23,964 --> 00:56:25,667
-VocÍ tambÈm, gatinha.
+Voc√™ tamb√©m, gatinha.
 
 684
 00:56:28,903 --> 00:56:33,372
-Agora, em uma reviravolta dram·tica de eventos
+Agora, em uma reviravolta dram√°tica de eventos
 o Coringuinha assume o plano do Grodd.
 
 685
@@ -3107,15 +3107,15 @@ Batman!
 
 687
 00:57:03,905 --> 00:57:05,971
-… t„o dificil ser um heroi.
+√â t√£o dificil ser um heroi.
 
 688
 00:57:17,385 --> 00:57:19,819
-Todos est„o bem?
+Todos est√£o bem?
 
 689
 00:57:19,821 --> 00:57:23,355
-N„o pense que n„o notei vocÍ
+N√£o pense que n√£o notei voc√™
 salvando Grodd antes de mim.
 
 690
@@ -3124,7 +3124,7 @@ Mas, obrigado, Batman.
 
 691
 00:57:26,361 --> 00:57:29,227
-Vejo que o g·s n„o
+Vejo que o g√°s n√£o
 diminuiu a sua atitude.
 
 692
@@ -3134,12 +3134,12 @@ esteja conosco, Mulher Gato.
 
 693
 00:57:35,336 --> 00:57:39,837
-Ent„o, o que agora, pudim? Parece que essa
-coisa ainda est· ligada em seus cÈrebros.
+Ent√£o, o que agora, pudim? Parece que essa
+coisa ainda est√° ligada em seus c√©rebros.
 
 694
 00:57:39,839 --> 00:57:44,046
-Bem, ent„o È hora de jogar
+Bem, ent√£o √© hora de jogar
 alguns jogos mentais.
 
 695
@@ -3161,16 +3161,16 @@ Lorde Coringa!
 
 699
 00:59:01,388 --> 00:59:04,857
-Nossa! Aquela coisa È enorme.
+Nossa! Aquela coisa √© enorme.
 
 700
 00:59:04,859 --> 00:59:09,962
-Est· engenhoca È muito melhor
+Est√° engenhoca √© muito melhor
 que imaginei, Gorila Grodd!
 
 701
 00:59:09,964 --> 00:59:13,165
-Este paÌs vai pertencer ao Coringa.
+Este pa√≠s vai pertencer ao Coringa.
 
 702
 00:59:13,167 --> 00:59:14,767
@@ -3179,11 +3179,11 @@ Agora vamos ver.
 703
 00:59:14,769 --> 00:59:18,035
 Que tipo de caos
-um super robÙ pode desencadear.
+um super rob√¥ pode desencadear.
 
 704
 00:59:24,611 --> 00:59:26,647
-R·pido, Saia daÌ.
+R√°pido, Saia da√≠.
 
 705
 00:59:42,863 --> 00:59:44,198
@@ -3199,7 +3199,7 @@ Robin!
 
 708
 00:59:59,580 --> 01:00:02,616
-<i>Ooh, isso foi f·cil.
+<i>Ooh, isso foi f√°cil.
 E agora?</i>
 
 709
@@ -3208,11 +3208,11 @@ Acho que poderia tirar uma soneca.
 
 710
 01:00:16,263 --> 01:00:17,696
-Ent„o e agora?
+Ent√£o e agora?
 
 711
 01:00:17,698 --> 01:00:19,330
-Ele est· muito machucado
+Ele est√° muito machucado
 
 712
 01:00:21,702 --> 01:00:22,703
@@ -3224,7 +3224,7 @@ Pode usar isto.
 
 714
 01:00:31,211 --> 01:00:33,781
-Controla meu exÈrcito de macacos.
+Controla meu ex√©rcito de macacos.
 
 715
 01:00:35,649 --> 01:00:38,252
@@ -3259,11 +3259,11 @@ O que?
 
 722
 01:01:28,135 --> 01:01:29,536
-Tem milhıes.
+Tem milh√µes.
 
 723
 01:01:45,919 --> 01:01:49,988
-Eu posso senti-los. Est„o
+Eu posso senti-los. Est√£o
 subindo em mim.
 
 724
@@ -3272,7 +3272,7 @@ subindo em mim.
 
 725
 01:01:55,495 --> 01:01:56,562
-Eles n„o v„o aguentar.
+Eles n√£o v√£o aguentar.
 
 726
 01:01:58,533 --> 01:01:59,864
@@ -3280,28 +3280,28 @@ Monmi.
 
 727
 01:01:59,866 --> 01:02:02,067
-Quem È ela?
+Quem √© ela?
 
 728
 01:02:02,069 --> 01:02:03,071
-VocÍ conseguiu.
+Voc√™ conseguiu.
 
 729
 01:02:03,838 --> 01:02:05,006
-T„o irritante!
+T√£o irritante!
 
 730
 01:02:35,002 --> 01:02:38,506
-Se os caras maus v„o se unir,
-ent„o tambÈm iremos.
+Se os caras maus v√£o se unir,
+ent√£o tamb√©m iremos.
 
 731
 01:02:39,506 --> 01:02:41,540
-Chega de macaquear por aÌ!
+Chega de macaquear por a√≠!
 
 732
 01:02:41,542 --> 01:02:43,678
-<i>Vou te fazer em pedaÁos.</i>
+<i>Vou te fazer em peda√ßos.</i>
 
 733
 01:02:55,856 --> 01:02:58,857
@@ -3320,7 +3320,7 @@ incrivel poder dos macacos.
 
 736
 01:03:05,031 --> 01:03:09,002
-<i>Juntos, ir„o liberar
+<i>Juntos, ir√£o liberar
 um golpe devastador!</i>
 
 737
@@ -3333,8 +3333,8 @@ Vamos!
 
 739
 01:03:20,481 --> 01:03:22,281
-Ataque o robÙ
-enquanto est· caÌdo.
+Ataque o rob√¥
+enquanto est√° ca√≠do.
 
 740
 01:03:22,283 --> 01:03:23,616
@@ -3344,11 +3344,11 @@ enquanto est· caÌdo.
 741
 01:03:23,618 --> 01:03:24,917
 Estou deixando
-a flauta com vocÍ.
+a flauta com voc√™.
 
 742
 01:03:26,586 --> 01:03:28,988
-Bruce, eu vou com vocÍ.
+Bruce, eu vou com voc√™.
 
 743
 01:03:28,990 --> 01:03:31,693
@@ -3365,11 +3365,11 @@ uma garota que o traiu.
 
 746
 01:03:39,399 --> 01:03:42,069
-Macaco vÍ, macaco faz.
+Macaco v√™, macaco faz.
 
 747
 01:03:47,908 --> 01:03:52,611
-<i>N„o È como vocÍ cai,
+<i>N√£o √© como voc√™ cai,
 mas como se levanta que conta.</i>
 
 748
@@ -3378,7 +3378,7 @@ Tudo bem.
 
 749
 01:04:01,421 --> 01:04:04,156
-Parece mais negÛcio de macaco.
+Parece mais neg√≥cio de macaco.
 
 750
 01:04:04,158 --> 01:04:06,625
@@ -3386,7 +3386,7 @@ Arlequina, temos convidados!
 
 751
 01:04:07,961 --> 01:04:10,796
-Por que n„o os cumprimenta
+Por que n√£o os cumprimenta
 com um beijo quente?
 
 752
@@ -3400,11 +3400,11 @@ Abaixa!
 754
 01:04:44,064 --> 01:04:45,966
 - Robin.
-- N„o!
+- N√£o!
 
 755
 01:05:03,316 --> 01:05:05,686
-Mestre, ao seu serviÁo.
+Mestre, ao seu servi√ßo.
 
 756
 01:05:11,691 --> 01:05:15,694
@@ -3413,7 +3413,7 @@ o que, de novo? Eu odeio morcegos!
 757
 01:05:15,696 --> 01:05:19,867
 Vai, Vai, Vai! Shoo, shoo! Sai daqui,
-seu morcego est˙pido!
+seu morcego est√∫pido!
 
 758
 01:05:20,366 --> 01:05:21,933
@@ -3430,7 +3430,7 @@ Batman?
 761
 01:05:52,432 --> 01:05:55,235
 Contemplem, o poderoso Deus
-Morcego diante de nÛs.
+Morcego diante de n√≥s.
 
 762
 01:06:00,339 --> 01:06:02,274
@@ -3474,18 +3474,18 @@ da sua cara.
 
 772
 01:07:44,377 --> 01:07:48,680
-Era Venenosa, vocÍ sabe que n„o
-È uma planta de verdade, certo?
+Era Venenosa, voc√™ sabe que n√£o
+√© uma planta de verdade, certo?
 
 773
 01:07:51,919 --> 01:07:54,852
-Vejo que est· de volta
+Vejo que est√° de volta
 ao seu antigo eu novamente.
 
 774
 01:07:54,854 --> 01:07:58,425
 Eu estava convencido que
-havia perdido a sua memÛria, Coringa.
+havia perdido a sua mem√≥ria, Coringa.
 
 775
 01:07:59,260 --> 01:08:00,825
@@ -3493,7 +3493,7 @@ Sim, sobre aquilo.
 
 776
 01:08:00,827 --> 01:08:03,928
-Eu perdi a memÛria.
+Eu perdi a mem√≥ria.
 Eu era um homem decente.
 
 777
@@ -3506,13 +3506,13 @@ Mas eu tive que fazer isso!
 
 779
 01:08:09,502 --> 01:08:11,803
-<i>Era a ˙nica maneira
+<i>Era a √∫nica maneira
 de ter uma vantagem.</i>
 
 780
 01:08:11,805 --> 01:08:16,841
 Eu me hipnotizei para acreditar ser outra
-pessoa, assim vocÍ tambÈm acreditaria.
+pessoa, assim voc√™ tamb√©m acreditaria.
 
 781
 01:08:16,843 --> 01:08:21,883
@@ -3521,11 +3521,11 @@ me levar de volta a insanidade.
 
 782
 01:08:24,884 --> 01:08:26,518
-<i>NÛs conseguimos!</i>
+<i>N√≥s conseguimos!</i>
 
 783
 01:08:26,520 --> 01:08:28,153
-<i>Est„o crescendo finalmente.</i>
+<i>Est√£o crescendo finalmente.</i>
 
 784
 01:08:38,366 --> 01:08:41,533
@@ -3533,7 +3533,7 @@ Arlequina, prepare-se.
 
 785
 01:08:41,535 --> 01:08:43,869
-N„o posso esperar, Sr. C.
+N√£o posso esperar, Sr. C.
 
 786
 01:08:57,250 --> 01:08:59,618
@@ -3546,8 +3546,8 @@ espalha sementes</i>
 
 788
 01:09:04,124 --> 01:09:07,092
-<i>… bom voltar a terra,
-sujar as m„os.</i>
+<i>√â bom voltar a terra,
+sujar as m√£os.</i>
 
 789
 01:09:07,094 --> 01:09:09,828
@@ -3560,17 +3560,17 @@ sujar as m„os.</i>
 
 791
 01:09:11,999 --> 01:09:15,633
-<i>VocÍ tem que admitir, foi
-uma Ûtima piada.</i>
+<i>Voc√™ tem que admitir, foi
+uma √≥tima piada.</i>
 
 792
 01:09:21,408 --> 01:09:25,310
-<i>A ˙nica maneira de enganar vocÍ
+<i>A √∫nica maneira de enganar voc√™
 era me enganando.</i>
 
 793
 01:09:25,312 --> 01:09:29,647
-<i>E vocÍ se apaixonou por isso,
+<i>E voc√™ se apaixonou por isso,
 gancho, linha e flor.</i>
 
 794
@@ -3580,29 +3580,29 @@ Ha!
 795
 01:09:35,956 --> 01:09:38,792
 Finalmente chegou a
-hora de vocÍ morrer.
+hora de voc√™ morrer.
 
 796
 01:09:42,563 --> 01:09:43,865
-Pudim', n„o!
+Pudim', n√£o!
 
 797
 01:09:50,470 --> 01:09:53,140
 tempo para uma
-aÁ„o garota vs garota.
+a√ß√£o garota vs garota.
 
 798
 01:10:25,106 --> 01:10:27,772
-Cuidado, n„o v· se cortar.
+Cuidado, n√£o v√° se cortar.
 
 799
 01:10:27,774 --> 01:10:29,943
 Acabou, Era.
-VocÍ perdeu.
+Voc√™ perdeu.
 
 800
 01:10:49,530 --> 01:10:52,097
-Tome seu remÈdio,
+Tome seu rem√©dio,
 gatinha,
 
 801
@@ -3611,7 +3611,7 @@ e diga boa noite.
 
 802
 01:11:34,840 --> 01:11:37,544
-Guarde sua lingua para vocÍ mesmo.
+Guarde sua lingua para voc√™ mesmo.
 
 803
 01:11:56,264 --> 01:11:57,265
@@ -3619,21 +3619,21 @@ Bruce.
 
 804
 01:12:24,157 --> 01:12:26,525
-O que vou fazer com vocÍ, Batman?
+O que vou fazer com voc√™, Batman?
 
 805
 01:12:26,527 --> 01:12:30,529
-VocÍ destruiu um robÍ
-gigante em Ûtimas condiÁıes
+Voc√™ destruiu um rob√™
+gigante em √≥timas condi√ß√µes
 
 806
 01:12:30,531 --> 01:12:33,664
-Ter· que responder por isso.
+Ter√° que responder por isso.
 
 807
 01:12:33,666 --> 01:12:37,134
 Vamos acabar com isso, Coringa.
-SÛ eu e vocÍ.
+S√≥ eu e voc√™.
 
 808
 01:12:37,136 --> 01:12:38,770
@@ -3642,7 +3642,7 @@ Com prazer.
 809
 01:12:38,772 --> 01:12:40,405
 Oh, eu odiaria percorrer todo
-o caminho atÈ o Jap„o antigo
+o caminho at√© o Jap√£o antigo
 
 810
 01:12:40,407 --> 01:12:43,409
@@ -3655,7 +3655,7 @@ Certo, Bats?
 
 812
 01:12:45,411 --> 01:12:47,948
-Ent„o n„o vai se desapontar.
+Ent√£o n√£o vai se desapontar.
 
 813
 01:12:57,590 --> 01:13:01,293
@@ -3665,11 +3665,11 @@ todos os meus sonhos em realidade.
 814
 01:13:01,295 --> 01:13:05,062
 - Feliz em ajudar.
-- Oh, n„o provoque.
+- Oh, n√£o provoque.
 
 815
 01:13:05,064 --> 01:13:07,300
-VocÍ est· me deixando animadinho.
+Voc√™ est√° me deixando animadinho.
 
 816
 01:13:10,103 --> 01:13:12,440
@@ -3677,12 +3677,12 @@ Essa foi boa.
 
 817
 01:13:17,143 --> 01:13:20,611
-Oh, vocÍ pode fazer melhor que isso.
+Oh, voc√™ pode fazer melhor que isso.
 
 818
 01:13:20,613 --> 01:13:23,848
 Talvez precise treinar,
-pegar mais pr·tica
+pegar mais pr√°tica
 
 819
 01:13:23,850 --> 01:13:25,553
@@ -3694,7 +3694,7 @@ Ooh!
 
 821
 01:13:30,558 --> 01:13:34,060
-Vou cortar vocÍ em fitinhas, Amarrar
+Vou cortar voc√™ em fitinhas, Amarrar
 em um arco e me dar de presente!
 
 822
@@ -3719,21 +3719,21 @@ Deve ser dificil ser um heroi!
 
 827
 01:14:00,953 --> 01:14:05,259
-N„o se atreve a me matar!
-N„o estou certo, Bats?
+N√£o se atreve a me matar!
+N√£o estou certo, Bats?
 
 828
 01:14:08,562 --> 01:14:09,764
-<i>N„o me tente!</i>
+<i>N√£o me tente!</i>
 
 829
 01:14:14,868 --> 01:14:16,770
-Viu, n„o pode me matar.
+Viu, n√£o pode me matar.
 
 830
 01:14:26,679 --> 01:14:32,519
 Oh, o heroi
-n„o pode terminar o trabalho!
+n√£o pode terminar o trabalho!
 
 831
 01:14:34,720 --> 01:14:37,122
@@ -3742,7 +3742,7 @@ Mas eu posso.
 832
 01:14:37,124 --> 01:14:40,091
 Apenas olhe para quanta
-divers„o nÛs tivemos,
+divers√£o n√≥s tivemos,
 
 833
 01:14:40,093 --> 01:14:41,595
@@ -3754,35 +3754,35 @@ Psych!
 
 835
 01:15:37,084 --> 01:15:39,319
-VocÍ n„o gostou disso,
+Voc√™ n√£o gostou disso,
 gostou?
 
 836
 01:16:15,455 --> 01:16:17,558
-Ainda n„o acabou!
+Ainda n√£o acabou!
 
 837
 01:16:57,863 --> 01:17:01,768
-Ent„o È,
+Ent√£o √©,
 finamente acabou, Batman.
 
 838
 01:17:07,374 --> 01:17:10,211
-N„o pode confiar em tudo que vÍ, Coringa.
+N√£o pode confiar em tudo que v√™, Coringa.
 
 839
 01:18:08,500 --> 01:18:11,336
-FaÁa. Apenas solte.
+Fa√ßa. Apenas solte.
 
 840
 01:18:11,338 --> 01:18:14,070
-VocÍ pode fazer,
-n„o pode?
+Voc√™ pode fazer,
+n√£o pode?
 
 841
 01:18:20,914 --> 01:18:26,884
 O grande Batman.
-Nem t„o heroi afinal de contas!
+Nem t√£o heroi afinal de contas!
 
 842
 01:19:03,156 --> 01:19:05,423
@@ -3790,22 +3790,22 @@ Nem t„o heroi afinal de contas!
 
 843
 01:19:05,425 --> 01:19:09,326
-Claro. Nosso paÌs agora
-voltar· a ser o que era.
+Claro. Nosso pa√≠s agora
+voltar√° a ser o que era.
 
 844
 01:19:09,328 --> 01:19:12,465
 <i>Nunca esqueceremos
-o que fez por nÛs.</i>
+o que fez por n√≥s.</i>
 
 845
 01:19:14,167 --> 01:19:17,371
 Obrigado, Monkichi.
-VocÍ foi de grande ajuda.
+Voc√™ foi de grande ajuda.
 
 846
 01:19:19,805 --> 01:19:22,776
-… hora de ir.
+√â hora de ir.
 Eu nunca esquecerei.
 
 847
@@ -3819,7 +3819,7 @@ o motor tremor.
 
 849
 01:21:34,907 --> 01:21:38,342
-VocÍ ir· precisar
+Voc√™ ir√° precisar
 disto esta noite.
 
 850
@@ -3829,21 +3829,21 @@ claro.
 
 851
 01:21:41,848 --> 01:21:44,515
-Melhor n„o deixar
+Melhor n√£o deixar
 o prefeito esperando.
 
 852
 01:21:44,517 --> 01:21:46,150
-O carro est· pronto?
+O carro est√° pronto?
 
 853
 01:21:46,152 --> 01:21:49,756
-Sim. mas È um pouco vintage.
+Sim. mas √© um pouco vintage.
 
 854
 01:21:57,863 --> 01:22:01,701
 <i>Me diga, onde encontrou um
-achado t„o raro.</i>
+achado t√£o raro.</i>
 
 855
 01:22:03,603 --> 01:22:05,970
@@ -3852,10 +3852,10 @@ Acabei passando por ele numa viagem.
 856
 01:22:05,972 --> 01:22:10,243
 Sempre mantenho olhos abertos
-por lembranÁas interessantes.
+por lembran√ßas interessantes.
 
 857
 01:22:23,490 --> 01:22:27,827
-VocÍ n„o esperava sair
-de m„os vazias, n„o È?
+Voc√™ n√£o esperava sair
+de m√£os vazias, n√£o √©?
 
