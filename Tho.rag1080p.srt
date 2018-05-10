@@ -1,21 +1,21 @@
 1
 00:00:55,767 --> 00:00:57,509
-<i>Sei o que está pensando.</i>
+<i>Sei o que estÃ¡ pensando.</i>
 
 2
 00:00:57,510 --> 00:01:00,710
-<i>"Essa não, Thor está preso!
+<i>"Essa nÃ£o, Thor estÃ¡ preso!
 Como isso aconteceu?".</i>
 
 3
 00:01:01,187 --> 00:01:05,390
-<i>Às vezes, tem que ser capturado
+<i>Ã€s vezes, tem que ser capturado
 para ter as respostas certas.</i>
 
 4
 00:01:06,106 --> 00:01:09,617
-É uma longa história, mas,
-basicamente, sou um herói.
+Ã‰ uma longa histÃ³ria, mas,
+basicamente, sou um herÃ³i.
 
 5
 00:01:10,798 --> 00:01:13,476
@@ -23,13 +23,13 @@ Passei um tempinho na Terra.
 
 6
 00:01:13,477 --> 00:01:16,931
-Lutei contra robôs
+Lutei contra robÃ´s
 e salvei o planeta duas vezes.
 
 7
 00:01:16,932 --> 00:01:19,321
-Depois saí pelo Cosmos
-à procura
+Depois saÃ­ pelo Cosmos
+Ã  procura
 
 8
 00:01:19,322 --> 00:01:22,201
@@ -38,21 +38,21 @@ chamadas joias do infinito.
 
 9
 00:01:22,202 --> 00:01:23,868
-Não encontrei nenhuma.
+NÃ£o encontrei nenhuma.
 
 10
 00:01:24,776 --> 00:01:28,958
 Foi quando enfrentei um caminho
-de morte e destruição.
+de morte e destruiÃ§Ã£o.
 
 11
 00:01:28,959 --> 00:01:32,571
 O que me trouxe
-até esta caverna,
+atÃ© esta caverna,
 
 12
 00:01:33,421 --> 00:01:35,337
-onde conheci você.
+onde conheci vocÃª.
 
 13
 00:01:40,881 --> 00:01:43,256
@@ -65,11 +65,11 @@ Thor, filho de Odin.
 
 15
 00:02:00,970 --> 00:02:04,711
-Surtur, filho da mãe.
+Surtur, filho da mÃ£e.
 
 16
 00:02:04,712 --> 00:02:06,100
-Você ainda está vivo.
+VocÃª ainda estÃ¡ vivo.
 
 17
 00:02:06,101 --> 00:02:08,316
@@ -78,36 +78,36 @@ tinha te matado.
 
 18
 00:02:08,317 --> 00:02:11,751
-- Meio milhão de anos atrás.
-- Não posso morrer.
+- Meio milhÃ£o de anos atrÃ¡s.
+- NÃ£o posso morrer.
 
 19
 00:02:11,752 --> 00:02:15,903
-Não até cumprir meu destino
+NÃ£o atÃ© cumprir meu destino
 e destruir seu lar.
 
 20
 00:02:15,904 --> 00:02:17,909
-Engraçado ter mencionado isso,
+EngraÃ§ado ter mencionado isso,
 
 21
 00:02:17,910 --> 00:02:20,206
 porque tenho tido
-uns pesadelos terríveis.
+uns pesadelos terrÃ­veis.
 
 22
 00:02:20,207 --> 00:02:22,778
 Asgard em chamas,
-caindo em ruínas,
+caindo em ruÃ­nas,
 
 23
 00:02:22,779 --> 00:02:25,648
-e você, Surtur,
+e vocÃª, Surtur,
 no centro de tudo.
 
 24
 00:02:25,649 --> 00:02:28,051
-Então, você viu o Ragnarok.
+EntÃ£o, vocÃª viu o Ragnarok.
 
 25
 00:02:28,052 --> 00:02:31,087
@@ -116,7 +116,7 @@ A grande profecia...
 
 26
 00:02:31,088 --> 00:02:33,322
-Espere aí.
+Espere aÃ­.
 
 27
 00:02:34,291 --> 00:02:37,593
@@ -125,8 +125,8 @@ daqui a pouco.
 
 28
 00:02:37,594 --> 00:02:40,086
-Senti que estávamos
-tendo uma conexão.
+Senti que estÃ¡vamos
+tendo uma conexÃ£o.
 
 29
 00:02:42,915 --> 00:02:46,404
@@ -140,16 +140,16 @@ Minha hora chegou.
 31
 00:02:48,491 --> 00:02:51,754
 Quando minha coroa se unir
-à Chama Eterna,
+Ã  Chama Eterna,
 
 32
 00:02:51,755 --> 00:02:54,657
-minha força total
-será restaurada.
+minha forÃ§a total
+serÃ¡ restaurada.
 
 33
 00:02:54,658 --> 00:02:57,009
-Vou me elevar às montanhas
+Vou me elevar Ã s montanhas
 
 34
 00:02:57,010 --> 00:03:00,033
@@ -159,12 +159,12 @@ nos confins de Asgard.
 35
 00:03:00,034 --> 00:03:02,540
 Espere.
-Só um segundo.
+SÃ³ um segundo.
 
 36
 00:03:02,541 --> 00:03:05,663
-Juro que não estou me mexendo.
-Está girando sozinho.
+Juro que nÃ£o estou me mexendo.
+EstÃ¡ girando sozinho.
 
 37
 00:03:05,664 --> 00:03:07,696
@@ -195,30 +195,30 @@ que Odin protege em Asgard?
 
 43
 00:03:20,951 --> 00:03:23,784
-Odin não está em Asgard.
+Odin nÃ£o estÃ¡ em Asgard.
 
 44
 00:03:23,785 --> 00:03:27,343
-E sua ausência
+E sua ausÃªncia
 deixou o trono indefeso.
 
 45
 00:03:27,344 --> 00:03:29,656
-Então, onde está a coroa?
+EntÃ£o, onde estÃ¡ a coroa?
 
 46
 00:03:29,657 --> 00:03:33,108
-Esta é minha coroa,
+Esta Ã© minha coroa,
 a fonte do meu poder!
 
 47
 00:03:33,109 --> 00:03:36,510
-Isso é uma coroa?
+Isso Ã© uma coroa?
 Parecia uma grande sobrancelha.
 
 48
 00:03:36,511 --> 00:03:38,172
-É uma coroa.
+Ã‰ uma coroa.
 
 49
 00:03:38,173 --> 00:03:41,672
@@ -227,51 +227,51 @@ para parar o Ragnarok
 
 50
 00:03:41,673 --> 00:03:43,696
-é arrancar essa coisa
-da sua cabeça.
+Ã© arrancar essa coisa
+da sua cabeÃ§a.
 
 51
 00:03:44,697 --> 00:03:47,331
-Mas o Ragnarok já começou.
+Mas o Ragnarok jÃ¡ comeÃ§ou.
 
 52
 00:03:47,332 --> 00:03:50,012
-E você não tem
+E vocÃª nÃ£o tem
 como impedi-lo.
 
 53
 00:03:58,730 --> 00:04:02,104
 Eu sou o fim de Asgard,
-assim como você.
+assim como vocÃª.
 
 54
 00:04:02,105 --> 00:04:06,044
-Todos sofrerão
-e todos queimarão!
+Todos sofrerÃ£o
+e todos queimarÃ£o!
 
 55
 00:04:06,045 --> 00:04:07,683
-Isso é intenso.
+Isso Ã© intenso.
 
 56
 00:04:07,684 --> 00:04:09,871
 Para ser honesto,
-ver você crescer
+ver vocÃª crescer
 
 57
 00:04:09,872 --> 00:04:12,990
 e incendiar um planeta
-seria um espetáculo.
+seria um espetÃ¡culo.
 
 58
 00:04:12,991 --> 00:04:15,481
 Mas terei
-que escolher a opção B,
+que escolher a opÃ§Ã£o B,
 
 59
 00:04:15,482 --> 00:04:18,907
 em que quebro essas correntes,
-tiro essa tiara da sua cabeça
+tiro essa tiara da sua cabeÃ§a
 
 60
 00:04:18,908 --> 00:04:21,252
@@ -280,7 +280,7 @@ no cofre de Asgard.
 
 61
 00:04:21,253 --> 00:04:24,206
-Não pode impedir o Ragnarok.
+NÃ£o pode impedir o Ragnarok.
 
 62
 00:04:24,207 --> 00:04:26,742
@@ -289,12 +289,12 @@ Não pode impedir o Ragnarok.
 
 63
 00:04:26,743 --> 00:04:29,817
-é isso que heróis fazem.
+Ã© isso que herÃ³is fazem.
 
 64
 00:04:34,154 --> 00:04:36,922
 Espere, desculpe-me.
-Não acertei o momento exato.
+NÃ£o acertei o momento exato.
 
 65
 00:04:38,953 --> 00:04:40,353
@@ -302,13 +302,13 @@ Agora!
 
 66
 00:04:44,079 --> 00:04:47,743
-Cometeu um erro terrível,
+Cometeu um erro terrÃ­vel,
 filho de Odin.
 
 67
 00:04:47,744 --> 00:04:50,855
 Sempre cometo
-erros terríveis.
+erros terrÃ­veis.
 
 68
 00:04:52,093 --> 00:04:55,268
@@ -317,12 +317,12 @@ Parece que deu tudo certo.
 69
 00:06:13,950 --> 00:06:15,600
 Heimdall,
-sei que já faz um tempo,
+sei que jÃ¡ faz um tempo,
 
 70
 00:06:15,601 --> 00:06:17,752
-mas uma saída rápida
-seria útil.
+mas uma saÃ­da rÃ¡pida
+seria Ãºtil.
 
 71
 00:06:19,032 --> 00:06:20,462
@@ -335,21 +335,21 @@ Heimdall?
 73
 00:06:23,652 --> 00:06:25,812
 <i>Este emprego deveria
-tê-lo enriquecido.</i>
+tÃª-lo enriquecido.</i>
 
 74
 00:06:26,649 --> 00:06:30,406
-O trabalho não é fácil,
-mas tem seus benefícios.
+O trabalho nÃ£o Ã© fÃ¡cil,
+mas tem seus benefÃ­cios.
 
 75
 00:06:30,407 --> 00:06:34,536
-A Bifrost me dá acesso a tudo
+A Bifrost me dÃ¡ acesso a tudo
 que os Nove Reinos oferecem.
 
 76
 00:06:34,537 --> 00:06:37,319
-É tudo meu
+Ã‰ tudo meu
 para ser conquistado.
 
 77
@@ -371,12 +371,12 @@ chamado Texas.
 
 81
 00:06:50,816 --> 00:06:54,482
-Até dei nomes a elas.
+AtÃ© dei nomes a elas.
 Des e Troy.
 
 82
 00:06:55,078 --> 00:06:57,415
-Quando você as junta...
+Quando vocÃª as junta...
 
 83
 00:06:58,132 --> 00:06:59,532
@@ -393,7 +393,7 @@ Fique.
 86
 00:07:43,165 --> 00:07:46,382
 Heimdall!
-Estou ficando sem opções!
+Estou ficando sem opÃ§Ãµes!
 
 87
 00:07:46,697 --> 00:07:48,177
@@ -405,11 +405,11 @@ Skurge?
 
 89
 00:07:53,610 --> 00:07:55,370
-Aquilo é importante?
+Aquilo Ã© importante?
 
 90
 00:08:02,139 --> 00:08:04,246
-Agora vocês vão ver
+Agora vocÃªs vÃ£o ver
 um truque.
 
 91
@@ -442,12 +442,12 @@ ChaosCosmico | YsoseriousM
 
 97
 00:08:45,660 --> 00:08:48,660
-Revisão: Matvix
+RevisÃ£o: Matvix
 l_lost | LikaPoetisa
 
 98
 00:08:48,661 --> 00:08:51,661
-Revisão:
+RevisÃ£o:
 reptatop | Lory
 
 99
@@ -475,11 +475,11 @@ minhas companhias
 104
 00:09:05,920 --> 00:09:08,634
 - e encher o lugar de miolos.
-- Quem é você?
+- Quem Ã© vocÃª?
 
 105
 00:09:08,635 --> 00:09:10,888
-Não se lembra?
+NÃ£o se lembra?
 Sou o Skurge.
 
 106
@@ -489,18 +489,18 @@ Sou o Skurge.
 
 107
 00:09:13,888 --> 00:09:16,381
-- Cadê o Heimdall?
-- Aquele traidor? Ninguém sabe.
+- CadÃª o Heimdall?
+- Aquele traidor? NinguÃ©m sabe.
 
 108
 00:09:16,382 --> 00:09:19,380
-- É um fugitivo do trono.
+- Ã‰ um fugitivo do trono.
 - Traidor?
 
 109
 00:09:19,381 --> 00:09:22,416
 Sim, Odin acusou Heimdall
-de negligência no trabalho,
+de negligÃªncia no trabalho,
 
 110
 00:09:22,417 --> 00:09:24,501
@@ -509,7 +509,7 @@ antes do julgamento.
 
 111
 00:09:24,502 --> 00:09:26,968
-Difícil pegar um cara
+DifÃ­cil pegar um cara
 que pode ver tudo.
 
 112
@@ -519,29 +519,29 @@ que pode ver tudo.
 
 113
 00:09:54,256 --> 00:09:56,487
-Que diabos é aquilo?
+Que diabos Ã© aquilo?
 
 114
 00:10:03,936 --> 00:10:07,143
-Irmão...
-É agora.
+IrmÃ£o...
+Ã‰ agora.
 
 115
 00:10:07,144 --> 00:10:09,061
-É o meu fim.
+Ã‰ o meu fim.
 
 116
 00:10:09,062 --> 00:10:11,400
-Seu idiota, você não ouviu!
+Seu idiota, vocÃª nÃ£o ouviu!
 
 117
 00:10:11,401 --> 00:10:13,725
 - Desculpe-me.
-- Lady Sif, peça ajuda!
+- Lady Sif, peÃ§a ajuda!
 
 118
 00:10:13,726 --> 00:10:15,428
-Alguém nos ajude!
+AlguÃ©m nos ajude!
 
 119
 00:10:15,429 --> 00:10:17,466
@@ -549,7 +549,7 @@ Desculpe por tudo que fiz.
 
 120
 00:10:17,872 --> 00:10:19,367
-Está tudo bem,
+EstÃ¡ tudo bem,
 aguente firme.
 
 121
@@ -560,7 +560,7 @@ por tentar governar a Terra.
 122
 00:10:22,593 --> 00:10:24,402
 Eles teriam sorte
-em ter você.
+em ter vocÃª.
 
 123
 00:10:24,403 --> 00:10:27,360
@@ -569,12 +569,12 @@ com o Tesseract.
 
 124
 00:10:27,361 --> 00:10:29,184
-Não pude evitar.
+NÃ£o pude evitar.
 
 125
 00:10:29,185 --> 00:10:32,276
 - Sou um vigarista.
-- Sim, tão malandro.
+- Sim, tÃ£o malandro.
 
 126
 00:10:32,586 --> 00:10:35,536
@@ -583,17 +583,17 @@ que te transformei em um sapo.
 
 127
 00:10:35,537 --> 00:10:39,326
-- Foi uma ótima piada.
-- De fato, foi hilário.
+- Foi uma Ã³tima piada.
+- De fato, foi hilÃ¡rio.
 
 128
 00:10:39,327 --> 00:10:43,613
-- Você é o salvador de Asgard.
-- Conte minha história.
+- VocÃª Ã© o salvador de Asgard.
+- Conte minha histÃ³ria.
 
 129
 00:10:43,614 --> 00:10:46,857
-- Construa uma estátua para mim.
+- Construa uma estÃ¡tua para mim.
 - Faremos uma bem grande.
 
 130
@@ -608,15 +608,15 @@ o que fez aqui hoje.
 
 132
 00:10:53,617 --> 00:10:55,174
-Não fiz isso por ele.
+NÃ£o fiz isso por ele.
 
 133
 00:10:55,934 --> 00:10:58,761
-Não fiz isso por ele.
+NÃ£o fiz isso por ele.
 
 134
 00:11:07,385 --> 00:11:12,257
-Não!
+NÃ£o!
 
 135
 00:11:13,311 --> 00:11:16,207
@@ -625,7 +625,7 @@ devido aos ferimentos,
 
 136
 00:11:16,208 --> 00:11:18,400
-dando sua vida por nós.
+dando sua vida por nÃ³s.
 
 137
 00:11:18,401 --> 00:11:20,858
@@ -642,7 +642,7 @@ Loki, meu filho.
 
 140
 00:11:25,846 --> 00:11:28,228
-Há muitas luas,
+HÃ¡ muitas luas,
 eu o encontrei
 
 141
@@ -652,17 +652,17 @@ gelado.
 
 142
 00:11:30,537 --> 00:11:35,475
-Naquele dia, eu não te enxerguei
+Naquele dia, eu nÃ£o te enxerguei
 como o salvador de Asgard.
 
 143
 00:11:35,886 --> 00:11:40,731
-Você era um mero bebê
+VocÃª era um mero bebÃª
 azul e gelado
 
 144
 00:11:41,032 --> 00:11:44,559
-que derreteu o coração
+que derreteu o coraÃ§Ã£o
 deste velho tolo.
 
 145
@@ -680,44 +680,44 @@ Merda.
 148
 00:11:57,964 --> 00:12:01,967
 Meu filho, Thor, voltou.
-Saudações, meu filho.
+SaudaÃ§Ãµes, meu filho.
 
 149
 00:12:03,566 --> 00:12:07,199
-- Peça interessante. Como chama?
-- A Tragédia de Loki de Asgard.
+- PeÃ§a interessante. Como chama?
+- A TragÃ©dia de Loki de Asgard.
 
 150
 00:12:07,200 --> 00:12:09,433
-O povo queria homenageá-lo.
+O povo queria homenageÃ¡-lo.
 
 151
 00:12:09,434 --> 00:12:12,462
 E deveriam.
-Gostei da estátua.
+Gostei da estÃ¡tua.
 
 152
 00:12:12,463 --> 00:12:17,197
-É mais bonita do que ele era.
+Ã‰ mais bonita do que ele era.
 Menos suja e gordurosa, talvez.
 
 153
 00:12:18,018 --> 00:12:20,566
-Sabe o que é isto?
+Sabe o que Ã© isto?
 
 154
 00:12:20,567 --> 00:12:23,719
-O Crânio de Surtur.
-É uma arma formidável.
+O CrÃ¢nio de Surtur.
+Ã‰ uma arma formidÃ¡vel.
 
 155
 00:12:23,720 --> 00:12:25,568
-Faça-me um favor.
+FaÃ§a-me um favor.
 Guarde no cofre
 
 156
 00:12:25,569 --> 00:12:28,856
-para que não vire um monstro
+para que nÃ£o vire um monstro
 e destrua o planeta.
 
 157
@@ -726,12 +726,12 @@ Obrigado, querida.
 
 158
 00:12:31,730 --> 00:12:34,755
-Então, você vai voltar
+EntÃ£o, vocÃª vai voltar
 para Midgard?
 
 159
 00:12:34,756 --> 00:12:36,448
-Não.
+NÃ£o.
 
 160
 00:12:36,449 --> 00:12:39,254
@@ -741,16 +741,16 @@ o mesmo sonho ultimamente.
 161
 00:12:39,255 --> 00:12:42,045
 Toda noite, vejo Asgard
-caindo em ruínas.
+caindo em ruÃ­nas.
 
 162
 00:12:42,365 --> 00:12:46,031
-É um sonho tolo.
-Sinal de muita imaginação.
+Ã‰ um sonho tolo.
+Sinal de muita imaginaÃ§Ã£o.
 
 163
 00:12:46,032 --> 00:12:48,971
-Talvez. Mas então decido sair
+Talvez. Mas entÃ£o decido sair
 e investigar.
 
 164
@@ -765,12 +765,12 @@ organizando nossa queda,
 
 166
 00:12:56,359 --> 00:12:59,370
-tudo enquanto você, Odin,
+tudo enquanto vocÃª, Odin,
 protetor desses Nove Reinos
 
 167
 00:12:59,371 --> 00:13:02,254
-está sentado aqui com seu roupão
+estÃ¡ sentado aqui com seu roupÃ£o
 comendo uvas.
 
 168
@@ -790,18 +790,18 @@ de serem massacrados.
 
 171
 00:13:12,493 --> 00:13:15,066
-Com reuniões do Governo
-e do Conselho de Segurança.
+Com reuniÃµes do Governo
+e do Conselho de SeguranÃ§a.
 
 172
 00:13:15,067 --> 00:13:17,353
 - Terei mesmo que fazer isso?
-- O quê?
+- O quÃª?
 
 173
 00:13:21,249 --> 00:13:25,079
-Sabe que nada segura o Mjölnir
-até ele voltar para mim.
+Sabe que nada segura o MjÃ¶lnir
+atÃ© ele voltar para mim.
 
 174
 00:13:25,080 --> 00:13:26,674
@@ -810,12 +810,12 @@ Nem mesmo o seu rosto.
 175
 00:13:26,675 --> 00:13:29,341
 Ficou inSano?
-Será executado por isto.
+SerÃ¡ executado por isto.
 
 176
 00:13:29,342 --> 00:13:31,928
-Então, nos veremos
-do outro lado, irmão.
+EntÃ£o, nos veremos
+do outro lado, irmÃ£o.
 
 177
 00:13:33,196 --> 00:13:34,798
@@ -832,7 +832,7 @@ Thor!
 180
 00:13:48,421 --> 00:13:50,202
 - Filho de Odin!
-- Não.
+- NÃ£o.
 
 181
 00:13:51,936 --> 00:13:54,402
@@ -841,32 +841,32 @@ Apenas uma.
 
 182
 00:13:55,851 --> 00:13:58,809
-- Onde está Odin?
-- Não conseguia ficar longe?
+- Onde estÃ¡ Odin?
+- NÃ£o conseguia ficar longe?
 
 183
 00:13:58,810 --> 00:14:01,057
-Tudo estava bem sem você.
+Tudo estava bem sem vocÃª.
 
 184
 00:14:01,058 --> 00:14:04,227
 Asgard estava prosperando.
-Você estragou tudo.
+VocÃª estragou tudo.
 
 185
 00:14:04,228 --> 00:14:06,234
 - Pergunte...
-- Cadê o pai? Você o matou?
+- CadÃª o pai? VocÃª o matou?
 
 186
 00:14:06,235 --> 00:14:08,713
-Você tinha o que queria.
-Tinha independência.
+VocÃª tinha o que queria.
+Tinha independÃªncia.
 
 187
 00:14:09,264 --> 00:14:11,814
 Tudo bem! Sei exatamente
-onde ele está.
+onde ele estÃ¡.
 
 188
 00:14:19,524 --> 00:14:22,080
@@ -879,37 +879,37 @@ que o deixei bem aqui.
 
 190
 00:14:27,721 --> 00:14:30,618
-Aqui na calçada ou no prédio
-que está sendo demolido?
+Aqui na calÃ§ada ou no prÃ©dio
+que estÃ¡ sendo demolido?
 
 191
 00:14:30,619 --> 00:14:32,414
-- Ótimo plano.
+- Ã“timo plano.
 - Como poderia saber?
 
 192
 00:14:32,415 --> 00:14:34,108
-Não vejo o futuro.
-Não sou bruxa.
+NÃ£o vejo o futuro.
+NÃ£o sou bruxa.
 
 193
 00:14:34,109 --> 00:14:36,478
-Não? Então, por que se veste
+NÃ£o? EntÃ£o, por que se veste
 como uma?
 
 194
 00:14:37,116 --> 00:14:40,318
-Não acredito que esteja vivo.
+NÃ£o acredito que esteja vivo.
 Eu te vi morrendo.
 
 195
 00:14:40,319 --> 00:14:43,439
-- Eu lamentei e chorei por você.
+- Eu lamentei e chorei por vocÃª.
 - Estou honrado.
 
 196
 00:14:44,812 --> 00:14:46,562
-Oi, você tira
+Oi, vocÃª tira
 uma foto conosco?
 
 197
@@ -919,30 +919,30 @@ Sim, claro.
 198
 00:14:48,851 --> 00:14:50,771
 Comece a descobrir
-onde ele está.
+onde ele estÃ¡.
 
 199
 00:14:52,060 --> 00:14:53,938
 Uma pena
-a Jane terminar com você.
+a Jane terminar com vocÃª.
 
 200
 00:14:54,765 --> 00:14:56,579
-Ela não terminou comigo.
+Ela nÃ£o terminou comigo.
 
 201
 00:14:56,893 --> 00:14:59,358
 Eu terminei com ela.
-Foi um término mútuo.
+Foi um tÃ©rmino mÃºtuo.
 
 202
 00:15:01,613 --> 00:15:03,235
-O que é isso?
-O que está fazendo?
+O que Ã© isso?
+O que estÃ¡ fazendo?
 
 203
 00:15:03,236 --> 00:15:04,636
-Não sou eu.
+NÃ£o sou eu.
 
 204
 00:15:08,451 --> 00:15:09,859
@@ -958,7 +958,7 @@ Thor, filho de Odin.
 
 207
 00:15:47,327 --> 00:15:48,880
-Deus do Trovão.
+Deus do TrovÃ£o.
 
 208
 00:15:49,996 --> 00:15:52,269
@@ -966,27 +966,27 @@ Pode abaixar o guarda-chuva.
 
 209
 00:16:09,296 --> 00:16:11,882
-Então a Terra
+EntÃ£o a Terra
 agora tem magos?
 
 210
 00:16:17,447 --> 00:16:19,776
 Preferimos o termo
-Mestre das Artes Místicas.
+Mestre das Artes MÃ­sticas.
 
 211
 00:16:19,777 --> 00:16:21,275
-Já pode largar isso.
+JÃ¡ pode largar isso.
 
 212
 00:16:21,682 --> 00:16:25,012
-Certo, Mago. Quem é você
+Certo, Mago. Quem Ã© vocÃª
 e por que devo me importar?
 
 213
 00:16:25,013 --> 00:16:28,995
-Meu nome é Dr. Stephen Strange
-e tenho perguntas para você.
+Meu nome Ã© Dr. Stephen Strange
+e tenho perguntas para vocÃª.
 
 214
 00:16:29,337 --> 00:16:30,843
@@ -994,64 +994,64 @@ Sente-se.
 
 215
 00:16:35,216 --> 00:16:36,616
-Chá?
+ChÃ¡?
 
 216
 00:16:38,815 --> 00:16:41,534
-- Não bebo chá.
-- O que você bebe?
+- NÃ£o bebo chÃ¡.
+- O que vocÃª bebe?
 
 217
 00:16:41,535 --> 00:16:43,147
-Não bebo chá.
+NÃ£o bebo chÃ¡.
 
 218
 00:16:46,016 --> 00:16:49,958
 Mantenho uma lista de seres
-ou indivíduos de outros reinos
+ou indivÃ­duos de outros reinos
 
 219
 00:16:49,959 --> 00:16:51,583
-que podem ameaçar
+que podem ameaÃ§ar
 este mundo.
 
 220
 00:16:51,584 --> 00:16:55,353
-Seu irmão adotivo, Loki,
-é um deles.
+Seu irmÃ£o adotivo, Loki,
+Ã© um deles.
 
 221
 00:16:55,670 --> 00:16:57,467
-Incluído merecidamente.
+IncluÃ­do merecidamente.
 
 222
 00:16:59,835 --> 00:17:03,630
-- Por que trazê-lo para cá?
+- Por que trazÃª-lo para cÃ¡?
 - Estamos procurando meu pai.
 
 223
 00:17:03,631 --> 00:17:06,973
-Se eu disser onde Odin está,
+Se eu disser onde Odin estÃ¡,
 
 224
 00:17:06,974 --> 00:17:10,474
-- vocês voltarão para Asgard?
+- vocÃªs voltarÃ£o para Asgard?
 - Imediatamente.
 
 225
 00:17:10,475 --> 00:17:12,580
-Ótimo!
-Então, ajudarei vocês.
+Ã“timo!
+EntÃ£o, ajudarei vocÃªs.
 
 226
 00:17:12,581 --> 00:17:15,131
-Se sabia onde ele está,
-por que não me ligou?
+Se sabia onde ele estÃ¡,
+por que nÃ£o me ligou?
 
 227
 00:17:15,132 --> 00:17:17,680
 Devo confessar que ele
-não queria ser incomodado.
+nÃ£o queria ser incomodado.
 
 228
 00:17:17,681 --> 00:17:20,678
@@ -1060,37 +1060,37 @@ que escolheu se exilar.
 
 229
 00:17:21,785 --> 00:17:24,271
-E você não tem telefone.
+E vocÃª nÃ£o tem telefone.
 
 230
 00:17:24,272 --> 00:17:26,959
-Não, não tenho um telefone.
+NÃ£o, nÃ£o tenho um telefone.
 Mas poderia ter enviado
 
 231
 00:17:26,960 --> 00:17:28,906
-uma carta eletrônica.
+uma carta eletrÃ´nica.
 Chama e-mail.
 
 232
 00:17:28,907 --> 00:17:31,586
-- Claro, você tem computador?
-- Não, para quê?
+- Claro, vocÃª tem computador?
+- NÃ£o, para quÃª?
 
 233
 00:17:32,231 --> 00:17:34,925
 De qualquer forma,
-meu pai não está mais em exílio.
+meu pai nÃ£o estÃ¡ mais em exÃ­lio.
 
 234
 00:17:34,926 --> 00:17:37,826
-Se puder dizer onde ele está,
-posso levá-lo para casa.
+Se puder dizer onde ele estÃ¡,
+posso levÃ¡-lo para casa.
 
 235
 00:17:37,827 --> 00:17:40,211
 Com prazer.
-Ele está na Noruega.
+Ele estÃ¡ na Noruega.
 
 236
 00:17:40,993 --> 00:17:43,149
@@ -1100,15 +1100,15 @@ se estes encantamentos
 237
 00:17:43,150 --> 00:17:46,847
 requerem alguma
-modificação asgardiana.
+modificaÃ§Ã£o asgardiana.
 
 238
 00:17:46,848 --> 00:17:48,313
-Não!
+NÃ£o!
 
 239
 00:17:48,715 --> 00:17:50,242
-Não precisaremos disso.
+NÃ£o precisaremos disso.
 
 240
 00:17:55,661 --> 00:17:58,413
@@ -1126,21 +1126,21 @@ De um fio do seu cabelo.
 243
 00:18:02,191 --> 00:18:05,351
 Deixe-me explicar algo.
-Ninguém mexe no meu cabelo.
+NinguÃ©m mexe no meu cabelo.
 
 244
 00:18:13,709 --> 00:18:15,244
-Poderíamos
+PoderÃ­amos
 ter vindo andando.
 
 245
 00:18:17,884 --> 00:18:21,034
-- Ele está te aguardado.
+- Ele estÃ¡ te aguardado.
 - Certo.
 
 246
 00:18:21,035 --> 00:18:23,936
-- Não esqueça o guarda-chuva.
+- NÃ£o esqueÃ§a o guarda-chuva.
 - Claro.
 
 247
@@ -1149,8 +1149,8 @@ Desculpe-me.
 
 248
 00:18:37,788 --> 00:18:39,833
-Também preciso
-do meu irmão de volta.
+TambÃ©m preciso
+do meu irmÃ£o de volta.
 
 249
 00:18:40,363 --> 00:18:41,864
@@ -1163,18 +1163,18 @@ por 30 minutos!
 
 251
 00:18:51,535 --> 00:18:53,135
-Você cuida dele
+VocÃª cuida dele
 a partir daqui.
 
 252
 00:18:53,136 --> 00:18:56,012
-Sim, é claro.
+Sim, Ã© claro.
 Muito obrigado pela ajuda.
 
 253
 00:18:56,013 --> 00:18:59,279
 - Boa sorte.
-- Cuidar de mim? Quem é você?
+- Cuidar de mim? Quem Ã© vocÃª?
 
 254
 00:18:59,987 --> 00:19:02,246
@@ -1183,7 +1183,7 @@ Muito obrigado pela ajuda.
 
 255
 00:19:02,247 --> 00:19:05,227
-- Não pense por um minuto...
+- NÃ£o pense por um minuto...
 - Tudo bem, tchau.
 
 256
@@ -1193,11 +1193,11 @@ Pai.
 257
 00:19:33,251 --> 00:19:36,007
 Veja este lugar.
-É lindo!
+Ã‰ lindo!
 
 258
 00:19:41,227 --> 00:19:42,755
-Pai, somos nós.
+Pai, somos nÃ³s.
 
 259
 00:19:45,965 --> 00:19:47,537
@@ -1205,7 +1205,7 @@ Meus filhos.
 
 260
 00:19:48,748 --> 00:19:50,329
-Estive esperando por vocês.
+Estive esperando por vocÃªs.
 
 261
 00:19:50,330 --> 00:19:52,364
@@ -1218,8 +1218,8 @@ Casa, claro.
 
 263
 00:19:55,563 --> 00:19:58,449
-Sua mãe...
-Ela está me chamando.
+Sua mÃ£e...
+Ela estÃ¡ me chamando.
 
 264
 00:20:00,368 --> 00:20:01,957
@@ -1232,7 +1232,7 @@ Loki, pare com sua magia.
 266
 00:20:07,479 --> 00:20:10,202
 Demorei para me livrar
-de seus feitiços.
+de seus feitiÃ§os.
 
 267
 00:20:10,203 --> 00:20:12,204
@@ -1241,7 +1241,7 @@ Frigga ficaria orgulhosa.
 268
 00:20:12,205 --> 00:20:14,596
 Venham sentar comigo.
-Não tenho muito tempo.
+NÃ£o tenho muito tempo.
 
 269
 00:20:21,165 --> 00:20:24,592
@@ -1250,26 +1250,26 @@ mas podemos consertar tudo.
 
 270
 00:20:24,999 --> 00:20:26,581
-Eu falhei com vocês.
+Eu falhei com vocÃªs.
 
 271
 00:20:27,015 --> 00:20:30,301
-Está sobre nós.
+EstÃ¡ sobre nÃ³s.
 O Ragnarok.
 
 272
 00:20:30,302 --> 00:20:33,280
-Não, eu impedi o Ragnarok.
+NÃ£o, eu impedi o Ragnarok.
 Dei um fim em Surtur.
 
 273
 00:20:33,609 --> 00:20:35,117
-Não.
+NÃ£o.
 
 274
 00:20:35,118 --> 00:20:37,343
-Já começou.
-Ela está vindo.
+JÃ¡ comeÃ§ou.
+Ela estÃ¡ vindo.
 
 275
 00:20:38,329 --> 00:20:40,880
@@ -1282,12 +1282,12 @@ mas minha hora chegou.
 
 277
 00:20:44,581 --> 00:20:46,475
-Não posso mais
-mantê-la afastada.
+NÃ£o posso mais
+mantÃª-la afastada.
 
 278
 00:20:46,476 --> 00:20:48,610
-Pai, de quem está falando?
+Pai, de quem estÃ¡ falando?
 
 279
 00:20:48,978 --> 00:20:52,174
@@ -1296,25 +1296,25 @@ Hela.
 
 280
 00:20:52,826 --> 00:20:54,469
-Minha primogênita.
+Minha primogÃªnita.
 
 281
 00:20:55,587 --> 00:20:57,066
-Sua irmã.
+Sua irmÃ£.
 
 282
 00:20:59,780 --> 00:21:01,336
-O quê?
+O quÃª?
 
 283
 00:21:03,857 --> 00:21:07,049
 O apetite violento dela
-cresceu além do meu controle.
+cresceu alÃ©m do meu controle.
 
 284
 00:21:07,763 --> 00:21:09,444
-Não consegui pará-la,
-então...
+NÃ£o consegui parÃ¡-la,
+entÃ£o...
 
 285
 00:21:09,979 --> 00:21:12,712
@@ -1323,22 +1323,22 @@ e a mantive trancada.
 
 286
 00:21:13,327 --> 00:21:16,375
-Ela extrai força de Asgard.
+Ela extrai forÃ§a de Asgard.
 
 287
 00:21:17,677 --> 00:21:20,495
-E, quando chegar lá,
-os poderes dela serão...
+E, quando chegar lÃ¡,
+os poderes dela serÃ£o...
 
 288
 00:21:20,496 --> 00:21:22,914
 - Ilimitados.
-- Seja lá o que ela for,
+- Seja lÃ¡ o que ela for,
 
 289
 00:21:22,915 --> 00:21:25,998
-- podemos enfrentá-la juntos.
-- Não, não podemos.
+- podemos enfrentÃ¡-la juntos.
+- NÃ£o, nÃ£o podemos.
 
 290
 00:21:26,526 --> 00:21:28,720
@@ -1352,7 +1352,7 @@ sozinhos.
 
 292
 00:21:32,676 --> 00:21:34,700
-Amo vocês, meus filhos.
+Amo vocÃªs, meus filhos.
 
 293
 00:21:36,979 --> 00:21:38,438
@@ -1368,7 +1368,7 @@ Casa.
 
 296
 00:22:26,776 --> 00:22:28,442
-Irmão.
+IrmÃ£o.
 
 297
 00:22:35,979 --> 00:22:38,734
@@ -1376,7 +1376,7 @@ Isso foi culpa sua.
 
 298
 00:23:20,765 --> 00:23:22,512
-Então, ele se foi.
+EntÃ£o, ele se foi.
 
 299
 00:23:25,930 --> 00:23:28,387
@@ -1389,21 +1389,21 @@ Deve ser a Hela.
 301
 00:23:31,915 --> 00:23:35,411
 - Sou Thor, filho de Odin.
-- Sério?
+- SÃ©rio?
 
 302
 00:23:35,412 --> 00:23:37,346
-Não se parece com ele.
+NÃ£o se parece com ele.
 
 303
 00:23:37,347 --> 00:23:41,297
 - Podemos chegar a um acordo.
-- Você fala como ele.
+- VocÃª fala como ele.
 
 304
 00:23:43,167 --> 00:23:45,995
 - Ajoelhem-se.
-- Perdão?
+- PerdÃ£o?
 
 305
 00:23:50,105 --> 00:23:51,581
@@ -1415,21 +1415,21 @@ Diante de sua rainha.
 
 307
 00:23:57,732 --> 00:23:59,529
-Acho que não.
+Acho que nÃ£o.
 
 308
 00:24:09,731 --> 00:24:12,075
-Não é possível.
+NÃ£o Ã© possÃ­vel.
 
 309
 00:24:13,106 --> 00:24:17,228
-Querido, não faz ideia
-do que é possível.
+Querido, nÃ£o faz ideia
+do que Ã© possÃ­vel.
 
 310
 00:24:36,915 --> 00:24:39,241
 - Traga-nos de volta!
-- Não!
+- NÃ£o!
 
 311
 00:24:48,211 --> 00:24:49,676
@@ -1437,7 +1437,7 @@ Loki!
 
 312
 00:25:36,288 --> 00:25:38,565
-Quem é você?
+Quem Ã© vocÃª?
 O que fez com Thor?
 
 313
@@ -1446,12 +1446,12 @@ Sou a Hela.
 
 314
 00:25:46,374 --> 00:25:48,280
-Sou só o zelador.
+Sou sÃ³ o zelador.
 
 315
 00:25:49,537 --> 00:25:53,794
 Parece ser um garoto esperto
-com instinto de sobrevivência.
+com instinto de sobrevivÃªncia.
 
 316
 00:25:55,701 --> 00:25:57,930
@@ -1459,21 +1459,21 @@ O que acha de um emprego?
 
 317
 00:28:09,420 --> 00:28:13,475
-Você é um lutador?
-Ou é comida?
+VocÃª Ã© um lutador?
+Ou Ã© comida?
 
 318
 00:28:13,476 --> 00:28:15,473
-Só estou passando.
+SÃ³ estou passando.
 
 319
 00:28:15,804 --> 00:28:19,046
-É comida!
+Ã‰ comida!
 De joelhos.
 
 320
 00:29:01,154 --> 00:29:02,872
-Ele é meu.
+Ele Ã© meu.
 
 321
 00:29:11,804 --> 00:29:13,339
@@ -1485,18 +1485,18 @@ Esperem.
 
 323
 00:29:25,251 --> 00:29:28,685
-Ele é meu, então,
+Ele Ã© meu, entÃ£o,
 se o quiserem,
 
 324
 00:29:28,686 --> 00:29:31,915
 - precisam passar por mim.
-- Mas já o pegamos.
+- Mas jÃ¡ o pegamos.
 
 325
 00:29:33,098 --> 00:29:36,480
-Está bem,
-vou passar por vocês.
+EstÃ¡ bem,
+vou passar por vocÃªs.
 
 326
 00:29:36,481 --> 00:29:37,882
@@ -1509,11 +1509,11 @@ Obrigado.
 328
 00:30:49,759 --> 00:30:51,438
 Catadora 142.
-Preciso de liberação
+Preciso de liberaÃ§Ã£o
 
 329
 00:30:51,439 --> 00:30:53,334
-e uma reunião com o chefe.
+e uma reuniÃ£o com o chefe.
 
 330
 00:30:53,850 --> 00:30:55,923
@@ -1522,7 +1522,7 @@ para ele.
 
 331
 00:30:56,572 --> 00:30:58,124
-Para onde está me levando?
+Para onde estÃ¡ me levando?
 
 332
 00:30:59,676 --> 00:31:01,197
@@ -1535,12 +1535,12 @@ preciso voltar a Asgard!
 
 334
 00:31:06,152 --> 00:31:08,281
-Peço desculpas,
+PeÃ§o desculpas,
 Vossa Majestade.
 
 335
 00:31:36,796 --> 00:31:40,431
-Descobri que vocês não sabem
+Descobri que vocÃªs nÃ£o sabem
 quem eu sou.
 
 336
@@ -1549,25 +1549,25 @@ Eu sou Hela.
 
 337
 00:31:49,202 --> 00:31:51,360
-A primogênita de Odin.
+A primogÃªnita de Odin.
 
 338
 00:31:51,361 --> 00:31:53,850
 Comandante
-das Legiões de Asgard,
+das LegiÃµes de Asgard,
 
 339
 00:31:53,851 --> 00:31:57,594
-a legítima herdeira do trono
+a legÃ­tima herdeira do trono
 e a Deusa da Morte.
 
 340
 00:32:01,755 --> 00:32:04,441
-Meu pai está morto.
+Meu pai estÃ¡ morto.
 
 341
 00:32:04,442 --> 00:32:06,474
-Assim como os príncipes.
+Assim como os prÃ­ncipes.
 De nada.
 
 342
@@ -1578,7 +1578,7 @@ com poder ilimitado.
 343
 00:32:10,508 --> 00:32:12,758
 Nossa supremacia
-era incontestável.
+era incontestÃ¡vel.
 
 344
 00:32:12,759 --> 00:32:16,221
@@ -1587,7 +1587,7 @@ Odin parou em nove reinos.
 
 345
 00:32:16,222 --> 00:32:20,053
-Nosso destino é
+Nosso destino Ã©
 governar todos os outros.
 
 346
@@ -1606,7 +1606,7 @@ minha grande conquista!
 
 349
 00:32:32,327 --> 00:32:34,077
-Quem quer que você seja,
+Quem quer que vocÃª seja,
 
 350
 00:32:34,078 --> 00:32:35,818
@@ -1616,7 +1616,7 @@ que tenha feito...
 351
 00:32:35,819 --> 00:32:39,652
 Renda-se agora,
-ou não teremos misericórdia.
+ou nÃ£o teremos misericÃ³rdia.
 
 352
 00:32:39,653 --> 00:32:44,082
@@ -1625,7 +1625,7 @@ Ouviu uma palavra do que falei?
 
 353
 00:32:44,083 --> 00:32:46,289
-É o seu último aviso.
+Ã‰ o seu Ãºltimo aviso.
 
 354
 00:32:48,273 --> 00:32:50,918
@@ -1642,7 +1642,7 @@ Senti falta disso.
 
 357
 00:34:08,574 --> 00:34:10,704
-Mesmo assim, é uma pena.
+Mesmo assim, Ã© uma pena.
 
 358
 00:34:10,705 --> 00:34:12,996
@@ -1651,7 +1651,7 @@ por nada.
 
 359
 00:34:12,997 --> 00:34:15,705
-Apenas por não conseguirem
+Apenas por nÃ£o conseguirem
 ver o futuro.
 
 360
@@ -1660,7 +1660,7 @@ Que triste.
 
 361
 00:34:18,243 --> 00:34:20,652
-Ele ainda está vivo.
+Ele ainda estÃ¡ vivo.
 
 362
 00:34:27,686 --> 00:34:29,513
@@ -1673,34 +1673,34 @@ de onde saiu.
 
 364
 00:34:33,008 --> 00:34:35,495
-Criatura desprezível.
+Criatura desprezÃ­vel.
 
 365
 00:34:38,794 --> 00:34:41,253
 Agora, vamos dar uma olhada
-no meu palácio.
+no meu palÃ¡cio.
 
 366
 00:35:12,302 --> 00:35:14,639
-<i>Não tema,
-você foi encontrado.</i>
+<i>NÃ£o tema,
+vocÃª foi encontrado.</i>
 
 367
 00:35:16,711 --> 00:35:19,393
-<i>Está em casa
-e não há como voltar.</i>
+<i>EstÃ¡ em casa
+e nÃ£o hÃ¡ como voltar.</i>
 
 368
 00:35:21,440 --> 00:35:23,561
-<i>Ninguém escapa deste lugar.</i>
+<i>NinguÃ©m escapa deste lugar.</i>
 
 369
 00:35:23,562 --> 00:35:25,469
-<i>Mas que lugar é este?</i>
+<i>Mas que lugar Ã© este?</i>
 
 370
 00:35:25,995 --> 00:35:27,706
-<i>A resposta é...</i>
+<i>A resposta Ã©...</i>
 
 371
 00:35:28,021 --> 00:35:30,002
@@ -1709,7 +1709,7 @@ e não há como voltar.</i>
 372
 00:35:31,056 --> 00:35:33,542
 <i>Rodeado
-por portões cósmicos,</i>
+por portÃµes cÃ³smicos,</i>
 
 373
 00:35:33,543 --> 00:35:36,553
@@ -1718,22 +1718,22 @@ do conhecido e desconhecido.</i>
 
 374
 00:35:36,554 --> 00:35:40,571
-<i>É o ponto de encontro
-de coisas perdidas e não amadas.</i>
+<i>Ã‰ o ponto de encontro
+de coisas perdidas e nÃ£o amadas.</i>
 
 375
 00:35:40,572 --> 00:35:42,322
-<i>Como você.</i>
+<i>Como vocÃª.</i>
 
 376
 00:35:42,323 --> 00:35:45,238
 <i>Mas aqui, em Sakaar,
-você tem um propósito.</i>
+vocÃª tem um propÃ³sito.</i>
 
 377
 00:35:45,239 --> 00:35:48,464
-<i>Aqui você tem valor.
-Aqui você é amado.</i>
+<i>Aqui vocÃª tem valor.
+Aqui vocÃª Ã© amado.</i>
 
 378
 00:35:48,465 --> 00:35:52,684
@@ -1742,35 +1742,35 @@ Aqui você é amado.</i>
 
 379
 00:35:52,685 --> 00:35:57,162
-<i>Ele é o original.
+<i>Ele Ã© o original.
 O primeiro perdido e achado.</i>
 
 380
 00:35:57,163 --> 00:36:01,212
 <i>Criador de Sakaar e pai
-do torneio de campeões.</i>
+do torneio de campeÃµes.</i>
 
 381
 00:36:01,650 --> 00:36:03,962
-<i>Você não era nada...</i>
+<i>VocÃª nÃ£o era nada...</i>
 
 382
 00:36:03,963 --> 00:36:06,142
 <i>Mas agora,
-é alguma coisa.</i>
+Ã© alguma coisa.</i>
 
 383
 00:36:06,143 --> 00:36:08,912
-<i>Agora, você é propriedade
+<i>Agora, vocÃª Ã© propriedade
 do Grande Mestre.</i>
 
 384
 00:36:09,283 --> 00:36:11,222
-<i>Parabéns!</i>
+<i>ParabÃ©ns!</i>
 
 385
 00:36:11,223 --> 00:36:14,780
-<i>Estará com o Grande Mestre
+<i>EstarÃ¡ com o Grande Mestre
 em cinco segundos.</i>
 
 386
@@ -1783,17 +1783,17 @@ em cinco segundos.</i>
 
 388
 00:36:21,018 --> 00:36:24,787
-<i>Você agora conhecerá
+<i>VocÃª agora conhecerÃ¡
 o Grande Mestre.</i>
 
 389
 00:36:37,151 --> 00:36:39,656
 Maravilhoso.
-É um homem?
+Ã‰ um homem?
 
 390
 00:36:39,657 --> 00:36:41,216
-Sim, é um homem.
+Sim, Ã© um homem.
 
 391
 00:36:42,069 --> 00:36:44,372
@@ -1812,8 +1812,8 @@ o que sempre falo?
 
 394
 00:36:51,185 --> 00:36:53,635
-Que ela é um...
-Começa com um M.
+Que ela Ã© um...
+ComeÃ§a com um M.
 
 395
 00:36:53,636 --> 00:36:55,029
@@ -1821,12 +1821,12 @@ Lixo.
 
 396
 00:36:55,343 --> 00:36:57,755
-Não, não lixo.
+NÃ£o, nÃ£o lixo.
 
 397
 00:36:58,122 --> 00:37:01,346
 Queria xingar ela disso?
-Porque nem começa com um M.
+Porque nem comeÃ§a com um M.
 
 398
 00:37:01,347 --> 00:37:02,910
@@ -1835,17 +1835,17 @@ Marginal.
 399
 00:37:04,599 --> 00:37:09,248
 Sinto muito. Eu quis dizer
-melhor. Acho você a melhor.
+melhor. Acho vocÃª a melhor.
 
 400
 00:37:09,249 --> 00:37:11,249
-Ela trouxe meu amado campeão,
+Ela trouxe meu amado campeÃ£o,
 sabia?
 
 401
 00:37:11,250 --> 00:37:13,120
 Ele diz isso sempre
-que ela está aqui.
+que ela estÃ¡ aqui.
 
 402
 00:37:13,121 --> 00:37:14,805
@@ -1855,16 +1855,16 @@ Conte-me.
 403
 00:37:14,806 --> 00:37:16,938
 - Um desafiador.
-- O quê?
+- O quÃª?
 
 404
 00:37:16,939 --> 00:37:19,463
 Preciso chegar perto dele.
-Quero olhá-lo de perto.
+Quero olhÃ¡-lo de perto.
 
 405
 00:37:19,464 --> 00:37:21,536
-Pode me levar até lá?
+Pode me levar atÃ© lÃ¡?
 Obrigado.
 
 406
@@ -1874,22 +1874,22 @@ Obrigado.
 
 407
 00:37:36,973 --> 00:37:39,732
-Eu não estou à venda.
+Eu nÃ£o estou Ã  venda.
 
 408
 00:37:45,465 --> 00:37:48,726
-- Olha só, ele é um lutador.
-- Quero 10 milhões.
+- Olha sÃ³, ele Ã© um lutador.
+- Quero 10 milhÃµes.
 
 409
 00:37:48,727 --> 00:37:52,485
-- Só em sonho.
-- Pare já, faça a transferência.
+- SÃ³ em sonho.
+- Pare jÃ¡, faÃ§a a transferÃªncia.
 
 410
 00:37:59,155 --> 00:38:02,773
-- Irá pagar por isso.
-- Não, eu fui paga por isso.
+- IrÃ¡ pagar por isso.
+- NÃ£o, eu fui paga por isso.
 
 411
 00:38:04,033 --> 00:38:06,116
@@ -1897,16 +1897,16 @@ Eis o que quero saber.
 
 412
 00:38:07,142 --> 00:38:08,460
-Quem é você?
+Quem Ã© vocÃª?
 
 413
 00:38:08,461 --> 00:38:13,121
-Sou o Deus do Trovão!
+Sou o Deus do TrovÃ£o!
 
 414
 00:38:15,829 --> 00:38:20,017
-Não ouvi trovões, mas o que saiu
-de seus dedos foram faíscas?
+NÃ£o ouvi trovÃµes, mas o que saiu
+de seus dedos foram faÃ­scas?
 
 415
 00:38:20,018 --> 00:38:21,901
@@ -1919,16 +1919,16 @@ Tudo bem.
 417
 00:38:23,987 --> 00:38:26,138
 Venha comigo.
-Irá gostar disso.
+IrÃ¡ gostar disso.
 
 418
 00:38:26,139 --> 00:38:28,810
-Ali está ele.
+Ali estÃ¡ ele.
 Oi, primo.
 
 419
 00:38:28,811 --> 00:38:31,556
-Não encontrávamos você,
+NÃ£o encontrÃ¡vamos vocÃª,
 estava escondido?
 
 420
@@ -1937,7 +1937,7 @@ Oi.
 
 421
 00:38:33,852 --> 00:38:35,656
-Então...
+EntÃ£o...
 
 422
 00:38:35,657 --> 00:38:37,293
@@ -1945,7 +1945,7 @@ Por favor.
 
 423
 00:38:38,069 --> 00:38:39,680
-Perdão.
+PerdÃ£o.
 
 424
 00:38:40,247 --> 00:38:42,074
@@ -1958,7 +1958,7 @@ Carlo...
 
 426
 00:38:46,969 --> 00:38:49,188
-Está oficialmente perdoado
+EstÃ¡ oficialmente perdoado
 
 427
 00:38:49,189 --> 00:38:51,009
@@ -1983,42 +1983,42 @@ Esse cheiro.
 
 432
 00:39:07,007 --> 00:39:09,734
-- Cheira a quê?
+- Cheira a quÃª?
 - Torrada queimada.
 
 433
 00:39:10,571 --> 00:39:12,540
-Cadê os meus bons modos?
+CadÃª os meus bons modos?
 
 434
 00:39:12,541 --> 00:39:15,394
 Esqueci de me apresentar
-propriamente, vamos lá.
+propriamente, vamos lÃ¡.
 
 435
 00:39:15,395 --> 00:39:18,621
 Siga-me.
-Meu nome é Grande Mestre.
+Meu nome Ã© Grande Mestre.
 
 436
 00:39:18,622 --> 00:39:22,604
 Comando o que chamam
-de torneio de campeões.
+de torneio de campeÃµes.
 
 437
 00:39:22,605 --> 00:39:25,221
-Muitas pessoas vêm de longe
+Muitas pessoas vÃªm de longe
 para participar.
 
 438
 00:39:25,222 --> 00:39:29,183
-E você, meu amigo,
-é um novo membro, o que acha?
+E vocÃª, meu amigo,
+Ã© um novo membro, o que acha?
 
 439
 00:39:29,184 --> 00:39:31,490
-Não somos amigos
-e não ligo para seus jogos.
+NÃ£o somos amigos
+e nÃ£o ligo para seus jogos.
 
 440
 00:39:31,491 --> 00:39:33,292
@@ -2034,7 +2034,7 @@ Asgard?
 
 443
 00:39:41,915 --> 00:39:44,904
-Então, eu o deixei ir.
+EntÃ£o, eu o deixei ir.
 
 444
 00:39:44,905 --> 00:39:46,693
@@ -2051,8 +2051,8 @@ Loki!
 
 447
 00:39:56,011 --> 00:39:57,581
-- O quê?
-- Você está vivo.
+- O quÃª?
+- VocÃª estÃ¡ vivo.
 
 448
 00:39:57,582 --> 00:39:59,626
@@ -2062,16 +2062,16 @@ Loki!
 449
 00:39:59,627 --> 00:40:02,327
 Como assim? Estou preso aqui.
-Cadê a sua cadeira?
+CadÃª a sua cadeira?
 
 450
 00:40:02,328 --> 00:40:04,393
-- Não tenho uma.
-- Então, me tire daqui.
+- NÃ£o tenho uma.
+- EntÃ£o, me tire daqui.
 
 451
 00:40:04,394 --> 00:40:06,506
-- Não posso. Não posso.
+- NÃ£o posso. NÃ£o posso.
 - Me tire. Certo.
 
 452
@@ -2080,32 +2080,32 @@ Sou amigo do Grande Mestre.
 
 453
 00:40:08,111 --> 00:40:09,919
-- É um idiota.
+- Ã‰ um idiota.
 - Me dei bem com ele.
 
 454
 00:40:09,920 --> 00:40:11,660
 Bifrost me trouxe aqui
-há semanas.
+hÃ¡ semanas.
 
 455
 00:40:11,661 --> 00:40:12,967
-- Semanas atrás?
+- Semanas atrÃ¡s?
 - Sim.
 
 456
 00:40:12,968 --> 00:40:15,599
 - Acabei de chegar aqui.
-- O que estão falando?
+- O que estÃ£o falando?
 
 457
 00:40:16,006 --> 00:40:18,188
-O tempo aqui é diferente.
+O tempo aqui Ã© diferente.
 
 458
 00:40:18,189 --> 00:40:21,390
 Em outros mundos,
-eu teria milhões de anos.
+eu teria milhÃµes de anos.
 
 459
 00:40:21,391 --> 00:40:22,966
@@ -2113,17 +2113,17 @@ Mas aqui em Sakaar...
 
 460
 00:40:28,133 --> 00:40:30,588
-Deixa para lá.
-Você conhece esse,
+Deixa para lÃ¡.
+VocÃª conhece esse,
 
 461
 00:40:30,589 --> 00:40:32,858
 esse, ele se denomina
-Senhor do Trovão.
+Senhor do TrovÃ£o.
 
 462
 00:40:32,859 --> 00:40:34,251
-Deus do Trovão.
+Deus do TrovÃ£o.
 
 463
 00:40:34,252 --> 00:40:36,922
@@ -2132,7 +2132,7 @@ Deus do Trovão.
 
 464
 00:40:36,923 --> 00:40:38,807
-- Ele é meu irmão.
+- Ele Ã© meu irmÃ£o.
 - Sou adotado.
 
 465
@@ -2142,13 +2142,13 @@ ao menos?
 
 466
 00:40:40,157 --> 00:40:42,127
-Tire isso do meu pescoço
-e verá.
+Tire isso do meu pescoÃ§o
+e verÃ¡.
 
 467
 00:40:42,128 --> 00:40:45,140
-Ótimo.
-Está me ameaçando, oi, faísca.
+Ã“timo.
+EstÃ¡ me ameaÃ§ando, oi, faÃ­sca.
 
 468
 00:40:45,141 --> 00:40:48,731
@@ -2158,24 +2158,24 @@ quer voltar para Asberg?
 469
 00:40:48,732 --> 00:40:52,621
 - Asgard.
-- Quem vencer meu campeão,
+- Quem vencer meu campeÃ£o,
 
 470
 00:40:52,622 --> 00:40:55,048
-ganhará a sua liberdade.
+ganharÃ¡ a sua liberdade.
 
 471
 00:40:55,049 --> 00:40:58,325
-Me mostre onde está
+Me mostre onde estÃ¡
 o cara que tenho que bater.
 
 472
 00:40:58,326 --> 00:41:00,825
-É o concorrente.
+Ã‰ o concorrente.
 
 473
 00:41:00,826 --> 00:41:03,475
-O caminho é por aqui,
+O caminho Ã© por aqui,
 senhor.
 
 474
@@ -2199,7 +2199,7 @@ sou uma criatura.
 478
 00:41:20,279 --> 00:41:22,271
 Deixe-me me apresentar,
-meu nome é Korg,
+meu nome Ã© Korg,
 
 479
 00:41:22,272 --> 00:41:24,137
@@ -2209,31 +2209,31 @@ o comandante aqui.
 480
 00:41:24,138 --> 00:41:27,523
 Sou feito de pedras,
-mas não deixe se intimidar.
+mas nÃ£o deixe se intimidar.
 
 481
 00:41:27,524 --> 00:41:30,259
-Não precisa se preocupar
+NÃ£o precisa se preocupar
 a menos que seja uma tesoura.
 
 482
 00:41:30,574 --> 00:41:33,212
-É uma brincadeira,
+Ã‰ uma brincadeira,
 pedra, papel e tesoura.
 
 483
 00:41:33,213 --> 00:41:36,013
-Esse é meu bom amigo,
+Esse Ã© meu bom amigo,
 Mick.
 
 484
 00:41:36,014 --> 00:41:38,856
-Ele é um inseto
-e tem lâminas nas mãos.
+Ele Ã© um inseto
+e tem lÃ¢minas nas mÃ£os.
 
 485
 00:41:39,379 --> 00:41:42,118
-- Você é Kronan, não é?
+- VocÃª Ã© Kronan, nÃ£o Ã©?
 - Sim, eu sou.
 
 486
@@ -2242,21 +2242,21 @@ Como veio parar aqui?
 
 487
 00:41:43,904 --> 00:41:46,957
-Tentei iniciar uma revolução,
+Tentei iniciar uma revoluÃ§Ã£o,
 mas imprimi poucos panfletos,
 
 488
 00:41:46,958 --> 00:41:48,952
-então, quase ninguém veio.
+entÃ£o, quase ninguÃ©m veio.
 
 489
 00:41:48,953 --> 00:41:51,012
-Só a minha mãe
+SÃ³ a minha mÃ£e
 e o namorado, que odeio.
 
 490
 00:41:51,013 --> 00:41:54,566
-Como punição fui forçado
+Como puniÃ§Ã£o fui forÃ§ado
 a ser um gladiador aqui.
 
 491
@@ -2267,45 +2267,45 @@ de percurso.
 492
 00:41:56,827 --> 00:41:59,677
 Mas estou quase organizando
-outra revolução.
+outra revoluÃ§Ã£o.
 
 493
 00:41:59,678 --> 00:42:01,982
-Não sei se tem interesse
+NÃ£o sei se tem interesse
 em coisas como essa.
 
 494
 00:42:01,983 --> 00:42:03,911
-Não estaria interessado?
+NÃ£o estaria interessado?
 
 495
 00:42:05,488 --> 00:42:09,932
-- Como você...
-- Tudo aqui é um círculo.
+- Como vocÃª...
+- Tudo aqui Ã© um cÃ­rculo.
 
 496
 00:42:09,933 --> 00:42:13,362
-Não um círculo normal.
-Mas um círculo bizarro.
+NÃ£o um cÃ­rculo normal.
+Mas um cÃ­rculo bizarro.
 
 497
 00:42:13,363 --> 00:42:16,198
-- Isso não faz sentido.
+- Isso nÃ£o faz sentido.
 - Nada aqui faz sentido, cara.
 
 498
 00:42:16,199 --> 00:42:19,315
-A única coisa que faz sentido
-aqui é que nada faz sentido.
+A Ãºnica coisa que faz sentido
+aqui Ã© que nada faz sentido.
 
 499
 00:42:19,316 --> 00:42:22,013
-Alguém já lutou contra o campeão
+AlguÃ©m jÃ¡ lutou contra o campeÃ£o
 do Grande Mestre?
 
 500
 00:42:22,014 --> 00:42:24,137
-Doug já enfrentou.
+Doug jÃ¡ enfrentou.
 Doug?
 
 501
@@ -2314,13 +2314,13 @@ O Doug morreu.
 
 502
 00:42:25,824 --> 00:42:29,099
-É isso, todos que lutam
-contra o campeão dele, morre.
+Ã‰ isso, todos que lutam
+contra o campeÃ£o dele, morre.
 
 503
 00:42:29,100 --> 00:42:31,053
-E quanto a você?
-Não é feito de pedras?
+E quanto a vocÃª?
+NÃ£o Ã© feito de pedras?
 
 504
 00:42:31,054 --> 00:42:34,118
@@ -2330,31 +2330,31 @@ Viu, outra caiu.
 505
 00:42:34,119 --> 00:42:37,775
 Participo de lutas pequenas,
-e animo a torcida, só isso.
+e animo a torcida, sÃ³ isso.
 
 506
 00:42:37,776 --> 00:42:40,891
-- Você não vai enfrentá-lo, vai?
+- VocÃª nÃ£o vai enfrentÃ¡-lo, vai?
 - Vou.
 
 507
 00:42:41,557 --> 00:42:44,976
-Irei enfrentá-lo, vencer
+Irei enfrentÃ¡-lo, vencer
 e dar o fora daqui.
 
 508
 00:42:45,344 --> 00:42:49,231
 Foi o mesmo que Doug disse.
-Até depois, novo Doug.
+AtÃ© depois, novo Doug.
 
 509
 00:42:58,827 --> 00:43:01,206
-Ninguém se lembra de mim?
+NinguÃ©m se lembra de mim?
 
 510
 00:43:01,207 --> 00:43:03,827
-Ninguém ouviu
-nossa história?
+NinguÃ©m ouviu
+nossa histÃ³ria?
 
 511
 00:43:09,213 --> 00:43:11,512
@@ -2362,7 +2362,7 @@ Olhe para essas mentiras.
 
 512
 00:43:11,513 --> 00:43:14,071
-Taças e festas?
+TaÃ§as e festas?
 
 513
 00:43:15,271 --> 00:43:17,021
@@ -2383,12 +2383,12 @@ de como conseguiu.
 
 517
 00:43:41,230 --> 00:43:43,410
-<i>Somos imparáveis.</i>
+<i>Somos imparÃ¡veis.</i>
 
 518
 00:43:43,879 --> 00:43:47,995
 <i>Fui a arma dele para conquistar
-o Império de Asgard.</i>
+o ImpÃ©rio de Asgard.</i>
 
 519
 00:43:51,229 --> 00:43:54,354
@@ -2397,7 +2397,7 @@ um por um.</i>
 
 520
 00:43:54,729 --> 00:43:59,051
-<i>Entretanto, a minha ambição
+<i>Entretanto, a minha ambiÃ§Ã£o
 superou as dele,</i>
 
 521
@@ -2413,7 +2413,7 @@ de Asgard eram honrados.
 523
 00:44:06,915 --> 00:44:10,532
 Seus corpos foram enterrados,
-como heróis, sob esse palácio.
+como herÃ³is, sob esse palÃ¡cio.
 
 524
 00:44:21,657 --> 00:44:24,243
@@ -2446,7 +2446,7 @@ A Chama Eterna.
 
 531
 00:45:09,177 --> 00:45:11,912
-Quer ver como é
+Quer ver como Ã©
 um poder de verdade?
 
 532
@@ -2457,15 +2457,15 @@ o que fizeram contigo?
 533
 00:45:45,763 --> 00:45:50,154
 Pela Chama Eterna
-serão renascidos!
+serÃ£o renascidos!
 
 534
 00:46:05,333 --> 00:46:07,137
-Senti falta de vocês.
+Senti falta de vocÃªs.
 
 535
 00:46:07,981 --> 00:46:09,778
-De todos vocês.
+De todos vocÃªs.
 
 536
 00:46:12,567 --> 00:46:13,878
@@ -2474,7 +2474,7 @@ Odin...
 537
 00:46:13,879 --> 00:46:16,981
 Aposto que tomou seu lugar
-nos salões de Valhalla.
+nos salÃµes de Valhalla.
 
 538
 00:46:17,394 --> 00:46:19,630
@@ -2483,7 +2483,7 @@ para sempre.
 
 539
 00:46:21,363 --> 00:46:23,735
-Não irei chorar,
+NÃ£o irei chorar,
 vou me alegrar,
 
 540
@@ -2493,72 +2493,72 @@ uma morte heroica.
 
 541
 00:46:34,741 --> 00:46:37,483
-Dói, não?
-Quando mentem para você.
+DÃ³i, nÃ£o?
+Quando mentem para vocÃª.
 
 542
 00:46:38,338 --> 00:46:41,682
 Pensar uma coisa,
-depois perceber que é mentira.
+depois perceber que Ã© mentira.
 
 543
 00:46:46,302 --> 00:46:48,381
-Não achou que eu
+NÃ£o achou que eu
 viesse pessoalmente,
 
 544
 00:46:48,382 --> 00:46:50,396
-esse lugar é nojento.
+esse lugar Ã© nojento.
 
 545
 00:46:52,956 --> 00:46:54,784
 Quer dizer
-que não quer minha ajuda?
+que nÃ£o quer minha ajuda?
 
 546
 00:46:54,785 --> 00:46:57,135
-Não quis afetar
-a posição com o Grande Mestre.
+NÃ£o quis afetar
+a posiÃ§Ã£o com o Grande Mestre.
 
 547
 00:46:57,136 --> 00:46:58,786
 Demorou para ganhar
-sua confiança.
+sua confianÃ§a.
 
 548
 00:46:58,787 --> 00:47:00,404
-É um lunático,
-mas influenciável.
+Ã‰ um lunÃ¡tico,
+mas influenciÃ¡vel.
 
 549
 00:47:00,405 --> 00:47:03,890
-O que quero dizer é: junte-se
+O que quero dizer Ã©: junte-se
 a mim e ao Grande Mestre,
 
 550
 00:47:03,891 --> 00:47:08,546
-talvez aconteça um acidente
-com o Grande Mestre e aí...
+talvez aconteÃ§a um acidente
+com o Grande Mestre e aÃ­...
 
 551
 00:47:14,788 --> 00:47:17,359
-Não está pensando
-em voltar, está?
+NÃ£o estÃ¡ pensando
+em voltar, estÃ¡?
 
 552
 00:47:19,593 --> 00:47:23,661
-Nossa irmã destruiu seu martelo,
+Nossa irmÃ£ destruiu seu martelo,
 como um caco de vidro.
 
 553
 00:47:24,002 --> 00:47:25,627
-Ela é mais forte
-que nós dois,
+Ela Ã© mais forte
+que nÃ³s dois,
 
 554
 00:47:25,628 --> 00:47:28,011
-mais forte que você,
-não tem chance.
+mais forte que vocÃª,
+nÃ£o tem chance.
 
 555
 00:47:28,012 --> 00:47:29,668
@@ -2579,7 +2579,7 @@ Como sempre fui.
 
 559
 00:47:45,701 --> 00:47:47,341
-Não vai dizer nada?
+NÃ£o vai dizer nada?
 
 560
 00:47:49,754 --> 00:47:51,418
@@ -2591,8 +2591,8 @@ O que quer que eu diga?
 
 562
 00:47:55,059 --> 00:47:56,965
-Você fingiu
-a própria morte.
+VocÃª fingiu
+a prÃ³pria morte.
 
 563
 00:47:57,459 --> 00:47:59,908
@@ -2601,36 +2601,36 @@ e o poder de Odin,
 
 564
 00:47:59,909 --> 00:48:03,569
-enviou-o à Terra para morrer,
+enviou-o Ã  Terra para morrer,
 libertou a Deusa da Morte.
 
 565
 00:48:03,570 --> 00:48:05,789
 Eu disse o bastante,
-ou quer que eu vá além
+ou quer que eu vÃ¡ alÃ©m
 
 566
 00:48:05,790 --> 00:48:07,641
-desses dois últimos dias?
+desses dois Ãºltimos dias?
 
 567
 00:48:08,634 --> 00:48:12,739
-Não vi esse campeão
+NÃ£o vi esse campeÃ£o
 favorito que ele fala,
 
 568
 00:48:12,740 --> 00:48:14,839
 mas soube
-que é bem selvagem.
+que Ã© bem selvagem.
 
 569
 00:48:14,840 --> 00:48:17,715
 Apostei muito
-contra você amanhã.
+contra vocÃª amanhÃ£.
 
 570
 00:48:19,286 --> 00:48:20,786
-Não me decepcione.
+NÃ£o me decepcione.
 
 571
 00:48:24,071 --> 00:48:25,626
@@ -2643,7 +2643,7 @@ Era um holograma.
 573
 00:48:39,793 --> 00:48:42,277
 Ainda tem cabelo e sangue
-de alguém aqui.
+de alguÃ©m aqui.
 
 574
 00:48:42,278 --> 00:48:44,761
@@ -2656,21 +2656,21 @@ Soldados nojentos.
 
 576
 00:48:47,307 --> 00:48:50,400
-Thor, vai usar um garfão
+Thor, vai usar um garfÃ£o
 de madeira?
 
 577
 00:48:50,912 --> 00:48:52,250
-Não.
+NÃ£o.
 
 578
 00:48:52,251 --> 00:48:54,337
-Ele é inútil,
+Ele Ã© inÃºtil,
 a menos que esteja
 
 579
 00:48:54,338 --> 00:48:56,801
-atacando três vampiros
+atacando trÃªs vampiros
 ao mesmo tempo.
 
 580
@@ -2686,25 +2686,25 @@ o meu martelo.
 582
 00:49:01,550 --> 00:49:05,097
 feito de um metal especial,
-do coração de uma estrela.
+do coraÃ§Ã£o de uma estrela.
 
 583
 00:49:05,448 --> 00:49:08,198
 Quando eu girava ele
-bem rápido, eu voava.
+bem rÃ¡pido, eu voava.
 
 584
 00:49:08,199 --> 00:49:11,044
-- Você montava o martelo?
-- Não, não montava.
+- VocÃª montava o martelo?
+- NÃ£o, nÃ£o montava.
 
 585
 00:49:11,376 --> 00:49:12,765
-Ele montava você?
+Ele montava vocÃª?
 
 586
 00:49:12,766 --> 00:49:16,530
-Não, eu o girava rápido
+NÃ£o, eu o girava rÃ¡pido
 e voava...
 
 587
@@ -2714,7 +2714,7 @@ ele te fazia voar?
 
 588
 00:49:18,791 --> 00:49:22,148
-Ele me tirava do chão,
+Ele me tirava do chÃ£o,
 me levava para o alto, voando.
 
 589
@@ -2724,12 +2724,12 @@ ele voltava para mim.
 
 590
 00:49:25,949 --> 00:49:28,668
-Parece que o martelo era íntimo
-e especial para você
+Parece que o martelo era Ã­ntimo
+e especial para vocÃª
 
 591
 00:49:28,669 --> 00:49:31,887
-e perdê-lo compara-se
+e perdÃª-lo compara-se
 a perder um ente querido.
 
 592
@@ -2738,11 +2738,11 @@ Falou bonito.
 
 593
 00:49:35,562 --> 00:49:38,210
-Disse que eles são meus.
+Disse que eles sÃ£o meus.
 
 594
 00:49:39,312 --> 00:49:41,437
-Ela que me pôs aqui.
+Ela que me pÃ´s aqui.
 
 595
 00:49:41,438 --> 00:49:45,849
@@ -2751,7 +2751,7 @@ Cuidado com esse povo de Asgard.
 
 596
 00:49:45,850 --> 00:49:47,241
-Eles são durões.
+Eles sÃ£o durÃµes.
 
 597
 00:49:47,850 --> 00:49:49,241
@@ -2759,17 +2759,17 @@ Asgard?
 
 598
 00:49:55,087 --> 00:49:57,852
-Não me eletrifique com isso,
-só quero conversar.
+NÃ£o me eletrifique com isso,
+sÃ³ quero conversar.
 
 599
 00:49:59,311 --> 00:50:01,038
-Asgard está em perigo.
+Asgard estÃ¡ em perigo.
 
 600
 00:50:04,832 --> 00:50:06,473
 Meu Deus,
-você é uma Valquíria.
+vocÃª Ã© uma ValquÃ­ria.
 
 601
 00:50:07,455 --> 00:50:09,969
@@ -2783,31 +2783,31 @@ que todas eram mulheres,
 
 603
 00:50:12,039 --> 00:50:14,506
-mas não tem nada de errado
+mas nÃ£o tem nada de errado
 com isso, amo mulheres.
 
 604
 00:50:14,507 --> 00:50:16,655
-Às vezes até demais.
+Ã€s vezes atÃ© demais.
 
 605
 00:50:16,656 --> 00:50:20,585
-Sem ser esquisitão,
+Sem ser esquisitÃ£o,
 eu aprecio respeitosamente
 
 606
 00:50:20,586 --> 00:50:24,031
-que haja uma força de elite
+que haja uma forÃ§a de elite
 de guerreiras.
 
 607
 00:50:24,437 --> 00:50:26,031
-Já era hora.
+JÃ¡ era hora.
 
 608
 00:50:27,528 --> 00:50:29,570
 - Terminou?
-<i>- Senhor do Trovão, sua vez!</i>
+<i>- Senhor do TrovÃ£o, sua vez!</i>
 
 609
 00:50:29,571 --> 00:50:31,594
@@ -2816,77 +2816,77 @@ Já era hora.
 
 610
 00:50:32,031 --> 00:50:34,060
-Ou é uma traidora,
+Ou Ã© uma traidora,
 ou uma covarde,
 
 611
 00:50:34,061 --> 00:50:36,088
-as Valquírias juraram
+as ValquÃ­rias juraram
 lealdade ao trono.
 
 612
 00:50:37,414 --> 00:50:40,446
-Ouça bem, majestade.
-Aqui é Sakaar, não Asgard.
+OuÃ§a bem, majestade.
+Aqui Ã© Sakaar, nÃ£o Asgard.
 
 613
 00:50:40,447 --> 00:50:42,617
 Sou uma catadora,
-não uma Valquíria.
+nÃ£o uma ValquÃ­ria.
 
 614
 00:50:46,060 --> 00:50:48,041
-Levem-no para a preparação.
+Levem-no para a preparaÃ§Ã£o.
 
 615
 00:50:48,042 --> 00:50:50,161
-E ninguém escapa daqui.
+E ninguÃ©m escapa daqui.
 
 616
 00:50:50,162 --> 00:50:52,449
-Você vai morrer
+VocÃª vai morrer
 de qualquer jeito.
 
 617
 00:51:03,758 --> 00:51:05,290
-Agora não se mexa.
+Agora nÃ£o se mexa.
 
 618
 00:51:05,291 --> 00:51:07,899
-Minhas mãos têm tremido
+Minhas mÃ£os tÃªm tremido
 ultimamente.
 
 619
 00:51:07,900 --> 00:51:11,121
 Pelas barbas de Odin,
-você não vai cortar meu cabelo.
+vocÃª nÃ£o vai cortar meu cabelo.
 
 620
 00:51:11,122 --> 00:51:14,214
-Ou irá experimentar
-a fúria do poderoso Thor!
+Ou irÃ¡ experimentar
+a fÃºria do poderoso Thor!
 
 621
 00:51:18,578 --> 00:51:20,671
 Por favor, senhor,
-não corte meu cabelo.
+nÃ£o corte meu cabelo.
 
 622
 00:51:21,954 --> 00:51:24,602
-Por favor, não!
+Por favor, nÃ£o!
 
 623
 00:51:36,871 --> 00:51:39,051
-<i>Olha só vocês!</i>
+<i>Olha sÃ³ vocÃªs!</i>
 
 624
 00:51:39,598 --> 00:51:42,113
 <i>Que show, que noite,
-estão se divertindo?</i>
+estÃ£o se divertindo?</i>
 
 625
 00:51:43,425 --> 00:51:45,496
-<i>Prazer, sou seu anfitrião.</i>
+<i>Prazer, sou seu anfitriÃ£o.</i>
 
 626
 00:51:45,497 --> 00:51:49,042
@@ -2903,7 +2903,7 @@ para nossos competidores</i>
 
 629
 00:51:55,744 --> 00:51:59,041
-<i>Para isso que vocês vieram,
+<i>Para isso que vocÃªs vieram,
 assim como eu.</i>
 
 630
@@ -2913,11 +2913,11 @@ sem mais delongas,</i>
 
 631
 00:52:08,303 --> 00:52:10,210
-<i>é hora do evento principal.</i>
+<i>Ã© hora do evento principal.</i>
 
 632
 00:52:12,448 --> 00:52:15,496
-<i>Em sua primeira aparição,
+<i>Em sua primeira apariÃ§Ã£o,
 parece bem promissor,</i>
 
 633
@@ -2927,26 +2927,26 @@ na manga...</i>
 
 634
 00:52:17,678 --> 00:52:20,851
-<i>Não direi mais nada,
-vejam vocês mesmos.</i>
+<i>NÃ£o direi mais nada,
+vejam vocÃªs mesmos.</i>
 
 635
 00:52:20,852 --> 00:52:22,887
 <i>Senhoras e senhores,
-apresento a vocês...</i>
+apresento a vocÃªs...</i>
 
 636
 00:52:23,459 --> 00:52:25,790
-<i>Senhor do Trovão.</i>
+<i>Senhor do TrovÃ£o.</i>
 
 637
 00:52:49,119 --> 00:52:51,385
 <i>Cuidado com os dedos dele,
-soltam faíscas.</i>
+soltam faÃ­scas.</i>
 
 638
 00:52:51,386 --> 00:52:52,869
-<i>Certo, é isso.</i>
+<i>Certo, Ã© isso.</i>
 
 639
 00:52:52,870 --> 00:52:55,110
@@ -2955,17 +2955,17 @@ para receber esse cara.</i>
 
 640
 00:52:55,111 --> 00:52:56,411
-<i>Aí vem ele.</i>
+<i>AÃ­ vem ele.</i>
 
 641
 00:53:04,922 --> 00:53:08,079
-<i>Ele é uma criatura,
+<i>Ele Ã© uma criatura,
 o que posso dizer sobre ele?</i>
 
 642
 00:53:08,080 --> 00:53:10,839
-<i>Ele é único,
-não tem nada igual,</i>
+<i>Ele Ã© Ãºnico,
+nÃ£o tem nada igual,</i>
 
 643
 00:53:10,840 --> 00:53:13,012
@@ -2973,24 +2973,24 @@ não tem nada igual,</i>
 
 644
 00:53:14,783 --> 00:53:16,564
-<i>Ele é imbatível.</i>
+<i>Ele Ã© imbatÃ­vel.</i>
 
 645
 00:53:17,572 --> 00:53:19,017
-<i>Ele é o rei.</i>
+<i>Ele Ã© o rei.</i>
 
 646
 00:53:21,416 --> 00:53:22,931
-<i>Ele é o defensor.</i>
+<i>Ele Ã© o defensor.</i>
 
 647
 00:53:23,721 --> 00:53:26,284
 <i>Senhoras e senhores,
-trago a vocês...</i>
+trago a vocÃªs...</i>
 
 648
 00:53:30,791 --> 00:53:35,791
-<i>Seu incrível...</i>
+<i>Seu incrÃ­vel...</i>
 
 649
 00:53:36,339 --> 00:53:40,448
@@ -3019,15 +3019,15 @@ Hulk!
 
 655
 00:54:00,668 --> 00:54:02,519
-Nós nos conhecemos!
+NÃ³s nos conhecemos!
 
 656
 00:54:02,520 --> 00:54:04,453
-Ele é um amigo de trabalho!
+Ele Ã© um amigo de trabalho!
 
 657
 00:54:13,761 --> 00:54:17,425
-Onde você esteve?
+Onde vocÃª esteve?
 Todos acharam que estava morto.
 
 658
@@ -3042,16 +3042,16 @@ Eu perdi meu martelo.
 660
 00:54:22,420 --> 00:54:25,389
 Isso foi ontem,
-então, ainda é recente.
+entÃ£o, ainda Ã© recente.
 
 661
 00:54:25,390 --> 00:54:28,843
-Loki está vivo, acredita?
-Está lá em cima.
+Loki estÃ¡ vivo, acredita?
+EstÃ¡ lÃ¡ em cima.
 
 662
 00:54:28,844 --> 00:54:31,210
-Loki, olha quem está aqui!
+Loki, olha quem estÃ¡ aqui!
 
 663
 00:54:33,067 --> 00:54:38,000
@@ -3077,8 +3077,8 @@ Sou eu, Thor.
 
 668
 00:55:16,099 --> 00:55:19,483
-Nós somos amigos.
-É inSano, não quero te ferir.
+NÃ³s somos amigos.
+Ã‰ inSano, nÃ£o quero te ferir.
 
 669
 00:55:26,162 --> 00:55:28,462
@@ -3086,33 +3086,33 @@ Agora sim, bem melhor.
 
 670
 00:55:47,378 --> 00:55:48,678
-O quê?
+O quÃª?
 
 671
 00:55:59,036 --> 00:56:00,468
-Grandão.
+GrandÃ£o.
 
 672
 00:56:02,208 --> 00:56:04,500
-O sol está se pondo.
+O sol estÃ¡ se pondo.
 
 673
 00:56:15,152 --> 00:56:17,311
-Isso, o sol já vai se pôr.
+Isso, o sol jÃ¡ vai se pÃ´r.
 
 674
 00:56:20,590 --> 00:56:23,850
-Não vou te ferir mais.
-Ninguém vai.
+NÃ£o vou te ferir mais.
+NinguÃ©m vai.
 
 675
 00:56:35,960 --> 00:56:39,010
 Isso!
-Viu como é bom?
+Viu como Ã© bom?
 
 676
 00:56:39,312 --> 00:56:41,596
-Eu sou muito fã desse esporte.
+Eu sou muito fÃ£ desse esporte.
 
 677
 00:56:49,114 --> 00:56:51,750
@@ -3120,26 +3120,26 @@ Tudo bem, que se dane.
 
 678
 00:57:03,023 --> 00:57:05,729
-Sei que está aí, Banner.
+Sei que estÃ¡ aÃ­, Banner.
 Eu vou te libertar.
 
 679
 00:57:14,742 --> 00:57:18,442
-Idiota! Você me humilhou,
-eu disse que éramos amigos!
+Idiota! VocÃª me humilhou,
+eu disse que Ã©ramos amigos!
 
 680
 00:58:49,141 --> 00:58:52,506
-<i>Trovão!</i>
+<i>TrovÃ£o!</i>
 
 681
 00:58:52,507 --> 00:58:57,397
-<i>Trovão!</i>
-Trovão!
+<i>TrovÃ£o!</i>
+TrovÃ£o!
 
 682
 00:58:57,398 --> 00:58:59,158
-Trovão!
+TrovÃ£o!
 
 683
 00:59:30,170 --> 00:59:32,869
@@ -3147,34 +3147,34 @@ Outro dia, outro Doug.
 
 684
 00:59:42,278 --> 00:59:44,474
-Que barulho é esse?
+Que barulho Ã© esse?
 
 685
 00:59:45,066 --> 00:59:47,735
-O povo não quer mais obedecer.
+O povo nÃ£o quer mais obedecer.
 
 686
 00:59:47,736 --> 00:59:51,310
-Há uma resistência
-tentando derrubar o portão.
+HÃ¡ uma resistÃªncia
+tentando derrubar o portÃ£o.
 
 687
 00:59:56,915 --> 00:59:58,881
-Fale-me sobre você, Skurge.
+Fale-me sobre vocÃª, Skurge.
 
 688
 01:00:00,046 --> 01:00:03,567
 - Meu pai era carpinteiro...
-- Pode parar por aí.
+- Pode parar por aÃ­.
 
 689
 01:00:03,568 --> 01:00:07,286
-O que quis dizer é,
-quais suas ambições?
+O que quis dizer Ã©,
+quais suas ambiÃ§Ãµes?
 
 690
 01:00:08,785 --> 01:00:11,982
-Só queria ter uma chance
+SÃ³ queria ter uma chance
 de provar meu valor.
 
 691
@@ -3188,12 +3188,12 @@ todo rei tinha um Executor.
 
 693
 01:00:19,105 --> 01:00:21,637
-Não só para executar pessoas,
+NÃ£o sÃ³ para executar pessoas,
 
 694
 01:00:21,638 --> 01:00:24,087
-mas também
-para executar a visão deles.
+mas tambÃ©m
+para executar a visÃ£o deles.
 
 695
 01:00:25,113 --> 01:00:26,817
@@ -3210,30 +3210,30 @@ Eu era a Executora de Odin.
 
 698
 01:00:35,669 --> 01:00:37,195
-E você
+E vocÃª
 
 699
 01:00:37,949 --> 01:00:40,462
-será o meu Executor.
+serÃ¡ o meu Executor.
 
 700
 01:00:45,413 --> 01:00:47,586
-Vamos começar
+Vamos comeÃ§ar
 nossa conquista.
 
 701
 01:00:58,779 --> 01:01:00,992
-Skurge, cadê a espada?
+Skurge, cadÃª a espada?
 
 702
 01:01:05,732 --> 01:01:09,869
-A espada é a chave
+A espada Ã© a chave
 para abrir a Bifrost.
 
 703
 01:01:09,870 --> 01:01:13,729
 Aquelas pessoas que me contou,
-que estão na resistência,
+que estÃ£o na resistÃªncia,
 
 704
 01:01:13,730 --> 01:01:15,601
@@ -3241,7 +3241,7 @@ traga-as para mim.
 
 705
 01:01:39,284 --> 01:01:40,899
-Venham para cá.
+Venham para cÃ¡.
 
 706
 01:01:52,460 --> 01:01:53,794
@@ -3249,7 +3249,7 @@ Desculpem por isso.
 
 707
 01:01:54,445 --> 01:01:56,260
-Essas coisas estão
+Essas coisas estÃ£o
 por todo lado.
 
 708
@@ -3258,7 +3258,7 @@ Venham.
 
 709
 01:02:32,534 --> 01:02:34,385
-Estarão seguros aqui.
+EstarÃ£o seguros aqui.
 
 710
 01:03:44,466 --> 01:03:45,864
@@ -3266,11 +3266,11 @@ Estamos bem?
 
 711
 01:03:49,005 --> 01:03:50,938
-É o Hulk na banheira.
+Ã‰ o Hulk na banheira.
 
 712
 01:03:52,131 --> 01:03:54,045
-Há quanto tempo está assim?
+HÃ¡ quanto tempo estÃ¡ assim?
 
 713
 01:03:54,046 --> 01:03:55,547
@@ -3300,7 +3300,7 @@ quando venceu?
 
 719
 01:04:14,729 --> 01:04:16,376
-Como você chegou aqui?
+Como vocÃª chegou aqui?
 
 720
 01:04:18,821 --> 01:04:20,895
@@ -3309,16 +3309,16 @@ Como você chegou aqui?
 
 721
 01:04:20,896 --> 01:04:23,411
-E onde está o Quinjet agora?
+E onde estÃ¡ o Quinjet agora?
 
 722
 01:04:26,977 --> 01:04:31,027
-Você está pelado.
-Peladão...
+VocÃª estÃ¡ pelado.
+PeladÃ£o...
 
 723
 01:04:35,899 --> 01:04:37,876
-Está na minha mente agora.
+EstÃ¡ na minha mente agora.
 
 724
 01:04:37,877 --> 01:04:39,334
@@ -3331,7 +3331,7 @@ Vou nos tirar daqui.
 
 726
 01:04:52,936 --> 01:04:55,226
-Desse lugar terrível
+Desse lugar terrÃ­vel
 e assustador.
 
 727
@@ -3340,12 +3340,12 @@ Vai adorar Asgard.
 
 728
 01:04:57,210 --> 01:05:00,759
-- É grande, dourado, brilhante.
+- Ã‰ grande, dourado, brilhante.
 - Hulk fica.
 
 729
 01:05:00,760 --> 01:05:04,521
-Não. Meu povo precisa
+NÃ£o. Meu povo precisa
 que eu retorne para Asgard.
 
 730
@@ -3381,12 +3381,12 @@ a voltar para a Terra.
 736
 01:05:20,764 --> 01:05:22,393
 Eles te amam!
-Você é um Vingador,
+VocÃª Ã© um Vingador,
 
 737
 01:05:22,394 --> 01:05:24,489
 faz parte da equipe,
-é nosso amigo.
+Ã© nosso amigo.
 
 738
 01:05:24,490 --> 01:05:26,421
@@ -3395,12 +3395,12 @@ eles se ajudam.
 
 739
 01:05:26,422 --> 01:05:28,131
-Você é amigo do Banner.
+VocÃª Ã© amigo do Banner.
 
 740
 01:05:28,132 --> 01:05:30,075
-Não sou amigo dele,
-prefiro você.
+NÃ£o sou amigo dele,
+prefiro vocÃª.
 
 741
 01:05:30,076 --> 01:05:32,174
@@ -3409,8 +3409,8 @@ prefiro você.
 
 742
 01:05:32,175 --> 01:05:35,064
-Ele só fala de números,
-ciência e coisa e tal.
+Ele sÃ³ fala de nÃºmeros,
+ciÃªncia e coisa e tal.
 
 743
 01:05:35,523 --> 01:05:38,504
@@ -3424,40 +3424,40 @@ Fique aqui.
 745
 01:05:41,049 --> 01:05:43,390
 Lugar idiota.
-Aliás, é horrendo.
+AliÃ¡s, Ã© horrendo.
 
 746
 01:05:43,391 --> 01:05:46,101
 O vermelho e o branco.
-Escolha uma cor só.
+Escolha uma cor sÃ³.
 
 747
 01:05:46,102 --> 01:05:49,577
-- É ridículo.
-- Esmago você!
+- Ã‰ ridÃ­culo.
+- Esmago vocÃª!
 
 748
 01:05:49,578 --> 01:05:51,770
-Não esmaga nada.
+NÃ£o esmaga nada.
 Eu ganhei aquela luta.
 
 749
 01:05:51,771 --> 01:05:54,036
-- Eu esmago você.
+- Eu esmago vocÃª.
 - Claro, com certeza.
 
 750
 01:05:54,037 --> 01:05:55,622
-- Bracinhos de bebê.
+- Bracinhos de bebÃª.
 - Como?
 
 751
 01:05:55,623 --> 01:05:57,058
-Bebê!
+BebÃª!
 
 752
 01:05:57,059 --> 01:05:59,863
-- Idiota, você é o bebê!
+- Idiota, vocÃª Ã© o bebÃª!
 - Thor vai.
 
 753
@@ -3478,8 +3478,8 @@ Hulk treinar.
 
 757
 01:06:25,176 --> 01:06:28,031
-- Ótimo. Divirta-se.
-- Olá, grandão!
+- Ã“timo. Divirta-se.
+- OlÃ¡, grandÃ£o!
 
 758
 01:06:28,032 --> 01:06:30,123
@@ -3506,11 +3506,11 @@ Ajude-me a ver.
 763
 01:07:02,221 --> 01:07:04,877
 Eu estou te vendo,
-mas está muito longe.
+mas estÃ¡ muito longe.
 
 764
 01:07:05,545 --> 01:07:08,745
-- O que está acontecendo?
+- O que estÃ¡ acontecendo?
 - Venha ver.
 
 765
@@ -3525,31 +3525,31 @@ Mas se a guarda falhar,
 
 767
 01:07:15,986 --> 01:07:17,516
-a saída seria pela Bifrost.
+a saÃ­da seria pela Bifrost.
 
 768
 01:07:17,517 --> 01:07:19,855
-Está querendo
+EstÃ¡ querendo
 evacuar Asgard?
 
 769
 01:07:22,241 --> 01:07:24,569
-Não iremos durar
+NÃ£o iremos durar
 se ficarmos aqui.
 
 770
 01:07:24,952 --> 01:07:26,780
-Hela está sugando o poder
+Hela estÃ¡ sugando o poder
 de Asgard,
 
 771
 01:07:26,781 --> 01:07:29,240
-está se fortalecendo a cada dia.
+estÃ¡ se fortalecendo a cada dia.
 Vamos.
 
 772
 01:07:33,088 --> 01:07:34,580
-Hela está faminta.
+Hela estÃ¡ faminta.
 
 773
 01:07:34,581 --> 01:07:35,995
@@ -3557,8 +3557,8 @@ Se eu a deixar sair,
 
 774
 01:07:35,996 --> 01:07:39,159
-ela sugará os 9 mundos e todo
-o cosmo. Precisamos de você.
+ela sugarÃ¡ os 9 mundos e todo
+o cosmo. Precisamos de vocÃª.
 
 775
 01:07:39,160 --> 01:07:41,535
@@ -3567,7 +3567,7 @@ Mas nem sei onde estou.
 
 776
 01:07:41,536 --> 01:07:44,223
-Está em um planeta cercado
+EstÃ¡ em um planeta cercado
 de portais. Passe por um.
 
 777
@@ -3586,7 +3586,7 @@ Thor triste!
 
 780
 01:08:22,743 --> 01:08:26,498
-Não estou triste, seu idiota!
+NÃ£o estou triste, seu idiota!
 Estou puto!
 
 781
@@ -3600,26 +3600,26 @@ Perdi meu martelo!
 
 783
 01:08:33,954 --> 01:08:37,147
-- E você nem está me ouvindo!
-- Você é um bebezão.
+- E vocÃª nem estÃ¡ me ouvindo!
+- VocÃª Ã© um bebezÃ£o.
 
 784
 01:08:37,148 --> 01:08:39,499
-Não chuta coisas!
+NÃ£o chuta coisas!
 
 785
 01:08:40,334 --> 01:08:42,573
-Está sendo
-um péssimo amigo!
+EstÃ¡ sendo
+um pÃ©ssimo amigo!
 
 786
 01:08:42,574 --> 01:08:44,984
-- Você que é!
-- Sabe como te chamávamos?
+- VocÃª que Ã©!
+- Sabe como te chamÃ¡vamos?
 
 787
 01:08:44,985 --> 01:08:47,133
-- Não.
+- NÃ£o.
 - De Vingador Idiota!
 
 788
@@ -3633,12 +3633,12 @@ Seu Vingadorzinho!
 
 790
 01:08:54,023 --> 01:08:57,284
-Você estava certo,
+VocÃª estava certo,
 a Terra te odeia.
 
 791
 01:09:17,376 --> 01:09:18,776
-Não.
+NÃ£o.
 
 792
 01:09:21,924 --> 01:09:25,080
@@ -3647,16 +3647,16 @@ pelo o que disse.
 
 793
 01:09:25,401 --> 01:09:28,959
-Você não era o Vingador Idiota.
-Ninguém disse isso.
+VocÃª nÃ£o era o Vingador Idiota.
+NinguÃ©m disse isso.
 
 794
 01:09:29,551 --> 01:09:31,084
-Está tudo bem.
+EstÃ¡ tudo bem.
 
 795
 01:09:31,085 --> 01:09:33,287
-Mas você não pode sair
+Mas vocÃª nÃ£o pode sair
 jogando escudos.
 
 796
@@ -3666,13 +3666,13 @@ jogando escudos.
 
 797
 01:09:35,089 --> 01:09:39,298
-É que sinto raiva o tempo todo.
+Ã‰ que sinto raiva o tempo todo.
 Hulk sempre com raiva!
 
 798
 01:09:39,904 --> 01:09:41,965
 Eu sei.
-Nós somos iguais.
+NÃ³s somos iguais.
 
 799
 01:09:41,966 --> 01:09:44,888
@@ -3682,15 +3682,15 @@ Nós somos iguais.
 800
 01:09:44,889 --> 01:09:48,342
 Hulk igual fogo,
-Thor igual água.
+Thor igual Ã¡gua.
 
 801
 01:09:49,140 --> 01:09:50,594
-Nós dois somos fogo.
+NÃ³s dois somos fogo.
 
 802
 01:09:50,595 --> 01:09:52,855
-Hulk é fogo de verdade.
+Hulk Ã© fogo de verdade.
 
 803
 01:09:53,388 --> 01:09:55,964
@@ -3698,11 +3698,11 @@ Fogo igual inferno.
 
 804
 01:09:55,965 --> 01:09:58,778
-Thor igual carvão em brasa.
+Thor igual carvÃ£o em brasa.
 
 805
 01:10:00,811 --> 01:10:03,277
-Hulk, preciso que faça
+Hulk, preciso que faÃ§a
 uma coisa para mim.
 
 806
@@ -3711,13 +3711,13 @@ Garota raivosa!
 
 807
 01:10:18,503 --> 01:10:20,467
-O que está acontecendo?
+O que estÃ¡ acontecendo?
 O que...
 
 808
 01:10:29,359 --> 01:10:31,385
-Você é tão idiota
-que não entende
+VocÃª Ã© tÃ£o idiota
+que nÃ£o entende
 
 809
 01:10:31,386 --> 01:10:34,394
@@ -3727,7 +3727,7 @@ quer ficar sozinho.
 810
 01:10:34,395 --> 01:10:37,309
 - Precisamos conversar.
-- Não preciso conversar nada.
+- NÃ£o preciso conversar nada.
 
 811
 01:10:37,310 --> 01:10:39,924
@@ -3749,7 +3749,7 @@ Certo.
 
 815
 01:10:52,983 --> 01:10:54,565
-Será assim,
+SerÃ¡ assim,
 
 816
 01:10:55,153 --> 01:10:56,956
@@ -3757,15 +3757,15 @@ eu irei te escutar
 
 817
 01:10:57,522 --> 01:10:59,538
-até isso ficar vazio.
+atÃ© isso ficar vazio.
 
 818
 01:11:00,464 --> 01:11:01,920
-Asgard está em perigo.
+Asgard estÃ¡ em perigo.
 
 819
 01:11:01,921 --> 01:11:04,746
-Pessoas estão morrendo.
+Pessoas estÃ£o morrendo.
 Precisamos voltar. Preciso...
 
 820
@@ -3775,7 +3775,7 @@ Tchau.
 
 821
 01:11:10,243 --> 01:11:11,832
-Odin está morto.
+Odin estÃ¡ morto.
 
 822
 01:11:14,564 --> 01:11:17,710
@@ -3785,7 +3785,7 @@ invadiu Asgard.
 823
 01:11:17,711 --> 01:11:20,244
 Se Hela retornou,
-então, Asgard está perdida.
+entÃ£o, Asgard estÃ¡ perdida.
 
 824
 01:11:20,245 --> 01:11:22,482
@@ -3793,27 +3793,27 @@ Eu irei impedi-la.
 
 825
 01:11:22,825 --> 01:11:25,615
-- E fará sozinho?
+- E farÃ¡ sozinho?
 - Estou formando uma equipe.
 
 826
 01:11:25,616 --> 01:11:28,565
-Comigo, você e o grandão.
+Comigo, vocÃª e o grandÃ£o.
 
 827
 01:11:28,566 --> 01:11:30,985
-Não. Sem equipe.
-Só Hulk.
+NÃ£o. Sem equipe.
+SÃ³ Hulk.
 
 828
 01:11:30,986 --> 01:11:34,104
-- Eu e você.
-- Acho que é só você.
+- Eu e vocÃª.
+- Acho que Ã© sÃ³ vocÃª.
 
 829
 01:11:34,105 --> 01:11:36,495
 Por favor, escute.
-As Valquírias são lendas,
+As ValquÃ­rias sÃ£o lendas,
 
 830
 01:11:36,496 --> 01:11:39,659
@@ -3822,13 +3822,13 @@ que juraram defender o trono.
 
 831
 01:11:39,660 --> 01:11:42,563
-Não participarei de outra
-disputa da família de Odin.
+NÃ£o participarei de outra
+disputa da famÃ­lia de Odin.
 
 832
 01:11:42,564 --> 01:11:44,229
 - O que quer dizer?
-- Sua irmã.
+- Sua irmÃ£.
 
 833
 01:11:44,230 --> 01:11:46,466
@@ -3847,21 +3847,21 @@ que tentaram tomar o trono.
 836
 01:11:51,188 --> 01:11:52,881
 Quando ela escapou
-da condenação,
+da condenaÃ§Ã£o,
 
 837
 01:11:52,882 --> 01:11:55,482
-seu pai enviou as Valquírias
-para trazê-la de volta.
+seu pai enviou as ValquÃ­rias
+para trazÃª-la de volta.
 
 838
 01:11:56,564 --> 01:11:58,385
-Só sobrevivi porque...
+SÃ³ sobrevivi porque...
 
 839
 01:12:00,366 --> 01:12:03,889
-Eu já a enfrentei quando alguém
-de confiança sentava no trono.
+Eu jÃ¡ a enfrentei quando alguÃ©m
+de confianÃ§a sentava no trono.
 
 840
 01:12:03,890 --> 01:12:05,531
@@ -3869,12 +3869,12 @@ E isso me custou tudo.
 
 841
 01:12:05,532 --> 01:12:07,147
-É o problema de Asgard.
+Ã‰ o problema de Asgard.
 
 842
 01:12:07,148 --> 01:12:09,658
 O trono, os segredos,
-e toda a enganação.
+e toda a enganaÃ§Ã£o.
 
 843
 01:12:09,659 --> 01:12:11,116
@@ -3882,23 +3882,23 @@ Eu concordo.
 
 844
 01:12:11,880 --> 01:12:15,526
-- Não tente me enganar.
+- NÃ£o tente me enganar.
 - Eu concordo.
 
 845
 01:12:15,527 --> 01:12:18,907
 Por isso recusei o trono,
-isso não é pela coroa.
+isso nÃ£o Ã© pela coroa.
 
 846
 01:12:18,908 --> 01:12:21,123
-É pelo povo
-que está morrendo.
+Ã‰ pelo povo
+que estÃ¡ morrendo.
 
 847
 01:12:21,124 --> 01:12:23,963
-- Eles também são seu povo.
-- Esqueça!
+- Eles tambÃ©m sÃ£o seu povo.
+- EsqueÃ§a!
 
 848
 01:12:24,565 --> 01:12:26,039
@@ -3906,13 +3906,13 @@ Estou fora.
 
 849
 01:12:26,040 --> 01:12:29,336
-- Certo. Tudo bem. Ótimo.
-- Certo. Ótimo.
+- Certo. Tudo bem. Ã“timo.
+- Certo. Ã“timo.
 
 850
 01:12:29,337 --> 01:12:30,917
 - Obrigado.
-- Pelo o quê?
+- Pelo o quÃª?
 
 851
 01:12:30,918 --> 01:12:32,318
@@ -3920,8 +3920,8 @@ Por isso.
 
 852
 01:12:34,174 --> 01:12:35,923
-Não esperava por isso,
-não é?
+NÃ£o esperava por isso,
+nÃ£o Ã©?
 
 853
 01:12:36,672 --> 01:12:39,516
@@ -3931,12 +3931,12 @@ Bem melhor.
 854
 01:12:40,743 --> 01:12:42,552
 Quer saber?
-Faça o que quiser.
+FaÃ§a o que quiser.
 
 855
 01:12:42,553 --> 01:12:46,806
 Fique aqui e escravize pessoas
-para aquele lunático.
+para aquele lunÃ¡tico.
 
 856
 01:12:46,807 --> 01:12:50,006
@@ -3945,8 +3945,8 @@ se escondendo, mas eu...
 
 857
 01:12:52,074 --> 01:12:55,388
-Escolho ir até meus problemas
-e não fugir deles.
+Escolho ir atÃ© meus problemas
+e nÃ£o fugir deles.
 
 858
 01:12:56,145 --> 01:12:57,898
@@ -3954,8 +3954,8 @@ Porque...
 
 859
 01:13:02,728 --> 01:13:04,675
-Porque é isso
-que os heróis fazem.
+Porque Ã© isso
+que os herÃ³is fazem.
 
 860
 01:13:15,995 --> 01:13:17,842
@@ -3964,7 +3964,7 @@ Amigo, fica!
 861
 01:13:53,720 --> 01:13:56,546
 <i>Bem-vindo.
-Ativação por voz necessária.</i>
+AtivaÃ§Ã£o por voz necessÃ¡ria.</i>
 
 862
 01:13:56,547 --> 01:13:59,400
@@ -3978,7 +3978,7 @@ Ativação por voz necessária.</i>
 
 864
 01:14:03,334 --> 01:14:06,093
-- Deus do Trovão.
+- Deus do TrovÃ£o.
 <i>- Acesso negado.</i>
 
 865
@@ -3993,7 +3993,7 @@ Ativação por voz necessária.</i>
 
 867
 01:14:13,043 --> 01:14:14,538
-Você me pegou, Stark.
+VocÃª me pegou, Stark.
 
 868
 01:14:14,974 --> 01:14:18,493
@@ -4003,7 +4003,7 @@ Você me pegou, Stark.
 869
 01:14:20,930 --> 01:14:23,083
 - Fique!
-- Não, não!
+- NÃ£o, nÃ£o!
 
 870
 01:14:24,047 --> 01:14:25,488
@@ -4011,29 +4011,29 @@ Fique!
 
 871
 01:14:25,882 --> 01:14:27,690
-Você vai quebrar tudo!
+VocÃª vai quebrar tudo!
 
 872
 01:14:32,336 --> 01:14:33,658
-<i>Bom trabalho, grandão.</i>
+<i>Bom trabalho, grandÃ£o.</i>
 
 873
 01:14:33,659 --> 01:14:35,264
-<i>Não sabemos
+<i>NÃ£o sabemos
 para onde Ultron vai,</i>
 
 874
 01:14:35,265 --> 01:14:36,750
-<i>mas você está indo
-bem rápido.</i>
+<i>mas vocÃª estÃ¡ indo
+bem rÃ¡pido.</i>
 
 875
 01:14:36,751 --> 01:14:39,273
-<i>Então preciso que volte, certo?</i>
+<i>EntÃ£o preciso que volte, certo?</i>
 
 876
 01:14:39,798 --> 01:14:41,942
-<i>Não conseguimos rastreá-lo
+<i>NÃ£o conseguimos rastreÃ¡-lo
 no modo furtivo.</i>
 
 877
@@ -4047,11 +4047,11 @@ Preciso...</i>
 
 879
 01:15:06,896 --> 01:15:08,749
-Não, Banner!
+NÃ£o, Banner!
 
 880
 01:15:16,015 --> 01:15:18,060
-O que é isso?
+O que Ã© isso?
 
 881
 01:15:18,061 --> 01:15:19,603
@@ -4059,11 +4059,11 @@ Banner.
 
 882
 01:15:22,578 --> 01:15:24,169
-Você está bem? Banner?
+VocÃª estÃ¡ bem? Banner?
 
 883
 01:15:26,446 --> 01:15:29,366
-O sol já vai se pôr.
+O sol jÃ¡ vai se pÃ´r.
 
 884
 01:15:29,367 --> 01:15:31,113
@@ -4071,8 +4071,8 @@ Respire!
 
 885
 01:15:31,526 --> 01:15:34,722
-Não irei te machucar.
-O sol já está se pondo.
+NÃ£o irei te machucar.
+O sol jÃ¡ estÃ¡ se pondo.
 
 886
 01:15:34,723 --> 01:15:36,460
@@ -4096,27 +4096,27 @@ com seu cabelo?
 
 890
 01:15:42,965 --> 01:15:46,977
-- Como a Nat está?
-- Nat está muito bem.
+- Como a Nat estÃ¡?
+- Nat estÃ¡ muito bem.
 
 891
 01:15:46,978 --> 01:15:49,132
-- E a Sokóvia?
-- Sokóvia?
+- E a SokÃ³via?
+- SokÃ³via?
 
 892
 01:15:49,133 --> 01:15:50,967
-A cidade, Sokóvia?
-Nós os salvamos?
+A cidade, SokÃ³via?
+NÃ³s os salvamos?
 
 893
 01:15:50,968 --> 01:15:54,315
-Amigo, escuta, Sokóvia, Ultron,
-isso foi dois anos atrás.
+Amigo, escuta, SokÃ³via, Ultron,
+isso foi dois anos atrÃ¡s.
 
 894
 01:15:54,316 --> 01:15:55,992
-O que está falando?
+O que estÃ¡ falando?
 
 895
 01:15:57,795 --> 01:16:01,365
@@ -4130,11 +4130,11 @@ O que diabos aconteceu?
 897
 01:16:11,531 --> 01:16:13,994
 Banner, tem uma coisa
-que você precisa saber.
+que vocÃª precisa saber.
 
 898
 01:16:15,890 --> 01:16:18,420
-<i>- Ativação por voz necessária.</i>
+<i>- AtivaÃ§Ã£o por voz necessÃ¡ria.</i>
 - Banner.
 
 899
@@ -4144,37 +4144,37 @@ o Vingador mais forte.</i>
 
 900
 01:16:20,370 --> 01:16:22,194
-- Como é?
+- Como Ã©?
 - Registros da nave.
 
 901
 01:16:33,484 --> 01:16:36,306
-- Thor, onde nós estamos?
-- Pois é, sobre isso...
+- Thor, onde nÃ³s estamos?
+- Pois Ã©, sobre isso...
 
 902
 01:16:36,307 --> 01:16:39,739
 <i>Sakaar, escutem-me, por favor.
-Tenho más notícias.</i>
+Tenho mÃ¡s notÃ­cias.</i>
 
 903
 01:16:39,740 --> 01:16:42,642
 <i>Meu adorado
-e exaltado campeão desapareceu.</i>
+e exaltado campeÃ£o desapareceu.</i>
 
 904
 01:16:42,643 --> 01:16:45,408
-<i>Vão para as ruas
-e celebrem meu campeão.</i>
+<i>VÃ£o para as ruas
+e celebrem meu campeÃ£o.</i>
 
 905
 01:16:45,409 --> 01:16:47,893
-- Quem é ele?
+- Quem Ã© ele?
 - Meio que manda aqui.
 
 906
 01:16:48,369 --> 01:16:50,354
-Você morou na casa dele
+VocÃª morou na casa dele
 por um tempo.
 
 907
@@ -4184,18 +4184,18 @@ por um tempo.
 
 908
 01:16:52,239 --> 01:16:54,823
-- Você e eu brigamos.
+- VocÃª e eu brigamos.
 - Eu venci?
 
 909
 01:16:54,824 --> 01:16:56,299
-Não, eu venci.
+NÃ£o, eu venci.
 Foi moleza.
 
 910
 01:16:56,300 --> 01:16:58,387
-- Não parece verdade.
-- Mas é.
+- NÃ£o parece verdade.
+- Mas Ã©.
 
 911
 01:16:58,388 --> 01:17:00,388
@@ -4204,16 +4204,16 @@ que aquele bandido sedutor</i>
 
 912
 01:17:00,389 --> 01:17:03,179
-<i>Senhor do Trovão o roubou.</i>
+<i>Senhor do TrovÃ£o o roubou.</i>
 
 913
 01:17:03,280 --> 01:17:05,991
-É sedutor deus do Trovão!
+Ã‰ sedutor deus do TrovÃ£o!
 Vem comigo.
 
 914
 01:17:09,463 --> 01:17:13,060
-Isso é ruim.
+Isso Ã© ruim.
 Muito, muito ruim.
 
 915
@@ -4226,27 +4226,27 @@ Acho que estou surtando.
 
 917
 01:17:19,590 --> 01:17:22,752
-Não, não vá surtar.
-Você está bem. Vista isto.
+NÃ£o, nÃ£o vÃ¡ surtar.
+VocÃª estÃ¡ bem. Vista isto.
 
 918
 01:17:22,753 --> 01:17:25,121
-São as roupas do Tony.
-Ele está aqui?
+SÃ£o as roupas do Tony.
+Ele estÃ¡ aqui?
 
 919
 01:17:25,122 --> 01:17:27,093
-Não, não está.
-Acalme-se, está bem?
+NÃ£o, nÃ£o estÃ¡.
+Acalme-se, estÃ¡ bem?
 
 920
 01:17:27,469 --> 01:17:29,789
-O sol vai se pôr.
+O sol vai se pÃ´r.
 O sol vai baixar.
 
 921
 01:17:29,790 --> 01:17:31,090
-Vai se pôr.
+Vai se pÃ´r.
 
 922
 01:17:38,567 --> 01:17:40,432
@@ -4263,7 +4263,7 @@ ao ficar zangado? Culpar.
 
 925
 01:17:47,487 --> 01:17:49,977
-E essa é a minha vontade
+E essa Ã© a minha vontade
 nesse momento.
 
 926
@@ -4273,7 +4273,7 @@ nesse momento.
 
 927
 01:17:52,634 --> 01:17:53,962
-Não me interrompa.
+NÃ£o me interrompa.
 
 928
 01:17:53,963 --> 01:17:55,620
@@ -4282,13 +4282,13 @@ Não me interrompa.
 
 929
 01:17:55,621 --> 01:17:57,916
-Por que está me dando
-o bastão de derreter?
+Por que estÃ¡ me dando
+o bastÃ£o de derreter?
 
 930
 01:17:57,917 --> 01:18:01,563
-Ele só me interrompeu.
-Não é um crime capital.
+Ele sÃ³ me interrompeu.
+NÃ£o Ã© um crime capital.
 
 931
 01:18:01,564 --> 01:18:02,940
@@ -4296,27 +4296,27 @@ Onde eu estava?
 
 932
 01:18:02,941 --> 01:18:05,374
-Meu precioso campeão
+Meu precioso campeÃ£o
 desapareceu.
 
 933
 01:18:05,375 --> 01:18:07,696
 E tudo por causa
-daquele Senhor do Trovão.
+daquele Senhor do TrovÃ£o.
 
 934
 01:18:07,697 --> 01:18:09,938
-É tudo por causa dele.
-Seu irmão.
+Ã‰ tudo por causa dele.
+Seu irmÃ£o.
 
 935
 01:18:09,939 --> 01:18:13,010
-Seja qual for a história
-de vocês, adotado, complicado,
+Seja qual for a histÃ³ria
+de vocÃªs, adotado, complicado,
 
 936
 01:18:13,011 --> 01:18:14,524
-sei que é uma grande história.
+sei que Ã© uma grande histÃ³ria.
 
 937
 01:18:14,525 --> 01:18:16,024
@@ -4329,12 +4329,12 @@ se puder me dar 12 horas,
 
 939
 01:18:19,313 --> 01:18:20,969
-trarei os dois para você,
+trarei os dois para vocÃª,
 vivos.
 
 940
 01:18:20,970 --> 01:18:22,389
-Posso trazê-los em duas.
+Posso trazÃª-los em duas.
 
 941
 01:18:23,203 --> 01:18:25,845
@@ -4344,7 +4344,7 @@ Posso trazê-los em duas.
 942
 01:18:25,846 --> 01:18:29,504
 Sabe? Acordei hoje pensando
-em execução pública.
+em execuÃ§Ã£o pÃºblica.
 
 943
 01:18:30,214 --> 01:18:32,656
@@ -4353,39 +4353,39 @@ fico contente por essa coisa
 
 944
 01:18:32,657 --> 01:18:34,659
-de quem vai pegá-lo primeiro.
+de quem vai pegÃ¡-lo primeiro.
 
 945
 01:18:35,598 --> 01:18:38,221
-Então o tempo está correndo.
+EntÃ£o o tempo estÃ¡ correndo.
 
 946
 01:18:39,914 --> 01:18:42,513
-- O que você fez?
-- Não respondo a você, Laki.
+- O que vocÃª fez?
+- NÃ£o respondo a vocÃª, Laki.
 
 947
 01:18:42,514 --> 01:18:45,994
-É "Loki". E você vai responder
+Ã‰ "Loki". E vocÃª vai responder
 ao Grande Mestre.
 
 948
 01:18:48,252 --> 01:18:50,450
-Por que você ajudaria
-meu irmão a escapar
+Por que vocÃª ajudaria
+meu irmÃ£o a escapar
 
 949
 01:18:50,451 --> 01:18:52,990
-- com aquele verdão?
-- Eu não ajudo ninguém.
+- com aquele verdÃ£o?
+- Eu nÃ£o ajudo ninguÃ©m.
 
 950
 01:18:59,518 --> 01:19:01,274
-Você é uma Valquíria.
+VocÃª Ã© uma ValquÃ­ria.
 
 951
 01:19:05,504 --> 01:19:08,303
-Achei que todas as Valquírias
+Achei que todas as ValquÃ­rias
 haviam morrido cruelmente.
 
 952
@@ -4396,26 +4396,26 @@ antes de falar.
 953
 01:19:10,717 --> 01:19:14,309
 Eu sinto muito,
-deve ser uma lembrança dolorosa.
+deve ser uma lembranÃ§a dolorosa.
 
 954
 01:20:06,734 --> 01:20:08,693
-O sol já vai se pôr.
-Já está baixando.
+O sol jÃ¡ vai se pÃ´r.
+JÃ¡ estÃ¡ baixando.
 
 955
 01:20:08,694 --> 01:20:11,705
-Já está se pondo.
-Já vai se pôr.
+JÃ¡ estÃ¡ se pondo.
+JÃ¡ vai se pÃ´r.
 
 956
 01:20:11,706 --> 01:20:13,666
-O sol já vai se pôr.
-Já vai baixar.
+O sol jÃ¡ vai se pÃ´r.
+JÃ¡ vai baixar.
 
 957
 01:20:13,667 --> 01:20:15,968
-- O sol vai se pôr.
+- O sol vai se pÃ´r.
 - Pode parar de dizer isso?
 
 958
@@ -4425,63 +4425,63 @@ Já vai baixar.
 
 959
 01:20:17,630 --> 01:20:20,255
-- É um planeta extraterrestre.
-- É só um planeta.
+- Ã‰ um planeta extraterrestre.
+- Ã‰ sÃ³ um planeta.
 
 960
 01:20:20,256 --> 01:20:22,191
-- Já esteve em um antes.
+- JÃ¡ esteve em um antes.
 - Sim, em um.
 
 961
 01:20:22,192 --> 01:20:23,915
-Agora está em outro.
-Isso é bom.
+Agora estÃ¡ em outro.
+Isso Ã© bom.
 
 962
 01:20:23,916 --> 01:20:25,490
-- Uma nova experiência.
+- Uma nova experiÃªncia.
 - Nossa!
 
 963
 01:20:25,491 --> 01:20:29,647
-Meus neurônios fazem sinapse
-mais rápido do que deveriam.
+Meus neurÃ´nios fazem sinapse
+mais rÃ¡pido do que deveriam.
 
 964
 01:20:29,989 --> 01:20:32,247
-Está tudo completamente
+EstÃ¡ tudo completamente
 diferente desta vez.
 
 965
 01:20:32,248 --> 01:20:35,657
 Antes sentia que o Hulk e eu
-controlávamos o volante.
+controlÃ¡vamos o volante.
 
 966
 01:20:35,658 --> 01:20:37,909
-Mas agora é
+Mas agora Ã©
 como se ele tivesse as chaves
 
 967
 01:20:37,910 --> 01:20:40,271
 - e eu estivesse no porta-malas.
-- Você voltou.
+- VocÃª voltou.
 
 968
 01:20:40,272 --> 01:20:42,229
-- É o que importa.
-- Não é.
+- Ã‰ o que importa.
+- NÃ£o Ã©.
 
 969
 01:20:42,230 --> 01:20:45,258
-O que quero dizer é, que se
+O que quero dizer Ã©, que se
 voltar a ser o Hulk de novo,
 
 970
 01:20:45,259 --> 01:20:46,818
 talvez o Banner
-não volte mais.
+nÃ£o volte mais.
 
 971
 01:20:46,819 --> 01:20:50,441
@@ -4490,18 +4490,18 @@ projetado para me estressar!
 
 972
 01:20:50,442 --> 01:20:53,224
-Não estamos presos.
+NÃ£o estamos presos.
 Vou nos levar para casa.
 
 973
 01:20:53,551 --> 01:20:55,551
 - Obrigado.
-- Não para a sua casa,
+- NÃ£o para a sua casa,
 
 974
 01:20:55,552 --> 01:20:57,726
 - para a minha casa, Asgard.
-- O quê?
+- O quÃª?
 
 975
 01:20:58,039 --> 01:21:00,422
@@ -4510,75 +4510,75 @@ um grande perigo.
 
 976
 01:21:00,423 --> 01:21:02,935
-Nós dois temos que lutar
+NÃ³s dois temos que lutar
 contra um ser poderoso
 
 977
 01:21:02,936 --> 01:21:04,486
-que também vem a ser
-minha irmã.
+que tambÃ©m vem a ser
+minha irmÃ£.
 
 978
 01:21:04,487 --> 01:21:07,847
-Isso é errado de tantos jeitos.
-Não quero lutar com sua irmã.
+Isso Ã© errado de tantos jeitos.
+NÃ£o quero lutar com sua irmÃ£.
 
 979
 01:21:07,848 --> 01:21:09,799
-Isso é um problema de família.
+Isso Ã© um problema de famÃ­lia.
 
 980
 01:21:09,800 --> 01:21:12,366
-- Ela é um ser do mal.
-- Não interessa o que ela é.
+- Ela Ã© um ser do mal.
+- NÃ£o interessa o que ela Ã©.
 
 981
 01:21:12,367 --> 01:21:14,932
-Não vou brigar com ninguém.
+NÃ£o vou brigar com ninguÃ©m.
 Cansei disso.
 
 982
 01:21:14,933 --> 01:21:17,706
-Já te falei.
+JÃ¡ te falei.
 Se eu me transformar em Hulk,
 
 983
 01:21:17,707 --> 01:21:20,246
 nunca mais vou voltar,
-e você não se importa.
+e vocÃª nÃ£o se importa.
 
 984
 01:21:20,247 --> 01:21:22,355
-Não, não.
+NÃ£o, nÃ£o.
 Estou juntando a equipe.
 
 985
 01:21:22,356 --> 01:21:23,656
-Hulk é como fogo.
+Hulk Ã© como fogo.
 
 986
 01:21:23,657 --> 01:21:25,770
-Espere, está me usando
-só para ter Hulk.
+Espere, estÃ¡ me usando
+sÃ³ para ter Hulk.
 
 987
 01:21:25,771 --> 01:21:27,196
 - Deus, que nojo.
-- Não, não.
+- NÃ£o, nÃ£o.
 
 988
 01:21:27,197 --> 01:21:29,335
-Não se importa comigo.
-Não é meu amigo.
+NÃ£o se importa comigo.
+NÃ£o Ã© meu amigo.
 
 989
 01:21:29,336 --> 01:21:31,242
-Não, eu nem gosto do Hulk.
+NÃ£o, eu nem gosto do Hulk.
 
 990
 01:21:31,243 --> 01:21:35,527
-Ele só esmaga, esmaga.
-Prefiro você.
+Ele sÃ³ esmaga, esmaga.
+Prefiro vocÃª.
 
 991
 01:21:36,301 --> 01:21:37,881
@@ -4591,12 +4591,12 @@ Mas para ser sincero,
 993
 01:21:39,507 --> 01:21:42,881
 na luta com criaturas malignas,
-Hulk é muito poderoso e útil.
+Hulk Ã© muito poderoso e Ãºtil.
 
 994
 01:21:42,882 --> 01:21:44,882
-Banner também é
-poderoso e útil.
+Banner tambÃ©m Ã©
+poderoso e Ãºtil.
 
 995
 01:21:44,883 --> 01:21:48,128
@@ -4611,7 +4611,7 @@ E quantos o Banner tem?
 997
 01:21:51,128 --> 01:21:53,269
 Beleza.
-Não lute com ninguém.
+NÃ£o lute com ninguÃ©m.
 
 998
 01:21:53,270 --> 01:21:55,222
@@ -4629,13 +4629,13 @@ Sou um fugitivo.
 
 1001
 01:22:01,505 --> 01:22:04,013
-- Também preciso de um.
-- Já é um disfarce.
+- TambÃ©m preciso de um.
+- JÃ¡ Ã© um disfarce.
 
 1002
 01:22:04,014 --> 01:22:06,621
 - Serei Tony Stark.
-- O quê?
+- O quÃª?
 
 1003
 01:22:06,622 --> 01:22:07,922
@@ -4643,8 +4643,8 @@ Tony e o Gypsy.
 
 1004
 01:22:07,923 --> 01:22:10,285
-Não, você não é o Tony.
-É o Bruce, Bruce Banner.
+NÃ£o, vocÃª nÃ£o Ã© o Tony.
+Ã‰ o Bruce, Bruce Banner.
 
 1005
 01:22:10,286 --> 01:22:11,801
@@ -4657,18 +4657,18 @@ Por que me vestiu como ele?
 
 1007
 01:22:14,961 --> 01:22:16,361
-O que está fazendo?
+O que estÃ¡ fazendo?
 Pare.
 
 1008
 01:22:16,362 --> 01:22:19,057
-As calças do Tony são
+As calÃ§as do Tony sÃ£o
 muito apertadas, desculpe.
 
 1009
 01:22:19,058 --> 01:22:21,350
-- Por que está tão estranho?
-- Não sei!
+- Por que estÃ¡ tÃ£o estranho?
+- NÃ£o sei!
 
 1010
 01:22:21,351 --> 01:22:25,265
@@ -4681,7 +4681,7 @@ me deixou meio estranho.
 
 1012
 01:22:27,520 --> 01:22:29,072
-Está tudo bem.
+EstÃ¡ tudo bem.
 De boa.
 
 1013
@@ -4710,7 +4710,7 @@ Hulk! Hulk! Hulk!</i>
 
 1018
 01:22:43,781 --> 01:22:45,236
-Isto é ruim.
+Isto Ã© ruim.
 
 1019
 01:22:49,192 --> 01:22:51,157
@@ -4741,11 +4741,11 @@ Thor!
 1025
 01:23:29,164 --> 01:23:31,545
 Que bom.
-O que está fazendo aqui?
+O que estÃ¡ fazendo aqui?
 
 1026
 01:23:31,546 --> 01:23:33,780
-E você?
+E vocÃª?
 Achei que estava partindo.
 
 1027
@@ -4755,39 +4755,39 @@ Estava a caminho.
 1028
 01:23:35,431 --> 01:23:37,951
 - Para que o pano?
-- Este é meu disfarce.
+- Este Ã© meu disfarce.
 
 1029
 01:23:37,952 --> 01:23:41,326
 - Posso ver o seu rosto.
-- Não, quando eu faço isso.
+- NÃ£o, quando eu faÃ§o isso.
 
 1030
 01:23:41,956 --> 01:23:44,156
-Você tem cabelo bonito.
+VocÃª tem cabelo bonito.
 Gosto desse penteado.
 
 1031
 01:23:44,157 --> 01:23:46,289
-Só lavou?
+SÃ³ lavou?
 
 1032
 01:23:51,234 --> 01:23:53,952
-O que é isso nos olhos dela?
+O que Ã© isso nos olhos dela?
 As pessoas que ela matou?
 
 1033
 01:23:53,953 --> 01:23:55,805
-Tão bonita e forte.
+TÃ£o bonita e forte.
 
 1034
 01:23:55,806 --> 01:23:58,072
-- Quem é esse cara?
-- Ele é um amigo.
+- Quem Ã© esse cara?
+- Ele Ã© um amigo.
 
 1035
 01:23:58,073 --> 01:23:59,573
-Sinto que conheço você.
+Sinto que conheÃ§o vocÃª.
 
 1036
 01:23:59,892 --> 01:24:01,592
@@ -4815,21 +4815,21 @@ provavelmente isso te mataria.
 
 1041
 01:24:17,398 --> 01:24:19,685
-Não planejo parar de beber.
+NÃ£o planejo parar de beber.
 
 1042
 01:24:19,686 --> 01:24:23,214
-Mas não quero esquecer.
-Não posso mais fugir. Então...
+Mas nÃ£o quero esquecer.
+NÃ£o posso mais fugir. EntÃ£o...
 
 1043
 01:24:23,533 --> 01:24:27,251
-Se vou morrer, então,
+Se vou morrer, entÃ£o,
 que eu enfie minha espada
 
 1044
 01:24:27,252 --> 01:24:29,014
-no coração
+no coraÃ§Ã£o
 daquela bruxa assassina.
 
 1045
@@ -4847,7 +4847,7 @@ Tem algum nome?
 
 1048
 01:24:35,350 --> 01:24:38,553
-É chamado de Os Vindicativos.
+Ã‰ chamado de Os Vindicativos.
 
 1049
 01:24:38,554 --> 01:24:41,387
@@ -4856,22 +4856,22 @@ Tem algum nome?
 
 1050
 01:24:41,388 --> 01:24:43,283
-Você também quer se vindicar
-e você...
+VocÃª tambÃ©m quer se vindicar
+e vocÃª...
 
 1051
 01:24:43,284 --> 01:24:45,266
 Quer se vindicar
-de alguém?
+de alguÃ©m?
 
 1052
 01:24:45,267 --> 01:24:47,767
-Não sei,
-ainda estou em dúvida.
+NÃ£o sei,
+ainda estou em dÃºvida.
 
 1053
 01:24:47,768 --> 01:24:51,477
-- Ótimo.
+- Ã“timo.
 - Tenho uma oferta de paz.
 
 1054
@@ -4888,13 +4888,13 @@ Oi, Bruce.
 
 1057
 01:25:11,255 --> 01:25:14,037
-A última vez que te vi,
-você estava tentando matar
+A Ãºltima vez que te vi,
+vocÃª estava tentando matar
 
 1058
 01:25:14,038 --> 01:25:15,981
 todo mundo.
-Ainda está tentando?
+Ainda estÃ¡ tentando?
 
 1059
 01:25:15,982 --> 01:25:18,339
@@ -4902,8 +4902,8 @@ Varia muito do dia.
 
 1060
 01:25:19,053 --> 01:25:21,904
-- Isso é uma presa de dragão?
-- É.
+- Isso Ã© uma presa de dragÃ£o?
+- Ã‰.
 
 1061
 01:25:21,905 --> 01:25:23,746
@@ -4912,12 +4912,12 @@ Meu Deus!
 1062
 01:25:24,161 --> 01:25:26,053
 A famosa espada
-das Valquírias.
+das ValquÃ­rias.
 
 1063
 01:25:26,054 --> 01:25:28,545
-Então, Sakaar e Asgard
-são tão distantes
+EntÃ£o, Sakaar e Asgard
+sÃ£o tÃ£o distantes
 
 1064
 01:25:28,546 --> 01:25:30,443
@@ -4926,7 +4926,7 @@ Nossa chance
 
 1065
 01:25:30,444 --> 01:25:32,295
-é o buraco de minhoca
+Ã© o buraco de minhoca
 na fronteira.
 
 1066
@@ -4937,26 +4937,26 @@ e voltamos para Asgard
 1067
 01:25:35,328 --> 01:25:37,262
 - em 18 meses.
-- Não.
+- NÃ£o.
 
 1068
 01:25:37,263 --> 01:25:41,292
-- Nós vamos pelo maior.
-- Pelo Ânus do Diabo?
+- NÃ³s vamos pelo maior.
+- Pelo Ã‚nus do Diabo?
 
 1069
 01:25:41,293 --> 01:25:43,308
-Ânus?
-Ânus de quem?
+Ã‚nus?
+Ã‚nus de quem?
 
 1070
 01:25:43,309 --> 01:25:45,765
-Só para constar,
-não sabia o nome quando apontei.
+SÃ³ para constar,
+nÃ£o sabia o nome quando apontei.
 
 1071
 01:25:45,766 --> 01:25:47,758
-Parecem estrelas de nêutrons
+Parecem estrelas de nÃªutrons
 em colapso
 
 1072
@@ -4971,8 +4971,8 @@ Aquilo vai destruir a minha.
 
 1074
 01:25:52,808 --> 01:25:55,428
-Ela tem razão, precisamos de uma
-que aguente a força
+Ela tem razÃ£o, precisamos de uma
+que aguente a forÃ§a
 
 1075
 01:25:55,429 --> 01:25:57,718
@@ -4991,53 +4991,53 @@ porque vamos morrer,
 
 1078
 01:26:02,933 --> 01:26:05,112
-- então, vamos beber.
-- Eu conheço você?
+- entÃ£o, vamos beber.
+- Eu conheÃ§o vocÃª?
 
 1079
 01:26:05,113 --> 01:26:07,249
-- Sinto que te conheço.
-- Eu também sinto.
+- Sinto que te conheÃ§o.
+- Eu tambÃ©m sinto.
 
 1080
 01:26:07,250 --> 01:26:09,021
-- É estranho.
+- Ã‰ estranho.
 - O que me diz?
 
 1081
 01:26:09,022 --> 01:26:13,376
-Viagem intergalática não mapeada
-pelo cosmo. É uma bela aventura.
+Viagem intergalÃ¡tica nÃ£o mapeada
+pelo cosmo. Ã‰ uma bela aventura.
 
 1082
 01:26:14,102 --> 01:26:16,728
 - Precisamos de uma nave.
-- Há uma ou duas naves.
+- HÃ¡ uma ou duas naves.
 
 1083
 01:26:16,729 --> 01:26:19,409
 - Meio fora de linha.
-- Não quero interromper...
+- NÃ£o quero interromper...
 
 1084
 01:26:21,989 --> 01:26:25,048
 Mas o Grande Mestre
-tem inúmeras naves.
+tem inÃºmeras naves.
 
 1085
 01:26:25,049 --> 01:26:27,274
-Posso até ter roubado
-os códigos de acesso
+Posso atÃ© ter roubado
+os cÃ³digos de acesso
 
 1086
 01:26:27,275 --> 01:26:29,883
-- do sistema de segurança.
+- do sistema de seguranÃ§a.
 - E assim do nada
 
 1087
 01:26:29,884 --> 01:26:32,141
 - quer fazer a coisa certa?
-- Claro que não.
+- Claro que nÃ£o.
 
 1088
 01:26:32,142 --> 01:26:33,898
@@ -5046,34 +5046,34 @@ ao Grande Mestre
 
 1089
 01:26:33,899 --> 01:26:35,990
-e em troca dos códigos
+e em troca dos cÃ³digos
 de acesso das naves
 
 1090
 01:26:35,991 --> 01:26:37,839
-eu peço por passagem segura.
+eu peÃ§o por passagem segura.
 
 1091
 01:26:37,840 --> 01:26:39,654
-Pelo Ânus.
+Pelo Ã‚nus.
 
 1092
 01:26:39,655 --> 01:26:42,668
-Está dizendo que consegue
-acesso à garagem
+EstÃ¡ dizendo que consegue
+acesso Ã  garagem
 
 1093
 01:26:42,669 --> 01:26:45,806
 - sem que os alarmes disparem?
-- Sim, irmão, eu consigo.
+- Sim, irmÃ£o, eu consigo.
 
 1094
 01:26:45,807 --> 01:26:47,399
-Será que eu posso...
+SerÃ¡ que eu posso...
 
 1095
 01:26:47,790 --> 01:26:51,172
-Só para informar, estava falando
+SÃ³ para informar, estava falando
 com ele agora pouco,
 
 1096
@@ -5084,12 +5084,12 @@ para nos matar.
 1097
 01:26:53,531 --> 01:26:56,480
 - Ele tentou me matar.
-- A mim também. Várias vezes.
+- A mim tambÃ©m. VÃ¡rias vezes.
 
 1098
 01:26:56,481 --> 01:26:58,572
 Teve uma vez,
-quando éramos crianças,
+quando Ã©ramos crianÃ§as,
 
 1099
 01:26:58,573 --> 01:27:01,333
@@ -5098,8 +5098,8 @@ sabia que amava cobras,
 
 1100
 01:27:01,334 --> 01:27:03,617
-- aí peguei para admirá-la...
-- Não.
+- aÃ­ peguei para admirÃ¡-la...
+- NÃ£o.
 
 1101
 01:27:03,618 --> 01:27:06,213
@@ -5109,7 +5109,7 @@ e disse: "Sim, sou eu!",
 1102
 01:27:06,214 --> 01:27:09,521
 e me esfaqueou.
-Eu tinha 8 anos na época.
+Eu tinha 8 anos na Ã©poca.
 
 1103
 01:27:09,522 --> 01:27:11,715
@@ -5118,41 +5118,41 @@ temos que derrubar
 
 1104
 01:27:11,716 --> 01:27:14,490
-- os guardas do palácio.
-- Por que não soltam a fera?
+- os guardas do palÃ¡cio.
+- Por que nÃ£o soltam a fera?
 
 1105
 01:27:14,491 --> 01:27:16,693
 - Cale-se.
-- Vocês têm uma fera?
+- VocÃªs tÃªm uma fera?
 
 1106
 01:27:16,694 --> 01:27:19,131
-Não, não temos.
-Ele está brincando.
+NÃ£o, nÃ£o temos.
+Ele estÃ¡ brincando.
 
 1107
 01:27:19,132 --> 01:27:20,954
-Vamos começar a revolução.
+Vamos comeÃ§ar a revoluÃ§Ã£o.
 
 1108
 01:27:20,955 --> 01:27:22,883
-- Revolução?
+- RevoluÃ§Ã£o?
 - Explico depois.
 
 1109
 01:27:22,884 --> 01:27:25,274
-- Quem é esse cara mesmo?
+- Quem Ã© esse cara mesmo?
 - Explico depois.
 
 1110
 01:27:26,233 --> 01:27:30,163
-São protoplasmas
-saindo de você,
+SÃ£o protoplasmas
+saindo de vocÃª,
 
 1111
 01:27:30,164 --> 01:27:31,610
-ou são ovos?
+ou sÃ£o ovos?
 
 1112
 01:27:32,385 --> 01:27:33,785
@@ -5165,62 +5165,62 @@ Parecem ser ovos.
 
 1114
 01:27:46,178 --> 01:27:49,873
-Eu sei que você quer.
-Mas é só você ou mais alguém?
+Eu sei que vocÃª quer.
+Mas Ã© sÃ³ vocÃª ou mais alguÃ©m?
 
 1115
 01:27:49,874 --> 01:27:52,336
-O Senhor do Trovão pediu
+O Senhor do TrovÃ£o pediu
 para te cumprimentar.
 
 1116
 01:27:55,355 --> 01:27:57,584
-A revolução começou.
+A revoluÃ§Ã£o comeÃ§ou.
 
 1117
 01:27:57,585 --> 01:27:59,819
-Revolução?
+RevoluÃ§Ã£o?
 Como isso aconteceu?
 
 1118
 01:27:59,820 --> 01:28:01,384
-Não sei.
+NÃ£o sei.
 
 1119
 01:28:01,385 --> 01:28:05,184
 Mas os servidores com os discos
-de obediência foram desativados
+de obediÃªncia foram desativados
 
 1120
 01:28:05,185 --> 01:28:07,038
-e os escravos estão armados.
+e os escravos estÃ£o armados.
 
 1121
 01:28:07,368 --> 01:28:09,009
-Não gosto dessa palavra.
+NÃ£o gosto dessa palavra.
 
 1122
 01:28:09,010 --> 01:28:11,204
 - Qual? Servidores?
-- Não.
+- NÃ£o.
 
 1123
 01:28:11,205 --> 01:28:13,105
-Por que eu não gostaria
+Por que eu nÃ£o gostaria
 de um servidor?
 
 1124
 01:28:13,106 --> 01:28:15,109
-Começa com a letra "e".
+ComeÃ§a com a letra "e".
 
 1125
 01:28:15,110 --> 01:28:18,254
 Desculpe. Os prisioneiros
-que têm trabalhos estão armados.
+que tÃªm trabalhos estÃ£o armados.
 
 1126
 01:28:19,222 --> 01:28:21,011
-Certo, assim é melhor.
+Certo, assim Ã© melhor.
 
 1127
 01:28:26,696 --> 01:28:28,819
@@ -5232,21 +5232,21 @@ Eu discordo.
 
 1129
 01:28:31,535 --> 01:28:34,511
-Nossa família nunca foi boa
+Nossa famÃ­lia nunca foi boa
 em conversas.
 
 1130
 01:28:34,512 --> 01:28:35,912
-Nisso você está certo.
+Nisso vocÃª estÃ¡ certo.
 
 1131
 01:28:35,913 --> 01:28:38,696
-Percebi na última vez
+Percebi na Ãºltima vez
 que nos falamos.
 
 1132
 01:28:39,108 --> 01:28:41,365
-- Olá.
+- OlÃ¡.
 - Oi.
 
 1133
@@ -5255,47 +5255,47 @@ Por que nos reuniu?
 
 1134
 01:28:51,028 --> 01:28:54,004
-É quase poético que a morte
-dele vá nos separar.
+Ã‰ quase poÃ©tico que a morte
+dele vÃ¡ nos separar.
 
 1135
 01:29:00,154 --> 01:29:03,653
-Agora não nos conhecemos mais.
+Agora nÃ£o nos conhecemos mais.
 Dois filhos reais.
 
 1136
 01:29:04,349 --> 01:29:05,749
-À deriva.
+Ã€ deriva.
 
 1137
 01:29:05,750 --> 01:29:07,940
-- Não.
-- <i>Renda-se. Para o chão.</i>
+- NÃ£o.
+- <i>Renda-se. Para o chÃ£o.</i>
 
 1138
 01:29:08,427 --> 01:29:10,201
-Achei que não quisesse
+Achei que nÃ£o quisesse
 falar disso.
 
 1139
 01:29:11,785 --> 01:29:14,851
-O negócio é o seguinte,
+O negÃ³cio Ã© o seguinte,
 acho melhor que eu fique aqui.
 
 1140
 01:29:14,852 --> 01:29:16,702
-É exatamente
+Ã‰ exatamente
 o que eu estava pensando.
 
 1141
 01:29:18,385 --> 01:29:21,566
-- Você concordou comigo?
-- Aqui é perfeito para você.
+- VocÃª concordou comigo?
+- Aqui Ã© perfeito para vocÃª.
 
 1142
 01:29:21,567 --> 01:29:25,127
-É selvagem, caótico, sem lei.
-Você se sairá muito bem aqui.
+Ã‰ selvagem, caÃ³tico, sem lei.
+VocÃª se sairÃ¡ muito bem aqui.
 
 1143
 01:29:25,432 --> 01:29:27,386
@@ -5307,23 +5307,23 @@ Loki, eu te admirava muito.
 
 1145
 01:29:32,085 --> 01:29:34,711
-Pensei que fôssemos lutar
+Pensei que fÃ´ssemos lutar
 lado a lado para sempre.
 
 1146
 01:29:35,126 --> 01:29:37,576
 Mas no fim das contas,
-você é você e eu sou eu.
+vocÃª Ã© vocÃª e eu sou eu.
 
 1147
 01:29:38,328 --> 01:29:40,597
 Talvez ainda haja bondade
-em você.
+em vocÃª.
 
 1148
 01:29:40,994 --> 01:29:44,246
 Mas, honestamente,
-nos separamos há muito tempo.
+nos separamos hÃ¡ muito tempo.
 
 1149
 01:29:49,035 --> 01:29:50,435
@@ -5331,12 +5331,12 @@ Sim.
 
 1150
 01:29:51,385 --> 01:29:53,766
-É melhor não nos vermos
+Ã‰ melhor nÃ£o nos vermos
 nunca mais.
 
 1151
 01:29:53,767 --> 01:29:55,309
-É o que você sempre quis.
+Ã‰ o que vocÃª sempre quis.
 
 1152
 01:29:59,385 --> 01:30:00,785
@@ -5344,33 +5344,33 @@ Vamos fazer o "ajude-nos".
 
 1153
 01:30:01,235 --> 01:30:02,834
-- O quê?
+- O quÃª?
 - "Ajude-nos".
 
 1154
 01:30:02,835 --> 01:30:04,649
-- Não. Eu odeio.
-- Vamos, você adora.
+- NÃ£o. Eu odeio.
+- Vamos, vocÃª adora.
 
 1155
 01:30:04,650 --> 01:30:06,309
 - Funciona sempre.
-- É vergonhoso.
+- Ã‰ vergonhoso.
 
 1156
 01:30:06,310 --> 01:30:07,710
 - Tem um plano melhor?
-- Não.
+- NÃ£o.
 
 1157
 01:30:07,711 --> 01:30:10,778
-- Então vamos fazer.
-- Não vamos fazer o "ajude-nos".
+- EntÃ£o vamos fazer.
+- NÃ£o vamos fazer o "ajude-nos".
 
 1158
 01:30:11,785 --> 01:30:14,633
 Ajude-nos. Por favor.
-Meu irmão está morrendo.
+Meu irmÃ£o estÃ¡ morrendo.
 
 1159
 01:30:14,634 --> 01:30:16,845
@@ -5379,16 +5379,16 @@ Ajudem ele!
 
 1160
 01:30:18,418 --> 01:30:19,818
-Clássico.
+ClÃ¡ssico.
 
 1161
 01:30:20,151 --> 01:30:22,004
 Ainda odeio isso.
-É vergonhoso.
+Ã‰ vergonhoso.
 
 1162
 01:30:22,005 --> 01:30:23,684
-Para mim, não é.
+Para mim, nÃ£o Ã©.
 
 1163
 01:30:23,685 --> 01:30:25,902
@@ -5403,7 +5403,7 @@ devemos pegar?
 1165
 01:30:31,810 --> 01:30:34,289
 Embora eu ache
-que não vai fazer diferença.
+que nÃ£o vai fazer diferenÃ§a.
 
 1166
 01:30:36,660 --> 01:30:38,260
@@ -5411,8 +5411,8 @@ Loki...
 
 1167
 01:30:39,574 --> 01:30:43,142
-Sei que te traí antes,
-mas agora não é nada pessoal.
+Sei que te traÃ­ antes,
+mas agora nÃ£o Ã© nada pessoal.
 
 1168
 01:30:43,143 --> 01:30:46,190
@@ -5421,12 +5421,12 @@ vai me deixar tranquilo.
 
 1169
 01:30:46,191 --> 01:30:47,834
-Não tem mesmo sentimento,
-não é?
+NÃ£o tem mesmo sentimento,
+nÃ£o Ã©?
 
 1170
 01:30:47,835 --> 01:30:50,845
-- É mais fácil não ter.
+- Ã‰ mais fÃ¡cil nÃ£o ter.
 - Eu concordo.
 
 1171
@@ -5435,28 +5435,28 @@ Parece doloroso.
 
 1172
 01:31:01,609 --> 01:31:04,735
-Querido irmão,
-você está ficando previsível.
+Querido irmÃ£o,
+vocÃª estÃ¡ ficando previsÃ­vel.
 
 1173
 01:31:04,736 --> 01:31:08,835
-Eu confio e você me trai.
+Eu confio e vocÃª me trai.
 Sempre a mesma coisa.
 
 1174
 01:31:08,836 --> 01:31:12,277
-Loki, a vida é sobre amadurecer.
-É sobre mudar.
+Loki, a vida Ã© sobre amadurecer.
+Ã‰ sobre mudar.
 
 1175
 01:31:12,278 --> 01:31:15,832
-Mas você parece querer continuar
+Mas vocÃª parece querer continuar
 sendo o mesmo.
 
 1176
 01:31:16,316 --> 01:31:21,159
 Quero dizer que sempre
-será o Deus da Mentira.
+serÃ¡ o Deus da Mentira.
 
 1177
 01:31:21,160 --> 01:31:23,074
@@ -5474,12 +5474,12 @@ tenho que estar em outro lugar.
 
 1180
 01:31:29,185 --> 01:31:31,081
-Então, boa sorte, eu acho.
+EntÃ£o, boa sorte, eu acho.
 
 1181
 01:31:36,392 --> 01:31:40,313
 Eu consigo fazer isso.
-É só mais uma espaçonave.
+Ã‰ sÃ³ mais uma espaÃ§onave.
 
 1182
 01:31:53,072 --> 01:31:54,810
@@ -5487,52 +5487,52 @@ Eu consigo fazer isso.
 
 1183
 01:31:54,811 --> 01:31:58,777
-<i>O Senhor do Trovão roubou
-a nave e meu campeão favorito.</i>
+<i>O Senhor do TrovÃ£o roubou
+a nave e meu campeÃ£o favorito.</i>
 
 1184
 01:31:59,566 --> 01:32:03,103
-<i>Sakarianos, vão para os céus.
+<i>Sakarianos, vÃ£o para os cÃ©us.
 Peguem-no.</i>
 
 1185
 01:32:03,104 --> 01:32:05,139
-<i>Não deixem que ele saia
+<i>NÃ£o deixem que ele saia
 deste planeta.</i>
 
 1186
 01:32:17,910 --> 01:32:19,575
-- Ótimo tiro.
+- Ã“timo tiro.
 - Obrigada.
 
 1187
 01:32:22,160 --> 01:32:24,081
 - <i>Abra as portas.</i>
-- Está bem.
+- EstÃ¡ bem.
 
 1188
 01:32:29,410 --> 01:32:31,850
-Espero que seja mais durão
+Espero que seja mais durÃ£o
 do que aparenta ser.
 
 1189
 01:32:31,851 --> 01:32:33,251
-Por quê?
+Por quÃª?
 
 1190
 01:32:45,110 --> 01:32:48,290
-- Não devemos atirar de volta?
+- NÃ£o devemos atirar de volta?
 - Sim, devemos.
 
 1191
 01:32:48,910 --> 01:32:51,908
-- Cadê as armas dessa nave?
-- <i>Essas naves não têm.</i>
+- CadÃª as armas dessa nave?
+- <i>Essas naves nÃ£o tÃªm.</i>
 
 1192
 01:32:51,909 --> 01:32:53,787
-- É uma nave de lazer.
-- O quê?
+- Ã‰ uma nave de lazer.
+- O quÃª?
 
 1193
 01:32:53,788 --> 01:32:57,039
@@ -5547,16 +5547,16 @@ usa a nave para orgias?
 1195
 01:32:59,851 --> 01:33:02,562
 Disse.
-Não toque em nada.
+NÃ£o toque em nada.
 
 1196
 01:33:22,371 --> 01:33:23,771
-Não, não.
+NÃ£o, nÃ£o.
 
 1197
 01:33:26,848 --> 01:33:28,248
-- Não!
-- Não!
+- NÃ£o!
+- NÃ£o!
 
 1198
 01:33:31,558 --> 01:33:33,106
@@ -5565,22 +5565,22 @@ Thor!
 1199
 01:33:35,119 --> 01:33:37,919
 - Entre.
-- Só um minuto.
+- SÃ³ um minuto.
 
 1200
 01:33:49,140 --> 01:33:51,338
-Eu devia ajudá-la.
-Vem cá, assuma o volante.
+Eu devia ajudÃ¡-la.
+Vem cÃ¡, assuma o volante.
 
 1201
 01:33:51,339 --> 01:33:53,589
-- Não sei pilotar isso.
-- Você é cientista.
+- NÃ£o sei pilotar isso.
+- VocÃª Ã© cientista.
 
 1202
 01:33:53,590 --> 01:33:56,508
 - Use seus diplomas.
-- Nenhum deles é de pilotar
+- Nenhum deles Ã© de pilotar
 
 1203
 01:33:56,509 --> 01:33:58,518
@@ -5588,7 +5588,7 @@ naves extraterrestres!
 
 1204
 01:34:32,919 --> 01:34:35,576
-Vamos lá.
+Vamos lÃ¡.
 Deve ter uma arma nesse lugar.
 
 1205
@@ -5597,34 +5597,34 @@ Isso parece ser uma arma.
 
 1206
 01:34:38,094 --> 01:34:41,541
-<i>É meu aniversário!</i>
+<i>Ã‰ meu aniversÃ¡rio!</i>
 
 1207
 01:34:41,542 --> 01:34:44,040
-<i>É meu aniversário</i>
+<i>Ã‰ meu aniversÃ¡rio</i>
 
 1208
 01:34:50,815 --> 01:34:52,295
-Isso aí!
+Isso aÃ­!
 
 1209
 01:35:09,190 --> 01:35:11,865
 Pessoal, estamos chegando
-no Ânus do Diabo.
+no Ã‚nus do Diabo.
 
 1210
 01:35:18,240 --> 01:35:21,500
-Aí está ela.
-Nossa saída desse lugar.
+AÃ­ estÃ¡ ela.
+Nossa saÃ­da desse lugar.
 
 1211
 01:35:22,003 --> 01:35:23,496
-O que é isso?
+O que Ã© isso?
 
 1212
 01:35:28,513 --> 01:35:29,913
 - Obrigado.
-- E aí, cara?
+- E aÃ­, cara?
 
 1213
 01:35:29,914 --> 01:35:33,139
@@ -5634,7 +5634,7 @@ Quer vir?
 1214
 01:35:33,140 --> 01:35:37,908
 Parecem estar precisando
-muito de um líder.
+muito de um lÃ­der.
 
 1215
 01:35:37,909 --> 01:35:39,309
@@ -5642,7 +5642,7 @@ Obrigado.
 
 1216
 01:35:43,117 --> 01:35:44,517
-Vamos lá.
+Vamos lÃ¡.
 
 1217
 01:36:09,198 --> 01:36:11,189
@@ -5659,8 +5659,8 @@ a nossa espada Bifrost.
 
 1220
 01:36:16,922 --> 01:36:21,822
-Digam onde ela está,
-ou haverá consequências.
+Digam onde ela estÃ¡,
+ou haverÃ¡ consequÃªncias.
 
 1221
 01:36:25,640 --> 01:36:27,647
@@ -5668,11 +5668,11 @@ E das grandes.
 
 1222
 01:36:29,940 --> 01:36:31,340
-E então?
+E entÃ£o?
 
 1223
 01:36:38,112 --> 01:36:39,512
-Você.
+VocÃª.
 
 1224
 01:36:46,672 --> 01:36:48,072
@@ -5680,7 +5680,7 @@ Por favor.
 
 1225
 01:37:15,578 --> 01:37:16,978
-E então?
+E entÃ£o?
 
 1226
 01:37:17,813 --> 01:37:19,819
@@ -5693,7 +5693,7 @@ Espere.
 
 1228
 01:37:29,352 --> 01:37:31,097
-Eu sei onde a espada está.
+Eu sei onde a espada estÃ¡.
 
 1229
 01:38:13,648 --> 01:38:15,853
@@ -5706,22 +5706,22 @@ Achei que seria mais bonita.
 
 1231
 01:38:21,248 --> 01:38:23,915
-Digo, não que não seja bonita,
-é que...
+Digo, nÃ£o que nÃ£o seja bonita,
+Ã© que...
 
 1232
 01:38:23,916 --> 01:38:26,236
-- Está pegando fogo.
+- EstÃ¡ pegando fogo.
 - Aqui, nas montanhas.
 
 1233
 01:38:26,237 --> 01:38:29,737
-Nesta região, as pessoas estão
-reunidas, ela está atrás deles.
+Nesta regiÃ£o, as pessoas estÃ£o
+reunidas, ela estÃ¡ atrÃ¡s deles.
 
 1234
 01:38:29,738 --> 01:38:32,045
-Deixarei vocês no Palácio
+Deixarei vocÃªs no PalÃ¡cio
 e seguir meu caminho.
 
 1235
@@ -5730,12 +5730,12 @@ E acabar morto?
 
 1236
 01:38:33,347 --> 01:38:36,105
-Importante é salvar as pessoas.
+Importante Ã© salvar as pessoas.
 Enquanto cuido da Hela,
 
 1237
 01:38:36,106 --> 01:38:38,256
-vocês os ajudam
+vocÃªs os ajudam
 a sair de Asgard.
 
 1238
@@ -5744,7 +5744,7 @@ E como vamos fazer isso?
 
 1239
 01:38:40,247 --> 01:38:41,911
-Tenho um homem lá embaixo.
+Tenho um homem lÃ¡ embaixo.
 
 1240
 01:38:47,977 --> 01:38:49,465
@@ -5762,7 +5762,7 @@ Ela chegou.
 1243
 01:39:08,977 --> 01:39:12,019
 Achei isso
-no depósito de armas.
+no depÃ³sito de armas.
 
 1244
 01:39:15,122 --> 01:39:16,677
@@ -5774,11 +5774,11 @@ Vossa Majestade...
 
 1246
 01:39:21,310 --> 01:39:22,632
-Não morra.
+NÃ£o morra.
 
 1247
 01:39:25,172 --> 01:39:26,673
-Você me entendeu.
+VocÃª me entendeu.
 
 1248
 01:40:26,245 --> 01:40:27,826
@@ -5786,15 +5786,15 @@ Continuem andando!
 
 1249
 01:40:28,718 --> 01:40:30,612
-Vão para Bifrost!
+VÃ£o para Bifrost!
 
 1250
 01:41:12,514 --> 01:41:13,835
-Irmã.
+IrmÃ£.
 
 1251
 01:41:16,526 --> 01:41:18,401
-Ainda está vivo.
+Ainda estÃ¡ vivo.
 
 1252
 01:41:18,402 --> 01:41:22,011
@@ -5803,7 +5803,7 @@ Redecorou, pelo visto.
 
 1253
 01:41:22,012 --> 01:41:25,346
-Parece que a solução do pai
+Parece que a soluÃ§Ã£o do pai
 para todos os problemas
 
 1254
@@ -5812,7 +5812,7 @@ era encobri-los.
 
 1255
 01:41:27,579 --> 01:41:29,776
-Ou expulsá-los.
+Ou expulsÃ¡-los.
 
 1256
 01:41:30,933 --> 01:41:33,373
@@ -5828,20 +5828,20 @@ Veja...
 
 1259
 01:41:38,351 --> 01:41:40,249
-Você nunca o conheceu.
+VocÃª nunca o conheceu.
 
 1260
 01:41:40,550 --> 01:41:42,450
-Não em seus melhores dias.
+NÃ£o em seus melhores dias.
 
 1261
 01:41:42,806 --> 01:41:45,592
-Odin e eu já afogamos
-civilizações inteiras
+Odin e eu jÃ¡ afogamos
+civilizaÃ§Ãµes inteiras
 
 1262
 01:41:45,593 --> 01:41:47,274
-em sangue e lágrimas.
+em sangue e lÃ¡grimas.
 
 1263
 01:41:47,275 --> 01:41:50,213
@@ -5850,7 +5850,7 @@ que veio todo esse ouro?
 
 1264
 01:41:50,214 --> 01:41:55,043
-E, então, um dia ele decidiu
+E, entÃ£o, um dia ele decidiu
 se tornar um rei benevolente.
 
 1265
@@ -5860,27 +5860,27 @@ proteger a vida.
 
 1266
 01:41:59,151 --> 01:42:01,167
-E ter você.
+E ter vocÃª.
 
 1267
 01:42:01,168 --> 01:42:04,038
 Eu entendo
-o porquê de estar com raiva.
+o porquÃª de estar com raiva.
 
 1268
 01:42:04,039 --> 01:42:07,921
-Você é minha irmã e o trono,
+VocÃª Ã© minha irmÃ£ e o trono,
 tecnicamente, seria seu.
 
 1269
 01:42:07,922 --> 01:42:10,028
 Acredite,
-eu não quero governar,
+eu nÃ£o quero governar,
 
 1270
 01:42:10,029 --> 01:42:12,679
-mas não pode ser você.
-Você é...
+mas nÃ£o pode ser vocÃª.
+VocÃª Ã©...
 
 1271
 01:42:13,665 --> 01:42:15,231
@@ -5888,7 +5888,7 @@ A pior.
 
 1272
 01:42:16,624 --> 01:42:18,272
-Já chega, levante-se.
+JÃ¡ chega, levante-se.
 
 1273
 01:42:18,273 --> 01:42:20,215
@@ -5901,8 +5901,8 @@ uma vez...
 
 1275
 01:42:23,722 --> 01:42:26,223
-Um rei sábio
-não procura a guerra.
+Um rei sÃ¡bio
+nÃ£o procura a guerra.
 
 1276
 01:42:26,224 --> 01:42:29,035
@@ -5915,7 +5915,7 @@ Voltem!
 
 1278
 01:43:06,980 --> 01:43:08,320
-Vão!
+VÃ£o!
 
 1279
 01:43:44,019 --> 01:43:46,465
@@ -5932,12 +5932,12 @@ A espada!
 
 1282
 01:43:59,258 --> 01:44:01,070
-Eis a diferença entre nós:
+Eis a diferenÃ§a entre nÃ³s:
 
 1283
 01:44:01,071 --> 01:44:03,666
-Eu sou a primogênita,
-herdeira legítima,
+Eu sou a primogÃªnita,
+herdeira legÃ­tima,
 
 1284
 01:44:03,667 --> 01:44:05,642
@@ -5945,22 +5945,22 @@ a salvadora de Asgard.
 
 1285
 01:44:05,643 --> 01:44:07,398
-E você é nada.
+E vocÃª Ã© nada.
 
 1286
 01:44:17,361 --> 01:44:20,750
-É muito simples,
-até um cego veria.
+Ã‰ muito simples,
+atÃ© um cego veria.
 
 1287
 01:44:23,863 --> 01:44:26,364
-Agora você me lembra
+Agora vocÃª me lembra
 o papai.
 
 1288
 01:44:36,325 --> 01:44:39,049
-Esse cachorro estúpido
-não morre!
+Esse cachorro estÃºpido
+nÃ£o morre!
 
 1289
 01:45:00,128 --> 01:45:02,872
@@ -5974,13 +5974,13 @@ quem eu sou?
 
 1291
 01:45:06,224 --> 01:45:09,807
-- Do que está falando?
-- Você vai ver.
+- Do que estÃ¡ falando?
+- VocÃª vai ver.
 
 1292
 01:45:58,199 --> 01:46:00,574
-Vê?
-Ninguém vai a lugar algum.
+VÃª?
+NinguÃ©m vai a lugar algum.
 
 1293
 01:46:00,575 --> 01:46:04,317
@@ -5993,8 +5993,8 @@ Oi, cara.
 
 1295
 01:46:33,673 --> 01:46:36,660
-Sou o Korg, este é o Mick.
-Nós vamos entrar nessa nave
+Sou o Korg, este Ã© o Mick.
+NÃ³s vamos entrar nessa nave
 
 1296
 01:46:36,661 --> 01:46:38,221
@@ -6019,13 +6019,13 @@ Bem-vindo.
 
 1301
 01:47:07,855 --> 01:47:10,168
-- Vi você vindo.
-- É claro que viu.
+- Vi vocÃª vindo.
+- Ã‰ claro que viu.
 
 1302
 01:47:27,040 --> 01:47:29,885
-Pontos pelo esforço,
-mas não tem chance.
+Pontos pelo esforÃ§o,
+mas nÃ£o tem chance.
 
 1303
 01:47:29,886 --> 01:47:31,261
@@ -6033,7 +6033,7 @@ Veja...
 
 1304
 01:47:31,662 --> 01:47:35,063
-Não sou uma rainha,
+NÃ£o sou uma rainha,
 nem um monstro.
 
 1305
@@ -6042,7 +6042,7 @@ Sou a Deusa da Morte.
 
 1306
 01:47:39,096 --> 01:47:41,596
-Você é o Deus de quê,
+VocÃª Ã© o Deus de quÃª,
 mesmo?
 
 1307
@@ -6052,37 +6052,37 @@ dois olhos,
 
 1308
 01:47:55,583 --> 01:47:57,717
-só enxergava metade
-da situação.
+sÃ³ enxergava metade
+da situaÃ§Ã£o.
 
 1309
 01:47:58,844 --> 01:48:02,292
-Ela é muito forte.
-Sem meu martelo, não posso...
+Ela Ã© muito forte.
+Sem meu martelo, nÃ£o posso...
 
 1310
 01:48:02,892 --> 01:48:05,938
-Você é Thor,
+VocÃª Ã© Thor,
 o deus dos Martelos?
 
 1311
 01:48:09,790 --> 01:48:13,620
-O martelo é para te ajudar
-a controlar seu poder, focá-lo.
+O martelo Ã© para te ajudar
+a controlar seu poder, focÃ¡-lo.
 
 1312
 01:48:14,258 --> 01:48:16,425
 Nunca foi a fonte
-de sua força.
+de sua forÃ§a.
 
 1313
 01:48:16,506 --> 01:48:19,372
-É tarde demais,
-ela já tomou Asgard.
+Ã‰ tarde demais,
+ela jÃ¡ tomou Asgard.
 
 1314
 01:48:19,950 --> 01:48:22,927
-Asgard não é um lugar.
+Asgard nÃ£o Ã© um lugar.
 Nunca foi.
 
 1315
@@ -6091,8 +6091,8 @@ Asgard poderia ser aqui.
 
 1316
 01:48:26,493 --> 01:48:28,940
-Asgard é onde
-nosso povo está.
+Asgard Ã© onde
+nosso povo estÃ¡.
 
 1317
 01:48:29,414 --> 01:48:31,005
@@ -6108,59 +6108,59 @@ eles precisam da sua ajuda.
 
 1320
 01:48:42,104 --> 01:48:44,237
-Não sou forte como você.
+NÃ£o sou forte como vocÃª.
 
 1321
 01:48:46,957 --> 01:48:48,257
-Não.
+NÃ£o.
 
 1322
 01:48:49,390 --> 01:48:50,800
-Você é mais forte.
+VocÃª Ã© mais forte.
 
 1323
 01:49:00,100 --> 01:49:01,439
-Diga-me, irmão,
+Diga-me, irmÃ£o,
 
 1324
 01:49:01,440 --> 01:49:03,941
-você é Deus de quê?
+vocÃª Ã© Deus de quÃª?
 
 1325
 01:51:19,179 --> 01:51:21,569
-- Está atrasado.
-- Está com um olho a menos.
+- EstÃ¡ atrasado.
+- EstÃ¡ com um olho a menos.
 
 1326
 01:51:21,570 --> 01:51:23,060
-Isso ainda não acabou.
+Isso ainda nÃ£o acabou.
 
 1327
 01:51:30,370 --> 01:51:32,588
-Acho que devíamos
+Acho que devÃ­amos
 acabar com os Vindicativos.
 
 1328
 01:51:33,675 --> 01:51:35,037
-Acerte-a com o relâmpago.
+Acerte-a com o relÃ¢mpago.
 
 1329
 01:51:35,038 --> 01:51:37,538
 Acabei de acertar
-o maior relâmpago da história
+o maior relÃ¢mpago da histÃ³ria
 
 1330
 01:51:37,539 --> 01:51:38,839
-e não fez nada.
+e nÃ£o fez nada.
 
 1331
 01:51:42,245 --> 01:51:44,891
-Temos de segurá-la
-até que todos estejam a bordo.
+Temos de segurÃ¡-la
+atÃ© que todos estejam a bordo.
 
 1332
 01:51:45,287 --> 01:51:46,787
-Isso não terminaria.
+Isso nÃ£o terminaria.
 
 1333
 01:51:47,115 --> 01:51:50,697
@@ -6169,29 +6169,29 @@ em Asgard, mais poderosa fica.
 
 1334
 01:51:50,698 --> 01:51:52,109
-Ela vai nos caçar.
+Ela vai nos caÃ§ar.
 
 1335
 01:51:52,602 --> 01:51:54,356
-Precisamos pará-la
+Precisamos parÃ¡-la
 aqui e agora.
 
 1336
 01:51:54,357 --> 01:51:55,657
-Então, o que fazemos?
+EntÃ£o, o que fazemos?
 
 1337
 01:51:56,443 --> 01:51:57,890
-Não farei o "Ajude-nos".
+NÃ£o farei o "Ajude-nos".
 
 1338
 01:52:09,858 --> 01:52:12,677
-Asgard não é um lugar,
-é um povo.
+Asgard nÃ£o Ã© um lugar,
+Ã© um povo.
 
 1339
 01:52:15,452 --> 01:52:18,609
-Loki, não devemos impedir
+Loki, nÃ£o devemos impedir
 o Ragnarok.
 
 1340
@@ -6205,15 +6205,15 @@ no cofre.
 
 1342
 01:52:23,883 --> 01:52:25,283
-É o único jeito.
+Ã‰ o Ãºnico jeito.
 
 1343
 01:52:26,164 --> 01:52:27,564
-Jogada ousada, irmão.
+Jogada ousada, irmÃ£o.
 
 1344
 01:52:28,846 --> 01:52:30,146
-Até mesmo para mim.
+AtÃ© mesmo para mim.
 
 1345
 01:52:33,701 --> 01:52:35,001
@@ -6221,16 +6221,16 @@ Vamos?
 
 1346
 01:52:35,745 --> 01:52:37,045
-Depois de você.
+Depois de vocÃª.
 
 1347
 01:53:02,192 --> 01:53:03,492
-Isso é loucura.
+Isso Ã© loucura.
 
 1348
 01:53:17,161 --> 01:53:19,081
 Agora!
-Vá agora!
+VÃ¡ agora!
 
 1349
 01:54:19,792 --> 01:54:21,133
@@ -6246,29 +6246,29 @@ Com a Chama Eterna,
 
 1352
 01:55:04,174 --> 01:55:05,699
-você renasce.
+vocÃª renasce.
 
 1353
 01:55:17,018 --> 01:55:18,912
-Hela, já chega!
+Hela, jÃ¡ chega!
 
 1354
 01:55:22,135 --> 01:55:24,981
-Você quer Asgard,
-ela é sua.
+VocÃª quer Asgard,
+ela Ã© sua.
 
 1355
 01:55:24,982 --> 01:55:28,814
-Seja lá o que esteja planejando,
-não funcionará.
+Seja lÃ¡ o que esteja planejando,
+nÃ£o funcionarÃ¡.
 
 1356
 01:55:28,815 --> 01:55:31,029
-Não pode me derrotar.
+NÃ£o pode me derrotar.
 
 1357
 01:55:31,030 --> 01:55:32,430
-Não, eu sei.
+NÃ£o, eu sei.
 
 1358
 01:55:34,089 --> 01:55:35,437
@@ -6276,7 +6276,7 @@ Mas ele pode.
 
 1359
 01:55:39,424 --> 01:55:40,724
-Não.
+NÃ£o.
 
 1360
 01:55:48,822 --> 01:55:52,121
@@ -6289,11 +6289,11 @@ Eu sou seu fim.
 
 1362
 01:56:03,604 --> 01:56:05,389
-O povo está a salvo.
+O povo estÃ¡ a salvo.
 
 1363
 01:56:05,734 --> 01:56:07,398
-É tudo que importa.
+Ã‰ tudo que importa.
 
 1364
 01:56:09,434 --> 01:56:11,469
@@ -6306,26 +6306,26 @@ Odeio essa profecia.
 
 1366
 01:56:12,771 --> 01:56:14,924
-Eu também,
-mas não temos escolha.
+Eu tambÃ©m,
+mas nÃ£o temos escolha.
 
 1367
 01:56:14,925 --> 01:56:17,545
-Surtur destruirá Asgard,
-e destruirá Hela,
+Surtur destruirÃ¡ Asgard,
+e destruirÃ¡ Hela,
 
 1368
 01:56:17,546 --> 01:56:19,378
-e nosso povo poderá viver.
+e nosso povo poderÃ¡ viver.
 
 1369
 01:56:19,379 --> 01:56:22,137
 Mas precisamos deixar
-ele terminar o serviço, senão...
+ele terminar o serviÃ§o, senÃ£o...
 
 1370
 01:56:23,938 --> 01:56:25,238
-Não.
+NÃ£o.
 
 1371
 01:56:27,347 --> 01:56:29,529
@@ -6338,11 +6338,11 @@ Apenas uma vez na sua vida,
 
 1373
 01:56:41,414 --> 01:56:43,108
-não esmague!
+nÃ£o esmague!
 
 1374
 01:56:43,580 --> 01:56:45,257
-Monstrão.
+MonstrÃ£o.
 
 1375
 01:56:45,797 --> 01:56:47,097
@@ -6354,16 +6354,16 @@ Tudo bem.
 
 1377
 01:57:14,049 --> 01:57:17,766
-Eu sou a perdição.
+Eu sou a perdiÃ§Ã£o.
 
 1378
 01:57:39,875 --> 01:57:41,768
-O estrago não foi tão ruim.
+O estrago nÃ£o foi tÃ£o ruim.
 
 1379
 01:57:41,769 --> 01:57:44,207
-As fundações
-ainda estão fortes,
+As fundaÃ§Ãµes
+ainda estÃ£o fortes,
 
 1380
 01:57:44,208 --> 01:57:46,304
@@ -6372,16 +6372,16 @@ este lugar.
 
 1381
 01:57:46,305 --> 01:57:48,338
-Vai se tornar um refúgio
+Vai se tornar um refÃºgio
 
 1382
 01:57:48,339 --> 01:57:51,779
 para todos os povos
-e alienígenas do universo...
+e alienÃ­genas do universo...
 
 1383
 01:57:58,275 --> 01:58:01,158
-As fundações já eram,
+As fundaÃ§Ãµes jÃ¡ eram,
 sinto muito.
 
 1384
@@ -6390,28 +6390,28 @@ O que foi que eu fiz?
 
 1385
 01:58:19,279 --> 01:58:21,431
-Nos salvou da extinção.
+Nos salvou da extinÃ§Ã£o.
 
 1386
 01:58:21,778 --> 01:58:24,195
-Asgard não é um lugar,
+Asgard nÃ£o Ã© um lugar,
 
 1387
 01:58:25,160 --> 01:58:26,460
-é um povo.
+Ã© um povo.
 
 1388
 01:58:55,896 --> 01:58:57,196
-Combina com você.
+Combina com vocÃª.
 
 1389
 01:59:00,310 --> 01:59:03,110
-Talvez não seja tão mau,
-irmão.
+Talvez nÃ£o seja tÃ£o mau,
+irmÃ£o.
 
 1390
 01:59:03,111 --> 01:59:04,411
-Talvez não.
+Talvez nÃ£o.
 
 1391
 01:59:05,409 --> 01:59:06,709
@@ -6420,7 +6420,7 @@ Obrigado.
 1392
 01:59:07,321 --> 01:59:09,626
 Se estivesse aqui
-até lhe daria um abraço.
+atÃ© lhe daria um abraÃ§o.
 
 1393
 01:59:13,987 --> 01:59:15,287
@@ -6432,7 +6432,7 @@ Seu trono.
 
 1395
 01:59:55,905 --> 01:59:57,412
-Então...
+EntÃ£o...
 
 1396
 01:59:58,385 --> 02:00:00,109
@@ -6444,15 +6444,15 @@ para onde?
 
 1398
 02:00:11,850 --> 02:00:13,466
-Não tenho certeza.
+NÃ£o tenho certeza.
 
 1399
 02:00:13,850 --> 02:00:15,616
-Sugestões?
+SugestÃµes?
 
 1400
 02:00:17,545 --> 02:00:19,865
-Mick, de onde você é?
+Mick, de onde vocÃª Ã©?
 
 1401
 02:00:19,866 --> 02:00:21,335
@@ -6465,21 +6465,21 @@ o esmaguei na ponte.
 
 1403
 02:00:24,941 --> 02:00:28,748
-Fiquei tão mal
+Fiquei tÃ£o mal
 que estou carregando-o comigo.
 
 1404
 02:00:30,680 --> 02:00:31,980
-Mick, você está vivo!
+Mick, vocÃª estÃ¡ vivo!
 
 1405
 02:00:31,981 --> 02:00:34,974
-Ele está vivo, gente!
+Ele estÃ¡ vivo, gente!
 Qual a pergunta mesmo?
 
 1406
 02:00:36,085 --> 02:00:37,613
-Para a Terra, então.
+Para a Terra, entÃ£o.
 
 1407
 02:02:54,169 --> 02:02:57,263
@@ -6507,12 +6507,12 @@ me levar de volta para a Terra?
 1412
 02:03:06,625 --> 02:03:08,953
 Honestamente,
-provavelmente não.
+provavelmente nÃ£o.
 
 1413
 02:03:08,954 --> 02:03:10,554
-Mas não se preocupe,
-irmão.
+Mas nÃ£o se preocupe,
+irmÃ£o.
 
 1414
 02:03:10,555 --> 02:03:13,206
@@ -6521,8 +6521,8 @@ tudo bem.
 
 1415
 02:03:23,940 --> 02:03:26,940
-Entregue-se à sua inSanidade.
-Junte-se a nós!
+Entregue-se Ã  sua inSanidade.
+Junte-se a nÃ³s!
 
 1416
 02:03:26,941 --> 02:03:28,741
@@ -6531,17 +6531,17 @@ www.insanos.tv
 
 1417
 02:09:52,347 --> 02:09:55,904
-Eu só tenho que dizer,
+Eu sÃ³ tenho que dizer,
 estou orgulhoso de todos.
 
 1418
 02:09:56,461 --> 02:09:58,973
-Esta revolução
+Esta revoluÃ§Ã£o
 foi um grande sucesso.
 
 1419
 02:09:58,974 --> 02:10:00,334
-Parabéns para nós!
+ParabÃ©ns para nÃ³s!
 
 1420
 02:10:00,335 --> 02:10:03,013
@@ -6549,25 +6549,25 @@ Deem um tapinha nas costas.
 
 1421
 02:10:03,014 --> 02:10:04,325
-Vamos lá.
+Vamos lÃ¡.
 
 1422
 02:10:04,326 --> 02:10:05,696
-Não?
+NÃ£o?
 
 1423
 02:10:05,697 --> 02:10:07,824
-Eu também.
+Eu tambÃ©m.
 Porque fui grande parte disso.
 
 1424
 02:10:07,825 --> 02:10:10,627
-Não podemos ter uma revolução
-sem alguém para derrotar.
+NÃ£o podemos ter uma revoluÃ§Ã£o
+sem alguÃ©m para derrotar.
 
 1425
 02:10:10,628 --> 02:10:12,590
-Então, de nada.
+EntÃ£o, de nada.
 
 1426
 02:10:12,908 --> 02:10:15,535
