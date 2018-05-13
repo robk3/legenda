@@ -1,24 +1,24 @@
 1
 00:00:33,534 --> 00:00:35,827
-TÓQUIO 1988
+TÃ“QUIO 1988
 
 2
 00:01:19,329 --> 00:01:21,331
 Nosso pequeno Darc
-anda ocupado, né?
+anda ocupado, nÃ©?
 
 3
 00:01:22,082 --> 00:01:27,838
-O Seu Tagawa falou que está me
+O Seu Tagawa falou que estÃ¡ me
 ensinando uma coisa muito importante.
 
 4
 00:01:28,880 --> 00:01:31,300
-O Seu Tagawa é um preguiçoso.
+O Seu Tagawa Ã© um preguiÃ§oso.
 
 5
 00:01:31,550 --> 00:01:33,760
-Para não ter que trabalhar,
+Para nÃ£o ter que trabalhar,
 ele vai te dizer qualquer coisa.
 
 6
@@ -31,11 +31,11 @@ Lendo essa revistinha de novo?
 
 8
 00:02:14,259 --> 00:02:18,055
-Então, quer ser um herói? Hm?
+EntÃ£o, quer ser um herÃ³i? Hm?
 
 9
 00:03:28,083 --> 00:03:32,587
-Só faça o que eu estou mandando!
+SÃ³ faÃ§a o que eu estou mandando!
 
 10
 00:03:46,017 --> 00:03:47,686
@@ -47,7 +47,7 @@ Subpack by DanDee
 
 11
 00:04:44,284 --> 00:04:47,829
-CALIFÓRNIA - 27 ANOS DEPOIS
+CALIFÃ“RNIA - 27 ANOS DEPOIS
 
 12
 00:05:44,261 --> 00:05:45,720
@@ -55,7 +55,7 @@ Sabe kachi-kachi?
 
 13
 00:05:50,433 --> 00:05:51,518
-Que carta é essa?
+Que carta Ã© essa?
 
 14
 00:05:52,227 --> 00:05:53,061
@@ -63,16 +63,16 @@ Juu.
 
 15
 00:05:53,144 --> 00:05:55,605
-São imitações de cartas ocidentais.
+SÃ£o imitaÃ§Ãµes de cartas ocidentais.
 
 16
 00:05:56,189 --> 00:05:57,774
-Não valem nada.
+NÃ£o valem nada.
 
 17
 00:05:58,275 --> 00:06:01,152
 Seu Ginzo,
-isso é só até o fim do jogo.
+isso Ã© sÃ³ atÃ© o fim do jogo.
 
 18
 00:06:01,778 --> 00:06:04,197
@@ -112,7 +112,7 @@ Parem!
 
 27
 00:14:18,149 --> 00:14:20,568
-ORGANIZAÇÃO KOGAKAI
+ORGANIZAÃ‡ÃƒO KOGAKAI
 
 28
 00:14:28,826 --> 00:14:30,036
@@ -125,7 +125,7 @@ Vagabunda maldita!
 30
 00:15:07,740 --> 00:15:11,244
 POLICIAL FRUSTRA ESQUEMA
-DE TRÁFICO DE PESSOAS DA YAKUZA
+DE TRÃFICO DE PESSOAS DA YAKUZA
 
 31
 00:15:12,286 --> 00:15:13,746
@@ -141,11 +141,11 @@ Me larga!
 
 34
 00:16:12,847 --> 00:16:15,016
-Alguém chame a polícia!
+AlguÃ©m chame a polÃ­cia!
 
 35
 00:16:15,850 --> 00:16:18,644
-Fique quieto. Chamem a polícia!
+Fique quieto. Chamem a polÃ­cia!
 
 36
 00:16:19,604 --> 00:16:21,105
@@ -153,7 +153,7 @@ Me larga!
 
 37
 00:17:48,901 --> 00:17:50,611
-OS AMALDIÇOADOS - CALIFÓRNIA
+OS AMALDIÃ‡OADOS - CALIFÃ“RNIA
 
 38
 00:21:11,771 --> 00:21:13,272
@@ -169,13 +169,13 @@ Olhem os documentos na sua frente.
 
 41
 00:27:59,928 --> 00:28:03,849
-O gráfico mostra que, desde quando
+O grÃ¡fico mostra que, desde quando
 viemos para os EUA...
 
 42
 00:28:10,606 --> 00:28:12,691
 Senhores,
-peço desculpas por interromper,
+peÃ§o desculpas por interromper,
 
 43
 00:28:13,275 --> 00:28:18,030
@@ -184,17 +184,17 @@ que o meu pai queria muito.
 
 44
 00:28:50,229 --> 00:28:53,899
-Você interrompeu
-minha reunião para isso?
+VocÃª interrompeu
+minha reuniÃ£o para isso?
 
 45
 00:28:54,650 --> 00:28:57,986
-Achei que fosse importante. Você
-estava procurando por ele há semanas.
+Achei que fosse importante. VocÃª
+estava procurando por ele hÃ¡ semanas.
 
 46
 00:28:58,695 --> 00:29:00,447
-E eu consegui encontrá-lo.
+E eu consegui encontrÃ¡-lo.
 
 47
 00:29:00,656 --> 00:29:01,531
@@ -210,11 +210,11 @@ Como ousa trazer um estrangeiro aqui.
 
 50
 00:29:14,086 --> 00:29:15,879
-Você investigou o passado dele?
+VocÃª investigou o passado dele?
 
 51
 00:29:44,366 --> 00:29:45,659
-Onde você o achou?
+Onde vocÃª o achou?
 
 52
 00:29:46,076 --> 00:29:47,536
@@ -222,7 +222,7 @@ Ele salvou a minha vida.
 
 53
 00:29:48,203 --> 00:29:49,788
-E você não achou isso suspeito?
+E vocÃª nÃ£o achou isso suspeito?
 
 54
 00:29:49,997 --> 00:29:51,456
@@ -231,26 +231,26 @@ Ele matou na minha frente!
 55
 00:29:52,499 --> 00:29:54,876
 E eles nunca teriam mandado
-um espião estrangeiro.
+um espiÃ£o estrangeiro.
 
 56
 00:29:55,210 --> 00:30:00,841
-É exatamente porque a gente não
+Ã‰ exatamente porque a gente nÃ£o
 espera que eles podem ter feito.
 
 57
 00:30:01,133 --> 00:30:04,428
-Ele é realmente incrível.
-Eu nunca conheci ninguém como ele.
+Ele Ã© realmente incrÃ­vel.
+Eu nunca conheci ninguÃ©m como ele.
 
 58
 00:30:05,762 --> 00:30:07,933
 Por favor,
-me dê outra chance de mostrar
+me dÃª outra chance de mostrar
 
 59
 00:30:07,934 --> 00:30:09,934
-que você pode confiar em mim nisso.
+que vocÃª pode confiar em mim nisso.
 
 60
 00:30:15,314 --> 00:30:18,317
@@ -258,8 +258,8 @@ Lembre-se disto...
 
 61
 00:30:19,860 --> 00:30:22,321
-Mas não mencione a ele nenhuma
-informação desnecessária.
+Mas nÃ£o mencione a ele nenhuma
+informaÃ§Ã£o desnecessÃ¡ria.
 
 62
 00:30:23,196 --> 00:30:24,156
@@ -268,7 +268,7 @@ Claro.
 63
 00:30:24,990 --> 00:30:28,910
 Vamos torcer para que ele seja
-tão útil quanto você diz.
+tÃ£o Ãºtil quanto vocÃª diz.
 
 64
 00:30:29,286 --> 00:30:30,954
@@ -276,11 +276,11 @@ Estou apostando minha vida nisso.
 
 65
 00:30:56,271 --> 00:30:57,522
-Chame os Dragões.
+Chame os DragÃµes.
 
 66
 00:35:28,084 --> 00:35:29,336
-Você ainda não o pagou?
+VocÃª ainda nÃ£o o pagou?
 
 67
 00:36:25,433 --> 00:36:26,851
@@ -288,7 +288,7 @@ Descubra tudo que puder.
 
 68
 00:36:27,644 --> 00:36:31,231
-Esse estrangeiro é bom demais
+Esse estrangeiro Ã© bom demais
 pra ser verdade.
 
 69
@@ -305,11 +305,11 @@ TONE REN HONG COMPANHIA LTDA.
 
 72
 00:47:24,133 --> 00:47:26,218
-Shigeru! Onde está o seu novo amigo?
+Shigeru! Onde estÃ¡ o seu novo amigo?
 
 73
 00:47:26,719 --> 00:47:28,429
-Em algum lugar por aí.
+Em algum lugar por aÃ­.
 
 74
 00:47:28,721 --> 00:47:30,139
@@ -317,21 +317,21 @@ Ele volta logo.
 
 75
 00:50:37,660 --> 00:50:39,286
-ÁREA DO PORTO,
+ÃREA DO PORTO,
 UNIDADE CORRECIONAL WALTERS, J.
 
 76
 00:54:17,796 --> 00:54:20,841
-Lisa! Vá buscar ajuda!
+Lisa! VÃ¡ buscar ajuda!
 
 77
 00:54:21,592 --> 00:54:24,553
-Está me ouvindo, garota?
+EstÃ¡ me ouvindo, garota?
 
 78
 00:54:25,012 --> 00:54:27,890
-Faça isso e toda a dívida
-da sua família será perdoada!
+FaÃ§a isso e toda a dÃ­vida
+da sua famÃ­lia serÃ¡ perdoada!
 
 79
 00:54:28,474 --> 00:54:29,850
@@ -355,7 +355,7 @@ Saia daqui!
 
 84
 00:59:40,410 --> 00:59:42,204
-Ele não seguirá suas ordens.
+Ele nÃ£o seguirÃ¡ suas ordens.
 
 85
 00:59:42,662 --> 00:59:43,747
@@ -363,7 +363,7 @@ Saia daqui!
 
 86
 00:59:44,956 --> 00:59:46,792
-Ou castro você, caralho!
+Ou castro vocÃª, caralho!
 
 87
 00:59:51,463 --> 00:59:53,006
@@ -375,8 +375,8 @@ Eu que o encontrei!
 
 89
 00:59:55,050 --> 00:59:57,677
-Você não tem autoridade
-para tomar decisões assim!
+VocÃª nÃ£o tem autoridade
+para tomar decisÃµes assim!
 
 90
 01:00:02,140 --> 01:00:03,642
@@ -384,17 +384,17 @@ Eu sabia sobre elas.
 
 91
 01:00:04,476 --> 01:00:06,144
-As tatuagens dele são
+As tatuagens dele sÃ£o
 um dos motivos por que o contratei!
 
 92
 01:00:06,228 --> 01:00:10,315
-Você nasceu nos EUA,
-você não entende.
+VocÃª nasceu nos EUA,
+vocÃª nÃ£o entende.
 
 93
 01:00:11,441 --> 01:00:12,484
-Toshiro era como um irmão para mim.
+Toshiro era como um irmÃ£o para mim.
 
 94
 01:00:13,568 --> 01:00:15,946
@@ -410,7 +410,7 @@ E todo dia ele se arrependia disso.
 
 97
 01:00:31,628 --> 01:00:34,214
-Você era o vira-lata pessoal
+VocÃª era o vira-lata pessoal
 do meu pai.
 
 98
@@ -419,21 +419,21 @@ Um tradutor. Nada mais.
 
 99
 01:00:38,635 --> 01:00:40,428
-Eu só não mato você porque
+Eu sÃ³ nÃ£o mato vocÃª porque
 
 100
 01:00:40,512 --> 01:00:42,931
-o Oyabun vai querer saber onde você
+o Oyabun vai querer saber onde vocÃª
 estava quando meu pai foi morto.
 
 101
 01:02:15,315 --> 01:02:17,192
-E quanto à prostituta?
+E quanto Ã  prostituta?
 
 102
 01:02:19,778 --> 01:02:22,322
-É estranho que ela seja
-a única sobrevivente.
+Ã‰ estranho que ela seja
+a Ãºnica sobrevivente.
 
 103
 01:02:22,489 --> 01:02:23,865
@@ -455,7 +455,7 @@ o americano que...
 
 107
 01:02:32,290 --> 01:02:33,458
-Por quê?
+Por quÃª?
 
 108
 01:02:33,917 --> 01:02:37,545
@@ -468,7 +468,7 @@ Por dinheiro.
 
 110
 01:02:39,631 --> 01:02:44,386
--E se alguém lhe oferecesse mais?
+-E se alguÃ©m lhe oferecesse mais?
 -Tipo quem, caralho?
 
 111
@@ -477,7 +477,7 @@ Chega!
 
 112
 01:02:47,389 --> 01:02:52,018
-Se o estrangeiro é inocente,
+Se o estrangeiro Ã© inocente,
 o ataque foi feito por outra pessoa.
 
 113
@@ -492,18 +492,18 @@ eu quero
 
 115
 01:03:03,405 --> 01:03:05,657
-que você me conte
+que vocÃª me conte
 como o Toshio morreu
 
 116
 01:03:05,949 --> 01:03:09,577
-enquanto você era responsável
-pela segurança dele!
+enquanto vocÃª era responsÃ¡vel
+pela seguranÃ§a dele!
 
 117
 01:03:10,161 --> 01:03:13,164
-E vocês dois,
-lembrem-se de quem nós somos.
+E vocÃªs dois,
+lembrem-se de quem nÃ³s somos.
 
 118
 01:03:15,083 --> 01:03:17,377
@@ -511,7 +511,7 @@ Nenhuma pessoa sozinha
 
 119
 01:03:18,586 --> 01:03:23,300
-é mais importante do que a Koga-Kai.
+Ã© mais importante do que a Koga-Kai.
 
 120
 01:04:03,965 --> 01:04:05,842
@@ -519,11 +519,11 @@ Eu preciso falar com o policial.
 
 121
 01:04:08,762 --> 01:04:13,266
-Não. Encontre seu próprio informante.
+NÃ£o. Encontre seu prÃ³prio informante.
 
 122
 01:04:18,188 --> 01:04:21,649
-Nenhuma pessoa sozinha é mais
+Nenhuma pessoa sozinha Ã© mais
 importante do que a Koga-Kai, certo?
 
 123
@@ -533,15 +533,15 @@ Tem certeza de que foi ele?
 124
 01:07:24,707 --> 01:07:29,128
 Tenho. Ele admitiu,
-Oyabun, nas suas últimas palavras.
+Oyabun, nas suas Ãºltimas palavras.
 
 125
 01:07:29,504 --> 01:07:30,880
-E como você descobriu?
+E como vocÃª descobriu?
 
 126
 01:07:31,172 --> 01:07:32,257
-Eu já suspeitava disso.
+Eu jÃ¡ suspeitava disso.
 
 127
 01:07:33,633 --> 01:07:36,553
@@ -551,29 +551,29 @@ confirmou isso pra mim.
 128
 01:07:36,719 --> 01:07:40,098
 O mesmo homem que nos deu
-o dossiê da vida do americano?
+o dossiÃª da vida do americano?
 
 129
 01:07:40,306 --> 01:07:43,393
-Ele mesmo. Ele tem sido muito útil.
+Ele mesmo. Ele tem sido muito Ãºtil.
 
 130
 01:07:43,810 --> 01:07:47,480
-Entendi. Então o seu estrangeiro
+Entendi. EntÃ£o o seu estrangeiro
 foi exonerado.
 
 131
 01:07:48,982 --> 01:07:50,316
-Como eu já imaginava.
+Como eu jÃ¡ imaginava.
 
 132
 01:07:53,069 --> 01:07:56,573
-Shigeru. Você fez muito bem.
+Shigeru. VocÃª fez muito bem.
 
 133
 01:07:58,658 --> 01:08:01,828
-Está se tornando o homem
-que esperávamos que se tornasse.
+EstÃ¡ se tornando o homem
+que esperÃ¡vamos que se tornasse.
 
 134
 01:09:19,822 --> 01:09:20,782
@@ -589,16 +589,16 @@ Sinto muito, meu amigo,
 
 137
 01:09:50,687 --> 01:09:51,896
-mas nós temos a informação.
+mas nÃ³s temos a informaÃ§Ã£o.
 
 138
 01:09:52,980 --> 01:09:58,236
-São detalhes importantes que
-foram omitidos do dossiê do policial.
+SÃ£o detalhes importantes que
+foram omitidos do dossiÃª do policial.
 
 139
 01:10:03,157 --> 01:10:07,620
-<i>Isso é só até o fim do jogo.</i>
+<i>Isso Ã© sÃ³ atÃ© o fim do jogo.</i>
 
 140
 01:10:08,830 --> 01:10:11,124
@@ -611,16 +611,16 @@ Tudo isso por uma mulher?
 142
 01:12:47,154 --> 01:12:50,449
 Bom, duas...
-se você contar a mãe dele.
+se vocÃª contar a mÃ£e dele.
 
 143
 01:12:51,450 --> 01:12:54,495
-Me tragam essa mulher e também
+Me tragam essa mulher e tambÃ©m
 ache o Shigeru e o Kanji.
 
 144
 01:13:11,596 --> 01:13:12,555
-Não atende!
+NÃ£o atende!
 
 145
 01:13:12,889 --> 01:13:14,307
@@ -636,13 +636,13 @@ Esse tempo todo!
 
 148
 01:17:00,157 --> 01:17:03,119
-Ele traiu a minha confiança,
+Ele traiu a minha confianÃ§a,
 me fez de idiota!
 
 149
 01:17:03,786 --> 01:17:08,040
-Dirige mais rápido, seu retardado!
-Mais rápido! Mais rápido!
+Dirige mais rÃ¡pido, seu retardado!
+Mais rÃ¡pido! Mais rÃ¡pido!
 
 150
 01:18:54,563 --> 01:18:55,856
@@ -650,16 +650,16 @@ Levanta, prende ele.
 
 151
 01:18:57,942 --> 01:18:58,984
-Você vai ver!
+VocÃª vai ver!
 
 152
 01:18:59,985 --> 01:19:02,905
-Eu vou matá-los.
-E aí vai ser só eu e você.
+Eu vou matÃ¡-los.
+E aÃ­ vai ser sÃ³ eu e vocÃª.
 
 153
 01:19:04,490 --> 01:19:08,327
-Você não serve para Oyabun!
+VocÃª nÃ£o serve para Oyabun!
 
 154
 01:19:22,216 --> 01:19:23,175
@@ -679,15 +679,15 @@ Saiam daqui.
 
 158
 01:20:48,052 --> 01:20:49,636
-Shigeru, você também.
+Shigeru, vocÃª tambÃ©m.
 
 159
 01:20:50,929 --> 01:20:52,056
-Eu... Eu só...
+Eu... Eu sÃ³...
 
 160
 01:21:30,803 --> 01:21:34,139
-Só o fato de deixarem
+SÃ³ o fato de deixarem
 ele existir era uma anomalia.
 
 161
@@ -700,7 +700,7 @@ Oyabun, eu...
 
 163
 01:22:25,232 --> 01:22:29,278
-Você lida com esse estrangeiro.
+VocÃª lida com esse estrangeiro.
 
 164
 01:22:33,907 --> 01:22:35,200
@@ -708,12 +708,12 @@ Porra, com certeza.
 
 165
 01:22:35,576 --> 01:22:38,871
-O Mestre Kim vai junto com você.
-Vocês também.
+O Mestre Kim vai junto com vocÃª.
+VocÃªs tambÃ©m.
 
 166
 01:22:39,413 --> 01:22:40,497
-Oyabun, não precisa. Eu...
+Oyabun, nÃ£o precisa. Eu...
 
 167
 01:22:40,622 --> 01:22:42,166
@@ -721,11 +721,11 @@ Eu digo o que precisa!
 
 168
 01:22:47,421 --> 01:22:48,630
-Como quiser, vô.
+Como quiser, vÃ´.
 
 169
 01:25:28,457 --> 01:25:30,083
-Ei! Reúna todos aqui.
+Ei! ReÃºna todos aqui.
 
 170
 01:29:12,722 --> 01:29:13,807
@@ -737,16 +737,16 @@ a carta que pode mudar tudo.
 
 172
 01:29:22,524 --> 01:29:26,069
-O que você quer fazer?
-Você quer salvá-la?
+O que vocÃª quer fazer?
+VocÃª quer salvÃ¡-la?
 
 173
 01:29:26,695 --> 01:29:28,321
-Ou isso é pela sua mãe?
+Ou isso Ã© pela sua mÃ£e?
 
 174
 01:29:29,155 --> 01:29:30,740
-Você já nem sabe mais.
+VocÃª jÃ¡ nem sabe mais.
 
 175
 01:32:25,457 --> 01:32:27,459
