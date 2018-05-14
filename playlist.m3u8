@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=860438,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=512x288
+chunklist_w1381524974.m3u8
+#EXT:-X $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/n6/ty2lf_tnl_210x118.jpg?ts=20150325000851",Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+
+#EXT:-X $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/x/n6/oy2lf_tnl_210x118.jpg?ts=20150325003622",O Contrato
+http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
+
+#EXT:-X $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/u/56/rv1lf_tnl_210x118.jpg?ts=20141111004527",A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+
+#EXT:-X $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/5/16/qp1lf_tnl_210x118.jpg?ts=20140710001508",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
