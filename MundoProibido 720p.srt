@@ -13,8 +13,8 @@ Quero lhe mostrar algo.
 
 4
 00:03:26,120 --> 00:03:29,120
-- Ainda não terminei o jantar.
-- Está lá fora.
+Ainda não terminei o jantar.
+Está lá fora.
 
 5
 00:03:29,360 --> 00:03:34,160
@@ -32,13 +32,13 @@ Tem certeza? Certo.
 
 8
 00:03:45,120 --> 00:03:47,400
-- Vamos virar aqui.
-- Está frio.
+Vamos virar aqui.
+Está frio.
 
 9
 00:03:47,600 --> 00:03:50,080
-- Não está.
-- Até as galinhas estão com frio.
+Não está.
+Até as galinhas estão com frio.
 
 10
 00:03:50,280 --> 00:03:55,400
