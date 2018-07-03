@@ -1,7 +1,7 @@
 1
 00:00:31,272 --> 00:00:34,461
 <b>Legenda:
-LarissaPereus | IceBreaker</b>
+Obrigado por assistir conosco smartflix.tv
 
 2
 00:00:34,462 --> 00:00:36,725
@@ -25,7 +25,7 @@ LiaWV | Monk</b>
 
 6
 00:00:44,172 --> 00:00:45,859
-<b>Revisão:
+<b>RevisÃ£o:
 Durenkian</b>
 
 7
@@ -54,7 +54,7 @@ a realidade. X1.</i>
 
 12
 00:01:21,434 --> 00:01:23,225
-<i>Não há ganho,
+<i>NÃ£o hÃ¡ ganho,
 sem sofrimento.</i>
 
 13
@@ -63,7 +63,7 @@ A pizza chegou!
 
 14
 00:02:08,051 --> 00:02:10,882
-- Olá, Wade.
+- OlÃ¡, Wade.
 - Oi, Sra. Gilmore.
 
 15
@@ -77,31 +77,31 @@ Desanimado com a vida?
 
 17
 00:02:21,261 --> 00:02:23,114
-<i>Após as secas
-nas plantações de milho,</i>
+<i>ApÃ³s as secas
+nas plantaÃ§Ãµes de milho,</i>
 
 18
 00:02:23,115 --> 00:02:24,953
-<i>após das disputas
+<i>apÃ³s das disputas
 por sinais,</i>
 
 19
 00:02:24,954 --> 00:02:27,558
-<i>após as pessoas pararem
+<i>apÃ³s as pessoas pararem
 de tentar consertar as coisas</i>
 
 20
 00:02:27,559 --> 00:02:28,966
-<i>e começarem a ignorá-los.</i>
+<i>e comeÃ§arem a ignorÃ¡-los.</i>
 
 21
 00:02:36,475 --> 00:02:38,937
-<i>Meus pais não sobreviveram
-a essas épocas.</i>
+<i>Meus pais nÃ£o sobreviveram
+a essas Ã©pocas.</i>
 
 22
 00:02:38,948 --> 00:02:42,294
-<i>Então, moro aqui em Columbus,
+<i>EntÃ£o, moro aqui em Columbus,
 Ohio, com minha tia Alice.</i>
 
 23
@@ -110,18 +110,18 @@ Ohio, com minha tia Alice.</i>
 
 24
 00:02:44,359 --> 00:02:47,228
-<i>Columbus é a cidade
-que cresce mais rápido no mundo.</i>
+<i>Columbus Ã© a cidade
+que cresce mais rÃ¡pido no mundo.</i>
 
 25
 00:02:48,169 --> 00:02:51,212
-<i>É onde Halliday e Morrow
+<i>Ã‰ onde Halliday e Morrow
 criaram os Jogos Gregarious.</i>
 
 26
 00:02:56,528 --> 00:02:58,882
 <i>Atualmente,
-a realidade é uma droga.</i>
+a realidade Ã© uma droga.</i>
 
 27
 00:02:58,883 --> 00:03:00,944
@@ -131,7 +131,7 @@ um tipo de fuga.</i>
 28
 00:03:00,945 --> 00:03:04,265
 <i>Por isso Halliday
-é um herói tão grande para nós.</i>
+Ã© um herÃ³i tÃ£o grande para nÃ³s.</i>
 
 29
 00:03:05,120 --> 00:03:08,342
@@ -140,7 +140,7 @@ onde quiser sem sair do lugar.</i>
 
 30
 00:03:10,514 --> 00:03:11,916
-<i>Não precisa ter um destino</i>
+<i>NÃ£o precisa ter um destino</i>
 
 31
 00:03:11,917 --> 00:03:14,476
@@ -149,8 +149,8 @@ numa esteira omnidirecional</i>
 
 32
 00:03:14,477 --> 00:03:16,579
-<i>com sensores de pressão
-quádruplos no chão.</i>
+<i>com sensores de pressÃ£o
+quÃ¡druplos no chÃ£o.</i>
 
 33
 00:03:17,425 --> 00:03:19,696
@@ -158,7 +158,7 @@ quádruplos no chão.</i>
 
 34
 00:03:19,887 --> 00:03:21,396
-<i>E então o construiu.</i>
+<i>E entÃ£o o construiu.</i>
 
 35
 00:03:21,454 --> 00:03:23,498
@@ -179,20 +179,20 @@ MUNDO MINECRAFT
 
 39
 00:03:40,615 --> 00:03:42,752
-<i>Este é o OASIS.</i>
+<i>Este Ã© o OASIS.</i>
 
 40
 00:03:42,889 --> 00:03:45,268
-<i>É um lugar onde os limites
+<i>Ã‰ um lugar onde os limites
 da realidade</i>
 
 41
 00:03:45,269 --> 00:03:46,836
-<i>são sua própria imaginação.</i>
+<i>sÃ£o sua prÃ³pria imaginaÃ§Ã£o.</i>
 
 42
 00:04:00,468 --> 00:04:02,128
-<i>Você pode fazer qualquer coisa.</i>
+<i>VocÃª pode fazer qualquer coisa.</i>
 
 43
 00:04:03,500 --> 00:04:04,902
@@ -200,16 +200,16 @@ da realidade</i>
 
 44
 00:04:06,402 --> 00:04:08,128
-<i>Como o Planeta das Férias.</i>
+<i>Como o Planeta das FÃ©rias.</i>
 
 45
 00:04:08,129 --> 00:04:10,525
 <i>Surfar uma onda
-de 15 metros no Havaí.</i>
+de 15 metros no HavaÃ­.</i>
 
 46
 00:04:10,859 --> 00:04:12,776
-<i>Pode esquiar nas pirâmides,</i>
+<i>Pode esquiar nas pirÃ¢mides,</i>
 
 47
 00:04:13,800 --> 00:04:15,342
@@ -225,12 +225,12 @@ de 15 metros no Havaí.</i>
 
 50
 00:04:21,319 --> 00:04:23,774
-<i>É um cassino do tamanho
+<i>Ã‰ um cassino do tamanho
 de um planeta.</i>
 
 51
 00:04:23,775 --> 00:04:25,177
-<i>Aí pode perder seu dinheiro,</i>
+<i>AÃ­ pode perder seu dinheiro,</i>
 
 52
 00:04:25,178 --> 00:04:27,553
@@ -261,22 +261,22 @@ diferentes sexos,</i>
 
 58
 00:04:43,044 --> 00:04:46,287
-<i>diferentes espécies,
+<i>diferentes espÃ©cies,
 reais, desenhos...</i>
 
 59
 00:04:46,288 --> 00:04:47,693
-<i>Tudo é você quem decide.</i>
+<i>Tudo Ã© vocÃª quem decide.</i>
 
 60
 00:04:48,866 --> 00:04:52,411
-<i>É, este sou eu.
-Bom, é meu avatar.</i>
+<i>Ã‰, este sou eu.
+Bom, Ã© meu avatar.</i>
 
 61
 00:04:52,412 --> 00:04:54,744
 <i>Pelo menos,
-até eu decidir mudar.</i>
+atÃ© eu decidir mudar.</i>
 
 62
 00:04:56,084 --> 00:04:58,803
@@ -290,11 +290,11 @@ se faz no OASIS.</i>
 
 64
 00:05:02,560 --> 00:05:04,310
-<i>E como todos estão aqui</i>
+<i>E como todos estÃ£o aqui</i>
 
 65
 00:05:04,311 --> 00:05:06,909
-<i>é onde nos conhecemos
+<i>Ã© onde nos conhecemos
 e fazemos amigos.</i>
 
 66
@@ -325,44 +325,44 @@ para conseguir moedas.</i>
 
 72
 00:05:26,385 --> 00:05:28,187
-<i>Não é surpresa
+<i>NÃ£o Ã© surpresa
 que Aech esteja aqui.</i>
 
 73
 00:05:30,415 --> 00:05:32,646
-<i>Aech é meu melhor amigo
+<i>Aech Ã© meu melhor amigo
 no OASIS.</i>
 
 74
 00:05:33,830 --> 00:05:36,594
-<i>É meu melhor amigo, ponto.</i>
+<i>Ã‰ meu melhor amigo, ponto.</i>
 
 75
 00:05:36,595 --> 00:05:39,324
-<i>Mesmo não o conhecendo
+<i>Mesmo nÃ£o o conhecendo
 no mundo real.</i>
 
 76
 00:05:43,292 --> 00:05:45,730
-- E aí, Aech?
+- E aÃ­, Aech?
 - Oi, Z.
 
 77
 00:05:45,731 --> 00:05:48,134
-A próxima corrida é
+A prÃ³xima corrida Ã©
 daqui 20 minutos, preciso ir.
 
 78
 00:05:48,135 --> 00:05:49,536
-Que droga está fazendo?
+Que droga estÃ¡ fazendo?
 
 79
 00:05:49,779 --> 00:05:51,780
-Estou no modo batalha, irmão.
+Estou no modo batalha, irmÃ£o.
 
 80
 00:05:52,482 --> 00:05:54,633
-- Esse é Daito?
+- Esse Ã© Daito?
 - Daito e Sho.
 
 81
@@ -377,12 +377,12 @@ Estou no modo batalha, irmão.
 
 83
 00:06:05,238 --> 00:06:08,141
-Transforma você num robô gigante
+Transforma vocÃª num robÃ´ gigante
 qualquer por dois minutos.
 
 84
 00:06:08,142 --> 00:06:09,544
-É demais.
+Ã‰ demais.
 
 85
 00:06:09,943 --> 00:06:11,344
@@ -390,7 +390,7 @@ qualquer por dois minutos.
 
 86
 00:06:12,055 --> 00:06:13,486
-<i>Esses são chaves.</i>
+<i>Esses sÃ£o chaves.</i>
 
 87
 00:06:15,009 --> 00:06:17,743
@@ -399,7 +399,7 @@ no OASIS fosse coberto</i>
 
 88
 00:06:17,744 --> 00:06:19,657
-<i>de itens aleatórios
+<i>de itens aleatÃ³rios
 e poderosos</i>
 
 89
@@ -414,18 +414,18 @@ a ganhar moedas</i>
 
 91
 00:06:26,864 --> 00:06:29,426
-<i>mas dependendo do nível
-da armadura, são arriscados.</i>
+<i>mas dependendo do nÃ­vel
+da armadura, sÃ£o arriscados.</i>
 
 92
 00:06:31,449 --> 00:06:35,250
-<i>Todos começam no mesmo nível,
+<i>Todos comeÃ§am no mesmo nÃ­vel,
 mas quanto mais moedas ganha</i>
 
 93
 00:06:35,251 --> 00:06:36,845
-<i>- mais sobe de nível.</i>
-- Mamãe!
+<i>- mais sobe de nÃ­vel.</i>
+- MamÃ£e!
 
 94
 00:06:36,846 --> 00:06:39,515
@@ -465,7 +465,7 @@ a maioria do tempo no OASIS...</i>
 102
 00:07:02,646 --> 00:07:05,196
 <i>Bem...
-perder a cabeça.</i>
+perder a cabeÃ§a.</i>
 
 103
 00:07:07,865 --> 00:07:09,704
@@ -474,25 +474,25 @@ Aech,
 
 104
 00:07:10,015 --> 00:07:11,417
-<i>Sim mamãe, já ouvi.</i>
+<i>Sim mamÃ£e, jÃ¡ ouvi.</i>
 
 105
 00:07:12,057 --> 00:07:15,861
-<i>O OASIS foi uma criação
+<i>O OASIS foi uma criaÃ§Ã£o
 de James Halliday.</i>
 
 106
 00:07:16,282 --> 00:07:18,351
-<i>Ele e seu sócio, Oggen Morrow</i>
+<i>Ele e seu sÃ³cio, Oggen Morrow</i>
 
 107
 00:07:18,352 --> 00:07:21,298
-<i>lançaram a primeira versão
+<i>lanÃ§aram a primeira versÃ£o
 de OASIS em 2025.</i>
 
 108
 00:07:21,299 --> 00:07:25,574
-<i>Foi um sucesso instantâneo
+<i>Foi um sucesso instantÃ¢neo
 e os fez ficarem muito ricos.</i>
 
 109
@@ -502,7 +502,7 @@ uns anos depois.</i>
 
 110
 00:07:28,136 --> 00:07:32,350
-<i>E Halliday... Não era só o dono
+<i>E Halliday... NÃ£o era sÃ³ o dono
 da maior empresa do mundo.</i>
 
 111
@@ -520,12 +520,12 @@ quase como ao que criou.</i>
 
 114
 00:07:38,440 --> 00:07:41,086
-Talvez devêssemos
+Talvez devÃªssemos
 parar de falar dele
 
 115
 00:07:41,087 --> 00:07:43,845
-e começar a mostrá-lo.
+e comeÃ§ar a mostrÃ¡-lo.
 
 116
 00:07:44,176 --> 00:07:46,941
@@ -534,11 +534,11 @@ de suas cadeiras
 
 117
 00:07:46,942 --> 00:07:48,603
-não encontrarão nada.
+nÃ£o encontrarÃ£o nada.
 
 118
 00:07:48,604 --> 00:07:52,313
-Mas levaremos até vocês,
+Mas levaremos atÃ© vocÃªs,
 agora.
 
 119
@@ -553,7 +553,7 @@ em 7 de janeiro de 2040</i>
 121
 00:08:04,010 --> 00:08:05,753
 <i>Mas o que deixou
-atrás de si</i>
+atrÃ¡s de si</i>
 
 122
 00:08:06,467 --> 00:08:08,024
@@ -561,7 +561,7 @@ atrás de si</i>
 
 123
 00:08:21,466 --> 00:08:22,868
-Olá.
+OlÃ¡.
 
 124
 00:08:23,463 --> 00:08:25,244
@@ -569,7 +569,7 @@ Sou James Halliday.
 
 125
 00:08:25,647 --> 00:08:28,294
-Se estão vendo isso,
+Se estÃ£o vendo isso,
 estou morto.
 
 126
@@ -578,8 +578,8 @@ estou morto.
 
 127
 00:08:31,634 --> 00:08:35,941
-o que nós na industria chamamos
-um "ovo de páscoa".
+o que nÃ³s na industria chamamos
+um "ovo de pÃ¡scoa".
 
 128
 00:08:36,234 --> 00:08:38,743
@@ -588,7 +588,7 @@ dentro do jogo
 
 129
 00:08:38,744 --> 00:08:43,662
-que dão poderes especiais
+que dÃ£o poderes especiais
 para quem os achar.
 
 130
@@ -603,49 +603,49 @@ dentro do OASIS
 
 132
 00:08:51,205 --> 00:08:54,798
-herdará minhas ações
+herdarÃ¡ minhas aÃ§Ãµes
 da Gregarious Games
 
 133
 00:08:54,799 --> 00:08:58,436
 atualmente avaliadas
-em mais de meio milhão...
+em mais de meio milhÃ£o...
 
 134
 00:08:58,437 --> 00:09:01,226
 Valem
-meio trilhão de dólares
+meio trilhÃ£o de dÃ³lares
 
 135
 00:09:01,633 --> 00:09:03,996
-e terá controle total
+e terÃ¡ controle total
 
 136
 00:09:03,997 --> 00:09:06,964
-da própria OASIS.
+da prÃ³pria OASIS.
 
 137
 00:09:07,949 --> 00:09:12,955
 Sob a forma do meu avatar:
-Anorak, o sábio,
+Anorak, o sÃ¡bio,
 
 138
 00:09:13,737 --> 00:09:16,454
-eu criei três chaves.
+eu criei trÃªs chaves.
 
 139
 00:09:17,329 --> 00:09:20,451
-Três desafios ocultos
-para colocá-los a prova,
+TrÃªs desafios ocultos
+para colocÃ¡-los a prova,
 
 140
 00:09:20,462 --> 00:09:22,666
 levando
-a três chaves ocultas
+a trÃªs chaves ocultas
 
 141
 00:09:22,667 --> 00:09:25,049
-de três portões mágicos.
+de trÃªs portÃµes mÃ¡gicos.
 
 142
 00:09:25,050 --> 00:09:27,530
@@ -655,11 +655,11 @@ para sobreviver
 143
 00:09:27,531 --> 00:09:31,368
 a esses desafios
-chegarão ao final
+chegarÃ£o ao final
 
 144
 00:09:31,369 --> 00:09:34,018
-onde o troféu espera.
+onde o trofÃ©u espera.
 
 145
 00:09:34,019 --> 00:09:35,931
@@ -667,8 +667,8 @@ Avante, chaves.
 
 146
 00:09:38,715 --> 00:09:42,079
-As chaves não estão
-simplesmente jogadas por aí
+As chaves nÃ£o estÃ£o
+simplesmente jogadas por aÃ­
 
 147
 00:09:42,080 --> 00:09:43,482
@@ -677,7 +677,7 @@ debaixo de pedras.
 148
 00:09:43,861 --> 00:09:46,983
 Pode-se dizer
-que são invisíveis.
+que sÃ£o invisÃ­veis.
 
 149
 00:09:46,984 --> 00:09:49,975
@@ -694,8 +694,8 @@ aqui.
 
 152
 00:09:56,779 --> 00:10:01,302
-Que a caça
-ao ovo da páscoa do Halliday
+Que a caÃ§a
+ao ovo da pÃ¡scoa do Halliday
 
 153
 00:10:01,303 --> 00:10:02,705
@@ -707,7 +707,7 @@ comece.
 
 155
 00:10:04,286 --> 00:10:07,119
-<b>JOGADOR NÚMERO 1</b>
+<b>JOGADOR NÃšMERO 1</b>
 
 156
 00:10:07,212 --> 00:10:08,816
@@ -716,13 +716,13 @@ Legendei.com</b>
 
 157
 00:10:08,841 --> 00:10:11,143
-<i>O Desafio é encontrar
-três chaves.</i>
+<i>O Desafio Ã© encontrar
+trÃªs chaves.</i>
 
 158
 00:10:11,234 --> 00:10:14,874
 <i>Mas por 5 anos
-ninguém achou chave alguma.</i>
+ninguÃ©m achou chave alguma.</i>
 
 159
 00:10:14,875 --> 00:10:17,579
@@ -731,7 +731,7 @@ segue zerado.</i>
 
 160
 00:10:17,862 --> 00:10:20,232
-<i>Um caça-ovo desvendou
+<i>Um caÃ§a-ovo desvendou
 a primeira pista</i>
 
 161
@@ -740,7 +740,7 @@ a primeira pista</i>
 
 162
 00:10:21,770 --> 00:10:23,889
-<i>Assim, este portão apareceu.</i>
+<i>Assim, este portÃ£o apareceu.</i>
 
 163
 00:10:24,429 --> 00:10:26,398
@@ -754,17 +754,17 @@ desenhada por Halliday</i>
 
 165
 00:10:28,473 --> 00:10:30,991
-<i>tão difícil
-que ninguém completou.</i>
+<i>tÃ£o difÃ­cil
+que ninguÃ©m completou.</i>
 
 166
 00:10:30,992 --> 00:10:33,071
-<i>Os únicos que tentam são
-caça-ovos</i>
+<i>Os Ãºnicos que tentam sÃ£o
+caÃ§a-ovos</i>
 
 167
 00:10:33,072 --> 00:10:34,473
-<i>como em caçadores de ovos.</i>
+<i>como em caÃ§adores de ovos.</i>
 
 168
 00:10:34,474 --> 00:10:37,632
@@ -773,7 +773,7 @@ e Aech, meu melhor amigo.</i>
 
 169
 00:10:38,467 --> 00:10:41,506
-<i>E é claro, os Seis.</i>
+<i>E Ã© claro, os Seis.</i>
 
 170
 00:10:41,821 --> 00:10:45,382
@@ -787,13 +787,13 @@ do mundo</i>
 
 172
 00:10:47,500 --> 00:10:49,352
-<i>com intenções
+<i>com intenÃ§Ãµes
 de ser a primeira.</i>
 
 173
 00:10:49,790 --> 00:10:53,069
 <i>Investem tudo para ganhar
-a competição do Halliday.</i>
+a competiÃ§Ã£o do Halliday.</i>
 
 174
 00:10:53,070 --> 00:10:54,472
@@ -802,20 +802,20 @@ Cintos!
 175
 00:10:55,440 --> 00:10:56,847
 Sentar!
-A mão!
+A mÃ£o!
 
 176
 00:10:57,359 --> 00:11:00,366
-<i>São chamados de Seis
-porque é regra da empresa.</i>
+<i>SÃ£o chamados de Seis
+porque Ã© regra da empresa.</i>
 
 177
 00:11:00,367 --> 00:11:02,518
-<i>Sem nomes, só números.</i>
+<i>Sem nomes, sÃ³ nÃºmeros.</i>
 
 178
 00:11:03,576 --> 00:11:06,008
-<i>Eles têm uma equipe
+<i>Eles tÃªm uma equipe
 com aprendizes do Halliday.</i>
 
 179
@@ -835,8 +835,8 @@ para solucionar o desafio.</i>
 
 182
 00:11:15,320 --> 00:11:18,069
-<i>Eles só seguiam as ordens
-do líder da IOI...</i>
+<i>Eles sÃ³ seguiam as ordens
+do lÃ­der da IOI...</i>
 
 183
 00:11:18,070 --> 00:11:20,800
@@ -846,12 +846,12 @@ chamado Nolan Sorrento.</i>
 184
 00:11:27,477 --> 00:11:30,907
 - Como chegou antes de mim?
-- Não precisei fazer o cabelo.
+- NÃ£o precisei fazer o cabelo.
 
 185
 00:11:31,428 --> 00:11:33,539
-- E aí, Z?
-- Como está, Aech?
+- E aÃ­, Z?
+- Como estÃ¡, Aech?
 
 186
 00:11:33,911 --> 00:11:36,359
@@ -860,17 +860,17 @@ chamado Nolan Sorrento.</i>
 
 187
 00:11:41,093 --> 00:11:42,495
-Vou ficar atrás.
+Vou ficar atrÃ¡s.
 
 188
 00:11:42,496 --> 00:11:44,888
-E pegar moedas caídas
+E pegar moedas caÃ­das
 dos carros quebrados?
 
 189
 00:11:45,136 --> 00:11:48,096
-- Isso é triste, cara.
-- Estou sem combustível.
+- Isso Ã© triste, cara.
+- Estou sem combustÃ­vel.
 
 190
 00:11:48,097 --> 00:11:51,363
@@ -883,7 +883,7 @@ PREPARAR
 
 192
 00:12:33,153 --> 00:12:34,555
-Primeiros à chave!
+Primeiros Ã  chave!
 
 193
 00:12:35,285 --> 00:12:36,686
@@ -891,7 +891,7 @@ Primeiros ao ovo!
 
 194
 00:13:25,887 --> 00:13:27,350
-Aech, está vendo isso?
+Aech, estÃ¡ vendo isso?
 
 195
 00:13:30,174 --> 00:13:31,576
@@ -899,7 +899,7 @@ Aech, está vendo isso?
 
 196
 00:13:31,577 --> 00:13:33,103
-É a moto do Kaneda
+Ã‰ a moto do Kaneda
 de <i>Akira</i>.
 
 197
@@ -909,18 +909,18 @@ numa moto comum.
 
 198
 00:13:35,342 --> 00:13:37,317
-Não a moto,
+NÃ£o a moto,
 esquece a moto.
 
 199
 00:13:38,030 --> 00:13:39,890
-É a garota,
-acho que é a Art3mis.
+Ã‰ a garota,
+acho que Ã© a Art3mis.
 
 200
 00:13:39,891 --> 00:13:42,173
 "A" Art3mis?
-A Caçadora dos Seis?
+A CaÃ§adora dos Seis?
 
 201
 00:13:42,174 --> 00:13:44,920
@@ -929,11 +929,11 @@ e <i>streams</i> dela na Twitch.
 
 202
 00:13:45,288 --> 00:13:47,291
-É ela, sem dúvida nenhuma.
+Ã‰ ela, sem dÃºvida nenhuma.
 
 203
 00:15:34,083 --> 00:15:36,461
-Vá, para a chegada!
+VÃ¡, para a chegada!
 
 204
 00:15:40,803 --> 00:15:42,205
@@ -941,7 +941,7 @@ CHEGADA
 
 205
 00:15:42,206 --> 00:15:43,608
-<i>Você consegue.</i>
+<i>VocÃª consegue.</i>
 
 206
 00:15:52,956 --> 00:15:54,358
@@ -949,7 +949,7 @@ Droga.
 
 207
 00:15:59,924 --> 00:16:01,326
-Ela não vai conseguir.
+Ela nÃ£o vai conseguir.
 
 208
 00:16:03,467 --> 00:16:06,624
@@ -961,18 +961,18 @@ Como eu amava essa moto.
 
 210
 00:16:46,476 --> 00:16:50,365
-Aech é um amigo meu,
-ele pode consertá-la.
+Aech Ã© um amigo meu,
+ele pode consertÃ¡-la.
 
 211
 00:16:57,634 --> 00:16:59,951
-Esta é minha oficina,
-não toquem em nada.
+Esta Ã© minha oficina,
+nÃ£o toquem em nada.
 
 212
 00:17:07,035 --> 00:17:08,952
 Onde encontrou
-um Gigante de Aço?
+um Gigante de AÃ§o?
 
 213
 00:17:08,953 --> 00:17:11,980
@@ -981,8 +981,8 @@ Estou construindo por encomenda.
 
 214
 00:17:11,981 --> 00:17:14,646
-É fato,
-Aech é famoso nos fóruns.
+Ã‰ fato,
+Aech Ã© famoso nos fÃ³runs.
 
 215
 00:17:14,647 --> 00:17:17,707
@@ -996,7 +996,7 @@ Veja isto.
 217
 00:17:23,624 --> 00:17:25,892
 - A <i>Galactica</i>, claro.
-- São meus bebês.
+- SÃ£o meus bebÃªs.
 
 218
 00:17:25,893 --> 00:17:29,005
@@ -1006,12 +1006,12 @@ Veja isto.
 219
 00:17:29,006 --> 00:17:32,204
 Valley Forge de Silent Running.
-Cadê o transportador?
+CadÃª o transportador?
 
 220
 00:17:32,205 --> 00:17:34,864
-A coisa é demais,
-leva você tão rápido...
+A coisa Ã© demais,
+leva vocÃª tÃ£o rÃ¡pido...
 
 221
 00:17:34,865 --> 00:17:37,099
@@ -1033,26 +1033,26 @@ Conserto em dez minutos.
 
 225
 00:17:52,682 --> 00:17:54,084
-É isso aí.
+Ã‰ isso aÃ­.
 
 226
 00:17:54,453 --> 00:17:57,874
-- Ele é bom demais.
-- Imagino que sejam de um clã.
+- Ele Ã© bom demais.
+- Imagino que sejam de um clÃ£.
 
 227
 00:17:58,250 --> 00:18:01,073
-Com o Aech? Não.
+Com o Aech? NÃ£o.
 Quero dizer...
 
 228
 00:18:01,572 --> 00:18:04,725
-Ele é bom demais, mas,
-não entro em clãs.
+Ele Ã© bom demais, mas,
+nÃ£o entro em clÃ£s.
 
 229
 00:18:06,407 --> 00:18:08,097
-Porque você é Parzival,
+Porque vocÃª Ã© Parzival,
 
 230
 00:18:08,098 --> 00:18:10,876
@@ -1061,18 +1061,18 @@ encontrou o Santo Graal.
 
 231
 00:18:10,877 --> 00:18:13,559
-E você, Art3mis?
-Deusa da caça.
+E vocÃª, Art3mis?
+Deusa da caÃ§a.
 
 232
 00:18:13,909 --> 00:18:15,971
-Os clãs devem
-se matar para ter você.
+Os clÃ£s devem
+se matar para ter vocÃª.
 
 233
 00:18:17,403 --> 00:18:19,327
 - FPS favorito?
-- Perdão?
+- PerdÃ£o?
 
 234
 00:18:19,328 --> 00:18:21,832
@@ -1086,7 +1086,7 @@ preferido do Halliday?
 
 236
 00:18:23,707 --> 00:18:26,215
-- Oddjob. Isso é um teste?
+- Oddjob. Isso Ã© um teste?
 - Modo favorito?
 
 237
@@ -1111,7 +1111,7 @@ Chuck E. Cheese's.
 
 241
 00:18:34,329 --> 00:18:37,146
-Música, "Video Killed
+MÃºsica, "Video Killed
 the Radio Star" do The Buggles.
 
 242
@@ -1131,7 +1131,7 @@ era do Superman.
 
 245
 00:18:45,003 --> 00:18:46,856
-e acham que é
+e acham que Ã©
 um simples romance.
 
 246
@@ -1155,7 +1155,7 @@ O que faria se ganhasse?
 250
 00:19:00,475 --> 00:19:02,155
 Quero dizer,
-a competição toda.
+a competiÃ§Ã£o toda.
 
 251
 00:19:02,156 --> 00:19:05,111
@@ -1165,32 +1165,32 @@ para o mundo real.
 252
 00:19:05,112 --> 00:19:06,977
 Iria me mudar
-para uma enorme mansão.
+para uma enorme mansÃ£o.
 
 253
 00:19:06,978 --> 00:19:09,899
-Teria várias coisas bacanas.
+Teria vÃ¡rias coisas bacanas.
 Deixaria de ser pobre.
 
 254
 00:19:11,013 --> 00:19:13,236
-Agora vejo o porquê
-de você ter parado.
+Agora vejo o porquÃª
+de vocÃª ter parado.
 
 255
 00:19:14,686 --> 00:19:16,344
-Eu só parei
+Eu sÃ³ parei
 por causa do Kong.
 
 256
 00:19:16,345 --> 00:19:19,872
-Ninguém passa dele,
-é quase uma regra.
+NinguÃ©m passa dele,
+Ã© quase uma regra.
 
 257
 00:19:19,873 --> 00:19:21,575
-Você sabe
-que não deve ser verdade,
+VocÃª sabe
+que nÃ£o deve ser verdade,
 
 258
 00:19:21,576 --> 00:19:23,607
@@ -1199,12 +1199,12 @@ fazer regras.
 
 259
 00:19:23,608 --> 00:19:25,865
-- Não posso zerar.
+- NÃ£o posso zerar.
 - Tem medo de perder.
 
 260
 00:19:25,866 --> 00:19:27,568
-- Não, não tenho.
+- NÃ£o, nÃ£o tenho.
 - O que vai fazer
 
 261
@@ -1219,7 +1219,7 @@ domina o mundo.
 
 263
 00:19:32,028 --> 00:19:34,688
-Um verdadeiro caçador de ovos
+Um verdadeiro caÃ§ador de ovos
 arriscaria tudo
 
 264
@@ -1233,7 +1233,7 @@ para salvar o OASIS da IOI.
 
 266
 00:19:41,986 --> 00:19:43,650
-Cá está, como nova.
+CÃ¡ estÃ¡, como nova.
 
 267
 00:19:43,963 --> 00:19:45,604
@@ -1255,7 +1255,7 @@ McFly.
 271
 00:20:05,694 --> 00:20:08,780
 - Correu tudo bem.
-- Graças a você, boca grande.
+- GraÃ§as a vocÃª, boca grande.
 
 272
 00:20:08,781 --> 00:20:10,899
@@ -1263,7 +1263,7 @@ McFly.
 
 273
 00:20:10,900 --> 00:20:14,111
-<i>- Onde estão minhas luvas?</i>
+<i>- Onde estÃ£o minhas luvas?</i>
 - Droga, preciso ir.
 
 274
@@ -1277,8 +1277,8 @@ preciso da vantagem que for.
 
 276
 00:20:22,250 --> 00:20:26,231
-Cada empurrão, golpe e disparo.
-Você sente tudo.
+Cada empurrÃ£o, golpe e disparo.
+VocÃª sente tudo.
 
 277
 00:20:26,232 --> 00:20:30,781
@@ -1287,7 +1287,7 @@ X1.</i>
 
 278
 00:20:30,782 --> 00:20:33,114
-<i>X1 é como usar
+<i>X1 Ã© como usar
 uma segunda pele.</i>
 
 279
@@ -1297,12 +1297,12 @@ uma segunda pele.</i>
 280
 00:20:36,693 --> 00:20:39,260
 Eu zerei por causa
-das suas luvas bagunçadas.
+das suas luvas bagunÃ§adas.
 
 281
 00:20:39,968 --> 00:20:42,839
-- Quem te disse para usá-las?
-- Você pegou as dela.
+- Quem te disse para usÃ¡-las?
+- VocÃª pegou as dela.
 
 282
 00:20:44,187 --> 00:20:46,322
@@ -1310,8 +1310,8 @@ Se perdeu uma batalha,
 
 283
 00:20:46,323 --> 00:20:48,811
-por que não reinicia
-e sobe de nível
+por que nÃ£o reinicia
+e sobe de nÃ­vel
 
 284
 00:20:48,812 --> 00:20:51,113
@@ -1339,22 +1339,22 @@ quanto gastou nessa coisa?
 
 289
 00:21:01,894 --> 00:21:04,629
-Tudo o que tínhamos,
+Tudo o que tÃ­nhamos,
 mas eu ia ganhar.
 
 290
 00:21:05,481 --> 00:21:07,881
-Era nossa saída daqui.
+Era nossa saÃ­da daqui.
 
 291
 00:21:10,539 --> 00:21:14,310
 - Seu idiota.
-- Só perdi por causa das luvas.
+- SÃ³ perdi por causa das luvas.
 
 292
 00:21:14,311 --> 00:21:17,155
 - Nossa casa!
-- Meus amigos estavam lá,
+- Meus amigos estavam lÃ¡,
 
 293
 00:21:17,156 --> 00:21:19,323
@@ -1364,21 +1364,21 @@ iria te ajudar.
 294
 00:21:20,078 --> 00:21:22,124
 Pare.
-Não!
+NÃ£o!
 
 295
 00:21:22,485 --> 00:21:24,266
-- Não!
-- Alice, chame a polícia.
+- NÃ£o!
+- Alice, chame a polÃ­cia.
 
 296
 00:21:24,267 --> 00:21:27,347
-Ninguém vai chamar a polícia.
-Vá para seu quarto, Rick.
+NinguÃ©m vai chamar a polÃ­cia.
+VÃ¡ para seu quarto, Rick.
 
 297
 00:21:27,479 --> 00:21:29,222
-Qual é, Alice!
+Qual Ã©, Alice!
 
 298
 00:21:30,002 --> 00:21:31,710
@@ -1386,12 +1386,12 @@ Por que aguenta esse cara?
 
 299
 00:21:32,219 --> 00:21:33,628
-Ele é um idiota.
+Ele Ã© um idiota.
 
 300
 00:21:34,062 --> 00:21:35,996
 Eu deveria expulsar
-vocês dois.
+vocÃªs dois.
 
 301
 00:21:36,231 --> 00:21:40,961
@@ -1401,7 +1401,7 @@ nas minhas coisas de novo...
 302
 00:21:41,418 --> 00:21:43,636
 sem brincadeira,
-que você vai embora.
+que vocÃª vai embora.
 
 303
 00:21:51,020 --> 00:21:52,422
@@ -1414,7 +1414,7 @@ que você vai embora.
 305
 00:21:54,515 --> 00:21:57,112
 <i>porque parecia o alter-ego
-de um super herói,</i>
+de um super herÃ³i,</i>
 
 306
 00:21:57,156 --> 00:22:00,012
@@ -1424,7 +1424,7 @@ ou Bruce Banner.</i>
 307
 00:22:01,091 --> 00:22:04,223
 <i>Mas morreu quando eu era
-criança, minha mãe, também,</i>
+crianÃ§a, minha mÃ£e, tambÃ©m,</i>
 
 308
 00:22:04,224 --> 00:22:06,473
@@ -1436,8 +1436,8 @@ criança, minha mãe, também,</i>
 
 310
 00:22:07,877 --> 00:22:10,654
-<i>e seus infindáveis namorados
-inúteis e imprestáveis.</i>
+<i>e seus infindÃ¡veis namorados
+inÃºteis e imprestÃ¡veis.</i>
 
 311
 00:22:13,574 --> 00:22:15,372
@@ -1452,7 +1452,7 @@ ficou na minha mente?</i>
 313
 00:22:20,963 --> 00:22:24,156
 <i>Talvez porque a Art3mis disse,
-e ela é uma gata.</i>
+e ela Ã© uma gata.</i>
 
 314
 00:22:24,622 --> 00:22:27,223
@@ -1465,7 +1465,7 @@ de lugar nenhum,</i>
 
 316
 00:22:30,183 --> 00:22:32,493
-<i>protejo meu pedaço de nada.</i>
+<i>protejo meu pedaÃ§o de nada.</i>
 
 317
 00:22:32,762 --> 00:22:34,201
@@ -1482,32 +1482,32 @@ signifique algo,</i>
 
 320
 00:22:40,847 --> 00:22:42,249
-DIÁRIOS DE HALLIDAY
+DIÃRIOS DE HALLIDAY
 
 321
 00:22:42,305 --> 00:22:43,984
 <i>Quando anunciaram
-a competição,</i>
+a competiÃ§Ã£o,</i>
 
 322
 00:22:43,985 --> 00:22:45,637
-<i>os "Diários de Halliday"
+<i>os "DiÃ¡rios de Halliday"
 surgiram.</i>
 
 323
 00:22:45,638 --> 00:22:48,771
-<i>Meios para ver o cérebro dele
-e era o que tínhamos.</i>
+<i>Meios para ver o cÃ©rebro dele
+e era o que tÃ­nhamos.</i>
 
 324
 00:22:49,321 --> 00:22:52,413
-<i>No começo, montes de caça-ovos
+<i>No comeÃ§o, montes de caÃ§a-ovos
 buscaram respostas aqui.</i>
 
 325
 00:22:52,656 --> 00:22:55,259
 <i>Agora, os corredores
-das memórias dele, antes lotados</i>
+das memÃ³rias dele, antes lotados</i>
 
 326
 00:22:55,260 --> 00:22:59,209
@@ -1516,27 +1516,27 @@ das memórias dele, antes lotados</i>
 
 327
 00:22:59,325 --> 00:23:02,853
-Como me fará perder
+Como me farÃ¡ perder
 meu tempo de pesquisas, hoje?
 
 328
 00:23:02,892 --> 00:23:05,963
 Gregarious Games, 2029.
-Festa do escritório.
+Festa do escritÃ³rio.
 
 329
 00:23:05,964 --> 00:23:08,286
-Você assistiu a isso
+VocÃª assistiu a isso
 apenas mil vezes.
 
 330
 00:23:08,287 --> 00:23:10,097
-Por que não voltar?
+Por que nÃ£o voltar?
 
 331
 00:23:11,085 --> 00:23:13,720
 Cada entrada
-nos Diários de Halliday
+nos DiÃ¡rios de Halliday
 
 332
 00:23:13,721 --> 00:23:16,256
@@ -1545,8 +1545,8 @@ formada de fotos pessoais,
 
 333
 00:23:16,257 --> 00:23:19,019
-vídeos caseiros,
-câmeras manuais e de segurança.
+vÃ­deos caseiros,
+cÃ¢meras manuais e de seguranÃ§a.
 
 334
 00:23:19,020 --> 00:23:20,456
@@ -1554,12 +1554,12 @@ Tudo foi renderizado
 
 335
 00:23:20,457 --> 00:23:22,479
-para uma visão virtual
+para uma visÃ£o virtual
 tridimensional.
 
 336
 00:23:22,677 --> 00:23:26,134
-Também foram arquivados,
+TambÃ©m foram arquivados,
 cada filme, jogo, livro
 
 337
@@ -1578,17 +1578,17 @@ com temas adultos
 
 340
 00:23:32,329 --> 00:23:34,062
-não são permitidos
-nos Diários.
+nÃ£o sÃ£o permitidos
+nos DiÃ¡rios.
 
 341
 00:23:34,063 --> 00:23:36,945
 Aproveitem seu tempo,
-e boa caçada!
+e boa caÃ§ada!
 
 342
 00:23:39,225 --> 00:23:41,983
-Certo, Jim. Já vou indo.
+Certo, Jim. JÃ¡ vou indo.
 
 343
 00:23:46,621 --> 00:23:49,472
@@ -1597,12 +1597,12 @@ Tudo evolui.
 
 344
 00:23:49,473 --> 00:23:53,027
-Algumas coisas são perfeitas
+Algumas coisas sÃ£o perfeitas
 do jeito delas, veja Asteroids.
 
 345
 00:23:53,028 --> 00:23:56,680
-As pessoas não vivem dentro
+As pessoas nÃ£o vivem dentro
 de um fliperama de <i>"Asteroids".</i>
 
 346
@@ -1613,25 +1613,25 @@ de um fliperama de <i>"Asteroids".</i>
 347
 00:24:00,515 --> 00:24:02,417
 dentro de um fliperama
-que construímos.
+que construÃ­mos.
 
 348
 00:24:02,418 --> 00:24:03,820
-Eu construí.
+Eu construÃ­.
 
 349
 00:24:05,499 --> 00:24:07,353
-Você pode dizer
+VocÃª pode dizer
 o que quiser.
 
 350
 00:24:07,354 --> 00:24:09,868
-- Não quero falar disso.
-- Claro que não quer,
+- NÃ£o quero falar disso.
+- Claro que nÃ£o quer,
 
 351
 00:24:09,869 --> 00:24:11,527
-está me deixando de fora.
+estÃ¡ me deixando de fora.
 
 352
 00:24:11,528 --> 00:24:12,950
@@ -1639,8 +1639,8 @@ está me deixando de fora.
 
 353
 00:24:13,051 --> 00:24:16,021
-Uma invenção traz
-responsabilidades não desejadas.
+Uma invenÃ§Ã£o traz
+responsabilidades nÃ£o desejadas.
 
 354
 00:24:16,951 --> 00:24:19,410
@@ -1654,8 +1654,8 @@ colocar regras.
 
 356
 00:24:22,338 --> 00:24:25,615
-- Não quero pôr mais regras.
-<i>- Não quero pôr mais regras.</i>
+- NÃ£o quero pÃ´r mais regras.
+<i>- NÃ£o quero pÃ´r mais regras.</i>
 
 357
 00:24:25,616 --> 00:24:27,906
@@ -1674,8 +1674,8 @@ Mas isso mudou.
 
 360
 00:24:34,372 --> 00:24:37,148
-- Não é mais um jogo.
-<i>- Já acabamos?</i>
+- NÃ£o Ã© mais um jogo.
+<i>- JÃ¡ acabamos?</i>
 
 361
 00:24:37,149 --> 00:24:41,241
@@ -1685,26 +1685,26 @@ como era antes.
 362
 00:24:42,946 --> 00:24:46,021
 - Quando era um jogo.
-- Voltamos ao início.
+- Voltamos ao inÃ­cio.
 
 363
 00:24:46,746 --> 00:24:49,465
-Mas a verdade é
+Mas a verdade Ã©
 que as coisas evoluem,
 
 364
 00:24:49,466 --> 00:24:52,590
-- gostando ou não.
+- gostando ou nÃ£o.
 - Sim, terminamos.
 
 365
 00:24:52,655 --> 00:24:54,057
-<i>Está bem.</i>
+<i>EstÃ¡ bem.</i>
 
 366
 00:24:56,827 --> 00:24:58,832
-<i>Por que não podemos
-voltar atrás?</i>
+<i>Por que nÃ£o podemos
+voltar atrÃ¡s?</i>
 
 367
 00:24:59,486 --> 00:25:00,888
@@ -1712,8 +1712,8 @@ voltar atrás?</i>
 
 368
 00:25:02,253 --> 00:25:06,159
-<i>Uma ré, bem rápido.
-O mais rápido possível.</i>
+<i>Uma rÃ©, bem rÃ¡pido.
+O mais rÃ¡pido possÃ­vel.</i>
 
 369
 00:25:06,989 --> 00:25:09,133
@@ -1726,8 +1726,8 @@ Volte 10 segundos.
 
 371
 00:25:11,668 --> 00:25:13,694
-Por que não podemos
-voltar atrás?
+Por que nÃ£o podemos
+voltar atrÃ¡s?
 
 372
 00:25:14,060 --> 00:25:15,461
@@ -1735,8 +1735,8 @@ Pelo menos uma vez.
 
 373
 00:25:16,362 --> 00:25:19,844
-Uma ré, bem rápido.
-O mais rápido possível.
+Uma rÃ©, bem rÃ¡pido.
+O mais rÃ¡pido possÃ­vel.
 
 374
 00:25:20,517 --> 00:25:22,901
@@ -1749,16 +1749,16 @@ Bill e Ted fizeram isso.
 
 376
 00:25:47,641 --> 00:25:49,104
-De volta tão cedo?
+De volta tÃ£o cedo?
 
 377
 00:25:51,313 --> 00:25:53,066
 Cuidado
-para não perder suas coisas.
+para nÃ£o perder suas coisas.
 
 378
 00:25:57,531 --> 00:25:58,933
-Você descobriu algo.
+VocÃª descobriu algo.
 
 379
 00:26:00,163 --> 00:26:01,626
@@ -1770,7 +1770,7 @@ Bela corrida, padawan.
 
 381
 00:27:44,921 --> 00:27:46,847
-Você é o primeiro
+VocÃª Ã© o primeiro
 a terminar.
 
 382
@@ -1779,13 +1779,13 @@ Senhor Halliday, Anorak.
 
 383
 00:27:52,951 --> 00:27:56,345
-- É uma honra tão grande.
-- A honra é toda minha.
+- Ã‰ uma honra tÃ£o grande.
+- A honra Ã© toda minha.
 
 384
 00:28:07,758 --> 00:28:09,693
 Obtenha uma pista
-para você.
+para vocÃª.
 
 385
 00:28:22,029 --> 00:28:24,332
@@ -1794,7 +1794,7 @@ PLACAR
 
 386
 00:28:24,333 --> 00:28:28,073
-Quem é esse Parzival
+Quem Ã© esse Parzival
 e como ele ganhou?
 
 387
@@ -1804,12 +1804,12 @@ quem se importa?
 
 388
 00:28:30,616 --> 00:28:32,804
-A competição de Halliday
-é vital,
+A competiÃ§Ã£o de Halliday
+Ã© vital,
 
 389
 00:28:32,805 --> 00:28:34,689
-não é nada menos
+nÃ£o Ã© nada menos
 do que uma guerra
 
 390
@@ -1819,7 +1819,7 @@ pelo controle do futuro.
 391
 00:28:36,093 --> 00:28:38,903
 Esse Parzival
-não está em nenhum clã.
+nÃ£o estÃ¡ em nenhum clÃ£.
 
 392
 00:28:38,904 --> 00:28:40,306
@@ -1827,7 +1827,7 @@ Ele joga sozinho.
 
 393
 00:28:40,514 --> 00:28:43,847
-- Nós temos um exército.
+- NÃ³s temos um exÃ©rcito.
 - Mas ele tem a primeira chave.
 
 394
@@ -1836,48 +1836,48 @@ Ele realmente tem uma,
 
 395
 00:28:45,665 --> 00:28:48,996
-mas precisa de três
-para ganhar a competição.
+mas precisa de trÃªs
+para ganhar a competiÃ§Ã£o.
 
 396
 00:28:48,997 --> 00:28:51,627
-Nossas ações caíram
+Nossas aÃ§Ãµes caÃ­ram
 cerca de 6% ontem.
 
 397
 00:28:51,628 --> 00:28:55,576
-A Divisão de Lealdade
+A DivisÃ£o de Lealdade
 aponta lucros de 28%, por agora.
 
 398
 00:28:55,577 --> 00:28:58,668
 Abriremos 5 novos
-Centros de Lealdade esse mês.
+Centros de Lealdade esse mÃªs.
 
 399
 00:28:58,669 --> 00:29:00,751
-Este serviço faz
+Este serviÃ§o faz
 um trabalho inteligente
 
 400
 00:29:00,752 --> 00:29:02,680
 e ainda quer vir
-falar de ações?
+falar de aÃ§Ãµes?
 
 401
 00:29:02,681 --> 00:29:04,082
 Os acionistas
-não vão gostar.
+nÃ£o vÃ£o gostar.
 
 402
 00:29:04,083 --> 00:29:06,733
-Não queremos agradá-los,
-mas deixá-los ricos.
+NÃ£o queremos agradÃ¡-los,
+mas deixÃ¡-los ricos.
 
 403
 00:29:07,333 --> 00:29:11,587
-Quando lançarmos este bebê,
-eles vão pirar.
+Quando lanÃ§armos este bebÃª,
+eles vÃ£o pirar.
 
 404
 00:29:12,311 --> 00:29:13,749
@@ -1886,31 +1886,31 @@ Chamamos ele de...
 405
 00:29:14,410 --> 00:29:17,222
 "Puro O2".
-A primeira atualização,
+A primeira atualizaÃ§Ã£o,
 
 406
 00:29:17,223 --> 00:29:20,201
 assim que retirarmos
-as restrições do Halliday.
+as restriÃ§Ãµes do Halliday.
 
 407
 00:29:20,202 --> 00:29:25,039
 Devemos poder vender
-80% do campo de visão de alguém
+80% do campo de visÃ£o de alguÃ©m
 
 408
 00:29:25,040 --> 00:29:28,467
-e ocupar isso com anúncios
+e ocupar isso com anÃºncios
 sem que eles passem mal,
 
 409
 00:29:28,468 --> 00:29:29,900
-então imaginem.
+entÃ£o imaginem.
 
 410
 00:29:29,901 --> 00:29:32,401
 Presumindo
-que ganharemos a competição.
+que ganharemos a competiÃ§Ã£o.
 
 411
 00:29:35,512 --> 00:29:37,232
@@ -1918,7 +1918,7 @@ Exatamente.
 
 412
 00:29:39,573 --> 00:29:42,244
-Você ganhou a chave
+VocÃª ganhou a chave
 e 100 mil moedas?
 
 413
@@ -1933,7 +1933,7 @@ estou todo molhado.
 
 415
 00:29:51,643 --> 00:29:53,655
-Que diabos é
+Que diabos Ã©
 um Cataclista?
 
 416
@@ -1943,7 +1943,7 @@ Mata todos em um planeta,
 
 417
 00:29:56,075 --> 00:29:57,549
-até mesmo
+atÃ© mesmo
 o portador.
 
 418
@@ -1957,7 +1957,7 @@ o portador.
 
 420
 00:30:04,430 --> 00:30:05,861
-É uma pechincha.
+Ã‰ uma pechincha.
 
 421
 00:30:09,626 --> 00:30:11,028
@@ -1966,11 +1966,11 @@ Um cubo Zemeckis.
 422
 00:30:11,276 --> 00:30:14,238
 - Preciso de um desses.
-- Não gaste a grana toda.
+- NÃ£o gaste a grana toda.
 
 423
 00:30:17,762 --> 00:30:20,123
-Traje háptico X1?
+Traje hÃ¡ptico X1?
 
 424
 00:30:21,268 --> 00:30:22,967
@@ -1978,7 +1978,7 @@ ENTREGA NO MUNDO REAL
 
 425
 00:30:34,862 --> 00:30:36,585
-Aí, sim.
+AÃ­, sim.
 
 426
 00:30:51,500 --> 00:30:52,946
@@ -1993,17 +1993,17 @@ Velho amigo, como vai?
 428
 00:31:34,747 --> 00:31:37,230
 Para ser honesto,
-estou com uma dor no pescoço,
+estou com uma dor no pescoÃ§o,
 
 429
 00:31:37,231 --> 00:31:39,227
-tipo túnel do carpo
-ligado ao pescoço.
+tipo tÃºnel do carpo
+ligado ao pescoÃ§o.
 
 430
 00:31:39,228 --> 00:31:41,419
-Não consigo sequer pensar,
-se puder só...
+NÃ£o consigo sequer pensar,
+se puder sÃ³...
 
 431
 00:31:41,420 --> 00:31:44,310
@@ -2013,11 +2013,11 @@ minha direita, sua esquerda.
 432
 00:31:46,007 --> 00:31:48,208
 Provavelmente,
-esforço repetitivo.
+esforÃ§o repetitivo.
 
 433
 00:31:50,850 --> 00:31:52,252
-Aqui está.
+Aqui estÃ¡.
 
 434
 00:31:53,780 --> 00:31:56,280
@@ -2029,7 +2029,7 @@ Eu o conhecia bem, Sorrento.
 
 436
 00:31:58,665 --> 00:32:01,308
-Só odeio três coisas
+SÃ³ odeio trÃªs coisas
 neste mundo.
 
 437
@@ -2039,7 +2039,7 @@ Steampunk, piratas e tabule.
 438
 00:32:05,181 --> 00:32:08,136
 Quero dizer, por que viver
-no paraíso por zero...
+no paraÃ­so por zero...
 
 439
 00:32:08,137 --> 00:32:09,896
@@ -2056,27 +2056,27 @@ O Orbe de Osuvox.
 
 442
 00:32:16,116 --> 00:32:18,071
-Você o queria,
+VocÃª o queria,
 o pirata estava com ele.
 
 443
 00:32:18,127 --> 00:32:19,708
-E aqui está.
+E aqui estÃ¡.
 
 444
 00:32:22,994 --> 00:32:25,785
-Cria um escudo mágico
-impenetrável,
+Cria um escudo mÃ¡gico
+impenetrÃ¡vel,
 
 445
 00:32:25,786 --> 00:32:28,668
-que só pode ser desativado
-por um feitiço mágico.
+que sÃ³ pode ser desativado
+por um feitiÃ§o mÃ¡gico.
 
 446
 00:32:28,858 --> 00:32:33,251
 - O Orbe de Osuvox.
-- Não diga outra vez.
+- NÃ£o diga outra vez.
 
 447
 00:32:37,185 --> 00:32:40,195
@@ -2095,7 +2095,7 @@ Por hora,
 450
 00:32:48,799 --> 00:32:50,567
 tenho outro trabalho
-para você.
+para vocÃª.
 
 451
 00:32:51,852 --> 00:32:53,254
@@ -2104,7 +2104,7 @@ Parzival.
 452
 00:32:54,063 --> 00:32:57,508
 Deixe-me adivinhar,
-você o quer fora do placar.
+vocÃª o quer fora do placar.
 
 453
 00:32:57,924 --> 00:32:59,325
@@ -2112,8 +2112,8 @@ Consegue fazer isso?
 
 454
 00:33:00,579 --> 00:33:03,684
-Ele é um superstar,
-fez aparecer o primeiro portão.
+Ele Ã© um superstar,
+fez aparecer o primeiro portÃ£o.
 
 455
 00:33:03,685 --> 00:33:06,538
@@ -2123,16 +2123,16 @@ como abelhas em volta do mel.
 456
 00:33:06,539 --> 00:33:08,484
 I-R0k, quanto a mais
-você quer?
+vocÃª quer?
 
 457
 00:33:09,741 --> 00:33:11,510
-É isso que gosto em você,
+Ã‰ isso que gosto em vocÃª,
 Nolan.
 
 458
 00:33:11,511 --> 00:33:12,913
-Você nunca lambe,
+VocÃª nunca lambe,
 
 459
 00:33:13,186 --> 00:33:16,698
@@ -2151,11 +2151,11 @@ I-R0k.
 462
 00:33:23,082 --> 00:33:25,514
 - Quero o triplo do normal.
-- Está feito.
+- EstÃ¡ feito.
 
 463
 00:33:26,451 --> 00:33:29,797
-Sério? Eu devia pedir cinco.
+SÃ©rio? Eu devia pedir cinco.
 Posso trocar por quatro?
 
 464
@@ -2165,12 +2165,12 @@ Posso trocar por quatro?
 465
 00:33:35,556 --> 00:33:38,054
 <i>Art3mis foi a seguinte,
-não me surpreende.</i>
+nÃ£o me surpreende.</i>
 
 466
 00:33:38,257 --> 00:33:41,194
 <i>Estava na corrida quando ganhei,
-me viu andar de ré.</i>
+me viu andar de rÃ©.</i>
 
 467
 00:33:41,419 --> 00:33:42,843
@@ -2179,11 +2179,11 @@ me viu andar de ré.</i>
 468
 00:33:42,844 --> 00:33:44,841
 <i>fiz ele prometer
-que não diria nada,</i>
+que nÃ£o diria nada,</i>
 
 469
 00:33:44,842 --> 00:33:46,418
-<i>e então ele foi o terceiro.</i>
+<i>e entÃ£o ele foi o terceiro.</i>
 
 470
 00:33:46,628 --> 00:33:49,404
@@ -2192,7 +2192,7 @@ para cima do Daito,</i>
 
 471
 00:33:49,405 --> 00:33:51,494
-<i>porque ele foi o próximo.</i>
+<i>porque ele foi o prÃ³ximo.</i>
 
 472
 00:33:52,303 --> 00:33:55,295
@@ -2202,47 +2202,47 @@ contou para Sho, amigo dele.</i>
 473
 00:33:55,565 --> 00:33:57,714
 <i>Sho destruiu completamente
-o próprio carro,</i>
+o prÃ³prio carro,</i>
 
 474
 00:33:57,715 --> 00:33:59,548
 <i>mas encontrou a chave
-também.</i>
+tambÃ©m.</i>
 
 475
 00:34:08,939 --> 00:34:10,866
 "Um criador
-que odeia sua criação,
+que odeia sua criaÃ§Ã£o,
 
 476
 00:34:10,958 --> 00:34:13,238
 Uma chave oculta,
-um salto não executado.
+um salto nÃ£o executado.
 
 477
 00:34:13,476 --> 00:34:15,827
-Refaça seus passos,
+RefaÃ§a seus passos,
 fuja do seu passado...
 
 478
 00:34:15,828 --> 00:34:18,358
 "Um criador
-que odeia sua criação,
+que odeia sua criaÃ§Ã£o,
 
 479
 00:34:18,359 --> 00:34:20,592
 Uma chave oculta,
-um salto não executado.
+um salto nÃ£o executado.
 
 480
 00:34:20,593 --> 00:34:22,836
-Refaça seus passos,
+RefaÃ§a seus passos,
 fuja do seu passado;
 
 481
 00:34:22,837 --> 00:34:25,072
 e a chave de Jade
-terá ganhado."
+terÃ¡ ganhado."
 
 482
 00:34:28,773 --> 00:34:31,153
@@ -2251,7 +2251,7 @@ OU DE SER DEUS?
 
 483
 00:34:32,141 --> 00:34:34,322
-OASIS MUDARÁ
+OASIS MUDARÃ
 A FORMA COMO VIVEMOS?
 
 484
@@ -2261,12 +2261,12 @@ MAIOR QUE STEVE JOBS?
 
 485
 00:34:38,035 --> 00:34:40,364
-SEPARAÇÃO!
+SEPARAÃ‡ÃƒO!
 HALLIDAY SEGUE SOZINHO
 
 486
 00:35:00,577 --> 00:35:03,210
-OBITUÁRIO:
+OBITUÃRIO:
 KAREN UNDERWOOD MORROW
 
 487
@@ -2280,42 +2280,42 @@ KAREN UNDERWOOD MORROW
 489
 00:35:12,664 --> 00:35:15,666
 De que parte de seu passado
-você tentou fugir, Halliday?
+vocÃª tentou fugir, Halliday?
 
 490
 00:35:16,602 --> 00:35:19,855
 HALLIDAY
-GAME DESIGNER, TRILIONÁRIO
+GAME DESIGNER, TRILIONÃRIO
 
 491
 00:35:20,251 --> 00:35:24,120
-DIÁRIOS DE HALLIDAY
+DIÃRIOS DE HALLIDAY
 
 492
 00:35:27,505 --> 00:35:28,906
-Vejam, é Parzival!
+Vejam, Ã© Parzival!
 
 493
 00:35:30,048 --> 00:35:31,902
-<i>Parzival, meu herói!</i>
+<i>Parzival, meu herÃ³i!</i>
 
 494
 00:35:44,790 --> 00:35:46,192
-É famoso agora.
+Ã‰ famoso agora.
 
 495
 00:35:46,195 --> 00:35:49,005
-Você não pode ir
+VocÃª nÃ£o pode ir
 a qualquer lugar.
 
 496
 00:35:49,716 --> 00:35:51,118
-Não! Não, não! Eu...
+NÃ£o! NÃ£o, nÃ£o! Eu...
 
 497
 00:36:10,449 --> 00:36:13,053
-Isso não teve
-a mínima graça.
+Isso nÃ£o teve
+a mÃ­nima graÃ§a.
 
 498
 00:36:13,723 --> 00:36:15,124
@@ -2323,11 +2323,11 @@ Meu Deus.
 
 499
 00:36:19,328 --> 00:36:21,811
-Meu Deus, não entende?
+Meu Deus, nÃ£o entende?
 
 500
 00:36:22,085 --> 00:36:23,997
-Agora você é O Parzival.
+Agora vocÃª Ã© O Parzival.
 
 501
 00:36:24,664 --> 00:36:26,345
@@ -2339,20 +2339,20 @@ Vejamos...
 
 503
 00:36:31,380 --> 00:36:32,941
-Óculos de Clark Kent.
+Ã“culos de Clark Kent.
 
 504
 00:36:32,942 --> 00:36:35,327
 Escondem sua identidade
-sem mudar sua aparência.
+sem mudar sua aparÃªncia.
 
 505
 00:36:44,078 --> 00:36:45,510
-Não vou usar isso.
+NÃ£o vou usar isso.
 
 506
 00:36:55,045 --> 00:36:56,505
-<i>Isso é ótimo.</i>
+<i>Isso Ã© Ã³timo.</i>
 
 507
 00:36:57,775 --> 00:36:59,975
@@ -2361,12 +2361,12 @@ ao morrer?</i>
 
 508
 00:36:59,976 --> 00:37:01,377
-<i>Eu não queria mais sangue.</i>
+<i>Eu nÃ£o queria mais sangue.</i>
 
 509
 00:37:01,378 --> 00:37:03,659
-Isso foi na véspera
-de lançarem OASIS.
+Isso foi na vÃ©spera
+de lanÃ§arem OASIS.
 
 510
 00:37:03,660 --> 00:37:06,679
@@ -2379,16 +2379,16 @@ Vejam isso.
 
 512
 00:37:08,600 --> 00:37:10,002
-Sabe quem é?
+Sabe quem Ã©?
 
 513
 00:37:11,882 --> 00:37:13,612
-É Sorrento?
+Ã‰ Sorrento?
 
 514
 00:37:13,613 --> 00:37:15,492
-Sorrento começou
-como estagiário.
+Sorrento comeÃ§ou
+como estagiÃ¡rio.
 
 515
 00:37:15,493 --> 00:37:18,224
@@ -2417,13 +2417,13 @@ sabia sobre Halliday...
 
 520
 00:37:28,889 --> 00:37:30,491
-É tipo, como ele preferia
-o café.
+Ã‰ tipo, como ele preferia
+o cafÃ©.
 
 521
 00:37:30,492 --> 00:37:33,202
-Você pode ter diferentes
-curas de câncer,
+VocÃª pode ter diferentes
+curas de cÃ¢ncer,
 
 522
 00:37:33,203 --> 00:37:35,673
@@ -2441,16 +2441,16 @@ do que pagam.
 
 525
 00:37:39,836 --> 00:37:43,356
-O nível máximo pode ser água,
-daí "OASIS", correto?
+O nÃ­vel mÃ¡ximo pode ser Ã¡gua,
+daÃ­ "OASIS", correto?
 
 526
 00:37:43,357 --> 00:37:45,057
-Que café latte maravilhoso.
+Que cafÃ© latte maravilhoso.
 
 527
 00:37:45,058 --> 00:37:47,899
-Pode avançar até a parte
+Pode avanÃ§ar atÃ© a parte
 do encontro de Halliday?
 
 528
@@ -2480,16 +2480,16 @@ de O Cristal Encantado.
 
 533
 00:38:04,764 --> 00:38:06,719
-Esse é o nome de jogadora.
+Esse Ã© o nome de jogadora.
 
 534
 00:38:08,429 --> 00:38:11,811
-Karen, está bem?
+Karen, estÃ¡ bem?
 Karen Underwood.
 
 535
 00:38:12,202 --> 00:38:13,822
-Não!
+NÃ£o!
 Karen Underwood?
 
 536
@@ -2502,7 +2502,7 @@ Assista.
 
 538
 00:38:17,714 --> 00:38:19,594
-Você e Karen Underwood...
+VocÃª e Karen Underwood...
 
 539
 00:38:20,122 --> 00:38:21,524
@@ -2510,11 +2510,11 @@ O que fizeram?
 
 540
 00:38:21,525 --> 00:38:23,167
-Ela quis ir dançar.
+Ela quis ir danÃ§ar.
 
 541
 00:38:23,617 --> 00:38:25,449
-Então nós vimos um filme.
+EntÃ£o nÃ³s vimos um filme.
 
 542
 00:38:27,310 --> 00:38:28,711
@@ -2522,7 +2522,7 @@ E?
 
 543
 00:38:30,492 --> 00:38:32,132
-Cadê o lance?
+CadÃª o lance?
 
 544
 00:38:32,669 --> 00:38:34,123
@@ -2530,12 +2530,12 @@ Conte do lance!
 
 545
 00:38:35,273 --> 00:38:37,923
-- Não teve lance.
+- NÃ£o teve lance.
 - Meu Deus!
 
 546
 00:38:37,924 --> 00:38:39,326
-Espera aí.
+Espera aÃ­.
 
 547
 00:38:39,776 --> 00:38:43,526
@@ -2544,7 +2544,7 @@ com a esposa de Odgen Morrow?
 
 548
 00:38:43,744 --> 00:38:46,943
-Só uma vez. Anos antes
+SÃ³ uma vez. Anos antes
 de eles se casarem, mas teve.
 
 549
@@ -2554,27 +2554,27 @@ e do fato de ela ter morrido...
 
 550
 00:38:49,450 --> 00:38:51,406
-O nome Kira só é mencionado
+O nome Kira sÃ³ Ã© mencionado
 uma vez
 
 551
 00:38:51,407 --> 00:38:53,033
-em todos os diários
+em todos os diÃ¡rios
 de Halliday.
 
 552
 00:38:53,034 --> 00:38:55,743
-- Não é possível.
-- É, procure.
+- NÃ£o Ã© possÃ­vel.
+- Ã‰, procure.
 
 553
 00:38:55,744 --> 00:38:58,580
 O que acabamos de ver
-é a única vez que a mencionam.
+Ã© a Ãºnica vez que a mencionam.
 
 554
 00:38:58,581 --> 00:38:59,983
-Não faz sentido.
+NÃ£o faz sentido.
 
 555
 00:38:59,984 --> 00:39:02,396
@@ -2606,17 +2606,17 @@ de O Cristal Encantado.</i>
 
 561
 00:39:13,615 --> 00:39:15,017
-<i>Esse é o nome de jogadora.</i>
+<i>Esse Ã© o nome de jogadora.</i>
 
 562
 00:39:15,018 --> 00:39:18,132
-Halliday removeu de propósito
+Halliday removeu de propÃ³sito
 tudo sobre ela, menos isto.
 
 563
 00:39:18,133 --> 00:39:19,655
 Estranho.
-Por quê?
+Por quÃª?
 
 564
 00:39:20,445 --> 00:39:22,085
@@ -2634,7 +2634,7 @@ Ele a amava.
 
 567
 00:39:26,549 --> 00:39:28,208
-Não podia contar a Morrow.
+NÃ£o podia contar a Morrow.
 
 568
 00:39:28,209 --> 00:39:30,420
@@ -2654,12 +2654,12 @@ na outra cena,
 571
 00:39:36,465 --> 00:39:39,064
 mas sempre achei
-que a maior pista da competição
+que a maior pista da competiÃ§Ã£o
 
 572
 00:39:39,065 --> 00:39:41,396
 - estava escondida aqui.
-- Está certo.
+- EstÃ¡ certo.
 
 573
 00:39:43,257 --> 00:39:44,996
@@ -2667,18 +2667,18 @@ Eu perdi.
 
 574
 00:39:44,997 --> 00:39:46,399
-Não se preocupe,
+NÃ£o se preocupe,
 curador.
 
 575
 00:39:46,400 --> 00:39:49,328
-Kira é o botão de rosa
-do centro da história dele.
+Kira Ã© o botÃ£o de rosa
+do centro da histÃ³ria dele.
 
 576
 00:39:49,329 --> 00:39:52,751
-- Ela é o grande mistério!
-- Não. Aposta é aposta.
+- Ela Ã© o grande mistÃ©rio!
+- NÃ£o. Aposta Ã© aposta.
 
 577
 00:39:54,683 --> 00:39:56,662
@@ -2688,31 +2688,31 @@ Minha nossa!
 578
 00:39:56,663 --> 00:39:59,645
 - Pode ficar.
-- Não, fique você.
+- NÃ£o, fique vocÃª.
 
 579
 00:40:02,967 --> 00:40:04,916
-Está livre na quinta-feira?
+EstÃ¡ livre na quinta-feira?
 
 580
 00:40:05,074 --> 00:40:07,516
 - Quem, eu?
-- Não, ele.
+- NÃ£o, ele.
 
 581
 00:40:09,770 --> 00:40:11,550
 Meu Deus,
-é você!
+Ã© vocÃª!
 
 582
 00:40:13,271 --> 00:40:16,463
 - Conhece o Distracted Globe?
-- Sim, o clube de dança.
+- Sim, o clube de danÃ§a.
 
 583
 00:40:18,994 --> 00:40:21,495
-Encontre-me lá,
-às 22h.
+Encontre-me lÃ¡,
+Ã s 22h.
 
 584
 00:40:21,948 --> 00:40:23,586
@@ -2728,28 +2728,28 @@ Ela me chamou para sair?
 
 587
 00:40:29,190 --> 00:40:31,309
-Eu estava começando
+Eu estava comeÃ§ando
 a gostar dela.
 
 588
 00:40:31,648 --> 00:40:34,552
 - Toca aqui!
-- Não faço isso.
+- NÃ£o faÃ§o isso.
 
 589
 00:40:38,584 --> 00:40:40,920
-Z, não acredito
+Z, nÃ£o acredito
 que contou a ela sobre Kira.
 
 590
 00:40:40,921 --> 00:40:42,746
-E daí?
-Eu contei a você.
+E daÃ­?
+Eu contei a vocÃª.
 
 591
 00:40:44,173 --> 00:40:47,776
 - Que tal assim?
-- Não.
+- NÃ£o.
 
 592
 00:40:47,953 --> 00:40:50,419
@@ -2768,39 +2768,39 @@ Devo ir mais assim...
 595
 00:40:56,588 --> 00:40:59,004
 - Thriller?
-- Não.
+- NÃ£o.
 
 596
 00:40:59,924 --> 00:41:02,135
 - Punk?
-- Não.
+- NÃ£o.
 
 597
 00:41:04,196 --> 00:41:06,737
 - Duran Duran.
-- Não.
+- NÃ£o.
 
 598
 00:41:07,506 --> 00:41:09,186
-Parece forçação de barra.
+Parece forÃ§aÃ§Ã£o de barra.
 
 599
 00:41:09,187 --> 00:41:11,815
-Sim! Ouça a si mesmo!
+Sim! OuÃ§a a si mesmo!
 
 600
 00:41:11,816 --> 00:41:14,763
-Você tem uma enorme ciberqueda
+VocÃª tem uma enorme ciberqueda
 por essa garota!
 
 601
 00:41:14,764 --> 00:41:17,701
-Ela está <i>hackeando</i> seu coração
-para fazer sua cabeça!
+Ela estÃ¡ <i>hackeando</i> seu coraÃ§Ã£o
+para fazer sua cabeÃ§a!
 
 602
 00:41:19,378 --> 00:41:20,779
-Já sei!
+JÃ¡ sei!
 
 603
 00:41:22,383 --> 00:41:24,066
@@ -2809,12 +2809,12 @@ Já sei!
 
 604
 00:41:24,361 --> 00:41:27,445
-Sério? Vai usar o figurino
+SÃ©rio? Vai usar o figurino
 do seu filme favorito?
 
 605
 00:41:27,446 --> 00:41:29,838
-- Não seja esse cara.
+- NÃ£o seja esse cara.
 - Eu sou esse cara.
 
 606
@@ -2829,26 +2829,26 @@ Art3mis me entende.
 
 608
 00:41:34,950 --> 00:41:37,172
-Ela entenderá a roupa,
-há uma conexão.
+Ela entenderÃ¡ a roupa,
+hÃ¡ uma conexÃ£o.
 
 609
 00:41:37,173 --> 00:41:40,281
-- Às vezes nós até...
+- Ã€s vezes nÃ³s atÃ©...
 - Terminam a frase um do outro?
 
 610
 00:41:40,282 --> 00:41:42,067
 - Sim!
-- Nós fazemos isso!
+- NÃ³s fazemos isso!
 
 611
 00:41:42,068 --> 00:41:43,475
-Eu e você!
+Eu e vocÃª!
 
 612
 00:41:43,476 --> 00:41:44,878
-É, eu sei.
+Ã‰, eu sei.
 
 613
 00:41:44,879 --> 00:41:47,198
@@ -2857,13 +2857,13 @@ melhores amigos, cara.
 
 614
 00:41:47,199 --> 00:41:49,477
-Ela pode ser um cara também,
+Ela pode ser um cara tambÃ©m,
 "cara".
 
 615
 00:41:50,028 --> 00:41:51,540
-- Qual é!
-- Falo sério!
+- Qual Ã©!
+- Falo sÃ©rio!
 
 616
 00:41:52,150 --> 00:41:54,709
@@ -2872,8 +2872,8 @@ ser um cara de 130 kg
 
 617
 00:41:54,710 --> 00:41:57,435
-que vive no porão da mamãe
-no subúrbio de Detroit.
+que vive no porÃ£o da mamÃ£e
+no subÃºrbio de Detroit.
 
 618
 00:41:58,239 --> 00:42:00,073
@@ -2885,7 +2885,7 @@ Pense nisso.
 
 620
 00:42:33,449 --> 00:42:35,370
-- Parzival! É o Parzival?
+- Parzival! Ã‰ o Parzival?
 - Como vai?
 
 621
@@ -2896,7 +2896,7 @@ Pense nisso.
 622
 00:42:41,541 --> 00:42:43,842
 - Obrigado!
-- Você é meu herói!
+- VocÃª Ã© meu herÃ³i!
 
 623
 00:42:43,867 --> 00:42:45,269
@@ -2919,11 +2919,11 @@ Gosto de Buckaroo Banzai!
 627
 00:43:08,825 --> 00:43:10,982
 - Valeu!
-- Ficou ótimo!
+- Ficou Ã³timo!
 
 628
 00:43:10,983 --> 00:43:15,458
-- Você está linda! Nossa.
+- VocÃª estÃ¡ linda! Nossa.
 - Obrigada.
 
 629
@@ -2932,7 +2932,7 @@ Gosto de Buckaroo Banzai!
 
 630
 00:43:18,502 --> 00:43:19,904
-Acho que já era.
+Acho que jÃ¡ era.
 
 631
 00:43:34,878 --> 00:43:36,281
@@ -2945,26 +2945,26 @@ Caiam fora daqui.
 
 633
 00:43:40,517 --> 00:43:42,951
-Já esteve aqui antes?
-É legal, não é?
+JÃ¡ esteve aqui antes?
+Ã‰ legal, nÃ£o Ã©?
 
 634
 00:43:44,512 --> 00:43:45,914
-<i>Qual é o plano?</i>
+<i>Qual Ã© o plano?</i>
 
 635
 00:43:45,915 --> 00:43:48,483
 <i>Vai matar os avatares deles?
-Zerá-los de vez?</i>
+ZerÃ¡-los de vez?</i>
 
 636
 00:43:48,484 --> 00:43:50,486
-Estão ambos aqui
+EstÃ£o ambos aqui
 no Distracted Globe.
 
 637
 00:43:50,487 --> 00:43:51,916
-Não posso conversar.
+NÃ£o posso conversar.
 
 638
 00:43:53,167 --> 00:43:55,226
@@ -2979,22 +2979,22 @@ Todo mundo sabe disso.</i>
 640
 00:43:57,987 --> 00:44:00,934
 Mas, fui conferir, e acontece
-que começaram a construir
+que comeÃ§aram a construir
 
 641
 00:44:00,935 --> 00:44:02,740
-logo após aquilo
-que você mostrou.
+logo apÃ³s aquilo
+que vocÃª mostrou.
 
 642
 00:44:02,741 --> 00:44:05,882
 - O encontro com Kira.
-- Isso, ela dançava de verdade.
+- Isso, ela danÃ§ava de verdade.
 
 643
 00:44:05,883 --> 00:44:07,941
 Talvez tenha pensado
-em trazê-la aqui.
+em trazÃª-la aqui.
 
 644
 00:44:07,942 --> 00:44:10,155
@@ -3002,32 +3002,32 @@ Como num encontro virtual.
 
 645
 00:44:10,734 --> 00:44:12,334
-Não seria ruim
+NÃ£o seria ruim
 se funcionasse.
 
 646
 00:44:12,335 --> 00:44:14,238
-Então Halliday construiu isso
+EntÃ£o Halliday construiu isso
 para ela.
 
 647
 00:44:14,239 --> 00:44:15,891
-Não passaram
+NÃ£o passaram
 do primeiro encontro.
 
 648
 00:44:15,892 --> 00:44:18,375
-- Halliday é o criador...
+- Halliday Ã© o criador...
 - E odeia o que criou.
 
 649
 00:44:18,376 --> 00:44:20,478
-- O clube é o que odeia.
-- A chave oculta é
+- O clube Ã© o que odeia.
+- A chave oculta Ã©
 
 650
 00:44:20,479 --> 00:44:21,881
-o passo não dado.
+o passo nÃ£o dado.
 
 651
 00:44:25,396 --> 00:44:27,098
@@ -3036,13 +3036,13 @@ a noite toda.
 
 652
 00:44:27,099 --> 00:44:28,701
-Mas ninguém tem
+Mas ninguÃ©m tem
 a chave de cobre.
 
 653
 00:44:28,911 --> 00:44:30,628
-<i>Então,
-quando nós dois pularmos,</i>
+<i>EntÃ£o,
+quando nÃ³s dois pularmos,</i>
 
 654
 00:44:30,629 --> 00:44:32,431
@@ -3060,38 +3060,38 @@ Certo?</i>
 
 657
 00:44:41,041 --> 00:44:43,193
-Não estamos formando
-um clã ou algo do tipo.
+NÃ£o estamos formando
+um clÃ£ ou algo do tipo.
 
 658
 00:44:43,194 --> 00:44:44,749
-Claro que não.
+Claro que nÃ£o.
 
 659
 00:44:44,836 --> 00:44:46,238
-Eu não entro em clãs.
+Eu nÃ£o entro em clÃ£s.
 
 660
 00:44:57,372 --> 00:44:58,977
-Não acho que seja este.
+NÃ£o acho que seja este.
 
 661
 00:44:59,023 --> 00:45:01,266
 Nenhum placar,
-nenhum obstáculo.
+nenhum obstÃ¡culo.
 
 662
 00:45:01,271 --> 00:45:03,023
-Talvez uma competição
-de dança?
+Talvez uma competiÃ§Ã£o
+de danÃ§a?
 
 663
 00:45:19,065 --> 00:45:21,399
-À moda antiga!
+Ã€ moda antiga!
 
 664
 00:45:29,950 --> 00:45:31,465
-O quê?!
+O quÃª?!
 
 665
 00:45:44,677 --> 00:45:47,208
@@ -3101,11 +3101,11 @@ O quê?!
 666
 00:45:50,561 --> 00:45:52,926
 Que tipo de traje
-está usando?
+estÃ¡ usando?
 
 667
 00:45:53,145 --> 00:45:56,114
-Você usa luvas e viseira
+VocÃª usa luvas e viseira
 ou cobre o corpo todo?
 
 668
@@ -3114,17 +3114,17 @@ Sente isso?
 
 669
 00:46:04,650 --> 00:46:09,327
-Sim, tenho o traje háptico
+Sim, tenho o traje hÃ¡ptico
 com microfibra na virilha.
 
 670
 00:46:21,762 --> 00:46:24,713
 Certo, Parzival.
-Você veio preparado.
+VocÃª veio preparado.
 
 671
 00:46:27,771 --> 00:46:29,172
-Então...
+EntÃ£o...
 
 672
 00:46:29,339 --> 00:46:30,741
@@ -3132,31 +3132,31 @@ Estive pensando...
 
 673
 00:46:31,545 --> 00:46:34,178
-Seria legal se nos conhecêssemos
+Seria legal se nos conhecÃªssemos
 na vida real.
 
 674
 00:46:34,198 --> 00:46:36,734
-- Não, se decepcionaria.
-- Claro que não.
+- NÃ£o, se decepcionaria.
+- Claro que nÃ£o.
 
 675
 00:46:37,436 --> 00:46:39,830
-- Gosto de você.
+- Gosto de vocÃª.
 - Nem me conhece.
 
 676
 00:46:40,386 --> 00:46:42,293
-Não é assim que me pareço.
+NÃ£o Ã© assim que me pareÃ§o.
 
 677
 00:46:42,298 --> 00:46:46,288
-Este não é meu corpo real,
+Este nÃ£o Ã© meu corpo real,
 ou meu rosto.
 
 678
 00:46:46,466 --> 00:46:47,972
-Não me importo.
+NÃ£o me importo.
 
 679
 00:46:48,170 --> 00:46:49,710
@@ -3164,8 +3164,8 @@ Quero saber seu nome real.
 
 680
 00:47:02,812 --> 00:47:04,840
-- Meu nome é Wade.
-- O quê?
+- Meu nome Ã© Wade.
+- O quÃª?
 
 681
 00:47:05,816 --> 00:47:08,030
@@ -3179,39 +3179,39 @@ Que surpresa.
 
 683
 00:47:10,802 --> 00:47:12,223
-Está louco?
+EstÃ¡ louco?
 
 684
 00:47:12,224 --> 00:47:15,077
-Não pode dizer quem você é.
-Não pode usar seu nome real.
+NÃ£o pode dizer quem vocÃª Ã©.
+NÃ£o pode usar seu nome real.
 
 685
 00:47:15,078 --> 00:47:17,440
-- Você não é qualquer um.
-- Você não me conhece.
+- VocÃª nÃ£o Ã© qualquer um.
+- VocÃª nÃ£o me conhece.
 
 686
 00:47:17,441 --> 00:47:19,482
-Não sabe nada sobre mim.
+NÃ£o sabe nada sobre mim.
 Nunca nos vimos.
 
 687
 00:47:19,483 --> 00:47:21,039
-Eu te conheço sim, Arty.
+Eu te conheÃ§o sim, Arty.
 
 688
 00:47:22,736 --> 00:47:24,918
-Estou apaixonado por você.
+Estou apaixonado por vocÃª.
 
 689
 00:47:32,749 --> 00:47:34,818
-- Isto é parte do desafio?
-- Não!
+- Isto Ã© parte do desafio?
+- NÃ£o!
 
 690
 00:47:35,029 --> 00:47:36,879
-É uma emboscada!
+Ã‰ uma emboscada!
 
 691
 00:47:43,862 --> 00:47:46,261
@@ -3220,11 +3220,11 @@ IOI sempre no caminho.
 692
 00:47:46,265 --> 00:47:48,648
 Ouviu o que eu disse?
-Estou apaixonado por você.
+Estou apaixonado por vocÃª.
 
 693
 00:47:48,649 --> 00:47:50,057
-Não, não está.
+NÃ£o, nÃ£o estÃ¡.
 
 694
 00:47:51,271 --> 00:47:52,900
@@ -3232,11 +3232,11 @@ Sabe o que quero que saiba.
 
 695
 00:47:53,076 --> 00:47:55,120
-Só vê o que quero que veja.
+SÃ³ vÃª o que quero que veja.
 
 696
 00:47:57,907 --> 00:47:59,731
-É por isto que está apaixonado!
+Ã‰ por isto que estÃ¡ apaixonado!
 
 697
 00:48:13,612 --> 00:48:15,013
@@ -3249,7 +3249,7 @@ Afaste-se!
 699
 00:48:40,180 --> 00:48:42,551
 Z, a bateria da sua armadura
-está baixa!
+estÃ¡ baixa!
 
 700
 00:48:42,552 --> 00:48:44,023
@@ -3262,16 +3262,16 @@ Volta 60 segundos no tempo.
 
 702
 00:48:59,053 --> 00:49:01,713
-E você esperou até agora
-para usá-lo?
+E vocÃª esperou atÃ© agora
+para usÃ¡-lo?
 
 703
 00:49:10,066 --> 00:49:11,762
-Você foi incrível.
+VocÃª foi incrÃ­vel.
 
 704
 00:49:14,972 --> 00:49:16,640
-Isto não é um jogo, Z.
+Isto nÃ£o Ã© um jogo, Z.
 
 705
 00:49:17,965 --> 00:49:20,213
@@ -3281,7 +3281,7 @@ para deter a IOI.
 706
 00:49:20,228 --> 00:49:22,461
 Estou falando
-de consequências reais.
+de consequÃªncias reais.
 
 707
 00:49:22,480 --> 00:49:24,984
@@ -3291,7 +3291,7 @@ Coisas de vida ou morte.
 708
 00:49:24,985 --> 00:49:26,910
 - Eu sei, eu sei.
-- Não, não sabe!
+- NÃ£o, nÃ£o sabe!
 
 709
 00:49:27,270 --> 00:49:29,878
@@ -3300,12 +3300,12 @@ no Centro de Lealdade.
 
 710
 00:49:30,773 --> 00:49:33,863
-Ele fez empréstimos e
-gerou dívidas.
+Ele fez emprÃ©stimos e
+gerou dÃ­vidas.
 
 711
 00:49:34,036 --> 00:49:37,134
-Ele se mudou para pagá-las,
+Ele se mudou para pagÃ¡-las,
 mas nunca pagou.
 
 712
@@ -3316,12 +3316,12 @@ os gastos dele para viver.
 713
 00:49:39,517 --> 00:49:42,677
 Depois ele ficou doente,
-não pôde pagar e morreu!
+nÃ£o pÃ´de pagar e morreu!
 
 714
 00:49:43,643 --> 00:49:46,590
 - Eu sinto muito.
-- Não vive no mundo real, Z.
+- NÃ£o vive no mundo real, Z.
 
 715
 00:49:46,940 --> 00:49:49,389
@@ -3330,32 +3330,32 @@ nunca viveu.
 
 716
 00:49:49,918 --> 00:49:53,630
-Você vive dentro disto.
-Desta ilusão.
+VocÃª vive dentro disto.
+Desta ilusÃ£o.
 
 717
 00:49:53,817 --> 00:49:56,019
-E não posso permitir
+E nÃ£o posso permitir
 que me distraia.
 
 718
 00:50:08,339 --> 00:50:12,027
 - Como diabos eles escaparam?
-- Quer a versão longa?
+- Quer a versÃ£o longa?
 
 719
 00:50:12,040 --> 00:50:14,543
-Seu pessoal é uma droga.
-Não mataram seus avatares.
+Seu pessoal Ã© uma droga.
+NÃ£o mataram seus avatares.
 
 720
 00:50:14,544 --> 00:50:17,067
-Que, como crítica construtiva,
+Que, como crÃ­tica construtiva,
 
 721
 00:50:17,076 --> 00:50:19,613
-foi uma má ideia
-e só os teria atrasado.
+foi uma mÃ¡ ideia
+e sÃ³ os teria atrasado.
 
 722
 00:50:19,759 --> 00:50:24,256
@@ -3364,12 +3364,12 @@ porque sou genial, funcionou.
 
 723
 00:50:24,258 --> 00:50:27,777
-- Ainda estão no jogo!
+- Ainda estÃ£o no jogo!
 - Sei disso, Nolan!
 
 724
 00:50:27,950 --> 00:50:29,484
-Mas não por muito tempo.
+Mas nÃ£o por muito tempo.
 
 725
 00:50:29,492 --> 00:50:33,919
@@ -3378,12 +3378,12 @@ um traje X1 chamados Wade.
 
 726
 00:50:33,920 --> 00:50:36,971
-Cruzei referências
-em registros públicos e <i>voilá</i>.
+Cruzei referÃªncias
+em registros pÃºblicos e <i>voilÃ¡</i>.
 
 727
 00:50:36,972 --> 00:50:40,805
-Em francês significa que
+Em francÃªs significa que
 "<i>descobri</i>".
 
 728
@@ -3393,15 +3393,15 @@ A identidade real de Parzival...
 
 729
 00:50:45,423 --> 00:50:48,234
-é Wade Watts.
+Ã© Wade Watts.
 
 730
 00:50:48,576 --> 00:50:50,545
-<i>Voilá.</i>
+<i>VoilÃ¡.</i>
 
 731
 00:50:51,488 --> 00:50:53,352
-É leal, Srta. Zandor?
+Ã‰ leal, Srta. Zandor?
 
 732
 00:50:54,440 --> 00:50:56,348
@@ -3410,7 +3410,7 @@ que eu responda isso?
 
 733
 00:50:56,418 --> 00:51:00,205
-Quando se está em guerra,
+Quando se estÃ¡ em guerra,
 precisa de pessoas leais.
 
 734
@@ -3420,13 +3420,13 @@ para fazer as coisas.
 
 735
 00:51:02,903 --> 00:51:05,505
-Eu só prendo pessoas
-por não pagarem as contas.
+Eu sÃ³ prendo pessoas
+por nÃ£o pagarem as contas.
 
 736
 00:51:05,510 --> 00:51:08,389
-Porque há problemas
-que requerem soluções físicas,
+Porque hÃ¡ problemas
+que requerem soluÃ§Ãµes fÃ­sicas,
 
 737
 00:51:08,390 --> 00:51:10,952
@@ -3445,33 +3445,33 @@ de outras regras.
 
 740
 00:51:14,216 --> 00:51:17,219
-Uma pena que minha divisão
-não atua dentro do OASIS.
+Uma pena que minha divisÃ£o
+nÃ£o atua dentro do OASIS.
 
 741
 00:51:17,220 --> 00:51:21,802
 Mas se esta guerra continuar
-no OASIS, não pode fazer nada.
+no OASIS, nÃ£o pode fazer nada.
 
 742
 00:51:22,397 --> 00:51:25,262
-Então esta é uma conversa
-que não estamos tendo.
+EntÃ£o esta Ã© uma conversa
+que nÃ£o estamos tendo.
 
 743
 00:51:25,479 --> 00:51:28,144
-Já as tivemos antes
-e olhe só você agora.
+JÃ¡ as tivemos antes
+e olhe sÃ³ vocÃª agora.
 
 744
 00:51:28,145 --> 00:51:30,745
 Tem um lugar no conselho,
-é chefe da sua divisão.
+Ã© chefe da sua divisÃ£o.
 
 745
 00:51:30,746 --> 00:51:32,489
-Divisão
-que deixará de existir
+DivisÃ£o
+que deixarÃ¡ de existir
 
 746
 00:51:32,514 --> 00:51:35,355
@@ -3485,7 +3485,7 @@ nosso destino.
 
 748
 00:51:38,175 --> 00:51:41,309
-A única pergunta até onde iremos
+A Ãºnica pergunta atÃ© onde iremos
 para ganhar.
 
 749
@@ -3514,7 +3514,7 @@ Onde estou?
 
 754
 00:53:10,957 --> 00:53:14,120
-Na praça do IOI. Está
+Na praÃ§a do IOI. EstÃ¡
 como holograma no mundo real.
 
 755
@@ -3523,8 +3523,8 @@ Que equipamento legal.
 
 756
 00:53:16,492 --> 00:53:20,314
-Obrigado. É um modelo novo,
-traje háptico OAR-9400.
+Obrigado. Ã‰ um modelo novo,
+traje hÃ¡ptico OAR-9400.
 
 757
 00:53:20,399 --> 00:53:22,311
@@ -3542,17 +3542,17 @@ ganharia um desses.
 
 760
 00:53:26,876 --> 00:53:28,578
-Não entro em clãs.
+NÃ£o entro em clÃ£s.
 
 761
 00:53:28,579 --> 00:53:31,423
-Também ganharia
+TambÃ©m ganharia
 um apartamento em Columbus
 
 762
 00:53:31,424 --> 00:53:33,506
-com a conexão de internet
-mais rápida.
+com a conexÃ£o de internet
+mais rÃ¡pida.
 
 763
 00:53:33,702 --> 00:53:35,218
@@ -3561,7 +3561,7 @@ No OASIS,
 764
 00:53:35,350 --> 00:53:38,991
 teria armas ilimitadas,
-itens mágicos, naves.
+itens mÃ¡gicos, naves.
 
 765
 00:53:38,992 --> 00:53:40,593
@@ -3571,7 +3571,7 @@ SENHA
 766
 00:53:40,594 --> 00:53:43,494
 Sabe, aquela que salta
-ao hiperespaço.
+ao hiperespaÃ§o.
 
 767
 00:53:43,496 --> 00:53:45,434
@@ -3579,7 +3579,7 @@ Quer a Millennium Falcon?
 
 768
 00:53:46,199 --> 00:53:47,621
-Vocês a tem?
+VocÃªs a tem?
 
 769
 00:53:47,622 --> 00:53:50,572
@@ -3588,35 +3588,35 @@ para encontrar o ovo.
 
 770
 00:53:50,712 --> 00:53:52,431
-E tem o salário...
+E tem o salÃ¡rio...
 
 771
 00:53:53,007 --> 00:53:54,713
-4 milhões por ano.
+4 milhÃµes por ano.
 
 772
 00:53:55,056 --> 00:53:57,731
 E se encontrar
-o ovo de páscoa,
+o ovo de pÃ¡scoa,
 
 773
 00:53:57,733 --> 00:54:01,572
-tem um bônus
-de 25 milhões de dólares.
+tem um bÃ´nus
+de 25 milhÃµes de dÃ³lares.
 
 774
 00:54:06,249 --> 00:54:10,628
-Vejo que está ocultando
-suas emoções com um programa.
+Vejo que estÃ¡ ocultando
+suas emoÃ§Ãµes com um programa.
 
 775
 00:54:10,629 --> 00:54:13,453
-E por que não?
-É esperto. Por isto está aqui.
+E por que nÃ£o?
+Ã‰ esperto. Por isto estÃ¡ aqui.
 
 776
 00:54:18,338 --> 00:54:19,977
-É muito dinheiro.
+Ã‰ muito dinheiro.
 
 777
 00:54:20,175 --> 00:54:21,937
@@ -3628,17 +3628,17 @@ Mas...
 
 779
 00:54:26,949 --> 00:54:29,393
-Não acho que você e eu
+NÃ£o acho que vocÃª e eu
 temos os mesmos planos.
 
 780
 00:54:29,394 --> 00:54:32,476
-Não sei... O quê?
+NÃ£o sei... O quÃª?
 Para o OASIS?
 
 781
 00:54:32,643 --> 00:54:35,661
-Acho que você não é fã
+Acho que vocÃª nÃ£o Ã© fÃ£
 de John Hughes.
 
 782
@@ -3657,7 +3657,7 @@ as escolas de Ludus
 
 785
 00:54:44,038 --> 00:54:46,497
-em réplicas
+em rÃ©plicas
 de "Clube dos Cinco"
 
 786
@@ -3666,8 +3666,8 @@ e "Ferris Bueller".
 
 787
 00:54:48,006 --> 00:54:50,231
-Sério?
-É uma ótima ideia.
+SÃ©rio?
+Ã‰ uma Ã³tima ideia.
 
 788
 00:54:51,191 --> 00:54:53,881
@@ -3677,20 +3677,20 @@ Richmond ou Faber?
 789
 00:54:53,882 --> 00:54:56,684
 "Picardias Estudantis"
-não é de John Hughes.
+nÃ£o Ã© de John Hughes.
 
 790
 00:54:56,685 --> 00:54:58,186
-É uma armadilha.
+Ã‰ uma armadilha.
 
 791
 00:54:58,187 --> 00:55:00,309
-A Universidade Faber é
+A Universidade Faber Ã©
 de "Animal House".
 
 792
 00:55:00,313 --> 00:55:01,860
-John Hughes não dirigiu
+John Hughes nÃ£o dirigiu
 
 793
 00:55:01,861 --> 00:55:04,415
@@ -3704,7 +3704,7 @@ e "Clube dos Cinco"
 
 795
 00:55:06,734 --> 00:55:09,287
-foram sobre o colégio Sherman,
+foram sobre o colÃ©gio Sherman,
 em Sherman, Illinois.
 
 796
@@ -3714,17 +3714,17 @@ Sei o que pensa.
 797
 00:55:11,714 --> 00:55:16,004
 Que sou executivo idiota
-que não aprecia a cultura pop.
+que nÃ£o aprecia a cultura pop.
 
 798
 00:55:16,231 --> 00:55:20,034
-Mas não é verdade.
+Mas nÃ£o Ã© verdade.
 Quando quero relaxar...
 
 799
 00:55:20,037 --> 00:55:23,797
 Eu bebo <i>Tab</i>, jogo <i>Robotron</i>,
-ouço Duran Duran.
+ouÃ§o Duran Duran.
 
 800
 00:55:23,820 --> 00:55:27,922
@@ -3737,12 +3737,12 @@ Por isso amo o OASIS.
 
 802
 00:55:30,029 --> 00:55:34,920
-Porque está cheio destas coisas
+Porque estÃ¡ cheio destas coisas
 que as pessoas amam.
 
 803
 00:55:42,478 --> 00:55:44,927
-Sou um homem de negócios,
+Sou um homem de negÃ³cios,
 eu sei.
 
 804
@@ -3752,11 +3752,11 @@ meu trabalho.
 
 805
 00:55:46,897 --> 00:55:49,177
-Mas não te chamei aqui
+Mas nÃ£o te chamei aqui
 
 806
 00:55:49,347 --> 00:55:52,698
-só para nos ajudar
+sÃ³ para nos ajudar
 a achar o ovo, Parzival.
 
 807
@@ -3770,15 +3770,15 @@ O que Halliday diria?
 
 809
 00:56:00,849 --> 00:56:03,549
-James Halliday está morto.
+James Halliday estÃ¡ morto.
 
 810
 00:56:04,764 --> 00:56:07,865
-Sim, ele está.
+Sim, ele estÃ¡.
 
 811
 00:56:08,904 --> 00:56:11,409
-Só o que restou
+SÃ³ o que restou
 foi esse concurso.
 
 812
@@ -3787,12 +3787,12 @@ Quer saber?
 
 813
 00:56:14,117 --> 00:56:16,270
-Acho que ele não queria
-vê-lo ganhar.
+Acho que ele nÃ£o queria
+vÃª-lo ganhar.
 
 814
 00:56:16,745 --> 00:56:18,312
-Um fã reconhece
+Um fÃ£ reconhece
 um <i>hater</i>.
 
 815
@@ -3807,7 +3807,7 @@ o que acho de fato?
 
 817
 00:56:23,143 --> 00:56:24,546
-Que só diz merda.
+Que sÃ³ diz merda.
 
 818
 00:56:29,688 --> 00:56:31,090
@@ -3815,7 +3815,7 @@ Que só diz merda.
 
 819
 00:56:31,091 --> 00:56:33,293
-<i>Você tem contato
+<i>VocÃª tem contato
 com o conselho de diretores,</i>
 
 820
@@ -3824,13 +3824,13 @@ diga-lhes o seguinte...
 
 821
 00:56:36,157 --> 00:56:38,746
-Se botarem você na rua,
+Se botarem vocÃª na rua,
 vou avaliar.
 
 822
 00:56:38,895 --> 00:56:41,078
 Vou dizer algo
-somente à você.
+somente Ã  vocÃª.
 
 823
 00:56:42,073 --> 00:56:44,905
@@ -3839,32 +3839,32 @@ o conselho queria.
 
 824
 00:56:44,906 --> 00:56:46,713
-Mas sonhava com você
-dizendo não.
+Mas sonhava com vocÃª
+dizendo nÃ£o.
 
 825
 00:56:47,139 --> 00:56:50,392
-Porque se alguém irá ganhar
-essa competição, serei eu.
+Porque se alguÃ©m irÃ¡ ganhar
+essa competiÃ§Ã£o, serei eu.
 
 826
 00:56:50,403 --> 00:56:51,883
-Meu avatar terá o Ovo,
+Meu avatar terÃ¡ o Ovo,
 
 827
 00:56:51,885 --> 00:56:55,080
-pois só um macho como eu
+pois sÃ³ um macho como eu
 pode mandar neste lugar.
 
 828
 00:56:55,633 --> 00:56:58,380
 Nossa, mostrou bem
-quem é.
+quem Ã©.
 
 829
 00:56:58,381 --> 00:57:00,734
-O justo e razoável
-virou maníaco destrambelhado.
+O justo e razoÃ¡vel
+virou manÃ­aco destrambelhado.
 
 830
 00:57:01,608 --> 00:57:03,110
@@ -3873,13 +3873,13 @@ Wade.
 
 831
 00:57:04,420 --> 00:57:07,665
-<i>Não estará aqui
+<i>NÃ£o estarÃ¡ aqui
 para viver o meu reinado.</i>
 
 832
 00:57:07,667 --> 00:57:09,332
-É isso mesmo,
-eu sei quem você é.
+Ã‰ isso mesmo,
+eu sei quem vocÃª Ã©.
 
 833
 00:57:09,333 --> 00:57:11,144
@@ -3892,18 +3892,18 @@ em 12 de agosto de 2027.
 
 835
 00:57:14,787 --> 00:57:18,815
-Também sei onde mora.
+TambÃ©m sei onde mora.
 Unidade 56K, Torres Columbus.
 
 836
 00:57:18,816 --> 00:57:21,909
-Visto pela última vez entrando
-no seu trailer, 3 dias atrás.
+Visto pela Ãºltima vez entrando
+no seu trailer, 3 dias atrÃ¡s.
 
 837
 00:57:21,910 --> 00:57:24,364
-- Não saiu desde então.
-- O que está fazendo?
+- NÃ£o saiu desde entÃ£o.
+- O que estÃ¡ fazendo?
 
 838
 00:57:24,365 --> 00:57:25,817
@@ -3912,22 +3912,22 @@ no mundo
 
 839
 00:57:25,818 --> 00:57:27,219
-acha que alguém
+acha que alguÃ©m
 se importa
 
 840
 00:57:27,220 --> 00:57:31,191
-com uma explosão num lixão
+com uma explosÃ£o num lixÃ£o
 cheio de ratos em Columbus?
 
 841
 00:57:31,357 --> 00:57:33,656
-Sorrento, não faça isso!
-Nem estou lá!
+Sorrento, nÃ£o faÃ§a isso!
+Nem estou lÃ¡!
 
 842
 00:57:33,657 --> 00:57:35,059
-Não por muito tempo.
+NÃ£o por muito tempo.
 
 843
 00:57:39,503 --> 00:57:40,905
@@ -3943,13 +3943,13 @@ Atenda, atenda Alice!
 
 846
 00:58:16,756 --> 00:58:19,009
-Essas botas são bem legais,
+Essas botas sÃ£o bem legais,
 obrigado por elas.
 
 847
 00:58:19,099 --> 00:58:22,523
 - Rick, o lugar vai explodir!
-- Rick, é o Wade?
+- Rick, Ã© o Wade?
 
 848
 00:58:22,524 --> 00:58:24,828
@@ -3958,12 +3958,12 @@ obrigado por elas.
 
 849
 00:58:24,957 --> 00:58:26,866
-Não ligue mais aqui,
+NÃ£o ligue mais aqui,
 entendeu?
 
 850
 00:58:28,331 --> 00:58:30,609
-Não quero ouvir sua voz
+NÃ£o quero ouvir sua voz
 nunca mais.
 
 851
@@ -3973,13 +3973,13 @@ Sho e Art3mis.
 
 852
 00:59:12,654 --> 00:59:14,560
-IOI veio atrás de mim
+IOI veio atrÃ¡s de mim
 no mundo real.
 
 853
 00:59:14,796 --> 00:59:17,299
-Podem estar atrás de vocês,
-então onde estiverem...
+Podem estar atrÃ¡s de vocÃªs,
+entÃ£o onde estiverem...
 
 854
 00:59:43,742 --> 00:59:45,420
@@ -3987,7 +3987,7 @@ Desculpe pela venda.
 
 855
 00:59:45,694 --> 00:59:47,508
-Meus homens são
+Meus homens sÃ£o
 um pouco paranoicos.
 
 856
@@ -3996,7 +3996,7 @@ Diga isso de novo.
 
 857
 00:59:50,966 --> 00:59:52,868
-Meus homens são
+Meus homens sÃ£o
 um pouco paranoicos.
 
 858
@@ -4005,7 +4005,7 @@ Art3mis?
 
 859
 00:59:57,309 --> 00:59:59,455
-Meu nome real é Samantha,
+Meu nome real Ã© Samantha,
 mas sim.
 
 860
@@ -4015,11 +4015,11 @@ Sou Art3mis.
 861
 01:00:03,081 --> 01:00:05,825
 Os chuveiros ficam ali,
-com roupa limpa para você.
+com roupa limpa para vocÃª.
 
 862
 01:00:09,174 --> 01:00:10,674
-Bem vindo à Rebelião.
+Bem vindo Ã  RebeliÃ£o.
 
 863
 01:00:11,722 --> 01:00:13,124
@@ -4027,15 +4027,15 @@ Wade.
 
 864
 01:00:24,172 --> 01:00:25,574
-É a IOI.
+Ã‰ a IOI.
 
 865
 01:00:26,082 --> 01:00:28,223
-Então as Torres estão lá.
+EntÃ£o as Torres estÃ£o lÃ¡.
 
 866
 01:00:29,757 --> 01:00:32,234
-Estávamos próximos
+EstÃ¡vamos prÃ³ximos
 esse tempo todo.
 
 867
@@ -4045,15 +4045,15 @@ Ao lado.
 868
 01:00:36,110 --> 01:00:39,782
 Ou ao redor do mundo,
-é o mesmo no OASIS.
+Ã© o mesmo no OASIS.
 
 869
 01:00:42,766 --> 01:00:44,168
-Só para constar...
+SÃ³ para constar...
 
 870
 01:00:45,251 --> 01:00:48,611
-Não estou decepcionado.
+NÃ£o estou decepcionado.
 
 871
 01:00:49,464 --> 01:00:53,465
@@ -4062,24 +4062,24 @@ quando te conhecesse.
 
 872
 01:00:54,663 --> 01:00:56,064
-Mas eu não estou.
+Mas eu nÃ£o estou.
 
 873
 01:00:57,159 --> 01:00:59,411
 Eu a tenho a vida inteira,
-não precisa fingir.
+nÃ£o precisa fingir.
 
 874
 01:01:14,385 --> 01:01:15,787
-Tem uma marca de nascença.
+Tem uma marca de nascenÃ§a.
 
 875
 01:01:16,457 --> 01:01:17,858
-E daí?
+E daÃ­?
 
 876
 01:01:18,286 --> 01:01:19,817
-Por quê me assustaria?
+Por quÃª me assustaria?
 
 877
 01:01:27,062 --> 01:01:29,321
@@ -4087,7 +4087,7 @@ Z, se te magoei, desculpe.
 
 878
 01:01:29,824 --> 01:01:31,226
-Não, tudo bem.
+NÃ£o, tudo bem.
 
 879
 01:01:31,924 --> 01:01:34,150
@@ -4110,7 +4110,7 @@ Pode me chamar como quiser.
 883
 01:01:43,865 --> 01:01:45,296
 - Te chamarei de Sam.
-- Não.
+- NÃ£o.
 
 884
 01:01:46,719 --> 01:01:48,906
@@ -4123,7 +4123,7 @@ Legal.
 
 886
 01:02:00,662 --> 01:02:02,404
-Tudo é tão mais lento aqui.
+Tudo Ã© tÃ£o mais lento aqui.
 
 887
 01:02:03,976 --> 01:02:05,378
@@ -4139,12 +4139,12 @@ Tudo.
 
 890
 01:02:16,162 --> 01:02:18,314
-Nos esquecemos como é
+Nos esquecemos como Ã©
 estar do lado de fora.
 
 891
 01:02:18,676 --> 01:02:20,077
-É...
+Ã‰...
 
 892
 01:02:24,424 --> 01:02:25,826
@@ -4153,7 +4153,7 @@ Que droga!
 893
 01:02:26,560 --> 01:02:28,425
 - Acabei descobrir!
-- O quê?
+- O quÃª?
 
 894
 01:02:28,426 --> 01:02:30,228
@@ -4162,17 +4162,17 @@ sei o que significa!
 
 895
 01:02:35,918 --> 01:02:37,504
-Pensávamos
+PensÃ¡vamos
 literalmente demais.
 
 896
 01:02:37,885 --> 01:02:40,388
-"<i>O salto não dado</i>",
-o salto que Halliday não deu...
+"<i>O salto nÃ£o dado</i>",
+o salto que Halliday nÃ£o deu...
 
 897
 01:02:40,389 --> 01:02:41,791
-É com Kira.
+Ã‰ com Kira.
 
 898
 01:02:41,792 --> 01:02:45,153
@@ -4181,26 +4181,26 @@ pela ruptura com Morrow.
 
 899
 01:02:45,392 --> 01:02:47,968
-Não, Halliday estava
+NÃ£o, Halliday estava
 apaixonado por ela.
 
 900
 01:02:48,504 --> 01:02:51,056
 Teve chance com Kira,
-chance de beijá-la...
+chance de beijÃ¡-la...
 
 901
 01:02:51,172 --> 01:02:52,975
-- E não deu o salto.
+- E nÃ£o deu o salto.
 - Exato.
 
 902
 01:02:52,989 --> 01:02:54,391
-E é aonde vamos a seguir.
+E Ã© aonde vamos a seguir.
 
 903
 01:02:56,175 --> 01:02:58,793
-- Onde o salto não foi dado.
+- Onde o salto nÃ£o foi dado.
 - Onde foi o encontro.
 
 904
@@ -4214,7 +4214,7 @@ Curador!
 906
 01:03:03,107 --> 01:03:05,360
 Descobrimos a segunda pista,
-o desafio é aqui.
+o desafio Ã© aqui.
 
 907
 01:03:05,361 --> 01:03:07,442
@@ -4233,18 +4233,18 @@ de novembro de 2015?
 
 910
 01:03:15,086 --> 01:03:16,788
-É a semana do encontro
+Ã‰ a semana do encontro
 com a Kira.
 
 911
 01:03:21,398 --> 01:03:25,143
-As opções dessa semana são
+As opÃ§Ãµes dessa semana sÃ£o
 "A Mosca",
 
 912
 01:03:25,145 --> 01:03:26,897
 bom filme,
-péssimo para um encontro.
+pÃ©ssimo para um encontro.
 
 913
 01:03:27,172 --> 01:03:29,301
@@ -4258,7 +4258,7 @@ Precisamos lembrar da pista.
 915
 01:03:32,935 --> 01:03:35,256
 "<i>Um criador
-que odeia sua criação</i>".
+que odeia sua criaÃ§Ã£o</i>".
 
 916
 01:03:39,503 --> 01:03:40,904
@@ -4266,7 +4266,7 @@ que odeia sua criação</i>".
 
 917
 01:03:41,955 --> 01:03:44,207
-É o 11° filme de terror
+Ã‰ o 11Â° filme de terror
 preferido de Halliday.
 
 918
@@ -4285,8 +4285,8 @@ Que odiou o filme!
 
 921
 01:03:55,162 --> 01:03:58,088
-Têm certeza absoluta
-que querem ir lá?
+TÃªm certeza absoluta
+que querem ir lÃ¡?
 
 922
 01:03:58,089 --> 01:03:59,491
@@ -4294,7 +4294,7 @@ Certeza absoluta.
 
 923
 01:04:00,080 --> 01:04:02,068
-Espero que tenham estômago
+Espero que tenham estÃ´mago
 para isso.
 
 924
@@ -4307,11 +4307,11 @@ Vejam.
 
 926
 01:04:48,458 --> 01:04:49,859
-É um relógio.
+Ã‰ um relÃ³gio.
 
 927
 01:04:50,425 --> 01:04:52,666
-Certo, então calculo...
+Certo, entÃ£o calculo...
 
 928
 01:04:53,973 --> 01:04:56,373
@@ -4320,17 +4320,17 @@ a chave.
 
 929
 01:04:56,377 --> 01:04:58,105
-Há tantas chaves
+HÃ¡ tantas chaves
 em "O Iluminado".
 
 930
 01:04:58,116 --> 01:04:59,518
-Por onde começar?
+Por onde comeÃ§ar?
 
 931
 01:05:00,856 --> 01:05:03,727
 Nunca vi "O Iluminado".
-Dá medo mesmo?
+DÃ¡ medo mesmo?
 
 932
 01:05:05,007 --> 01:05:07,370
@@ -4348,21 +4348,21 @@ do quarto 237,
 
 935
 01:05:12,881 --> 01:05:14,759
-<i>as que dão ao Jack
-no começo do filme.</i>
+<i>as que dÃ£o ao Jack
+no comeÃ§o do filme.</i>
 
 936
 01:05:14,971 --> 01:05:17,879
-<i>Mas cadê o salto não dado?
+<i>Mas cadÃª o salto nÃ£o dado?
 Pode nem ser uma chave.</i>
 
 937
 01:05:17,880 --> 01:05:19,363
-<i>Sei que pode não ser.</i>
+<i>Sei que pode nÃ£o ser.</i>
 
 938
 01:05:27,573 --> 01:05:29,093
-Olá, Danny.
+OlÃ¡, Danny.
 
 939
 01:05:30,331 --> 01:05:32,240
@@ -4370,7 +4370,7 @@ Brinque com a gente.
 
 940
 01:05:32,274 --> 01:05:34,970
-Olá meninas,
+OlÃ¡ meninas,
 sabem como sair daqui?
 
 941
@@ -4379,7 +4379,7 @@ Esperem, esperem!
 
 942
 01:05:42,071 --> 01:05:43,472
-Onde está Aech?
+Onde estÃ¡ Aech?
 
 943
 01:05:43,774 --> 01:05:45,175
@@ -4391,34 +4391,34 @@ Aech!
 
 945
 01:05:48,006 --> 01:05:49,407
-Não, não, não!
+NÃ£o, nÃ£o, nÃ£o!
 
 946
 01:06:49,359 --> 01:06:50,903
-Olá, mulher nua.
+OlÃ¡, mulher nua.
 
 947
 01:06:50,904 --> 01:06:53,375
-Desculpe, não queria
+Desculpe, nÃ£o queria
 interromper seu banho.
 
 948
 01:06:53,686 --> 01:06:55,458
-Sei que higiene é importante.
+Sei que higiene Ã© importante.
 
 949
 01:06:55,650 --> 01:06:58,745
 Pode me fazer um favor
-e dizer onde é a saída?
+e dizer onde Ã© a saÃ­da?
 
 950
 01:07:04,015 --> 01:07:06,184
 Certo.
-Isso é uma pegadinha?
+Isso Ã© uma pegadinha?
 
 951
 01:07:06,432 --> 01:07:08,417
-Porque você gostou
+Porque vocÃª gostou
 demais de mim.
 
 952
@@ -4428,7 +4428,7 @@ Sigo o embalo.
 
 953
 01:08:03,903 --> 01:08:05,304
-O tempo está acabando!
+O tempo estÃ¡ acabando!
 
 954
 01:08:05,860 --> 01:08:07,899
@@ -4437,7 +4437,7 @@ comigo?
 
 955
 01:08:07,900 --> 01:08:10,125
-Eu é que estou!
+Eu Ã© que estou!
 Nunca viu "O Iluminado".
 
 956
@@ -4452,7 +4452,7 @@ filmes de terror!
 
 958
 01:08:14,202 --> 01:08:16,484
-Não temos nada para fazer
+NÃ£o temos nada para fazer
 no 237!
 
 959
@@ -4461,22 +4461,22 @@ Devemos ficar longe!
 
 960
 01:08:17,983 --> 01:08:19,634
-Tem uma zumbi doida lá e...
+Tem uma zumbi doida lÃ¡ e...
 
 961
 01:08:20,096 --> 01:08:21,957
-Não tem zumbis
+NÃ£o tem zumbis
 em "O iluminado"!
 
 962
 01:08:21,968 --> 01:08:23,640
-Talvez não seja
+Talvez nÃ£o seja
 como no filme.
 
 963
 01:08:23,681 --> 01:08:25,512
-Kira é a chave,
-você mesmo disse.
+Kira Ã© a chave,
+vocÃª mesmo disse.
 
 964
 01:08:25,523 --> 01:08:27,495
@@ -4488,7 +4488,7 @@ Onde?
 
 966
 01:08:40,601 --> 01:08:42,103
-É Kira.
+Ã‰ Kira.
 
 967
 01:08:42,504 --> 01:08:44,024
@@ -4496,12 +4496,12 @@ Onde?
 
 968
 01:08:44,406 --> 01:08:45,808
-o salto não dado."
+o salto nÃ£o dado."
 
 969
 01:08:47,259 --> 01:08:49,942
 O maior medo de Halliday
-não era "O iluminado"
+nÃ£o era "O iluminado"
 
 970
 01:08:49,953 --> 01:08:51,543
@@ -4515,11 +4515,11 @@ era beijar uma garota.
 972
 01:08:55,820 --> 01:08:57,718
 Foi este o salto
-que ele não pôde dar.
+que ele nÃ£o pÃ´de dar.
 
 973
 01:09:06,110 --> 01:09:07,511
-O salão de dança.
+O salÃ£o de danÃ§a.
 
 974
 01:09:23,313 --> 01:09:24,715
@@ -4531,11 +4531,11 @@ Zumbis. Eu te disse.
 
 976
 01:09:31,613 --> 01:09:33,115
-É ela.
+Ã‰ ela.
 
 977
 01:09:34,184 --> 01:09:35,586
-É Kira.
+Ã‰ Kira.
 
 978
 01:09:38,250 --> 01:09:39,952
@@ -4544,7 +4544,7 @@ em "O iluminado".
 
 979
 01:09:39,953 --> 01:09:42,705
-Olhem, é o nível de zumbis
+Olhem, Ã© o nÃ­vel de zumbis
 de "Meyhem Mansion",
 
 980
@@ -4554,7 +4554,7 @@ de Halliday.
 
 981
 01:09:44,409 --> 01:09:46,412
-"O iluminado" é apenas
+"O iluminado" Ã© apenas
 um desvio da rota.
 
 982
@@ -4563,7 +4563,7 @@ Um minuto restante.
 
 983
 01:09:50,686 --> 01:09:52,687
-- Como chegamos até ela?
+- Como chegamos atÃ© ela?
 - Saltando.
 
 984
@@ -4577,12 +4577,12 @@ se eu conduzir?
 
 986
 01:10:52,861 --> 01:10:54,262
-Quer dançar?
+Quer danÃ§ar?
 
 987
 01:10:54,993 --> 01:10:58,156
 Sabe quanto tempo esperei
-até você perguntar?
+atÃ© vocÃª perguntar?
 
 988
 01:11:04,875 --> 01:11:06,706
@@ -4590,7 +4590,7 @@ Ora, ora...
 
 989
 01:11:06,707 --> 01:11:11,592
-Então você encontrou
+EntÃ£o vocÃª encontrou
 minha chave de Jade.
 
 990
@@ -4608,8 +4608,8 @@ Obrigada.
 
 993
 01:11:58,139 --> 01:12:01,342
-Uma das nossas ovólogas achou
-na biblioteca de mídia.
+Uma das nossas ovÃ³logas achou
+na biblioteca de mÃ­dia.
 
 994
 01:12:01,343 --> 01:12:02,745
@@ -4617,7 +4617,7 @@ Ela resolveu o enigma
 
 995
 01:12:02,746 --> 01:12:06,108
-e agora só precisamos completar
+e agora sÃ³ precisamos completar
 o desafio de "O iluminado".
 
 996
@@ -4649,16 +4649,16 @@ WADE WATTS
 
 1002
 01:12:40,191 --> 01:12:42,420
-Ele está vivo.
+Ele estÃ¡ vivo.
 
 1003
 01:12:42,421 --> 01:12:44,860
-Eu sei. Já falo com você.
+Eu sei. JÃ¡ falo com vocÃª.
 
 1004
 01:12:45,317 --> 01:12:47,056
 Encontrei o que
-você procurava.
+vocÃª procurava.
 
 1005
 01:12:51,319 --> 01:12:53,689
@@ -4667,7 +4667,7 @@ Este cara.
 
 1006
 01:12:53,965 --> 01:12:55,612
-Com a tatuagem ridícula.
+Com a tatuagem ridÃ­cula.
 
 1007
 01:12:56,224 --> 01:12:57,625
@@ -4676,7 +4676,7 @@ Aproxime.
 1008
 01:12:59,634 --> 01:13:03,024
 Procure-o no banco de dados
-e cada olho e drône em Columbus.
+e cada olho e drÃ´ne em Columbus.
 
 1009
 01:13:03,025 --> 01:13:04,518
@@ -4688,13 +4688,13 @@ IDENTIFICADO.
 
 1011
 01:13:31,453 --> 01:13:33,949
-- As compras estão aqui.
-- Ótimo.
+- As compras estÃ£o aqui.
+- Ã“timo.
 
 1012
 01:13:34,516 --> 01:13:37,377
 <i>"Se sabe a resposta,
-divida pelo número mágico</i>
+divida pelo nÃºmero mÃ¡gico</i>
 
 1013
 01:13:37,378 --> 01:13:39,517
@@ -4702,41 +4702,41 @@ divida pelo número mágico</i>
 
 1014
 01:13:39,518 --> 01:13:41,123
-<i>irá encontrar
-no forte trágico.</i>
+<i>irÃ¡ encontrar
+no forte trÃ¡gico.</i>
 
 1015
 01:13:41,124 --> 01:13:43,427
-Trágico, deve ser Halliday
+TrÃ¡gico, deve ser Halliday
 falando de si mesmo.
 
 1016
 01:13:43,428 --> 01:13:45,212
-- Porquê?
-- Ele estava só.
+- PorquÃª?
+- Ele estava sÃ³.
 
 1017
 01:13:45,213 --> 01:13:47,570
-Ninguém com quem passar
-a vida até o final.
+NinguÃ©m com quem passar
+a vida atÃ© o final.
 
 1018
 01:13:47,969 --> 01:13:49,371
-É verdade.
+Ã‰ verdade.
 
 1019
 01:13:49,372 --> 01:13:53,107
-A competição é para se conectar
-com alguém, qualquer um.
+A competiÃ§Ã£o Ã© para se conectar
+com alguÃ©m, qualquer um.
 
 1020
 01:13:53,108 --> 01:13:56,992
-Quer alguém que cuide do OASIS
-para conectá-lo ao mundo.
+Quer alguÃ©m que cuide do OASIS
+para conectÃ¡-lo ao mundo.
 
 1021
 01:13:56,993 --> 01:13:58,863
-Acho que é isso
+Acho que Ã© isso
 que tenta nos dizer.
 
 1022
@@ -4745,16 +4745,16 @@ Wade.
 
 1023
 01:14:08,966 --> 01:14:10,735
-Você entende Halliday.
+VocÃª entende Halliday.
 
 1024
 01:14:11,150 --> 01:14:13,182
 Conhece-o
-melhor que ninguém.
+melhor que ninguÃ©m.
 
 1025
 01:14:14,784 --> 01:14:17,214
-É por isso que acho
+Ã‰ por isso que acho
 que vai ganhar.
 
 1026
@@ -4764,7 +4764,7 @@ que vou ganhar?
 
 1027
 01:14:25,418 --> 01:14:26,999
-<i>Ninguém se mova!</i>
+<i>NinguÃ©m se mova!</i>
 
 1028
 01:14:32,827 --> 01:14:34,680
@@ -4772,16 +4772,16 @@ que vou ganhar?
 
 1029
 01:14:35,246 --> 01:14:36,794
-<i>Não se movam!</i>
+<i>NÃ£o se movam!</i>
 
 1030
 01:14:43,918 --> 01:14:45,556
-Dá direto no beco.
+DÃ¡ direto no beco.
 
 1031
 01:14:45,772 --> 01:14:48,092
-- Você primeiro.
-- Vou logo atrás, vá logo.
+- VocÃª primeiro.
+- Vou logo atrÃ¡s, vÃ¡ logo.
 
 1032
 01:14:49,698 --> 01:14:51,099
@@ -4789,12 +4789,12 @@ Vamos!
 
 1033
 01:14:51,100 --> 01:14:53,743
-Wade, o OASIS precisa de você.
+Wade, o OASIS precisa de vocÃª.
 
 1034
 01:14:53,744 --> 01:14:56,282
-- Vou atrasá-los.
-- Espera, não, não!
+- Vou atrasÃ¡-los.
+- Espera, nÃ£o, nÃ£o!
 
 1035
 01:14:57,456 --> 01:14:59,806
@@ -4803,11 +4803,11 @@ eu prometo.
 
 1036
 01:15:08,829 --> 01:15:10,601
-<i>Parada aí!</i>
+<i>Parada aÃ­!</i>
 
 1037
 01:15:11,506 --> 01:15:12,907
-<i>Não se mexa!</i>
+<i>NÃ£o se mexa!</i>
 
 1038
 01:15:17,941 --> 01:15:20,460
@@ -4816,21 +4816,21 @@ Samantha Evelyn Cook.
 1039
 01:15:20,461 --> 01:15:24,521
 A IOI comprou e consolidou
-toda sua grande dívida
+toda sua grande dÃ­vida
 
 1040
 01:15:24,522 --> 01:15:27,693
 atualmente avaliada
-em 23.000 créditos.
+em 23.000 crÃ©ditos.
 
 1041
 01:15:27,694 --> 01:15:30,725
-Será transferida ao mais próximo
+SerÃ¡ transferida ao mais prÃ³ximo
 ao Centro de Lealdade IOI
 
 1042
 01:15:30,727 --> 01:15:32,160
-até sua dívida ser paga,
+atÃ© sua dÃ­vida ser paga,
 
 1043
 01:15:32,161 --> 01:15:37,063
@@ -4839,17 +4839,17 @@ ou multas por atrasos.
 
 1044
 01:15:37,459 --> 01:15:39,846
-<i>Não deve estar longe.
-Vai, vai, rápido.</i>
+<i>NÃ£o deve estar longe.
+Vai, vai, rÃ¡pido.</i>
 
 1045
 01:15:52,462 --> 01:15:56,075
 - Primeiro a chave.
-- Primeiro o ovo. O quê?
+- Primeiro o ovo. O quÃª?
 
 1046
 01:15:56,778 --> 01:15:59,721
-Nunca confie em alguém
+Nunca confie em alguÃ©m
 que conheceu no OASIS.
 
 1047
@@ -4859,7 +4859,7 @@ de 150 quilos chamado Chuck
 
 1048
 01:16:03,435 --> 01:16:05,837
-ou viver no sótão de sua mãe
+ou viver no sÃ³tÃ£o de sua mÃ£e
 em Detroit.
 
 1049
@@ -4873,7 +4873,7 @@ de Aech, e pegou. Vamos!
 
 1051
 01:16:24,161 --> 01:16:26,315
-Essa coisa está registrando
+Essa coisa estÃ¡ registrando
 a minha van.
 
 1052
@@ -4883,7 +4883,7 @@ Vamos! Eles nos encontraram.
 1053
 01:16:43,796 --> 01:16:46,647
 Daito?
-Meu nome verdadeiro é Toshiro.
+Meu nome verdadeiro Ã© Toshiro.
 
 1054
 01:16:46,648 --> 01:16:48,415
@@ -4907,17 +4907,17 @@ encontraram o terceiro desafio.
 
 1058
 01:16:57,230 --> 01:16:59,172
-- O quê?
+- O quÃª?
 - Vamos logo, subam!
 
 1059
 01:17:00,064 --> 01:17:01,865
-Vamos, rápido.
+Vamos, rÃ¡pido.
 
 1060
 01:17:13,920 --> 01:17:16,653
 Como a IOI encontrou
-o terceiro desafio tão rápido?
+o terceiro desafio tÃ£o rÃ¡pido?
 
 1061
 01:17:16,654 --> 01:17:18,865
@@ -4931,17 +4931,17 @@ que era no setor 14,
 
 1063
 01:17:20,338 --> 01:17:22,130
-mas não encontraram
-o forte trágico.
+mas nÃ£o encontraram
+o forte trÃ¡gico.
 
 1064
 01:17:22,131 --> 01:17:24,563
-Então enviaram todos
+EntÃ£o enviaram todos
 a esse setor
 
 1065
 01:17:24,594 --> 01:17:26,495
-até que encontrassem
+atÃ© que encontrassem
 o forte certo.
 
 1066
@@ -4950,12 +4950,12 @@ Sho?
 
 1067
 01:17:29,139 --> 01:17:31,261
-É, eu tenho 11 anos.
-E daí?
+Ã‰, eu tenho 11 anos.
+E daÃ­?
 
 1068
 01:17:31,262 --> 01:17:33,004
-O nome dele na verdade é Xo.
+O nome dele na verdade Ã© Xo.
 
 1069
 01:17:33,005 --> 01:17:36,005
@@ -4964,12 +4964,12 @@ sem problemas.
 
 1070
 01:17:36,006 --> 01:17:38,727
-Não, tem problema sim.
+NÃ£o, tem problema sim.
 
 1071
 01:17:38,728 --> 01:17:42,584
-Sho, você é o garoto de 11 anos
-mais incrível do mundo.
+Sho, vocÃª Ã© o garoto de 11 anos
+mais incrÃ­vel do mundo.
 
 1072
 01:17:42,585 --> 01:17:45,114
@@ -4987,7 +4987,7 @@ Samantha.
 
 1075
 01:17:51,962 --> 01:17:54,018
-Não podemos apenas entrar
+NÃ£o podemos apenas entrar
 na IOI.
 
 1076
@@ -4997,17 +4997,17 @@ e encontrei um plano melhor.
 
 1077
 01:17:56,615 --> 01:17:59,559
-- Viu a equipe de Sorrento, né?
+- Viu a equipe de Sorrento, nÃ©?
 - Sim.
 
 1078
 01:17:59,560 --> 01:18:02,328
-Vamos atrás dele e fazê-lo
+Vamos atrÃ¡s dele e fazÃª-lo
 nos devolver Art3mis.
 
 1079
 01:18:03,035 --> 01:18:06,773
-Exatamente o que você lembra
+Exatamente o que vocÃª lembra
 da equipe de Sorrento?
 
 1080
@@ -5016,13 +5016,13 @@ Lembro de tudo.
 
 1081
 01:18:32,436 --> 01:18:37,060
-<i>Segurança: Favor se apresentar
-na seção 97 para transporte.</i>
+<i>SeguranÃ§a: Favor se apresentar
+na seÃ§Ã£o 97 para transporte.</i>
 
 1082
 01:18:57,546 --> 01:19:00,897
 Ei, novata!
-Vá trabalhar.
+VÃ¡ trabalhar.
 
 1083
 01:19:02,652 --> 01:19:04,053
@@ -5030,7 +5030,7 @@ Trabalhe!
 
 1084
 01:19:09,920 --> 01:19:13,283
-<i>Violação de trabalho.</i>
+<i>ViolaÃ§Ã£o de trabalho.</i>
 
 1085
 01:19:14,866 --> 01:19:17,964
@@ -5043,24 +5043,24 @@ Continuem trabalhando!
 
 1087
 01:19:26,751 --> 01:19:28,153
-Ei, você!
+Ei, vocÃª!
 
 1088
 01:19:29,495 --> 01:19:31,316
-Isto são explosivos!
+Isto sÃ£o explosivos!
 
 1089
 01:19:33,039 --> 01:19:36,538
-A IOI não reembolsará créditos
-se você zerar.
+A IOI nÃ£o reembolsarÃ¡ crÃ©ditos
+se vocÃª zerar.
 
 1090
 01:19:36,539 --> 01:19:38,217
-Não fique parado!
+NÃ£o fique parado!
 
 1091
 01:19:42,770 --> 01:19:46,222
-Que desafio é esse?
+Que desafio Ã© esse?
 Algum tipo de videogame?
 
 1092
@@ -5078,12 +5078,12 @@ Vai!
 
 1095
 01:19:58,119 --> 01:20:01,282
-Halliday, é assim que quer
+Halliday, Ã© assim que quer
 determinar o destino
 
 1096
 01:20:01,283 --> 01:20:04,253
-do recurso econômico
+do recurso econÃ´mico
 mais importante do mundo?
 
 1097
@@ -5093,7 +5093,7 @@ mais importante do mundo?
 
 1098
 01:20:07,110 --> 01:20:08,601
-Não, não, não!
+NÃ£o, nÃ£o, nÃ£o!
 
 1099
 01:20:10,974 --> 01:20:14,285
@@ -5107,13 +5107,13 @@ e o gelo quebrou.
 
 1101
 01:20:19,995 --> 01:20:23,779
-Pitfall! Um dos únicos jogos
-do 2600 que ele não terminou.
+Pitfall! Um dos Ãºnicos jogos
+do 2600 que ele nÃ£o terminou.
 
 1102
 01:20:24,311 --> 01:20:28,599
 <i>Foram criados
-para uma competição de Atari...</i>
+para uma competiÃ§Ã£o de Atari...</i>
 
 1103
 01:20:36,635 --> 01:20:38,051
@@ -5126,7 +5126,7 @@ de fisioterapia...
 
 1105
 01:20:42,202 --> 01:20:46,395
-- O Orbe está pronto?
+- O Orbe estÃ¡ pronto?
 - Como desejou.
 
 1106
@@ -5136,40 +5136,40 @@ O Orbe de Osuvox.
 1107
 01:20:55,388 --> 01:20:59,887
 Como funciona?
-Tem algum controle ou botão?
+Tem algum controle ou botÃ£o?
 
 1108
 01:21:00,894 --> 01:21:04,551
-Nolan, é um artefato mágico
-do nível 99,
+Nolan, Ã© um artefato mÃ¡gico
+do nÃ­vel 99,
 
 1109
 01:21:04,552 --> 01:21:08,284
-não um dos seus drones.
-É ativado por um feitiço.
+nÃ£o um dos seus drones.
+Ã‰ ativado por um feitiÃ§o.
 
 1110
 01:21:08,285 --> 01:21:10,009
-Fará as honras?
+FarÃ¡ as honras?
 
 1111
 01:21:20,288 --> 01:21:24,953
-<i>Anál nathrach, orth' bháis's
-bethad, do chél dénmha.</i>
+<i>AnÃ¡l nathrach, orth' bhÃ¡is's
+bethad, do chÃ©l dÃ©nmha.</i>
 
 1112
 01:21:24,954 --> 01:21:29,689
-<i>Anál nathrach, orth' bháis's
-bethad, do chél dénmha.</i>
+<i>AnÃ¡l nathrach, orth' bhÃ¡is's
+bethad, do chÃ©l dÃ©nmha.</i>
 
 1113
 01:21:29,886 --> 01:21:35,223
-<i>Anál nathrach, orth' bháis's
-bethad, do chél dénmha.</i>
+<i>AnÃ¡l nathrach, orth' bhÃ¡is's
+bethad, do chÃ©l dÃ©nmha.</i>
 
 1114
 01:22:02,112 --> 01:22:04,757
-- Onde ela está?
+- Onde ela estÃ¡?
 - Como entrou aqui?
 
 1115
@@ -5180,7 +5180,7 @@ bethad, do chél dénmha.</i>
 1116
 01:22:06,213 --> 01:22:08,960
 Samantha Cook!
-Onde ela está?
+Onde ela estÃ¡?
 
 1117
 01:22:10,690 --> 01:22:14,735
@@ -5189,41 +5189,41 @@ deve abaixar a arma.
 
 1118
 01:22:14,736 --> 01:22:16,753
-Você matou a irmã
-da minha mãe.
+VocÃª matou a irmÃ£
+da minha mÃ£e.
 
 1119
 01:22:17,427 --> 01:22:19,476
-Acha que não matarei você?
+Acha que nÃ£o matarei vocÃª?
 
 1120
 01:22:20,756 --> 01:22:23,518
-Vá com calma, está bem?
+VÃ¡ com calma, estÃ¡ bem?
 
 1121
 01:22:23,519 --> 01:22:26,900
-Foi uma decisão corporativa,
-não foi nada pessoal.
+Foi uma decisÃ£o corporativa,
+nÃ£o foi nada pessoal.
 
 1122
 01:22:26,901 --> 01:22:30,483
-- Cadê ela?
-- Está no Centro de Lealdade.
+- CadÃª ela?
+- EstÃ¡ no Centro de Lealdade.
 
 1123
 01:22:30,484 --> 01:22:32,987
-Sei que ela está numa droga
+Sei que ela estÃ¡ numa droga
 de Centro de Lealdade.
 
 1124
 01:22:33,822 --> 01:22:36,325
-Você me dirá exatamente
-em que plataforma ela está.
+VocÃª me dirÃ¡ exatamente
+em que plataforma ela estÃ¡.
 
 1125
 01:22:36,326 --> 01:22:38,721
-E o código de acesso
-para contatá-la.
+E o cÃ³digo de acesso
+para contatÃ¡-la.
 
 1126
 01:22:39,581 --> 01:22:41,457
@@ -5232,7 +5232,7 @@ Sim, me parece apropriado.
 1127
 01:22:44,881 --> 01:22:47,201
 Comece
-pelo código de acesso.
+pelo cÃ³digo de acesso.
 
 1128
 01:22:47,940 --> 01:22:50,314
@@ -5245,7 +5245,7 @@ pelo código de acesso.
 1130
 01:23:02,403 --> 01:23:04,326
 Acho que ele mijou
-nas calças
+nas calÃ§as
 
 1131
 01:23:04,630 --> 01:23:06,031
@@ -5253,12 +5253,12 @@ Bom trabalho Z.
 
 1132
 01:23:06,700 --> 01:23:09,343
-Então, ele não sabe mesmo
-que ainda está no OASIS?
+EntÃ£o, ele nÃ£o sabe mesmo
+que ainda estÃ¡ no OASIS?
 
 1133
 01:23:10,827 --> 01:23:13,150
-Isso é o que Sorrento
+Isso Ã© o que Sorrento
 deveria estar vendo.
 
 1134
@@ -5267,42 +5267,42 @@ Mas isto...
 
 1135
 01:23:15,159 --> 01:23:16,861
-Isto é o que o estamos
+Isto Ã© o que o estamos
 fazendo ver.
 
 1136
 01:23:17,788 --> 01:23:20,706
-Pegamos ele em trânsito logo
+Pegamos ele em trÃ¢nsito logo
 quando estava saindo do OASIS.
 
 1137
 01:23:20,707 --> 01:23:22,660
-Então, ele acha que voltou
-ao escritório
+EntÃ£o, ele acha que voltou
+ao escritÃ³rio
 
 1138
 01:23:22,661 --> 01:23:25,971
 no mundo real,
-mas está aqui,
+mas estÃ¡ aqui,
 
 1139
 01:23:25,972 --> 01:23:28,125
-num escritório idêntico
+num escritÃ³rio idÃªntico
 que Aech construiu.
 
 1140
 01:23:28,126 --> 01:23:30,342
-Você, basicamente
+VocÃª, basicamente
 <i>hackeou</i> a plataforma dele.
 
 1141
 01:23:30,343 --> 01:23:33,303
-O equipamento dele é fácil
-de localizar e difícil <i>hackear</i>.
+O equipamento dele Ã© fÃ¡cil
+de localizar e difÃ­cil <i>hackear</i>.
 
 1142
 01:23:33,304 --> 01:23:36,111
-A menos que seja estúpido
+A menos que seja estÃºpido
 o bastante para deixar a senha.
 
 1143
@@ -5318,12 +5318,12 @@ o bastante para deixar a senha.
 1145
 01:23:49,208 --> 01:23:50,657
 <i>Arty, Arty.</i>
-Não diga nada.
+NÃ£o diga nada.
 
 1146
 01:23:50,658 --> 01:23:52,978
 Estou ligado direto
-à sua fonte de áudio.
+Ã  sua fonte de Ã¡udio.
 
 1147
 01:23:54,189 --> 01:23:55,786
@@ -5341,8 +5341,8 @@ para te contar.
 
 1150
 01:24:01,015 --> 01:24:03,952
-<i>Agora não. Tenho algo
-a te mostrar, após tirá-la daí.</i>
+<i>Agora nÃ£o. Tenho algo
+a te mostrar, apÃ³s tirÃ¡-la daÃ­.</i>
 
 1151
 01:24:03,953 --> 01:24:06,580
@@ -5352,7 +5352,7 @@ desafio no Planeta Doom.
 1152
 01:24:07,089 --> 01:24:08,791
 E mais, colocaram
-um campo de força
+um campo de forÃ§a
 
 1153
 01:24:08,792 --> 01:24:10,473
@@ -5366,18 +5366,18 @@ de "Orbe de Osuvox".
 
 1155
 01:24:17,488 --> 01:24:19,969
-E o único jeito de derrubá-lo
-é de dentro.
+E o Ãºnico jeito de derrubÃ¡-lo
+Ã© de dentro.
 
 1156
 01:24:20,341 --> 01:24:23,481
-Ela tem razão.
-Artefato nível 99.
+Ela tem razÃ£o.
+Artefato nÃ­vel 99.
 
 1157
 01:24:23,482 --> 01:24:26,065
-Cria uma barreira mágica
-impenetrável e resistente.
+Cria uma barreira mÃ¡gica
+impenetrÃ¡vel e resistente.
 
 1158
 01:24:26,250 --> 01:24:27,652
@@ -5385,12 +5385,12 @@ Nenhuma forma de ir.
 
 1159
 01:24:27,653 --> 01:24:29,133
-Isso não é importante agora,
+Isso nÃ£o Ã© importante agora,
 
 1160
 01:24:29,134 --> 01:24:31,800
 o que importante agora
-é tirarmos você do equipamento.
+Ã© tirarmos vocÃª do equipamento.
 
 1161
 01:24:33,733 --> 01:24:36,368
@@ -5399,13 +5399,13 @@ do seu equipamento,</i>
 
 1162
 01:24:38,786 --> 01:24:42,226
-se alcançar com sua mão esquerda
-na direção 11h, há uns...
+se alcanÃ§ar com sua mÃ£o esquerda
+na direÃ§Ã£o 11h, hÃ¡ uns...
 
 1163
 01:24:42,227 --> 01:24:44,347
-há um painel
-acima de sua cabeça.
+hÃ¡ um painel
+acima de sua cabeÃ§a.
 
 1164
 01:24:48,744 --> 01:24:50,145
@@ -5423,17 +5423,17 @@ em 9h e 3h.</i>
 
 1167
 01:24:54,770 --> 01:24:56,240
-<i>Puxe-as na sua direção.</i>
+<i>Puxe-as na sua direÃ§Ã£o.</i>
 
 1168
 01:24:58,553 --> 01:25:01,604
-<i>No painel há uma alavanca,
-pegue com a mão direita</i>
+<i>No painel hÃ¡ uma alavanca,
+pegue com a mÃ£o direita</i>
 
 1169
 01:25:01,605 --> 01:25:04,022
 <i>e puxe para a esquerda,
-isso deve libertar você.</i>
+isso deve libertar vocÃª.</i>
 
 1170
 01:25:11,452 --> 01:25:13,585
@@ -5446,7 +5446,7 @@ Estou fora.
 
 1172
 01:25:16,229 --> 01:25:19,558
-<i>você está autorizada
+<i>vocÃª estÃ¡ autorizada
 a um intervalo de 10 minutos.</i>
 
 1173
@@ -5456,27 +5456,27 @@ de 10 minutos,</i>
 
 1174
 01:25:27,478 --> 01:25:29,753
-<i>vá para a área
+<i>vÃ¡ para a Ã¡rea
 de intervalos.</i>
 
 1175
 01:25:31,159 --> 01:25:33,695
-- Wade, está ai?
-<i>- Sim. Estou. Onde você está?</i>
+- Wade, estÃ¡ ai?
+<i>- Sim. Estou. Onde vocÃª estÃ¡?</i>
 
 1176
 01:25:33,696 --> 01:25:35,999
-- Onde é a sala dele?
+- Onde Ã© a sala dele?
 - Na sala IOI de Guerra,
 
 1177
 01:25:36,000 --> 01:25:38,729
-dois níveis abaixo de onde está.
-Mas lá não é a saída.
+dois nÃ­veis abaixo de onde estÃ¡.
+Mas lÃ¡ nÃ£o Ã© a saÃ­da.
 
 1178
 01:25:38,730 --> 01:25:40,797
-Qual é a senha dele?
+Qual Ã© a senha dele?
 
 1179
 01:25:41,926 --> 01:25:43,528
@@ -5485,20 +5485,20 @@ Qual é a senha dele?
 
 1180
 01:25:43,529 --> 01:25:47,412
-<i>É B055man69.</i>
+<i>Ã‰ B055man69.</i>
 
 1181
 01:25:47,413 --> 01:25:51,127
 <i>- Mas Arty, precisa fugir.</i>
-- Você precisa de um exército.
+- VocÃª precisa de um exÃ©rcito.
 
 1182
 01:25:51,851 --> 01:25:53,252
-Um exército?
+Um exÃ©rcito?
 
 1183
 01:25:53,253 --> 01:25:55,389
-<i>Vá para o Planeta Doom
+<i>VÃ¡ para o Planeta Doom
 e aguarde meu sinal.</i>
 
 1184
@@ -5512,12 +5512,12 @@ Que sinal?
 
 1186
 01:25:58,846 --> 01:26:00,577
-<i>Você precisa sair daí.
+<i>VocÃª precisa sair daÃ­.
 Arty...?</i>
 
 1187
 01:26:10,300 --> 01:26:12,102
-Quanto pagaram a você,
+Quanto pagaram a vocÃª,
 porque cara,
 
 1188
@@ -5535,8 +5535,8 @@ Tudo bem.
 
 1191
 01:26:41,998 --> 01:26:44,405
-Isso não é real,
-estão mexendo na minha fonte.
+Isso nÃ£o Ã© real,
+estÃ£o mexendo na minha fonte.
 
 1192
 01:26:45,619 --> 01:26:47,020
@@ -5554,26 +5554,26 @@ meu equipamento.
 
 1195
 01:27:06,291 --> 01:27:08,879
-Estão atrás da garota.
+EstÃ£o atrÃ¡s da garota.
 Encontre-me no Lealdade.
 
 1196
 01:27:23,092 --> 01:27:26,664
-<i>41-F, você excedeu
+<i>41-F, vocÃª excedeu
 o tempo de intervalo.</i>
 
 1197
 01:27:26,665 --> 01:27:28,441
-<i>Apresente-se à segurança</i>
+<i>Apresente-se Ã  seguranÃ§a</i>
 
 1198
 01:27:28,442 --> 01:27:30,958
-<i>ou sua conta será
+<i>ou sua conta serÃ¡
 reduzida a zero.</i>
 
 1199
 01:27:39,647 --> 01:27:41,049
-Então...
+EntÃ£o...
 
 1200
 01:27:41,266 --> 01:27:44,441
@@ -5582,17 +5582,17 @@ Como isso aconteceu?
 
 1201
 01:27:44,442 --> 01:27:46,459
-Eles são espertos
+Eles sÃ£o espertos
 e sabiam o que faziam.
 
 1202
 01:27:46,460 --> 01:27:48,805
-Mas sabemos que estão
+Mas sabemos que estÃ£o
 em Columbus e agora...
 
 1203
 01:27:48,806 --> 01:27:51,834
-Espere. Sabemos o quê?
+Espere. Sabemos o quÃª?
 Como sabemos?
 
 1204
@@ -5601,55 +5601,55 @@ Sabemos o modelo da van.
 
 1205
 01:27:54,724 --> 01:27:57,227
-- Nós os identificamos.
+- NÃ³s os identificamos.
 - "Os identificamos"?
 
 1206
 01:27:57,606 --> 01:28:01,187
 Isso soa como uma grande
-inscrição para nosso túmulo.
+inscriÃ§Ã£o para nosso tÃºmulo.
 
 1207
 01:28:01,188 --> 01:28:02,701
-Por que não me contou
+Por que nÃ£o me contou
 antes?
 
 1208
 01:28:02,702 --> 01:28:04,409
-Não era relevante ainda.
+NÃ£o era relevante ainda.
 
 1209
 01:28:04,410 --> 01:28:06,997
-Quero saber onde estão.
-Temos que encontrá-los.
+Quero saber onde estÃ£o.
+Temos que encontrÃ¡-los.
 
 1210
 01:28:06,998 --> 01:28:09,643
-São crianças, Nolan!
-Vê se cresce.
+SÃ£o crianÃ§as, Nolan!
+VÃª se cresce.
 
 1211
 01:28:10,008 --> 01:28:11,760
-Faça seu trabalho
-que faço o meu.
+FaÃ§a seu trabalho
+que faÃ§o o meu.
 
 1212
 01:28:11,761 --> 01:28:14,712
 A menos que queira isso
-e vá atrás deles você mesmo.
+e vÃ¡ atrÃ¡s deles vocÃª mesmo.
 
 1213
 01:28:19,735 --> 01:28:21,136
-Ótimo.
+Ã“timo.
 
 1214
 01:28:29,998 --> 01:28:31,967
-Coleção Nancy Drew completa.
+ColeÃ§Ã£o Nancy Drew completa.
 
 1215
 01:28:33,100 --> 01:28:35,299
 Remanescentes
-de exercícios Kegggle.
+de exercÃ­cios Kegggle.
 
 1216
 01:28:36,397 --> 01:28:37,798
@@ -5657,32 +5657,32 @@ Bingo.
 
 1217
 01:28:38,761 --> 01:28:41,249
-Parabéns, você é o ganhador
+ParabÃ©ns, vocÃª Ã© o ganhador
 da Orbe Osuvox...
 
 1218
 01:28:41,250 --> 01:28:44,427
-artefato mágico de nível 99.
-Leia instruções antes de usar.
+artefato mÃ¡gico de nÃ­vel 99.
+Leia instruÃ§Ãµes antes de usar.
 
 1219
 01:28:44,428 --> 01:28:47,113
-Para desligá-lo.
+Para desligÃ¡-lo.
 Desligar, sim, desligar, sim.
 
 1220
 01:28:47,114 --> 01:28:49,559
-Ler este feitiço
+Ler este feitiÃ§o
 a menos de 3 m do Orbe:
 
 1221
 01:28:51,685 --> 01:28:56,276
-<i>Anál nathrach, orth' bháis's
-bethad, do chél dénmha.</i>
+<i>AnÃ¡l nathrach, orth' bhÃ¡is's
+bethad, do chÃ©l dÃ©nmha.</i>
 
 1222
 01:29:03,170 --> 01:29:05,378
-Cidadãos do OASIS.
+CidadÃ£os do OASIS.
 
 1223
 01:29:05,855 --> 01:29:07,822
@@ -5691,18 +5691,18 @@ o primeiro da chave.
 
 1224
 01:29:08,462 --> 01:29:11,928
-Estou aqui falando com vocês
-pois nosso futuro está ameaçado.
+Estou aqui falando com vocÃªs
+pois nosso futuro estÃ¡ ameaÃ§ado.
 
 1225
 01:29:11,929 --> 01:29:14,838
 Por gente capaz de tudo
-para ganhar esta competição.
+para ganhar esta competiÃ§Ã£o.
 
 1226
 01:29:15,605 --> 01:29:17,651
-Alguns de vocês
-já sabem disso.
+Alguns de vocÃªs
+jÃ¡ sabem disso.
 
 1227
 01:29:17,652 --> 01:29:21,400
@@ -5723,23 +5723,23 @@ E agora, isto.
 
 1231
 01:29:30,814 --> 01:29:34,299
-Um campo de força
+Um campo de forÃ§a
 ao redor do terceiro desafio.
 
 1232
 01:29:36,421 --> 01:29:40,190
-<i>Eu só vim ao OASIS para fugir
+<i>Eu sÃ³ vim ao OASIS para fugir
 da porcaria da minha realidade.</i>
 
 1233
 01:29:40,719 --> 01:29:43,580
 Mas fiquei aqui,
-como muitos de vocês...
+como muitos de vocÃªs...
 
 1234
 01:29:43,581 --> 01:29:48,165
 Porque encontrei
-algo muito maior que eu próprio.
+algo muito maior que eu prÃ³prio.
 
 1235
 01:29:48,619 --> 01:29:50,365
@@ -5764,7 +5764,7 @@ mas...
 
 1240
 01:30:02,653 --> 01:30:05,330
-<i>E não quero perder isso
+<i>E nÃ£o quero perder isso
 para Nolan Sorrento,</i>
 
 1241
@@ -5779,16 +5779,16 @@ Voltem ao trabalho, pessoal.
 1243
 01:30:10,813 --> 01:30:13,363
 Ele pensa que estamos
-distraídos demais para ver...
+distraÃ­dos demais para ver...
 
 1244
 01:30:15,786 --> 01:30:19,344
 <i>Sorrento pensa
-que não iremos lutar!</i>
+que nÃ£o iremos lutar!</i>
 
 1245
 01:30:20,727 --> 01:30:25,265
-Senhor, isso está ao vivo.
+Senhor, isso estÃ¡ ao vivo.
 Transmitido em toda parte.
 
 1246
@@ -5814,39 +5814,39 @@ o OASIS?
 
 1251
 01:30:48,759 --> 01:30:51,544
-<i>Mão direita, mão esquerda.</i>
+<i>MÃ£o direita, mÃ£o esquerda.</i>
 
 1252
 01:30:57,390 --> 01:31:00,313
-Ele acha que não vamos
+Ele acha que nÃ£o vamos
 nos preparar para lutar.
 
 1253
 01:31:00,314 --> 01:31:02,896
 Bom, eu digo
-que ele está errado.
+que ele estÃ¡ errado.
 
 1254
 01:31:02,897 --> 01:31:07,107
-Digo para contarem aos clãs
-e caça-ovos de toda parte.
+Digo para contarem aos clÃ£s
+e caÃ§a-ovos de toda parte.
 
 1255
 01:31:07,108 --> 01:31:10,154
-Ativar o Gigante de Aço.
+Ativar o Gigante de AÃ§o.
 
 1256
 01:31:34,156 --> 01:31:35,858
-Perguntem a si próprios...
+Perguntem a si prÃ³prios...
 
 1257
 01:31:36,418 --> 01:31:39,354
-Estão dispostos a ir a zero
+EstÃ£o dispostos a ir a zero
 pelo OASIS?
 
 1258
 01:31:39,355 --> 01:31:41,440
-Estão dispostos a lutar?
+EstÃ£o dispostos a lutar?
 
 1259
 01:31:42,801 --> 01:31:44,997
@@ -5863,12 +5863,12 @@ em nome de Daito e Sho,
 
 1262
 01:31:50,660 --> 01:31:53,704
-chamo a todos que se unam a nós
+chamo a todos que se unam a nÃ³s
 no Planeta Doom.
 
 1263
 01:31:54,300 --> 01:31:56,415
-E em nome do próprio
+E em nome do prÃ³prio
 James Halliday...
 
 1264
@@ -5877,16 +5877,16 @@ ajudem-nos a salva o OASIS.
 
 1265
 01:32:54,301 --> 01:32:55,965
-Não, não, não!
+NÃ£o, nÃ£o, nÃ£o!
 
 1266
 01:32:55,966 --> 01:32:57,367
-Não, não! Não!
+NÃ£o, nÃ£o! NÃ£o!
 
 1267
 01:33:06,736 --> 01:33:09,874
-Ninguém que tem amigos
-é um fracasso.
+NinguÃ©m que tem amigos
+Ã© um fracasso.
 
 1268
 01:33:31,732 --> 01:33:34,371
@@ -5904,7 +5904,7 @@ Bom...
 1271
 01:33:53,757 --> 01:33:56,059
 Nenhum dos 3 fez SwordQuest,
-qual é o próximo?
+qual Ã© o prÃ³ximo?
 
 1272
 01:33:56,060 --> 01:33:57,462
@@ -5914,17 +5914,17 @@ qual é o próximo?
 1273
 01:33:57,463 --> 01:33:58,965
 - SuperBreakout.
-- É Adventure.
+- Ã‰ Adventure.
 
 1274
 01:33:58,966 --> 01:34:02,812
-Lançado em 1979 para o 2600,
+LanÃ§ado em 1979 para o 2600,
 foi criado por Warren Robinett.
 
 1275
 01:34:02,813 --> 01:34:05,517
 Foi o primeiro designer
-a ocultar o nome no vídeo game.
+a ocultar o nome no vÃ­deo game.
 
 1276
 01:34:05,518 --> 01:34:07,453
@@ -5946,12 +5946,12 @@ Deve ser o jogo certo.
 
 1280
 01:35:07,051 --> 01:35:10,210
-<i>Anál nathrach, orth’ bháis's
+<i>AnÃ¡l nathrach, orthÂ’ bhÃ¡is's
 bethad,</i>
 
 1281
 01:35:11,170 --> 01:35:12,935
-<i>do chél dénmha.</i>
+<i>do chÃ©l dÃ©nmha.</i>
 
 1282
 01:35:13,801 --> 01:35:17,171
@@ -5960,30 +5960,30 @@ essa coisa de Orbe?
 
 1283
 01:35:19,834 --> 01:35:23,988
-<i>Anál nathrach, orth’ bháis’s
-bethad, do chél dénmha.</i>
+<i>AnÃ¡l nathrach, orthÂ’ bhÃ¡isÂ’s
+bethad, do chÃ©l dÃ©nmha.</i>
 
 1284
 01:35:24,164 --> 01:35:28,061
 Eu diria que uns 10,
-10 milhões de anos.
+10 milhÃµes de anos.
 
 1285
 01:35:28,062 --> 01:35:29,883
-Então, estamos bem.
+EntÃ£o, estamos bem.
 
 1286
 01:35:30,057 --> 01:35:34,829
-<i>Anál nathrach, orth’ bháis’s
-bethad, do chél dénmha.</i>
+<i>AnÃ¡l nathrach, orthÂ’ bhÃ¡isÂ’s
+bethad, do chÃ©l dÃ©nmha.</i>
 
 1287
 01:35:47,478 --> 01:35:48,880
-Primeiro à chave?
+Primeiro Ã  chave?
 
 1288
 01:35:49,085 --> 01:35:53,587
-- Primeiro à chave!
+- Primeiro Ã  chave!
 - Primeiro ao ovo!
 
 1289
@@ -5992,23 +5992,23 @@ Adventure.
 
 1290
 01:36:40,382 --> 01:36:41,809
-O quê?
-Qual é?
+O quÃª?
+Qual Ã©?
 
 1291
 01:37:15,338 --> 01:37:17,995
-Os Seis estão na última prova,
+Os Seis estÃ£o na Ãºltima prova,
 num Atari 2600.
 
 1292
 01:37:18,069 --> 01:37:19,905
-Está na sala de guerra
+EstÃ¡ na sala de guerra
 dos Seis?
 
 1293
 01:37:20,318 --> 01:37:23,537
-- Não, tem que sair daí.
-- Estão jogando Adventure.
+- NÃ£o, tem que sair daÃ­.
+- EstÃ£o jogando Adventure.
 
 1294
 01:37:24,166 --> 01:37:26,060
@@ -6021,7 +6021,7 @@ ele foi o primeiro a esconder
 
 1296
 01:37:29,662 --> 01:37:31,214
-- um ovo de páscoa...
+- um ovo de pÃ¡scoa...
 - Cuidado!
 
 1297
@@ -6035,7 +6035,7 @@ uma van modelo 2036.
 
 1299
 01:37:51,331 --> 01:37:54,136
-NÃO COINCIDE
+NÃƒO COINCIDE
 
 1300
 01:38:00,372 --> 01:38:03,075
@@ -6044,8 +6044,8 @@ para a batalha?
 
 1301
 01:38:17,465 --> 01:38:20,001
-- O inventário está vazio.
-- É minha última.
+- O inventÃ¡rio estÃ¡ vazio.
+- Ã‰ minha Ãºltima.
 
 1302
 01:38:20,017 --> 01:38:21,420
@@ -6053,13 +6053,13 @@ Mais armas!
 
 1303
 01:38:21,467 --> 01:38:25,625
-- Canhão antipessoal!.
-- Canhão antipessoal.
+- CanhÃ£o antipessoal!.
+- CanhÃ£o antipessoal.
 
 1304
 01:38:28,412 --> 01:38:31,116
-- Canhão de trilho!
-- Canhão de trilho.
+- CanhÃ£o de trilho!
+- CanhÃ£o de trilho.
 
 1305
 01:38:36,159 --> 01:38:37,560
@@ -6076,7 +6076,7 @@ Tire ele daqui!
 
 1308
 01:38:50,242 --> 01:38:51,644
-É um maldito Chucky!
+Ã‰ um maldito Chucky!
 
 1309
 01:38:56,911 --> 01:38:58,313
@@ -6085,7 +6085,7 @@ Mexam-se!
 
 1310
 01:38:58,936 --> 01:39:00,337
-Vão! Vão
+VÃ£o! VÃ£o
 
 1311
 01:39:58,273 --> 01:39:59,675
@@ -6093,16 +6093,16 @@ Mechagodzila!
 
 1312
 01:40:20,966 --> 01:40:22,414
-Daito, precisamos de você!
+Daito, precisamos de vocÃª!
 
 1313
 01:40:23,209 --> 01:40:25,045
 - Daito, agora!
-<i>- Vá para a ponte.</i>
+<i>- VÃ¡ para a ponte.</i>
 
 1314
 01:40:25,514 --> 01:40:27,461
-Agora, ele está distraído!
+Agora, ele estÃ¡ distraÃ­do!
 Vai, Vai!
 
 1315
@@ -6117,7 +6117,7 @@ Z!
 1317
 01:41:29,351 --> 01:41:31,400
 - Arty!
-- Vá para o castelo.
+- VÃ¡ para o castelo.
 
 1318
 01:41:31,402 --> 01:41:33,294
@@ -6126,7 +6126,7 @@ antes deles!
 
 1319
 01:41:45,276 --> 01:41:47,389
-- O que é isso?
+- O que Ã© isso?
 - Faltam 30 segundos,
 
 1320
@@ -6136,7 +6136,7 @@ antes de voltar ao normal.
 1321
 01:42:00,392 --> 01:42:03,178
 Daito, abortar, abortar!
-Você tem 10 segundos!
+VocÃª tem 10 segundos!
 
 1322
 01:42:17,971 --> 01:42:19,373
@@ -6144,7 +6144,7 @@ Primeiro ao ovo!
 
 1323
 01:42:58,578 --> 01:42:59,980
-Droga, é ela.
+Droga, Ã© ela.
 
 1324
 01:43:19,792 --> 01:43:22,214
@@ -6163,7 +6163,7 @@ Continua aqui.
 
 1327
 01:43:37,328 --> 01:43:39,089
-A garota está
+A garota estÃ¡
 na sala de guerra.
 
 1328
@@ -6176,39 +6176,39 @@ RECARREGAR
 
 1330
 01:44:54,708 --> 01:44:56,110
-Não!
+NÃ£o!
 
 1331
 01:45:18,598 --> 01:45:20,600
 Arty, conseguimos.
-Você tem que sair.
+VocÃª tem que sair.
 
 1332
 01:45:20,767 --> 01:45:23,271
-Se o jogo é o Adventure,
-por que não ganharam?
+Se o jogo Ã© o Adventure,
+por que nÃ£o ganharam?
 
 1333
 01:45:23,497 --> 01:45:25,748
-Não sei.
+NÃ£o sei.
 Arty, estou furioso!
 
 1334
 01:45:25,752 --> 01:45:27,589
-Sorrento está louco.
+Sorrento estÃ¡ louco.
 Vai te matar.
 
 1335
 01:45:29,535 --> 01:45:30,937
-<i>O que está olhando?</i>
+<i>O que estÃ¡ olhando?</i>
 
 1336
 01:45:31,537 --> 01:45:32,939
-Não tem nada lá.
+NÃ£o tem nada lÃ¡.
 
 1337
 01:45:34,453 --> 01:45:35,854
-Está em perigo, não é?
+EstÃ¡ em perigo, nÃ£o Ã©?
 
 1338
 01:45:38,643 --> 01:45:40,044
@@ -6217,7 +6217,7 @@ Samantha.
 1339
 01:45:41,055 --> 01:45:43,232
 - Sabe que te amo.
-- Não é o momento, Z.
+- NÃ£o Ã© o momento, Z.
 
 1340
 01:45:43,551 --> 01:45:44,952
@@ -6225,7 +6225,7 @@ Posso enfrentar o desafio
 
 1341
 01:45:44,954 --> 01:45:47,458
-mas não posso deixar
+mas nÃ£o posso deixar
 te ferirem no mundo real.
 
 1342
@@ -6235,17 +6235,17 @@ em River South.
 
 1343
 01:45:57,644 --> 01:45:59,046
-Wade, não.
+Wade, nÃ£o.
 
 1344
 01:45:59,371 --> 01:46:00,985
-Me perdoará por isso,
+Me perdoarÃ¡ por isso,
 eu juro.
 
 1345
 01:46:01,274 --> 01:46:02,718
 Wade,
-não, não, não!
+nÃ£o, nÃ£o, nÃ£o!
 
 1346
 01:46:04,464 --> 01:46:05,866
@@ -6254,7 +6254,7 @@ FIM DE JOGO
 1347
 01:46:12,619 --> 01:46:15,361
 Vamos, Seis.
-De volta ao início.
+De volta ao inÃ­cio.
 
 1348
 01:46:15,956 --> 01:46:17,865
@@ -6268,22 +6268,22 @@ Quanto isso custou?
 
 1350
 01:46:39,498 --> 01:46:42,094
-Menos do que custará
+Menos do que custarÃ¡
 a eles.
 
 1351
 01:46:43,024 --> 01:46:44,426
-O que é isso?
+O que Ã© isso?
 
 1352
 01:46:54,874 --> 01:46:57,206
-Senhor, os caça-ovos
+Senhor, os caÃ§a-ovos
 se aproximam do desafio.
 
 1353
 01:46:57,738 --> 01:46:59,613
 - I-R0k?
-- Em posição, senhor.
+- Em posiÃ§Ã£o, senhor.
 
 1354
 01:46:59,622 --> 01:47:02,015
@@ -6297,7 +6297,7 @@ Continue.
 1356
 01:47:13,867 --> 01:47:16,213
 Espera.
-Ele está tentando ganhar.
+Ele estÃ¡ tentando ganhar.
 
 1357
 01:47:19,726 --> 01:47:22,512
@@ -6310,7 +6310,7 @@ Ele perdeu.
 
 1359
 01:47:27,897 --> 01:47:29,298
-Não é o Adventure.
+NÃ£o Ã© o Adventure.
 
 1360
 01:47:33,873 --> 01:47:35,275
@@ -6322,7 +6322,7 @@ perde.
 
 1362
 01:47:38,350 --> 01:47:39,752
-Não se trata de ganhar...
+NÃ£o se trata de ganhar...
 
 1363
 01:47:40,522 --> 01:47:41,923
@@ -6330,12 +6330,12 @@ e sim de jogar.
 
 1364
 01:47:42,720 --> 01:47:44,334
-Lembra do anúncio
+Lembra do anÃºncio
 de Halliday.
 
 1365
 01:47:45,169 --> 01:47:47,173
-As chaves são invisíveis
+As chaves sÃ£o invisÃ­veis
 e escondidas
 
 1366
@@ -6345,8 +6345,8 @@ no centro de um labirinto.
 
 1367
 01:47:50,298 --> 01:47:53,360
-Há um segredo em Adventure
-que não se encontra ganhando.
+HÃ¡ um segredo em Adventure
+que nÃ£o se encontra ganhando.
 
 1368
 01:47:54,205 --> 01:47:56,265
@@ -6355,31 +6355,31 @@ num quarto escuro.
 
 1369
 01:47:56,968 --> 01:47:58,638
-Até chegar ao ponto invisível.
+AtÃ© chegar ao ponto invisÃ­vel.
 
 1370
 01:47:58,768 --> 01:48:00,548
-É bem fácil,
+Ã‰ bem fÃ¡cil,
 se souber o que faz.
 
 1371
 01:48:00,674 --> 01:48:02,075
-Sério?
+SÃ©rio?
 
 1372
 01:48:02,457 --> 01:48:04,038
-Deixe-me terminá-lo
-para você.
+Deixe-me terminÃ¡-lo
+para vocÃª.
 
 1373
 01:48:08,812 --> 01:48:11,337
-Sua última chance, Wade.
-A última.
+Sua Ãºltima chance, Wade.
+A Ãºltima.
 
 1374
 01:48:12,485 --> 01:48:14,778
-Me dê a chave.
-Te darei 50 milhões,
+Me dÃª a chave.
+Te darei 50 milhÃµes,
 
 1375
 01:48:14,781 --> 01:48:17,140
@@ -6393,22 +6393,22 @@ eu faria isso?
 
 1377
 01:48:22,256 --> 01:48:24,175
-Bobão, é o Cataclista!
+BobÃ£o, Ã© o Cataclista!
 
 1378
 01:48:24,181 --> 01:48:27,902
-Pessoalmente não me importaria
-em não voltar ao OASIS,
+Pessoalmente nÃ£o me importaria
+em nÃ£o voltar ao OASIS,
 
 1379
 01:48:27,904 --> 01:48:29,938
-e não ter que lidar
+e nÃ£o ter que lidar
 com esse absurdo,
 
 1380
 01:48:29,941 --> 01:48:33,914
-mas sei da importância
-da competição para você.
+mas sei da importÃ¢ncia
+da competiÃ§Ã£o para vocÃª.
 
 1381
 01:48:35,287 --> 01:48:37,654
@@ -6417,13 +6417,13 @@ que o futuro do OASIS
 
 1382
 01:48:37,657 --> 01:48:39,536
-caia em suas mãos,
+caia em suas mÃ£os,
 Nolan Sorrento.
 
 1383
 01:48:39,623 --> 01:48:41,898
-Está bem.
-Três passos fáceis.
+EstÃ¡ bem.
+TrÃªs passos fÃ¡ceis.
 
 1384
 01:48:42,959 --> 01:48:45,028
@@ -6433,16 +6433,16 @@ Três passos fáceis.
 1385
 01:48:45,031 --> 01:48:47,925
 Sabe que vai nos matar?
-Há 10 anos isso está em mim.
+HÃ¡ 10 anos isso estÃ¡ em mim.
 
 1386
 01:48:48,237 --> 01:48:50,997
-- Última chance. Dois.
-- Não vou morrer assim.
+- Ãšltima chance. Dois.
+- NÃ£o vou morrer assim.
 
 1387
 01:48:51,125 --> 01:48:54,069
-Não é justo. Não sabe
+NÃ£o Ã© justo. NÃ£o sabe
 nem ativar um Orbe.
 
 1388
@@ -6451,7 +6451,7 @@ Eu senti isso.
 
 1389
 01:49:08,621 --> 01:49:10,291
-Mas este é meu mundo,
+Mas este Ã© meu mundo,
 Sorrento.
 
 1390
@@ -6460,16 +6460,16 @@ Sorrento.
 
 1391
 01:49:35,823 --> 01:49:37,767
-- Não, não, não!
-- Passo três.
+- NÃ£o, nÃ£o, nÃ£o!
+- Passo trÃªs.
 
 1392
 01:49:38,254 --> 01:49:39,656
-Não, não, não!
+NÃ£o, nÃ£o, nÃ£o!
 
 1393
 01:50:37,342 --> 01:50:38,744
-Me tirem desse negócio.
+Me tirem desse negÃ³cio.
 
 1394
 01:50:54,856 --> 01:50:56,258
@@ -6477,7 +6477,7 @@ Pessoal?
 
 1395
 01:51:02,947 --> 01:51:04,437
-Z, ele ainda está vivo!
+Z, ele ainda estÃ¡ vivo!
 
 1396
 01:51:09,632 --> 01:51:11,033
@@ -6493,7 +6493,7 @@ Obrigado, Curador.
 
 1399
 01:51:20,590 --> 01:51:21,992
-Espera aí.
+Espera aÃ­.
 
 1400
 01:51:24,361 --> 01:51:25,763
@@ -6507,7 +6507,7 @@ PELA CHAVE DE CRISTAL
 
 1402
 01:51:30,021 --> 01:51:32,191
-Transmissão em todos
+TransmissÃ£o em todos
 os canais de OASIS.
 
 1403
@@ -6517,22 +6517,22 @@ vissem o fim do jogo.
 
 1404
 01:51:35,182 --> 01:51:36,835
-Isso é tão Halliday!
+Isso Ã© tÃ£o Halliday!
 
 1405
 01:51:37,350 --> 01:51:40,131
-- Nós testamos o Adventure.
-- Não, tentamos ganhar.
+- NÃ³s testamos o Adventure.
+- NÃ£o, tentamos ganhar.
 
 1406
 01:51:40,387 --> 01:51:42,662
 Mas o quarto oculto
-não é o fim do jogo.
+nÃ£o Ã© o fim do jogo.
 
 1407
 01:51:42,874 --> 01:51:45,600
 Tem que ir direto
-ao ponto invisível para começar.
+ao ponto invisÃ­vel para comeÃ§ar.
 
 1408
 01:51:49,141 --> 01:51:50,542
@@ -6540,17 +6540,17 @@ ALISTE-SE HOJE
 
 1409
 01:51:59,259 --> 01:52:01,168
-- É ela?
+- Ã‰ ela?
 - Ruiva,
 
 1410
 01:52:01,530 --> 01:52:04,183
 uniforme de IOI,
-não sabe em que planeta está?
+nÃ£o sabe em que planeta estÃ¡?
 
 1411
 01:52:04,520 --> 01:52:05,922
-É ela.
+Ã‰ ela.
 
 1412
 01:52:17,383 --> 01:52:19,421
@@ -6559,7 +6559,7 @@ Me conhece como Daito.
 
 1413
 01:52:26,800 --> 01:52:28,201
-E aí, Arty.
+E aÃ­, Arty.
 
 1414
 01:52:30,220 --> 01:52:31,621
@@ -6567,11 +6567,11 @@ Sim, eu sei.
 
 1415
 01:52:32,584 --> 01:52:33,986
-Não é o que esperava.
+NÃ£o Ã© o que esperava.
 
 1416
 01:52:34,064 --> 01:52:36,419
-Sim, não esperava uma...
+Sim, nÃ£o esperava uma...
 
 1417
 01:52:37,029 --> 01:52:38,883
@@ -6585,17 +6585,17 @@ Wade?
 1419
 01:52:42,721 --> 01:52:45,169
 Se o Cataclista foi ativado,
-como está jogando?
+como estÃ¡ jogando?
 
 1420
 01:52:45,176 --> 01:52:47,737
-Vida extra. Longa história.
+Vida extra. Longa histÃ³ria.
 Desculpe pelo tiro.
 
 1421
 01:52:50,067 --> 01:52:52,261
 - Sho?
-- O quê?
+- O quÃª?
 
 1422
 01:52:52,322 --> 01:52:54,104
@@ -6609,17 +6609,17 @@ me mate primeiro"?
 
 1424
 01:52:56,757 --> 01:52:58,650
-- Não, obrigado.
-- Me dê um abraço!
+- NÃ£o, obrigado.
+- Me dÃª um abraÃ§o!
 
 1425
 01:52:58,673 --> 01:53:01,564
-- Ninjas não abraçam!
+- Ninjas nÃ£o abraÃ§am!
 - Pessoal, segurem firme!
 
 1426
 01:53:22,974 --> 01:53:24,376
-Peguei vocês.
+Peguei vocÃªs.
 
 1427
 01:53:27,893 --> 01:53:29,424
@@ -6628,8 +6628,8 @@ Atenda.
 
 1428
 01:53:31,987 --> 01:53:34,097
-F'nale, me dê
-boas notícias.
+F'nale, me dÃª
+boas notÃ­cias.
 
 1429
 01:53:34,979 --> 01:53:37,263
@@ -6655,21 +6655,21 @@ Saia!
 
 1434
 01:53:56,564 --> 01:53:57,966
-Me dê isso.
+Me dÃª isso.
 
 1435
 01:54:02,720 --> 01:54:04,692
-O que está rolando lá fora?
+O que estÃ¡ rolando lÃ¡ fora?
 
 1436
 01:54:08,956 --> 01:54:11,619
 O jogo acabou para eles.
-O que estão assistindo?
+O que estÃ£o assistindo?
 
 1437
 01:54:13,930 --> 01:54:16,396
 A fase final.
-Está sendo transmitida.
+EstÃ¡ sendo transmitida.
 
 1438
 01:54:18,301 --> 01:54:22,087
@@ -6684,32 +6684,32 @@ quem havia feito.</i>
 1440
 01:54:25,705 --> 01:54:28,438
 Por isso ele criou o primeiro
-ovo de páscoa digital.
+ovo de pÃ¡scoa digital.
 
 1441
 01:54:28,744 --> 01:54:31,398
-E para encontrá-lo
-você nem precisava vencer.
+E para encontrÃ¡-lo
+vocÃª nem precisava vencer.
 
 1442
 01:54:31,399 --> 01:54:35,300
-Você só precisava
+VocÃª sÃ³ precisava
 ficar procurando
 
 1443
 01:54:35,301 --> 01:54:39,064
 em salas
-por um ponto invisível.
+por um ponto invisÃ­vel.
 
 1444
 01:54:39,613 --> 01:54:42,442
-Você levava o ponto
+VocÃª levava o ponto
 de volta para a tela inicial
 
 1445
 01:54:42,443 --> 01:54:46,936
-e aí você encontrava o primeiro
-ovo de páscoa num videogame.
+e aÃ­ vocÃª encontrava o primeiro
+ovo de pÃ¡scoa num videogame.
 
 1446
 01:54:46,937 --> 01:54:48,339
@@ -6721,8 +6721,8 @@ CRIADO POR WARREN ROBINETT
 
 1448
 01:55:12,692 --> 01:55:14,635
-O que está acontecendo?
-Não vejo nada.
+O que estÃ¡ acontecendo?
+NÃ£o vejo nada.
 
 1449
 01:55:14,636 --> 01:55:16,261
@@ -6731,30 +6731,30 @@ a Chave Cristal!
 
 1450
 01:55:31,380 --> 01:55:33,347
-Você quer ou não?
+VocÃª quer ou nÃ£o?
 
 1451
 01:55:36,420 --> 01:55:38,485
-Aech, o que está acontecendo?
+Aech, o que estÃ¡ acontecendo?
 
 1452
 01:55:38,486 --> 01:55:40,609
 Praticando Mario Kart.
-O que você acha?
+O que vocÃª acha?
 
 1453
 01:55:40,610 --> 01:55:42,219
-IOI está tentando nos matar!
+IOI estÃ¡ tentando nos matar!
 
 1454
 01:55:56,846 --> 01:55:59,458
-Todos assistindo, se estão
+Todos assistindo, se estÃ£o
 nas pilhas de Columbus,
 
 1455
 01:55:59,459 --> 01:56:02,226
-aqui é Parzival. Meu nome
-no mundo real é Wade Watts.
+aqui Ã© Parzival. Meu nome
+no mundo real Ã© Wade Watts.
 
 1456
 01:56:02,227 --> 01:56:03,528
@@ -6762,8 +6762,8 @@ Vamos precisar de ajuda.
 
 1457
 01:56:03,529 --> 01:56:06,678
-- Aech, vá para as pilhas.
-- Certo! Segurem aí!
+- Aech, vÃ¡ para as pilhas.
+- Certo! Segurem aÃ­!
 
 1458
 01:56:31,998 --> 01:56:34,141
@@ -6776,22 +6776,22 @@ Vai.
 
 1460
 01:57:06,479 --> 01:57:09,518
-- É isto?
-- Sim, é isto.
+- Ã‰ isto?
+- Sim, Ã© isto.
 
 1461
 01:57:09,519 --> 01:57:14,525
-Agora, assine estes papéis
-e o OASIS é seu.
+Agora, assine estes papÃ©is
+e o OASIS Ã© seu.
 
 1462
 01:57:14,526 --> 01:57:19,195
-Você será o único
-proprietário.
+VocÃª serÃ¡ o Ãºnico
+proprietÃ¡rio.
 
 1463
 01:57:19,196 --> 01:57:21,499
-Nada mal, não é?
+Nada mal, nÃ£o Ã©?
 
 1464
 01:57:42,556 --> 01:57:43,958
@@ -6799,7 +6799,7 @@ Vou precisar de um segundo.
 
 1465
 01:58:12,222 --> 01:58:13,623
-Isto está errado.
+Isto estÃ¡ errado.
 
 1466
 01:58:14,943 --> 01:58:17,856
@@ -6807,12 +6807,12 @@ Esta caneta, este contrato.
 
 1467
 01:58:20,985 --> 01:58:22,487
-É o momento
+Ã‰ o momento
 em que Halliday fez
 
 1468
 01:58:22,488 --> 01:58:24,891
-Morrow assinar as ações
+Morrow assinar as aÃ§Ãµes
 em Gregarious.
 
 1469
@@ -6826,16 +6826,16 @@ Ele sabia disso.
 
 1471
 01:58:31,932 --> 01:58:33,704
-Isto não pode ser o fim.
+Isto nÃ£o pode ser o fim.
 
 1472
 01:58:35,136 --> 01:58:36,658
-É um teste.
+Ã‰ um teste.
 
 1473
 01:58:41,506 --> 01:58:43,999
-Não cometerei o mesmo erro
-que você cometeu.
+NÃ£o cometerei o mesmo erro
+que vocÃª cometeu.
 
 1474
 01:58:49,782 --> 01:58:51,584
@@ -6843,20 +6843,20 @@ Que bom.
 
 1475
 01:58:54,450 --> 01:58:57,644
-Eu só precisava ter certeza.
+Eu sÃ³ precisava ter certeza.
 
 1476
 01:59:11,831 --> 01:59:13,513
-Foi aqui que você cresceu.
+Foi aqui que vocÃª cresceu.
 
 1477
 01:59:23,165 --> 01:59:26,433
 Esse sou eu
-muito tempo atrás.
+muito tempo atrÃ¡s.
 
 1478
 01:59:26,434 --> 01:59:29,257
-Gosto de tê-lo por perto
+Gosto de tÃª-lo por perto
 de vez em quando.
 
 1479
@@ -6866,36 +6866,36 @@ Preciso te mostrar uma coisa.
 1480
 01:59:32,113 --> 01:59:35,841
 Esse... Venha.
-Esse é o botão.
+Esse Ã© o botÃ£o.
 
 1481
 01:59:35,842 --> 01:59:39,114
-Se apertá-lo,
-toda a simulação vai desligar,
+Se apertÃ¡-lo,
+toda a simulaÃ§Ã£o vai desligar,
 
 1482
 01:59:39,115 --> 01:59:42,779
-e um vírus vai apagar
+e um vÃ­rus vai apagar
 todos os servidores de backup.
 
 1483
 01:59:42,780 --> 01:59:46,586
-Agora você tem o poder
+Agora vocÃª tem o poder
 de deletar o OASIS para sempre.
 
 1484
 01:59:46,587 --> 01:59:47,989
-Você entende?
+VocÃª entende?
 
 1485
 01:59:53,945 --> 01:59:58,951
-Tente não deletar acidentalmente
+Tente nÃ£o deletar acidentalmente
 o OASIS no seu primeiro dia.
 
 1486
 02:00:08,618 --> 02:00:10,460
 As pilhas
-estão na nossa frente.
+estÃ£o na nossa frente.
 
 1487
 02:00:26,287 --> 02:00:29,199
@@ -6904,8 +6904,8 @@ sei que eu preciso.
 
 1488
 02:00:29,200 --> 02:00:34,206
-É hora de receber seu prêmio
-porque conseguiu as três chaves.
+Ã‰ hora de receber seu prÃªmio
+porque conseguiu as trÃªs chaves.
 
 1489
 02:00:34,207 --> 02:00:38,602
@@ -6926,7 +6926,7 @@ Sabemos o que fez aqui.
 
 1493
 02:00:51,829 --> 02:00:54,642
-Dê meia-volta
+DÃª meia-volta
 e saia daqui enquanto pode.
 
 1494
@@ -6940,7 +6940,7 @@ no mundo real.
 
 1496
 02:01:15,078 --> 02:01:18,939
-Não sabia como me conectar
+NÃ£o sabia como me conectar
 com as pessoas.
 
 1497
@@ -6950,7 +6950,7 @@ a minha vida inteira.
 
 1498
 02:01:22,984 --> 02:01:25,947
-Até o dia em que soube
+AtÃ© o dia em que soube
 que minha vida estava acabando.
 
 1499
@@ -6959,7 +6959,7 @@ E foi quando percebi
 
 1500
 02:01:36,288 --> 02:01:38,345
-o quão assustadora
+o quÃ£o assustadora
 
 1501
 02:01:38,346 --> 02:01:42,341
@@ -6968,16 +6968,16 @@ a realidade pode ser,
 
 1502
 02:01:42,342 --> 02:01:43,853
-e também
+e tambÃ©m
 
 1503
 02:01:44,632 --> 02:01:47,105
-o único lugar
+o Ãºnico lugar
 
 1504
 02:01:48,028 --> 02:01:49,875
-onde você tem
-uma refeição decente.
+onde vocÃª tem
+uma refeiÃ§Ã£o decente.
 
 1505
 02:01:56,349 --> 02:01:57,791
@@ -6989,7 +6989,7 @@ a realidade...
 
 1507
 02:02:06,261 --> 02:02:07,763
-é real.
+Ã© real.
 
 1508
 02:02:08,195 --> 02:02:09,938
@@ -7009,7 +7009,7 @@ Ele pegou o ovo.
 
 1512
 02:02:31,817 --> 02:02:33,789
-Não! Por favor!
+NÃ£o! Por favor!
 
 1513
 02:03:07,012 --> 02:03:08,414
@@ -7018,16 +7018,16 @@ Parado!
 1514
 02:03:10,241 --> 02:03:13,956
 Largue a arma!
-No chão, agora!
+No chÃ£o, agora!
 
 1515
 02:03:13,957 --> 02:03:16,370
 Vire-se!
-Mãos na cabeça!
+MÃ£os na cabeÃ§a!
 
 1516
 02:03:16,686 --> 02:03:18,398
-Ande de costas até mim!
+Ande de costas atÃ© mim!
 
 1517
 02:03:23,354 --> 02:03:25,416
@@ -7039,19 +7039,19 @@ Sr. Halliday...
 
 1519
 02:03:36,726 --> 02:03:38,538
-tem algo que não entendi.
+tem algo que nÃ£o entendi.
 
 1520
 02:03:39,344 --> 02:03:41,927
-Você não é um avatar, é?
+VocÃª nÃ£o Ã© um avatar, Ã©?
 
 1521
 02:03:42,674 --> 02:03:44,076
-Não.
+NÃ£o.
 
 1522
 02:03:45,838 --> 02:03:47,730
-Halliday está morto mesmo?
+Halliday estÃ¡ morto mesmo?
 
 1523
 02:03:49,442 --> 02:03:50,844
@@ -7059,7 +7059,7 @@ Sim.
 
 1524
 02:03:56,734 --> 02:03:58,406
-Então quem é você?
+EntÃ£o quem Ã© vocÃª?
 
 1525
 02:04:01,812 --> 02:04:03,694
@@ -7089,25 +7089,25 @@ Podem me chamar de Og.
 1531
 02:04:45,610 --> 02:04:48,613
 Tem umas pessoas aqui
-que gostariam de conhecê-lo.
+que gostariam de conhecÃª-lo.
 
 1532
 02:04:49,080 --> 02:04:52,020
-Isto é incrível.
+Isto Ã© incrÃ­vel.
 
 1533
 02:04:52,021 --> 02:04:55,706
-É uma honra
-conhecer você, Og.
+Ã‰ uma honra
+conhecer vocÃª, Og.
 
 1534
 02:04:59,082 --> 02:05:01,004
-Há algo
+HÃ¡ algo
 que preciso fazer primeiro.
 
 1535
 02:05:04,941 --> 02:05:06,713
-Não sou como o Halliday.
+NÃ£o sou como o Halliday.
 
 1536
 02:05:10,487 --> 02:05:12,189
@@ -7124,8 +7124,8 @@ Precisamos de depoimento
 
 1539
 02:05:33,262 --> 02:05:36,301
-sobre o vídeo que enviou
-da confissão de Nolan Sorrento.
+sobre o vÃ­deo que enviou
+da confissÃ£o de Nolan Sorrento.
 
 1540
 02:05:37,243 --> 02:05:38,645
@@ -7133,7 +7133,7 @@ Foi eu.
 
 1541
 02:05:39,178 --> 02:05:41,830
-Quê?
+QuÃª?
 Eu gravo tudo na minha oficina.
 
 1542
@@ -7142,12 +7142,12 @@ Me ajude aqui.
 
 1543
 02:05:56,513 --> 02:05:57,915
-Quem são vocês?
+Quem sÃ£o vocÃªs?
 
 1544
 02:05:58,686 --> 02:06:00,672
 As pessoas
-que você precisa agora.
+que vocÃª precisa agora.
 
 1545
 02:06:00,673 --> 02:06:03,306
@@ -7159,7 +7159,7 @@ Querem sua assinatura, Wade.
 
 1547
 02:06:15,357 --> 02:06:17,299
-Vou compartilhar com eu clã.
+Vou compartilhar com eu clÃ£.
 
 1548
 02:06:17,702 --> 02:06:19,505
@@ -7167,12 +7167,12 @@ Vamos comandar juntos.
 
 1549
 02:06:24,051 --> 02:06:25,733
-É uma boa escolha.
+Ã‰ uma boa escolha.
 
 1550
 02:06:54,003 --> 02:06:57,126
 F'Nale,
-me escute com atenção...
+me escute com atenÃ§Ã£o...
 
 1551
 02:07:06,201 --> 02:07:08,774
@@ -7181,12 +7181,12 @@ Digo, Og.
 
 1552
 02:07:09,165 --> 02:07:10,824
-Como chegou aqui tão rápido?
+Como chegou aqui tÃ£o rÃ¡pido?
 
 1553
 02:07:10,825 --> 02:07:13,076
 Voei pelas estrelas
-no meu trenó mágico.
+no meu trenÃ³ mÃ¡gico.
 
 1554
 02:07:13,950 --> 02:07:15,472
@@ -7199,11 +7199,11 @@ do que os outros.
 
 1556
 02:07:23,262 --> 02:07:24,664
-Você?
+VocÃª?
 
 1557
 02:07:25,105 --> 02:07:26,606
-Você é o Curador?
+VocÃª Ã© o Curador?
 
 1558
 02:07:30,089 --> 02:07:32,096
@@ -7211,17 +7211,17 @@ Muito bem, Parzival.
 
 1559
 02:07:33,602 --> 02:07:35,713
-Jim não me contou nada
+Jim nÃ£o me contou nada
 sobre o concurso,
 
 1560
 02:07:35,714 --> 02:07:39,123
-não havia regra sobre perder
+nÃ£o havia regra sobre perder
 aposta para um garoto esperto.
 
 1561
 02:07:39,124 --> 02:07:41,127
-Não que precisasse
+NÃ£o que precisasse
 da minha ajuda.
 
 1562
@@ -7232,11 +7232,11 @@ que Kira era a chave.
 1563
 02:07:46,013 --> 02:07:48,970
 Sim, mas...
-Kira não era a chave.
+Kira nÃ£o era a chave.
 
 1564
 02:07:49,946 --> 02:07:51,658
-Era você, Sr. Morrow.
+Era vocÃª, Sr. Morrow.
 
 1565
 02:07:51,927 --> 02:07:53,228
@@ -7244,7 +7244,7 @@ E...
 
 1566
 02:07:53,905 --> 02:07:55,417
-Você era Rosebud.
+VocÃª era Rosebud.
 
 1567
 02:07:55,846 --> 02:07:58,069
@@ -7253,7 +7253,7 @@ de Halliday foi...
 
 1568
 02:07:59,805 --> 02:08:01,517
-perder o único amigo.
+perder o Ãºnico amigo.
 
 1569
 02:08:05,594 --> 02:08:10,430
@@ -7266,12 +7266,12 @@ Agora, o que temos aqui?
 
 1571
 02:08:18,011 --> 02:08:21,277
-Olha só quem são.
-Meus heróis, os Cinco do Topo.
+Olha sÃ³ quem sÃ£o.
+Meus herÃ³is, os Cinco do Topo.
 
 1572
 02:08:21,278 --> 02:08:23,051
-- Você deve ser Art3mis?
+- VocÃª deve ser Art3mis?
 - Samantha.
 
 1573
@@ -7287,12 +7287,12 @@ que fizemos</i>
 1575
 02:08:26,603 --> 02:08:30,247
 <i>foi assinar com Ogden Morrow
-para consultoria não exclusiva.</i>
+para consultoria nÃ£o exclusiva.</i>
 
 1576
 02:08:30,248 --> 02:08:33,212
-<i>O salário,
-por exigência dele,</i>
+<i>O salÃ¡rio,
+por exigÃªncia dele,</i>
 
 1577
 02:08:33,213 --> 02:08:36,477
@@ -7301,7 +7301,7 @@ Uma moeda.</i>
 
 1578
 02:08:39,445 --> 02:08:41,448
-<i>Sob orientação dele,
+<i>Sob orientaÃ§Ã£o dele,
 nossa segunda medida</i>
 
 1579
@@ -7311,7 +7311,7 @@ de Lealdade acessarem o OASIS.</i>
 
 1580
 02:08:45,368 --> 02:08:47,613
-<i>IOI não teve escolha.</i>
+<i>IOI nÃ£o teve escolha.</i>
 
 1581
 02:08:47,614 --> 02:08:49,176
@@ -7320,17 +7320,17 @@ de Lealdade acessarem o OASIS.</i>
 1582
 02:08:51,529 --> 02:08:54,143
 <i>A terceira coisa que fizemos
-não foi popular.</i>
+nÃ£o foi popular.</i>
 
 1583
 02:08:54,587 --> 02:08:58,041
 <i>Fechamos o OASIS
-às terças e quintas.</i>
+Ã s terÃ§as e quintas.</i>
 
 1584
 02:08:58,503 --> 02:09:01,269
 <i>Sei que parece
-uma decisão estranha,</i>
+uma decisÃ£o estranha,</i>
 
 1585
 02:09:01,270 --> 02:09:04,394
@@ -7339,15 +7339,15 @@ passar mais tempo no mundo real.</i>
 
 1586
 02:09:05,621 --> 02:09:08,375
-<i>Porque é como Halliday disse:</i>
+<i>Porque Ã© como Halliday disse:</i>
 
 1587
 02:09:08,820 --> 02:09:11,831
-<i>"A realidade é a única coisa</i>
+<i>"A realidade Ã© a Ãºnica coisa</i>
 
 1588
 02:09:12,287 --> 02:09:14,290
-<i>que é real."</i>
+<i>que Ã© real."</i>
 
 1589
 02:09:14,315 --> 02:09:16,818
