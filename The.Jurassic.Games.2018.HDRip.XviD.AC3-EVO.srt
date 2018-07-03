@@ -1,109 +1,94 @@
-﻿1
+1
 00:00:10,868 --> 00:00:15,868
-Obrigado por assitirem conosco smartflix.tv
+Traduçao por Robson = KillerBee
 
 2
 00:00:40,815 --> 00:00:43,230
-A startling verdict
-in what many are calling
+Um veredicto surpreendente em que muitos estão chamando
 
 3
 00:00:43,232 --> 00:00:46,273
-the most controversial
-murder trial in years.
+o julgamento de assassinato mais controverso nos últimos anos.
 
 4
 00:00:46,275 --> 00:00:49,525
-Anthony Tucker found guilty
-of first degree murder.
+Anthony Tucker considerado culpado de assassinato em primeiro grau.
 
 5
 00:00:58,275 --> 00:01:00,023
-My client maintains
-his innocence.
+Meu cliente mantém sua inocência.
 
 6
 00:01:00,025 --> 00:01:01,563
-We have no comment at this time.
+Nós não temos nenhum comentário neste momento.
 
 7
 00:01:01,565 --> 00:01:02,565
-How could you
-do that to your wife?
+Como você pôde fazer isso com sua esposa?
 
 8
 00:01:13,357 --> 00:01:15,980
-Anthony Tucker, I am
-honored to formally invite you
+Anthony Tucker, tenho a honra de convidá-lo formalmente
 
 9
 00:01:15,982 --> 00:01:18,480
-to participate as a
-contestant on this year's
+para participar como um concorrente neste ano de
 
 10
 00:01:18,482 --> 00:01:20,313
-Jurassic Games.
+Jogos Jurássico.
 
 11
 00:01:20,315 --> 00:01:21,482
-Do you accept?
+Você aceita?
 
 12
 00:01:26,315 --> 00:01:27,150
-Yes.
+Sim.
 
 13
 00:01:34,857 --> 00:01:37,355
-In entertainment news,
-this year's contestants
+Em notícias de entretenimento, os concorrentes deste ano
 
 14
 00:01:37,357 --> 00:01:39,480
-for the Jurassic Games
-have been chosen.
+para os Jogos Jurássico foram escolhidos.
 
 15
 00:01:39,482 --> 00:01:41,023
-I don't even care
-about the contestants,
+Eu nem sequer se preocupam com os concorrentes,
 
 16
 00:01:41,025 --> 00:01:43,771
-I wanna see the hot host and
-what he's gonna be wearing
+Eu quero ver o anfitrião quente e que ele vai estar vestindo
 
 17
 00:01:43,773 --> 00:01:46,313
-and saying, that's
-what I wanna watch.
+e dizendo, isso é o que eu quero ver.
 
 18
 00:01:46,315 --> 00:01:47,648
-Ooh, I can't wait!
+Ooh, eu não posso esperar!
 
 19
 00:02:25,482 --> 00:02:27,980
-It feels real, doesn't it?
+Ele parece real, não é?
 
 20
 00:02:27,982 --> 00:02:29,815
-The sand on your skin.
+A areia em sua pele.
 
 21
 00:02:31,025 --> 00:02:34,648
-The sun on your face,
-the taste in your mouth.
+O sol em seu rosto, o sabor em sua boca.
 
 22
 00:02:34,650 --> 00:02:38,023
-Well to all of you this
-world is absolutely real.
+Well to all of you this world is absolutely real.
 
 23
 00:02:38,025 --> 00:02:41,688
-The danger is real
-and the pain is real.
+The danger is real and the pain is real.
 
 24
 00:02:41,690 --> 00:02:43,400
@@ -115,13 +100,11 @@ Oh, oh, be careful with that.
 
 26
 00:02:46,400 --> 00:02:50,150
-I'll need you to do
-as I say or boom.
+I'll need you to do as I say or boom.
 
 27
 00:02:53,065 --> 00:02:57,063
-You all know that
-when you die in here,
+You all know that when you die in here,
 
 28
 00:02:57,065 --> 00:02:58,482
@@ -129,8 +112,7 @@ you die for real.
 
 29
 00:02:59,732 --> 00:03:02,273
-All of you are in
-here for one reason.
+All of you are in here for one reason.
 
 30
 00:03:02,275 --> 00:03:03,940
@@ -142,13 +124,11 @@ To go home.
 
 32
 00:03:07,440 --> 00:03:10,355
-You can avoid the death you
-justly deserve by surviving,
+You can avoid the death you justly deserve by surviving,
 
 33
 00:03:10,357 --> 00:03:12,438
-by fighting, by
-confronting your fears
+by fighting, by confronting your fears
 
 34
 00:03:12,440 --> 00:03:14,775
@@ -156,18 +136,15 @@ and proving your worthiness.
 
 35
 00:03:15,940 --> 00:03:19,605
-Your goal is to be
-the sole survivor.
+Your goal is to be the sole survivor.
 
 36
 00:03:19,607 --> 00:03:21,730
-Find yourself the last
-man or woman standing
+Find yourself the last man or woman standing
 
 37
 00:03:21,732 --> 00:03:23,938
-and you will win a full
-pardon, you will go home,
+and you will win a full pardon, you will go home,
 
 38
 00:03:23,940 --> 00:03:26,940
@@ -175,8 +152,7 @@ free, alive, exonerated.
 
 39
 00:03:28,650 --> 00:03:31,105
-Now it will be tempting
-to kill each other,
+Now it will be tempting to kill each other,
 
 40
 00:03:31,107 --> 00:03:32,398
@@ -184,13 +160,11 @@ there's no rules against that,
 
 41
 00:03:32,400 --> 00:03:34,605
-but please if you
-would be so kind,
+but please if you would be so kind,
 
 42
 00:03:34,607 --> 00:03:36,605
-try to leave at least
-some of you alive
+try to leave at least some of you alive
 
 43
 00:03:36,607 --> 00:03:38,188
@@ -214,38 +188,31 @@ A temporary safe zone.
 
 48
 00:03:48,815 --> 00:03:51,231
-Now your collars will
-alert you when you arrive.
+Now your collars will alert you when you arrive.
 
 49
 00:03:51,233 --> 00:03:53,647
-Red, you're too far
-away, yellow means
+Red, you're too far away, yellow means
 
 50
 00:03:53,649 --> 00:03:56,147
-you're getting closer, and
-green means you have reached
+you're getting closer, and green means you have reached
 
 51
 00:03:56,149 --> 00:04:00,150
-the safe zone and completed
-your first challenge.
+the safe zone and completed your first challenge.
 
 52
 00:04:01,483 --> 00:04:04,813
-Reach the safe zone in
-one hour or you die.
+Reach the safe zone in one hour or you die.
 
 53
 00:04:04,815 --> 00:04:06,563
-Die here in the
-game and as you know
+Die here in the game and as you know
 
 54
 00:04:06,565 --> 00:04:08,731
-you will die in real
-life by lethal injection
+you will die in real life by lethal injection
 
 55
 00:04:08,733 --> 00:04:11,898
@@ -253,8 +220,7 @@ as been assigned by the state.
 
 56
 00:04:11,900 --> 00:04:15,606
-The pain you feel in this
-world will be real pain.
+The pain you feel in this world will be real pain.
 
 57
 00:04:15,608 --> 00:04:17,188
@@ -278,13 +244,11 @@ Congratulations to you all.
 
 62
 00:04:25,483 --> 00:04:28,688
-As of right now, you are no
-longer death row inmates.
+As of right now, you are no longer death row inmates.
 
 63
 00:04:28,690 --> 00:04:33,148
-You are contestants on the
-greatest game show in the world,
+You are contestants on the greatest game show in the world,
 
 64
 00:04:33,150 --> 00:04:35,023
@@ -324,23 +288,19 @@ Okay.
 
 73
 00:05:16,608 --> 00:05:20,188
-Alright everyone,
-we're going live in three, two...
+Alright everyone, we're going live in three, two...
 
 74
 00:05:21,565 --> 00:05:24,523
-They have less than 59
-minutes to reach the safe zone.
+They have less than 59 minutes to reach the safe zone.
 
 75
 00:05:24,525 --> 00:05:27,523
-So sit back, try to relax and
-enjoy, ladies and gentlemen.
+So sit back, try to relax and enjoy, ladies and gentlemen.
 
 76
 00:05:27,525 --> 00:05:30,231
-Because today is going
-to be a hell of a day
+Because today is going to be a hell of a day
 
 77
 00:05:30,233 --> 00:05:33,106
@@ -352,13 +312,11 @@ So far so good.
 
 79
 00:05:49,690 --> 00:05:53,356
-I mean that lineup
-is gorgeous on camera.
+I mean that lineup is gorgeous on camera.
 
 80
 00:05:53,358 --> 00:05:54,731
-I'm telling you right
-now we are hitting
+I'm telling you right now we are hitting
 
 81
 00:05:54,733 --> 00:05:56,438
@@ -378,8 +336,7 @@ Stay on the cannibal.
 
 85
 00:06:24,190 --> 00:06:25,688
-Stay outta my way,
-you piece of shit!
+Stay outta my way, you piece of shit!
 
 86
 00:06:25,690 --> 00:06:26,688
@@ -399,8 +356,7 @@ I can taste you!
 
 90
 00:06:53,565 --> 00:06:55,188
-Our contestants
-are frantically
+Our contestants are frantically
 
 91
 00:06:55,190 --> 00:06:57,063
@@ -408,18 +364,15 @@ trying to find the safe zone.
 
 92
 00:06:57,065 --> 00:06:58,981
-Don't worry, I'm sure
-most of them will.
+Don't worry, I'm sure most of them will.
 
 93
 00:06:58,983 --> 00:07:03,023
-But in the end, nine will
-die and one will win.
+But in the end, nine will die and one will win.
 
 94
 00:07:03,025 --> 00:07:07,063
-And this year's four stages
-are by far the best ever.
+And this year's four stages are by far the best ever.
 
 95
 00:07:07,065 --> 00:07:08,563
@@ -427,13 +380,11 @@ Stage one.
 
 96
 00:07:08,565 --> 00:07:10,938
-The contestants must survive
-being hunted by hungry dinosaurs
+The contestants must survive being hunted by hungry dinosaurs
 
 97
 00:07:10,940 --> 00:07:14,023
-long enough to find the
-temporary safe zone.
+long enough to find the temporary safe zone.
 
 98
 00:07:14,025 --> 00:07:15,606
@@ -445,13 +396,11 @@ The maze.
 
 100
 00:07:17,065 --> 00:07:19,648
-A deadly labyrinth filled with
-some of our fan favorites.
+A deadly labyrinth filled with some of our fan favorites.
 
 101
 00:07:19,650 --> 00:07:22,856
-That's right, the raptors
-are back this year.
+That's right, the raptors are back this year.
 
 102
 00:07:22,858 --> 00:07:25,731
@@ -459,8 +408,7 @@ Stage three, the minefield.
 
 103
 00:07:25,733 --> 00:07:27,563
-Tread lightly and you
-might walk out of this game
+Tread lightly and you might walk out of this game
 
 104
 00:07:27,565 --> 00:07:29,938
@@ -472,13 +420,11 @@ And our final stage this year?
 
 106
 00:07:34,315 --> 00:07:38,106
-You don't actually think I'm
-gonna give that away, do you?
+You don't actually think I'm gonna give that away, do you?
 
 107
 00:07:38,108 --> 00:07:41,231
-Let's just say you
-won't be disappointed.
+Let's just say you won't be disappointed.
 
 108
 00:07:41,233 --> 00:07:42,648
@@ -486,28 +432,23 @@ So stay tuned, fans!
 
 109
 00:07:42,650 --> 00:07:46,233
-Because the Jurassic
-Games start right now!
+Because the Jurassic Games start right now!
 
 110
 00:07:49,315 --> 00:07:51,106
-In the
-ultimate reality game show,
+In the ultimate reality game show,
 
 111
 00:07:52,190 --> 00:07:54,938
-10 death row inmates must
-survive a virtual world
+10 death row inmates must survive a virtual world
 
 112
 00:07:54,940 --> 00:07:59,356
-filled with the deadliest
-predators to ever roam the earth.
+filled with the deadliest predators to ever roam the earth.
 
 113
 00:07:59,358 --> 00:08:04,313
-William Davis, guilty on 23
-counts of drug-related homicide.
+William Davis, guilty on 23 counts of drug-related homicide.
 
 114
 00:08:04,315 --> 00:08:06,814
@@ -515,8 +456,7 @@ Ren Saizo, contract killer.
 
 115
 00:08:06,816 --> 00:08:10,064
-Guilty of the murder of
-a United States senator.
+Guilty of the murder of a United States senator.
 
 116
 00:08:10,066 --> 00:08:11,939
@@ -540,13 +480,11 @@ Brian, status report.
 
 121
 00:08:17,899 --> 00:08:20,023
-Games on alpha online,
-raptor AI online,
+Games on alpha online, raptor AI online,
 
 122
 00:08:20,025 --> 00:08:22,939
-prepping game zone beta,
-prepping to disengage rex one.
+prepping game zone beta, prepping to disengage rex one.
 
 123
 00:08:22,941 --> 00:08:24,314
@@ -558,8 +496,7 @@ Airtight.
 
 125
 00:08:25,482 --> 00:08:26,480
-46 attempts to
-breach our firewall
+46 attempts to breach our firewall
 
 126
 00:08:26,482 --> 00:08:28,189
@@ -583,18 +520,15 @@ Okay.
 
 131
 00:08:37,941 --> 00:08:40,564
-We never know who,
-we never know when.
+We never know who, we never know when.
 
 132
 00:08:40,566 --> 00:08:44,439
-But sadly we had to say
-goodbye to Dr. Eli Franklin.
+But sadly we had to say goodbye to Dr. Eli Franklin.
 
 133
 00:08:44,441 --> 00:08:46,105
-The first contestant
-to be eliminated
+The first contestant to be eliminated
 
 134
 00:08:46,107 --> 00:08:49,105
@@ -602,13 +536,11 @@ in this year's Jurassic Games.
 
 135
 00:08:56,941 --> 00:08:59,939
-Of course, we can't
-feel too sorry for him.
+Of course, we can't feel too sorry for him.
 
 136
 00:08:59,941 --> 00:09:02,480
-That guy liked to
-blow people up.
+That guy liked to blow people up.
 
 137
 00:09:02,482 --> 00:09:04,315
@@ -616,8 +548,7 @@ A lot.
 
 138
 00:09:11,275 --> 00:09:14,689
-What's going
-on with Dr. Franklin?
+What's going on with Dr. Franklin?
 
 139
 00:09:14,691 --> 00:09:15,816
@@ -633,18 +564,15 @@ God, he's so weird.
 
 142
 00:09:22,357 --> 00:09:25,482
-Hey wait, doc,
-you forgot your bag!
+Hey wait, doc, you forgot your bag!
 
 143
 00:09:28,982 --> 00:09:30,980
-I don't know about
-you, but honestly
+I don't know about you, but honestly
 
 144
 00:09:30,982 --> 00:09:33,648
-he wasn't one of my
-favorites anyway.
+he wasn't one of my favorites anyway.
 
 145
 00:09:33,650 --> 00:09:36,066
@@ -652,8 +580,7 @@ Only nine contestants remain.
 
 146
 00:10:18,066 --> 00:10:21,064
-Do you know where
-the safe zone is?
+Do you know where the safe zone is?
 
 147
 00:10:21,066 --> 00:10:21,900
@@ -669,8 +596,7 @@ What?
 
 150
 00:11:58,816 --> 00:12:01,650
-You're kind of a
-pussy, aren't you?
+You're kind of a pussy, aren't you?
 
 151
 00:12:06,025 --> 00:12:08,730
@@ -694,8 +620,7 @@ Lighten up.
 
 156
 00:12:20,941 --> 00:12:25,691
-Come on, I think the safe
-zone's this way and I'm scared.
+Come on, I think the safe zone's this way and I'm scared.
 
 157
 00:12:37,816 --> 00:12:38,648
@@ -719,33 +644,27 @@ Thank you.
 
 162
 00:12:58,066 --> 00:12:59,648
-I'm here with Bailey
-and Andrew Tucker.
+I'm here with Bailey and Andrew Tucker.
 
 163
 00:12:59,650 --> 00:13:02,064
-Thank you for taking the
-time to meet with me.
+Thank you for taking the time to meet with me.
 
 164
 00:13:02,066 --> 00:13:04,189
-Bailey, let's start
-with you, sweetheart.
+Bailey, let's start with you, sweetheart.
 
 165
 00:13:04,191 --> 00:13:05,439
-How do you feel
-about your father
+How do you feel about your father
 
 166
 00:13:05,441 --> 00:13:08,898
-being a contestant on
-the Jurassic Games?
+being a contestant on the Jurassic Games?
 
 167
 00:13:08,900 --> 00:13:12,732
-Um, this was his only
-chance to get out, so.
+Um, this was his only chance to get out, so.
 
 168
 00:13:14,025 --> 00:13:15,398
@@ -753,8 +672,7 @@ That's right.
 
 169
 00:13:15,400 --> 00:13:17,898
-If he wins, he will be
-pardoned of all of his crimes.
+If he wins, he will be pardoned of all of his crimes.
 
 170
 00:13:17,900 --> 00:13:19,564
@@ -766,8 +684,7 @@ And he didn't kill my mom!
 
 172
 00:13:21,066 --> 00:13:23,439
-Andrew stop, we're not
-supposed to talk about it.
+Andrew stop, we're not supposed to talk about it.
 
 173
 00:13:23,441 --> 00:13:25,023
@@ -779,8 +696,7 @@ Your mother's death was tragic.
 
 175
 00:13:28,150 --> 00:13:30,439
-I'm very sorry she can't
-be with you here today.
+I'm very sorry she can't be with you here today.
 
 176
 00:13:30,441 --> 00:13:32,105
@@ -788,8 +704,7 @@ Thank you.
 
 177
 00:13:32,107 --> 00:13:34,439
-Is there anything you'd
-like to say to your father?
+Is there anything you'd like to say to your father?
 
 178
 00:13:34,441 --> 00:13:35,480
@@ -813,8 +728,7 @@ Get him out of the games!
 
 183
 00:13:44,607 --> 00:13:46,440
-- Stop the games!
-- Andy.
+- Stop the games! - Andy.
 
 184
 00:13:47,441 --> 00:13:48,439
@@ -854,8 +768,7 @@ No more games!
 
 193
 00:13:59,482 --> 00:14:00,939
-I can't believe they
-made me talk to his kids.
+I can't believe they made me talk to his kids.
 
 194
 00:14:00,941 --> 00:14:02,773
@@ -867,8 +780,7 @@ What difference does it make?
 
 196
 00:14:05,025 --> 00:14:07,230
-Well, what if
-they found proof?
+Well, what if they found proof?
 
 197
 00:14:07,232 --> 00:14:08,730
@@ -876,8 +788,7 @@ You think they'd let him go?
 
 198
 00:14:08,732 --> 00:14:10,605
-If they find proof,
-we'll never hear about it.
+If they find proof, we'll never hear about it.
 
 199
 00:14:10,607 --> 00:14:11,605
@@ -897,18 +808,15 @@ So how close are they?
 
 203
 00:14:23,316 --> 00:14:24,398
-The audience is
-getting restless.
+The audience is getting restless.
 
 204
 00:14:24,400 --> 00:14:25,980
-A few minutes most,
-but they're good hunters.
+A few minutes most, but they're good hunters.
 
 205
 00:14:25,982 --> 00:14:27,230
-I thought we could
-build tension.
+I thought we could build tension.
 
 206
 00:14:27,232 --> 00:14:28,480
@@ -916,13 +824,11 @@ Build tension?
 
 207
 00:14:28,482 --> 00:14:30,898
-Our viewers don't care
-about tension, Brian.
+Our viewers don't care about tension, Brian.
 
 208
 00:14:30,900 --> 00:14:33,773
-They just wanna see the
-contestants die horribly.
+They just wanna see the contestants die horribly.
 
 209
 00:14:33,775 --> 00:14:36,107
@@ -934,8 +840,7 @@ And stay on Tucker.
 
 211
 00:14:41,316 --> 00:14:43,480
-The audience already is
-sympathetic with him.
+The audience already is sympathetic with him.
 
 212
 00:14:43,482 --> 00:14:45,773
@@ -959,13 +864,11 @@ Leave it alone.
 
 217
 00:15:05,357 --> 00:15:08,980
-I wonder what she was
-thinking when she died.
+I wonder what she was thinking when she died.
 
 218
 00:15:08,982 --> 00:15:11,523
-Some people can
-just turn it off.
+Some people can just turn it off.
 
 219
 00:15:11,525 --> 00:15:12,357
@@ -985,13 +888,11 @@ Loving daddy, good man.
 
 223
 00:15:23,066 --> 00:15:26,648
-It's clear why the world
-thinks you're innocent.
+It's clear why the world thinks you're innocent.
 
 224
 00:15:26,650 --> 00:15:30,566
-If it makes you feel any
-better, I believe you.
+If it makes you feel any better, I believe you.
 
 225
 00:15:31,816 --> 00:15:32,650
@@ -1015,8 +916,7 @@ Hey, you know what?
 
 230
 00:16:41,940 --> 00:16:43,563
-Can we get some wind,
-just to make him sway
+Can we get some wind, just to make him sway
 
 231
 00:16:43,565 --> 00:16:45,438
@@ -1040,8 +940,7 @@ Psychopath.
 
 236
 00:16:53,149 --> 00:16:56,647
-Words used to describe
-Sarah Laforte.
+Words used to describe Sarah Laforte.
 
 237
 00:16:56,649 --> 00:16:57,981
@@ -1049,18 +948,15 @@ The youngest death row inmate
 
 238
 00:16:57,983 --> 00:17:00,231
-to ever enter the
-Jurassic Games.
+to ever enter the Jurassic Games.
 
 239
 00:17:00,233 --> 00:17:02,356
-I had the opportunity
-to sit down with her
+I had the opportunity to sit down with her
 
 240
 00:17:02,358 --> 00:17:07,275
-and try to get inside the head
-of this cold-blooded killer.
+and try to get inside the head of this cold-blooded killer.
 
 241
 00:17:15,940 --> 00:17:16,775
@@ -1068,8 +964,7 @@ Sarah?
 
 242
 00:17:19,440 --> 00:17:22,690
-I just want to ask
-you a few questions.
+I just want to ask you a few questions.
 
 243
 00:17:32,065 --> 00:17:32,900
@@ -1081,13 +976,11 @@ My friends call me Joy.
 
 245
 00:17:38,025 --> 00:17:40,688
-Why do you prefer
-to be called Joy?
+Why do you prefer to be called Joy?
 
 246
 00:17:40,690 --> 00:17:43,525
-Because I'm such
-a happy person.
+Because I'm such a happy person.
 
 247
 00:17:44,525 --> 00:17:45,400
@@ -1095,8 +988,7 @@ Okay Joy.
 
 248
 00:17:47,525 --> 00:17:49,688
-What happened in your
-life that brought you here
+What happened in your life that brought you here
 
 249
 00:17:49,690 --> 00:17:51,357
@@ -1116,8 +1008,7 @@ Ah, well well well.
 
 253
 00:18:24,315 --> 00:18:27,398
-You are still hanging
-in there, aren't ya?
+You are still hanging in there, aren't ya?
 
 254
 00:18:27,400 --> 00:18:29,400
@@ -1129,13 +1020,11 @@ What do you got inside ya, huh?
 
 256
 00:18:32,733 --> 00:18:33,898
-Are you gonna let
-this little girl
+Are you gonna let this little girl
 
 257
 00:18:33,900 --> 00:18:35,648
-take you out of the
-game this early?
+take you out of the game this early?
 
 258
 00:18:35,650 --> 00:18:37,231
@@ -1151,23 +1040,19 @@ Jesus.
 
 261
 00:19:10,275 --> 00:19:13,608
-We must work together
-as long as we can.
+We must work together as long as we can.
 
 262
 00:19:18,733 --> 00:19:23,148
-There are things more
-terrible than us in this game.
+There are things more terrible than us in this game.
 
 263
 00:19:23,150 --> 00:19:27,150
-As individuals, we
-don't stand a chance!
+As individuals, we don't stand a chance!
 
 264
 00:19:29,275 --> 00:19:31,813
-There may still
-be a way to escape
+There may still be a way to escape
 
 265
 00:19:31,815 --> 00:19:33,482
@@ -1191,8 +1076,7 @@ We must go, now!
 
 270
 00:20:18,358 --> 00:20:20,981
-You're not
-planning on using that, are you?
+You're not planning on using that, are you?
 
 271
 00:20:20,983 --> 00:20:22,231
@@ -1212,8 +1096,7 @@ His children, Savannah?
 
 275
 00:20:30,733 --> 00:20:33,023
-You made me interview
-Tucker's children?
+You made me interview Tucker's children?
 
 276
 00:20:33,025 --> 00:20:34,273
@@ -1225,13 +1108,11 @@ People want him to win.
 
 278
 00:20:35,815 --> 00:20:37,898
-It's been a while since we had
-one that might be innocent.
+It's been a while since we had one that might be innocent.
 
 279
 00:20:37,900 --> 00:20:39,856
-His children
-believe that he is,
+His children believe that he is,
 
 280
 00:20:39,858 --> 00:20:40,856
@@ -1243,13 +1124,11 @@ get ripped to shreds on live TV.
 
 282
 00:20:43,690 --> 00:20:46,231
-Nobody's forcing
-you to be here.
+Nobody's forcing you to be here.
 
 283
 00:20:46,233 --> 00:20:49,148
-There are a number of
-people behind you that would
+There are a number of people behind you that would
 
 284
 00:20:49,150 --> 00:20:50,813
@@ -1261,8 +1140,7 @@ Younger, smarter, prettier.
 
 286
 00:20:54,900 --> 00:20:56,398
-They would put their
-first born in the game
+They would put their first born in the game
 
 287
 00:20:56,400 --> 00:20:57,563
@@ -1286,13 +1164,11 @@ Oh.
 
 292
 00:21:06,858 --> 00:21:09,563
-If you ever question
-an assignment again,
+If you ever question an assignment again,
 
 293
 00:21:09,565 --> 00:21:13,025
-you can go ahead and
-clean out your desk.
+you can go ahead and clean out your desk.
 
 294
 00:21:44,775 --> 00:21:47,023
@@ -1316,13 +1192,11 @@ Hi friend.
 
 299
 00:21:57,775 --> 00:22:01,313
-Do you happen to know which
-way it is to the safe zone?
+Do you happen to know which way it is to the safe zone?
 
 300
 00:22:01,315 --> 00:22:04,563
-We don't have much
-time to find it.
+We don't have much time to find it.
 
 301
 00:22:04,565 --> 00:22:06,650
@@ -1334,8 +1208,7 @@ We're lost.
 
 303
 00:22:10,233 --> 00:22:13,563
-We could die on the
-first challenge.
+We could die on the first challenge.
 
 304
 00:22:13,565 --> 00:22:15,606
@@ -1347,8 +1220,7 @@ Wait, stop!
 
 306
 00:22:19,315 --> 00:22:21,188
-The raptors have
-entered the canyon area.
+The raptors have entered the canyon area.
 
 307
 00:22:21,190 --> 00:22:22,188
@@ -1388,8 +1260,7 @@ I got a big stinger on my butt
 
 316
 00:22:44,858 --> 00:22:48,606
-and when I sting
-you I'm gonna die.
+and when I sting you I'm gonna die.
 
 317
 00:22:48,608 --> 00:22:49,688
@@ -1413,8 +1284,7 @@ Help me.
 
 322
 00:22:59,190 --> 00:23:02,107
-Help me get to the
-end, help me win.
+Help me get to the end, help me win.
 
 323
 00:23:03,108 --> 00:23:05,563
@@ -1422,13 +1292,11 @@ Why would we do that?
 
 324
 00:23:05,565 --> 00:23:08,356
-Because I can
-save your mother.
+Because I can save your mother.
 
 325
 00:23:08,358 --> 00:23:10,563
-What do you know
-about my mama, huh?
+What do you know about my mama, huh?
 
 326
 00:23:10,565 --> 00:23:12,773
@@ -1444,8 +1312,7 @@ I can get us all out of here.
 
 329
 00:23:16,690 --> 00:23:19,688
-You will be able to
-see your mother again.
+You will be able to see your mother again.
 
 330
 00:23:19,690 --> 00:23:20,900
@@ -1497,8 +1364,7 @@ Why did you stop the raptors?
 
 342
 00:24:07,565 --> 00:24:09,773
-Listen, it's called
-foreplay, Savannah.
+Listen, it's called foreplay, Savannah.
 
 343
 00:24:09,775 --> 00:24:11,731
@@ -1506,8 +1372,7 @@ You might wanna try it sometime.
 
 344
 00:24:11,733 --> 00:24:16,275
-Alright we're back
-in five, four, three, two.
+Alright we're back in five, four, three, two.
 
 345
 00:24:18,108 --> 00:24:20,438
@@ -1519,23 +1384,19 @@ Could this be an unholy alliance
 
 347
 00:24:22,483 --> 00:24:25,523
-between the Mason
-brothers and The Wasp?
+between the Mason brothers and The Wasp?
 
 348
 00:24:26,733 --> 00:24:29,063
-That would be a
-match made in hell.
+That would be a match made in hell.
 
 349
 00:24:29,065 --> 00:24:31,313
-And ladies and gentlemen,
-I would hate to see
+And ladies and gentlemen, I would hate to see
 
 350
 00:24:31,315 --> 00:24:35,148
-what that means for
-our other contestants.
+what that means for our other contestants.
 
 351
 00:24:35,150 --> 00:24:38,231
@@ -1563,8 +1424,7 @@ Help me get to the end.
 
 357
 00:24:50,565 --> 00:24:53,523
-I can save your
-mother, I promise.
+I can save your mother, I promise.
 
 358
 00:24:53,525 --> 00:24:54,358
@@ -1572,8 +1432,7 @@ Come on.
 
 359
 00:24:56,108 --> 00:24:59,813
-You really think he's gonna
-save anybody else but himself?
+You really think he's gonna save anybody else but himself?
 
 360
 00:24:59,815 --> 00:25:02,148
@@ -1589,8 +1448,7 @@ No one dies of cancer anymore.
 
 363
 00:25:08,190 --> 00:25:10,438
-Poor people do,
-you piece of shit!
+Poor people do, you piece of shit!
 
 364
 00:25:10,440 --> 00:25:13,273
@@ -1610,8 +1468,7 @@ Have you lost your mind?
 
 368
 00:25:21,483 --> 00:25:24,063
-Haven't you seen
-this show before?
+Haven't you seen this show before?
 
 369
 00:25:24,065 --> 00:25:26,438
@@ -1619,8 +1476,7 @@ If he wins, we die, you idiot!
 
 370
 00:25:26,440 --> 00:25:30,023
-No he said he could
-get us out too, huh?
+No he said he could get us out too, huh?
 
 371
 00:25:30,025 --> 00:25:32,273
@@ -1632,8 +1488,7 @@ Si.
 
 373
 00:25:34,525 --> 00:25:37,523
-If there's even a chance
-that we can save Mom.
+If there's even a chance that we can save Mom.
 
 374
 00:25:37,525 --> 00:25:40,273
@@ -1641,8 +1496,7 @@ This is all bullshit!
 
 375
 00:25:40,275 --> 00:25:43,606
-If he knows anyone outside,
-then what's he doing
+If he knows anyone outside, then what's he doing
 
 376
 00:25:43,608 --> 00:25:45,858
@@ -1650,8 +1504,7 @@ in here in the first place?
 
 377
 00:25:47,025 --> 00:25:49,148
-I want you to use your
-tiny little brain.
+I want you to use your tiny little brain.
 
 378
 00:25:49,150 --> 00:25:51,358
@@ -1667,8 +1520,7 @@ God damnit, what?
 
 381
 00:25:56,733 --> 00:26:00,191
-You touch him, and
-I'll kill you myself.
+You touch him, and I'll kill you myself.
 
 382
 00:26:03,315 --> 00:26:04,400
@@ -1692,8 +1544,7 @@ None of them know.
 
 387
 00:26:30,690 --> 00:26:35,023
-Unfortunately, their mother,
-Rosetta Mason, passed yesterday.
+Unfortunately, their mother, Rosetta Mason, passed yesterday.
 
 388
 00:26:35,900 --> 00:26:38,106
@@ -1701,18 +1552,15 @@ Such tragedy.
 
 389
 00:26:38,108 --> 00:26:42,483
-But I promise that you are
-gonna see the raptors soon
+But I promise that you are gonna see the raptors soon
 
 390
 00:26:43,650 --> 00:26:45,938
-because stage two,
-the maze, is up next
+because stage two, the maze, is up next
 
 391
 00:26:45,940 --> 00:26:49,273
-right here on the
-Jurassic Games.
+right here on the Jurassic Games.
 
 392
 00:26:49,275 --> 00:26:50,563
@@ -1720,8 +1568,7 @@ And we're clear.
 
 393
 00:26:50,565 --> 00:26:53,481
-That was a good
-transition, right?
+That was a good transition, right?
 
 394
 00:26:53,483 --> 00:26:54,688
@@ -1733,8 +1580,7 @@ Nice work.
 
 396
 00:26:56,400 --> 00:27:00,731
-I at first felt that the brothers
-angle was a little forced
+I at first felt that the brothers angle was a little forced
 
 397
 00:27:00,733 --> 00:27:03,231
@@ -1746,8 +1592,7 @@ Well, alright.
 
 399
 00:27:04,733 --> 00:27:06,063
-Hey, by the way, we gotta
-make sure we keep them alive
+Hey, by the way, we gotta make sure we keep them alive
 
 400
 00:27:06,065 --> 00:27:08,188
@@ -1755,8 +1600,7 @@ as long as possible.
 
 401
 00:27:08,190 --> 00:27:11,773
-Okay, can you imagine a
-Cane and Abel type of ending
+Okay, can you imagine a Cane and Abel type of ending
 
 402
 00:27:11,775 --> 00:27:13,148
@@ -1764,13 +1608,11 @@ for the finale?
 
 403
 00:27:13,150 --> 00:27:14,563
-I'm sorry to interrupt,
-the contestants
+I'm sorry to interrupt, the contestants
 
 404
 00:27:14,565 --> 00:27:17,900
-are approaching the
-safe zone right now.
+are approaching the safe zone right now.
 
 405
 00:27:25,065 --> 00:27:26,063
@@ -1798,8 +1640,7 @@ Taste some.
 
 411
 00:28:27,400 --> 00:28:31,148
-I don't think they'd let
-you die of poison berry.
+I don't think they'd let you die of poison berry.
 
 412
 00:28:31,150 --> 00:28:33,233
@@ -1807,8 +1648,7 @@ That's not very exciting.
 
 413
 00:28:38,233 --> 00:28:43,106
-Seems like everything in here
-tastes a little bit better.
+Seems like everything in here tastes a little bit better.
 
 414
 00:28:43,108 --> 00:28:45,898
@@ -1848,18 +1688,15 @@ I'm Tucker, I'm innocent.
 
 423
 00:29:52,440 --> 00:29:54,773
-I'm Albert and
-I'm gonna eat you.
+I'm Albert and I'm gonna eat you.
 
 424
 00:29:54,775 --> 00:29:56,648
-Jurassic
-Games action figures.
+Jurassic Games action figures.
 
 425
 00:29:56,650 --> 00:29:59,106
-Available wherever
-fine toys are sold.
+Available wherever fine toys are sold.
 
 426
 00:29:59,108 --> 00:30:00,188
@@ -1895,48 +1732,39 @@ Ren.
 
 434
 00:30:07,690 --> 00:30:10,438
-Collect all 10
-contestants today.
+Collect all 10 contestants today.
 
 435
 00:30:10,440 --> 00:30:12,563
-And if you collect
-all 10 action figures
+And if you collect all 10 action figures
 
 436
 00:30:12,565 --> 00:30:14,313
-of this year's contestants,
-we will throw in
+of this year's contestants, we will throw in
 
 437
 00:30:14,315 --> 00:30:17,231
-the brand new version
-of yours truly.
+the brand new version of yours truly.
 
 438
 00:30:17,233 --> 00:30:20,273
-Complete with 10
-new catchphrases.
+Complete with 10 new catchphrases.
 
 439
 00:30:20,275 --> 00:30:23,563
-That's right, the
-raptors are back this year.
+That's right, the raptors are back this year.
 
 440
 00:30:23,565 --> 00:30:26,023
-Get yours now
-while supplies last.
+Get yours now while supplies last.
 
 441
 00:30:26,025 --> 00:30:28,481
-Every single network
-is covering the games.
+Every single network is covering the games.
 
 442
 00:30:28,483 --> 00:30:30,188
-This is even bigger
-than last year.
+This is even bigger than last year.
 
 443
 00:30:30,190 --> 00:30:31,731
@@ -1948,8 +1776,7 @@ Eh, nothing new.
 
 445
 00:30:33,025 --> 00:30:34,523
-They've been
-protesting for years.
+They've been protesting for years.
 
 446
 00:30:34,525 --> 00:30:35,648
@@ -1957,8 +1784,7 @@ Yeah.
 
 447
 00:30:35,650 --> 00:30:36,856
-We should put some of
-those Cavemen in the games.
+We should put some of those Cavemen in the games.
 
 448
 00:30:36,858 --> 00:30:38,106
@@ -1974,8 +1800,7 @@ We're starting the maze.
 
 451
 00:30:40,815 --> 00:30:44,523
-No more games, no
-more games, no more games!
+No more games, no more games, no more games!
 
 452
 00:30:55,983 --> 00:30:57,938
@@ -1991,8 +1816,7 @@ The Mason brothers.
 
 455
 00:31:02,815 --> 00:31:04,938
-Would you take out
-one of your own
+Would you take out one of your own
 
 456
 00:31:04,940 --> 00:31:07,400
@@ -2012,8 +1836,7 @@ Ah, Joy, Joy, Joy.
 
 460
 00:31:14,608 --> 00:31:16,231
-I'm telling you, there
-is something special
+I'm telling you, there is something special
 
 461
 00:31:16,233 --> 00:31:18,813
@@ -2021,8 +1844,7 @@ about sweet little Joy.
 
 462
 00:31:18,815 --> 00:31:21,356
-Then we got Albert,
-the cannibal.
+Then we got Albert, the cannibal.
 
 463
 00:31:21,358 --> 00:31:24,441
@@ -2030,8 +1852,7 @@ Albert, you make me sick.
 
 464
 00:31:25,233 --> 00:31:27,563
-In a good way, of course,
-because people tune in
+In a good way, of course, because people tune in
 
 465
 00:31:27,565 --> 00:31:29,481
@@ -2043,23 +1864,19 @@ I like you.
 
 467
 00:31:33,565 --> 00:31:37,063
-Keep you around for our
-international viewers.
+Keep you around for our international viewers.
 
 468
 00:31:37,065 --> 00:31:40,563
-And then we have
-poor Anthony Tucker.
+And then we have poor Anthony Tucker.
 
 469
 00:31:40,565 --> 00:31:43,438
-Doesn't really seem like
-he's cut out for this,
+Doesn't really seem like he's cut out for this,
 
 470
 00:31:43,440 --> 00:31:47,313
-but you know what, America
-loves a tragic hero so I do too.
+but you know what, America loves a tragic hero so I do too.
 
 471
 00:31:47,315 --> 00:31:49,606
@@ -2075,8 +1892,7 @@ Oh Stephanie.
 
 474
 00:31:54,108 --> 00:31:57,813
-I'd really hate for
-someone or something
+I'd really hate for someone or something
 
 475
 00:31:57,815 --> 00:32:00,481
@@ -2084,8 +1900,7 @@ to ruin that pretty face.
 
 476
 00:32:00,483 --> 00:32:02,773
-Guess we'll have
-to wait for that.
+Guess we'll have to wait for that.
 
 477
 00:32:02,775 --> 00:32:04,775
@@ -2101,8 +1916,7 @@ You're naughty.
 
 480
 00:32:10,065 --> 00:32:12,940
-Alright, wake 'em
-up, I wanna play.
+Alright, wake 'em up, I wanna play.
 
 481
 00:32:30,483 --> 00:32:32,148
@@ -2110,8 +1924,7 @@ Welcome, contestants.
 
 482
 00:32:32,150 --> 00:32:34,398
-I hope you are ready for
-your first challenge.
+I hope you are ready for your first challenge.
 
 483
 00:32:34,400 --> 00:32:36,773
@@ -2123,8 +1936,7 @@ A favorite segment of the games
 
 485
 00:32:38,065 --> 00:32:40,313
-and our longest-running
-challenge.
+and our longest-running challenge.
 
 486
 00:32:40,315 --> 00:32:41,856
@@ -2132,8 +1944,7 @@ The rules are simple.
 
 487
 00:32:41,858 --> 00:32:43,188
-Be the first to
-escape your chains
+Be the first to escape your chains
 
 488
 00:32:43,190 --> 00:32:45,650
@@ -2149,8 +1960,7 @@ Use it to protect yourself,
 
 491
 00:32:52,983 --> 00:32:54,981
-use it to obliterate
-your enemies.
+use it to obliterate your enemies.
 
 492
 00:32:54,983 --> 00:32:57,023
@@ -2158,28 +1968,23 @@ The choice is yours.
 
 493
 00:32:57,025 --> 00:32:58,938
-I think in the right hands,
-the hands of a fighter,
+I think in the right hands, the hands of a fighter,
 
 494
 00:32:58,940 --> 00:33:01,398
-the hands of a winner,
-this fine piece of hardware
+the hands of a winner, this fine piece of hardware
 
 495
 00:33:01,400 --> 00:33:03,313
-could wind up ending
-the game early.
+could wind up ending the game early.
 
 496
 00:33:03,315 --> 00:33:05,856
-Anything can happen
-in the Jurassic Games.
+Anything can happen in the Jurassic Games.
 
 497
 00:33:05,858 --> 00:33:08,106
-That's what makes
-it so much fun!
+That's what makes it so much fun!
 
 498
 00:33:08,108 --> 00:33:09,313
@@ -2211,8 +2016,7 @@ Albert, Albert!
 
 505
 00:33:59,316 --> 00:34:02,731
-You have no honor if you
-use that now against us.
+You have no honor if you use that now against us.
 
 506
 00:34:02,733 --> 00:34:05,983
@@ -2224,13 +2028,11 @@ Anybody else, any last words?
 
 508
 00:34:16,108 --> 00:34:19,064
-Please, please don't
-shoot, I was kidding.
+Please, please don't shoot, I was kidding.
 
 509
 00:34:19,066 --> 00:34:21,271
-- I won't kill anybody.
-- Stay still!
+- I won't kill anybody. - Stay still!
 
 510
 00:34:21,273 --> 00:34:22,521
@@ -2238,8 +2040,7 @@ Please!
 
 511
 00:34:22,523 --> 00:34:23,481
-Shoot him, what
-are you waiting for?
+Shoot him, what are you waiting for?
 
 512
 00:34:23,483 --> 00:34:26,106
@@ -2247,8 +2048,7 @@ He's not gonna shoot him.
 
 513
 00:34:26,108 --> 00:34:28,606
-He's the perfect
-person for the gun.
+He's the perfect person for the gun.
 
 514
 00:34:28,608 --> 00:34:30,774
@@ -2272,13 +2072,11 @@ Go!
 
 519
 00:40:05,691 --> 00:40:07,398
-- There's not an exit.
-- What?
+- There's not an exit. - What?
 
 520
 00:40:07,400 --> 00:40:09,439
-There's not a way out,
-they're all dead ends.
+There's not a way out, they're all dead ends.
 
 521
 00:40:09,441 --> 00:40:10,689
@@ -2290,8 +2088,7 @@ Where's Ren?
 
 523
 00:40:11,691 --> 00:40:13,356
-- Who?
-- The grate.
+- Who? - The grate.
 
 524
 00:40:13,358 --> 00:40:14,316
@@ -2319,8 +2116,7 @@ Watch out!
 
 530
 00:41:07,025 --> 00:41:10,064
-We're right back
-where we started.
+We're right back where we started.
 
 531
 00:41:15,858 --> 00:41:18,064
@@ -2336,8 +2132,7 @@ Stephanie.
 
 534
 00:41:21,358 --> 00:41:23,648
-Because you were the
-first to exit the maze
+Because you were the first to exit the maze
 
 535
 00:41:23,650 --> 00:41:26,898
@@ -2345,23 +2140,19 @@ I am gonna reward you with this.
 
 536
 00:41:26,900 --> 00:41:29,731
-And not far from here
-you will find a crate
+And not far from here you will find a crate
 
 537
 00:41:29,733 --> 00:41:33,064
-containing a few potentially
-game-changing supplies.
+containing a few potentially game-changing supplies.
 
 538
 00:41:33,066 --> 00:41:35,189
-This map will help
-you get there safely.
+This map will help you get there safely.
 
 539
 00:41:35,191 --> 00:41:36,856
-Stephanie, you may
-choose to share it
+Stephanie, you may choose to share it
 
 540
 00:41:36,858 --> 00:41:38,733
@@ -2369,8 +2160,7 @@ or keep it to yourself.
 
 541
 00:41:43,566 --> 00:41:46,358
-The clock is
-ticking, contestants.
+The clock is ticking, contestants.
 
 542
 00:41:47,650 --> 00:41:49,356
@@ -2418,18 +2208,15 @@ How does that feel?
 
 553
 00:42:42,358 --> 00:42:44,273
-First thought to
-have been a hoax,
+First thought to have been a hoax,
 
 554
 00:42:44,275 --> 00:42:46,648
-Stephanie Rogers
-brutally murdered 16 men
+Stephanie Rogers brutally murdered 16 men
 
 555
 00:42:46,650 --> 00:42:49,439
-and broadcast her kills
-live on the internet.
+and broadcast her kills live on the internet.
 
 556
 00:42:49,441 --> 00:42:50,939
@@ -2437,23 +2224,19 @@ She spent the last three years
 
 557
 00:42:50,941 --> 00:42:52,606
-at the Starkweather
-Federal Penitentiary
+at the Starkweather Federal Penitentiary
 
 558
 00:42:52,608 --> 00:42:55,981
-prior to her acceptance in
-this year's Jurassic Games.
+prior to her acceptance in this year's Jurassic Games.
 
 559
 00:42:55,983 --> 00:42:59,314
-She'll use her charms to
-seduce the men in the game,
+She'll use her charms to seduce the men in the game,
 
 560
 00:42:59,316 --> 00:43:02,481
-just like a black widow
-luring them into her trap,
+just like a black widow luring them into her trap,
 
 561
 00:43:02,483 --> 00:43:05,189
@@ -2469,33 +2252,27 @@ Come with me.
 
 564
 00:43:10,983 --> 00:43:14,191
-I have to do some
-fluff piece interview.
+I have to do some fluff piece interview.
 
 565
 00:43:16,441 --> 00:43:18,648
-I'm joined now
-by Savannah Black.
+I'm joined now by Savannah Black.
 
 566
 00:43:18,650 --> 00:43:20,689
-She is the director of the
-controversial sensation
+She is the director of the controversial sensation
 
 567
 00:43:20,691 --> 00:43:23,023
-known around the globe
-as the Jurassic Games.
+known around the globe as the Jurassic Games.
 
 568
 00:43:23,025 --> 00:43:25,314
-Savannah, thank you for
-joining us this afternoon.
+Savannah, thank you for joining us this afternoon.
 
 569
 00:43:25,316 --> 00:43:26,898
-Oh, my pleasure Jack,
-thank you for having me.
+Oh, my pleasure Jack, thank you for having me.
 
 570
 00:43:26,900 --> 00:43:27,898
@@ -2511,13 +2288,11 @@ Uh, excuse me?
 
 573
 00:43:31,483 --> 00:43:32,856
-Well you know
-as well as anybody
+Well you know as well as anybody
 
 574
 00:43:32,858 --> 00:43:34,856
-the show is
-controversial, even still.
+the show is controversial, even still.
 
 575
 00:43:34,858 --> 00:43:36,523
@@ -2525,18 +2300,15 @@ Are we still discussing this?
 
 576
 00:43:36,525 --> 00:43:39,523
-The contestants on our show
-are going to die anyway.
+The contestants on our show are going to die anyway.
 
 577
 00:43:39,525 --> 00:43:42,689
-Now what we're doing, with
-the support of the government,
+Now what we're doing, with the support of the government,
 
 578
 00:43:42,691 --> 00:43:46,481
-I might add, is giving
-them a chance at freedom.
+I might add, is giving them a chance at freedom.
 
 579
 00:43:46,483 --> 00:43:47,939
@@ -2544,33 +2316,27 @@ But some say this is too much.
 
 580
 00:43:47,941 --> 00:43:49,606
-Isn't this really nothing
-more than exploitation
+Isn't this really nothing more than exploitation
 
 581
 00:43:49,608 --> 00:43:53,523
-of these contestants
-for money, for ratings?
+of these contestants for money, for ratings?
 
 582
 00:43:53,525 --> 00:43:57,148
-And you are essentially torturing
-them on live television.
+And you are essentially torturing them on live television.
 
 583
 00:43:57,150 --> 00:44:00,731
-Well I'm not concerned
-with a vocal minority.
+Well I'm not concerned with a vocal minority.
 
 584
 00:44:00,733 --> 00:44:02,189
-A lot more people
-love the games.
+A lot more people love the games.
 
 585
 00:44:02,191 --> 00:44:04,523
-300 million the
-last time I looked.
+300 million the last time I looked.
 
 586
 00:44:04,525 --> 00:44:06,148
@@ -2582,13 +2348,11 @@ You didn't answer my question.
 
 588
 00:44:07,608 --> 00:44:09,564
-Well they are still
-dying by lethal injection.
+Well they are still dying by lethal injection.
 
 589
 00:44:09,566 --> 00:44:11,314
-- Yes, but...
-- Listen.
+- Yes, but... - Listen.
 
 590
 00:44:11,316 --> 00:44:13,106
@@ -2596,8 +2360,7 @@ We didn't invent this.
 
 591
 00:44:13,108 --> 00:44:14,606
-As much as I'd like
-to take credit for it,
+As much as I'd like to take credit for it,
 
 592
 00:44:14,608 --> 00:44:16,898
@@ -2605,18 +2368,15 @@ public execution is nothing new.
 
 593
 00:44:16,900 --> 00:44:19,314
-Think back to the days
-of the Roman Empire.
+Think back to the days of the Roman Empire.
 
 594
 00:44:19,316 --> 00:44:20,939
-The gladiators fought
-tigers and there was
+The gladiators fought tigers and there was
 
 595
 00:44:20,941 --> 00:44:23,856
-a Coliseum filled with people
-wanting the tiger to win
+a Coliseum filled with people wanting the tiger to win
 
 596
 00:44:23,858 --> 00:44:26,148
@@ -2624,8 +2384,7 @@ and most often it did.
 
 597
 00:44:26,150 --> 00:44:28,273
-Now at least on our show
-one of our contestants
+Now at least on our show one of our contestants
 
 598
 00:44:28,275 --> 00:44:29,731
@@ -2637,18 +2396,15 @@ What about Anthony Tucker?
 
 600
 00:44:30,983 --> 00:44:32,564
-There are a lot of folks
-out there who believe
+There are a lot of folks out there who believe
 
 601
 00:44:32,566 --> 00:44:34,564
-he was wrongly convicted
-of killing his wife.
+he was wrongly convicted of killing his wife.
 
 602
 00:44:34,566 --> 00:44:35,898
-Well he was convicted
-in a court of law
+Well he was convicted in a court of law
 
 603
 00:44:35,900 --> 00:44:37,523
@@ -2656,8 +2412,7 @@ and sentenced to death.
 
 604
 00:44:37,525 --> 00:44:39,481
-And that is the only
-qualification required
+And that is the only qualification required
 
 605
 00:44:39,483 --> 00:44:41,023
@@ -2665,18 +2420,15 @@ to enter the games.
 
 606
 00:44:41,025 --> 00:44:43,398
-Oh, that and they
-look good on camera.
+Oh, that and they look good on camera.
 
 607
 00:44:43,400 --> 00:44:45,314
-But wouldn't you agree
-having an innocent contestant
+But wouldn't you agree having an innocent contestant
 
 608
 00:44:45,316 --> 00:44:47,148
-killed on your show does
-nothing more than fuel the fire
+killed on your show does nothing more than fuel the fire
 
 609
 00:44:47,150 --> 00:44:48,939
@@ -2688,8 +2440,7 @@ I'm not familiar with them.
 
 611
 00:44:50,275 --> 00:44:51,481
-You're trying to tell
-me you've never heard
+You're trying to tell me you've never heard
 
 612
 00:44:51,483 --> 00:44:52,981
@@ -2697,18 +2448,15 @@ of The Cavemen?
 
 613
 00:44:52,983 --> 00:44:56,439
-I am aware of a very few
-and extremely disorganized...
+I am aware of a very few and extremely disorganized...
 
 614
 00:44:56,441 --> 00:44:59,106
-Come on, it's well-known
-they have promised
+Come on, it's well-known they have promised
 
 615
 00:44:59,108 --> 00:45:01,606
-to disrupt the ending
-of this year's games.
+to disrupt the ending of this year's games.
 
 616
 00:45:01,608 --> 00:45:02,981
@@ -2716,33 +2464,27 @@ Surely you're aware.
 
 617
 00:45:02,983 --> 00:45:04,689
-Well groups like
-that have tried before.
+Well groups like that have tried before.
 
 618
 00:45:04,691 --> 00:45:06,731
-But our security is
-tight, and I am confident
+But our security is tight, and I am confident
 
 619
 00:45:06,733 --> 00:45:09,314
-that the games will go
-on as they always do.
+that the games will go on as they always do.
 
 620
 00:45:09,316 --> 00:45:10,898
-Now we are approaching
-our next challenge
+Now we are approaching our next challenge
 
 621
 00:45:10,900 --> 00:45:13,106
-and your audience
-won't wanna miss that.
+and your audience won't wanna miss that.
 
 622
 00:45:13,108 --> 00:45:16,023
-Savannah Black, thank
-you for joining us.
+Savannah Black, thank you for joining us.
 
 623
 00:45:16,025 --> 00:45:17,898
@@ -2754,23 +2496,19 @@ Asshole!
 
 625
 00:45:19,858 --> 00:45:22,064
-Volunteering for the games
-is an admission of guilt!
+Volunteering for the games is an admission of guilt!
 
 626
 00:45:22,066 --> 00:45:23,731
-These aren't people,
-they're murderers.
+These aren't people, they're murderers.
 
 627
 00:45:23,733 --> 00:45:26,023
-God, I've had it up to
-here with The Cavemen.
+God, I've had it up to here with The Cavemen.
 
 628
 00:45:26,025 --> 00:45:27,398
-People have a
-right to protest.
+People have a right to protest.
 
 629
 00:45:27,400 --> 00:45:28,814
@@ -2778,13 +2516,11 @@ Okay, protesting is one thing
 
 630
 00:45:28,816 --> 00:45:30,731
-but threatening to
-disrupt the show's ending,
+but threatening to disrupt the show's ending,
 
 631
 00:45:30,733 --> 00:45:33,814
-whatever the hell that's supposed
-to mean, is unacceptable.
+whatever the hell that's supposed to mean, is unacceptable.
 
 632
 00:45:33,816 --> 00:45:35,648
@@ -2792,8 +2528,7 @@ You don't like the show?
 
 633
 00:45:35,650 --> 00:45:37,314
-Well neither do I,
-and do you know why?
+Well neither do I, and do you know why?
 
 634
 00:45:37,316 --> 00:45:38,773
@@ -2801,8 +2536,7 @@ Because there's a winner.
 
 635
 00:45:38,775 --> 00:45:41,148
-One of these lunatics
-gets to walk away free.
+One of these lunatics gets to walk away free.
 
 636
 00:45:41,150 --> 00:45:43,148
@@ -2810,8 +2544,7 @@ And it makes me sick.
 
 637
 00:45:43,150 --> 00:45:45,066
-If it were up to me they'd
-all be dead already.
+If it were up to me they'd all be dead already.
 
 638
 00:46:13,275 --> 00:46:15,025
@@ -2819,8 +2552,7 @@ That thing is huge.
 
 639
 00:46:31,608 --> 00:46:34,273
-So why did you
-enter the lottery?
+So why did you enter the lottery?
 
 640
 00:46:34,275 --> 00:46:36,523
@@ -2832,8 +2564,7 @@ Freedom.
 
 642
 00:46:40,108 --> 00:46:43,066
-You really didn't
-do it, did you?
+You really didn't do it, did you?
 
 643
 00:46:44,108 --> 00:46:45,775
@@ -2841,18 +2572,15 @@ That's what I heard.
 
 644
 00:46:48,150 --> 00:46:51,066
-Doesn't matter
-much now, does it?
+Doesn't matter much now, does it?
 
 645
 00:46:56,983 --> 00:46:58,398
-Why do you think
-they picked dinosaurs
+Why do you think they picked dinosaurs
 
 646
 00:46:58,400 --> 00:47:00,398
-to be the things we're
-running away from?
+to be the things we're running away from?
 
 647
 00:47:01,400 --> 00:47:03,398
@@ -2860,18 +2588,15 @@ It tested better than robots.
 
 648
 00:47:05,025 --> 00:47:06,314
-Look I dunno
-man, gimme the map.
+Look I dunno man, gimme the map.
 
 649
 00:47:06,316 --> 00:47:07,731
-You don't even know
-how to operate it.
+You don't even know how to operate it.
 
 650
 00:47:07,733 --> 00:47:09,648
-I don't give a
-damn, gimme the map!
+I don't give a damn, gimme the map!
 
 651
 00:47:09,650 --> 00:47:10,856
@@ -2883,13 +2608,11 @@ Help me!
 
 653
 00:47:37,400 --> 00:47:40,356
-He's gonna die
-anyway, leave his ass.
+He's gonna die anyway, leave his ass.
 
 654
 00:47:40,358 --> 00:47:43,941
-No, he's gonna finish,
-he's gonna make it.
+No, he's gonna finish, he's gonna make it.
 
 655
 00:47:49,275 --> 00:47:50,941
@@ -2897,13 +2620,11 @@ This is it for me.
 
 656
 00:47:54,066 --> 00:47:58,483
-I was never gonna help you
-anyway, you piece of shit.
+I was never gonna help you anyway, you piece of shit.
 
 657
 00:48:01,025 --> 00:48:05,983
-Your mom's gonna
-follow me to hell.
+Your mom's gonna follow me to hell.
 
 658
 00:48:18,150 --> 00:48:19,481
@@ -2915,8 +2636,7 @@ Calm down!
 
 660
 00:48:20,691 --> 00:48:21,523
-I'm not playing
-this game anymore.
+I'm not playing this game anymore.
 
 661
 00:48:21,525 --> 00:48:22,358
@@ -2932,8 +2652,7 @@ I quit!
 
 664
 00:48:28,983 --> 00:48:31,523
-- Put me back in my cell...
-- Hey!
+- Put me back in my cell... - Hey!
 
 665
 00:48:31,525 --> 00:48:32,358
@@ -2941,8 +2660,7 @@ I quit!
 
 666
 00:48:33,733 --> 00:48:35,689
-I'm not playing
-this game anymore!
+I'm not playing this game anymore!
 
 667
 00:48:35,691 --> 00:48:38,398
@@ -2970,23 +2688,19 @@ Focus.
 
 673
 00:48:56,566 --> 00:48:59,023
-Well you didn't see
-that coming, did ya?
+Well you didn't see that coming, did ya?
 
 674
 00:48:59,025 --> 00:49:01,689
-Our contestants are
-tired, they're hungry.
+Our contestants are tired, they're hungry.
 
 675
 00:49:01,691 --> 00:49:04,023
-The Wasp is gone, but I have
-a feeling it's about to get
+The Wasp is gone, but I have a feeling it's about to get
 
 676
 00:49:04,025 --> 00:49:07,689
-a whole lot tougher
-for our remaining six.
+a whole lot tougher for our remaining six.
 
 677
 00:49:07,691 --> 00:49:09,858
@@ -2994,8 +2708,7 @@ And we're clear.
 
 678
 00:49:10,983 --> 00:49:12,439
-How close are they
-to the supplies?
+How close are they to the supplies?
 
 679
 00:49:12,441 --> 00:49:15,108
@@ -3007,8 +2720,7 @@ The buzzards are circling.
 
 681
 00:49:34,025 --> 00:49:36,773
-Welcome, contestants, and
-congratulations on your success
+Welcome, contestants, and congratulations on your success
 
 682
 00:49:36,775 --> 00:49:38,273
@@ -3016,8 +2728,7 @@ and survival.
 
 683
 00:49:38,275 --> 00:49:41,439
-We're down to the final six
-but we seem to be missing one.
+We're down to the final six but we seem to be missing one.
 
 684
 00:49:41,441 --> 00:49:43,441
@@ -3037,8 +2748,7 @@ I sincerely doubt it.
 
 688
 00:49:53,066 --> 00:49:55,689
-Beyond the red barrier
-you will find two items
+Beyond the red barrier you will find two items
 
 689
 00:49:55,691 --> 00:49:58,356
@@ -3046,8 +2756,7 @@ that may be of some use to you.
 
 690
 00:49:58,358 --> 00:50:01,773
-A knife, and, more importantly,
-some more ammunition
+A knife, and, more importantly, some more ammunition
 
 691
 00:50:01,775 --> 00:50:04,106
@@ -3055,8 +2764,7 @@ for your laser gun there.
 
 692
 00:50:04,108 --> 00:50:08,358
-All you have to do is just
-walk from here to there.
+All you have to do is just walk from here to there.
 
 693
 00:50:29,150 --> 00:50:30,941
@@ -3064,8 +2772,7 @@ There are 17 mines...
 
 694
 00:50:32,150 --> 00:50:36,273
-Uh, well, maybe 20,
-I can't remember.
+Uh, well, maybe 20, I can't remember.
 
 695
 00:50:36,275 --> 00:50:37,814
@@ -3077,8 +2784,7 @@ Don't worry.
 
 697
 00:50:39,066 --> 00:50:40,814
-Stephanie's map will
-guide you through.
+Stephanie's map will guide you through.
 
 698
 00:50:40,816 --> 00:50:42,316
@@ -3086,8 +2792,7 @@ Use it to survive.
 
 699
 00:50:54,608 --> 00:50:56,606
-Stop the game, I'm
-not going through!
+Stop the game, I'm not going through!
 
 700
 00:50:56,608 --> 00:50:57,731
@@ -3103,8 +2808,7 @@ What are you doing?
 
 703
 00:51:06,150 --> 00:51:09,064
-Come on brother, come
-on through, come on.
+Come on brother, come on through, come on.
 
 704
 00:51:09,066 --> 00:51:13,400
@@ -3148,8 +2852,7 @@ Well there goes Cain and Abel.
 
 714
 00:52:22,441 --> 00:52:23,564
-I'm not gonna do another
-interview like that,
+I'm not gonna do another interview like that,
 
 715
 00:52:23,566 --> 00:52:24,564
@@ -3161,8 +2864,7 @@ That was an ambush.
 
 717
 00:52:25,733 --> 00:52:26,606
-Hey, look at these
-ratings though.
+Hey, look at these ratings though.
 
 718
 00:52:26,608 --> 00:52:28,106
@@ -3170,23 +2872,19 @@ Look at 'em.
 
 719
 00:52:28,108 --> 00:52:32,273
-And nice work, by the way,
-Brian, with the pterodactyl.
+And nice work, by the way, Brian, with the pterodactyl.
 
 720
 00:52:32,275 --> 00:52:37,231
-I gotta say, I am really
-happy with our final four.
+I gotta say, I am really happy with our final four.
 
 721
 00:52:37,233 --> 00:52:39,606
-You know Jack mentioned a
-direct threat from The Cavemen.
+You know Jack mentioned a direct threat from The Cavemen.
 
 722
 00:52:40,775 --> 00:52:41,814
-He said they're
-threatening to disrupt
+He said they're threatening to disrupt
 
 723
 00:52:41,816 --> 00:52:42,898
@@ -3198,8 +2896,7 @@ Oh, The Cavemen.
 
 725
 00:52:44,525 --> 00:52:46,314
-What are they going to
-do Savannah, huh?
+What are they going to do Savannah, huh?
 
 726
 00:52:46,316 --> 00:52:47,564
@@ -3207,13 +2904,11 @@ What are they gonna do?
 
 727
 00:52:47,566 --> 00:52:48,773
-Every year they
-say the same shit.
+Every year they say the same shit.
 
 728
 00:52:48,775 --> 00:52:51,023
-Every year nothing
-happens except for what?
+Every year nothing happens except for what?
 
 729
 00:52:51,025 --> 00:52:52,439
@@ -3221,8 +2916,7 @@ More controversy.
 
 730
 00:52:52,441 --> 00:52:55,939
-Controversy leads to excitement,
-more excitement leads to
+Controversy leads to excitement, more excitement leads to
 
 731
 00:52:55,941 --> 00:52:57,106
@@ -3238,8 +2932,7 @@ Status report.
 
 734
 00:53:00,775 --> 00:53:01,606
-Four remaining contestants
-are relatively close
+Four remaining contestants are relatively close
 
 735
 00:53:01,608 --> 00:53:03,314
@@ -3247,13 +2940,11 @@ to each other.
 
 736
 00:53:03,316 --> 00:53:04,939
-Shut down most
-of the main systems
+Shut down most of the main systems
 
 737
 00:53:04,941 --> 00:53:08,439
-while I load the traps
-and weather simulation.
+while I load the traps and weather simulation.
 
 738
 00:53:09,441 --> 00:53:10,689
@@ -3261,8 +2952,7 @@ You what, hey, hey.
 
 739
 00:53:10,691 --> 00:53:13,731
-Why don't you let 'em
-breathe for a minute?
+Why don't you let 'em breathe for a minute?
 
 740
 00:53:13,733 --> 00:53:14,606
@@ -3270,8 +2960,7 @@ Never know.
 
 741
 00:53:14,608 --> 00:53:15,608
-Maybe one of the
-girls'll get naked.
+Maybe one of the girls'll get naked.
 
 742
 00:53:35,316 --> 00:53:37,816
@@ -3279,8 +2968,7 @@ She's watching us, you know.
 
 743
 00:53:44,233 --> 00:53:46,564
-Maybe you oughta
-give me that clip.
+Maybe you oughta give me that clip.
 
 744
 00:53:46,566 --> 00:53:48,066
@@ -3288,8 +2976,7 @@ Come and get it.
 
 745
 00:53:50,025 --> 00:53:52,689
-I'd go look for her but I
-don't wanna leave you alone.
+I'd go look for her but I don't wanna leave you alone.
 
 746
 00:53:52,691 --> 00:53:53,525
@@ -3301,8 +2988,7 @@ Smart man.
 
 748
 00:53:57,525 --> 00:54:01,566
-You move one inch closer
-to me and I'll gut you.
+You move one inch closer to me and I'll gut you.
 
 749
 00:54:03,066 --> 00:54:03,900
@@ -3318,8 +3004,7 @@ It's fine.
 
 752
 00:54:56,900 --> 00:55:00,233
-You're not much
-older than my daughter.
+You're not much older than my daughter.
 
 753
 00:55:03,816 --> 00:55:04,900
@@ -3327,23 +3012,19 @@ I was asleep.
 
 754
 00:55:07,608 --> 00:55:11,108
-And I heard a noise
-and I went downstairs.
+And I heard a noise and I went downstairs.
 
 755
 00:55:15,775 --> 00:55:18,566
-And the door had
-been pried open.
+And the door had been pried open.
 
 756
 00:55:22,233 --> 00:55:25,731
-And I went to the kids'
-rooms and I made sure
+And I went to the kids' rooms and I made sure
 
 757
 00:55:25,733 --> 00:55:28,650
-they were okay,
-they were sleeping.
+they were okay, they were sleeping.
 
 758
 00:55:31,900 --> 00:55:34,566
@@ -3351,33 +3032,27 @@ And then I went back to my room.
 
 759
 00:55:36,150 --> 00:55:40,566
-And I found my wife
-with her throat slit.
+And I found my wife with her throat slit.
 
 760
 00:55:45,525 --> 00:55:49,941
-She was covered in blood
-and her eyes were wide open.
+She was covered in blood and her eyes were wide open.
 
 761
 00:55:55,816 --> 00:55:59,566
-The murder weapon was
-a knife from my kitchen
+The murder weapon was a knife from my kitchen
 
 762
 00:56:01,566 --> 00:56:03,731
-and they said that I had
-pried the door open myself
+and they said that I had pried the door open myself
 
 763
 00:56:03,733 --> 00:56:06,816
-to make it seem like
-a home invasion.
+to make it seem like a home invasion.
 
 764
 00:56:10,566 --> 00:56:13,900
-And I was convicted
-and I was sentenced.
+And I was convicted and I was sentenced.
 
 765
 00:56:18,983 --> 00:56:20,483
@@ -3385,8 +3060,7 @@ You're just a kid.
 
 766
 00:56:25,941 --> 00:56:29,439
-I'm gonna take
-you to the final two
+I'm gonna take you to the final two
 
 767
 00:56:29,441 --> 00:56:31,358
@@ -3410,13 +3084,11 @@ Tucker!
 
 772
 01:00:25,316 --> 01:00:26,814
-Ladies and gentlemen,
-it's come to my attention
+Ladies and gentlemen, it's come to my attention
 
 773
 01:00:26,816 --> 01:00:29,314
-that one of our witnesses
-would like to share something
+that one of our witnesses would like to share something
 
 774
 01:00:29,316 --> 01:00:30,606
@@ -3424,8 +3096,7 @@ with us.
 
 775
 01:00:34,483 --> 01:00:39,439
-He killed someone close
-to you, didn't he?
+He killed someone close to you, didn't he?
 
 776
 01:00:39,441 --> 01:00:40,441
@@ -3433,8 +3104,7 @@ My husband.
 
 777
 01:00:43,108 --> 01:00:47,608
-And now you feel like you
-finally have some closure.
+And now you feel like you finally have some closure.
 
 778
 01:00:48,691 --> 01:00:51,358
@@ -3470,8 +3140,7 @@ Holy shit, who is this?
 
 786
 01:01:13,983 --> 01:01:16,648
-Whoa, the best
-actress award goes to,
+Whoa, the best actress award goes to,
 
 787
 01:01:16,650 --> 01:01:17,648
@@ -3479,8 +3148,7 @@ what was your name, sweetie?
 
 788
 01:01:17,650 --> 01:01:19,356
-- Alison.
-- Alison.
+- Alison. - Alison.
 
 789
 01:01:19,358 --> 01:01:20,439
@@ -3500,13 +3168,11 @@ We need more of her, seriously.
 
 793
 01:01:25,275 --> 01:01:26,814
-Find out whoever her
-acting class was.
+Find out whoever her acting class was.
 
 794
 01:01:26,816 --> 01:01:30,941
-I'm gonna go get a drink,
-I'm a little emotional.
+I'm gonna go get a drink, I'm a little emotional.
 
 795
 01:04:00,566 --> 01:04:01,400
@@ -3538,13 +3204,11 @@ I'm coming home!
 
 802
 01:04:59,733 --> 01:05:02,608
-You're not
-looking so good.
+You're not looking so good.
 
 803
 01:05:14,191 --> 01:05:16,939
-You're the one
-that's gonna kill me?
+You're the one that's gonna kill me?
 
 804
 01:05:16,941 --> 01:05:20,189
@@ -3552,18 +3216,15 @@ Oh honey, you're already dead.
 
 805
 01:05:30,275 --> 01:05:31,439
-We're getting immense
-pressure from the press
+We're getting immense pressure from the press
 
 806
 01:05:31,441 --> 01:05:33,481
-to comment on
-Tucker's innocence.
+to comment on Tucker's innocence.
 
 807
 01:05:34,775 --> 01:05:35,939
-Okay, well here's my
-comment to the press.
+Okay, well here's my comment to the press.
 
 808
 01:05:35,941 --> 01:05:38,398
@@ -3575,8 +3236,7 @@ Okay we have run the numbers
 
 810
 01:05:39,816 --> 01:05:42,398
-and it could be a ratings
-disaster if he dies in the game.
+and it could be a ratings disaster if he dies in the game.
 
 811
 01:05:42,400 --> 01:05:43,856
@@ -3592,8 +3252,7 @@ You know what?
 
 814
 01:05:46,108 --> 01:05:50,025
-Come to me live as soon
-as the tiger's finished.
+Come to me live as soon as the tiger's finished.
 
 815
 01:05:56,941 --> 01:05:58,606
@@ -3601,8 +3260,7 @@ Only two remain.
 
 816
 01:05:58,608 --> 01:06:03,356
-Joy, the heartless teenage
-killer, ruthless and crazy.
+Joy, the heartless teenage killer, ruthless and crazy.
 
 817
 01:06:03,358 --> 01:06:06,023
@@ -3610,8 +3268,7 @@ Who knows why, who cares?
 
 818
 01:06:06,025 --> 01:06:10,189
-And Tucker, a family man who
-callously murdered his wife
+And Tucker, a family man who callously murdered his wife
 
 819
 01:06:10,191 --> 01:06:12,191
@@ -3619,8 +3276,7 @@ in cold blood.
 
 820
 01:06:12,566 --> 01:06:15,316
-Presumed innocent
-by some of you.
+Presumed innocent by some of you.
 
 821
 01:06:17,025 --> 01:06:18,150
@@ -3644,8 +3300,7 @@ The game is the executioner.
 
 826
 01:06:32,483 --> 01:06:36,150
-And the game decides
-who lives and who dies.
+And the game decides who lives and who dies.
 
 827
 01:06:38,941 --> 01:06:40,814
@@ -3653,8 +3308,7 @@ Uh oh, we've got a problem.
 
 828
 01:06:40,816 --> 01:06:42,523
-We just received an
-encrypted message.
+We just received an encrypted message.
 
 829
 01:06:42,525 --> 01:06:43,773
@@ -3662,8 +3316,7 @@ From The Cavemen?
 
 830
 01:06:43,775 --> 01:06:46,398
-No, from here,
-inside the premises.
+No, from here, inside the premises.
 
 831
 01:06:46,400 --> 01:06:47,856
@@ -3679,13 +3332,11 @@ I told you!
 
 834
 01:07:15,733 --> 01:07:19,650
-I told you I'd bring you
-to the final two with me!
+I told you I'd bring you to the final two with me!
 
 835
 01:07:35,441 --> 01:07:37,856
-Excuse me, I need to
-get to master control.
+Excuse me, I need to get to master control.
 
 836
 01:07:37,858 --> 01:07:38,775
@@ -3693,13 +3344,11 @@ Sit down.
 
 837
 01:07:42,566 --> 01:07:45,064
-We've intercepted an encoded
-transmission coming from
+We've intercepted an encoded transmission coming from
 
 838
 01:07:45,066 --> 01:07:46,900
-- the premises.
-- Really?
+- the premises. - Really?
 
 839
 01:07:48,066 --> 01:07:49,064
@@ -3715,13 +3364,11 @@ I was hoping you could tell me.
 
 842
 01:07:54,648 --> 01:07:58,564
-We traced the transmission
-back to your edit bay, Laura.
+We traced the transmission back to your edit bay, Laura.
 
 843
 01:07:58,566 --> 01:08:01,733
-Have you been sending
-encoded messages?
+Have you been sending encoded messages?
 
 844
 01:08:03,523 --> 01:08:05,314
@@ -3737,13 +3384,11 @@ Tonight.
 
 847
 01:08:14,566 --> 01:08:18,064
-No matter what you do,
-the show will continue.
+No matter what you do, the show will continue.
 
 848
 01:08:18,066 --> 01:08:20,314
-It's bigger than me,
-than you, than anyone!
+It's bigger than me, than you, than anyone!
 
 849
 01:08:20,316 --> 01:08:23,816
@@ -3759,8 +3404,7 @@ Patience, Tucker.
 
 852
 01:09:07,482 --> 01:09:09,980
-Joy, you are the favorite
-to win this thing, you know.
+Joy, you are the favorite to win this thing, you know.
 
 853
 01:09:09,982 --> 01:09:11,146
@@ -3772,18 +3416,15 @@ That's the spirit.
 
 855
 01:09:12,648 --> 01:09:16,189
-Tucker, I'm not sure anyone
-expected you to get this far
+Tucker, I'm not sure anyone expected you to get this far
 
 856
 01:09:16,191 --> 01:09:19,105
-but there are millions of people
-rooting for you out there.
+but there are millions of people rooting for you out there.
 
 857
 01:09:19,107 --> 01:09:23,690
-In fact, we have a very
-special message from your kids.
+In fact, we have a very special message from your kids.
 
 858
 01:09:24,982 --> 01:09:26,898
@@ -3799,8 +3440,7 @@ Get him out of the games.
 
 861
 01:09:30,775 --> 01:09:32,607
-- Stop the games!
-- Andy.
+- Stop the games! - Andy.
 
 862
 01:09:35,857 --> 01:09:37,275
@@ -3824,13 +3464,11 @@ Why so upset?
 
 867
 01:09:55,525 --> 01:09:57,730
-We are giving you a
-chance to see them again.
+We are giving you a chance to see them again.
 
 868
 01:09:57,732 --> 01:09:59,564
-I mean really if it wasn't
-for our little show here,
+I mean really if it wasn't for our little show here,
 
 869
 01:09:59,566 --> 01:10:01,400
@@ -3838,8 +3476,7 @@ you'd already be dead.
 
 870
 01:10:02,732 --> 01:10:05,565
-And let the final
-challenge begin.
+And let the final challenge begin.
 
 871
 01:10:18,400 --> 01:10:20,898
@@ -3847,8 +3484,7 @@ Well, this is an easy game.
 
 872
 01:10:20,900 --> 01:10:22,564
-Now you will notice that
-you are each chained
+Now you will notice that you are each chained
 
 873
 01:10:22,566 --> 01:10:24,314
@@ -3856,13 +3492,11 @@ to those locks.
 
 874
 01:10:24,316 --> 01:10:25,939
-There are padlocks at
-the end of your chains
+There are padlocks at the end of your chains
 
 875
 01:10:25,941 --> 01:10:28,189
-that need to be unlocked
-for you to cross the outer
+that need to be unlocked for you to cross the outer
 
 876
 01:10:28,191 --> 01:10:29,191
@@ -3870,8 +3504,7 @@ finish line.
 
 877
 01:10:30,566 --> 01:10:34,064
-Be the first to do so, and your
-opponent will be eliminated.
+Be the first to do so, and your opponent will be eliminated.
 
 878
 01:10:34,066 --> 01:10:34,900
@@ -3887,13 +3520,11 @@ Excuse me?
 
 881
 01:10:38,982 --> 01:10:41,105
-I don't think I
-quite caught that.
+I don't think I quite caught that.
 
 882
 01:10:41,107 --> 01:10:43,730
-Where are the keys
-to unlock the padlocks?
+Where are the keys to unlock the padlocks?
 
 883
 01:10:43,732 --> 01:10:44,855
@@ -3905,8 +3536,7 @@ One for each of you.
 
 885
 01:10:46,775 --> 01:10:48,480
-Buried in the sand
-somewhere between
+Buried in the sand somewhere between
 
 886
 01:10:48,482 --> 01:10:51,023
@@ -3914,8 +3544,7 @@ where you stand and the locks.
 
 887
 01:10:51,025 --> 01:10:54,107
-Are you ready in
-three, two, one, go!
+Are you ready in three, two, one, go!
 
 888
 01:11:07,941 --> 01:11:08,775
@@ -3923,8 +3552,7 @@ Tucker.
 
 889
 01:11:10,691 --> 01:11:14,773
-Do you know why I threw
-in my name for the games?
+Do you know why I threw in my name for the games?
 
 890
 01:11:14,775 --> 01:11:17,148
@@ -3932,8 +3560,7 @@ I don't care about my freedom.
 
 891
 01:11:17,150 --> 01:11:20,189
-Hell, being in here is as
-close as I could ever hope
+Hell, being in here is as close as I could ever hope
 
 892
 01:11:20,191 --> 01:11:21,358
@@ -3941,13 +3568,11 @@ to being free.
 
 893
 01:11:25,107 --> 01:11:27,773
-A girl that does things that
-I do won't last very long
+A girl that does things that I do won't last very long
 
 894
 01:11:27,775 --> 01:11:30,439
-in the real world
-anyway, you know?
+in the real world anyway, you know?
 
 895
 01:11:32,816 --> 01:11:34,523
@@ -3955,18 +3580,15 @@ I wanted to meet you!
 
 896
 01:11:35,816 --> 01:11:38,855
-Convicted killer that
-the whole world loves.
+Convicted killer that the whole world loves.
 
 897
 01:11:38,857 --> 01:11:40,814
-The man that wanted
-to join the games
+The man that wanted to join the games
 
 898
 01:11:40,816 --> 01:11:44,564
-so he could see his
-precious kids again.
+so he could see his precious kids again.
 
 899
 01:11:44,566 --> 01:11:46,064
@@ -3994,13 +3616,11 @@ She missed you.
 
 905
 01:11:58,732 --> 01:12:00,355
-She said that you were
-gonna come save her
+She said that you were gonna come save her
 
 906
 01:12:00,357 --> 01:12:02,689
-and I really wish you
-would have because I was
+and I really wish you would have because I was
 
 907
 01:12:02,691 --> 01:12:04,605
@@ -4008,28 +3628,23 @@ so tired of waiting.
 
 908
 01:12:07,066 --> 01:12:09,900
-I'm here to finish
-what I started!
+I'm here to finish what I started!
 
 909
 01:12:11,691 --> 01:12:15,773
-I can't let the whole
-world see you go free!
+I can't let the whole world see you go free!
 
 910
 01:12:15,775 --> 01:12:20,939
-I'm gonna cause one more
-moment of chaos and heartbreak
+I'm gonna cause one more moment of chaos and heartbreak
 
 911
 01:12:20,941 --> 01:12:24,191
-before I leave this
-disgusting world!
+before I leave this disgusting world!
 
 912
 01:12:28,066 --> 01:12:31,314
-I killed your bitch of a
-wife and I would do it again
+I killed your bitch of a wife and I would do it again
 
 913
 01:12:31,316 --> 01:12:34,480
@@ -4045,8 +3660,7 @@ Yes.
 
 916
 01:12:39,525 --> 01:12:41,273
-Yes, this is perfect,
-this is perfect.
+Yes, this is perfect, this is perfect.
 
 917
 01:12:41,275 --> 01:12:43,148
@@ -4058,13 +3672,11 @@ You knew?
 
 919
 01:12:44,357 --> 01:12:47,065
-Well, I mean,
-you know, we hoped.
+Well, I mean, you know, we hoped.
 
 920
 01:12:51,066 --> 01:12:54,066
-See you in hell,
-you piece of shit!
+See you in hell, you piece of shit!
 
 921
 01:12:56,941 --> 01:12:58,105
@@ -4108,8 +3720,7 @@ Will you just, where is she?
 
 931
 01:13:15,357 --> 01:13:16,730
-Do I have to do
-everything myself?
+Do I have to do everything myself?
 
 932
 01:13:16,732 --> 01:13:18,023
@@ -4133,28 +3744,23 @@ Let's have some fun, shall we?
 
 937
 01:15:01,316 --> 01:15:03,064
-What are they doing, why
-aren't they attacking them?
+What are they doing, why aren't they attacking them?
 
 938
 01:15:03,066 --> 01:15:04,523
-We programmed them
-to behave the same way
+We programmed them to behave the same way
 
 939
 01:15:04,525 --> 01:15:06,480
-that they would in nature
-and they're very territorial.
+that they would in nature and they're very territorial.
 
 940
 01:15:06,482 --> 01:15:07,689
-We've never had
-this many at once
+We've never had this many at once
 
 941
 01:15:07,691 --> 01:15:08,564
-so I don't know what
-they're gonna do.
+so I don't know what they're gonna do.
 
 942
 01:15:08,566 --> 01:15:09,898
@@ -4170,13 +3776,11 @@ Yes!
 
 945
 01:17:56,066 --> 01:17:57,939
-- Pull him out now.
-- What?
+- Pull him out now. - What?
 
 946
 01:17:59,191 --> 01:18:02,230
-Whoa, whoa, Laura,
-what are you doing?
+Whoa, whoa, Laura, what are you doing?
 
 947
 01:18:02,232 --> 01:18:03,898
@@ -4184,8 +3788,7 @@ Wake him up, slowly.
 
 948
 01:18:03,900 --> 01:18:05,439
-Brian, go to
-commercial, right now.
+Brian, go to commercial, right now.
 
 949
 01:18:05,441 --> 01:18:07,564
@@ -4197,8 +3800,7 @@ Laura, look at me, look at me.
 
 951
 01:18:08,816 --> 01:18:11,355
-This has to be some kind
-of a misunderstanding.
+This has to be some kind of a misunderstanding.
 
 952
 01:18:11,357 --> 01:18:13,773
@@ -4226,13 +3828,11 @@ Tonight this is over.
 
 958
 01:18:19,232 --> 01:18:21,230
-There will be no
-more Jurassic Games.
+There will be no more Jurassic Games.
 
 959
 01:18:21,232 --> 01:18:23,023
-Okay, Laura, what are you,
-stop, what are you doing?
+Okay, Laura, what are you, stop, what are you doing?
 
 960
 01:18:23,025 --> 01:18:23,939
@@ -4256,8 +3856,7 @@ Are you kidding me?
 
 965
 01:18:27,691 --> 01:18:28,648
-What is happening right
-now, are you crazy?
+What is happening right now, are you crazy?
 
 966
 01:18:28,650 --> 01:18:29,648
@@ -4289,8 +3888,7 @@ Brian.
 
 973
 01:18:47,607 --> 01:18:49,900
-If I don't call off that
-T-Rex, it will kill him.
+If I don't call off that T-Rex, it will kill him.
 
 974
 01:18:51,650 --> 01:18:52,730
@@ -4310,8 +3908,7 @@ It's over.
 
 978
 01:19:01,566 --> 01:19:04,855
-Now watch this evil piece
-of shit learn his lesson.
+Now watch this evil piece of shit learn his lesson.
 
 979
 01:19:04,857 --> 01:19:05,855
@@ -4343,86 +3940,77 @@ We all know by now
 
 986
 01:21:38,691 --> 01:21:40,230
-the terrible events
-that occurred
+os terríveis acontecimentos que ocorreram
 
 987
 01:21:40,232 --> 01:21:42,939
-during the finale of this past
-season of the Jurassic Games.
+durante o final desta temporada passada dos Jogos Jurássico.
 
 988
 01:21:42,941 --> 01:21:44,814
-People all over the
-world are still mourning
+Pessoas de todo o mundo ainda estão de luto
 
 989
 01:21:44,816 --> 01:21:46,855
-the death of the beloved host.
+a morte do amado host.
 
 990
 01:21:46,857 --> 01:21:49,148
-It was tragic for sure.
+Foi trágico, com certeza.
 
 991
 01:21:49,150 --> 01:21:50,980
-But, you know what they say.
+Mas, você sabe o que eles dizem.
 
 992
 01:21:50,982 --> 01:21:51,980
-The show must go on!
+O show tem que continuar!
 
 993
 01:21:53,191 --> 01:21:54,730
-Wait, what are you saying?
+Espere, o que você está dizendo?
 
 994
 01:21:54,732 --> 01:21:56,355
-Do you know something
-we don't know?
+Sabe alguma coisa que nós não sabemos?
 
 995
 01:21:56,357 --> 01:21:59,855
-We've got the exclusive on
-the all new Jurassic Games.
+Nós temos o exclusivo sobre os todos os novos jogos Jurássico.
 
 996
 01:21:59,857 --> 01:22:02,398
-Back and better than
-ever for next season.
+De volta e melhor do que nunca para a próxima temporada.
 
 997
 01:22:02,400 --> 01:22:03,898
-This is so exciting!
+Isso é tão emocionante!
 
 998
 01:22:03,900 --> 01:22:07,273
-All new contestants, a new
-host, and we've got something
+Todos os novos concorrentes, um novo hospedeiro, e temos algo
 
 999
 01:22:07,275 --> 01:22:08,980
-very special to show you.
+muito especial para mostrar a você.
 
 1000
 01:22:08,982 --> 01:22:11,189
-An exclusive clip of a few
-of the stars of the show
+Um clipe exclusivo de algumas das estrelas do show
 
 1001
 01:22:11,191 --> 01:22:13,689
-sporting some
-amazing new upgrades.
+ostentando algumas surpreendentes novas atualizações.
 
 1002
 01:22:13,691 --> 01:22:15,314
-Ooh, I can't wait!
+Ooh, eu não posso esperar!
 
 1003
 01:22:15,316 --> 01:22:16,314
-Roll the clip.
+Rolar o clipe.
 
 1004
 01:22:29,490 --> 01:22:34,490
-Subtitles by explosiveskull
+Obrigado por assistir conosco smartflix.com
 
