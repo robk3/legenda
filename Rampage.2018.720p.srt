@@ -1,6 +1,7 @@
 0
 00:00:05,452 --> 00:00:26,457
 Obrigado por assitir Conosco smartflix.tv
+
 1
 00:00:27,670 --> 00:00:30,750
 EM 1993, A TECNOLOGIA CRISPR PERMITIU
