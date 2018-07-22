@@ -1,6 +1,10 @@
+0
+00:00:00,624 --> 00:01:00,000
+Obrigado Por assitir aqui http://smartflix.tv
+
 1
 00:01:19,676 --> 00:01:22,259
-<i>"Além do mundo que você conhece"</i>
+<i>"AlÃ©m do mundo que vocÃª conhece"</i>
 
 2
 00:01:22,260 --> 00:01:25,896
@@ -16,7 +20,7 @@
 
 5
 00:01:32,403 --> 00:01:35,365
-<i>"Asgard é um lar para os deuses."</i>
+<i>"Asgard Ã© um lar para os deuses."</i>
 
 6
 00:01:39,147 --> 00:01:42,318
@@ -29,21 +33,21 @@ perante o grande pai"</i>
 
 8
 00:01:47,148 --> 00:01:50,267
-<i>"A força vital de Odin flui
+<i>"A forÃ§a vital de Odin flui
 por toda a Asgard"</i>
 
 9
 00:01:51,062 --> 00:01:53,429
-<i>"E Asgard é Odin."</i>
+<i>"E Asgard Ã© Odin."</i>
 
 10
 00:01:54,130 --> 00:01:55,916
-<i>"O seu poder é soberano."</i>
+<i>"O seu poder Ã© soberano."</i>
 
 11
 00:01:56,644 --> 00:01:58,814
-<i>"E ele mantém o Reino de
-Asgard em segurança."</i>
+<i>"E ele mantÃ©m o Reino de
+Asgard em seguranÃ§a."</i>
 
 12
 00:01:59,520 --> 00:02:01,323
@@ -60,12 +64,12 @@ descansar e entrar no..."</i>
 
 15
 00:02:07,244 --> 00:02:10,244
-<i>"Quando Odin dorme, sua ausência
-deixa Asgard vulnerável."</i>
+<i>"Quando Odin dorme, sua ausÃªncia
+deixa Asgard vulnerÃ¡vel."</i>
 
 16
 00:02:14,419 --> 00:02:18,696
-<i>"E é então que o mal
+<i>"E Ã© entÃ£o que o mal
 cai sobre o seu Reino."</i>
 
 17
@@ -74,7 +78,7 @@ cai sobre o seu Reino."</i>
 
 18
 00:02:43,383 --> 00:02:46,383
-<i>" Gigantes, elfos negros e demônios"</i>
+<i>" Gigantes, elfos negros e demÃ´nios"</i>
 
 19
 00:02:46,384 --> 00:02:49,794
@@ -83,13 +87,13 @@ sobre os nove mundos"</i>
 
 20
 00:02:50,844 --> 00:02:55,463
-<i>"Mas eles são eternamente
+<i>"Mas eles sÃ£o eternamente
 derrotados por ele...</i>
 
 21
 00:02:57,575 --> 00:03:02,571
 <i>" O meu arrogante e
-bruto meio-irmão..."</i>
+bruto meio-irmÃ£o..."</i>
 
 22
 00:03:03,768 --> 00:03:04,578
@@ -97,11 +101,11 @@ bruto meio-irmão..."</i>
 
 23
 00:03:14,283 --> 00:03:15,411
-Eu não entendo...
+Eu nÃ£o entendo...
 
 24
 00:03:17,148 --> 00:03:19,601
-Onde ...onde é que eu estou?
+Onde ...onde Ã© que eu estou?
 
 25
 00:03:29,482 --> 00:03:31,174
@@ -114,21 +118,21 @@ porque em todo o Universo
 
 27
 00:03:36,416 --> 00:03:42,644
-apenas você quase conseguiu
+apenas vocÃª quase conseguiu
 derrotar o poderoso Thor.
 
 28
 00:03:44,112 --> 00:03:45,081
-O quê?
+O quÃª?
 
 29
 00:03:46,580 --> 00:03:47,694
-Eu não consigo...
+Eu nÃ£o consigo...
 
 30
 00:03:48,296 --> 00:03:53,837
-Não você, Bruce Banner.
-Você é uma criatura patética e fraca.
+NÃ£o vocÃª, Bruce Banner.
+VocÃª Ã© uma criatura patÃ©tica e fraca.
 
 31
 00:03:54,659 --> 00:03:56,811
@@ -144,24 +148,24 @@ Ainda resta um dia do "Sono de Odin".
 
 34
 00:04:04,372 --> 00:04:06,694
-O ciclo está quase completado.
+O ciclo estÃ¡ quase completado.
 
 35
 00:04:09,587 --> 00:04:15,090
-Como sempre os Asgardianos são
-vitoriosos contra as forças das trevas.
+Como sempre os Asgardianos sÃ£o
+vitoriosos contra as forÃ§as das trevas.
 
 36
 00:04:16,060 --> 00:04:18,190
-O meu irmão vai procurar a paz.
+O meu irmÃ£o vai procurar a paz.
 
 37
 00:04:18,666 --> 00:04:19,741
-Então...
+EntÃ£o...
 
 38
 00:04:19,742 --> 00:04:23,489
-Então irei destruí-lo.
+EntÃ£o irei destruÃ­-lo.
 
 39
 00:04:37,410 --> 00:04:42,768
@@ -174,8 +178,8 @@ Diga, Volstagg...
 
 41
 00:04:45,293 --> 00:04:49,140
-vai matar esse Troll debaixo de você
-ou vai guardá-lo para o jantar?
+vai matar esse Troll debaixo de vocÃª
+ou vai guardÃ¡-lo para o jantar?
 
 42
 00:04:51,693 --> 00:04:55,185
@@ -188,31 +192,31 @@ Os meus ouvidos me enganaram?
 
 44
 00:04:57,627 --> 00:04:59,919
-Será que Hogun, o cinzento, fez uma piada?
+SerÃ¡ que Hogun, o cinzento, fez uma piada?
 
 45
 00:05:00,427 --> 00:05:04,954
 Pensei que ainda estava chateado
-por não matar um Gigante do Gelo.
+por nÃ£o matar um Gigante do Gelo.
 
 46
 00:05:05,846 --> 00:05:08,116
-Ainda mata mais do que você, Fandral!
+Ainda mata mais do que vocÃª, Fandral!
 
 47
 00:05:08,607 --> 00:05:11,252
-Bem, mas veremos quem é que
-as donzelas recompensarão mais.
+Bem, mas veremos quem Ã© que
+as donzelas recompensarÃ£o mais.
 
 48
 00:05:23,636 --> 00:05:27,773
 Em algumas horas o velho pai vai acordar.
-Então poderemos nos contentar.
+EntÃ£o poderemos nos contentar.
 
 49
 00:05:34,178 --> 00:05:37,793
 A tua milady Sif gostaria de
-saber o que está pensando.
+saber o que estÃ¡ pensando.
 
 50
 00:05:38,642 --> 00:05:39,511
@@ -220,16 +224,16 @@ Sim...
 
 51
 00:05:39,512 --> 00:05:43,738
-Ganhamos o dia. Tudo está bem
+Ganhamos o dia. Tudo estÃ¡ bem
 no reino de Asgard.
 
 52
 00:05:44,737 --> 00:05:47,016
-Mas apenas até ao próximo "Sono de Odin".
+Mas apenas atÃ© ao prÃ³ximo "Sono de Odin".
 
 53
 00:05:47,554 --> 00:05:50,599
-É...como tem sido sempre.
+Ã‰...como tem sido sempre.
 
 54
 00:05:51,096 --> 00:05:54,058
@@ -242,7 +246,7 @@ E aceitar este ciclo de morte?
 
 56
 00:05:56,503 --> 00:05:59,787
-Quantos dos nossos bravos irmãos e irmãs
+Quantos dos nossos bravos irmÃ£os e irmÃ£s
 pereceram perante esta loucura?
 
 57
@@ -261,26 +265,26 @@ romper e as coisas mudarem...
 
 60
 00:06:09,923 --> 00:06:13,169
-então chega o fim dos tempos.
+entÃ£o chega o fim dos tempos.
 
 61
 00:06:13,517 --> 00:06:15,887
-É então que chega o Ragnarok.
+Ã‰ entÃ£o que chega o Ragnarok.
 
 62
 00:06:17,582 --> 00:06:19,709
-Talvez os nossos destinos não
+Talvez os nossos destinos nÃ£o
 sejam nossos para escolher.
 
 63
 00:06:21,198 --> 00:06:24,523
-Venha, vamos para o palácio do meu pai,
+Venha, vamos para o palÃ¡cio do meu pai,
 nos preparar para o seu despertar.
 
 64
 00:06:32,562 --> 00:06:35,587
 Por favor, te imploro,
-não faça isso.
+nÃ£o faÃ§a isso.
 
 65
 00:06:36,665 --> 00:06:39,414
@@ -289,12 +293,12 @@ manter o Hulk aqui dentro.
 
 66
 00:06:40,047 --> 00:06:43,108
-Não sabe a destruição
+NÃ£o sabe a destruiÃ§Ã£o
 que ele pode causar.
 
 67
 00:06:45,443 --> 00:06:48,901
-Não sei?
+NÃ£o sei?
 Seu tolo.
 
 68
@@ -303,11 +307,11 @@ Estou contando com ela.
 
 69
 00:06:51,925 --> 00:06:54,821
-Olha para você...tão fraco.
+Olha para vocÃª...tÃ£o fraco.
 
 70
 00:06:55,554 --> 00:06:59,965
-Se não fosse você dentro da mente do Hulk,
+Se nÃ£o fosse vocÃª dentro da mente do Hulk,
 obstruindo o seu poder...
 
 71
@@ -316,16 +320,16 @@ ele iria governar Midgard com a sua raiva.
 
 72
 00:07:03,498 --> 00:07:06,916
-Não vou deixá-lo sair!
-Não vou deixar você fazer isto!
+NÃ£o vou deixÃ¡-lo sair!
+NÃ£o vou deixar vocÃª fazer isto!
 
 73
 00:07:07,351 --> 00:07:09,277
-Não vai deixar?
+NÃ£o vai deixar?
 
 74
 00:07:09,871 --> 00:07:12,369
-Vocês mortais são tão divertidos.
+VocÃªs mortais sÃ£o tÃ£o divertidos.
 
 75
 00:07:13,089 --> 00:07:15,345
@@ -333,12 +337,12 @@ Deixe-me ver se me lembro corretamente...
 
 76
 00:07:15,719 --> 00:07:19,413
-É a raiva que liberta a fera.
+Ã‰ a raiva que liberta a fera.
 
 77
 00:07:29,462 --> 00:07:33,182
 Parece que me esqueci de
-como um mortal é frágil.
+como um mortal Ã© frÃ¡gil.
 
 78
 00:07:33,407 --> 00:07:37,442
@@ -346,11 +350,11 @@ Olha, Amora. Acho que ele vai chorar.
 
 79
 00:09:00,088 --> 00:09:01,151
-Não...
+NÃ£o...
 
 80
 00:09:03,007 --> 00:09:04,208
-Isto é impossível...
+Isto Ã© impossÃ­vel...
 
 81
 00:09:19,352 --> 00:09:20,380
@@ -358,11 +362,11 @@ Agora!
 
 82
 00:09:50,836 --> 00:09:54,449
-E assim começa o fim de Thor.
+E assim comeÃ§a o fim de Thor.
 
 83
 00:10:05,112 --> 00:10:09,652
-O que acha, Balder? Um último
+O que acha, Balder? Um Ãºltimo
 Troll ainda tem sonhos de conquista?
 
 84
@@ -376,7 +380,7 @@ a este canalha um presente...uma batalha!
 
 86
 00:11:05,344 --> 00:11:08,388
-O poder da criatura é incrível!
+O poder da criatura Ã© incrÃ­vel!
 
 87
 00:11:08,958 --> 00:11:10,292
@@ -384,8 +388,8 @@ Tenha cuidado, Loki.
 
 88
 00:11:10,293 --> 00:11:14,631
-A criatura está descontrolada
-e enquanto você a controla
+A criatura estÃ¡ descontrolada
+e enquanto vocÃª a controla
 
 89
 00:11:14,632 --> 00:11:16,870
@@ -397,28 +401,28 @@ Tem que me escutar...
 
 91
 00:11:19,377 --> 00:11:21,062
-Ele não pode ser controlado!
+Ele nÃ£o pode ser controlado!
 
 92
 00:11:21,063 --> 00:11:23,431
-Não teste a minha paciência, verme!
+NÃ£o teste a minha paciÃªncia, verme!
 
 93
 00:11:23,432 --> 00:11:26,323
-A minha atenção tem que
+A minha atenÃ§Ã£o tem que
 estar em outro lugar.
 
 94
 00:12:22,160 --> 00:12:24,936
-Você não é nenhum Troll, monstro!
+VocÃª nÃ£o Ã© nenhum Troll, monstro!
 
 95
 00:12:41,447 --> 00:12:42,603
-É a corneta do Balder.
+Ã‰ a corneta do Balder.
 
 96
 00:12:42,604 --> 00:12:47,227
-Mas isto não está certo.
+Mas isto nÃ£o estÃ¡ certo.
 Os inimigos de Asgard foram derrotados.
 
 97
@@ -431,8 +435,8 @@ Fica ao lado de Odin.
 
 99
 00:12:53,356 --> 00:12:55,956
-Se eu falhar em encontrar esta ameaça,
-Você deve proteger Odin.
+Se eu falhar em encontrar esta ameaÃ§a,
+VocÃª deve proteger Odin.
 
 100
 00:13:05,350 --> 00:13:06,948
@@ -440,15 +444,15 @@ Mas se Thor perder...
 
 101
 00:13:07,313 --> 00:13:09,115
-que esperanças terá Asgard?
+que esperanÃ§as terÃ¡ Asgard?
 
 102
 00:13:19,571 --> 00:13:22,168
-Terá que me matar, monstro...
+TerÃ¡ que me matar, monstro...
 
 103
 00:13:23,613 --> 00:13:26,213
-Porque eu não sairei daqui...
+Porque eu nÃ£o sairei daqui...
 
 104
 00:13:52,817 --> 00:13:55,178
@@ -456,7 +460,7 @@ Thor...a criatura...
 
 105
 00:13:55,890 --> 00:13:59,072
-Não é como nada que eu já tenha visto...
+NÃ£o Ã© como nada que eu jÃ¡ tenha visto...
 
 106
 00:13:59,316 --> 00:14:00,649
@@ -464,7 +468,7 @@ Sim, meu amigo.
 
 107
 00:14:01,203 --> 00:14:03,888
-Este não é um mal imortal que
+Este nÃ£o Ã© um mal imortal que
 estamos enfrentando agora...
 
 108
@@ -477,15 +481,15 @@ Dr. Banner, pode me ouvir dentro da fera?
 
 110
 00:14:28,356 --> 00:14:29,567
-Porque veio para cá?
+Porque veio para cÃ¡?
 
 111
 00:14:29,568 --> 00:14:32,231
-Para te matar é claro...
+Para te matar Ã© claro...
 
 112
 00:14:32,232 --> 00:14:34,551
-- caro meio-irmão.
+- caro meio-irmÃ£o.
 - Loki?
 
 113
@@ -495,7 +499,7 @@ Esperei uma eternidade por isto.
 114
 00:14:45,007 --> 00:14:47,529
 Para te esmagar com as
-minhas próprias mãos...
+minhas prÃ³prias mÃ£os...
 
 115
 00:14:47,530 --> 00:14:50,011
@@ -507,7 +511,7 @@ Para sentir a tua vida se dissipar...
 
 117
 00:14:53,691 --> 00:14:57,220
-enquanto as minhas mãos
+enquanto as minhas mÃ£os
 atacam tua garganta!
 
 118
@@ -520,11 +524,11 @@ Venha ao teu novo mestre, Mjolnir...
 
 120
 00:16:12,327 --> 00:16:14,743
-e vamos destruir o meu meio-irmão...
+e vamos destruir o meu meio-irmÃ£o...
 
 121
 00:16:15,100 --> 00:16:18,350
-pois agora não há ninguém
+pois agora nÃ£o hÃ¡ ninguÃ©m
 mais forte que Loki.
 
 122
@@ -537,7 +541,7 @@ Loki, chega!
 
 124
 00:16:33,502 --> 00:16:35,307
-A sua raiva está fortalecendo a besta!
+A sua raiva estÃ¡ fortalecendo a besta!
 
 125
 00:16:35,647 --> 00:16:37,541
@@ -550,7 +554,7 @@ Eu irei ter este...MARTELO!
 
 127
 00:16:54,075 --> 00:16:57,005
-Não! Terá o seu trovão!
+NÃ£o! TerÃ¡ o seu trovÃ£o!
 
 128
 00:17:13,183 --> 00:17:15,972
@@ -562,16 +566,16 @@ O monstro...
 
 130
 00:17:32,991 --> 00:17:34,629
-ele é a raiva encarnada...
+ele Ã© a raiva encarnada...
 
 131
 00:17:35,301 --> 00:17:36,811
-Ele quebrou o feitiço...
+Ele quebrou o feitiÃ§o...
 
 132
 00:17:39,230 --> 00:17:42,021
 O Hulk...
-Está livre!
+EstÃ¡ livre!
 
 133
 00:17:52,517 --> 00:17:54,620
@@ -579,17 +583,17 @@ Vai ajoelhar, Loki?
 
 134
 00:18:16,367 --> 00:18:19,042
-Verdadeiramente isto é
+Verdadeiramente isto Ã©
 o melhor dos dois mundos.
 
 135
 00:18:19,737 --> 00:18:23,268
-Não preciso controlar a besta
+NÃ£o preciso controlar a besta
 para desfrutar da sua raiva.
 
 136
 00:18:23,828 --> 00:18:25,838
-Adeus, irmão.
+Adeus, irmÃ£o.
 
 137
 00:18:25,839 --> 00:18:26,850
@@ -597,37 +601,37 @@ Isto...
 
 138
 00:18:27,673 --> 00:18:29,306
-Eu não queria isto.
+Eu nÃ£o queria isto.
 
 139
 00:18:31,962 --> 00:18:34,053
-Não há volta, Amora.
+NÃ£o hÃ¡ volta, Amora.
 
 140
 00:18:34,716 --> 00:18:38,881
-Afinal, se não fosse o
-teu coração negro magoado
+Afinal, se nÃ£o fosse o
+teu coraÃ§Ã£o negro magoado
 
 141
 00:18:39,249 --> 00:18:41,086
-nada disto teria sido possível.
+nada disto teria sido possÃ­vel.
 
 142
 00:18:45,817 --> 00:18:47,339
-Você não sabe o que fez.
+VocÃª nÃ£o sabe o que fez.
 
 143
 00:18:47,906 --> 00:18:52,364
-Sem ninguém para conter o Hulk,
-ele irá destruir todo o teu mundo.
+Sem ninguÃ©m para conter o Hulk,
+ele irÃ¡ destruir todo o teu mundo.
 
 144
 00:18:54,130 --> 00:18:56,355
-Acho o seu falatório inútil, mortal...
+Acho o seu falatÃ³rio inÃºtil, mortal...
 
 145
 00:18:56,641 --> 00:18:58,870
-Assim como você agora é inútil para mim.
+Assim como vocÃª agora Ã© inÃºtil para mim.
 
 146
 00:19:56,374 --> 00:19:57,323
@@ -648,11 +652,11 @@ Meu amor, eu...
 150
 00:21:20,857 --> 00:21:24,242
 Fiquei zangada quando preferiu Sif a mim.
-Mas eu não...
+Mas eu nÃ£o...
 
 151
 00:21:25,424 --> 00:21:28,244
-Queria o seu amor...não a sua morte.
+Queria o seu amor...nÃ£o a sua morte.
 
 152
 00:21:43,577 --> 00:21:45,490
@@ -661,15 +665,15 @@ Queria o seu amor...não a sua morte.
 
 153
 00:21:56,096 --> 00:22:00,016
-Onde está o Loki?
+Onde estÃ¡ o Loki?
 
 154
 00:22:41,148 --> 00:22:43,953
-O que esse monstro está fazendo?
+O que esse monstro estÃ¡ fazendo?
 
 155
 00:22:44,631 --> 00:22:46,274
-Ele vai atrás do Odin...
+Ele vai atrÃ¡s do Odin...
 
 156
 00:22:54,924 --> 00:22:55,944
@@ -677,27 +681,27 @@ Loki!
 
 157
 00:22:56,476 --> 00:22:59,262
-- Quero falar com você!
-- Não!
+- Quero falar com vocÃª!
+- NÃ£o!
 
 158
 00:22:59,263 --> 00:23:03,027
-Você estava à porta de Hela!
+VocÃª estava Ã  porta de Hela!
 Eu te derrotei!
 
 159
 00:23:09,020 --> 00:23:12,380
-Você! Atreve-se a trair o Deus da...
+VocÃª! Atreve-se a trair o Deus da...
 
 160
 00:23:30,801 --> 00:23:35,274
-O Hulk será enviado de volta a Midgard
-e você irá responder a Odin!
+O Hulk serÃ¡ enviado de volta a Midgard
+e vocÃª irÃ¡ responder a Odin!
 
 161
 00:23:35,275 --> 00:23:39,283
 Muito bem! Fique com a criatura.
-Ela já me divertiu o suficiente.
+Ela jÃ¡ me divertiu o suficiente.
 
 162
 00:23:39,650 --> 00:23:41,961
@@ -709,7 +713,7 @@ Loki, seu tolo!
 
 164
 00:23:43,956 --> 00:23:47,243
-Você o matou! Sabe o que fez?
+VocÃª o matou! Sabe o que fez?
 
 165
 00:23:48,835 --> 00:23:52,211
@@ -718,22 +722,22 @@ Hela reclamou a sua alma.
 
 166
 00:23:52,787 --> 00:23:55,382
-Sem a sua alma, não o posso
+Sem a sua alma, nÃ£o o posso
 devolver a Midgard.
 
 167
 00:23:55,827 --> 00:24:00,111
 Sem Bruce Banner o Hulk
-não pode deixar Asgard!
+nÃ£o pode deixar Asgard!
 
 168
 00:24:32,580 --> 00:24:35,353
-Valquírias! Guerreiros!
+ValquÃ­rias! Guerreiros!
 
 169
 00:24:35,741 --> 00:24:38,491
 Os vossos lugares em
-Valhalla estão prometidos!
+Valhalla estÃ£o prometidos!
 
 170
 00:24:38,872 --> 00:24:41,836
@@ -745,28 +749,28 @@ Por Asgard!
 
 172
 00:24:50,374 --> 00:24:53,028
-Eu vi os olhos da fera, irmão!
+Eu vi os olhos da fera, irmÃ£o!
 
 173
 00:24:53,029 --> 00:24:56,986
-Ele não vai parar até toda
-Asgard estar destruída!
+Ele nÃ£o vai parar atÃ© toda
+Asgard estar destruÃ­da!
 
 174
 00:24:57,367 --> 00:24:58,958
-Até Odin estar derrotado!
+AtÃ© Odin estar derrotado!
 
 175
 00:24:59,501 --> 00:25:02,063
-Trouxe um novo Ragnarok até nós!
+Trouxe um novo Ragnarok atÃ© nÃ³s!
 
 176
 00:25:03,495 --> 00:25:07,230
-Se for possível...eu peço desculpas...
+Se for possÃ­vel...eu peÃ§o desculpas...
 
 177
 00:25:11,769 --> 00:25:14,005
-Amora, preciso de você ao lado de Odin.
+Amora, preciso de vocÃª ao lado de Odin.
 
 178
 00:25:14,006 --> 00:25:16,293
@@ -778,12 +782,12 @@ Como queira.
 
 180
 00:25:25,486 --> 00:25:30,145
-Loki, vai enviar as forças negras
+Loki, vai enviar as forÃ§as negras
 que lhe sobraram para combater o Hulk.
 
 181
 00:25:31,243 --> 00:25:35,296
-Você e eu vamos ao reino de Hela.
+VocÃª e eu vamos ao reino de Hela.
 
 182
 00:25:50,915 --> 00:25:53,306
@@ -801,7 +805,7 @@ A pedido dele?
 185
 00:26:00,781 --> 00:26:05,959
 Mais talvez por causa de piedade, Bruxa.
-Ele deve ter visto a sua mão neste ataque.
+Ele deve ter visto a sua mÃ£o neste ataque.
 
 186
 00:26:08,155 --> 00:26:11,192
@@ -820,26 +824,26 @@ que ver este reino.
 
 189
 00:27:05,423 --> 00:27:10,601
-Sempre me esqueço de como este
-lugar dá muito trabalho à minha filha.
+Sempre me esqueÃ§o de como este
+lugar dÃ¡ muito trabalho Ã  minha filha.
 
 190
 00:27:11,100 --> 00:27:13,929
 Isso quer dizer que ela nunca
-recebe amigos aqui, irmão?
+recebe amigos aqui, irmÃ£o?
 
 191
 00:27:14,164 --> 00:27:17,098
-Descanse, irmãozinho.
-Você vai ficar aqui.
+Descanse, irmÃ£ozinho.
+VocÃª vai ficar aqui.
 
 192
 00:27:55,352 --> 00:27:57,542
-Não...isto não faz nenhum sentido.
+NÃ£o...isto nÃ£o faz nenhum sentido.
 
 193
 00:28:01,025 --> 00:28:03,528
-Bruce, você está bem?
+Bruce, vocÃª estÃ¡ bem?
 
 194
 00:28:04,766 --> 00:28:05,529
@@ -851,15 +855,15 @@ Eu pensei que...
 
 196
 00:28:09,016 --> 00:28:12,973
-Eu não entendo...Eu estava sozinho e depois...
+Eu nÃ£o entendo...Eu estava sozinho e depois...
 
 197
 00:28:12,974 --> 00:28:15,248
-Você não está sozinho, Bruce.
+VocÃª nÃ£o estÃ¡ sozinho, Bruce.
 
 198
 00:28:16,592 --> 00:28:17,644
-Não está mais.
+NÃ£o estÃ¡ mais.
 
 199
 00:28:21,430 --> 00:28:22,395
@@ -871,11 +875,11 @@ Vem brincar comigo.
 
 201
 00:28:46,852 --> 00:28:49,738
-Saudações, Hela, deusa da morte!
+SaudaÃ§Ãµes, Hela, deusa da morte!
 
 202
 00:28:50,083 --> 00:28:51,878
-Queremos uma audiência.
+Queremos uma audiÃªncia.
 
 203
 00:28:56,647 --> 00:29:01,129
@@ -902,7 +906,7 @@ Precisamos de Bruce Banner.
 
 208
 00:29:19,276 --> 00:29:23,110
-A alma do mortal é minha, asgardiano.
+A alma do mortal Ã© minha, asgardiano.
 
 209
 00:29:23,550 --> 00:29:28,913
@@ -916,11 +920,11 @@ por causa de uma alma?
 
 211
 00:29:32,543 --> 00:29:35,240
-Tal como você faria, filho de Odin.
+Tal como vocÃª faria, filho de Odin.
 
 212
 00:29:36,397 --> 00:29:39,254
-Mas você não tem uma alma, filha.
+Mas vocÃª nÃ£o tem uma alma, filha.
 
 213
 00:29:39,540 --> 00:29:41,315
@@ -928,12 +932,12 @@ Tem metade de uma alma.
 
 214
 00:29:41,540 --> 00:29:46,432
-Tem só o Bruce Banner.
-Precisa do Hulk para completar o teu prêmio.
+Tem sÃ³ o Bruce Banner.
+Precisa do Hulk para completar o teu prÃªmio.
 
 215
 00:30:30,781 --> 00:30:32,226
-Você está bem?
+VocÃª estÃ¡ bem?
 
 216
 00:30:32,792 --> 00:30:36,531
@@ -941,7 +945,7 @@ Eu me sinto...Eu me sinto bem.
 
 217
 00:30:40,127 --> 00:30:42,516
-Não consigo imaginar nada melhor.
+NÃ£o consigo imaginar nada melhor.
 
 218
 00:30:46,349 --> 00:30:48,065
@@ -949,7 +953,7 @@ Não consigo imaginar nada melhor.
 
 219
 00:31:02,780 --> 00:31:05,739
-<i> Vim por você.</i>
+<i> Vim por vocÃª.</i>
 
 220
 00:31:10,760 --> 00:31:11,536
@@ -957,20 +961,20 @@ Betty?
 
 221
 00:31:13,185 --> 00:31:15,559
-Betty? Onde você está?
+Betty? Onde vocÃª estÃ¡?
 
 222
 00:31:18,952 --> 00:31:21,947
-O mundo dos vivos precisa de você.
+O mundo dos vivos precisa de vocÃª.
 
 223
 00:31:26,713 --> 00:31:28,951
-Quem é você?
+Quem Ã© vocÃª?
 O que quer de mim?
 
 224
 00:31:29,648 --> 00:31:31,842
-Eu não. Ele!
+Eu nÃ£o. Ele!
 
 225
 00:31:31,843 --> 00:31:33,146
@@ -987,19 +991,19 @@ Betty?
 
 228
 00:31:42,885 --> 00:31:44,131
-Onde está...?
+Onde estÃ¡...?
 
 229
 00:31:47,115 --> 00:31:47,811
-Não...
+NÃ£o...
 
 230
 00:31:50,007 --> 00:31:51,991
-Não!
+NÃ£o!
 
 231
 00:32:41,661 --> 00:32:44,679
-Não! Não pode me pedir
+NÃ£o! NÃ£o pode me pedir
 para fazer isso!
 
 232
@@ -1008,38 +1012,38 @@ Eu finalmente estava em paz.
 
 233
 00:32:48,847 --> 00:32:50,660
-Não sabe o que está me pedindo!
+NÃ£o sabe o que estÃ¡ me pedindo!
 
 234
 00:32:51,403 --> 00:32:55,182
-O seu tempo em Hel não te
+O seu tempo em Hel nÃ£o te
 fez ser mais que um verme.
 
 235
 00:33:27,307 --> 00:33:31,303
 Bruce Banner.
-Sei que é um homem de honra.
+Sei que Ã© um homem de honra.
 
 236
 00:33:32,007 --> 00:33:33,508
-Eu sei que é um herói.
+Eu sei que Ã© um herÃ³i.
 
 237
 00:33:33,943 --> 00:33:37,213
-As vidas em perigo não são sua preocupação,
-nem sequer são humanas.
+As vidas em perigo nÃ£o sÃ£o sua preocupaÃ§Ã£o,
+nem sequer sÃ£o humanas.
 
 238
 00:33:38,383 --> 00:33:39,734
-Mas te peço do mesmo jeito...
+Mas te peÃ§o do mesmo jeito...
 
 239
 00:33:40,253 --> 00:33:42,031
-Seja esse herói agora.
+Seja esse herÃ³i agora.
 
 240
 00:33:46,521 --> 00:33:49,863
-Não! Não posso.
+NÃ£o! NÃ£o posso.
 
 241
 00:33:49,864 --> 00:33:51,908
@@ -1047,7 +1051,7 @@ Morra, besta!
 
 242
 00:34:01,842 --> 00:34:04,679
-A alma do Hulk é sua
+A alma do Hulk Ã© sua
 por direito, filha.
 
 243
@@ -1061,28 +1065,28 @@ da alma dele e exija-a.
 
 245
 00:34:28,782 --> 00:34:34,583
-Bruce Banner, não te forçarei a perder
-as recompensas da além vida
+Bruce Banner, nÃ£o te forÃ§arei a perder
+as recompensas da alÃ©m vida
 
 246
 00:34:35,146 --> 00:34:37,212
-Mas tem que contemplá-lo.
+Mas tem que contemplÃ¡-lo.
 
 247
 00:34:37,322 --> 00:34:39,562
-Não! Não o farei.
+NÃ£o! NÃ£o o farei.
 
 248
 00:34:40,440 --> 00:34:41,846
-Você não entende...
+VocÃª nÃ£o entende...
 
 249
 00:34:53,850 --> 00:34:55,117
-Não!
+NÃ£o!
 
 250
 00:35:38,164 --> 00:35:40,733
-Amaldiçoado seja, Loki!
+AmaldiÃ§oado seja, Loki!
 
 251
 00:35:40,948 --> 00:35:44,800
@@ -1091,17 +1095,17 @@ criatura para o meu Reino!
 
 252
 00:35:45,110 --> 00:35:48,315
-Pare a sua mão, Hela!
-Nós vamos recuperar o Hulk.
+Pare a sua mÃ£o, Hela!
+NÃ³s vamos recuperar o Hulk.
 
 253
 00:35:48,536 --> 00:35:52,202
-Nós? Os punhos do Hulk
-abalaram a tua mente, trovão.
+NÃ³s? Os punhos do Hulk
+abalaram a tua mente, trovÃ£o.
 
 254
 00:35:52,699 --> 00:35:54,058
-Lute comigo, irmão...
+Lute comigo, irmÃ£o...
 
 255
 00:35:54,455 --> 00:35:56,030
@@ -1109,8 +1113,8 @@ Ou morra sozinho.
 
 256
 00:35:56,769 --> 00:35:59,862
-Não é lá uma grande ameaça considerando
-que já estamos no inferno.
+NÃ£o Ã© lÃ¡ uma grande ameaÃ§a considerando
+que jÃ¡ estamos no inferno.
 
 257
 00:36:03,168 --> 00:36:04,952
@@ -1128,7 +1132,7 @@ Hulk!
 260
 00:37:29,887 --> 00:37:32,778
 Largue-os!
-É a mim que quer.
+Ã‰ a mim que quer.
 
 261
 00:37:39,779 --> 00:37:40,691
@@ -1144,16 +1148,16 @@ Hulk...cansado...
 
 264
 00:38:14,364 --> 00:38:15,872
-Você disse que ele era fraco, Loki.
+VocÃª disse que ele era fraco, Loki.
 
 265
 00:38:16,602 --> 00:38:20,146
-Mas há mais força e coragem nesse homem
-do que alguma vez irá conhecer.
+Mas hÃ¡ mais forÃ§a e coragem nesse homem
+do que alguma vez irÃ¡ conhecer.
 
 266
 00:38:21,361 --> 00:38:26,410
-Esta alma é perigosa demais para manter
+Esta alma Ã© perigosa demais para manter
 em Hel e valiosa demais para ir para Valhalla.
 
 267
@@ -1166,12 +1170,12 @@ Chega destas besteiras.
 
 269
 00:38:40,956 --> 00:38:47,404
-Acham que Loki, príncipe das trevas,
+Acham que Loki, prÃ­ncipe das trevas,
 perde tempo defendendo Asgard?
 
 270
 00:38:48,484 --> 00:38:49,441
-Não, irmão!
+NÃ£o, irmÃ£o!
 
 271
 00:38:50,003 --> 00:38:53,677
@@ -1180,7 +1184,7 @@ tem muito pelo que responder.
 
 272
 00:38:54,029 --> 00:38:56,627
-Na verdade vocês dois têm.
+Na verdade vocÃªs dois tÃªm.
 
 273
 00:38:57,329 --> 00:39:03,446
@@ -1198,12 +1202,12 @@ Mas vai ter de lutar por ela.
 
 276
 00:39:08,675 --> 00:39:11,306
-E o seu Reino já
+E o seu Reino jÃ¡
 sofreu demais por hoje.
 
 277
 00:39:14,858 --> 00:39:16,167
-Você fala a verdade.
+VocÃª fala a verdade.
 
 278
 00:39:16,883 --> 00:39:20,239
@@ -1211,7 +1215,7 @@ Por isso vou ficar com a dele.
 
 279
 00:39:20,625 --> 00:39:21,321
-O quê?
+O quÃª?
 
 280
 00:39:26,760 --> 00:39:27,965
@@ -1228,13 +1232,13 @@ pela alma de Loki.
 
 283
 00:39:38,216 --> 00:39:40,256
-- E irá?
-- Não.
+- E irÃ¡?
+- NÃ£o.
 
 284
 00:39:40,842 --> 00:39:44,562
-Ele é meu pai.
-A sua estadia não será eterna.
+Ele Ã© meu pai.
+A sua estadia nÃ£o serÃ¡ eterna.
 
 285
 00:39:44,989 --> 00:39:47,294
@@ -1242,15 +1246,15 @@ Mas fique sabendo disto, filho de Odin...
 
 286
 00:39:47,723 --> 00:39:50,465
-A sua alma será minha.
+A sua alma serÃ¡ minha.
 
 287
 00:39:50,645 --> 00:39:52,656
-E vou guardá-la para sempre!
+E vou guardÃ¡-la para sempre!
 
 288
 00:39:53,945 --> 00:39:56,585
-Não poderá escapar do seu destino.
+NÃ£o poderÃ¡ escapar do seu destino.
 
 289
 00:39:57,440 --> 00:39:58,830
@@ -1262,18 +1266,18 @@ Que o ciclo recomece.
 
 291
 00:40:39,502 --> 00:40:45,084
-Asgard está mais uma vez salva.
-Defendida do seu fim pelos seus heróis.
+Asgard estÃ¡ mais uma vez salva.
+Defendida do seu fim pelos seus herÃ³is.
 
 292
 00:40:45,085 --> 00:40:48,237
 Estou orgulhoso de cada um
-dos que estão perante mim.
+dos que estÃ£o perante mim.
 
 293
 00:40:48,866 --> 00:40:52,118
 O dia foi salvo pela
-lealdade e pelo sacrifício.
+lealdade e pelo sacrifÃ­cio.
 
 294
 00:40:52,576 --> 00:40:54,991
@@ -1282,36 +1286,36 @@ lutaram ao nosso lado.
 
 295
 00:40:56,732 --> 00:40:58,547
-Aqueles que já não estão conosco...
+Aqueles que jÃ¡ nÃ£o estÃ£o conosco...
 
 296
 00:40:59,889 --> 00:41:03,396
 E desafiamos aqueles que
-querem a nossa ruína.
+querem a nossa ruÃ­na.
 
 297
 00:41:05,862 --> 00:41:09,976
 E enquanto as recompensas de Valhalla
-esperam todos os heróis de Asgard
+esperam todos os herÃ³is de Asgard
 
 298
 00:41:10,704 --> 00:41:13,332
 Neste dia honramos um
-herói de Midgard.
+herÃ³i de Midgard.
 
 299
 00:41:14,235 --> 00:41:18,416
 Um mortal que sacrificou tudo por
-uma terra que não era a dele.
+uma terra que nÃ£o era a dele.
 
 300
 00:41:21,802 --> 00:41:26,009
 Neste dia um humano mostrou aos Deuses
-do que são feitas as lendas.
+do que sÃ£o feitas as lendas.
 
 301
 00:41:26,652 --> 00:41:29,744
-Saúdam o mortal...
+SaÃºdam o mortal...
 Bruce Banner!
 
 302
