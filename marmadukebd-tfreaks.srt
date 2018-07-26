@@ -1,25 +1,29 @@
+0
+00:00:00,624 --> 00:01:00,000
+Obrigado Por assitir aqui http://smartflix.tv
+
 1
 00:01:03,000 --> 00:01:04,700
-Ensino secundário.
+Ensino secundÃ¡rio.
 
 2
 00:01:05,600 --> 00:01:08,200
 Parece familiar?
-Pois é.
+Pois Ã©.
 
 3
 00:01:09,600 --> 00:01:13,300
 Ser adolescente? Pode ser
-difícil, não vou mentir.
+difÃ­cil, nÃ£o vou mentir.
 
 4
 00:01:13,600 --> 00:01:17,100
-Mas se você é um adolescente,
-e não se encaixa no mundo,
+Mas se vocÃª Ã© um adolescente,
+e nÃ£o se encaixa no mundo,
 
 5
 00:01:17,100 --> 00:01:19,100
-está completamente frito!
+estÃ¡ completamente frito!
 
 6
 00:01:19,100 --> 00:01:20,400
@@ -27,14 +31,14 @@ MARMADUKE
 
 7
 00:01:20,400 --> 00:01:23,400
-Tradução e Sinc:
+TraduÃ§Ã£o e Sinc:
 darkway 
  Hirschen 
  NaNNa
 
 8
 00:01:23,400 --> 00:01:25,400
-Revisão: NaNNa
+RevisÃ£o: NaNNa
 
 9
 00:01:25,400 --> 00:01:27,900
@@ -42,7 +46,7 @@ Resync: lostlocke
 
 10
 00:01:29,400 --> 00:01:33,300
-E quanto mais você tenta
+E quanto mais vocÃª tenta
 se encaixar, mais complicado fica.
 
 11
@@ -57,18 +61,18 @@ grande e desajeitado
 
 13
 00:01:46,900 --> 00:01:48,900
-é a pior coisa
+Ã© a pior coisa
 que pode te acontecer...
 
 14
 00:01:48,900 --> 00:01:51,600
-Tente ser um cão
+Tente ser um cÃ£o
 adolescente de 90 kgs
 
 15
 00:01:51,600 --> 00:01:54,100
-com uma antena parabólica
-em volta do seu pescoço.
+com uma antena parabÃ³lica
+em volta do seu pescoÃ§o.
 
 16
 00:01:54,100 --> 00:01:56,600
@@ -77,37 +81,37 @@ ser muito popular.
 
 17
 00:01:56,600 --> 00:01:59,500
-Feio, mas fácil de tirar.
-Olha só isso.
+Feio, mas fÃ¡cil de tirar.
+Olha sÃ³ isso.
 
 18
 00:02:00,500 --> 00:02:02,200
 - Marmaduke!
-- Não disse?
+- NÃ£o disse?
 
 19
 00:02:02,200 --> 00:02:04,900
-- Cadê você?
-- Calma aí!
+- CadÃª vocÃª?
+- Calma aÃ­!
 
 20
 00:02:04,900 --> 00:02:08,000
-Aliás, sou Marmaduke.
-Estão sempre gritando comigo.
+AliÃ¡s, sou Marmaduke.
+EstÃ£o sempre gritando comigo.
 
 21
 00:02:08,000 --> 00:02:11,400
-Venha, vamos conhecer a família.
-Os bípedes. Você vai amá-los.
+Venha, vamos conhecer a famÃ­lia.
+Os bÃ­pedes. VocÃª vai amÃ¡-los.
 
 22
 00:02:11,400 --> 00:02:12,800
-Lá vou eu!
+LÃ¡ vou eu!
 
 23
 00:02:15,200 --> 00:02:17,900
 Esse amiguinho aqui
-é o Brian.
+Ã© o Brian.
 
 24
 00:02:17,900 --> 00:02:21,200
@@ -116,18 +120,18 @@ dele, ele adora brincar comigo.
 
 25
 00:02:21,200 --> 00:02:24,000
-Vamos, amigão.
-Não consigo ver...
+Vamos, amigÃ£o.
+NÃ£o consigo ver...
 
 26
 00:02:24,000 --> 00:02:27,400
-É, também estou bastante ocupado,
-vejo você depois.
+Ã‰, tambÃ©m estou bastante ocupado,
+vejo vocÃª depois.
 
 27
 00:02:27,600 --> 00:02:30,000
 E essa "borboleta social" aqui
-é a Barbara.
+Ã© a Barbara.
 
 28
 00:02:30,000 --> 00:02:31,900
@@ -135,17 +139,17 @@ Ela adora jogar bola comigo.
 
 29
 00:02:31,900 --> 00:02:34,000
-Certo, Barb. Você joga
+Certo, Barb. VocÃª joga
 e eu pego.
 
 30
 00:02:34,000 --> 00:02:36,500
-- Não fala comigo assim.
-- Não assim!
+- NÃ£o fala comigo assim.
+- NÃ£o assim!
 
 31
 00:02:36,500 --> 00:02:38,100
-Alguém está cozinhando?
+AlguÃ©m estÃ¡ cozinhando?
 
 32
 00:02:38,100 --> 00:02:39,500
@@ -153,8 +157,8 @@ Comida!
 
 33
 00:02:40,000 --> 00:02:43,100
-Debbie é bem legal. Ela é minha
-principal ligação com a comida.
+Debbie Ã© bem legal. Ela Ã© minha
+principal ligaÃ§Ã£o com a comida.
 
 34
 00:02:43,100 --> 00:02:45,800
@@ -163,7 +167,7 @@ um pouco de peru ali...
 
 35
 00:02:45,800 --> 00:02:49,800
-É por isso que acho que ela
+Ã‰ por isso que acho que ela
 nem liga quando eu mesmo pego.
 
 36
@@ -181,27 +185,27 @@ Marmaduke!
 
 39
 00:03:01,300 --> 00:03:02,800
-A pequenininha é a Sarah.
+A pequenininha Ã© a Sarah.
 
 40
 00:03:02,800 --> 00:03:05,700
-Não é uma fofura?
-E é a minha maior fã.
+NÃ£o Ã© uma fofura?
+E Ã© a minha maior fÃ£.
 
 41
 00:03:05,700 --> 00:03:08,300
-É importante que eles
+Ã‰ importante que eles
 se exercitem nessa idade,
 
 42
 00:03:08,300 --> 00:03:10,500
-então tento levá-la
+entÃ£o tento levÃ¡-la
 para passear todo dia.
 
 43
 00:03:10,500 --> 00:03:12,500
-Ela tem uma ótima
-risada, não?
+Ela tem uma Ã³tima
+risada, nÃ£o?
 
 44
 00:03:14,000 --> 00:03:15,600
@@ -214,58 +218,58 @@ firma de comida para animais.
 
 46
 00:03:18,500 --> 00:03:21,900
-Eu o chamo de "Dr. Não" às vezes,
-porque com ele são só regras.
+Eu o chamo de "Dr. NÃ£o" Ã s vezes,
+porque com ele sÃ£o sÃ³ regras.
 
 47
 00:03:21,900 --> 00:03:26,000
-Não babe, não lata,
-não corra atrás do carteiro...
+NÃ£o babe, nÃ£o lata,
+nÃ£o corra atrÃ¡s do carteiro...
 
 48
 00:03:26,000 --> 00:03:28,700
-Vejamos se diz não para esse
+Vejamos se diz nÃ£o para esse
 buraco que estou cavando.
 
 49
 00:03:28,700 --> 00:03:33,900
-- Marmaduke, não!
-- Viu só? Dr. Não chegou!
+- Marmaduke, nÃ£o!
+- Viu sÃ³? Dr. NÃ£o chegou!
 
 50
 00:03:33,900 --> 00:03:35,900
-Por que não tenta
+Por que nÃ£o tenta
 uma vez?
 
 51
 00:03:36,700 --> 00:03:39,200
 - Vou encontrar a China!
-- Não...
+- NÃ£o...
 
 52
 00:03:40,400 --> 00:03:44,000
-O que você está fazendo
-é cruel e incomum.
+O que vocÃª estÃ¡ fazendo
+Ã© cruel e incomum.
 
 53
 00:03:44,000 --> 00:03:48,200
-Eu odeio água. Todos têm
-uma fraqueza, a minha é a água.
+Eu odeio Ã¡gua. Todos tÃªm
+uma fraqueza, a minha Ã© a Ã¡gua.
 
 54
 00:03:48,200 --> 00:03:49,700
-- É a minha kriptonita.
+- Ã‰ a minha kriptonita.
 - Senta!
 
 55
 00:03:49,700 --> 00:03:54,200
-- Não vou sentar nessa banheira!
+- NÃ£o vou sentar nessa banheira!
 - Senta, Marmaduke!
 
 56
 00:03:55,200 --> 00:03:57,400
 O que posso dizer?
-Eu adoro essa criança.
+Eu adoro essa crianÃ§a.
 
 57
 00:03:57,400 --> 00:04:00,700
@@ -279,32 +283,32 @@ Eu adoro essa criança.
 
 59
 00:04:03,500 --> 00:04:07,900
-Não tem nada de bom em tomar
+NÃ£o tem nada de bom em tomar
 um banho. Exceto por... isso!
 
 60
 00:04:07,900 --> 00:04:10,800
 - Vamos, Phil!
-- De novo não! Marmaduke!
+- De novo nÃ£o! Marmaduke!
 
 61
 00:04:11,100 --> 00:04:13,700
-- Vamos lá!
+- Vamos lÃ¡!
 - Marmaduke!
 
 62
 00:04:13,700 --> 00:04:15,300
 Gosto de exercitar
-o Phil também.
+o Phil tambÃ©m.
 
 63
 00:04:15,300 --> 00:04:18,300
-Ele fica naquele escritório
+Ele fica naquele escritÃ³rio
 o dia todo. Venha, Phil!
 
 64
 00:04:18,800 --> 00:04:20,900
-- Assim é que se faz!
+- Assim Ã© que se faz!
 - Volta aqui!
 
 65
@@ -317,11 +321,11 @@ Vamos!
 
 67
 00:04:27,500 --> 00:04:29,000
-Dessa vez não!
+Dessa vez nÃ£o!
 
 68
 00:04:30,000 --> 00:04:32,000
-Não se pega um tigre
+NÃ£o se pega um tigre
 pelo rabo!
 
 69
@@ -332,7 +336,7 @@ pelo rabo!
 70
 00:04:37,900 --> 00:04:40,500
 Temos um cachorro louco
-à solta!
+Ã  solta!
 
 71
 00:04:40,500 --> 00:04:41,900
@@ -340,12 +344,12 @@ Liberdade!
 
 72
 00:04:46,100 --> 00:04:48,100
-Oi, pai! O que está fazendo?
+Oi, pai! O que estÃ¡ fazendo?
 
 73
 00:04:49,500 --> 00:04:52,900
 Eles morreriam se instalassem
-uma nova porta para cães?
+uma nova porta para cÃ£es?
 
 74
 00:04:52,900 --> 00:04:55,800
@@ -355,7 +359,7 @@ quando instalaram essa.
 75
 00:04:55,800 --> 00:04:58,400
 Eu tinha mais moral antes
-do esporão de crescimento.
+do esporÃ£o de crescimento.
 
 76
 00:04:58,400 --> 00:04:59,700
@@ -363,27 +367,27 @@ Alguns "flashbacks".
 
 77
 00:05:01,300 --> 00:05:03,600
-Estão vendo?
+EstÃ£o vendo?
 Loucamente fofo.
 
 78
 00:05:04,100 --> 00:05:06,600
-Quem é esse pequeno
-e adorável Marma-fofo?
+Quem Ã© esse pequeno
+e adorÃ¡vel Marma-fofo?
 
 79
 00:05:06,600 --> 00:05:08,000
-Vem cá, você!
+Vem cÃ¡, vocÃª!
 
 80
 00:05:08,800 --> 00:05:11,700
-Mas quando você cresce
+Mas quando vocÃª cresce
 e vira isso, eu entendo.
 
 81
 00:05:11,700 --> 00:05:14,300
 Nada bonito.
-Eu também me ignoraria.
+Eu tambÃ©m me ignoraria.
 
 82
 00:05:14,400 --> 00:05:16,400
@@ -392,11 +396,11 @@ Ei, estou falando!
 83
 00:05:18,200 --> 00:05:21,200
 Mas enfim, eu tento
-não me ressentir com o Phil.
+nÃ£o me ressentir com o Phil.
 
 84
 00:05:21,200 --> 00:05:22,900
-Afinal, ele é humano
+Afinal, ele Ã© humano
 por natureza.
 
 85
@@ -415,13 +419,13 @@ da semana passada.
 
 88
 00:05:30,600 --> 00:05:32,500
-Vamos deixar aí
+Vamos deixar aÃ­
 por mais uns dias.
 
 89
 00:05:32,500 --> 00:05:36,500
-É a nossa chance.
-Califórnia, as grandes ligas.
+Ã‰ a nossa chance.
+CalifÃ³rnia, as grandes ligas.
 
 90
 00:05:36,600 --> 00:05:39,800
@@ -431,7 +435,7 @@ esteroides e namoram supermodelos!
 91
 00:05:39,800 --> 00:05:42,600
 Trabalho em Marketing com
-comida orgânica para animais.
+comida orgÃ¢nica para animais.
 
 92
 00:05:42,600 --> 00:05:44,200
@@ -444,13 +448,13 @@ vou guardar esse para a sobremesa.
 
 94
 00:05:49,400 --> 00:05:52,200
-E aquilo, não faço ideia
+E aquilo, nÃ£o faÃ§o ideia
 do que seja.
 
 95
 00:05:52,200 --> 00:05:57,200
-- Não estamos bem no Kansas?
-- É onde quer estar? Só "bem"?
+- NÃ£o estamos bem no Kansas?
+- Ã‰ onde quer estar? SÃ³ "bem"?
 
 96
 00:05:58,400 --> 00:05:59,700
@@ -458,27 +462,27 @@ Olha a aterrissagem!
 
 97
 00:05:59,700 --> 00:06:02,000
-Posso dar a vocês
+Posso dar a vocÃªs
 a vida que merecem.
 
 98
 00:06:02,500 --> 00:06:06,700
 Quero uma casa maior, com um quarto
-que não cheire a depósito de carne.
+que nÃ£o cheire a depÃ³sito de carne.
 
 99
 00:06:08,500 --> 00:06:10,100
-É a nossa chance!
+Ã‰ a nossa chance!
 
 100
 00:06:10,800 --> 00:06:13,600
-Bem, se é a nossa chance,
-devemos agarrá-la.
+Bem, se Ã© a nossa chance,
+devemos agarrÃ¡-la.
 
 101
 00:06:14,300 --> 00:06:16,200
-Mas você terá
-que contar às crianças.
+Mas vocÃª terÃ¡
+que contar Ã s crianÃ§as.
 
 102
 00:06:16,500 --> 00:06:17,800
@@ -486,18 +490,18 @@ Feito!
 
 103
 00:06:19,000 --> 00:06:21,500
-- Me dê isso!
-- Ei, calma lá, não!
+- Me dÃª isso!
+- Ei, calma lÃ¡, nÃ£o!
 
 104
 00:06:21,500 --> 00:06:24,200
-- Não terminei com isso!
-- Não precisa se preocupar.
+- NÃ£o terminei com isso!
+- NÃ£o precisa se preocupar.
 
 105
 00:06:24,200 --> 00:06:26,800
 Minha supermodelo
-está bem aqui.
+estÃ¡ bem aqui.
 
 106
 00:06:28,700 --> 00:06:31,300
@@ -506,16 +510,16 @@ Esperem, esperem...
 107
 00:06:32,300 --> 00:06:35,800
 Marmaduke!
-O que você comeu?
+O que vocÃª comeu?
 
 108
 00:06:37,400 --> 00:06:42,100
-Sei que é imaturo,
-mas é tudo o que tenho.
+Sei que Ã© imaturo,
+mas Ã© tudo o que tenho.
 
 109
 00:06:42,100 --> 00:06:45,200
-Nada de paraíso, é mais um dia
+Nada de paraÃ­so, Ã© mais um dia
 na vida do seu velho Marmaduke.
 
 110
@@ -526,7 +530,7 @@ na vida do seu velho Marmaduke.
 111
 00:06:47,500 --> 00:06:50,200
 Foi um pouco demais,
-até mesmo para mim.
+atÃ© mesmo para mim.
 
 112
 00:06:50,200 --> 00:06:51,600
@@ -534,7 +538,7 @@ Marmaduke malvado!
 
 113
 00:06:51,600 --> 00:06:54,000
-Tudo bem, já chega.
+Tudo bem, jÃ¡ chega.
 Apagar as luzes.
 
 114
@@ -543,8 +547,8 @@ Waffles, waffles...
 
 115
 00:07:02,000 --> 00:07:04,300
-Isso! Waffles de sábado
-de manhã!
+Isso! Waffles de sÃ¡bado
+de manhÃ£!
 
 116
 00:07:04,300 --> 00:07:07,400
@@ -553,13 +557,13 @@ de manhã!
 
 117
 00:07:07,400 --> 00:07:10,200
-Um waffle é para ser
-saboreado, não aspirado!
+Um waffle Ã© para ser
+saboreado, nÃ£o aspirado!
 
 118
 00:07:10,200 --> 00:07:12,100
-Aliás, este é o meu
-meio-irmão Carlos.
+AliÃ¡s, este Ã© o meu
+meio-irmÃ£o Carlos.
 
 119
 00:07:12,100 --> 00:07:13,700
@@ -568,13 +572,13 @@ meio-irmão Carlos.
 
 120
 00:07:13,700 --> 00:07:17,200
-Ele é bem legal, para um gato.
-O que ajuda pois é meu único amigo.
+Ele Ã© bem legal, para um gato.
+O que ajuda pois Ã© meu Ãºnico amigo.
 
 121
 00:07:18,400 --> 00:07:20,500
 Preparado para uma
-notícia bombástica?
+notÃ­cia bombÃ¡stica?
 
 122
 00:07:20,500 --> 00:07:22,300
@@ -589,17 +593,17 @@ um novo emprego.
 124
 00:07:24,000 --> 00:07:27,400
 - Vamos nos mudar para "The O.C."!
-- Não me diga! Sério?
+- NÃ£o me diga! SÃ©rio?
 
 125
 00:07:27,400 --> 00:07:31,100
-Sem mentira! Fiquei tão chocado
+Sem mentira! Fiquei tÃ£o chocado
 que regurgitei aquela coisa.
 
 126
 00:07:31,100 --> 00:07:33,300
 Que nojo!
-Carlos, isso é nojento!
+Carlos, isso Ã© nojento!
 
 127
 00:07:33,300 --> 00:07:35,200
@@ -608,8 +612,8 @@ para se adaptar,
 
 128
 00:07:35,200 --> 00:07:37,400
-mas você fará tantos
-amigos novos lá.
+mas vocÃª farÃ¡ tantos
+amigos novos lÃ¡.
 
 129
 00:07:38,000 --> 00:07:39,600
@@ -617,13 +621,13 @@ Acho que isso soa meio falso.
 
 130
 00:07:40,000 --> 00:07:42,500
-Por que se importa? Você só faz
-jogar vídeo games.
+Por que se importa? VocÃª sÃ³ faz
+jogar vÃ­deo games.
 
 131
 00:07:42,500 --> 00:07:45,600
-- Isso é tão injusto!
-- É. Estou com a Barbara nessa.
+- Isso Ã© tÃ£o injusto!
+- Ã‰. Estou com a Barbara nessa.
 
 132
 00:07:45,600 --> 00:07:47,700
@@ -632,8 +636,8 @@ eu enterrei no quintal?
 
 133
 00:07:47,700 --> 00:07:50,700
-Gente, essa é uma
-oportunidade única!
+Gente, essa Ã© uma
+oportunidade Ãºnica!
 
 134
 00:07:50,700 --> 00:07:54,100
@@ -642,8 +646,8 @@ com piscina e um carro da firma.
 
 135
 00:07:59,000 --> 00:08:01,400
-Os animais são sempre
-os últimos a saberem!
+Os animais sÃ£o sempre
+os Ãºltimos a saberem!
 
 136
 00:08:01,400 --> 00:08:04,300
@@ -652,47 +656,47 @@ o tal "O.C."!
 
 137
 00:08:11,300 --> 00:08:14,000
-Alguém sequer tem um animal
-de estimação nesse lugar?
+AlguÃ©m sequer tem um animal
+de estimaÃ§Ã£o nesse lugar?
 
 138
 00:08:14,000 --> 00:08:16,400
-Não vi um único cachorro
-até agora.
+NÃ£o vi um Ãºnico cachorro
+atÃ© agora.
 
 139
 00:08:18,600 --> 00:08:20,300
-- Ela é ótima!
+- Ela Ã© Ã³tima!
 - Certo.
 
 140
 00:08:20,300 --> 00:08:23,000
-Até agora o que sei
-do "O.C."é que:
+AtÃ© agora o que sei
+do "O.C."Ã© que:
 
 141
 00:08:23,000 --> 00:08:26,600
-Ninguém tem animal de estimação
-e esse Seth é um melodramático.
+NinguÃ©m tem animal de estimaÃ§Ã£o
+e esse Seth Ã© um melodramÃ¡tico.
 
 142
 00:08:26,600 --> 00:08:28,700
-Você é o maior
-melodramático, amigo!
+VocÃª Ã© o maior
+melodramÃ¡tico, amigo!
 
 143
 00:08:28,700 --> 00:08:30,900
-Eu? Você que é, Carlos.
+Eu? VocÃª que Ã©, Carlos.
 
 144
 00:08:31,000 --> 00:08:34,200
-Você é, tipo, 90kg de drama
+VocÃª Ã©, tipo, 90kg de drama
 numa coleira vermelha!
 
 145
 00:08:34,200 --> 00:08:37,400
-- É mesmo? Essa conversa acabou!
-- Não, não...
+- Ã‰ mesmo? Essa conversa acabou!
+- NÃ£o, nÃ£o...
 
 146
 00:08:40,300 --> 00:08:42,500
@@ -701,43 +705,43 @@ nunca falha.
 
 147
 00:08:43,900 --> 00:08:46,500
-E então, o dia da
-mudança chegou.
+E entÃ£o, o dia da
+mudanÃ§a chegou.
 
 148
 00:08:46,500 --> 00:08:50,500
-E tinha um sentimento de esperança
-e excitação por toda a família.
+E tinha um sentimento de esperanÃ§a
+e excitaÃ§Ã£o por toda a famÃ­lia.
 
 149
 00:08:50,500 --> 00:08:52,900
-Até a Barbara estava
-tentando dar uma mãozinha.
+AtÃ© a Barbara estava
+tentando dar uma mÃ£ozinha.
 
 150
 00:08:52,900 --> 00:08:55,800
-- Isso é meu!
-- Eu também ajudaria,
+- Isso Ã© meu!
+- Eu tambÃ©m ajudaria,
 
 151
 00:08:55,800 --> 00:09:00,000
 mas estamos sendo enviados
-por carga aérea! E trancados!
+por carga aÃ©rea! E trancados!
 
 152
 00:09:00,400 --> 00:09:03,300
 Deixem-me sair daqui,
-não sou um animal!
+nÃ£o sou um animal!
 
 153
 00:09:04,400 --> 00:09:06,800
-- É, eu sou.
+- Ã‰, eu sou.
 - Aqui, rapazes.
 
 154
 00:09:06,800 --> 00:09:09,300
 ANIMAL VIVO
-Peguem essas almôndegas.
+Peguem essas almÃ´ndegas.
 
 155
 00:09:09,500 --> 00:09:12,100
@@ -746,18 +750,18 @@ Peguem essas almôndegas.
 
 156
 00:09:15,400 --> 00:09:17,800
-Não sei, não, Carlos.
+NÃ£o sei, nÃ£o, Carlos.
 Tem algo suspeito aqui.
 
 157
 00:09:17,800 --> 00:09:20,300
-São almôndegas, cara,
-não discuta!
+SÃ£o almÃ´ndegas, cara,
+nÃ£o discuta!
 
 158
 00:09:20,300 --> 00:09:23,700
-Sei que não devia comer isso,
-mas não resisto...
+Sei que nÃ£o devia comer isso,
+mas nÃ£o resisto...
 
 159
 00:09:23,700 --> 00:09:26,900
@@ -774,17 +778,17 @@ Me sinto meio estranho.
 
 162
 00:09:37,300 --> 00:09:41,100
-Isso é um erro terrível.
+Isso Ã© um erro terrÃ­vel.
 Exijo classe executiva!
 
 163
 00:09:41,400 --> 00:09:44,100
 Phil colocou algo
-nas nossas almôndegas!
+nas nossas almÃ´ndegas!
 
 164
 00:09:44,800 --> 00:09:47,300
-Alguma vez já olhou
+Alguma vez jÃ¡ olhou
 para suas patas?
 
 165
@@ -794,13 +798,13 @@ de verdade?
 
 166
 00:09:50,000 --> 00:09:52,700
-Ah, sim. Já te segui
+Ah, sim. JÃ¡ te segui
 em muitas aventuras,
 
 167
 00:09:52,700 --> 00:09:55,100
 mas para adentrar no grande
-mistério desconhecido,
+mistÃ©rio desconhecido,
 
 168
 00:09:55,100 --> 00:09:58,700
@@ -809,17 +813,17 @@ eu vou primeiro, amigo!
 
 169
 00:09:59,200 --> 00:10:01,500
-Câmbio e desligo.
+CÃ¢mbio e desligo.
 
 170
 00:10:23,700 --> 00:10:26,000
-Acordar! Estou de pé,
+Acordar! Estou de pÃ©,
 vamos, Phil!
 
 171
 00:10:26,000 --> 00:10:28,100
-Mesmo cão,
-chão diferente.
+Mesmo cÃ£o,
+chÃ£o diferente.
 
 172
 00:10:28,500 --> 00:10:32,100
@@ -832,8 +836,8 @@ Bom dia, "Orange County"!
 
 174
 00:10:39,500 --> 00:10:42,600
-Isso! Espera aí. Você
-viu aquela porta para cães?
+Isso! Espera aÃ­. VocÃª
+viu aquela porta para cÃ£es?
 
 175
 00:10:43,200 --> 00:10:45,800
@@ -841,17 +845,17 @@ Ela serve! Ela serve!
 
 176
 00:10:46,400 --> 00:10:50,700
-Olha só isso. Tem vista
+Olha sÃ³ isso. Tem vista
 para o oceano! E uma piscina!
 
 177
 00:10:50,700 --> 00:10:53,000
-Essa grama é tão verde.
+Essa grama Ã© tÃ£o verde.
 
 178
 00:10:53,600 --> 00:10:57,100
-E esse é, de longe, o melhor
-banheiro que já tive.
+E esse Ã©, de longe, o melhor
+banheiro que jÃ¡ tive.
 
 179
 00:10:57,100 --> 00:11:00,000
@@ -860,56 +864,56 @@ de privacidade, por favor.
 
 180
 00:11:02,200 --> 00:11:05,100
-É, uma coleira marrom.
+Ã‰, uma coleira marrom.
 Bom, vai ressaltar meus olhos.
 
 181
 00:11:05,100 --> 00:11:06,900
 - Venha, Phil, vamos.
-- Não é estranho
+- NÃ£o Ã© estranho
 
 182
 00:11:06,900 --> 00:11:09,500
 seu chefe querer encontrar
-você no parque de cães?
+vocÃª no parque de cÃ£es?
 
 183
 00:11:09,500 --> 00:11:11,900
-É o jogo, na Califórnia.
-Don é meio excêntrico,
+Ã‰ o jogo, na CalifÃ³rnia.
+Don Ã© meio excÃªntrico,
 
 184
 00:11:11,900 --> 00:11:15,100
-- mas é o que o faz ter sucesso.
+- mas Ã© o que o faz ter sucesso.
 - Vem, Phil, vamos nos dar bem!
 
 185
 00:11:15,100 --> 00:11:16,500
 - Rosa?
-- Fúcsia.
+- FÃºcsia.
 
 186
 00:11:16,500 --> 00:11:19,600
-- A cor do jogo na Califórnia.
-- Vamos, está na hora.
+- A cor do jogo na CalifÃ³rnia.
+- Vamos, estÃ¡ na hora.
 
 187
 00:11:19,600 --> 00:11:23,300
-Não se preocupe comigo, estarei
+NÃ£o se preocupe comigo, estarei
 aqui, desempacotando mil caixas.
 
 188
 00:11:23,300 --> 00:11:26,300
-Liberdade! O carro está aqui.
-Não enrola. Vamos!
+Liberdade! O carro estÃ¡ aqui.
+NÃ£o enrola. Vamos!
 
 189
 00:11:28,000 --> 00:11:30,000
-Este é o carro da firma?
+Este Ã© o carro da firma?
 
 190
 00:11:32,100 --> 00:11:33,500
-LATIDOS ORGÂNICOS
+LATIDOS ORGÃ‚NICOS
 
 191
 00:11:45,100 --> 00:11:47,800
@@ -918,17 +922,17 @@ o sonho, Phil!
 
 192
 00:11:51,500 --> 00:11:54,500
-Garotão, as coisas vão
+GarotÃ£o, as coisas vÃ£o
 funcionar diferentes aqui.
 
 193
 00:11:54,500 --> 00:11:56,500
-- Me dá isso.
-- É parte do meu visual!
+- Me dÃ¡ isso.
+- Ã‰ parte do meu visual!
 
 194
 00:11:56,500 --> 00:11:58,500
-É meu novo chefe.
+Ã‰ meu novo chefe.
 Seja um bom garoto.
 
 195
@@ -942,8 +946,8 @@ Oi, bom dia!
 
 197
 00:12:05,300 --> 00:12:07,900
-Phil não tem com quê
-se preocupar. Por quê?
+Phil nÃ£o tem com quÃª
+se preocupar. Por quÃª?
 
 198
 00:12:07,900 --> 00:12:11,100
@@ -966,7 +970,7 @@ Sem ter planejado.
 
 202
 00:12:21,900 --> 00:12:24,000
-Esse é o escritório do Phil?
+Esse Ã© o escritÃ³rio do Phil?
 
 203
 00:12:26,200 --> 00:12:28,200
@@ -988,12 +992,12 @@ Oi, tudo bem?
 
 207
 00:12:37,000 --> 00:12:40,800
-- Lindo dia, não? Legal seu suéter.
+- Lindo dia, nÃ£o? Legal seu suÃ©ter.
 - Estou suando como um cachorro.
 
 208
 00:12:40,800 --> 00:12:43,000
-Vamos, grandão,
+Vamos, grandÃ£o,
 controle-se.
 
 209
@@ -1008,13 +1012,13 @@ Nossa, o que foi isso?
 
 211
 00:12:48,800 --> 00:12:52,800
-- Olha só isso!
+- Olha sÃ³ isso!
 - Winslow! Aqui.
 
 212
 00:12:53,600 --> 00:12:56,600
-- Sr. Twombly, aí está!
-- É bom revê-lo.
+- Sr. Twombly, aÃ­ estÃ¡!
+- Ã‰ bom revÃª-lo.
 
 213
 00:12:56,600 --> 00:12:58,200
@@ -1023,21 +1027,21 @@ Quem temos aqui?
 214
 00:12:59,200 --> 00:13:01,000
 Isso mesmo!
-Qual é o nome dele?
+Qual Ã© o nome dele?
 
 215
 00:13:01,000 --> 00:13:02,800
-- Esse é o Marmaduke.
+- Esse Ã© o Marmaduke.
 - Marmaduke!
 
 216
 00:13:02,800 --> 00:13:06,100
-Você é um Dogue Alemão
+VocÃª Ã© um Dogue AlemÃ£o
 lindo, sabia?
 
 217
 00:13:06,100 --> 00:13:07,900
-Estou começando
+Estou comeÃ§ando
 a gostar desse cara!
 
 218
@@ -1052,7 +1056,7 @@ somos carne e unha.
 
 220
 00:13:13,700 --> 00:13:15,900
-Quem está "lambendo
+Quem estÃ¡ "lambendo
 traseiros" agora?
 
 221
@@ -1062,22 +1066,22 @@ Interessante.
 222
 00:13:19,200 --> 00:13:22,400
 Estou captando
-algo mais aqui, também.
+algo mais aqui, tambÃ©m.
 
 223
 00:13:23,300 --> 00:13:25,400
-Com certeza não é
-de raça pura.
+Com certeza nÃ£o Ã©
+de raÃ§a pura.
 
 224
 00:13:25,600 --> 00:13:29,200
-- É mesmo?
+- Ã‰ mesmo?
 - Estou sentindo um pouco de...
 
 225
 00:13:29,200 --> 00:13:31,800
-- Mastiff Inglês.
-- Ei, cuidado aí!
+- Mastiff InglÃªs.
+- Ei, cuidado aÃ­!
 
 226
 00:13:32,400 --> 00:13:34,900
@@ -1085,27 +1089,27 @@ Sabe tanto quanto eu...
 
 227
 00:13:37,200 --> 00:13:39,300
-Não conhece seu próprio
+NÃ£o conhece seu prÃ³prio
 melhor amigo, Phil?
 
 228
 00:13:39,300 --> 00:13:42,700
 - Claro. Eu...
-- Eu amo cães.
+- Eu amo cÃ£es.
 
 229
 00:13:43,000 --> 00:13:46,500
 Posso saber muito de um homem
-pelo modo como trata seu cão.
+pelo modo como trata seu cÃ£o.
 
 230
 00:13:47,200 --> 00:13:49,500
-É por isso que gosto
+Ã‰ por isso que gosto
 de trabalhar aqui.
 
 231
 00:13:49,500 --> 00:13:53,700
-Posso avaliar, em primeira mão,
+Posso avaliar, em primeira mÃ£o,
 com quem estou lidando.
 
 232
@@ -1115,8 +1119,8 @@ Cuidado, ele pode
 
 233
 00:13:58,300 --> 00:14:01,800
-E também, com esse ar fresco, temos
-pensamentos não convencionais.
+E tambÃ©m, com esse ar fresco, temos
+pensamentos nÃ£o convencionais.
 
 234
 00:14:01,800 --> 00:14:03,900
@@ -1129,11 +1133,11 @@ a minha garotinha, Jezebel.
 
 236
 00:14:11,400 --> 00:14:13,700
-Olá, Califórnia!
+OlÃ¡, CalifÃ³rnia!
 
 237
 00:14:15,700 --> 00:14:17,700
-Olha só aquele pelo!
+Olha sÃ³ aquele pelo!
 
 238
 00:14:18,500 --> 00:14:21,100
@@ -1142,22 +1146,22 @@ e vamos caminhar.
 
 239
 00:14:21,100 --> 00:14:23,500
-- Não usa sapatos aqui?
+- NÃ£o usa sapatos aqui?
 - Vamos, Phil.
 
 240
 00:14:23,500 --> 00:14:27,500
-Canalize seu cão interior.
+Canalize seu cÃ£o interior.
 Sinta a terra entre seus dedos.
 
 241
 00:14:28,200 --> 00:14:30,800
-Não é com a terra
+NÃ£o Ã© com a terra
 que estou preocupado.
 
 242
 00:14:31,400 --> 00:14:34,700
-- Não se meta em confusão.
+- NÃ£o se meta em confusÃ£o.
 - Boa sorte, Phil! Vai precisar.
 
 243
@@ -1167,7 +1171,7 @@ Jezebel...
 244
 00:14:39,500 --> 00:14:42,900
 - Ei, cuidado! Bakersfield.
-- Mas o quê...
+- Mas o quÃª...
 
 245
 00:14:43,200 --> 00:14:45,100
@@ -1176,32 +1180,32 @@ Jezebel...
 
 246
 00:14:45,100 --> 00:14:46,600
-Eu digo que é do Kansas.
+Eu digo que Ã© do Kansas.
 
 247
 00:14:46,600 --> 00:14:49,000
 - Como sabia?
-- Só podia.
+- SÃ³ podia.
 
 248
 00:14:49,000 --> 00:14:51,900
-- Qual é seu nome, novato?
-- Meu nome é Marmaduke.
+- Qual Ã© seu nome, novato?
+- Meu nome Ã© Marmaduke.
 
 249
 00:14:51,900 --> 00:14:55,700
-Legal. Continuando rápido,
-conheça a turma.
+Legal. Continuando rÃ¡pido,
+conheÃ§a a turma.
 
 250
 00:14:55,700 --> 00:14:58,700
-- O cara de ovo aqui é o Raisin.
+- O cara de ovo aqui Ã© o Raisin.
 - Marmaduke.
 
 251
 00:14:58,700 --> 00:15:03,300
 Uma mistura do sufixo "Marma", nome
-científico das aranhas saltadoras.
+cientÃ­fico das aranhas saltadoras.
 
 252
 00:15:04,300 --> 00:15:07,100
@@ -1210,37 +1214,37 @@ científico das aranhas saltadoras.
 
 253
 00:15:07,100 --> 00:15:09,200
-um Estadista Inglês
-do século 17.
+um Estadista InglÃªs
+do sÃ©culo 17.
 
 254
 00:15:09,200 --> 00:15:12,400
 E o ultraconfiante com crista
-chinesa aqui, é Giuseppe.
+chinesa aqui, Ã© Giuseppe.
 
 255
 00:15:12,500 --> 00:15:14,900
 Antes que pergunte:
-sim, sou um cão de verdade
+sim, sou um cÃ£o de verdade
 
 256
 00:15:14,900 --> 00:15:17,000
-e não, não sou
+e nÃ£o, nÃ£o sou
 um brinquedo de mastigar.
 
 257
 00:15:17,000 --> 00:15:20,900
-Só fico um pouco nervoso às vezes,
-porque moramos na Califórnia.
+SÃ³ fico um pouco nervoso Ã s vezes,
+porque moramos na CalifÃ³rnia.
 
 258
 00:15:20,900 --> 00:15:22,400
-Essa é a Terra do Puma!
+Essa Ã© a Terra do Puma!
 
 259
 00:15:22,400 --> 00:15:24,700
-Não há pumas
-no sul da Califórnia.
+NÃ£o hÃ¡ pumas
+no sul da CalifÃ³rnia.
 
 260
 00:15:24,700 --> 00:15:27,500
@@ -1248,18 +1252,18 @@ Os pumas aparecem do nada!
 
 261
 00:15:29,400 --> 00:15:32,400
-- A propósito, sou a Mazie.
-- Prazer conhecê-los, pessoal.
+- A propÃ³sito, sou a Mazie.
+- Prazer conhecÃª-los, pessoal.
 
 262
 00:15:32,400 --> 00:15:35,500
-- Vocês vêm muito aqui?
-- É o parque de cães, cara.
+- VocÃªs vÃªm muito aqui?
+- Ã‰ o parque de cÃ£es, cara.
 
 263
 00:15:35,500 --> 00:15:37,400
-É tipo, o ensino médio
-para cães.
+Ã‰ tipo, o ensino mÃ©dio
+para cÃ£es.
 
 264
 00:15:37,400 --> 00:15:40,500
@@ -1272,8 +1276,8 @@ Primeiro, tem os atletas.
 
 266
 00:15:44,400 --> 00:15:46,900
-O único músculo que não usam
-é o cérebro.
+O Ãºnico mÃºsculo que nÃ£o usam
+Ã© o cÃ©rebro.
 
 267
 00:15:46,900 --> 00:15:49,600
@@ -1282,13 +1286,13 @@ O único músculo que não usam
 
 268
 00:15:49,600 --> 00:15:52,400
-- Que na verdade, não têm cérebro.
+- Que na verdade, nÃ£o tÃªm cÃ©rebro.
 - Frisbee!
 
 269
 00:15:52,400 --> 00:15:56,200
-- Aí, tem os melodramáticos.
-- Por favor, não atire!
+- AÃ­, tem os melodramÃ¡ticos.
+- Por favor, nÃ£o atire!
 
 270
 00:15:58,400 --> 00:16:00,800
@@ -1296,26 +1300,26 @@ E logo ali, os "cogumelos".
 
 271
 00:16:00,800 --> 00:16:03,700
-Alguém pare essa coisa!
+AlguÃ©m pare essa coisa!
 Quero descer agora.
 
 272
 00:16:04,500 --> 00:16:07,500
 E tem os delinquentes
-juvenis típicos.
+juvenis tÃ­picos.
 
 273
 00:16:11,900 --> 00:16:15,500
-Só uma dica: evite
-as vasilhas de água, aqui.
+SÃ³ uma dica: evite
+as vasilhas de Ã¡gua, aqui.
 
 274
 00:16:15,500 --> 00:16:17,700
-Qual é! De novo?
+Qual Ã©! De novo?
 
 275
 00:16:20,600 --> 00:16:23,100
-Até agora não vi nenhum
+AtÃ© agora nÃ£o vi nenhum
 em que possa me encaixar.
 
 276
@@ -1325,7 +1329,7 @@ pode se juntar ao nosso grupo.
 
 277
 00:16:26,400 --> 00:16:28,600
-- É? Qual é o seu grupo?
+- Ã‰? Qual Ã© o seu grupo?
 - Vira-latas!
 
 278
@@ -1334,77 +1338,77 @@ Esquisitos!
 
 279
 00:16:32,700 --> 00:16:34,900
-- Quem são esses caras?
+- Quem sÃ£o esses caras?
 - Os "pedigrees".
 
 280
 00:16:34,900 --> 00:16:38,100
-- Também conhecidos por encrenca.
-- São ricos e são mimados.
+- TambÃ©m conhecidos por encrenca.
+- SÃ£o ricos e sÃ£o mimados.
 
 281
 00:16:38,100 --> 00:16:40,500
-E são feios de congelar
-a mordida. Ridículo!
+E sÃ£o feios de congelar
+a mordida. RidÃ­culo!
 
 282
 00:16:40,500 --> 00:16:43,400
-Os pequenos camarões da terra
-são Thunder e Lightning.
+Os pequenos camarÃµes da terra
+sÃ£o Thunder e Lightning.
 
 283
 00:16:44,400 --> 00:16:47,700
-O Darth Vader ali é
-o próprio, Bosco.
+O Darth Vader ali Ã©
+o prÃ³prio, Bosco.
 
 284
 00:16:47,700 --> 00:16:50,600
 O macho-alfa que comanda
-o parque. O durão da área.
+o parque. O durÃ£o da Ã¡rea.
 
 285
 00:16:50,600 --> 00:16:53,900
-Ele, durão?
-Não parece tão durão.
+Ele, durÃ£o?
+NÃ£o parece tÃ£o durÃ£o.
 
 286
 00:16:53,900 --> 00:16:57,200
 A namorada dele, ali,
-é a Srta. Perfeita. Jezebel.
+Ã© a Srta. Perfeita. Jezebel.
 
 287
 00:16:57,200 --> 00:17:01,000
-Ele morre de ciúmes, então
-fique longe ou ele faz de você...
+Ele morre de ciÃºmes, entÃ£o
+fique longe ou ele faz de vocÃª...
 
 288
 00:17:01,000 --> 00:17:03,900
 Comida de cachorro!
-Olá, fracassados.
+OlÃ¡, fracassados.
 
 289
 00:17:04,100 --> 00:17:05,800
 - Falando no diabo...
-- Então,
+- EntÃ£o,
 
 290
 00:17:05,800 --> 00:17:07,800
-vejo que têm um novo
+vejo que tÃªm um novo
 amigo vira-lata.
 
 291
 00:17:08,200 --> 00:17:11,000
-- Certo, isso é molhado.
+- Certo, isso Ã© molhado.
 - Cala a boca, Thunder.
 
 292
 00:17:11,600 --> 00:17:14,800
-- Qual é o nome dele?
+- Qual Ã© o nome dele?
 - Marmaduke.
 
 293
 00:17:14,800 --> 00:17:16,500
-- Marma o quê?
+- Marma o quÃª?
 - Ora, ora...
 
 294
@@ -1414,51 +1418,51 @@ babando na minha namorada.
 
 295
 00:17:19,700 --> 00:17:23,200
-Não, não. É que alguém
+NÃ£o, nÃ£o. Ã‰ que alguÃ©m
 passou comendo carne seca.
 
 296
 00:17:23,600 --> 00:17:26,700
 Deixe-me explicar uma coisa.
-Esse parque é meu.
+Esse parque Ã© meu.
 
 297
 00:17:26,700 --> 00:17:28,200
-E essas são
+E essas sÃ£o
 as minhas regras:
 
 298
 00:17:28,200 --> 00:17:30,600
 Olhe para minha namorada
-de novo e está morto.
+de novo e estÃ¡ morto.
 
 299
 00:17:30,600 --> 00:17:33,000
-Chegue perto dela e está morto.
+Chegue perto dela e estÃ¡ morto.
 Fale com ela
 
 300
 00:17:33,000 --> 00:17:34,500
-- e está morto!
+- e estÃ¡ morto!
 - Morto!
 
 301
 00:17:34,500 --> 00:17:36,900
 Estamos mortos.
-É, estamos mortos!
+Ã‰, estamos mortos!
 
 302
 00:17:37,800 --> 00:17:39,200
-Ele não é de nada, vejam.
+Ele nÃ£o Ã© de nada, vejam.
 
 303
 00:17:39,200 --> 00:17:41,300
 - Venha, quer encarar? Quer?
-- Não, não!
+- NÃ£o, nÃ£o!
 
 304
 00:17:41,300 --> 00:17:44,100
-- Não, não...
+- NÃ£o, nÃ£o...
 - Foi o que pensei.
 
 305
@@ -1472,13 +1476,13 @@ Isso, fique longe, bichinha!
 
 307
 00:17:48,800 --> 00:17:51,400
-"Não" vejo você na festa,
-hoje à noite!
+"NÃ£o" vejo vocÃª na festa,
+hoje Ã  noite!
 
 308
 00:17:52,900 --> 00:17:55,900
-- Já posso abrir os olhos?
-- Não dê ouvidos para aquele cara!
+- JÃ¡ posso abrir os olhos?
+- NÃ£o dÃª ouvidos para aquele cara!
 
 309
 00:17:55,900 --> 00:18:00,600
@@ -1492,32 +1496,32 @@ ele estava falando?
 
 311
 00:18:03,000 --> 00:18:07,100
-Nada. Só um bando de esnobes se
-coçando sob o píer do Iate Clube.
+Nada. SÃ³ um bando de esnobes se
+coÃ§ando sob o pÃ­er do Iate Clube.
 
 312
 00:18:07,100 --> 00:18:09,400
-Teremos nossa própria festa
-hoje à noite.
+Teremos nossa prÃ³pria festa
+hoje Ã  noite.
 
 313
 00:18:09,400 --> 00:18:12,600
-Será uma clássica festa
-ao estilo O.C. Você devia ir.
+SerÃ¡ uma clÃ¡ssica festa
+ao estilo O.C. VocÃª devia ir.
 
 314
 00:18:12,600 --> 00:18:14,600
-Não sei se consigo sair,
+NÃ£o sei se consigo sair,
 mas vou tentar.
 
 315
 00:18:14,600 --> 00:18:18,800
 - Bom, vai ser uma festa muito boa.
-- Nenhuma outra será melhor.
+- Nenhuma outra serÃ¡ melhor.
 
 316
 00:18:18,800 --> 00:18:22,100
-- Fale meu nome e entrará direto.
+- Fale meu nome e entrarÃ¡ direto.
 - Obrigado, Giuseppe.
 
 317
@@ -1528,21 +1532,21 @@ Marmaduke. Foi descolado.
 318
 00:18:27,200 --> 00:18:30,000
 E acho que impressionei muitos
-cães aqui, hoje.
+cÃ£es aqui, hoje.
 
 319
 00:18:30,000 --> 00:18:32,700
-E isso é um ótimo...
+E isso Ã© um Ã³timo...
 Abelha!
 
 320
 00:18:33,900 --> 00:18:38,200
-Abelha! Sai já de mim!
+Abelha! Sai jÃ¡ de mim!
 Saiam da frente! Phil, socorro!
 
 321
 00:18:38,200 --> 00:18:40,800
-A "Latidos Orgânicos" domina
+A "Latidos OrgÃ¢nicos" domina
 o mercado californiano.
 
 322
@@ -1552,33 +1556,33 @@ do nosso produto,
 
 323
 00:18:43,100 --> 00:18:45,600
-estamos em posição
+estamos em posiÃ§Ã£o
 de esmagar os concorrentes.
 
 324
 00:18:45,600 --> 00:18:50,000
-Então, Dorothy, por que
-o trouxe lá do Kansas?
+EntÃ£o, Dorothy, por que
+o trouxe lÃ¡ do Kansas?
 
 325
 00:18:50,000 --> 00:18:53,800
 Por que passei por 6 diretores
-de marketing no último ano?
+de marketing no Ãºltimo ano?
 
 326
 00:18:53,800 --> 00:18:57,300
-Porque quero a "Latidos Orgânicos"
+Porque quero a "Latidos OrgÃ¢nicos"
 nas prateleiras de cada loja
 
 327
 00:18:57,300 --> 00:18:59,200
-- de animais do país.
+- de animais do paÃ­s.
 - Abelha!
 
 328
 00:18:59,500 --> 00:19:02,900
-- Não consigo enxergar! Abelha!
-- Não o decepcionarei, senhor.
+- NÃ£o consigo enxergar! Abelha!
+- NÃ£o o decepcionarei, senhor.
 
 329
 00:19:03,900 --> 00:19:05,800
@@ -1587,22 +1591,22 @@ nas prateleiras de cada loja
 
 330
 00:19:06,900 --> 00:19:09,500
-- Está bem?
-- Aquele era o seu cão?
+- EstÃ¡ bem?
+- Aquele era o seu cÃ£o?
 
 331
 00:19:09,500 --> 00:19:14,700
-- Não consegui ver direito.
+- NÃ£o consegui ver direito.
 - Sim, estou bem.
 
 332
 00:19:14,700 --> 00:19:17,200
-- É preciso muito mais que isso...
+- Ã‰ preciso muito mais que isso...
 - Socorro!
 
 333
 00:19:18,100 --> 00:19:20,400
-Não! Aquele cão...
+NÃ£o! Aquele cÃ£o...
 
 334
 00:19:20,400 --> 00:19:22,800
@@ -1616,50 +1620,50 @@ abelha assassina em mim!
 
 336
 00:19:25,600 --> 00:19:30,700
-- Que bobão gigantesco.
-- É, mas meio engraçadinho...
+- Que bobÃ£o gigantesco.
+- Ã‰, mas meio engraÃ§adinho...
 
 337
 00:19:36,600 --> 00:19:40,300
-Ouvi um rumor malicioso que você
+Ouvi um rumor malicioso que vocÃª
 veio, tipo, do Kansas?
 
 338
 00:19:40,300 --> 00:19:43,000
-Pois é...
-Esses aí são de verdade?
+Pois Ã©...
+Esses aÃ­ sÃ£o de verdade?
 
 339
 00:19:43,500 --> 00:19:45,600
-Acessórios caninos
-são essenciais.
+AcessÃ³rios caninos
+sÃ£o essenciais.
 
 340
 00:19:45,600 --> 00:19:47,600
-Não somos acessórios!
+NÃ£o somos acessÃ³rios!
 
 341
 00:19:47,600 --> 00:19:50,000
-Cara, no meu país,
+Cara, no meu paÃ­s,
 eu era advogado.
 
 342
 00:19:50,000 --> 00:19:53,600
-Estou aqui dentro há tanto tempo
-que não sinto mais minhas pernas.
+Estou aqui dentro hÃ¡ tanto tempo
+que nÃ£o sinto mais minhas pernas.
 
 343
 00:19:55,600 --> 00:19:57,600
-O Bodie é tão lindo!
+O Bodie Ã© tÃ£o lindo!
 
 344
 00:19:58,800 --> 00:20:01,700
 - Acho que estava olhando para mim.
-- Até parece!
+- AtÃ© parece!
 
 345
 00:20:02,000 --> 00:20:05,300
-Deve estar certa. Talvez ele não
+Deve estar certa. Talvez ele nÃ£o
 estivesse olhando para mim.
 
 346
@@ -1669,27 +1673,27 @@ Oi, querida.
 347
 00:20:08,700 --> 00:20:11,500
 Meu Deus!
-Aquela "coisa" é sua?
+Aquela "coisa" Ã© sua?
 
 348
 00:20:11,500 --> 00:20:13,500
-Não, é o cão
+NÃ£o, Ã© o cÃ£o
 de outra pessoa.
 
 349
 00:20:13,500 --> 00:20:16,100
-- Não é meu.
-- Barb, quem são as suas amigas?
+- NÃ£o Ã© meu.
+- Barb, quem sÃ£o as suas amigas?
 
 350
 00:20:17,600 --> 00:20:22,100
-- Phil, isso não foi legal!
+- Phil, isso nÃ£o foi legal!
 - Desculpe, Barb.
 
 351
 00:20:23,600 --> 00:20:27,300
 - Certo, o marketing regional...
-- Sei. Blá, blá, blá.
+- Sei. BlÃ¡, blÃ¡, blÃ¡.
 
 352
 00:20:27,300 --> 00:20:30,300
@@ -1699,22 +1703,22 @@ O Brian vai dormir.
 353
 00:20:30,300 --> 00:20:32,500
 - Boa noite, pai.
-- Brian, espera aí.
+- Brian, espera aÃ­.
 
 354
 00:20:32,500 --> 00:20:35,600
 Parece bom. Sim, conversaremos
-amanhã. Calado, Marmaduke.
+amanhÃ£. Calado, Marmaduke.
 
 355
 00:20:35,600 --> 00:20:38,500
-Boa notícia. Encontrei outro pai
-no parque de cães,
+Boa notÃ­cia. Encontrei outro pai
+no parque de cÃ£es,
 
 356
 00:20:38,500 --> 00:20:40,700
 e adivinha do que ele
-é encarregado?
+Ã© encarregado?
 
 357
 00:20:41,700 --> 00:20:43,100
@@ -1723,27 +1727,27 @@ Eu te matriculei.
 358
 00:20:43,100 --> 00:20:46,800
 - Puxa, futebol. Parece...
-- Ótimo, certo?
+- Ã“timo, certo?
 
 359
 00:20:48,200 --> 00:20:51,300
-- Claro, é.
-- Você vai adorar!
+- Claro, Ã©.
+- VocÃª vai adorar!
 
 360
 00:20:51,300 --> 00:20:55,100
 - Tudo bem. Boa noite, pai.
-- Boa noite, amigão.
+- Boa noite, amigÃ£o.
 
 361
 00:20:55,100 --> 00:20:59,800
-Phil, ele não vai adorar, ele vai
-odiar, seu cabeça dura. Qual é!
+Phil, ele nÃ£o vai adorar, ele vai
+odiar, seu cabeÃ§a dura. Qual Ã©!
 
 362
 00:21:00,000 --> 00:21:02,300
-Também estou morrendo
-de saudades de você.
+TambÃ©m estou morrendo
+de saudades de vocÃª.
 
 363
 00:21:02,300 --> 00:21:04,900
@@ -1762,21 +1766,21 @@ E uma maneira de voltar ao Kansas?
 366
 00:21:12,200 --> 00:21:14,000
 - Boa noite.
-- Qual é, Phil,
+- Qual Ã©, Phil,
 
 367
 00:21:14,000 --> 00:21:16,400
 parece que nem
-está ouvindo o que eles falam.
+estÃ¡ ouvindo o que eles falam.
 
 368
 00:21:21,800 --> 00:21:25,700
-Canção de ninar...
+CanÃ§Ã£o de ninar...
 
 369
 00:21:25,800 --> 00:21:29,300
 Todos os humanos
-estão dormindo...
+estÃ£o dormindo...
 
 370
 00:21:31,800 --> 00:21:35,300
@@ -1785,7 +1789,7 @@ estão dormindo...
 
 371
 00:21:36,100 --> 00:21:41,800
-Está ficando com sono...
+EstÃ¡ ficando com sono...
 Com muito sono...
 
 372
@@ -1795,12 +1799,12 @@ Boa noite, Phil.
 373
 00:22:04,000 --> 00:22:08,900
 Eu sou monstruoso. Sou um
-monstro da dança. Toma isso!
+monstro da danÃ§a. Toma isso!
 
 374
 00:22:08,900 --> 00:22:13,500
-- Isso é uma festança do O.C.?
-- Você veio, legal!
+- Isso Ã© uma festanÃ§a do O.C.?
+- VocÃª veio, legal!
 
 375
 00:22:13,500 --> 00:22:15,900
@@ -1825,12 +1829,12 @@ a lata de lixo fica nos fundos
 379
 00:22:25,800 --> 00:22:29,300
 - Opa, essa vaca acaba de guinchar?
-- Esta é a vaca da Mazie.
+- Esta Ã© a vaca da Mazie.
 
 380
 00:22:29,300 --> 00:22:33,200
-A fábrica errou.
-É bem ridículo.
+A fÃ¡brica errou.
+Ã‰ bem ridÃ­culo.
 
 381
 00:22:33,700 --> 00:22:36,300
@@ -1844,17 +1848,17 @@ Marmaduke, sua vez.
 
 383
 00:22:43,200 --> 00:22:47,100
-- Não, tudo bem. Vou só olhar.
-- Não seja um cachorro medroso.
+- NÃ£o, tudo bem. Vou sÃ³ olhar.
+- NÃ£o seja um cachorro medroso.
 
 384
 00:22:47,100 --> 00:22:51,300
-- É só dançar seguindo as flechas.
-- Acho que... isso é estranho.
+- Ã‰ sÃ³ danÃ§ar seguindo as flechas.
+- Acho que... isso Ã© estranho.
 
 385
 00:22:51,300 --> 00:22:54,400
-Adoraria. Mas sério, pessoal,
+Adoraria. Mas sÃ©rio, pessoal,
 tenho quatro patas esquerdas.
 
 386
@@ -1863,7 +1867,7 @@ Duke, Duke...
 
 387
 00:22:56,800 --> 00:22:59,600
-Está bem, está bem,
+EstÃ¡ bem, estÃ¡ bem,
 vamos tentar a pata.
 
 388
@@ -1872,8 +1876,8 @@ Bom garoto!
 
 389
 00:23:06,400 --> 00:23:08,500
-Isso não pode ser
-tão difícil.
+Isso nÃ£o pode ser
+tÃ£o difÃ­cil.
 
 390
 00:23:08,500 --> 00:23:11,100
@@ -1883,37 +1887,37 @@ Pata direita na seta branca,
 391
 00:23:11,100 --> 00:23:14,500
 pata esquerda na seta azul.
-Não, a esquerda na seta verde.
+NÃ£o, a esquerda na seta verde.
 
 392
 00:23:14,500 --> 00:23:18,200
-Essa não. Pensando bem, talvez
-não tenha sido uma boa ideia.
+Essa nÃ£o. Pensando bem, talvez
+nÃ£o tenha sido uma boa ideia.
 
 393
 00:23:18,200 --> 00:23:19,900
-Aguenta aí.
-Dá uma chance a ele!
+Aguenta aÃ­.
+DÃ¡ uma chance a ele!
 
 394
 00:23:19,900 --> 00:23:22,000
-Você pode fazer isso,
-Marmaduke. Vamos lá.
+VocÃª pode fazer isso,
+Marmaduke. Vamos lÃ¡.
 
 395
 00:23:22,000 --> 00:23:24,100
 - Concentre-se!
-- Ele está curtindo.
+- Ele estÃ¡ curtindo.
 
 396
 00:23:24,100 --> 00:23:27,400
-Se soltou! "Ninguém deixa
+Se soltou! "NinguÃ©m deixa
 o Duke no canto".
 
 397
 00:23:27,400 --> 00:23:31,300
 - O Duke sabe se mexer!
-- Você ainda não viu nada.
+- VocÃª ainda nÃ£o viu nada.
 
 398
 00:23:33,500 --> 00:23:35,200
@@ -1921,12 +1925,12 @@ Ligando o modo "funky"!
 
 399
 00:23:36,600 --> 00:23:39,700
-- Ele é melhor que eu, não é?
-- Tem razão, é sim.
+- Ele Ã© melhor que eu, nÃ£o Ã©?
+- Tem razÃ£o, Ã© sim.
 
 400
 00:23:41,900 --> 00:23:43,500
-Um 360 no cachorrão!
+Um 360 no cachorrÃ£o!
 
 401
 00:23:44,300 --> 00:23:48,200
@@ -1945,28 +1949,28 @@ comprar um Wii mesmo.
 
 404
 00:23:59,600 --> 00:24:01,800
-E lá se foi toda a vida
+E lÃ¡ se foi toda a vida
 social do Giuseppe.
 
 405
 00:24:01,800 --> 00:24:04,400
-Isso era a única coisa da qual
-eu não tinha medo.
+Isso era a Ãºnica coisa da qual
+eu nÃ£o tinha medo.
 
 406
 00:24:04,400 --> 00:24:08,100
-Sabem, não que eu não esteja me
+Sabem, nÃ£o que eu nÃ£o esteja me
 divertindo, porque estou.
 
 407
 00:24:08,100 --> 00:24:11,300
 Mas o que acham de ir ao Iate Clube
-para ver o que está rolando?
+para ver o que estÃ¡ rolando?
 
 408
 00:24:11,300 --> 00:24:13,800
 - Ficou maluco?
-- Ou, podemos ir ao zoológico
+- Ou, podemos ir ao zoolÃ³gico
 
 409
 00:24:13,800 --> 00:24:16,900
@@ -1990,33 +1994,33 @@ com os cachorros grandes?
 
 413
 00:24:24,900 --> 00:24:27,500
-Mas não somos cachorros grandes,
-somos minúsculos.
+Mas nÃ£o somos cachorros grandes,
+somos minÃºsculos.
 
 414
 00:24:27,500 --> 00:24:29,400
-Essa frase é para
-cães como você!
+Essa frase Ã© para
+cÃ£es como vocÃª!
 
 415
 00:24:29,400 --> 00:24:33,600
-- Você sabe que a festa é do Bosco?
+- VocÃª sabe que a festa Ã© do Bosco?
 - Que Bosco, que nada.
 
 416
 00:24:33,600 --> 00:24:36,700
-- Cão que ladra não morde.
+- CÃ£o que ladra nÃ£o morde.
 - Tudo bem.
 
 417
 00:24:37,400 --> 00:24:40,100
-Alguns cães têm que aprender
-da maneira difícil.
+Alguns cÃ£es tÃªm que aprender
+da maneira difÃ­cil.
 
 418
 00:24:40,500 --> 00:24:43,800
 Sinto cheiro de chuva
-e não confio na chuva.
+e nÃ£o confio na chuva.
 
 419
 00:24:43,800 --> 00:24:45,500
@@ -2025,22 +2029,22 @@ sem pelos,
 
 420
 00:24:45,500 --> 00:24:47,600
-são como pequenos
-projéteis do céu...
+sÃ£o como pequenos
+projÃ©teis do cÃ©u...
 
 421
 00:24:50,000 --> 00:24:51,700
-- É ele!
-- Quem é esse?
+- Ã‰ ele!
+- Quem Ã© esse?
 
 422
 00:24:51,700 --> 00:24:55,000
-"Chupacão"...
+"ChupacÃ£o"...
 Fique com medo...
 
 423
 00:24:55,400 --> 00:24:57,000
-"Chupacão"?
+"ChupacÃ£o"?
 
 424
 00:24:58,700 --> 00:25:01,300
@@ -2049,13 +2053,13 @@ o cachorro-alfa supremo.
 
 425
 00:25:01,300 --> 00:25:05,400
-Mas aí teve raiva, ficou louco
+Mas aÃ­ teve raiva, ficou louco
 e comeu seu dono.
 
 426
 00:25:05,400 --> 00:25:08,600
-E também, ele dorme sobre
-a pilha dos ossos de suas vítimas.
+E tambÃ©m, ele dorme sobre
+a pilha dos ossos de suas vÃ­timas.
 
 427
 00:25:08,600 --> 00:25:11,300
@@ -2064,8 +2068,8 @@ que eu vire um aperitivo?
 
 428
 00:25:13,400 --> 00:25:15,800
-Não acredito que sobrevivemos
-ao Chupacão!
+NÃ£o acredito que sobrevivemos
+ao ChupacÃ£o!
 
 429
 00:25:15,800 --> 00:25:17,500
@@ -2084,16 +2088,16 @@ Se tenho, pode apostar.
 432
 00:25:23,000 --> 00:25:25,500
 Galera, estou avisando,
-a maré está subindo!
+a marÃ© estÃ¡ subindo!
 
 433
 00:25:40,400 --> 00:25:44,000
 Caramba! Essa festa
-está uma loucura!
+estÃ¡ uma loucura!
 
 434
 00:25:44,600 --> 00:25:46,600
-O que estão fazendo
+O que estÃ£o fazendo
 com aquele gato?
 
 435
@@ -2103,12 +2107,12 @@ humilhar os inocentes.
 
 436
 00:25:50,300 --> 00:25:52,800
-Ei, o que está fazendo?
-Não vá lá!
+Ei, o que estÃ¡ fazendo?
+NÃ£o vÃ¡ lÃ¡!
 
 437
 00:25:52,800 --> 00:25:55,500
-Qual é, vamos "ligar"
+Qual Ã©, vamos "ligar"
 nossos latidos.
 
 438
@@ -2127,27 +2131,27 @@ acontece comigo.
 
 441
 00:26:05,900 --> 00:26:09,800
-- Comigo também.
-- Ai, meu irmão...
+- Comigo tambÃ©m.
+- Ai, meu irmÃ£o...
 
 442
 00:26:11,300 --> 00:26:13,800
-O que está fazendo, louco?
+O que estÃ¡ fazendo, louco?
 Vamos dar o fora!
 
 443
 00:26:13,800 --> 00:26:17,300
-Ora, ora... Se não é o cão
-do show de pôneis.
+Ora, ora... Se nÃ£o Ã© o cÃ£o
+do show de pÃ´neis.
 
 444
 00:26:17,300 --> 00:26:19,200
 O circo deu um dia
-de folga para vocês?
+de folga para vocÃªs?
 
 445
 00:26:19,200 --> 00:26:21,200
-Estávamos de saída,
+EstÃ¡vamos de saÃ­da,
 Bosco. Recue.
 
 446
@@ -2157,7 +2161,7 @@ Acabaram de chegar.
 
 447
 00:26:26,300 --> 00:26:27,600
-Sabe o que é engraçado?
+Sabe o que Ã© engraÃ§ado?
 
 448
 00:26:27,600 --> 00:26:30,000
@@ -2182,7 +2186,7 @@ da minha namorada.
 452
 00:26:36,800 --> 00:26:39,700
 Ser um "pedigree" significa
-que você é formidável.
+que vocÃª Ã© formidÃ¡vel.
 
 453
 00:26:39,700 --> 00:26:41,500
@@ -2191,32 +2195,32 @@ com uma finalidade.
 
 454
 00:26:41,500 --> 00:26:44,200
-E acho que você nunca
+E acho que vocÃª nunca
 poderia sonhar em ter uma.
 
 455
 00:26:44,800 --> 00:26:47,000
-Stewart é um
-exímio farejador.
+Stewart Ã© um
+exÃ­mio farejador.
 
 456
 00:26:47,800 --> 00:26:50,500
-Shasti é um hábil
-cão de trenó.
+Shasti Ã© um hÃ¡bil
+cÃ£o de trenÃ³.
 
 457
 00:26:51,200 --> 00:26:54,700
-Ferdinand é fluente em seis
-línguas, inclusive "marmotês".
+Ferdinand Ã© fluente em seis
+lÃ­nguas, inclusive "marmotÃªs".
 
 458
 00:26:56,200 --> 00:27:00,300
-E eu sou o campeão de surfe
-da chuvosa Califórnia do Sul.
+E eu sou o campeÃ£o de surfe
+da chuvosa CalifÃ³rnia do Sul.
 
 459
 00:27:00,500 --> 00:27:02,400
-Você é bom em qualquer coisa?
+VocÃª Ã© bom em qualquer coisa?
 
 460
 00:27:04,800 --> 00:27:06,500
@@ -2225,31 +2229,31 @@ Você é bom em qualquer coisa?
 
 461
 00:27:08,900 --> 00:27:11,000
-Você é bom em alguma coisa.
+VocÃª Ã© bom em alguma coisa.
 
 462
 00:27:14,100 --> 00:27:17,400
 Deita! Deita!
-É isso aí.
+Ã‰ isso aÃ­.
 
 463
 00:27:17,400 --> 00:27:20,900
-- Isso é ruim, não é?
-- É, isso é muito ruim.
+- Isso Ã© ruim, nÃ£o Ã©?
+- Ã‰, isso Ã© muito ruim.
 
 464
 00:27:23,900 --> 00:27:27,100
-Não me importa o quanto
-você é grande, garotinho.
+NÃ£o me importa o quanto
+vocÃª Ã© grande, garotinho.
 
 465
 00:27:27,500 --> 00:27:29,200
-Todos nós sabemos
+Todos nÃ³s sabemos
 que por dentro,
 
 466
 00:27:29,200 --> 00:27:32,900
-é só um pequeno
+Ã© sÃ³ um pequeno
 e assustado...
 
 467
@@ -2259,32 +2263,32 @@ cachorrinho!
 468
 00:27:34,200 --> 00:27:38,000
 - Eu disse que podia levantar?
-- Não, por favor! Desculpa!
+- NÃ£o, por favor! Desculpa!
 
 469
 00:27:41,600 --> 00:27:44,400
-- Não quero te morder!
+- NÃ£o quero te morder!
 - Bosco, pare!
 
 470
 00:27:44,400 --> 00:27:47,100
 Relaxe, querida, estamos
-só brincando.
+sÃ³ brincando.
 
 471
 00:27:47,100 --> 00:27:49,700
-Não está, não.
-Está sendo um valentão.
+NÃ£o estÃ¡, nÃ£o.
+EstÃ¡ sendo um valentÃ£o.
 
 472
 00:27:50,700 --> 00:27:54,700
 Desculpem. Ele fica assim quando
-bebe muita água suja de torneira.
+bebe muita Ã¡gua suja de torneira.
 
 473
 00:27:54,700 --> 00:27:57,300
 Ele fica assim
-porque é um idiota.
+porque Ã© um idiota.
 
 474
 00:27:57,300 --> 00:27:59,400
@@ -2301,12 +2305,12 @@ tempo com eles ou comigo?
 
 477
 00:28:10,700 --> 00:28:13,100
-É uma festa,
+Ã‰ uma festa,
 vamos nos divertir!
 
 478
 00:28:14,200 --> 00:28:17,400
-Te vejo depois, quando não tiver
+Te vejo depois, quando nÃ£o tiver
 nenhuma garota para te salvar.
 
 479
@@ -2316,11 +2320,11 @@ Vamos.
 480
 00:28:27,800 --> 00:28:31,700
 Bosco estava certo sobre tudo.
-Sou só um gigante anormal.
+Sou sÃ³ um gigante anormal.
 
 481
 00:28:31,800 --> 00:28:34,200
-Só fui criado para
+SÃ³ fui criado para
 ficar atrapalhando.
 
 482
@@ -2331,49 +2335,49 @@ a cada vez que dizem:
 483
 00:28:36,800 --> 00:28:39,800
 "Coloquem uma cela nele" ou
-"Como está o tempo aí em cima",
+"Como estÃ¡ o tempo aÃ­ em cima",
 
 484
 00:28:39,800 --> 00:28:42,000
-eu estaria "ossolionário".
+eu estaria "ossolionÃ¡rio".
 
 485
 00:28:42,100 --> 00:28:46,100
-Só uma vez na vida
+SÃ³ uma vez na vida
 eu queria ser aceito, sabe?
 
 486
 00:28:46,200 --> 00:28:50,400
-Olha, sei como é
-ser um excluído.
+Olha, sei como Ã©
+ser um excluÃ­do.
 
 487
 00:28:50,400 --> 00:28:53,500
 Fui uma cadela resgatada.
-Ninguém me queria.
+NinguÃ©m me queria.
 
 488
 00:28:53,800 --> 00:28:57,300
-Você é melhor que todos eles
+VocÃª Ã© melhor que todos eles
 e posso te provar.
 
 489
 00:28:57,300 --> 00:28:59,600
 Posso fazer com que seja
-o cão que deseja ser.
+o cÃ£o que deseja ser.
 
 490
 00:29:00,000 --> 00:29:02,800
-Sério?
+SÃ©rio?
 Por que faria isso?
 
 491
 00:29:03,300 --> 00:29:05,100
-Porque você é meu amigo.
+Porque vocÃª Ã© meu amigo.
 
 492
 00:29:07,500 --> 00:29:09,200
-Que horas são?
+Que horas sÃ£o?
 
 493
 00:29:09,200 --> 00:29:12,800
@@ -2391,7 +2395,7 @@ Consegui.
 496
 00:29:39,200 --> 00:29:42,500
 Estou quebrado.
-Estou tão cansado.
+Estou tÃ£o cansado.
 
 497
 00:29:42,900 --> 00:29:45,100
@@ -2403,12 +2407,12 @@ Phil, desliga o alarme!
 
 499
 00:29:52,300 --> 00:29:56,000
-- Hora de trabalhar, grandão!
-- Phil, você está me matando.
+- Hora de trabalhar, grandÃ£o!
+- Phil, vocÃª estÃ¡ me matando.
 
 500
 00:29:57,200 --> 00:30:00,900
-Winslow, é o Twombly. Preciso da
+Winslow, Ã© o Twombly. Preciso da
 nova campanha. Para ontem!
 
 501
@@ -2417,26 +2421,26 @@ O que tem para mim?
 
 502
 00:30:02,200 --> 00:30:05,800
-Tenho ótimas ideias, mas preciso
-de tempo para desenvolvê-las.
+Tenho Ã³timas ideias, mas preciso
+de tempo para desenvolvÃª-las.
 
 503
 00:30:05,800 --> 00:30:09,000
-- Phil, você não tem nada!
-- Não, pode contar comigo.
+- Phil, vocÃª nÃ£o tem nada!
+- NÃ£o, pode contar comigo.
 
 504
 00:30:09,300 --> 00:30:10,900
-Será um grande sucesso.
+SerÃ¡ um grande sucesso.
 
 505
 00:30:11,100 --> 00:30:13,300
-- É bom que seja!
-- É... até.
+- Ã‰ bom que seja!
+- Ã‰... atÃ©.
 
 506
 00:30:13,900 --> 00:30:15,700
-Não tenho nada.
+NÃ£o tenho nada.
 
 507
 00:30:17,500 --> 00:30:20,400
@@ -2455,7 +2459,7 @@ Essa coisa pica!
 
 510
 00:30:25,300 --> 00:30:28,800
-Está me picando, tira isso
+EstÃ¡ me picando, tira isso
 daqui! Phil, se livre dela!
 
 511
@@ -2464,7 +2468,7 @@ Marmaduke, acalme-se!
 
 512
 00:30:31,600 --> 00:30:33,200
-São só surfistas.
+SÃ£o sÃ³ surfistas.
 
 513
 00:30:35,800 --> 00:30:37,900
@@ -2472,28 +2476,28 @@ Marmaduke...
 
 514
 00:30:38,900 --> 00:30:41,500
-- Você é um gênio!
+- VocÃª Ã© um gÃªnio!
 - Sou?
 
 515
 00:30:42,200 --> 00:30:44,200
-Uma competição de surfe
-para cães?
+Uma competiÃ§Ã£o de surfe
+para cÃ£es?
 
 516
 00:30:44,200 --> 00:30:47,800
 Imagine: o melhor amigo do homem
-surfando até a margem.
+surfando atÃ© a margem.
 
 517
 00:30:47,800 --> 00:30:49,900
-Uma multidão de donos
+Uma multidÃ£o de donos
 incentivando-os.
 
 518
 00:30:49,900 --> 00:30:53,700
-Como isso venderá ração orgânica
-na Região Central? Olha a frente.
+Como isso venderÃ¡ raÃ§Ã£o orgÃ¢nica
+na RegiÃ£o Central? Olha a frente.
 
 519
 00:30:53,700 --> 00:30:57,000
@@ -2502,36 +2506,36 @@ para o Centro Oeste, te direi como.
 
 520
 00:30:57,000 --> 00:30:58,900
-Seja você mesmo.
+Seja vocÃª mesmo.
 
 521
 00:30:58,900 --> 00:31:02,500
-A Latidos Orgânicos foi criada no
-Sul da Califórnia, enfatize isso.
+A Latidos OrgÃ¢nicos foi criada no
+Sul da CalifÃ³rnia, enfatize isso.
 
 522
 00:31:02,500 --> 00:31:05,300
-Leve o espírito icônico
+Leve o espÃ­rito icÃ´nico
 da Costa Oeste
 
 523
 00:31:05,300 --> 00:31:09,000
-- para cada dono de cães do país.
-- Sei lá...
+- para cada dono de cÃ£es do paÃ­s.
+- Sei lÃ¡...
 
 524
 00:31:09,400 --> 00:31:12,600
-Contratei você para criar
+Contratei vocÃª para criar
 uma identidade para a empresa
 
 525
 00:31:12,600 --> 00:31:14,700
-e está me dizendo
+e estÃ¡ me dizendo
 para ser eu mesmo?
 
 526
 00:31:14,700 --> 00:31:16,800
-Só temos uma chance
+SÃ³ temos uma chance
 com a Pet Co.
 
 527
@@ -2550,12 +2554,12 @@ Tudo bem.
 530
 00:31:25,200 --> 00:31:28,300
 Uma chance.
-Faça funcionar!
+FaÃ§a funcionar!
 
 531
 00:31:30,500 --> 00:31:34,300
-Certo. A transformação
-começa já. Vamos do começo.
+Certo. A transformaÃ§Ã£o
+comeÃ§a jÃ¡. Vamos do comeÃ§o.
 
 532
 00:31:34,300 --> 00:31:37,200
@@ -2564,13 +2568,13 @@ Literalmente.
 
 533
 00:31:37,200 --> 00:31:41,300
-- A vaquinha-porco é sua.
-- Certo, ela é minha. Por quê?
+- A vaquinha-porco Ã© sua.
+- Certo, ela Ã© minha. Por quÃª?
 
 534
 00:31:42,000 --> 00:31:44,200
-- Porque ela dá confiança.
-- Claro que dá.
+- Porque ela dÃ¡ confianÃ§a.
+- Claro que dÃ¡.
 
 535
 00:31:44,200 --> 00:31:47,400
@@ -2579,13 +2583,13 @@ Literalmente.
 
 536
 00:31:47,400 --> 00:31:49,900
-O próximo passo é
-checar esse hálito.
+O prÃ³ximo passo Ã©
+checar esse hÃ¡lito.
 
 537
 00:31:50,400 --> 00:31:55,000
-- Nossa! Cara, isso é... eca!
-- Sério, ruim assim?
+- Nossa! Cara, isso Ã©... eca!
+- SÃ©rio, ruim assim?
 
 538
 00:31:55,000 --> 00:31:58,800
@@ -2594,8 +2598,8 @@ Vai ter que melhorar.
 
 539
 00:31:58,800 --> 00:32:01,000
-Bafo de onça
-não vai fazer sucesso.
+Bafo de onÃ§a
+nÃ£o vai fazer sucesso.
 
 540
 00:32:01,000 --> 00:32:03,800
@@ -2604,27 +2608,27 @@ e coma mais balas de menta.
 
 541
 00:32:03,800 --> 00:32:07,400
-- Tá, menos lixo e mais menta.
+- TÃ¡, menos lixo e mais menta.
 - E tenha uma postura altiva!
 
 542
 00:32:07,400 --> 00:32:10,100
 Seus antepassados se sentavam
-aos pés dos Reis, cara!
+aos pÃ©s dos Reis, cara!
 
 543
 00:32:10,100 --> 00:32:11,400
-É!
+Ã‰!
 
 544
 00:32:11,400 --> 00:32:14,400
 - Recupere sua grandeza!
-- É. Assim?
+- Ã‰. Assim?
 
 545
 00:32:16,300 --> 00:32:19,200
 Talvez deva manter as orelhas
-em pé, já que falamos nisso.
+em pÃ©, jÃ¡ que falamos nisso.
 
 546
 00:32:19,200 --> 00:32:20,600
@@ -2633,11 +2637,11 @@ Orelhas, para cima!
 547
 00:32:21,100 --> 00:32:24,700
 - Assim?
-- Isso. Assim fica ótimo.
+- Isso. Assim fica Ã³timo.
 
 548
 00:32:24,700 --> 00:32:28,700
-Só por curiosidade, acha
+SÃ³ por curiosidade, acha
 que isso vai funcionar com...
 
 549
@@ -2647,8 +2651,8 @@ que isso vai funcionar com...
 
 550
 00:32:34,300 --> 00:32:37,400
-Não especificamente.
-Estou só pensando alto...
+NÃ£o especificamente.
+Estou sÃ³ pensando alto...
 
 551
 00:32:40,400 --> 00:32:44,600
@@ -2658,7 +2662,7 @@ em particular... Que bom.
 552
 00:32:46,700 --> 00:32:49,900
 Tudo bem.
-Preste atenção, Casanova.
+Preste atenÃ§Ã£o, Casanova.
 
 553
 00:32:49,900 --> 00:32:51,400
@@ -2671,8 +2675,8 @@ ao ferro-velho.
 
 555
 00:32:54,200 --> 00:32:56,900
-Lá é bem romântico
-à noite.
+LÃ¡ Ã© bem romÃ¢ntico
+Ã  noite.
 
 556
 00:32:56,900 --> 00:32:59,900
@@ -2681,53 +2685,53 @@ alguns petiscos,
 
 557
 00:32:59,900 --> 00:33:03,200
-música vinda do som de
+mÃºsica vinda do som de
 um carro antigo, talvez...
 
 558
 00:33:03,200 --> 00:33:06,600
-É! E um monte coisas velhas
+Ã‰! E um monte coisas velhas
 para fazer xixi, certo?
 
 559
 00:33:06,600 --> 00:33:10,400
-Você tem muito para aprender!
-O negócio é o seguinte:
+VocÃª tem muito para aprender!
+O negÃ³cio Ã© o seguinte:
 
 560
 00:33:10,400 --> 00:33:14,400
 Garotas querem romance,
-sabe? Mistério!
+sabe? MistÃ©rio!
 
 561
 00:33:15,200 --> 00:33:17,700
 - Caramba!
-- O quê?
+- O quÃª?
 
 562
 00:33:18,500 --> 00:33:22,000
-Não havia notado antes,
-mas você tem belos...
+NÃ£o havia notado antes,
+mas vocÃª tem belos...
 
 563
 00:33:23,600 --> 00:33:27,100
-- Caminhão de bombeiro!
+- CaminhÃ£o de bombeiro!
 - Estamos conversando aqui!
 
 564
 00:33:27,700 --> 00:33:32,300
-- Desculpe, onde estávamos?
-- Você disse que tenho belos...
+- Desculpe, onde estÃ¡vamos?
+- VocÃª disse que tenho belos...
 
 565
 00:33:32,300 --> 00:33:34,900
-- Hora de ir, amigão.
-- Não, espera, Phil,
+- Hora de ir, amigÃ£o.
+- NÃ£o, espera, Phil,
 
 566
 00:33:34,900 --> 00:33:37,000
-- agora não!
-- Onde você vai?
+- agora nÃ£o!
+- Onde vocÃª vai?
 
 567
 00:33:37,000 --> 00:33:38,900
@@ -2736,23 +2740,23 @@ mas você tem belos...
 
 568
 00:33:38,900 --> 00:33:41,500
-- Belos... o quê?
-- O quê?
+- Belos... o quÃª?
+- O quÃª?
 
 569
 00:33:45,900 --> 00:33:49,600
 Carlo, posso perguntar uma coisa?
-O mau hálito é tão brabo assim?
+O mau hÃ¡lito Ã© tÃ£o brabo assim?
 
 570
 00:33:49,600 --> 00:33:53,300
-Pasta de dente é um bom começo.
+Pasta de dente Ã© um bom comeÃ§o.
 Mas vai precisar mais do que isso.
 
 571
 00:33:53,300 --> 00:33:56,900
 Cuidado! Acabei de me dar
-um banho de língua!
+um banho de lÃ­ngua!
 
 572
 00:33:56,900 --> 00:33:58,200
@@ -2760,7 +2764,7 @@ Desculpa.
 
 573
 00:33:59,100 --> 00:34:00,800
-Como está meu bafo agora?
+Como estÃ¡ meu bafo agora?
 
 574
 00:34:01,900 --> 00:34:04,100
@@ -2770,7 +2774,7 @@ mentolado!
 575
 00:34:04,500 --> 00:34:07,400
 A quem quero enganar?
-Hálito mentolado, melhor postura...
+HÃ¡lito mentolado, melhor postura...
 
 576
 00:34:07,400 --> 00:34:09,400
@@ -2778,8 +2782,8 @@ Isso nunca vai dar certo!
 
 577
 00:34:09,400 --> 00:34:13,300
-Esses caras têm habilidades.
-Eu jamais falarei "marmotês".
+Esses caras tÃªm habilidades.
+Eu jamais falarei "marmotÃªs".
 
 578
 00:34:13,300 --> 00:34:15,300
@@ -2792,26 +2796,26 @@ Esquece...
 
 580
 00:34:16,600 --> 00:34:21,400
-Entrar em lugares novos é difícil.
-Entrar em gaiolas é mais ainda.
+Entrar em lugares novos Ã© difÃ­cil.
+Entrar em gaiolas Ã© mais ainda.
 
 581
 00:34:21,800 --> 00:34:25,800
-Não entendo. Sou um cão,
-você é um gato e nos damos bem.
+NÃ£o entendo. Sou um cÃ£o,
+vocÃª Ã© um gato e nos damos bem.
 
 582
 00:34:25,800 --> 00:34:28,100
-Porque você é meu "hermano".
+Porque vocÃª Ã© meu "hermano".
 
 583
 00:34:28,100 --> 00:34:31,100
-Se não fôssemos parentes,
+Se nÃ£o fÃ´ssemos parentes,
 eu arrancaria os seus olhos!
 
 584
 00:34:32,600 --> 00:34:36,200
-Não me faça rir!
+NÃ£o me faÃ§a rir!
 Nunca me pegaria,
 
 585
@@ -2821,15 +2825,15 @@ o seu pelo...
 
 586
 00:34:39,600 --> 00:34:42,800
-Carlos, você é um gênio!
+Carlos, vocÃª Ã© um gÃªnio!
 
 587
 00:34:44,000 --> 00:34:45,800
-O que ele está fazendo?
+O que ele estÃ¡ fazendo?
 
 588
 00:34:46,400 --> 00:34:49,200
-Alguém sente esse cheiro?
+AlguÃ©m sente esse cheiro?
 
 589
 00:34:50,100 --> 00:34:53,900
@@ -2839,7 +2843,7 @@ E odeio gatos!
 590
 00:34:54,000 --> 00:34:56,700
 Gato?
-Não tem nenhum gato aqui.
+NÃ£o tem nenhum gato aqui.
 
 591
 00:34:56,700 --> 00:35:00,100
@@ -2852,31 +2856,31 @@ Onde estou?
 
 593
 00:35:04,800 --> 00:35:07,300
-Esse é meu, amigos.
+Esse Ã© meu, amigos.
 
 594
 00:35:07,300 --> 00:35:10,600
-É um parque de cães?
+Ã‰ um parque de cÃ£es?
 Devo estar muito perdido.
 
 595
 00:35:10,600 --> 00:35:15,200
 Deve estar mesmo, gato,
-aqui esse parque é só para cães!
+aqui esse parque Ã© sÃ³ para cÃ£es!
 
 596
 00:35:15,600 --> 00:35:18,500
-- Atrás dele!
-- Você disse que teria poucos cães.
+- AtrÃ¡s dele!
+- VocÃª disse que teria poucos cÃ£es.
 
 597
 00:35:18,500 --> 00:35:21,500
-O que quer que eu faça?
-Tem sol, está lotado hoje!
+O que quer que eu faÃ§a?
+Tem sol, estÃ¡ lotado hoje!
 
 598
 00:35:21,500 --> 00:35:24,200
-Isso te custará bem caro.
+Isso te custarÃ¡ bem caro.
 
 599
 00:35:24,200 --> 00:35:26,100
@@ -2888,12 +2892,12 @@ Quem soltou a cachorrada?
 
 601
 00:35:28,700 --> 00:35:31,900
-- Isso não é bom.
-- Por favor, não me machuque.
+- Isso nÃ£o Ã© bom.
+- Por favor, nÃ£o me machuque.
 
 602
 00:35:31,900 --> 00:35:36,900
-Sou só um pobre, atraente, culto
+Sou sÃ³ um pobre, atraente, culto
 e inteligente gato que se perdeu.
 
 603
@@ -2903,17 +2907,17 @@ depois dessa ousadia, gatinho!
 
 604
 00:35:41,500 --> 00:35:45,900
-Você é o maior
-e mais malvado cão que já vi!
+VocÃª Ã© o maior
+e mais malvado cÃ£o que jÃ¡ vi!
 
 605
 00:35:45,900 --> 00:35:48,400
-Também parece ser
+TambÃ©m parece ser
 muito legal e confiante!
 
 606
 00:35:48,400 --> 00:35:52,100
-Está absolutamente correto,
+EstÃ¡ absolutamente correto,
 seu comedor de Friskies esquisito.
 
 607
@@ -2923,23 +2927,23 @@ seu comedor de Friskies esquisito.
 
 608
 00:35:55,500 --> 00:36:00,100
-- Qual é! Capricha, cara!
-- Sério? Tudo bem!
+- Qual Ã©! Capricha, cara!
+- SÃ©rio? Tudo bem!
 
 609
 00:36:04,300 --> 00:36:07,200
 Volta aqui, sua bola de pelo
-imprestável!
+imprestÃ¡vel!
 
 610
 00:36:07,200 --> 00:36:10,600
-Só peso 3 quilos e isso
-dói muito, então agora pare!
+SÃ³ peso 3 quilos e isso
+dÃ³i muito, entÃ£o agora pare!
 
 611
 00:36:10,600 --> 00:36:13,000
-Não, não! Continua!
-Acho que está funcionando!
+NÃ£o, nÃ£o! Continua!
+Acho que estÃ¡ funcionando!
 
 612
 00:36:13,000 --> 00:36:15,100
@@ -2953,12 +2957,12 @@ Pessoal, olhem isso!
 614
 00:36:27,000 --> 00:36:30,100
 Bola de pelo...
-Qual o problema, gatão,
+Qual o problema, gatÃ£o,
 
 615
 00:36:30,100 --> 00:36:33,300
-- o cachorro comeu sua língua?
-- É, que seja, cara.
+- o cachorro comeu sua lÃ­ngua?
+- Ã‰, que seja, cara.
 
 616
 00:36:34,700 --> 00:36:37,100
@@ -2967,26 +2971,26 @@ o que queria.
 
 617
 00:36:39,200 --> 00:36:41,100
-Foi hilário, Marmacão!
+Foi hilÃ¡rio, MarmacÃ£o!
 
 618
 00:36:41,400 --> 00:36:43,700
-Você não é tão bom
+VocÃª nÃ£o Ã© tÃ£o bom
 quanto o Bosco,
 
 619
 00:36:43,700 --> 00:36:46,000
-mas deu uma lição naquele
+mas deu uma liÃ§Ã£o naquele
 saco de pulgas!
 
 620
 00:36:46,000 --> 00:36:49,300
-Por favor, era só um gato.
+Por favor, era sÃ³ um gato.
 E ele nem o matou.
 
 621
 00:36:49,700 --> 00:36:52,100
-Você tem ótimo faro.
+VocÃª tem Ã³timo faro.
 
 622
 00:36:52,900 --> 00:36:55,700
@@ -2996,7 +3000,7 @@ as enormes narinas.
 623
 00:36:55,700 --> 00:36:59,500
 Preciso ir, mas talvez
-nos vejamos por aí.
+nos vejamos por aÃ­.
 
 624
 00:36:59,500 --> 00:37:03,200
@@ -3009,12 +3013,12 @@ Agora!
 
 626
 00:37:05,600 --> 00:37:08,000
-Também tenho
-um ótimo faro.
+TambÃ©m tenho
+um Ã³timo faro.
 
 627
 00:37:08,000 --> 00:37:13,400
-Quando estou perto de você,
+Quando estou perto de vocÃª,
 farejo potencial, mas falta algo.
 
 628
@@ -3025,37 +3029,37 @@ farejo potencial, mas falta algo.
 629
 00:37:17,500 --> 00:37:21,100
 - Funcionou! Ela falou comigo!
-- O que está fazendo?
+- O que estÃ¡ fazendo?
 
 630
 00:37:21,100 --> 00:37:23,000
-Não foi nada
+NÃ£o foi nada
 do que conversamos.
 
 631
 00:37:23,000 --> 00:37:25,600
-E daí? Ela gostou
-do meu hálito mentolado.
+E daÃ­? Ela gostou
+do meu hÃ¡lito mentolado.
 
 632
 00:37:25,700 --> 00:37:28,400
-LATIDOS ORGÂNICOS
-1ª COMPETIÇÃO ANUAL DE SURFE CANINO
+LATIDOS ORGÃ‚NICOS
+1Âª COMPETIÃ‡ÃƒO ANUAL DE SURFE CANINO
 
 633
 00:37:28,700 --> 00:37:33,500
-Bem-vindos à 1ª Competição Anual
-de Surfe da Latidos Orgânicos.
+Bem-vindos Ã  1Âª CompetiÃ§Ã£o Anual
+de Surfe da Latidos OrgÃ¢nicos.
 
 634
 00:37:33,500 --> 00:37:37,500
-Donos de cães,
+Donos de cÃ£es,
 para a praia. "Auau-bunga"!
 
 635
 00:37:48,800 --> 00:37:52,300
-Oi! Eu te conheço.
-Estuda na Marshall, não é?
+Oi! Eu te conheÃ§o.
+Estuda na Marshall, nÃ£o Ã©?
 
 636
 00:37:52,300 --> 00:37:53,800
@@ -3071,26 +3075,26 @@ Fica sempre com isso?
 
 639
 00:38:00,200 --> 00:38:02,000
-Você fica sempre com isso?
+VocÃª fica sempre com isso?
 
 640
 00:38:02,800 --> 00:38:07,300
-- Meu nome é Bodie.
-- Eu sei... o meu é Barbara.
+- Meu nome Ã© Bodie.
+- Eu sei... o meu Ã© Barbara.
 
 641
 00:38:08,200 --> 00:38:09,700
-Aquele é o seu cão?
+Aquele Ã© o seu cÃ£o?
 
 642
 00:38:10,600 --> 00:38:14,000
-- Não, ele é do meu pai.
+- NÃ£o, ele Ã© do meu pai.
 - Que pena.
 
 643
 00:38:14,000 --> 00:38:16,900
-É bem melhor do que aqueles
-cães imprestáveis de bolsa.
+Ã‰ bem melhor do que aqueles
+cÃ£es imprestÃ¡veis de bolsa.
 
 644
 00:38:16,900 --> 00:38:19,400
@@ -3099,36 +3103,36 @@ como meu.
 
 645
 00:38:19,700 --> 00:38:21,500
-O cão, não o meu pai.
+O cÃ£o, nÃ£o o meu pai.
 
 646
 00:38:21,600 --> 00:38:24,500
 O Marmaduke e eu
-somos muito próximos.
+somos muito prÃ³ximos.
 
 647
 00:38:26,300 --> 00:38:29,100
-Um amigo dará uma festa
+Um amigo darÃ¡ uma festa
 no final de semana...
 
 648
 00:38:29,100 --> 00:38:32,000
-- Você deveria ir.
+- VocÃª deveria ir.
 - Claro, eu adoraria.
 
 649
 00:38:33,400 --> 00:38:36,600
-A competição vai começar.
-Dá o fora, "Hasselhoff"!
+A competiÃ§Ã£o vai comeÃ§ar.
+DÃ¡ o fora, "Hasselhoff"!
 
 650
 00:38:37,600 --> 00:38:39,400
 Pai!
-O que está fazendo?
+O que estÃ¡ fazendo?
 
 651
 00:38:39,400 --> 00:38:42,800
-Você é muito jovem e estou muito
+VocÃª Ã© muito jovem e estou muito
 ocupado para falar disso agora.
 
 652
@@ -3169,7 +3173,7 @@ Eu nem gosto de futebol.
 
 660
 00:39:15,600 --> 00:39:18,700
-Acho que não sei como
+Acho que nÃ£o sei como
 contar a verdade para ele.
 
 661
@@ -3179,12 +3183,12 @@ mas seja forte.
 
 662
 00:39:22,500 --> 00:39:24,400
-Queria que você
+Queria que vocÃª
 pudesse falar.
 
 663
 00:39:25,400 --> 00:39:28,100
-E eu queria que você
+E eu queria que vocÃª
 pudesse me entender.
 
 664
@@ -3199,18 +3203,18 @@ Oi, Brian, tudo bem?
 
 666
 00:39:35,200 --> 00:39:39,100
-- Não, tudo bem.
+- NÃ£o, tudo bem.
 - Espera, Phil! Phil!
 
 667
 00:39:39,100 --> 00:39:41,900
-Espera aí, Phil. Brian quer
+Espera aÃ­, Phil. Brian quer
 te contar uma coisa.
 
 668
 00:39:45,400 --> 00:39:50,100
-Hoje é um belo dia na Califórnia
-para o Surfe de Cães.
+Hoje Ã© um belo dia na CalifÃ³rnia
+para o Surfe de CÃ£es.
 
 669
 00:39:50,100 --> 00:39:53,700
@@ -3219,12 +3223,12 @@ nossos competidores caninos!
 
 670
 00:39:54,500 --> 00:39:56,800
-Esse é nosso Diretor de Marketing,
+Esse Ã© nosso Diretor de Marketing,
 Phil Winslow.
 
 671
 00:39:56,800 --> 00:40:00,100
-Phil, esses são David King
+Phil, esses sÃ£o David King
 e Jessica Colstadt, da Pet Co.
 
 672
@@ -3240,37 +3244,37 @@ aventura de surfe canino.
 674
 00:40:04,700 --> 00:40:08,300
 Nossa! Mal posso esperar
-para ver esse grandão nas ondas.
+para ver esse grandÃ£o nas ondas.
 
 675
 00:40:08,300 --> 00:40:12,100
-Não, Phil e Marmaduke
-chegaram do Kansas há um mês,
+NÃ£o, Phil e Marmaduke
+chegaram do Kansas hÃ¡ um mÃªs,
 
 676
 00:40:12,100 --> 00:40:14,100
-acho que não estão prontos
+acho que nÃ£o estÃ£o prontos
 para surfar.
 
 677
 00:40:14,100 --> 00:40:17,200
-- Que pena, seria o máximo.
-- É mesmo!
+- Que pena, seria o mÃ¡ximo.
+- Ã‰ mesmo!
 
 678
 00:40:18,000 --> 00:40:21,700
-Tem razão, isso seria...
-será o máximo!
+Tem razÃ£o, isso seria...
+serÃ¡ o mÃ¡ximo!
 
 679
 00:40:21,700 --> 00:40:24,800
 - Phil?
-- Phil, é brincadeira, recuse!
+- Phil, Ã© brincadeira, recuse!
 
 680
 00:40:26,800 --> 00:40:28,600
 Marmaduke
-está louco para "surflar".
+estÃ¡ louco para "surflar".
 
 681
 00:40:28,600 --> 00:40:30,100
@@ -3282,23 +3286,23 @@ Estamos mortos!
 
 683
 00:40:31,800 --> 00:40:34,700
-Não, não, não!
-Phil, não!
+NÃ£o, nÃ£o, nÃ£o!
+Phil, nÃ£o!
 
 684
 00:40:34,700 --> 00:40:36,900
-É grande demais!
+Ã‰ grande demais!
 E molhado demais!
 
 685
 00:40:37,200 --> 00:40:40,400
-Esse é o meu adversário?
+Esse Ã© o meu adversÃ¡rio?
 Vai ser divertido.
 
 686
 00:40:40,900 --> 00:40:44,100
-- Está congelando! Está um gelo!
-- Não! Marmaduke!
+- EstÃ¡ congelando! EstÃ¡ um gelo!
+- NÃ£o! Marmaduke!
 
 687
 00:40:44,100 --> 00:40:46,000
@@ -3315,22 +3319,22 @@ estou fazendo xixi em tudo.
 
 690
 00:40:52,500 --> 00:40:56,100
-Você não tem chance, Shamu!
-Sou o dono do pedaço.
+VocÃª nÃ£o tem chance, Shamu!
+Sou o dono do pedaÃ§o.
 
 691
 00:40:56,100 --> 00:40:57,700
-Boa sorte para você também.
+Boa sorte para vocÃª tambÃ©m.
 
 692
 00:40:57,800 --> 00:41:01,200
 Tudo bem, Marmaduke,
-não vai acontecer nada de ruim.
+nÃ£o vai acontecer nada de ruim.
 
 693
 00:41:01,200 --> 00:41:04,800
 Vai acontecer algo de ruim, Phil!
-A vingança vai doer!
+A vinganÃ§a vai doer!
 
 694
 00:41:04,800 --> 00:41:07,900
@@ -3343,28 +3347,28 @@ uma onda gigante se aproxima.
 
 696
 00:41:11,100 --> 00:41:13,400
-Não! Só pode
+NÃ£o! SÃ³ pode
 ser brincadeira.
 
 697
 00:41:13,400 --> 00:41:15,500
-- Hora de dançar!
+- Hora de danÃ§ar!
 - Sua vez, amigo.
 
 698
 00:41:15,500 --> 00:41:18,600
-Não! O que está fazendo?
-Phil, me ajude! Phil, não!
+NÃ£o! O que estÃ¡ fazendo?
+Phil, me ajude! Phil, nÃ£o!
 
 699
 00:41:18,600 --> 00:41:21,500
-Alguém me tira dessa coisa,
+AlguÃ©m me tira dessa coisa,
 o que estou fazendo?
 
 700
 00:41:21,500 --> 00:41:24,400
 Sai da frente, Bozo!
-Eu tenho direito à onda!
+Eu tenho direito Ã  onda!
 
 701
 00:41:25,700 --> 00:41:27,500
@@ -3374,46 +3378,46 @@ Phil, me ajuda!
 702
 00:41:27,800 --> 00:41:31,200
 Vejam! Marmaduke
-está na posição perfeita!
+estÃ¡ na posiÃ§Ã£o perfeita!
 
 703
 00:41:31,200 --> 00:41:32,700
-Marmaduke está no tubo!
+Marmaduke estÃ¡ no tubo!
 
 704
 00:41:33,400 --> 00:41:37,300
 Me tirem dessa coisa!
-Socorro! Marmy não surfa!
+Socorro! Marmy nÃ£o surfa!
 
 705
 00:41:37,500 --> 00:41:40,000
 Parece que ele
-não conseguirá.
+nÃ£o conseguirÃ¡.
 
 706
 00:41:40,000 --> 00:41:42,500
-- Cadê ele?
-- Não sei.
+- CadÃª ele?
+- NÃ£o sei.
 
 707
 00:41:43,800 --> 00:41:48,000
-Cara, você vai morrer!
-Não vai, não! Segura essa onda!
+Cara, vocÃª vai morrer!
+NÃ£o vai, nÃ£o! Segura essa onda!
 
 708
 00:41:48,000 --> 00:41:51,900
-Está indo rápido mesmo!
-Gerônimo!
+EstÃ¡ indo rÃ¡pido mesmo!
+GerÃ´nimo!
 
 709
 00:41:53,900 --> 00:41:56,000
-- Olha ele lá!
-- Lá está ele!
+- Olha ele lÃ¡!
+- LÃ¡ estÃ¡ ele!
 
 710
 00:41:58,100 --> 00:42:00,600
-Vejam só isso!
-Ele está no ar!
+Vejam sÃ³ isso!
+Ele estÃ¡ no ar!
 
 711
 00:42:01,200 --> 00:42:03,300
@@ -3426,12 +3430,12 @@ Cuidado! Cuidado!
 713
 00:42:08,700 --> 00:42:12,000
 E o Duke desmonta!
-Esse cão arrebenta! Marmaduke!
+Esse cÃ£o arrebenta! Marmaduke!
 
 714
 00:42:13,300 --> 00:42:18,100
 Me tira daqui! Tira isso
-de mim! Está queimando!
+de mim! EstÃ¡ queimando!
 
 715
 00:42:18,100 --> 00:42:19,900
@@ -3439,7 +3443,7 @@ Me ajude!
 
 716
 00:42:20,700 --> 00:42:23,400
-- Foi incrível!
+- Foi incrÃ­vel!
 - Foi mesmo?
 
 717
@@ -3449,7 +3453,7 @@ Me ajude!
 
 718
 00:42:26,200 --> 00:42:29,100
-- Você arrebentou, cara!
+- VocÃª arrebentou, cara!
 - Eu arrebentei?
 
 719
@@ -3463,38 +3467,38 @@ Marmaduke arrebenta!
 
 721
 00:42:32,600 --> 00:42:37,400
-Muito bem, aqui está ele.
-O campeão absoluto de surfe.
+Muito bem, aqui estÃ¡ ele.
+O campeÃ£o absoluto de surfe.
 
 722
 00:42:37,400 --> 00:42:41,200
-Acha que foi engraçado rabear minha
+Acha que foi engraÃ§ado rabear minha
 onda daquele jeito, Marma-eca?
 
 723
 00:42:41,200 --> 00:42:45,300
-Não fiz nada, Bosco.
+NÃ£o fiz nada, Bosco.
 Esquece isso, foi um acidente.
 
 724
 00:42:45,300 --> 00:42:48,400
-- E o troféu vai para...
+- E o trofÃ©u vai para...
 - Acho bom que seja eu.
 
 725
 00:42:48,400 --> 00:42:54,000
-Temos uma virada! O troféu vai para
+Temos uma virada! O trofÃ©u vai para
 Phil Winslow e Marmaduke.
 
 726
 00:42:55,300 --> 00:42:58,100
-- O quê?
+- O quÃª?
 - Phil, a gente ganhou mesmo?
 
 727
 00:42:58,100 --> 00:43:01,600
-- Vou te arrebentar, seu inútil!
-- Não! Eu não fiz nada!
+- Vou te arrebentar, seu inÃºtil!
+- NÃ£o! Eu nÃ£o fiz nada!
 
 728
 00:43:01,600 --> 00:43:03,700
@@ -3507,7 +3511,7 @@ Socorro!
 
 730
 00:43:07,100 --> 00:43:08,700
-Volta aqui, seu inútil!
+Volta aqui, seu inÃºtil!
 
 731
 00:43:10,900 --> 00:43:14,800
@@ -3520,13 +3524,13 @@ Pare de fugir, covarde!
 
 733
 00:43:17,200 --> 00:43:20,900
-Você vai pagar por isso.
+VocÃª vai pagar por isso.
 Vai pagar caro!
 
 734
 00:43:21,600 --> 00:43:23,500
 Vai Duke,
-você pode com ele!
+vocÃª pode com ele!
 
 735
 00:43:23,500 --> 00:43:26,100
@@ -3534,17 +3538,17 @@ Isso acaba aqui e agora.
 
 736
 00:43:26,100 --> 00:43:29,600
-Quer saber? Tem razão, Bosco,
+Quer saber? Tem razÃ£o, Bosco,
 isso acaba mesmo aqui.
 
 737
 00:43:31,400 --> 00:43:34,500
-Minha perna, deu cãibra!
+Minha perna, deu cÃ£ibra!
 Tempo! Tempo!
 
 738
 00:43:35,000 --> 00:43:36,600
-Não! Cachorro malvado!
+NÃ£o! Cachorro malvado!
 
 739
 00:43:39,400 --> 00:43:41,300
@@ -3552,7 +3556,7 @@ Sinto muito por isso.
 
 740
 00:43:43,700 --> 00:43:46,500
-Controle seu cão, entendeu?
+Controle seu cÃ£o, entendeu?
 
 741
 00:43:48,400 --> 00:43:51,300
@@ -3561,50 +3565,50 @@ Venham por aqui.
 
 742
 00:44:00,200 --> 00:44:03,900
-Oi! O que o novo campeão de surfe
+Oi! O que o novo campeÃ£o de surfe
 faz aqui sozinho?
 
 743
 00:44:03,900 --> 00:44:08,800
-Oi! Só estou aqui
-dando um tempo da minha família.
+Oi! SÃ³ estou aqui
+dando um tempo da minha famÃ­lia.
 
 744
 00:44:08,800 --> 00:44:11,900
-Algumas pessoas não conseguem
-lidar com um cão líder.
+Algumas pessoas nÃ£o conseguem
+lidar com um cÃ£o lÃ­der.
 
 745
 00:44:11,900 --> 00:44:13,300
-Sério?
+SÃ©rio?
 
 746
 00:44:15,700 --> 00:44:20,400
-- Está ficando meio frio aqui.
+- EstÃ¡ ficando meio frio aqui.
 - Espera, e o Bosco?
 
 747
 00:44:20,400 --> 00:44:23,800
 Esquece ele.
-Tem um cão novo na cidade,
+Tem um cÃ£o novo na cidade,
 
 748
 00:44:23,800 --> 00:44:26,000
-e o nome dele é Marmaduke.
+e o nome dele Ã© Marmaduke.
 
 749
 00:44:26,400 --> 00:44:28,700
-Esse é o meu nome!
+Esse Ã© o meu nome!
 
 750
 00:44:29,300 --> 00:44:35,200
-É o meu nome! Marmaduke,
+Ã‰ o meu nome! Marmaduke,
 diga bem alto! Diga com orgulho!
 
 751
 00:44:42,900 --> 00:44:44,900
-MANEIRA FÁCIL
-DE TREINAR SEU CÃO
+MANEIRA FÃCIL
+DE TREINAR SEU CÃƒO
 
 752
 00:44:58,100 --> 00:45:00,500
@@ -3614,7 +3618,7 @@ como vai?
 753
 00:45:00,500 --> 00:45:02,200
 Anton, mentor
-de cães líderes.
+de cÃ£es lÃ­deres.
 
 754
 00:45:02,200 --> 00:45:04,800
@@ -3627,26 +3631,26 @@ Volta aqui!
 
 756
 00:45:11,100 --> 00:45:13,200
-Você é o líder, Phil.
-Você é o superior!
+VocÃª Ã© o lÃ­der, Phil.
+VocÃª Ã© o superior!
 
 757
 00:45:17,700 --> 00:45:22,000
-Marmaduke, o que é isso?
+Marmaduke, o que Ã© isso?
 Vamos, saiam do carro!
 
 758
 00:45:30,900 --> 00:45:35,200
 Levante os punhos e diga
-para o mundo: Eu sou o líder!
+para o mundo: Eu sou o lÃ­der!
 
 759
 00:45:35,700 --> 00:45:37,300
-Eu sou o líder!
+Eu sou o lÃ­der!
 
 760
 00:45:46,900 --> 00:45:49,000
-Achei que você tivesse dito
+Achei que vocÃª tivesse dito
 que ele viria.
 
 761
@@ -3656,12 +3660,12 @@ da festa dos "Pedigrees",
 
 762
 00:45:52,200 --> 00:45:53,900
-mas não prometeu nada.
+mas nÃ£o prometeu nada.
 
 763
 00:46:06,800 --> 00:46:11,200
 - Quanto falta?
-- Continue, já estamos chegando.
+- Continue, jÃ¡ estamos chegando.
 
 764
 00:46:13,400 --> 00:46:15,200
@@ -3669,8 +3673,8 @@ Onde estamos?
 
 765
 00:46:15,200 --> 00:46:17,500
-É uma surpresa.
-Está pronta?
+Ã‰ uma surpresa.
+EstÃ¡ pronta?
 
 766
 00:46:17,500 --> 00:46:19,300
@@ -3678,11 +3682,11 @@ Manda ver, pessoal!
 
 767
 00:46:27,600 --> 00:46:29,300
-Muito legal, não?
+Muito legal, nÃ£o?
 
 768
 00:46:33,200 --> 00:46:35,300
-É lindo!
+Ã‰ lindo!
 
 769
 00:46:36,900 --> 00:46:40,800
@@ -3691,13 +3695,13 @@ Arrebenta, DJ Thunder!
 
 770
 00:46:46,400 --> 00:46:48,800
-Não acredito
-que estou aqui com você.
+NÃ£o acredito
+que estou aqui com vocÃª.
 
 771
 00:46:48,800 --> 00:46:52,200
-Claro que está, seu bobo.
-Você é o cachorro-alfa!
+Claro que estÃ¡, seu bobo.
+VocÃª Ã© o cachorro-alfa!
 
 772
 00:46:52,200 --> 00:46:54,200
@@ -3711,7 +3715,7 @@ pensou em tudo!
 
 774
 00:46:57,100 --> 00:46:59,700
-Foi só uma coisinha
+Foi sÃ³ uma coisinha
 que preparei.
 
 775
@@ -3721,30 +3725,30 @@ para entrada?
 
 776
 00:47:02,100 --> 00:47:04,100
-É o meu favorito!
+Ã‰ o meu favorito!
 
 777
 00:47:04,100 --> 00:47:07,200
-Sério? Estava preocupado
-que fosse alérgica.
+SÃ©rio? Estava preocupado
+que fosse alÃ©rgica.
 
 778
 00:47:07,200 --> 00:47:09,300
 Quase peguei
-manteiga de amêndoa.
+manteiga de amÃªndoa.
 
 779
 00:47:10,300 --> 00:47:13,100
-É tão... romântico.
+Ã‰ tÃ£o... romÃ¢ntico.
 
 780
 00:47:13,100 --> 00:47:16,500
-Não consegui pensar em outra
+NÃ£o consegui pensar em outra
 garota para compartilhar isso.
 
 781
 00:47:16,700 --> 00:47:19,200
-E também é tão criativo.
+E tambÃ©m Ã© tÃ£o criativo.
 
 782
 00:47:19,200 --> 00:47:22,200
@@ -3752,12 +3756,12 @@ Diga-me, como pensou nisso?
 
 783
 00:47:22,300 --> 00:47:24,300
-É o tipo de cara que sou.
+Ã‰ o tipo de cara que sou.
 
 784
 00:47:24,300 --> 00:47:28,200
-Sou um dogue alemão,
-sentávamos aos pés dos Reis!
+Sou um dogue alemÃ£o,
+sentÃ¡vamos aos pÃ©s dos Reis!
 
 785
 00:47:29,300 --> 00:47:32,400
@@ -3775,42 +3779,42 @@ Queria dizer...
 
 788
 00:47:39,200 --> 00:47:41,600
-- Ele é tão engraçado.
+- Ele Ã© tÃ£o engraÃ§ado.
 - Eu queria dizer...
 
 789
 00:47:41,600 --> 00:47:44,700
-que ficar com você
-nas últimas semanas,
+que ficar com vocÃª
+nas Ãºltimas semanas,
 
 790
 00:47:44,700 --> 00:47:47,300
-o que, em anos dos cães,
+o que, em anos dos cÃ£es,
 parecem meses...
 
 791
 00:47:47,300 --> 00:47:51,300
-É como se, pela primeira vez
+Ã‰ como se, pela primeira vez
 na vida, achasse o meu lugar.
 
 792
 00:47:51,300 --> 00:47:54,500
-É! Também estou
+Ã‰! TambÃ©m estou
 me divertindo muito.
 
 793
 00:48:10,000 --> 00:48:13,800
-Olha só ele. Os camarões
-da terra aos seus pés...
+Olha sÃ³ ele. Os camarÃµes
+da terra aos seus pÃ©s...
 
 794
 00:48:13,800 --> 00:48:17,200
-- Já chega!
-- Não, Mazie, fique! Por favor.
+- JÃ¡ chega!
+- NÃ£o, Mazie, fique! Por favor.
 
 795
 00:48:20,600 --> 00:48:22,300
-Sentados, anõezinhos!
+Sentados, anÃµezinhos!
 
 796
 00:48:22,300 --> 00:48:23,900
@@ -3819,37 +3823,37 @@ Sentados, anõezinhos!
 
 797
 00:48:25,300 --> 00:48:27,000
-E aí, Mazie, tudo bem?
+E aÃ­, Mazie, tudo bem?
 
 798
 00:48:27,000 --> 00:48:30,500
-Você nem liga mais pra gente,
-então pare de fingir.
+VocÃª nem liga mais pra gente,
+entÃ£o pare de fingir.
 
 799
 00:48:30,500 --> 00:48:32,700
-Nós te aceitamos,
+NÃ³s te aceitamos,
 fomos seus amigos
 
 800
 00:48:32,700 --> 00:48:35,400
-e você fica sentado aí,
-agindo como se fôssemos lixo.
+e vocÃª fica sentado aÃ­,
+agindo como se fÃ´ssemos lixo.
 
 801
 00:48:35,400 --> 00:48:37,900
 O que botaram
-na sua ração hoje?
+na sua raÃ§Ã£o hoje?
 
 802
 00:48:37,900 --> 00:48:39,900
-Você a levou ao meu
+VocÃª a levou ao meu
 encontro dos sonhos.
 
 803
 00:48:39,900 --> 00:48:42,700
 Encontro dos sonhos?
-Do que ela está falando?
+Do que ela estÃ¡ falando?
 
 804
 00:48:42,700 --> 00:48:44,800
@@ -3857,15 +3861,15 @@ Como acha que me senti?
 
 805
 00:48:48,000 --> 00:48:50,400
-"Alô, mesa para um".
+"AlÃ´, mesa para um".
 
 806
 00:48:53,700 --> 00:48:55,300
-Qual é o problema?
+Qual Ã© o problema?
 
 807
 00:48:55,300 --> 00:48:56,700
-Só trocamos umas ideias,
+SÃ³ trocamos umas ideias,
 
 808
 00:48:56,700 --> 00:48:58,600
@@ -3874,17 +3878,17 @@ que eu usei uma.
 
 809
 00:48:58,600 --> 00:49:01,400
-Você não entende, não é?
+VocÃª nÃ£o entende, nÃ£o Ã©?
 Ela te deu a vaquinha-porco,
 
 810
 00:49:01,400 --> 00:49:03,700
-ela gosta de você.
+ela gosta de vocÃª.
 Pelo menos gostava,
 
 811
 00:49:03,700 --> 00:49:06,000
-até você nos virar
+atÃ© vocÃª nos virar
 as costar e se tornar
 
 812
@@ -3895,7 +3899,7 @@ as costar e se tornar
 813
 00:49:08,800 --> 00:49:12,100
 Acho isso meigo e tal...
-mas já tenho namorada,
+mas jÃ¡ tenho namorada,
 
 814
 00:49:12,100 --> 00:49:13,700
@@ -3903,11 +3907,11 @@ uma namorada "Pedigree".
 
 815
 00:49:14,500 --> 00:49:15,900
-Então é isso?
+EntÃ£o Ã© isso?
 
 816
 00:49:17,200 --> 00:49:22,400
-É... eu... não ando mais
+Ã‰... eu... nÃ£o ando mais
 com vira-latas.
 
 817
@@ -3916,12 +3920,12 @@ Essa doeu!
 
 818
 00:49:28,300 --> 00:49:30,600
-Você teve sorte
+VocÃª teve sorte
 por me deverem um favor.
 
 819
 00:49:30,600 --> 00:49:33,000
-A Pet Co. nos dará
+A Pet Co. nos darÃ¡
 outra chance.
 
 820
@@ -3936,71 +3940,71 @@ o novo produto.
 
 822
 00:49:37,000 --> 00:49:39,500
-Sem problema, vou começar
-a trabalhar nisso já.
+Sem problema, vou comeÃ§ar
+a trabalhar nisso jÃ¡.
 
 823
 00:49:39,500 --> 00:49:40,900
-Vai começar?
+Vai comeÃ§ar?
 
 824
 00:49:40,900 --> 00:49:44,100
-É meio tarde para
+Ã‰ meio tarde para
 trabalhar nisso sozinho, rapaz.
 
 825
 00:49:44,100 --> 00:49:47,200
-Estará no meu barco esse fim
+EstarÃ¡ no meu barco esse fim
 de semana. Trabalharemos juntos.
 
 826
 00:49:47,200 --> 00:49:49,200
-- Esse fim de semana não dá.
+- Esse fim de semana nÃ£o dÃ¡.
 - Precisa.
 
 827
 00:49:49,200 --> 00:49:51,400
 Preciso passar um tempo
-com a família.
+com a famÃ­lia.
 
 828
 00:49:51,400 --> 00:49:53,800
-- Difícil.
+- DifÃ­cil.
 - Prometi para minha esposa.
 
 829
 00:49:55,100 --> 00:49:58,000
-Certo, traga a família.
-Eles relaxam, nós trabalhamos.
+Certo, traga a famÃ­lia.
+Eles relaxam, nÃ³s trabalhamos.
 
 830
 00:49:58,000 --> 00:50:01,400
-- Tudo bem. Será perfeito.
+- Tudo bem. SerÃ¡ perfeito.
 - Maravilha.
 
 831
 00:50:03,400 --> 00:50:07,400
-Sei que isso é constrangedor,
-mas é proibido cães no barco.
+Sei que isso Ã© constrangedor,
+mas Ã© proibido cÃ£es no barco.
 
 832
 00:50:07,700 --> 00:50:09,300
-É regra da minha mulher.
+Ã‰ regra da minha mulher.
 
 833
 00:50:09,800 --> 00:50:13,800
 Para ser sincero,
-acho que ela tem ciúmes.
+acho que ela tem ciÃºmes.
 
 834
 00:50:14,800 --> 00:50:20,100
-Coletes, toalhas, maiôs, óculos,
-protetor, o pé de pato do Brian...
+Coletes, toalhas, maiÃ´s, Ã³culos,
+protetor, o pÃ© de pato do Brian...
 
 835
 00:50:20,100 --> 00:50:23,500
 - Vai levar o laptop?
-- Só por precaução.
+- SÃ³ por precauÃ§Ã£o.
 
 836
 00:50:24,300 --> 00:50:27,100
@@ -4019,8 +4023,8 @@ amiga, para a festa.
 
 839
 00:50:31,200 --> 00:50:34,100
-É um passeio em família
-e você também vai. Toma.
+Ã‰ um passeio em famÃ­lia
+e vocÃª tambÃ©m vai. Toma.
 
 840
 00:50:34,600 --> 00:50:36,200
@@ -4035,22 +4039,22 @@ esquecendo algo.
 842
 00:50:38,500 --> 00:50:40,900
 Pegamos tudo,
-menos a mobília e o cachorro.
+menos a mobÃ­lia e o cachorro.
 
 843
 00:50:40,900 --> 00:50:43,100
-Olha só pra ele.
+Olha sÃ³ pra ele.
 Sentado bem ali.
 
 844
 00:50:43,100 --> 00:50:45,500
 - Eu sei.
-- Será que ele ficará bem, sozinho?
+- SerÃ¡ que ele ficarÃ¡ bem, sozinho?
 
 845
 00:50:45,500 --> 00:50:49,900
-Claro! Ele tem comida e água.
-Pedi para a Laura vir olhá-lo.
+Claro! Ele tem comida e Ã¡gua.
+Pedi para a Laura vir olhÃ¡-lo.
 
 846
 00:50:49,900 --> 00:50:52,200
@@ -4081,7 +4085,7 @@ Pula! Pula!
 852
 00:51:17,600 --> 00:51:21,400
 Como vai, Coby?
-Está bonita, Aurora.
+EstÃ¡ bonita, Aurora.
 
 853
 00:51:24,900 --> 00:51:27,900
@@ -4099,21 +4103,21 @@ Marmaduke mandando!
 
 856
 00:51:37,800 --> 00:51:41,000
-- Essa festa é sua, Duke?
-- Isso aí!
+- Essa festa Ã© sua, Duke?
+- Isso aÃ­!
 
 857
 00:51:41,000 --> 00:51:45,400
-Nós não merecemos!
-Nós te amamos, cara!
+NÃ³s nÃ£o merecemos!
+NÃ³s te amamos, cara!
 
 858
 00:51:45,900 --> 00:51:48,400
-Beleza, isso é que é festa.
+Beleza, isso Ã© que Ã© festa.
 
 859
 00:51:48,400 --> 00:51:51,500
-É, vamos lá!
+Ã‰, vamos lÃ¡!
 Quem soltou a cachorrada?
 
 860
@@ -4126,18 +4130,18 @@ Mandou bem, Marmaduke.
 
 862
 00:51:57,800 --> 00:52:01,500
-É impressão minha ou isso
-está ficando fora de controle?
+Ã‰ impressÃ£o minha ou isso
+estÃ¡ ficando fora de controle?
 
 863
 00:52:01,500 --> 00:52:04,700
-Todos estão se divertindo!
+Todos estÃ£o se divertindo!
 Relaxa!
 
 864
 00:52:04,700 --> 00:52:07,900
-Sim, claro, está certa!
-Estão se divertindo.
+Sim, claro, estÃ¡ certa!
+EstÃ£o se divertindo.
 
 865
 00:52:13,300 --> 00:52:16,200
@@ -4146,12 +4150,12 @@ se diverte mais do que a gente?
 
 866
 00:52:16,200 --> 00:52:20,100
-Porque eles não têm medo de viver
-e a gente não sabe nadar.
+Porque eles nÃ£o tÃªm medo de viver
+e a gente nÃ£o sabe nadar.
 
 867
 00:52:21,000 --> 00:52:23,900
-Ótimo, agora estou
+Ã“timo, agora estou
 ficando gripado.
 
 868
@@ -4160,7 +4164,7 @@ Venham, vamos embora.
 
 869
 00:52:25,900 --> 00:52:28,500
-- Sentiu cheiro de quê?
+- Sentiu cheiro de quÃª?
 - De problema.
 
 870
@@ -4170,11 +4174,11 @@ Duke! Duke! Duke!
 871
 00:52:36,900 --> 00:52:40,600
 - Ei, cara, saia do lixo.
-- Conheço você de algum lugar?
+- ConheÃ§o vocÃª de algum lugar?
 
 872
 00:52:40,600 --> 00:52:43,200
-Eu? Não.
+Eu? NÃ£o.
 Nunca te vi antes.
 
 873
@@ -4185,35 +4189,35 @@ parece estar dolorido.
 874
 00:52:45,900 --> 00:52:49,200
 Claro que tenho certeza.
-Nunca fui a um parque de cães.
+Nunca fui a um parque de cÃ£es.
 
 875
 00:52:52,000 --> 00:52:56,400
-- Isso é tão bom!
-- Coby, não! O tapete, não.
+- Isso Ã© tÃ£o bom!
+- Coby, nÃ£o! O tapete, nÃ£o.
 
 876
 00:52:57,500 --> 00:52:59,900
-Não, no sofá não!
+NÃ£o, no sofÃ¡ nÃ£o!
 
 877
 00:53:01,800 --> 00:53:05,000
-Não, o som, não.
+NÃ£o, o som, nÃ£o.
 O Phil vai me matar.
 
 878
 00:53:05,000 --> 00:53:08,300
-Está parecendo uma festança.
+EstÃ¡ parecendo uma festanÃ§a.
 Sinto muito interromper.
 
 879
 00:53:08,300 --> 00:53:11,500
 - O que faz aqui?
-- Tenho uma pergunta rápida:
+- Tenho uma pergunta rÃ¡pida:
 
 880
 00:53:11,500 --> 00:53:14,400
-alguém reconhece
+alguÃ©m reconhece
 esse amiguinho fofo?
 
 881
@@ -4223,8 +4227,8 @@ que o Marmaduke detonou?
 
 882
 00:53:17,100 --> 00:53:21,300
-Olá. Recomendo o guacamole.
-Está uma delícia!
+OlÃ¡. Recomendo o guacamole.
+EstÃ¡ uma delÃ­cia!
 
 883
 00:53:21,300 --> 00:53:22,800
@@ -4237,37 +4241,37 @@ com o Marmaduke.
 
 885
 00:53:25,900 --> 00:53:28,900
-Ou será Marma-falso?
+Ou serÃ¡ Marma-falso?
 
 886
 00:53:35,400 --> 00:53:38,800
 Em primeiro lugar,
-você não foi convidado, Bosco.
+vocÃª nÃ£o foi convidado, Bosco.
 
 887
 00:53:38,800 --> 00:53:40,500
 Saia agora
-e não terá problemas.
+e nÃ£o terÃ¡ problemas.
 
 888
 00:53:40,500 --> 00:53:43,400
-E leve o "bigodes" com você,
-não aceitamos gatos aqui.
+E leve o "bigodes" com vocÃª,
+nÃ£o aceitamos gatos aqui.
 
 889
 00:53:43,400 --> 00:53:45,600
-- Como é que é?
-- É mesmo?
+- Como Ã© que Ã©?
+- Ã‰ mesmo?
 
 890
 00:53:45,800 --> 00:53:48,300
-Então, como explica
+EntÃ£o, como explica
 aquela foto ali?
 
 891
 00:53:49,500 --> 00:53:53,100
-É mesmo aquele gato!
-É isso aí, o mesmo gato.
+Ã‰ mesmo aquele gato!
+Ã‰ isso aÃ­, o mesmo gato.
 
 892
 00:53:53,100 --> 00:53:54,400
@@ -4276,36 +4280,36 @@ Vamos dar o fora daqui.
 893
 00:53:54,400 --> 00:53:56,800
 Esperem, esperem,
-o que está acontecendo?
+o que estÃ¡ acontecendo?
 
 894
 00:53:56,800 --> 00:54:01,500
-Aonde vocês vão? Fiquem!
-Estão indo para onde?
+Aonde vocÃªs vÃ£o? Fiquem!
+EstÃ£o indo para onde?
 
 895
 00:54:02,400 --> 00:54:04,500
-- Otário!
-- Isso não!
+- OtÃ¡rio!
+- Isso nÃ£o!
 
 896
 00:54:04,500 --> 00:54:08,500
-- Vamos nos divertir no píer!
-- Isso aí, vamos. Festa!
+- Vamos nos divertir no pÃ­er!
+- Isso aÃ­, vamos. Festa!
 
 897
 00:54:08,700 --> 00:54:11,700
-Isso é verdade, Marmaduke?
+Isso Ã© verdade, Marmaduke?
 
 898
 00:54:14,000 --> 00:54:17,100
-- Só a maior parte...
+- SÃ³ a maior parte...
 - Viu? No final,
 
 899
 00:54:17,300 --> 00:54:21,400
 quem tem pedigree sempre ganha.
-E é assim que sempre vai ser.
+E Ã© assim que sempre vai ser.
 
 900
 00:54:21,900 --> 00:54:24,800
@@ -4318,7 +4322,7 @@ Venha, querida.
 
 902
 00:54:28,100 --> 00:54:31,600
-Jezebel, ele é um mentiroso.
+Jezebel, ele Ã© um mentiroso.
 Venha, vamos!
 
 903
@@ -4328,7 +4332,7 @@ Eu.. eu...
 
 904
 00:54:40,400 --> 00:54:42,800
-Pensei que você
+Pensei que vocÃª
 fosse diferente.
 
 905
@@ -4348,7 +4352,7 @@ das margaritas na ferida...
 
 908
 00:54:57,900 --> 00:55:00,700
-mas você meio
+mas vocÃª meio
 que mereceu isso.
 
 909
@@ -4358,7 +4362,7 @@ O que foi que eu fiz?
 910
 00:55:28,200 --> 00:55:30,700
 Estou ansiosa por outra
-viagem de barco em família.
+viagem de barco em famÃ­lia.
 
 911
 00:55:30,700 --> 00:55:32,700
@@ -4367,8 +4371,8 @@ num barco, certo?
 
 912
 00:55:32,700 --> 00:55:35,600
-- Só trabalhou, parabéns!
-- Tínhamos que terminar aquilo...
+- SÃ³ trabalhou, parabÃ©ns!
+- TÃ­nhamos que terminar aquilo...
 
 913
 00:55:35,600 --> 00:55:37,900
@@ -4377,12 +4381,12 @@ num barco, certo?
 
 914
 00:55:37,900 --> 00:55:39,200
-Não!
+NÃ£o!
 
 915
 00:55:39,200 --> 00:55:41,200
 - Phil...
-- Não!
+- NÃ£o!
 
 916
 00:55:41,800 --> 00:55:44,100
@@ -4401,7 +4405,7 @@ Phil, que bom que chegou!
 919
 00:55:51,300 --> 00:55:55,500
 - Dei uma festa, estava tentando...
-- Sai já do sofá!
+- Sai jÃ¡ do sofÃ¡!
 
 920
 00:55:55,500 --> 00:55:58,500
@@ -4410,32 +4414,32 @@ que convidaram amigos
 
 921
 00:55:58,500 --> 00:56:02,500
-- e aí foi uma loucura e...
+- e aÃ­ foi uma loucura e...
 - Vem aqui! Agora!
 
 922
 00:56:02,500 --> 00:56:05,600
 Phil, estou precisando
-de um abraço agora.
+de um abraÃ§o agora.
 
 923
 00:56:05,600 --> 00:56:08,000
 - Cachorro mau!
-- Phil, não!
+- Phil, nÃ£o!
 
 924
 00:56:08,000 --> 00:56:10,000
-- Phil, eu estava só...
+- Phil, eu estava sÃ³...
 - Phil, pare!
 
 925
 00:56:10,000 --> 00:56:13,000
-Me dá uma chance,
+Me dÃ¡ uma chance,
 eu pedi desculpas!
 
 926
 00:56:20,400 --> 00:56:22,300
-A apresentação da Pet Co.
+A apresentaÃ§Ã£o da Pet Co.
 
 927
 00:56:22,400 --> 00:56:24,500
@@ -4447,23 +4451,23 @@ Epa, papai.
 
 929
 00:56:30,500 --> 00:56:34,000
-Não me importo se está chovendo,
-chega. Ele pode dormir lá fora.
+NÃ£o me importo se estÃ¡ chovendo,
+chega. Ele pode dormir lÃ¡ fora.
 
 930
 00:56:34,000 --> 00:56:36,000
 Perfeito, isso
-resolverá tudo.
+resolverÃ¡ tudo.
 
 931
 00:56:36,000 --> 00:56:39,200
-Vamos acorrentá-lo no quintal
-pelos próximos dez anos.
+Vamos acorrentÃ¡-lo no quintal
+pelos prÃ³ximos dez anos.
 
 932
 00:56:39,200 --> 00:56:43,000
-- Talvez dar ele para alguém...
-- Você não disse isso!
+- Talvez dar ele para alguÃ©m...
+- VocÃª nÃ£o disse isso!
 
 933
 00:56:43,000 --> 00:56:45,000
@@ -4471,37 +4475,37 @@ Ele se recusa a me ouvir.
 
 934
 00:56:45,000 --> 00:56:48,800
-É só uma opção que ainda
-não exploramos, só isso.
+Ã‰ sÃ³ uma opÃ§Ã£o que ainda
+nÃ£o exploramos, sÃ³ isso.
 
 935
 00:56:48,800 --> 00:56:52,300
-- Não te entendo, às vezes.
+- NÃ£o te entendo, Ã s vezes.
 - O que foi, Deb?
 
 936
 00:56:52,300 --> 00:56:55,700
 - Ele destruiu nosso lar.
-- Não destruiu, não.
+- NÃ£o destruiu, nÃ£o.
 
 937
 00:56:55,700 --> 00:56:58,500
-Nosso lar somos nós,
-você, eu e as crianças,
+Nosso lar somos nÃ³s,
+vocÃª, eu e as crianÃ§as,
 
 938
 00:56:58,500 --> 00:57:00,800
-não importa onde estamos.
+nÃ£o importa onde estamos.
 
 939
 00:57:02,100 --> 00:57:05,400
-Essa mudança não funcionou
+Essa mudanÃ§a nÃ£o funcionou
 como eu esperava.
 
 940
 00:57:05,800 --> 00:57:09,400
-O único jeito de dar certo
-é se ficarmos juntos.
+O Ãºnico jeito de dar certo
+Ã© se ficarmos juntos.
 
 941
 00:57:09,400 --> 00:57:12,200
@@ -4509,52 +4513,52 @@ Parece que se esqueceu disso.
 
 942
 00:57:12,600 --> 00:57:16,800
-Posso fazer isso por nós.
+Posso fazer isso por nÃ³s.
 Trabalhei muito essa semana
 
 943
 00:57:16,900 --> 00:57:19,700
 e mais uma vez
-aquele cão estragou tudo.
+aquele cÃ£o estragou tudo.
 
 944
 00:57:19,700 --> 00:57:22,900
-Ele é um cão, Phil.
-Ele não sabe de nada.
+Ele Ã© um cÃ£o, Phil.
+Ele nÃ£o sabe de nada.
 
 945
 00:57:23,500 --> 00:57:25,700
-Quer deixá-lo dormir lá fora?
+Quer deixÃ¡-lo dormir lÃ¡ fora?
 Tudo bem.
 
 946
 00:57:25,700 --> 00:57:29,100
 Ele fica no quintal
-e você, no sofá.
+e vocÃª, no sofÃ¡.
 
 947
 00:57:29,100 --> 00:57:31,600
-- Sério?
-- Sério.
+- SÃ©rio?
+- SÃ©rio.
 
 948
 00:59:40,300 --> 00:59:44,300
 Quer saber?
-Não é tão fácil.
+NÃ£o Ã© tÃ£o fÃ¡cil.
 
 949
 01:00:09,700 --> 01:00:12,000
-Qual é?
+Qual Ã©?
 Coloca uma porta de gato.
 
 950
 01:00:14,500 --> 01:00:17,500
-- Ei, você deve ser a Mazie.
-- Diga àquele gigante sem graça
+- Ei, vocÃª deve ser a Mazie.
+- Diga Ã quele gigante sem graÃ§a
 
 951
 01:00:17,500 --> 01:00:19,800
-que não estou interessada
+que nÃ£o estou interessada
 em ofertas de paz.
 
 952
@@ -4569,8 +4573,8 @@ Ele se mandou faz uma hora.
 
 954
 01:00:25,400 --> 01:00:27,900
-Espere, ele não tem nenhuma
-malícia das ruas.
+Espere, ele nÃ£o tem nenhuma
+malÃ­cia das ruas.
 
 955
 01:00:27,900 --> 01:00:30,800
@@ -4580,30 +4584,30 @@ malícia das ruas.
 956
 01:00:30,800 --> 01:00:34,000
 Eu iria, mas...
-não posso me molhar.
+nÃ£o posso me molhar.
 
 957
 01:00:44,200 --> 01:00:47,200
-Cão louco e maravilhoso.
+CÃ£o louco e maravilhoso.
 
 958
 01:00:49,400 --> 01:00:52,700
-Ele é um ótimo cão,
-não é, Travis?
+Ele Ã© um Ã³timo cÃ£o,
+nÃ£o Ã©, Travis?
 
 959
 01:00:52,800 --> 01:00:58,600
-Louco e ótimo. É um cão melhor
+Louco e Ã³timo. Ã‰ um cÃ£o melhor
 do que eu poderia imaginar.
 
 960
 01:01:05,800 --> 01:01:09,400
 - Nem sinal dele no canil.
-- Nem no parque de cães.
+- Nem no parque de cÃ£es.
 
 961
 01:01:09,400 --> 01:01:12,000
-Também não tive sorte.
+TambÃ©m nÃ£o tive sorte.
 Foi um grande erro
 
 962
@@ -4613,81 +4617,81 @@ Muito absorvente.
 
 963
 01:01:18,200 --> 01:01:20,400
-Está chovendo pra cachorro!
+EstÃ¡ chovendo pra cachorro!
 
 964
 01:01:20,400 --> 01:01:23,300
-Vão para casa,
+VÃ£o para casa,
 vou procurar um pouco mais.
 
 965
 01:01:23,300 --> 01:01:27,200
-- Não podemos te deixar sozinha.
-- É muito perigoso.
+- NÃ£o podemos te deixar sozinha.
+- Ã‰ muito perigoso.
 
 966
 01:01:30,500 --> 01:01:34,700
-Pensando bem, divirta-se e faça
+Pensando bem, divirta-se e faÃ§a
 como quiser. Boa sorte.
 
 967
 01:02:13,100 --> 01:02:16,300
-- Chupacão?
-- Quem é você?
+- ChupacÃ£o?
+- Quem Ã© vocÃª?
 
 968
 01:02:16,300 --> 01:02:19,500
-- O que está fazendo aqui?
-- Por favor, não me machuque.
+- O que estÃ¡ fazendo aqui?
+- Por favor, nÃ£o me machuque.
 
 969
 01:02:19,900 --> 01:02:21,800
-Você é grandinho.
+VocÃª Ã© grandinho.
 
 970
 01:02:21,800 --> 01:02:26,200
-Bom, os pequenos não têm
+Bom, os pequenos nÃ£o tÃªm
 muita carne nos ossos.
 
 971
 01:02:27,000 --> 01:02:29,200
-Por favor, não me machuque.
+Por favor, nÃ£o me machuque.
 Desculpe, eu...
 
 972
 01:02:30,800 --> 01:02:34,400
-- Está bem?
+- EstÃ¡ bem?
 - Estou mais que bem.
 
 973
 01:02:37,000 --> 01:02:40,900
-- Desculpe incomodá-lo.
-- O que um cão como você
+- Desculpe incomodÃ¡-lo.
+- O que um cÃ£o como vocÃª
 
 974
 01:02:40,900 --> 01:02:46,300
-- faz por aqui? Não parece perdido.
+- faz por aqui? NÃ£o parece perdido.
 - Fugi de casa.
 
 975
 01:02:47,600 --> 01:02:51,300
-Então, acha que fugir
-é a resposta?
+EntÃ£o, acha que fugir
+Ã© a resposta?
 
 976
 01:02:53,800 --> 01:02:57,800
-Não sei o que estou fazendo.
-Agi como um bonzão
+NÃ£o sei o que estou fazendo.
+Agi como um bonzÃ£o
 
 977
 01:02:57,800 --> 01:03:01,100
 e perdi meu amigos,
-minha família...
+minha famÃ­lia...
 
 978
 01:03:01,100 --> 01:03:04,500
-Ouça, esse saco de ossos
-que está vendo
+OuÃ§a, esse saco de ossos
+que estÃ¡ vendo
 
 979
 01:03:04,500 --> 01:03:08,700
@@ -4696,12 +4700,12 @@ Eu era o cachorro-alfa.
 
 980
 01:03:08,700 --> 01:03:13,400
-Saí de casa para cuidar
+SaÃ­ de casa para cuidar
 da matilha e o fiz bem.
 
 981
 01:03:13,400 --> 01:03:15,900
-Até que se viraram
+AtÃ© que se viraram
 contra mim.
 
 982
@@ -4712,11 +4716,11 @@ dos trens e da carrocinha.
 983
 01:03:20,400 --> 01:03:24,800
 E tenha certeza, "compadre",
-não se passa um só dia
+nÃ£o se passa um sÃ³ dia
 
 984
 01:03:24,800 --> 01:03:27,200
-em que não pense em acordar
+em que nÃ£o pense em acordar
 numa cama quentinha
 
 985
@@ -4730,11 +4734,11 @@ O verdadeiro eu.
 
 987
 01:03:33,200 --> 01:03:34,500
-Vá para casa.
+VÃ¡ para casa.
 
 988
 01:03:34,500 --> 01:03:38,500
-Algo me diz que não é tarde demais
+Algo me diz que nÃ£o Ã© tarde demais
 para o seu "eu" verdadeiro.
 
 989
@@ -4744,7 +4748,7 @@ Obrigado, Buster.
 990
 01:03:47,700 --> 01:03:51,200
 Faz muito tempo
-que não me chamam assim.
+que nÃ£o me chamam assim.
 
 991
 01:03:51,300 --> 01:03:53,000
@@ -4752,7 +4756,7 @@ Obrigado.
 
 992
 01:03:54,000 --> 01:03:55,400
-O que é isso?
+O que Ã© isso?
 
 993
 01:03:55,500 --> 01:03:58,900
@@ -4761,7 +4765,7 @@ Vai, se manda daqui!
 
 994
 01:03:59,400 --> 01:04:01,400
-E você? Está doente!
+E vocÃª? EstÃ¡ doente!
 
 995
 01:04:01,400 --> 01:04:04,800
@@ -4770,25 +4774,25 @@ sou um filhote doente.
 
 996
 01:04:05,100 --> 01:04:06,700
-Vá embora!
+VÃ¡ embora!
 
 997
 01:04:12,900 --> 01:04:15,200
 Vamos fazer isso
-da maneira fácil, velhinho.
+da maneira fÃ¡cil, velhinho.
 
 998
 01:04:15,200 --> 01:04:17,100
-E que graça teria?
+E que graÃ§a teria?
 
 999
 01:04:50,000 --> 01:04:52,300
 MEU PAI ESTRAGOU TUDO
-O GAROTO FOFO ESTAVA LÁ
+O GAROTO FOFO ESTAVA LÃ
 
 1000
 01:04:52,300 --> 01:04:54,100
-PORQUE ELE NÃO ME DEIXA
+PORQUE ELE NÃƒO ME DEIXA
 SER EU MESMA
 
 1001
@@ -4797,18 +4801,18 @@ Debbie, precisa me ouvir.
 
 1002
 01:05:00,000 --> 01:05:02,800
-Marmaduke está perdido,
-foi embora ontem à noite.
+Marmaduke estÃ¡ perdido,
+foi embora ontem Ã  noite.
 
 1003
 01:05:02,800 --> 01:05:05,700
 Estamos falantes hoje!
-Vá comer sua ração.
+VÃ¡ comer sua raÃ§Ã£o.
 
 1004
 01:05:07,200 --> 01:05:12,000
-- Deb, você colocou isso na mesa?
-- Do que está falando?
+- Deb, vocÃª colocou isso na mesa?
+- Do que estÃ¡ falando?
 
 1005
 01:05:12,700 --> 01:05:16,500
@@ -4816,7 +4820,7 @@ Barb, li a mensagem e...
 
 1006
 01:05:17,000 --> 01:05:19,700
-é assim mesmo que se sente?
+Ã© assim mesmo que se sente?
 
 1007
 01:05:21,000 --> 01:05:22,700
@@ -4824,7 +4828,7 @@ Honestamente?
 
 1008
 01:05:24,900 --> 01:05:26,300
-É, sim.
+Ã‰, sim.
 
 1009
 01:05:29,700 --> 01:05:34,300
@@ -4833,22 +4837,22 @@ ao treino de futebol, foi?
 
 1010
 01:05:35,900 --> 01:05:40,800
-Não queria desapontá-lo,
-mas você não estava ouvindo.
+NÃ£o queria desapontÃ¡-lo,
+mas vocÃª nÃ£o estava ouvindo.
 
 1011
 01:05:47,400 --> 01:05:51,200
-- Cadê o Marmaduke?
+- CadÃª o Marmaduke?
 - No quintal, querida.
 
 1012
 01:05:52,000 --> 01:05:54,200
-Não está, não.
-Pensei que estava com você.
+NÃ£o estÃ¡, nÃ£o.
+Pensei que estava com vocÃª.
 
 1013
 01:05:54,300 --> 01:05:55,600
-Não.
+NÃ£o.
 
 1014
 01:05:57,500 --> 01:05:59,400
@@ -4857,16 +4861,16 @@ Não.
 
 1015
 01:05:59,400 --> 01:06:02,400
-O portão está aberto.
-Não o fechou ontem à noite?
+O portÃ£o estÃ¡ aberto.
+NÃ£o o fechou ontem Ã  noite?
 
 1016
 01:06:02,500 --> 01:06:03,900
-Não.
+NÃ£o.
 
 1017
 01:06:03,900 --> 01:06:07,700
-- É isso que eu estava falando.
+- Ã‰ isso que eu estava falando.
 - Ele vai voltar, certo?
 
 1018
@@ -4876,25 +4880,25 @@ Ele pode ser atropelado.
 1019
 01:06:09,800 --> 01:06:13,000
 Pode ter acontecido qualquer coisa,
-não sabemos quando ele saiu.
+nÃ£o sabemos quando ele saiu.
 
 1020
 01:06:13,000 --> 01:06:16,600
-Só queria que ele dormisse
-no quintal, não que ele fugisse.
+SÃ³ queria que ele dormisse
+no quintal, nÃ£o que ele fugisse.
 
 1021
 01:06:17,300 --> 01:06:19,400
-Tenho a apresentação.
+Tenho a apresentaÃ§Ã£o.
 
 1022
 01:06:20,500 --> 01:06:24,700
-Pessoal, se não arrebentar nessa,
+Pessoal, se nÃ£o arrebentar nessa,
 estarei acabado.
 
 1023
 01:06:25,400 --> 01:06:30,000
-Vá, nós o achamos. Vão para o carro
+VÃ¡, nÃ³s o achamos. VÃ£o para o carro
 que eu pego a coleira do Marmaduke.
 
 1024
@@ -4903,13 +4907,13 @@ Espere.
 
 1025
 01:06:36,700 --> 01:06:40,000
-- Todos nós iremos procurá-lo.
+- Todos nÃ³s iremos procurÃ¡-lo.
 - Agora sim, amigo.
 
 1026
 01:06:42,700 --> 01:06:45,900
 Onde estou?
-Só me dê um cheirinho de casa.
+SÃ³ me dÃª um cheirinho de casa.
 
 1027
 01:06:46,600 --> 01:06:50,300
@@ -4918,18 +4922,18 @@ Só me dê um cheirinho de casa.
 
 1028
 01:06:50,400 --> 01:06:54,400
-- Já olhamos no bairro, e agora?
-- A praia. Podemos olhar lá.
+- JÃ¡ olhamos no bairro, e agora?
+- A praia. Podemos olhar lÃ¡.
 
 1029
 01:06:54,400 --> 01:06:56,200
 A praia e talvez
-o parque de cães?
+o parque de cÃ£es?
 
 1030
 01:06:56,200 --> 01:06:58,600
 Estou mandando mensagem
-para todos que conheço.
+para todos que conheÃ§o.
 
 1031
 01:06:58,600 --> 01:07:00,100
@@ -4937,23 +4941,23 @@ E se ele estiver no canil?
 
 1032
 01:07:00,400 --> 01:07:05,400
-Dê-me algo que possa reconhecer.
+DÃª-me algo que possa reconhecer.
 Um local ou um cheirinho.
 
 1033
 01:07:08,700 --> 01:07:11,200
-Como assim, como ele é?
-Ele é um dogue alemão,
+Como assim, como ele Ã©?
+Ele Ã© um dogue alemÃ£o,
 
 1034
 01:07:11,200 --> 01:07:13,700
 enorme, duas vezes
-o tamanho do seu cão.
+o tamanho do seu cÃ£o.
 
 1035
 01:07:13,700 --> 01:07:16,100
 Vamos,
-me dê um cheiro.
+me dÃª um cheiro.
 
 1036
 01:07:16,900 --> 01:07:20,000
@@ -4962,32 +4966,32 @@ maneiro de Marmaduke.
 
 1037
 01:07:21,900 --> 01:07:24,300
-Qual é! Hoje não!
+Qual Ã©! Hoje nÃ£o!
 
 1038
 01:07:28,400 --> 01:07:31,000
 - Oi, Don.
-- Onde diabos está?
+- Onde diabos estÃ¡?
 
 1039
 01:07:31,000 --> 01:07:32,800
 Era para estar aqui
-há uma hora.
+hÃ¡ uma hora.
 
 1040
 01:07:32,800 --> 01:07:36,400
 Desculpe, Don. Ainda
-não achamos o Marmaduke
+nÃ£o achamos o Marmaduke
 
 1041
 01:07:36,400 --> 01:07:39,600
-e acho que não
+e acho que nÃ£o
 conseguirei ir hoje.
 
 1042
 01:07:39,600 --> 01:07:43,500
-Não se preocupe em vir hoje,
-porque está despedido, Winslow!
+NÃ£o se preocupe em vir hoje,
+porque estÃ¡ despedido, Winslow!
 
 1043
 01:07:57,700 --> 01:07:59,200
@@ -4999,32 +5003,32 @@ Mazie!
 
 1045
 01:08:02,100 --> 01:08:05,100
-- O que é isso?
+- O que Ã© isso?
 - Parece que um cano quebrou.
 
 1046
 01:08:08,200 --> 01:08:10,700
-- Lá está ele!
+- LÃ¡ estÃ¡ ele!
 - Onde?
 
 1047
 01:08:10,700 --> 01:08:13,700
 - Ali, olhem.
-- Crianças, nunca façam isso.
+- CrianÃ§as, nunca faÃ§am isso.
 
 1048
 01:08:17,200 --> 01:08:19,400
 Marmaduke!
-Onde ele está, Brian?
+Onde ele estÃ¡, Brian?
 
 1049
 01:08:19,400 --> 01:08:22,000
-- Estava lá em cima.
+- Estava lÃ¡ em cima.
 - Marmaduke!
 
 1050
 01:08:22,000 --> 01:08:24,500
-Vá para o carro com a sua mãe.
+VÃ¡ para o carro com a sua mÃ£e.
 Marmaduke!
 
 1051
@@ -5038,30 +5042,30 @@ Marmaduke!
 1053
 01:08:31,800 --> 01:08:35,900
 - Mazie!
-- Procurei você por toda...
+- Procurei vocÃª por toda...
 
 1054
 01:08:37,800 --> 01:08:40,000
-Mazie, não!
+Mazie, nÃ£o!
 Mazie!
 
 1055
 01:08:40,100 --> 01:08:42,100
-Marmaduke, não me deixe cair!
+Marmaduke, nÃ£o me deixe cair!
 
 1056
 01:08:42,100 --> 01:08:45,000
 Marmaduke! Venha, vamos.
-Vamos, amigão.
+Vamos, amigÃ£o.
 
 1057
 01:08:45,000 --> 01:08:48,500
-- Marmaduke, cadê você?
-- Alguém ajude. Mazie!
+- Marmaduke, cadÃª vocÃª?
+- AlguÃ©m ajude. Mazie!
 
 1058
 01:08:48,500 --> 01:08:51,900
-- Não! Marmaduke...
+- NÃ£o! Marmaduke...
 - Mazie!
 
 1059
@@ -5070,28 +5074,28 @@ Venha, vamos embora.
 
 1060
 01:08:53,800 --> 01:08:57,500
-- Para trás, certo?
-- Não! Venha aqui, garoto.
+- Para trÃ¡s, certo?
+- NÃ£o! Venha aqui, garoto.
 
 1061
 01:08:57,500 --> 01:09:00,600
-- Gerônimo!
-- Marmaduke, não!
+- GerÃ´nimo!
+- Marmaduke, nÃ£o!
 
 1062
 01:09:02,000 --> 01:09:04,200
-É o meu cachorro!
-Meu cachorro caiu lá.
+Ã‰ o meu cachorro!
+Meu cachorro caiu lÃ¡.
 
 1063
 01:09:06,100 --> 01:09:09,600
 Aquele era meu cachorro,
-podem me ajudar a tirá-lo de lá?
+podem me ajudar a tirÃ¡-lo de lÃ¡?
 
 1064
 01:09:09,700 --> 01:09:13,400
-- O cano percorre dois quarteirões.
-- Precisamos de um resgate, câmbio.
+- O cano percorre dois quarteirÃµes.
+- Precisamos de um resgate, cÃ¢mbio.
 
 1065
 01:09:20,600 --> 01:09:22,300
@@ -5103,27 +5107,27 @@ Mazie!
 
 1067
 01:09:24,500 --> 01:09:26,800
-Onde está, Marmaduke?
+Onde estÃ¡, Marmaduke?
 
 1068
 01:09:28,500 --> 01:09:32,400
-- Eu não consigo... Vou afogar!
+- Eu nÃ£o consigo... Vou afogar!
 - Estou indo! Aguenta, Mazie.
 
 1069
 01:09:32,400 --> 01:09:35,800
-- Alguém me ajude. Mazie!
+- AlguÃ©m me ajude. Mazie!
 - Marmaduke.
 
 1070
 01:09:37,700 --> 01:09:41,200
-- Socorro, não me deixe cair!
+- Socorro, nÃ£o me deixe cair!
 - Mazie!
 
 1071
 01:09:44,800 --> 01:09:48,300
-Vão, vão, vão.
-Rápido.
+VÃ£o, vÃ£o, vÃ£o.
+RÃ¡pido.
 
 1072
 01:09:48,300 --> 01:09:49,800
@@ -5146,22 +5150,22 @@ Alguma coisa?
 1076
 01:10:10,400 --> 01:10:13,300
 - O que devemos fazer?
-- Eu os achei, câmbio.
+- Eu os achei, cÃ¢mbio.
 
 1077
 01:10:14,900 --> 01:10:17,100
 - Venha.
-- Não posso.
+- NÃ£o posso.
 
 1078
 01:10:17,200 --> 01:10:21,000
-- Venha, garota, está tudo bem.
-- Me escute, você consegue.
+- Venha, garota, estÃ¡ tudo bem.
+- Me escute, vocÃª consegue.
 
 1079
 01:10:21,100 --> 01:10:24,900
-- Você consegue, aqui.
-- Só pule. Você consegue.
+- VocÃª consegue, aqui.
+- SÃ³ pule. VocÃª consegue.
 
 1080
 01:10:26,900 --> 01:10:29,000
@@ -5175,12 +5179,12 @@ Pode puxar.
 
 1082
 01:10:32,300 --> 01:10:34,200
-Não posso!
+NÃ£o posso!
 Sou muito grande!
 
 1083
 01:10:34,200 --> 01:10:36,000
-Vamos, você consegue.
+Vamos, vocÃª consegue.
 
 1084
 01:10:36,000 --> 01:10:38,700
@@ -5190,35 +5194,35 @@ Vamos, você consegue.
 1085
 01:10:38,700 --> 01:10:41,900
 - Vamos, garoto.
-- Só pode estar brincando!
+- SÃ³ pode estar brincando!
 
 1086
 01:10:43,300 --> 01:10:45,300
-Vamos, rápido!
+Vamos, rÃ¡pido!
 
 1087
 01:10:48,300 --> 01:10:50,000
-O que está acontecendo?
+O que estÃ¡ acontecendo?
 
 1088
 01:10:50,000 --> 01:10:52,800
-- Tire-o de lá!
-- Tire-o de lá.
+- Tire-o de lÃ¡!
+- Tire-o de lÃ¡.
 
 1089
 01:11:04,500 --> 01:11:07,600
 - Com calma.
-- Suba-o, isso aí.
+- Suba-o, isso aÃ­.
 
 1090
 01:11:09,500 --> 01:11:12,200
-Cadê o outro?
-Cadê o meu cachorro?
+CadÃª o outro?
+CadÃª o meu cachorro?
 
 1091
 01:11:13,200 --> 01:11:16,400
 Me desculpe,
-a água estava muito forte.
+a Ã¡gua estava muito forte.
 
 1092
 01:11:16,900 --> 01:11:18,200
@@ -5226,16 +5230,16 @@ Sinto muito.
 
 1093
 01:11:21,100 --> 01:11:23,200
-Não vamos desistir,
+NÃ£o vamos desistir,
 aonde isso vai?
 
 1094
 01:11:23,200 --> 01:11:25,500
-Para o aqueduto, lá embaixo.
+Para o aqueduto, lÃ¡ embaixo.
 
 1095
 01:11:26,500 --> 01:11:28,600
-Vá com ele. Vá.
+VÃ¡ com ele. VÃ¡.
 
 1096
 01:11:52,200 --> 01:11:53,500
@@ -5266,7 +5270,7 @@ Socorro, Phil!
 1102
 01:12:27,500 --> 01:12:29,700
 Marmaduke.
-Aguenta aí, amigão.
+Aguenta aÃ­, amigÃ£o.
 
 1103
 01:12:29,700 --> 01:12:32,500
@@ -5275,7 +5279,7 @@ Phil, aonde vai?
 
 1104
 01:12:35,000 --> 01:12:37,100
-Phil, cadê você?
+Phil, cadÃª vocÃª?
 
 1105
 01:12:37,300 --> 01:12:39,600
@@ -5283,7 +5287,7 @@ Phil, Phil!
 
 1106
 01:12:42,300 --> 01:12:44,400
-Graças a Deus está bem.
+GraÃ§as a Deus estÃ¡ bem.
 
 1107
 01:12:45,700 --> 01:12:49,000
@@ -5292,16 +5296,16 @@ venha.
 
 1108
 01:12:49,100 --> 01:12:51,900
-Não consigo, estou com medo.
+NÃ£o consigo, estou com medo.
 
 1109
 01:13:01,000 --> 01:13:03,900
-Viu porque odeio água?
+Viu porque odeio Ã¡gua?
 
 1110
 01:13:03,900 --> 01:13:06,400
-Começamos com um banho
-e agora olhe só para nós.
+ComeÃ§amos com um banho
+e agora olhe sÃ³ para nÃ³s.
 
 1111
 01:13:06,400 --> 01:13:08,000
@@ -5309,8 +5313,8 @@ Podemos fazer isso.
 
 1112
 01:13:09,500 --> 01:13:12,800
-- Não vou te soltar.
-- Não consigo!
+- NÃ£o vou te soltar.
+- NÃ£o consigo!
 
 1113
 01:13:13,500 --> 01:13:15,000
@@ -5322,7 +5326,7 @@ Solte e eu te pego.
 
 1115
 01:13:17,800 --> 01:13:19,400
-Eu te amo, amigão, vamos!
+Eu te amo, amigÃ£o, vamos!
 
 1116
 01:13:19,400 --> 01:13:22,700
@@ -5332,7 +5336,7 @@ Kansas para que dissesse isso.
 1117
 01:13:22,700 --> 01:13:24,900
 Vamos.
-Vamos, amigão.
+Vamos, amigÃ£o.
 
 1118
 01:13:25,600 --> 01:13:28,600
@@ -5341,11 +5345,11 @@ Venha, confie em mim.
 
 1119
 01:13:28,600 --> 01:13:31,200
-Eu confio. Lá vou eu!
+Eu confio. LÃ¡ vou eu!
 
 1120
 01:13:32,600 --> 01:13:36,200
-- Isso, amigão. Venha.
+- Isso, amigÃ£o. Venha.
 - Phil, me ajude, eu confiei!
 
 1121
@@ -5359,22 +5363,22 @@ Tudo bem, venha.
 
 1123
 01:13:46,800 --> 01:13:48,600
-Te peguei, amigão.
+Te peguei, amigÃ£o.
 
 1124
 01:13:49,200 --> 01:13:53,200
-- Venha aqui, amigão.
-- Você me pegou, Phil.
+- Venha aqui, amigÃ£o.
+- VocÃª me pegou, Phil.
 
 1125
 01:13:53,200 --> 01:13:55,300
-- Você me pegou!
-- Está a salvo, garoto.
+- VocÃª me pegou!
+- EstÃ¡ a salvo, garoto.
 
 1126
 01:13:55,300 --> 01:13:57,800
-Não são lágrimas, é só
-um pouco de água.
+NÃ£o sÃ£o lÃ¡grimas, Ã© sÃ³
+um pouco de Ã¡gua.
 
 1127
 01:13:58,300 --> 01:14:01,000
@@ -5383,12 +5387,12 @@ um pouco de água.
 
 1128
 01:14:04,400 --> 01:14:07,200
-Ainda odeio água.
+Ainda odeio Ã¡gua.
 
 1129
 01:14:35,700 --> 01:14:39,400
-Sei que não vai me entender,
-mas nunca estive tão feliz
+Sei que nÃ£o vai me entender,
+mas nunca estive tÃ£o feliz
 
 1130
 01:14:39,400 --> 01:14:42,300
@@ -5398,21 +5402,21 @@ em toda a minha vida.
 1131
 01:14:44,500 --> 01:14:47,400
 Cansei de fingir ser
-um cão líder.
+um cÃ£o lÃ­der.
 
 1132
 01:14:48,400 --> 01:14:51,500
-Um cão líder de verdade
-cuida de sua família.
+Um cÃ£o lÃ­der de verdade
+cuida de sua famÃ­lia.
 
 1133
 01:14:51,500 --> 01:14:53,500
-E você é minha família.
+E vocÃª Ã© minha famÃ­lia.
 
 1134
 01:14:54,000 --> 01:14:59,000
-Já chega, não aguento mais.
-Vou dar pra ele "a língua".
+JÃ¡ chega, nÃ£o aguento mais.
+Vou dar pra ele "a lÃ­ngua".
 
 1135
 01:14:59,600 --> 01:15:01,300
@@ -5424,12 +5428,12 @@ Eu sei, eu sei.
 
 1137
 01:15:04,900 --> 01:15:11,000
-Faço isso há 9 anos. E isso,
-meu amigo, é coisa da pesada.
+FaÃ§o isso hÃ¡ 9 anos. E isso,
+meu amigo, Ã© coisa da pesada.
 
 1138
 01:15:11,900 --> 01:15:13,500
-Tudo bem, amigão.
+Tudo bem, amigÃ£o.
 
 1139
 01:15:13,500 --> 01:15:15,500
@@ -5438,8 +5442,8 @@ Tudo bem, amigão.
 
 1140
 01:15:16,600 --> 01:15:20,400
-- Está bem?
-- Estou bem, só um pouco molhado.
+- EstÃ¡ bem?
+- Estou bem, sÃ³ um pouco molhado.
 
 1141
 01:15:20,400 --> 01:15:22,200
@@ -5453,21 +5457,21 @@ Marmaduke!
 1143
 01:15:23,500 --> 01:15:27,200
 Isso ai, aproveitem o Marmaduke.
-Deixa eu me esfregar em vocês.
+Deixa eu me esfregar em vocÃªs.
 
 1144
 01:15:27,200 --> 01:15:30,000
-- Você conseguiu.
+- VocÃª conseguiu.
 - Oi, querida.
 
 1145
 01:15:30,000 --> 01:15:34,700
-- Ei! Certo, está todo molhado.
-- Amo tanto vocês.
+- Ei! Certo, estÃ¡ todo molhado.
+- Amo tanto vocÃªs.
 
 1146
 01:15:34,700 --> 01:15:37,900
-Isso é tudo minha culpa.
+Isso Ã© tudo minha culpa.
 Nunca perguntei o que queriam,
 
 1147
@@ -5477,32 +5481,32 @@ fazer isso funcionar,
 
 1148
 01:15:40,400 --> 01:15:43,200
-que não fazia ideia de que
-estavam tão infelizes.
+que nÃ£o fazia ideia de que
+estavam tÃ£o infelizes.
 
 1149
 01:15:43,200 --> 01:15:45,300
 Acho que o que estou
-tentando dizer é...
+tentando dizer Ã©...
 
 1150
 01:15:45,300 --> 01:15:47,300
-Acho que deveríamos
+Acho que deverÃ­amos
 voltar para o Kansas.
 
 1151
 01:15:47,300 --> 01:15:49,600
-- O quê?
+- O quÃª?
 - Voltar para o Kansas?
 
 1152
 01:15:49,600 --> 01:15:53,500
 Kansas?
-Não vou a lugar nenhum, papi.
+NÃ£o vou a lugar nenhum, papi.
 
 1153
 01:15:53,500 --> 01:15:58,400
-- Isso é loucura, pai.
+- Isso Ã© loucura, pai.
 - Ei, Brian, gravamos tudo,
 
 1154
@@ -5512,22 +5516,22 @@ Não vou a lugar nenhum, papi.
 
 1155
 01:16:02,000 --> 01:16:04,000
-- E aí, Brian.
-- O que estão fazendo?
+- E aÃ­, Brian.
+- O que estÃ£o fazendo?
 
 1156
 01:16:04,000 --> 01:16:07,500
-- Brian, quem são seus amigos?
+- Brian, quem sÃ£o seus amigos?
 - Uns garotos do parque de skate.
 
 1157
 01:16:07,500 --> 01:16:09,600
-- Eles são legais.
-- Olá, garotos.
+- Eles sÃ£o legais.
+- OlÃ¡, garotos.
 
 1158
 01:16:09,600 --> 01:16:11,100
-E aí?
+E aÃ­?
 
 1159
 01:16:13,500 --> 01:16:16,500
@@ -5536,31 +5540,31 @@ E aí?
 
 1160
 01:16:16,500 --> 01:16:22,400
-- Bodie, você veio.
-- É, assim que vi sua mensagem.
+- Bodie, vocÃª veio.
+- Ã‰, assim que vi sua mensagem.
 
 1161
 01:16:22,400 --> 01:16:24,100
-Estão todos bem?
+EstÃ£o todos bem?
 
 1162
 01:16:24,100 --> 01:16:27,500
-Estão, tudo está
+EstÃ£o, tudo estÃ¡
 bem melhor agora.
 
 1163
 01:16:28,500 --> 01:16:31,500
-Fez uns lances irados lá,
+Fez uns lances irados lÃ¡,
 Sr. Winslow.
 
 1164
 01:16:31,500 --> 01:16:35,400
 - Obrigado, Bodie.
-- Não se preocupe, Phil.
+- NÃ£o se preocupe, Phil.
 
 1165
 01:16:35,400 --> 01:16:37,400
-É Sr. Winslow.
+Ã‰ Sr. Winslow.
 
 1166
 01:16:37,900 --> 01:16:39,400
@@ -5578,11 +5582,11 @@ A casa serve para todos.
 1169
 01:16:50,800 --> 01:16:53,800
 Aquele carro da firma
-não serve para todos nós.
+nÃ£o serve para todos nÃ³s.
 
 1170
 01:16:56,300 --> 01:16:57,900
-Só senti sua falta.
+SÃ³ senti sua falta.
 
 1171
 01:17:01,100 --> 01:17:03,000
@@ -5590,23 +5594,23 @@ Parece que estamos em casa.
 
 1172
 01:17:05,900 --> 01:17:08,700
-Parece que a família
+Parece que a famÃ­lia
 finalmente caiu em si.
 
 1173
 01:17:08,700 --> 01:17:11,600
-Só tem mais uma coisa
+SÃ³ tem mais uma coisa
 que tenho que resolver.
 
 1174
 01:17:12,600 --> 01:17:15,100
-- Olha só.
-- Lá vamos nós.
+- Olha sÃ³.
+- LÃ¡ vamos nÃ³s.
 
 1175
 01:17:15,900 --> 01:17:18,200
-O que ele está fazendo?
-Ele está louco?
+O que ele estÃ¡ fazendo?
+Ele estÃ¡ louco?
 
 1176
 01:17:18,200 --> 01:17:20,900
@@ -5614,23 +5618,23 @@ Briga! Briga! Briga!
 
 1177
 01:17:23,600 --> 01:17:26,900
-- Não fique aí parado, faça algo.
-- É, proteja o terreno.
+- NÃ£o fique aÃ­ parado, faÃ§a algo.
+- Ã‰, proteja o terreno.
 
 1178
 01:17:26,900 --> 01:17:31,400
-E aí, Marma-duki?
-Veio procurar vingança?
+E aÃ­, Marma-duki?
+Veio procurar vinganÃ§a?
 
 1179
 01:17:31,400 --> 01:17:35,200
-Na verdade não, Bosco,
+Na verdade nÃ£o, Bosco,
 vim te agradecer.
 
 1180
 01:17:35,200 --> 01:17:38,100
 Agradecer?
-Pelo quê?
+Pelo quÃª?
 
 1181
 01:17:38,500 --> 01:17:41,100
@@ -5639,52 +5643,52 @@ eu estava errado.
 
 1182
 01:17:42,300 --> 01:17:46,600
-Não importa o que pensam de mim.
-Não importa se é grande ou pequeno,
+NÃ£o importa o que pensam de mim.
+NÃ£o importa se Ã© grande ou pequeno,
 
 1183
 01:17:46,600 --> 01:17:50,500
 de pedigree ou vira-lata.
-Somos todos apenas cães!
+Somos todos apenas cÃ£es!
 
 1184
 01:17:50,500 --> 01:17:53,200
-E é assim que o parque
+E Ã© assim que o parque
 deveria ser.
 
 1185
 01:17:53,200 --> 01:17:57,500
-Então, vou sentar e reivindicar
-esse lugar para todos os cães
+EntÃ£o, vou sentar e reivindicar
+esse lugar para todos os cÃ£es
 
 1186
 01:17:57,500 --> 01:18:01,500
-que não acham que têm o necessário
+que nÃ£o acham que tÃªm o necessÃ¡rio
 para estarem aqui em cima.
 
 1187
 01:18:03,100 --> 01:18:05,500
-E aí?
+E aÃ­?
 
 1188
 01:18:05,900 --> 01:18:08,900
-Só pode estar brincando!
-Está brincando, certo?
+SÃ³ pode estar brincando!
+EstÃ¡ brincando, certo?
 
 1189
 01:18:09,900 --> 01:18:12,900
-Todos aqui têm insanidade
+Todos aqui tÃªm insanidade
 causada pela raiva?
 
 1190
 01:18:12,900 --> 01:18:17,500
-Isso é terreno sagrado,
-só para os "pedigrees".
+Isso Ã© terreno sagrado,
+sÃ³ para os "pedigrees".
 
 1191
 01:18:17,500 --> 01:18:22,200
-- Não mais.
-- Quer saber, estão inSanos, todos!
+- NÃ£o mais.
+- Quer saber, estÃ£o inSanos, todos!
 
 1192
 01:18:22,200 --> 01:18:23,900
@@ -5692,7 +5696,7 @@ Vamos, Jezebel.
 
 1193
 01:18:23,900 --> 01:18:27,200
-Também acho que todos
+TambÃ©m acho que todos
 deviam se sentar aqui.
 
 1194
@@ -5702,26 +5706,26 @@ na minha cara, Bosco.
 
 1195
 01:18:29,900 --> 01:18:32,200
-Vá procurar outro em quem babar,
-nós cansamos!
+VÃ¡ procurar outro em quem babar,
+nÃ³s cansamos!
 
 1196
 01:18:32,200 --> 01:18:35,300
 - Venham sentar, amigos.
-- É muito bom aqui!
+- Ã‰ muito bom aqui!
 
 1197
 01:18:36,100 --> 01:18:38,100
-Posso ver até o infinito!
+Posso ver atÃ© o infinito!
 
 1198
 01:18:38,100 --> 01:18:41,600
-Ótimo, como quiserem,
+Ã“timo, como quiserem,
 perdedores. Mas lembrem-se disso:
 
 1199
 01:18:41,600 --> 01:18:43,500
-Vingança se come...
+VinganÃ§a se come...
 
 1200
 01:18:43,500 --> 01:18:45,600
@@ -5729,21 +5733,21 @@ Abelha!
 
 1201
 01:18:47,800 --> 01:18:51,500
-- Vitória! A vitória é nossa.
-- Isso aí, garoto.
+- VitÃ³ria! A vitÃ³ria Ã© nossa.
+- Isso aÃ­, garoto.
 
 1202
 01:18:51,500 --> 01:18:54,800
-Parece que não sou o único
+Parece que nÃ£o sou o Ãºnico
 que tem medo de abelhas.
 
 1203
 01:18:54,800 --> 01:18:57,100
-Abelhas são assustadoras.
+Abelhas sÃ£o assustadoras.
 
 1204
 01:18:57,100 --> 01:19:02,000
-Ouça, não sei como dizer isso
+OuÃ§a, nÃ£o sei como dizer isso
 sem te magoar.
 
 1205
@@ -5752,12 +5756,12 @@ Ficarei bem.
 
 1206
 01:19:03,400 --> 01:19:07,500
-Está na hora de andar
-com minhas próprias 4 pernas.
+EstÃ¡ na hora de andar
+com minhas prÃ³prias 4 pernas.
 
 1207
 01:19:07,500 --> 01:19:09,600
-Além disso...
+AlÃ©m disso...
 Ainda seremos amigos.
 
 1208
@@ -5767,12 +5771,12 @@ garotas falam isso.
 
 1209
 01:19:22,800 --> 01:19:27,200
-Olha só!
+Olha sÃ³!
 Bonitona de rosa!
 
 1210
 01:19:27,800 --> 01:19:29,400
-O que está esperando? Vá!
+O que estÃ¡ esperando? VÃ¡!
 
 1211
 01:19:29,400 --> 01:19:31,200
@@ -5780,7 +5784,7 @@ Mazie, espere!
 
 1212
 01:19:36,200 --> 01:19:38,900
-Você está ótima.
+VocÃª estÃ¡ Ã³tima.
 
 1213
 01:19:38,900 --> 01:19:41,900
@@ -5794,11 +5798,11 @@ maneira como tenho agindo,
 1215
 01:19:46,200 --> 01:19:49,200
 fui um idiota total
-e você não merecia.
+e vocÃª nÃ£o merecia.
 
 1216
 01:19:49,200 --> 01:19:53,000
-Mas acho que meu cérebro virou
+Mas acho que meu cÃ©rebro virou
 um Afghan Hound por um tempo.
 
 1217
@@ -5808,18 +5812,18 @@ um Afghan Hound por um tempo.
 
 1218
 01:19:56,900 --> 01:19:59,300
-Só um grande cão
+SÃ³ um grande cÃ£o
 admitiria isso.
 
 1219
 01:20:00,200 --> 01:20:02,200
-- É, eu...
-- O quê?
+- Ã‰, eu...
+- O quÃª?
 
 1220
 01:20:03,100 --> 01:20:05,600
 Seus olhos...
-Você tem belos olhos,
+VocÃª tem belos olhos,
 
 1221
 01:20:05,600 --> 01:20:08,000
@@ -5832,7 +5836,7 @@ Obrigada.
 
 1223
 01:20:11,500 --> 01:20:13,600
-E seu pelo é bonito também.
+E seu pelo Ã© bonito tambÃ©m.
 
 1224
 01:20:14,000 --> 01:20:15,500
@@ -5840,7 +5844,7 @@ Winslow!
 
 1225
 01:20:15,500 --> 01:20:18,700
-O que será que aconteceu
+O que serÃ¡ que aconteceu
 com aquele acordo da Pet Co.?
 
 1226
@@ -5850,13 +5854,13 @@ Winslow!
 
 1227
 01:20:23,500 --> 01:20:25,500
-Aí está você,
+AÃ­ estÃ¡ vocÃª,
 estava te procurando.
 
 1228
 01:20:25,500 --> 01:20:28,300
 - Pensei que eu estava demitido.
-- Não seja tão sensível.
+- NÃ£o seja tÃ£o sensÃ­vel.
 
 1229
 01:20:28,300 --> 01:20:31,000
@@ -5865,28 +5869,28 @@ o cachorro antes da carreira
 
 1230
 01:20:31,000 --> 01:20:33,000
-é dos que quero
+Ã© dos que quero
 trabalhando comigo.
 
 1231
 01:20:33,000 --> 01:20:36,900
-Além disso, já viu seu vídeo
+AlÃ©m disso, jÃ¡ viu seu vÃ­deo
 salvando o Marmaduke?
 
 1232
 01:20:36,900 --> 01:20:40,200
-- Não.
-- 682 mil visitas até agora.
+- NÃ£o.
+- 682 mil visitas atÃ© agora.
 
 1233
 01:20:40,200 --> 01:20:42,400
 - Temos a conta da Pet Co.!
-- Sério?
+- SÃ©rio?
 
 1234
 01:20:42,400 --> 01:20:46,900
 Com certeza!
-Venderemos muita ração.
+Venderemos muita raÃ§Ã£o.
 
 1235
 01:20:46,900 --> 01:20:49,000
@@ -5895,17 +5899,17 @@ Temos trabalho a fazer.
 
 1236
 01:20:49,100 --> 01:20:51,000
-- Não posso.
-- Por quê?
+- NÃ£o posso.
+- Por quÃª?
 
 1237
 01:20:51,100 --> 01:20:54,200
-- Fiz planos com minha família.
+- Fiz planos com minha famÃ­lia.
 - Quem?
 
 1238
 01:20:55,300 --> 01:20:58,900
-- Certo, amanhã.
+- Certo, amanhÃ£.
 - Segunda-feira.
 
 1239
@@ -5915,25 +5919,25 @@ Temos trabalho a fazer.
 
 1240
 01:21:05,200 --> 01:21:07,300
-Não abuse, certo?
+NÃ£o abuse, certo?
 
 1241
 01:21:08,600 --> 01:21:13,400
-Só estou falando besteira mas,
-e se os cães pudessem conversar?
+SÃ³ estou falando besteira mas,
+e se os cÃ£es pudessem conversar?
 
 1242
 01:21:14,600 --> 01:21:16,700
-Não me convence.
+NÃ£o me convence.
 
 1243
 01:21:17,700 --> 01:21:19,500
-E se pudessem dançar?
+E se pudessem danÃ§ar?
 
 1244
 01:21:52,000 --> 01:21:56,000
-E aí, rapazes.
-Isso que gosto em vocês!
+E aÃ­, rapazes.
+Isso que gosto em vocÃªs!
 
 1245
 01:22:09,200 --> 01:22:10,600
@@ -5941,20 +5945,20 @@ Ei...
 
 1246
 01:22:12,400 --> 01:22:15,100
-É isso que gosto em vocês!
+Ã‰ isso que gosto em vocÃªs!
 
 1247
 01:22:20,500 --> 01:22:21,900
-Latidos Orgânicos.
+Latidos OrgÃ¢nicos.
 
 1248
 01:22:21,900 --> 01:22:24,800
-Dê o melhor para seu
-bicho de estimação. Naturalmente.
+DÃª o melhor para seu
+bicho de estimaÃ§Ã£o. Naturalmente.
 
 1249
 01:22:24,800 --> 01:22:27,100
-- Ainda está meio cru. O que acha?
+- Ainda estÃ¡ meio cru. O que acha?
 - Adorei.
 
 1250
@@ -5972,8 +5976,8 @@ Marmaduke!
 
 1253
 01:22:44,300 --> 01:22:46,900
-Cara, você tem
-um problema sério.
+Cara, vocÃª tem
+um problema sÃ©rio.
 
 1254
 01:22:47,000 --> 01:22:50,000
@@ -5981,14 +5985,14 @@ Nunca me canso dessa!
 
 1255
 01:22:50,000 --> 01:22:53,000
-Tradução e Sinc:
+TraduÃ§Ã£o e Sinc:
 darkway 
  Hirschen 
  NaNNa
 
 1256
 01:22:53,100 --> 01:22:55,500
-Revisão: NaNNa
+RevisÃ£o: NaNNa
 
 1257
 01:22:55,500 --> 01:22:57,800
