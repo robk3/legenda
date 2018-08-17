@@ -1,3 +1,7 @@
+0
+00:00:00,624 --> 00:01:30,000
+Obrigado Por assitir Conosco http://smartflix.tv
+
 1
 00:01:02,578 --> 00:01:04,235
 <i>Atenção todas as unidades...
