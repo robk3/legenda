@@ -1,20 +1,20 @@
 1
 00:01:02,578 --> 00:01:04,235
-<i>AtenÁ„o todas as unidades...
-AtenÁ„o todas as unidades...</i>
+<i>Aten√ß√£o todas as unidades...
+Aten√ß√£o todas as unidades...</i>
 
 2
 00:01:04,360 --> 00:01:07,282
-<i>Prov·vel perturbaÁ„o domÈstica
-com situaÁ„o de refÈm!</i>
+<i>Prov√°vel perturba√ß√£o dom√©stica
+com situa√ß√£o de ref√©m!</i>
 
 3
 00:01:08,038 --> 00:01:10,616
-<i>10-24 oficial caÌdo!</i>
+<i>10-24 oficial ca√≠do!</i>
 
 4
 00:01:11,400 --> 00:01:13,752
-<i>Autor È homem caucasiano,
+<i>Autor √© homem caucasiano,
 sem antecedentes!</i>
 
 5
@@ -24,26 +24,26 @@ Procedam com cautela!</i>
 
 6
 00:01:16,258 --> 00:01:19,024
-<i>Suspeito È Ray Hutchinson,
+<i>Suspeito √© Ray Hutchinson,
 38 anos, 1,86mt</i>
 
 7
 00:01:19,211 --> 00:01:22,572
-<i>Homem branco, constituiÁ„o mÈdia.
+<i>Homem branco, constitui√ß√£o m√©dia.
 Ex-mulher e 2 filhos!</i>
 
 8
 00:01:22,784 --> 00:01:25,846
-<i>Temos 3 refÈns:
+<i>Temos 3 ref√©ns:
 ex-esposa e 2 filhos!</i>
 
 9
 00:01:25,994 --> 00:01:27,799
-<i>A situaÁ„o È extremamente inst·vel!</i>
+<i>A situa√ß√£o √© extremamente inst√°vel!</i>
 
 10
 00:01:27,916 --> 00:01:30,409
-<i>O suspeito È procurado por conex„o
+<i>O suspeito √© procurado por conex√£o
 ao assassinato de um policial!</i>
 
 11
@@ -53,8 +53,8 @@ armado e perigoso!</i>
 
 12
 00:01:32,643 --> 00:01:35,190
-Eu n„o vou sair! Est· me ouvindo?
-Eu n„o vou sair!
+Eu n√£o vou sair! Est√° me ouvindo?
+Eu n√£o vou sair!
 
 13
 00:01:35,409 --> 00:01:36,784
@@ -62,17 +62,17 @@ Quero que todos saiam!
 
 14
 00:01:36,909 --> 00:01:39,307
-vocÍ, seus homens,
+voc√™, seus homens,
 os snipers, todo mundo!
 
 15
 00:01:39,643 --> 00:01:41,831
-Se eu n„o vir a luz traseira 
-nos prÛximos 5 minutos,
+Se eu n√£o vir a luz traseira 
+nos pr√≥ximos 5 minutos,
 
 16
 00:01:41,956 --> 00:01:44,260
-vocÍs n„o v„o gostar do 
+voc√™s n√£o v√£o gostar do 
 que vai acontecer depois!
 
 17
@@ -86,11 +86,11 @@ ao telefone?
 
 19
 00:01:50,346 --> 00:01:51,745
-Ele n„o quer mais falar!
+Ele n√£o quer mais falar!
 
 20
 00:01:53,505 --> 00:01:54,557
-FaÁa!
+Fa√ßa!
 
 21
 00:01:54,806 --> 00:01:55,853
@@ -98,7 +98,7 @@ Sim, senhor!
 
 22
 00:02:27,283 --> 00:02:28,877
-<i>Unidade ouro, aqui È HR1!</i>
+<i>Unidade ouro, aqui √© HR1!</i>
 
 23
 00:02:29,119 --> 00:02:30,494
@@ -110,11 +110,11 @@ Senhora, venha comigo!
 
 25
 00:02:46,056 --> 00:02:47,337
-FBI, mostre as m„os!
+FBI, mostre as m√£os!
 
 26
 00:02:48,306 --> 00:02:49,204
-M„os!
+M√£os!
 
 27
 00:02:50,579 --> 00:02:51,657
@@ -130,11 +130,11 @@ Tenho ele na mira, chefe!
 
 30
 00:03:00,595 --> 00:03:02,001
-Ben, n„o!
+Ben, n√£o!
 
 31
 00:03:02,321 --> 00:03:03,478
-Ele est· desarmado!
+Ele est√° desarmado!
 
 32
 00:03:09,431 --> 00:03:11,212
@@ -142,20 +142,20 @@ Ray, Ray, olhe pra mim!
 
 33
 00:03:12,313 --> 00:03:13,329
-Est· tudo acabado!
+Est√° tudo acabado!
 
 34
 00:03:15,204 --> 00:03:17,915
-Eu...eu n„o queria que
+Eu...eu n√£o queria que
 acabasse assim!
 
 35
 00:03:18,321 --> 00:03:19,579
-N„o deveria acabar assim!
+N√£o deveria acabar assim!
 
 36
 00:03:21,228 --> 00:03:22,853
-Ponha seu filho no ch„o
+Ponha seu filho no ch√£o
 e se afaste!
 
 37
@@ -164,19 +164,19 @@ Lamento!
 
 38
 00:03:27,563 --> 00:03:28,485
-Est· tudo bem!
+Est√° tudo bem!
 
 39
 00:03:35,001 --> 00:03:35,985
-”timo!
+√ìtimo!
 
 40
 00:03:38,768 --> 00:03:39,862
-N„o!
+N√£o!
 
 41
 00:03:45,533 --> 00:03:47,939
-Comando, aqui È Marinha
+Comando, aqui √© Marinha
 Alpha 2-1-nono
 
 42
@@ -189,12 +189,12 @@ Dois, um, levanta, e...
 
 44
 00:04:06,748 --> 00:04:08,271
-Ele est· pronto
-pra vocÍ, Tenente!
+Ele est√° pronto
+pra voc√™, Tenente!
 
 45
 00:04:15,671 --> 00:04:17,265
-VocÍ vai ficar bem!
+Voc√™ vai ficar bem!
 
 45
 00:04:25,000 --> 00:04:30,000
@@ -202,8 +202,8 @@ Legendas pt/BR by Cross65
 
 46
 00:04:34,183 --> 00:04:37,355
-Da grande pir‚mide de GizÈ
-‡ Torre de Babel,
+Da grande pir√¢mide de Giz√©
+√† Torre de Babel,
 
 47
 00:04:37,566 --> 00:04:39,597
@@ -217,7 +217,7 @@ por um desejo singular:
 
 49
 00:04:43,857 --> 00:04:45,654
-Tocar o cÈu!
+Tocar o c√©u!
 
 50
 00:04:49,521 --> 00:04:51,318
@@ -231,54 +231,54 @@ tecnologia, Zhao Long Ji!
 
 52
 00:04:56,753 --> 00:04:59,441
-Empreendedor vision·rio
+Empreendedor vision√°rio
 Zhao Long Ji
 
 53
 00:04:59,605 --> 00:05:02,464
-ele n„o poupou despesas
-criando esta cidade no cÈu!
+ele n√£o poupou despesas
+criando esta cidade no c√©u!
 
 54
 00:05:02,637 --> 00:05:05,543
 Indo ao ponto de construir um
-parque fÌsico de 30 andares
+parque f√≠sico de 30 andares
 
 55
 00:05:05,754 --> 00:05:07,152
-no centro do edifÌcio!
+no centro do edif√≠cio!
 
 56
 00:05:07,377 --> 00:05:09,135
-{\an8}A PÈrola fala
-do que podemos alcanÁar
+{\an8}A P√©rola fala
+do que podemos alcan√ßar
 
 57
 00:05:09,174 --> 00:05:10,417
-{\an8}quando n„o aceitamos
-limitaÁıes!
+{\an8}quando n√£o aceitamos
+limita√ß√µes!
 
 58
 00:05:10,908 --> 00:05:12,585
-Este n„o È sÛ outro edifÌcio!
+Este n√£o √© s√≥ outro edif√≠cio!
 
 59
 00:05:12,795 --> 00:05:14,155
-O mais alto edifÌcio na Terra!
+O mais alto edif√≠cio na Terra!
 
 60
 00:05:14,304 --> 00:05:17,554
-Este grande edifÌcio de alta tecnologia
+Este grande edif√≠cio de alta tecnologia
 gera toda a energia que precisa
 
 61
 00:05:17,616 --> 00:05:19,765
-‡ partir de uma turbina de vento
-com uma enorme hÈlice dupla
+√† partir de uma turbina de vento
+com uma enorme h√©lice dupla
 
 62
 00:05:19,818 --> 00:05:20,952
-prÛxima ao topo!
+pr√≥xima ao topo!
 
 63
 00:05:21,022 --> 00:05:23,617
@@ -287,7 +287,7 @@ e o triplo da altura
 
 64
 00:05:23,687 --> 00:05:24,882
-do vener·vel Empire State Building!
+do vener√°vel Empire State Building!
 
 65
 00:05:24,940 --> 00:05:26,323
@@ -295,13 +295,13 @@ do vener·vel Empire State Building!
 
 66
 00:05:26,991 --> 00:05:30,085
-A metade inferior do A PÈrola
-encantou o p˙blico por 6 meses!
+A metade inferior do A P√©rola
+encantou o p√∫blico por 6 meses!
 
 67
 00:05:30,179 --> 00:05:32,382
 Sua metade superior ainda
-n„o abriu suas portas.
+n√£o abriu suas portas.
 
 68
 00:05:33,968 --> 00:05:35,835
@@ -310,7 +310,7 @@ da nossa sociedade!
 
 69
 00:05:36,062 --> 00:05:38,124
-- EdifÌos melhores...
+- Edif√≠os melhores...
 - Cidades melhores!
 
 70
@@ -319,7 +319,7 @@ Um mundo melhor!
 
 71
 00:05:39,624 --> 00:05:42,202
-Mas a esfera de mistÈrio
+Mas a esfera de mist√©rio
 atrai o mundo!
 
 72
@@ -329,7 +329,7 @@ liberado hoje,
 
 73
 00:05:44,010 --> 00:05:45,324
-o reservado bilion·rio confirmou
+o reservado bilion√°rio confirmou
 
 74
 00:05:45,402 --> 00:05:47,379
@@ -344,7 +344,7 @@ deste tamanho,
 76
 00:05:49,492 --> 00:05:51,977
 os planos para abrir a
-metade superior do edifÌcio
+metade superior do edif√≠cio
 
 77
 00:05:52,002 --> 00:05:53,088
@@ -352,12 +352,12 @@ permanecem em curso!
 
 78
 00:05:53,177 --> 00:05:54,723
-Ele prometeu que esta esfera ser·
+Ele prometeu que esta esfera ser√°
 
 79
 00:05:54,786 --> 00:05:56,810
-a atraÁ„o turistica
-n˙mero um no mundo,
+a atra√ß√£o turistica
+n√∫mero um no mundo,
 
 80
 00:05:56,885 --> 00:05:58,174
@@ -369,11 +369,11 @@ A TV sai, o sapato entra...
 
 82
 00:06:00,271 --> 00:06:01,489
-… a hora do panda!
+√â a hora do panda!
 
 83
 00:06:01,600 --> 00:06:04,193
-Onde est· o seu pai? Preciso dele
+Onde est√° o seu pai? Preciso dele
 pra consertar meu telefone antes de irmos!
 
 84
@@ -383,15 +383,15 @@ pra consertar meu telefone antes de irmos!
 
 85
 00:06:05,748 --> 00:06:06,959
-Ele est· falando sozinho de novo!
+Ele est√° falando sozinho de novo!
 
 86
 00:06:35,880 --> 00:06:37,974
-Ah, dane-se, sÛ dessa vez!
+Ah, dane-se, s√≥ dessa vez!
 
 87
 00:06:42,419 --> 00:06:43,427
-VocÍ est· bem?
+Voc√™ est√° bem?
 
 88
 00:06:44,771 --> 00:06:45,584
@@ -399,14 +399,14 @@ Sim!
 
 89
 00:06:45,865 --> 00:06:47,084
-SÛ uma coisa na perna, sabe!
+S√≥ uma coisa na perna, sabe!
 
 90
 00:06:47,192 --> 00:06:47,965
 
 91
 00:06:48,997 --> 00:06:51,005
-Bem, vocÍ est· muito bonito!
+Bem, voc√™ est√° muito bonito!
 
 92
 00:06:51,771 --> 00:06:53,021
@@ -414,37 +414,37 @@ Mesmo?
 
 93
 00:06:53,231 --> 00:06:54,841
-- N„o parece exagerado?
+- N√£o parece exagerado?
 
 94
 00:06:55,239 --> 00:06:56,965
-N„o, parece respeitoso!
+N√£o, parece respeitoso!
 
 95
 00:06:57,396 --> 00:06:58,466
-Talvez eu deva afrouxar o nÛ?
+Talvez eu deva afrouxar o n√≥?
 
 96
 00:06:58,638 --> 00:07:00,911
-N„o, mas deveria aprender
-a fazer o nÛ! Vem aqui!
+N√£o, mas deveria aprender
+a fazer o n√≥! Vem aqui!
 
 97
 00:07:06,114 --> 00:07:08,177
-Posso ouvir seu coraÁ„o batendo!
-O que est· havendo?
+Posso ouvir seu cora√ß√£o batendo!
+O que est√° havendo?
 
 98
 00:07:11,513 --> 00:07:13,075
-SÛ n„o quero ferrar com tudo, t·?
+S√≥ n√£o quero ferrar com tudo, t√°?
 
 99
 00:07:13,521 --> 00:07:14,747
-VocÍ n„o vai ferrar com tudo!
+Voc√™ n√£o vai ferrar com tudo!
 
 100
 00:07:15,411 --> 00:07:17,106
-N„o sei, e se eu esqueci
+N√£o sei, e se eu esqueci
 alguma coisa?
 
 101
@@ -454,20 +454,20 @@ esquecido algo!
 
 102
 00:07:20,419 --> 00:07:22,497
-VocÍ tÍm se preparado pra
-essa reuni„o por 6 meses!
+Voc√™ t√™m se preparado pra
+essa reuni√£o por 6 meses!
 
 103
 00:07:22,579 --> 00:07:24,470
-Nunca vi vocÍ se dedicar tanto!
+Nunca vi voc√™ se dedicar tanto!
 
 104
 00:07:24,665 --> 00:07:25,813
-VocÍ est· pronto pra isso!
+Voc√™ est√° pronto pra isso!
 
 105
 00:07:25,892 --> 00:07:27,352
-vocÍ conhece esse lugar melhor
+voc√™ conhece esse lugar melhor
 do que o arquiteto!
 
 106
@@ -477,12 +477,12 @@ Vai se sair bem!
 107
 00:07:29,181 --> 00:07:30,462
 Eles te trouxeram aqui
-por alguma raz„o!
+por alguma raz√£o!
 
 108
 00:07:30,548 --> 00:07:32,087
 Querem ouvir o que 
-vocÍ tÍm pra dizer!
+voc√™ t√™m pra dizer!
 
 109
 00:07:32,149 --> 00:07:33,165
@@ -490,7 +490,7 @@ Assim espero!
 
 110
 00:07:33,509 --> 00:07:35,532
-O Ben se arrisocu por mim e ent„o...
+O Ben se arrisocu por mim e ent√£o...
 
 111
 00:07:35,845 --> 00:07:37,517
@@ -498,7 +498,7 @@ Isso pode mudar nossas vidas!
 
 112
 00:07:37,634 --> 00:07:39,306
-Eles d„o coisas assim
+Eles d√£o coisas assim
 para grandes empresas!
 
 113
@@ -507,16 +507,16 @@ Dei duro pela nossa oficina!
 
 114
 00:07:40,735 --> 00:07:42,016
-…, È uma boa oficina!
+√â, √© uma boa oficina!
 
 115
 00:07:43,881 --> 00:07:45,560
-Ok, veja, sÛ porque vocÍ È
+Ok, veja, s√≥ porque voc√™ √©
 uma empresa pequena
 
 116
 00:07:45,638 --> 00:07:47,732
-n„o quer dizer que
+n√£o quer dizer que
 seja incompetente,
 
 117
@@ -525,12 +525,12 @@ quer saber,
 
 118
 00:07:49,279 --> 00:07:51,396
-o Ben se arriscou por vocÍ
-porque ele È seu amigo!
+o Ben se arriscou por voc√™
+porque ele √© seu amigo!
 
 119
 00:07:51,474 --> 00:07:53,006
-E È isso que amigos fazem!
+E √© isso que amigos fazem!
 
 120
 00:07:54,741 --> 00:07:57,186
@@ -539,7 +539,7 @@ Olhe pra mim!
 
 121
 00:07:59,389 --> 00:08:00,608
-VocÍ consegue!
+Voc√™ consegue!
 
 122
 00:08:03,224 --> 00:08:04,287
@@ -547,30 +547,30 @@ Eu te amo!
 
 123
 00:08:04,904 --> 00:08:06,006
-VocÍ È o melhor!
+Voc√™ √© o melhor!
 
 124
 00:08:07,030 --> 00:08:09,006
 - Vem aqui!
-- Me celular n„o funciona!
+- Me celular n√£o funciona!
 
 125
 00:08:12,620 --> 00:08:14,112
-Oh, ent„o, isso tudo de...
+Oh, ent√£o, isso tudo de...
 
 126
 00:08:14,175 --> 00:08:16,643
-"Ei, olhe pra mim, vocÍ consegue,
-vocÍ est· bonito"
+"Ei, olhe pra mim, voc√™ consegue,
+voc√™ est√° bonito"
 
 127
 00:08:16,776 --> 00:08:18,710
-foi sÛ bajulaÁ„o pra 
+foi s√≥ bajula√ß√£o pra 
 arrumar seu telefone de novo?
 
 128
 00:08:18,788 --> 00:08:20,281
-… uma nÌtida possibilidade!
+√â uma n√≠tida possibilidade!
 
 129
 00:08:22,205 --> 00:08:23,310
@@ -592,8 +592,8 @@ Tente desligar e ligar de novo!
 
 133
 00:08:27,638 --> 00:08:30,678
-90% das vezes vocÍ pode
-resolver o problema sÛ
+90% das vezes voc√™ pode
+resolver o problema s√≥
 
 134
 00:08:30,857 --> 00:08:32,271
@@ -601,22 +601,22 @@ desligando e ligando de novo!
 
 135
 00:08:32,507 --> 00:08:35,265
-Ent„o, vocÍ...tentou desligar
+Ent√£o, voc√™...tentou desligar
 e ligar de novo?
 
 136
 00:08:35,390 --> 00:08:36,820
-N„o, acho que È melhor
-quando vocÍ faz isso!
+N√£o, acho que √© melhor
+quando voc√™ faz isso!
 
 137
 00:08:36,867 --> 00:08:38,257
-Isso te dar· uma sensaÁ„o
-de realizaÁ„o!
+Isso te dar√° uma sensa√ß√£o
+de realiza√ß√£o!
 
 138
 00:08:38,390 --> 00:08:40,218
-Oh, entendi, ent„o est·
+Oh, entendi, ent√£o est√°
 me pedindo
 
 139
@@ -629,11 +629,11 @@ Seja bem-vindo!
 
 141
 00:08:47,527 --> 00:08:48,824
-Vistam o  casaco, crianÁas!
+Vistam o  casaco, crian√ßas!
 
 142
 00:08:49,275 --> 00:08:52,055
-Tchau crianÁas! VocÍs v„o
+Tchau crian√ßas! Voc√™s v√£o
 ver os pandas...
 
 143
@@ -669,12 +669,12 @@ Ei!
 
 150
 00:09:01,093 --> 00:09:02,140
-- N„o escutei! N„o escutei!
+- N√£o escutei! N√£o escutei!
 - Eu! - Eu!
 
 151
 00:09:02,195 --> 00:09:03,281
-- Confio! N„o confio!
+- Confio! N√£o confio!
 - Eu! - Eu!
 
 152
@@ -684,12 +684,12 @@ Ei!
 
 153
 00:09:04,476 --> 00:09:07,156
-Ok, ok, sabe do quÍ?
-VocÍs dois porque...
+Ok, ok, sabe do qu√™?
+Voc√™s dois porque...
 
 154
 00:09:07,609 --> 00:09:08,788
-o papai ama vocÍs dois!
+o papai ama voc√™s dois!
 
 155
 00:09:08,873 --> 00:09:10,717
@@ -697,12 +697,12 @@ Tenho que ter uma chance!
 
 156
 00:09:12,498 --> 00:09:13,818
-- VocÍ arrumou?
+- Voc√™ arrumou?
 - como sempre!
 
 157
 00:09:14,779 --> 00:09:15,943
-VocÍ me ama mesmo!
+Voc√™ me ama mesmo!
 
 158
 00:09:16,014 --> 00:09:16,920
@@ -722,11 +722,11 @@ Andar 98!
 
 162
 00:09:25,263 --> 00:09:26,193
-Meu irm„o!
+Meu irm√£o!
 
 163
 00:09:26,341 --> 00:09:27,935
-Irm„o! Vem aqui!
+Irm√£o! Vem aqui!
 
 164
 00:09:29,701 --> 00:09:31,130
@@ -734,32 +734,32 @@ Jesus Cristo!
 
 165
 00:09:32,208 --> 00:09:33,232
-Sarah, vocÍ est· linda!
+Sarah, voc√™ est√° linda!
 
 166
 00:09:33,310 --> 00:09:35,044
-Obrigado, È t„o bom te ver!
+Obrigado, √© t√£o bom te ver!
 
 167
 00:09:36,840 --> 00:09:37,841
-Qual È!
+Qual √©!
 
 168
 00:09:38,083 --> 00:09:39,106
-- Est· brincando?
+- Est√° brincando?
 - Certo? Eu sei!
 
 169
 00:09:39,153 --> 00:09:40,099
-Esses s„o os gÍmeos?
+Esses s√£o os g√™meos?
 
 170
 00:09:40,208 --> 00:09:41,708
-Eles est„o t„o grandes!
+Eles est√£o t√£o grandes!
 
 171
 00:09:41,802 --> 00:09:42,872
-O que vocÍs est„o fazendo?
+O que voc√™s est√£o fazendo?
 
 172
 00:09:42,951 --> 00:09:44,654
@@ -769,15 +769,15 @@ O que vocÍs est„o fazendo?
 173
 00:09:44,828 --> 00:09:47,445
 Isso vai te fazer entrar pra ver
-a alimentaÁ„o noturna do panda!
+a alimenta√ß√£o noturna do panda!
 
 174
 00:09:47,694 --> 00:09:49,303
-- Depois que todos saÌrem!
+- Depois que todos sa√≠rem!
 
 175
 00:09:49,367 --> 00:09:50,601
-Muito difÌcil de conseguir!
+Muito dif√≠cil de conseguir!
 
 176
 00:09:50,664 --> 00:09:51,398
@@ -785,11 +785,11 @@ Obrigado!
 
 177
 00:09:51,476 --> 00:09:53,601
-Mas eu conheÁo muitos pandas!
+Mas eu conhe√ßo muitos pandas!
 
 178
 00:09:53,984 --> 00:09:56,140
-Aqui est·, alguns apetrechos
+Aqui est√°, alguns apetrechos
 pra ver o parque!
 
 179
@@ -803,8 +803,8 @@ Como se diz?
 
 181
 00:09:58,458 --> 00:10:00,512
-Saiam daqui, v„o se divertir!
-Te vejo ‡ noite, querido!
+Saiam daqui, v√£o se divertir!
+Te vejo √† noite, querido!
 
 182
 00:10:00,614 --> 00:10:01,614
@@ -812,11 +812,11 @@ Boa sorte!
 
 183
 00:10:01,999 --> 00:10:02,952
-Amo vocÍ!
+Amo voc√™!
 
 184
 00:10:03,296 --> 00:10:04,030
-AtÈ mais pessoal!
+At√© mais pessoal!
 
 185
 00:10:04,100 --> 00:10:05,288
@@ -832,11 +832,11 @@ Foi bom te ver!
 
 188
 00:10:43,472 --> 00:10:45,308
-Ei, veja, obrigado pela recomendaÁ„o!
+Ei, veja, obrigado pela recomenda√ß√£o!
 
 189
 00:10:45,433 --> 00:10:47,214
-Sei que minha empresa È pequena
+Sei que minha empresa √© pequena
 
 190
 00:10:47,316 --> 00:10:48,605
@@ -844,32 +844,32 @@ pra algo desse tamanho!
 
 191
 00:10:48,730 --> 00:10:49,613
-Qual È!
+Qual √©!
 
 192
 00:10:50,105 --> 00:10:51,128
-N„o È nada!
+N√£o √© nada!
 
 193
 00:10:51,441 --> 00:10:52,574
-sÛ fiz o meu trabalho!
+s√≥ fiz o meu trabalho!
 
 194
 00:10:53,232 --> 00:10:54,732
-Eles est„o loucos pra abrir
+Eles est√£o loucos pra abrir
 a metade de cima,
 
 195
 00:10:54,825 --> 00:10:56,333
-e precisam de alguÈm pra verificar
+e precisam de algu√©m pra verificar
 
 196
 00:10:56,373 --> 00:10:58,295
-os sistemas de seguranÁa!
+os sistemas de seguran√ßa!
 
 197
 00:10:58,849 --> 00:11:00,498
-AlÈm de que vocÍ È mais
+Al√©m de que voc√™ √© mais
 barato que qualquer outro!
 
 198
@@ -885,21 +885,21 @@ Andar 220!
 
 201
 00:11:15,469 --> 00:11:16,219
-… bem sÛlido!
+√â bem s√≥lido!
 
 202
 00:11:16,578 --> 00:11:18,383
-…, tit‚nio puro!
+√â, tit√¢nio puro!
 
 203
 00:11:18,688 --> 00:11:20,860
 Nada diz: "Bem-vindo ao meu
-quarto do p‚nico na cobertura"
+quarto do p√¢nico na cobertura"
 
 204
 00:11:20,922 --> 00:11:23,563
 do que 25cm de uma super
-liga de nÌvel militar!
+liga de n√≠vel militar!
 
 205
 00:11:25,729 --> 00:11:27,088
@@ -914,7 +914,7 @@ Acho que sim!
 
 208
 00:11:36,996 --> 00:11:39,551
-Digo, se vocÍ vai viver 
+Digo, se voc√™ vai viver 
 em algum lugar!
 
 209
@@ -927,8 +927,8 @@ Sr. Sawyer!
 
 211
 00:11:48,262 --> 00:11:50,192
-… um prazer finalmente
-conhecer vocÍ!
+√â um prazer finalmente
+conhecer voc√™!
 
 212
 00:12:01,176 --> 00:12:02,411
@@ -943,68 +943,68 @@ Estou brincando!
 
 215
 00:12:05,419 --> 00:12:06,514
-GraÁas a Deus!
+Gra√ßas a Deus!
 
 216
 00:12:06,709 --> 00:12:08,373
-Minha...minha esposa sÛ me
+Minha...minha esposa s√≥ me
 disse uma frase!
 
 217
 00:12:08,482 --> 00:12:11,334
-Sarah, certo? Ele È
-cirurgi„ naval, n„o È?
+Sarah, certo? Ele √©
+cirurgi√£ naval, n√£o √©?
 
 218
 00:12:11,407 --> 00:12:12,673
-…! Ela tambÈm ministrou
+√â! Ela tamb√©m ministrou
 
 219
 00:12:12,736 --> 00:12:14,861
-LÌnguas e Estudos do Leste
-Asi·tico em An·polis!
+L√≠nguas e Estudos do Leste
+Asi√°tico em An√°polis!
 
 220
 00:12:15,055 --> 00:12:16,922
-E seus gÍmeos, o
+E seus g√™meos, o
 Henry e a Georgia!
 
 221
 00:12:17,743 --> 00:12:18,970
-VocÍ conheÁe as coisas!
+Voc√™ conhe√ße as coisas!
 
 222
 00:12:19,368 --> 00:12:21,423
-VocÍs s„o a primeira
-famÌlia que temos
+Voc√™s s√£o a primeira
+fam√≠lia que temos
 
 223
 00:12:21,524 --> 00:12:23,368
-na seÁ„o residencial
-no A PÈrola!
+na se√ß√£o residencial
+no A P√©rola!
 
 224
 00:12:23,764 --> 00:12:26,069
 Achei que seria um bom 
-teste para nÛs!
+teste para n√≥s!
 
 225
 00:12:26,164 --> 00:12:27,436
-Bem, eles com certeza v„o amar isso!
+Bem, eles com certeza v√£o amar isso!
 
 226
 00:12:27,631 --> 00:12:29,186
-… a primeira visita 
+√â a primeira visita 
 deles a Hong Kong!
 
 227
 00:12:30,186 --> 00:12:31,631
-Ah, aqui est„o eles!
+Ah, aqui est√£o eles!
 
 228
 00:12:31,803 --> 00:12:34,397
 Me permita lhe apresentar
-meu lÌder da seguranÁa pessoal,
+meu l√≠der da seguran√ßa pessoal,
 
 229
 00:12:34,499 --> 00:12:35,725
@@ -1030,27 +1030,27 @@ Igualmente!
 
 234
 00:12:42,614 --> 00:12:45,660
-ApÛs a aprovaÁ„o de sua avaliaÁ„o
+Ap√≥s a aprova√ß√£o de sua avalia√ß√£o
 por terceiros independentes,
 
 235
 00:12:45,795 --> 00:12:47,912
-eles confirmar„o a cobertura
-total do A PÈrola que,
+eles confirmar√£o a cobertura
+total do A P√©rola que,
 
 236
 00:12:48,015 --> 00:12:50,507
-segundo me disseram, ter· 
-o prÍmio mais caro
+segundo me disseram, ter√° 
+o pr√™mio mais caro
 
 237
 00:12:50,593 --> 00:12:53,468
-de uma ˙nica estrutura
-na histÛria da subscriÁ„o.
+de uma √∫nica estrutura
+na hist√≥ria da subscri√ß√£o.
 
 238
 00:12:54,715 --> 00:12:56,723
-Ent„o, vamos comeÁar?
+Ent√£o, vamos come√ßar?
 
 239
 00:12:57,317 --> 00:12:58,192
@@ -1058,60 +1058,60 @@ Mal posso esperar!
 
 240
 00:12:59,082 --> 00:13:01,972
-A PÈrola emprega medidas
-anti-incÍndio ˙nicas,
+A P√©rola emprega medidas
+anti-inc√™ndio √∫nicas,
 
 241
 00:13:02,028 --> 00:13:03,824
-um sistema de ventilaÁ„o
+um sistema de ventila√ß√£o
 auto-selante,
 
 242
 00:13:03,876 --> 00:13:05,884
 e um forte sprinkler
-e dispers„o de CO2
+e dispers√£o de CO2
 
 243
 00:13:05,993 --> 00:13:08,657
 o qual podem acabar com um
-incÍndio numa fraÁ„o do tempo!
+inc√™ndio numa fra√ß√£o do tempo!
 
 244
 00:13:09,133 --> 00:13:12,789
-Tudo monitorado por uma instalaÁ„o
+Tudo monitorado por uma instala√ß√£o
 de controle localizada a 1,6km daqui.
 
 245
 00:13:13,251 --> 00:13:15,649
-VocÍ me contratou para
-avaliar seus sistemas de seguranÁa,
+Voc√™ me contratou para
+avaliar seus sistemas de seguran√ßa,
 
 246
 00:13:15,743 --> 00:13:17,219
-e apÛs uma an·lise completa,
+e ap√≥s uma an√°lise completa,
 
 247
 00:13:17,275 --> 00:13:20,462
-posso dizer que esta È a super 
+posso dizer que esta √© a super 
 estrutura alta mais segura do mundo!
 
 248
 00:13:21,337 --> 00:13:23,142
-… o Forte Knox de
-1,6km no cÈu!
+√â o Forte Knox de
+1,6km no c√©u!
 
 249
 00:13:23,830 --> 00:13:26,213
 Depois que eu inspecionar a
-seguranÁa dessa instalaÁ„o externa,
+seguran√ßa dessa instala√ß√£o externa,
 
 250
 00:13:26,337 --> 00:13:28,017
-meu trabalho estar· finalizado!
+meu trabalho estar√° finalizado!
 
 251
 00:13:28,548 --> 00:13:31,236
-E poder· abrir a residencial
+E poder√° abrir a residencial
 na metade superior!
 
 252
@@ -1120,7 +1120,7 @@ Obrigado!
 
 253
 00:13:34,314 --> 00:13:35,564
-VocÍ È o homem
+Voc√™ √© o homem
 certo para o trabalho!
 
 254
@@ -1129,28 +1129,28 @@ Assim como o Ben disse!
 
 255
 00:13:38,720 --> 00:13:42,017
-Este tablet te dar·
+Este tablet te dar√°
 acesso administrativo
 
 256
 00:13:42,298 --> 00:13:44,579
-‡s medidas de controle de
-incÍndio e seguranÁa do A PÈrola.
+√†s medidas de controle de
+inc√™ndio e seguran√ßa do A P√©rola.
 
 257
 00:13:44,720 --> 00:13:47,243
 Uma vez vinculado a seus
-dados biomÈtricos,
+dados biom√©tricos,
 
 258
 00:13:47,470 --> 00:13:49,454
-vocÍ ser· o ˙nico que
-poder· acessar isso.
+voc√™ ser√° o √∫nico que
+poder√° acessar isso.
 
 259
 00:13:50,321 --> 00:13:52,813
-O Ben te levar· ‡
-instalaÁ„o externa
+O Ben te levar√° √†
+instala√ß√£o externa
 
 260
 00:13:52,978 --> 00:13:54,993
@@ -1163,7 +1163,7 @@ Obrigado!
 
 262
 00:13:59,061 --> 00:14:00,623
-Se corrermos, ainda dar· tempo!
+Se corrermos, ainda dar√° tempo!
 
 263
 00:14:02,123 --> 00:14:03,014
@@ -1171,11 +1171,11 @@ Tempo para que?
 
 264
 00:14:04,920 --> 00:14:06,045
-Pra vocÍ ver isso!
+Pra voc√™ ver isso!
 
 265
 00:14:08,186 --> 00:14:09,639
-- V·!
+- V√°!
 - Sim!
 
 266
@@ -1184,12 +1184,12 @@ Este...
 
 267
 00:14:32,667 --> 00:14:34,167
-È o verdadeiro PÈrola!
+√© o verdadeiro P√©rola!
 
 268
 00:14:51,985 --> 00:14:55,251
-317 painÈis de projeÁ„o 
-sensÌveis ao movimento
+317 pain√©is de proje√ß√£o 
+sens√≠veis ao movimento
 
 269
 00:14:55,407 --> 00:14:57,712
@@ -1201,28 +1201,28 @@ oitava maravilha do mundo!
 
 271
 00:15:11,857 --> 00:15:12,841
-… incrÌvel!
+√â incr√≠vel!
 
 272
 00:15:13,740 --> 00:15:14,959
-Eu estou l·!
+Eu estou l√°!
 
 273
 00:15:19,443 --> 00:15:22,295
-Aqui, tudo È possÌvel!
+Aqui, tudo √© poss√≠vel!
 
 274
 00:15:30,444 --> 00:15:32,389
-A Esfera È composta de quase
+A Esfera √© composta de quase
 
 275
 00:15:32,429 --> 00:15:35,265
-25.000 painÈis de
-definiÁ„o HD
+25.000 pain√©is de
+defini√ß√£o HD
 
 276
 00:15:35,702 --> 00:15:38,819
-com micro c‚meras 8K
+com micro c√¢meras 8K
 incorporadas em ambos os lados!
 
 277
@@ -1234,7 +1234,7 @@ Ambos lados? Porque isso?
 
 279
 00:15:55,179 --> 00:15:56,875
-Bem-vindo ao cÈu, Sr. Sawyer!
+Bem-vindo ao c√©u, Sr. Sawyer!
 
 280
 00:16:17,448 --> 00:16:18,409
@@ -1242,7 +1242,7 @@ Oh, Deus!
 
 281
 00:16:18,917 --> 00:16:19,987
-"Bem-vindo ao cÈu"?
+"Bem-vindo ao c√©u"?
 
 282
 00:16:20,346 --> 00:16:22,143
@@ -1263,11 +1263,11 @@ Deus, caras ricos!
 
 286
 00:16:30,723 --> 00:16:32,028
-VocÍ trabalha pra ele, no entanto!
+Voc√™ trabalha pra ele, no entanto!
 
 287
 00:16:35,067 --> 00:16:36,160
-VocÍ sente falta?
+Voc√™ sente falta?
 
 288
 00:16:37,949 --> 00:16:38,848
@@ -1279,7 +1279,7 @@ Sim, claro!
 
 290
 00:16:45,934 --> 00:16:47,910
-Sim, mas as coisas s„o
+Sim, mas as coisas s√£o
 bem diferentes agora, eu...
 
 291
@@ -1288,13 +1288,13 @@ eu tenho esposa e filhos!
 
 292
 00:16:49,785 --> 00:16:51,395
-N„o toco numa arma
+N√£o toco numa arma
 fazem dez anos!
 
 293
 00:16:52,199 --> 00:16:53,754
-- Est· brincando!
-- N„o!
+- Est√° brincando!
+- N√£o!
 
 294
 00:16:55,434 --> 00:16:56,551
@@ -1306,7 +1306,7 @@ Depois do que houve...
 
 296
 00:17:01,731 --> 00:17:02,949
-eu sÛ...
+eu s√≥...
 
 297
 00:17:03,793 --> 00:17:05,668
@@ -1328,11 +1328,11 @@ Vamos, ele estava desarmado!
 301
 00:17:18,207 --> 00:17:20,457
 Ele estava usando um colete,
-n„o tinha como vocÍ saber disso!
+n√£o tinha como voc√™ saber disso!
 
 302
 00:17:22,028 --> 00:17:24,457
-Apenas m· sorte, foi isso!
+Apenas m√° sorte, foi isso!
 
 303
 00:17:26,590 --> 00:17:27,629
@@ -1340,8 +1340,8 @@ Talvez!
 
 304
 00:17:29,254 --> 00:17:32,020
-Sabe, o engraÁado È que,
-sem aquela m· sorte, eu...
+Sabe, o engra√ßado √© que,
+sem aquela m√° sorte, eu...
 
 305
 00:17:33,199 --> 00:17:34,738
@@ -1353,8 +1353,8 @@ Eu nunca teria tido meus filhos!
 
 307
 00:17:39,582 --> 00:17:42,291
-N„o sei onde estaria sem
-minha famÌlia! Eu estaria...
+N√£o sei onde estaria sem
+minha fam√≠lia! Eu estaria...
 
 308
 00:17:43,042 --> 00:17:44,253
@@ -1368,7 +1368,7 @@ eu estaria perdido...
 310
 00:17:47,909 --> 00:17:49,588
 Vamos, cara, desculpe!
-N„o quis dizer isso assim!
+N√£o quis dizer isso assim!
 
 311
 00:17:51,712 --> 00:17:53,173
@@ -1380,13 +1380,13 @@ Chegamos, venha!
 
 313
 00:18:23,381 --> 00:18:25,318
-As crianÁas est„o muito empolgadas
-com a noite de alimentaÁ„o!
+As crian√ßas est√£o muito empolgadas
+com a noite de alimenta√ß√£o!
 
 314
 00:18:25,396 --> 00:18:27,505
-…, È um estouro!
-Eles v„o ficar l· a noite toda!
+√â, √© um estouro!
+Eles v√£o ficar l√° a noite toda!
 
 315
 00:18:27,638 --> 00:18:28,904
@@ -1399,7 +1399,7 @@ Sem problemas!
 
 317
 00:18:30,245 --> 00:18:31,542
-O jantar È por sua conta, claro!
+O jantar √© por sua conta, claro!
 
 318
 00:18:33,107 --> 00:18:33,834
@@ -1411,7 +1411,7 @@ Ele pegou minha bolsa!
 
 320
 00:18:54,699 --> 00:18:56,042
-- VocÍ est· bem?
+- Voc√™ est√° bem?
 - Sim!
 
 321
@@ -1424,17 +1424,17 @@ Que droga!
 
 323
 00:19:00,964 --> 00:19:02,206
-… melhor limpar isso, hein?
+√â melhor limpar isso, hein?
 
 324
 00:20:32,402 --> 00:20:34,429
 - Bem, isso parece familiar!
-- …!
+- √â!
 
 325
 00:20:35,500 --> 00:20:37,562
 Vai precisar de alguns pontos
-pra essa coisa, cara, È um corte feio!
+pra essa coisa, cara, √© um corte feio!
 
 326
 00:20:39,109 --> 00:20:40,609
@@ -1443,24 +1443,24 @@ pra essa coisa, cara, È um corte feio!
 
 327
 00:20:44,476 --> 00:20:45,515
-Esse È o tablet do Zhao?
+Esse √© o tablet do Zhao?
 
 328
 00:20:45,601 --> 00:20:47,422
 Sim, eu pus no meu
-paletÛ antes de saÌrmos!
+palet√≥ antes de sa√≠rmos!
 
 329
 00:20:48,281 --> 00:20:49,445
-Isso que È sorte, hein?
+Isso que √© sorte, hein?
 
 330
 00:20:49,523 --> 00:20:51,132
-…, cara, da boa!
+√â, cara, da boa!
 
 331
 00:20:52,679 --> 00:20:54,281
-Ou nÛs dois seremos
+Ou n√≥s dois seremos
 despedidos por isso!
 
 332
@@ -1473,40 +1473,40 @@ Andar 98!
 
 334
 00:21:23,092 --> 00:21:24,866
-Bem, nÛs realmente n„o
+Bem, n√≥s realmente n√£o
 chegamos a ver eles
 
 335
 00:21:24,944 --> 00:21:28,030
 porque o Henry comeu um doce 
-ruim e comeÁou a vomitar!
+ruim e come√ßou a vomitar!
 
 336
 00:21:28,124 --> 00:21:29,030
-Ent„o nÛs voltamos!
+Ent√£o n√≥s voltamos!
 
 337
 00:21:29,225 --> 00:21:31,342
-Ele est· bem?
+Ele est√° bem?
 Ele teve uma crise?
 
 338
 00:21:31,506 --> 00:21:33,686
-N„o, est· respirando bem!
-SÛ, vocÍ sabe...
+N√£o, est√° respirando bem!
+S√≥, voc√™ sabe...
 
 339
 00:21:33,756 --> 00:21:35,342
-Sem pandas, que È uma merda!
+Sem pandas, que √© uma merda!
 
 340
 00:21:35,553 --> 00:21:37,546
 - Que merda!
-- N„o diga "merda", querido!
+- N√£o diga "merda", querido!
 
 341
 00:21:37,693 --> 00:21:39,646
-Levo vocÍs l· amanh„, ok?
+Levo voc√™s l√° amanh√£, ok?
 Se estiver se sentindo melhor!
 
 342
@@ -1520,13 +1520,13 @@ Oh, desculpe, Srta.!
 
 344
 00:21:46,992 --> 00:21:49,413
-ManutenÁ„o do edifÌcio!
+Manuten√ß√£o do edif√≠cio!
 Pensamos que este andar estava vazio!
 
 345
 00:21:49,624 --> 00:21:52,773
-…, eu tambÈm!
-Est· tudo bem?
+√â, eu tamb√©m!
+Est√° tudo bem?
 
 346
 00:21:53,523 --> 00:21:54,734
@@ -1534,17 +1534,17 @@ Tudo bem!
 
 347
 00:21:55,195 --> 00:21:56,663
-Estamos sÛ verificando
-as linhas telefÙnicas!
+Estamos s√≥ verificando
+as linhas telef√¥nicas!
 
 348
 00:21:57,624 --> 00:21:59,046
-N„o sabia que j·
+N√£o sabia que j√°
 estavam ativadas!
 
 349
 00:21:59,562 --> 00:22:01,398
-Beml, elas estar„o quando
+Beml, elas estar√£o quando
 terminarmos com isso!
 
 350
@@ -1556,11 +1556,11 @@ Bem, vejam esse precioso parzinho!
 
 352
 00:22:08,520 --> 00:22:09,653
-Est„o se divertindo?
+Est√£o se divertindo?
 
 353
 00:22:09,958 --> 00:22:11,794
-VocÍs poder„o brincar de 
+Voc√™s poder√£o brincar de 
 castelo neste andar!
 
 354
@@ -1598,80 +1598,80 @@ Quer que eu limpe isso?
 
 362
 00:22:47,129 --> 00:22:48,707
-N„o, deixe assim!
+N√£o, deixe assim!
 
 363
 00:22:49,551 --> 00:22:51,121
-Ele cuidar· disso ele mesmo!
+Ele cuidar√° disso ele mesmo!
 
 364
 00:22:56,723 --> 00:22:57,902
 O que foi?
-Onde est· indo?
+Onde est√° indo?
 
 365
 00:22:58,285 --> 00:23:00,145
-Tenho que ir! O Henry n„o
-est· se sentindo bem!
+Tenho que ir! O Henry n√£o
+est√° se sentindo bem!
 
 366
 00:23:00,246 --> 00:23:01,535
-Eles voltaram para A PÈrola!
+Eles voltaram para A P√©rola!
 
 367
 00:23:01,707 --> 00:23:03,223
-- Eles voltaram pra PÈrola?
-- …!
+- Eles voltaram pra P√©rola?
+- √â!
 
 368
 00:23:04,199 --> 00:23:05,934
-Vou te chamar ‡ noite!
+Vou te chamar √† noite!
 Que dia, hein?
 
 369
 00:23:06,605 --> 00:23:07,941
-N„o vou fazer isso a tempo!
+N√£o vou fazer isso a tempo!
 
 370
 00:23:09,051 --> 00:23:09,840
-O quÍ?
+O qu√™?
 
 371
 00:23:12,551 --> 00:23:14,059
-Porque vocÍ tirou da bolsa?
+Porque voc√™ tirou da bolsa?
 
 372
 00:23:15,215 --> 00:23:16,676
-VocÍ deveria ter deixado ele na bolsa!
+Voc√™ deveria ter deixado ele na bolsa!
 
 373
 00:23:18,363 --> 00:23:19,645
-Ben, do que est· falando?
+Ben, do que est√° falando?
 
 374
 00:23:24,270 --> 00:23:25,652
-Me dÍ o tablet, Will!
+Me d√™ o tablet, Will!
 
 375
 00:23:25,779 --> 00:23:27,592
-O que est· havendo?
+O que est√° havendo?
 
 376
 00:23:27,646 --> 00:23:28,662
-O que est· havendo?
+O que est√° havendo?
 
 377
 00:23:28,967 --> 00:23:30,092
-VocÍ ferrou...
+Voc√™ ferrou...
 
 378
 00:23:30,388 --> 00:23:32,381
-vocÍ conseguiu uma vida
+voc√™ conseguiu uma vida
 toda nova! O que eu ganhei?
 
 379
 00:23:33,076 --> 00:23:34,357
-Dispensa mÈdica...
+Dispensa m√©dica...
 
 380
 00:23:34,459 --> 00:23:35,599
@@ -1679,28 +1679,28 @@ Trabalhando pra bandidos!
 
 381
 00:23:35,834 --> 00:23:37,326
-VocÍ n„o conhece essas
+Voc√™ n√£o conhece essas
 pessoas, Will!
 
 382
 00:23:37,521 --> 00:23:38,779
-Eu n„o tenho escolha!
+Eu n√£o tenho escolha!
 
 383
 00:23:39,849 --> 00:23:41,310
-VocÍ estragou tudo!
+Voc√™ estragou tudo!
 
 384
 00:23:41,857 --> 00:23:43,162
-Sei que est· ferido, irm„o,
+Sei que est√° ferido, irm√£o,
 
 385
 00:23:43,428 --> 00:23:44,724
-mas vocÍ n„o quer fazer isso!
+mas voc√™ n√£o quer fazer isso!
 
 386
 00:23:44,826 --> 00:23:45,857
-N„o somos irm„os!
+N√£o somos irm√£os!
 
 387
 00:24:24,976 --> 00:24:25,624
@@ -1732,7 +1732,7 @@ Sente aqui...
 
 394
 00:25:12,872 --> 00:25:13,731
-VocÍ aqui!
+Voc√™ aqui!
 
 395
 00:25:17,646 --> 00:25:18,747
@@ -1754,16 +1754,16 @@ me disser o que houve!
 
 399
 00:25:25,221 --> 00:25:26,971
-N„o era pra eles
+N√£o era pra eles
 terem voltado!
 
 400
 00:25:28,503 --> 00:25:29,932
-N„o era pra eles estarem l·!
+N√£o era pra eles estarem l√°!
 
 401
 00:25:31,260 --> 00:25:32,518
-Quem n„o era pra estar l·?
+Quem n√£o era pra estar l√°?
 
 402
 00:25:32,893 --> 00:25:34,049
@@ -1771,11 +1771,11 @@ Sarah...
 
 403
 00:25:34,620 --> 00:25:35,838
-e as crianÁas!
+e as crian√ßas!
 
 404
 00:25:36,682 --> 00:25:37,799
-O que vocÍ fez?
+O que voc√™ fez?
 
 405
 00:26:06,690 --> 00:26:08,276
@@ -1788,15 +1788,15 @@ realmente ama!
 
 407
 00:26:39,523 --> 00:26:41,390
-Mam„e, o que est· havendo?
+Mam√£e, o que est√° havendo?
 
 408
 00:26:41,561 --> 00:26:42,890
-Medidas anti-incÍndio ativadas!
+Medidas anti-inc√™ndio ativadas!
 
 409
 00:26:42,953 --> 00:26:44,484
-Eu n„o sei!
+Eu n√£o sei!
 Deixe eu verificar!
 
 410
@@ -1805,11 +1805,11 @@ Abrigo no lugar!
 
 411
 00:26:50,671 --> 00:26:52,968
-Medidas anti-incÍndio ativadas!
+Medidas anti-inc√™ndio ativadas!
 
 412
 00:26:54,007 --> 00:26:55,413
-Fiquem no sof·!
+Fiquem no sof√°!
 
 413
 00:26:56,390 --> 00:26:57,679
@@ -1821,20 +1821,20 @@ Evacuar?
 
 415
 00:26:59,734 --> 00:27:00,984
-Sim! Pegar o helicÛptero!
+Sim! Pegar o helic√≥ptero!
 
 416
 00:27:02,921 --> 00:27:04,265
-Por que farÌamos isso?
+Por que far√≠amos isso?
 
 417
 00:27:04,788 --> 00:27:06,359
-Bem, o edifÌcio est· em chamas!
+Bem, o edif√≠cio est√° em chamas!
 
 418
 00:27:06,671 --> 00:27:09,663
-O edificÌo n„o est· em chamas!
-O andar 96 est· em chamas!
+O edific√≠o n√£o est√° em chamas!
+O andar 96 est√° em chamas!
 
 419
 00:27:10,405 --> 00:27:12,265
@@ -1843,8 +1843,8 @@ andares acima disso!
 
 420
 00:27:12,359 --> 00:27:14,468
-E as medidas anti-incÍndio
-v„o mantÍ-lo l·!
+E as medidas anti-inc√™ndio
+v√£o mant√™-lo l√°!
 
 421
 00:27:18,273 --> 00:27:20,913
@@ -1853,11 +1853,11 @@ aqui, eu garanto!
 
 422
 00:27:23,155 --> 00:27:24,398
-O que vocÍ fez?
+O que voc√™ fez?
 
 423
 00:27:25,343 --> 00:27:26,655
-Eu armei pra vocÍ!
+Eu armei pra voc√™!
 
 424
 00:27:27,663 --> 00:27:28,866
@@ -1869,15 +1869,15 @@ Corra!
 
 426
 00:27:31,092 --> 00:27:32,349
-Eles est„o vindo, Will!
+Eles est√£o vindo, Will!
 
 427
 00:27:33,185 --> 00:27:34,521
-Eles v„o te matar!
+Eles v√£o te matar!
 
 428
 00:27:34,740 --> 00:27:36,310
-Quem est· vindo? Quem?
+Quem est√° vindo? Quem?
 
 429
 00:27:36,545 --> 00:27:37,756
@@ -1894,7 +1894,7 @@ Merda!
 
 432
 00:28:40,542 --> 00:28:41,457
-Ol·, Will!
+Ol√°, Will!
 
 433
 00:29:03,451 --> 00:29:04,295
@@ -1910,7 +1910,7 @@ O que temos aqui?
 
 436
 00:30:26,546 --> 00:30:28,366
-TÍm um incÍndio no andar 96!
+T√™m um inc√™ndio no andar 96!
 
 437
 00:30:28,695 --> 00:30:32,148
@@ -1920,20 +1920,20 @@ abaixo daquele andar!
 438
 00:30:32,649 --> 00:30:34,539
 Somos capazes de apagar o 
-fogo no 96∫ andar?
+fogo no 96¬∫ andar?
 
 439
 00:30:34,685 --> 00:30:37,169
-… um edifÌcio de 220 andares!
+√â um edif√≠cio de 220 andares!
 
 440
 00:30:37,359 --> 00:30:38,763
-AtÈ agora sÛ alcanÁamos o 10∫ andar!
+At√© agora s√≥ alcan√ßamos o 10¬∫ andar!
 
 441
 00:30:39,132 --> 00:30:41,468
-O sistema anti-incÍndio
-est· funcionando!
+O sistema anti-inc√™ndio
+est√° funcionando!
 
 442
 00:30:42,087 --> 00:30:43,485
@@ -1941,12 +1941,12 @@ E quanto a outras pessoas?
 
 443
 00:30:44,867 --> 00:30:47,594
-N„o existem outras pessoas
-no 96∫ andar!
+N√£o existem outras pessoas
+no 96¬∫ andar!
 
 444
 00:31:00,243 --> 00:31:02,196
-Medidas anti-incÍndio ativadas!
+Medidas anti-inc√™ndio ativadas!
 
 445
 00:31:03,782 --> 00:31:05,235
@@ -1963,22 +1963,22 @@ Venha aqui, amigo!
 
 448
 00:31:12,563 --> 00:31:14,126
-Estou bem, mam„e!
-N„o preciso disso!
+Estou bem, mam√£e!
+N√£o preciso disso!
 
 449
 00:31:14,284 --> 00:31:16,760
-VocÍ est· bem agora, querido,
-mas j· vamos sair pra l·
+Voc√™ est√° bem agora, querido,
+mas j√° vamos sair pra l√°
 
 450
 00:31:16,830 --> 00:31:18,916
-e tem muita fumaÁa e
+e tem muita fuma√ßa e
 muito ar ruim,
 
 451
 00:31:19,033 --> 00:31:21,103
-e n„o quero que tenha
+e n√£o quero que tenha
 uma crise, ok?
 
 452
@@ -1988,16 +1988,16 @@ Tenha certeza que fiquem bem molhadas!
 
 453
 00:31:23,616 --> 00:31:25,257
-- As toalhas de m„o tambÈm!
+- As toalhas de m√£o tamb√©m!
 - Ok!
 
 454
 00:31:25,322 --> 00:31:26,643
-Duas inspiradas r·pidas, por favor!
+Duas inspiradas r√°pidas, por favor!
 
 455
 00:31:32,350 --> 00:31:33,396
-Mam„e...
+Mam√£e...
 
 456
 00:31:34,170 --> 00:31:35,506
@@ -2005,11 +2005,11 @@ Vamos morrer?
 
 457
 00:31:41,707 --> 00:31:42,582
-N„o!
+N√£o!
 
 458
 00:31:42,691 --> 00:31:44,012
-Querida, n„o vamos morrer!
+Querida, n√£o vamos morrer!
 
 459
 00:31:44,097 --> 00:31:45,488
@@ -2021,21 +2021,21 @@ Eu prometo!
 
 461
 00:31:58,318 --> 00:32:00,748
-Estamos em posiÁ„o na
-instalaÁ„o de controle externa!
+Estamos em posi√ß√£o na
+instala√ß√£o de controle externa!
 
 462
 00:32:00,943 --> 00:32:01,889
-FaÁa!
+Fa√ßa!
 
 463
 00:33:03,427 --> 00:33:04,365
-AÌ est· vocÍ!
+A√≠ est√° voc√™!
 
 464
 00:33:04,685 --> 00:33:06,904
 Querido, tem um...
-um incÍndio no edifÌcio!
+um inc√™ndio no edif√≠cio!
 
 465
 00:33:06,990 --> 00:33:07,833
@@ -2043,31 +2043,31 @@ Eu sei!
 
 466
 00:33:07,935 --> 00:33:09,419
-Tudo bem, veja, n„o
-posso chegar atÈ vocÍ!
+Tudo bem, veja, n√£o
+posso chegar at√© voc√™!
 
 467
 00:33:09,474 --> 00:33:11,326
-A polÌcia tem o edifÌcio 
+A pol√≠cia tem o edif√≠cio 
 todo isolado.
 
 468
 00:33:11,591 --> 00:33:12,849
-Eu quero que saia daÌ agora!
+Eu quero que saia da√≠ agora!
 
 469
 00:33:12,888 --> 00:33:15,310
-V· para o corredor, deve 
-ter um painel de logÌstica.
+V√° para o corredor, deve 
+ter um painel de log√≠stica.
 
 470
 00:33:15,578 --> 00:33:17,742
 Se me mostrar ele, posso te
-dizer onde È seguro pra ir!
+dizer onde √© seguro pra ir!
 
 471
 00:33:17,789 --> 00:33:19,683
-Leve as crianÁas com vocÍ,
+Leve as crian√ßas com voc√™,
 vou ficar ao telefone.
 
 472
@@ -2076,7 +2076,7 @@ Ok!
 
 473
 00:33:22,964 --> 00:33:24,034
-Me dÍ essas toalhas!
+Me d√™ essas toalhas!
 
 474
 00:33:24,222 --> 00:33:25,113
@@ -2084,16 +2084,16 @@ Vamos!
 
 475
 00:33:25,285 --> 00:33:27,754
-Aviso de ocupaÁ„o no piso 98.
+Aviso de ocupa√ß√£o no piso 98.
 
 476
 00:33:32,238 --> 00:33:35,301
-A famÌlia do Will Sawyer destrancou
-a porta do apartamento uma hora atr·s!
+A fam√≠lia do Will Sawyer destrancou
+a porta do apartamento uma hora atr√°s!
 
 477
 00:33:35,649 --> 00:33:37,063
-Eles est„o no edifÌcio!
+Eles est√£o no edif√≠cio!
 
 478
 00:33:37,844 --> 00:33:38,977
@@ -2101,7 +2101,7 @@ Mande dois homens!
 
 479
 00:33:39,086 --> 00:33:41,274
-Use o cÛdigo de substituiÁ„o
+Use o c√≥digo de substitui√ß√£o
 manual nos elevadores.
 
 480
@@ -2114,7 +2114,7 @@ Sim, senhor!
 
 482
 00:33:43,579 --> 00:33:44,712
-VocÍs dois, v„o!
+Voc√™s dois, v√£o!
 
 483
 00:33:45,157 --> 00:33:46,001
@@ -2122,7 +2122,7 @@ O que?
 
 484
 00:33:46,415 --> 00:33:48,266
-Escute, o fogo n„o vai
+Escute, o fogo n√£o vai
 se apagar!
 
 485
@@ -2131,16 +2131,16 @@ Precisamos sair agora!
 
 486
 00:33:51,010 --> 00:33:52,455
-Alerta de seguranÁa!
+Alerta de seguran√ßa!
 
 487
 00:34:01,811 --> 00:34:03,943
-SÛ posso acessar o controle nominal!
+S√≥ posso acessar o controle nominal!
 
 488
 00:34:04,148 --> 00:34:06,609
-N„o posso bloquear as
-funÁıes do local sem...
+N√£o posso bloquear as
+fun√ß√µes do local sem...
 
 489
 00:34:08,507 --> 00:34:09,687
@@ -2165,26 +2165,26 @@ Estou completamente bloqueado!
 494
 00:34:38,979 --> 00:34:40,119
 O que quer dizer com
-est· bloqueado?
+est√° bloqueado?
 
 495
 00:34:40,182 --> 00:34:41,401
-Achei que isso n„o podia acontecer!
+Achei que isso n√£o podia acontecer!
 
 496
 00:34:41,862 --> 00:34:43,963
 Temos total comtrole do
-sistema anti-incÍndio!
+sistema anti-inc√™ndio!
 
 497
 00:34:45,168 --> 00:34:47,715
 Sele todas as portas do
-98 atÈ o tÈrreo!
+98 at√© o t√©rreo!
 
 498
 00:34:48,020 --> 00:34:51,426
 E desligue todas as medidas
-anti-incÍndio do 96 ao topo!
+anti-inc√™ndio do 96 ao topo!
 
 499
 00:35:06,052 --> 00:35:07,443
@@ -2192,12 +2192,12 @@ Tudo vai ficar bem!
 
 500
 00:35:07,591 --> 00:35:09,404
-O painel de logÌstica deve
-estar ‡ sua esquerda!
+O painel de log√≠stica deve
+estar √† sua esquerda!
 
 501
 00:35:11,943 --> 00:35:13,138
-Me diga o que vÍ!
+Me diga o que v√™!
 
 502
 00:35:13,208 --> 00:35:14,341
@@ -2205,27 +2205,27 @@ Ok!
 
 503
 00:35:15,326 --> 00:35:17,341
-Todos os andares acima de nÛs
-est„o amarelos. O que significa?
+Todos os andares acima de n√≥s
+est√£o amarelos. O que significa?
 
 504
 00:35:17,507 --> 00:35:19,897
 Significa que todo o sistema de
-incÍndio acima de vocÍ est· desligado!
+inc√™ndio acima de voc√™ est√° desligado!
 
 505
 00:35:20,187 --> 00:35:22,209
-Sarah, me escute! O incÍndio
-n„o vai parar!
+Sarah, me escute! O inc√™ndio
+n√£o vai parar!
 
 506
 00:35:22,358 --> 00:35:24,491
-Quero que saia j· daÌ e suba!
+Quero que saia j√° da√≠ e suba!
 
 507
 00:35:24,562 --> 00:35:26,374
-Suba, continue subindo, n„o
-pare, n„o olhe pra tr·s!
+Suba, continue subindo, n√£o
+pare, n√£o olhe pra tr√°s!
 
 508
 00:35:26,413 --> 00:35:27,116
@@ -2238,7 +2238,7 @@ Agora force o fogo pra cima!
 510
 00:35:28,726 --> 00:35:30,484
 Abra as aberturas de 
-ventilaÁ„o do poÁo do elevador.
+ventila√ß√£o do po√ßo do elevador.
 
 511
 00:35:30,968 --> 00:35:32,460
@@ -2254,8 +2254,8 @@ Senhoras e senhores,
 
 514
 00:35:37,234 --> 00:35:40,820
-Eu lhes dou uma chaminÈ
-de 6,5 bilhıes de dÛlares!
+Eu lhes dou uma chamin√©
+de 6,5 bilh√µes de d√≥lares!
 
 515
 00:35:52,583 --> 00:35:53,575
@@ -2263,17 +2263,17 @@ Sra. Sawyer?
 
 516
 00:35:53,755 --> 00:35:56,169
-Estamos com a seguranÁa do edifÌcio!
+Estamos com a seguran√ßa do edif√≠cio!
 Venha conosco, por favor!
 
 517
 00:35:59,021 --> 00:36:00,209
-- N„o!
+- N√£o!
 - Voltem!
 
 518
 00:36:05,725 --> 00:36:07,490
-N„o! N„o!
+N√£o! N√£o!
 
 519
 00:36:15,873 --> 00:36:16,732
@@ -2281,7 +2281,7 @@ Meu Deus!
 
 520
 00:36:18,154 --> 00:36:19,248
-Qual a sua condiÁ„o?
+Qual a sua condi√ß√£o?
 
 521
 00:36:19,942 --> 00:36:20,856
@@ -2289,16 +2289,16 @@ Informe!
 
 522
 00:36:23,279 --> 00:36:24,232
-Est· ouvindo?
+Est√° ouvindo?
 
 523
 00:36:26,006 --> 00:36:27,498
-N„o, est· tudo bem, ent„o!
+N√£o, est√° tudo bem, ent√£o!
 Eles foram embora!
 
 524
 00:36:28,282 --> 00:36:30,962
-Mova-se para a posiÁ„o!
+Mova-se para a posi√ß√£o!
 Sabe o que fazer depois!
 
 525
@@ -2315,23 +2315,23 @@ Will Sawyer...
 
 528
 00:36:45,598 --> 00:36:46,395
-M„os pra cima!
+M√£os pra cima!
 
 529
 00:36:48,903 --> 00:36:50,114
 
 530
 00:36:50,176 --> 00:36:51,442
-Por favor, vocÍ n„o entende!
+Por favor, voc√™ n√£o entende!
 
 531
 00:36:51,481 --> 00:36:52,942
-Minha famÌlia est· l· dentro...
+Minha fam√≠lia est√° l√° dentro...
 
 532
 00:36:53,551 --> 00:36:55,465
 Me escute! Tenho que
-chegar atÈ eles!
+chegar at√© eles!
 
 533
 00:36:55,543 --> 00:36:56,355
@@ -2343,33 +2343,33 @@ Agora!
 
 535
 00:37:27,815 --> 00:37:30,369
-Ent„o, todo o sistema È
+Ent√£o, todo o sistema √©
 controlado pelo tablet!
 
 536
 00:37:30,439 --> 00:37:32,620
-N„o precisa de 
+N√£o precisa de 
 reconhecimento facial.
 
 537
 00:37:32,721 --> 00:37:35,963
 Todos os demais pontos de acesso ao
-computador do PÈrola foram criptografados.
+computador do P√©rola foram criptografados.
 
 538
 00:37:36,190 --> 00:37:39,049
-O edifÌcio inteiro agora,
-est· trancado!
+O edif√≠cio inteiro agora,
+est√° trancado!
 
 539
 00:37:39,252 --> 00:37:41,510
-Eu usei meu prÛprio cÛdigo
-logarÌtmico pra criptografar ele.
+Eu usei meu pr√≥prio c√≥digo
+logar√≠tmico pra criptografar ele.
 
 540
 00:37:41,596 --> 00:37:43,479
-Ent„o, sou literalmente
-o ˙nico humano...
+Ent√£o, sou literalmente
+o √∫nico humano...
 
 541
 00:37:43,674 --> 00:37:45,588
@@ -2378,11 +2378,11 @@ quebrar isso!
 
 542
 00:37:46,439 --> 00:37:47,963
-…, isso È bem inteligente, certo?
+√â, isso √© bem inteligente, certo?
 
 543
 00:37:50,127 --> 00:37:51,252
-N„o t„o inteligente!
+N√£o t√£o inteligente!
 
 544
 00:37:51,682 --> 00:37:53,440
@@ -2395,16 +2395,16 @@ ao redor do heliponto,
 
 546
 00:37:55,322 --> 00:37:56,955
-tornando a decolagem impossÌvel!
+tornando a decolagem imposs√≠vel!
 
 547
 00:37:57,026 --> 00:37:58,830
 Nossa janela de partida
-est· fechando, senhor!
+est√° fechando, senhor!
 
 548
 00:37:59,471 --> 00:38:01,424
-Odeio dizer isso, mas È
+Odeio dizer isso, mas √©
 agora ou nunca!
 
 549
@@ -2413,12 +2413,12 @@ Feliz?
 
 550
 00:38:04,346 --> 00:38:06,002
-VocÍ tinha que bancar o herÛi!
-N„o funcionou!
+Voc√™ tinha que bancar o her√≥i!
+N√£o funcionou!
 
 551
 00:38:06,120 --> 00:38:07,268
-… hora de ir!
+√â hora de ir!
 
 552
 00:38:07,659 --> 00:38:10,377
@@ -2427,57 +2427,57 @@ conseguiu seu desejo!
 
 553
 00:38:11,244 --> 00:38:12,627
-Prepare o helicÛptero!
+Prepare o helic√≥ptero!
 
 554
 00:38:13,549 --> 00:38:14,705
-Apronte o p·ssaro!
+Apronte o p√°ssaro!
 
 555
 00:39:26,837 --> 00:39:28,360
-Quem È esse Will Sawyer?
+Quem √© esse Will Sawyer?
 
 556
 00:39:29,407 --> 00:39:30,923
-Ele È um veterano dos Fuzileiros!
+Ele √© um veterano dos Fuzileiros!
 
 557
 00:39:31,114 --> 00:39:34,904
 Seis anos com o FBI e oito
-com a Equipe de Resgate de RefÈm!
+com a Equipe de Resgate de Ref√©m!
 
 558
 00:39:35,311 --> 00:39:36,951
-Ele tem uma famÌlia!
-Uma esposa e duas crianÁas!
+Ele tem uma fam√≠lia!
+Uma esposa e duas crian√ßas!
 
 559
 00:39:37,067 --> 00:39:38,473
-Sua esposa era cirurgi„ da Marinha!
+Sua esposa era cirurgi√£ da Marinha!
 
 560
 00:39:38,542 --> 00:39:40,222
-Ela fez trÍs viagens
-ao Afeganist„o!
+Ela fez tr√™s viagens
+ao Afeganist√£o!
 
 561
 00:39:40,369 --> 00:39:42,703
-A famÌlia est· morando no edifÌcio
+A fam√≠lia est√° morando no edif√≠cio
 
 562
 00:39:42,840 --> 00:39:45,738
 desde que ele foi contratado
-como consultor de seguranÁa.
+como consultor de seguran√ßa.
 
 563
 00:39:45,874 --> 00:39:48,796
 E ele tem acesso ao protocolo 
-de seguranÁa do edifÌcio!
+de seguran√ßa do edif√≠cio!
 
 564
 00:39:50,504 --> 00:39:53,151
-Ele È o ˙nico capaz de desligar
-as medidas anti-incÍndio!
+Ele √© o √∫nico capaz de desligar
+as medidas anti-inc√™ndio!
 
 565
 00:39:54,532 --> 00:39:56,821
@@ -2525,11 +2525,11 @@ Merda!
 
 576
 00:40:57,333 --> 00:40:58,794
-O que acha que ele est· fazendo?
+O que acha que ele est√° fazendo?
 
 577
 00:40:59,466 --> 00:41:01,168
-Tentando entrar naquele edifÌcio!
+Tentando entrar naquele edif√≠cio!
 
 578
 00:43:29,304 --> 00:43:30,302
@@ -2537,21 +2537,21 @@ Senhor...
 
 579
 00:43:30,564 --> 00:43:33,333
-N„o posso protegÍ-lo se n„o 
-me disser o que est· havendo!
+N√£o posso proteg√™-lo se n√£o 
+me disser o que est√° havendo!
 
 580
 00:43:34,010 --> 00:43:36,129
-Isso n„o È sÛ um incÍndio,
-È uma conspiraÁ„o!
+Isso n√£o √© s√≥ um inc√™ndio,
+√© uma conspira√ß√£o!
 
 581
 00:43:36,380 --> 00:43:38,012
-N„o posso afirmar!
+N√£o posso afirmar!
 
 582
 00:43:38,168 --> 00:43:39,505
-VocÍ n„o precisa de fatos!
+Voc√™ n√£o precisa de fatos!
 
 583
 00:43:39,635 --> 00:43:41,059
@@ -2559,7 +2559,7 @@ O que diz o seu instinto?
 
 584
 00:43:41,198 --> 00:43:42,543
-Quem est· por tr·s disso?
+Quem est√° por tr√°s disso?
 
 585
 00:43:42,820 --> 00:43:44,356
@@ -2567,24 +2567,24 @@ Kores Botha!
 
 586
 00:43:46,223 --> 00:43:47,760
-N„o entendi!
+N√£o entendi!
 
 587
 00:43:48,247 --> 00:43:50,061
 Se um homem como o Botha
-quer vocÍ morto,
+quer voc√™ morto,
 
 588
 00:43:50,148 --> 00:43:51,727
-existem jeitos mais f·ceis!
+existem jeitos mais f√°ceis!
 
 589
 00:43:52,569 --> 00:43:54,288
-Ele n„o me quer morto!
+Ele n√£o me quer morto!
 
 590
 00:43:54,497 --> 00:43:56,059
-Pelo menos ainda n„o!
+Pelo menos ainda n√£o!
 
 591
 00:43:56,658 --> 00:43:58,177
@@ -2592,8 +2592,8 @@ Ele quer isso!
 
 592
 00:43:58,611 --> 00:44:01,449
-E ateando fogo no PÈrola È
-o ˙nico jeito de conseguir!
+E ateando fogo no P√©rola √©
+o √∫nico jeito de conseguir!
 
 593
 00:44:03,186 --> 00:44:04,991
@@ -2605,11 +2605,11 @@ Sim!
 
 595
 00:44:06,780 --> 00:44:08,646
-O helicÛptero est· pronto!
+O helic√≥ptero est√° pronto!
 
 596
 00:45:05,103 --> 00:45:07,447
-Ele quer mesmo entrar l·!
+Ele quer mesmo entrar l√°!
 
 597
 00:45:16,951 --> 00:45:18,323
@@ -2621,12 +2621,12 @@ Merda!
 
 599
 00:45:56,345 --> 00:45:58,220
-- M„os pra cima!
+- M√£os pra cima!
 - Ok!
 
 600
 00:45:58,342 --> 00:45:59,514
-N„o atire!
+N√£o atire!
 
 601
 00:46:01,007 --> 00:46:02,335
@@ -2634,7 +2634,7 @@ Vire-se!
 
 602
 00:46:33,466 --> 00:46:34,601
-Est· muito quente!
+Est√° muito quente!
 
 603
 00:46:34,714 --> 00:46:35,962
@@ -2656,15 +2656,15 @@ Senhor...
 607
 00:47:14,319 --> 00:47:17,818
 Estamos aptos a localizar 
-a famÌlia do Will Sawyer!
+a fam√≠lia do Will Sawyer!
 
 608
 00:47:18,052 --> 00:47:19,501
-Me diga algo que n„o sei!
+Me diga algo que n√£o sei!
 
 609
 00:47:19,744 --> 00:47:21,454
-Eles est„o naquele edifÌcio!
+Eles est√£o naquele edif√≠cio!
 
 610
 00:47:23,457 --> 00:47:24,768
@@ -2672,16 +2672,16 @@ Por aqui!
 
 611
 00:47:27,193 --> 00:47:28,599
-VocÍ est· indo bem!
+Voc√™ est√° indo bem!
 
 612
 00:47:28,750 --> 00:47:30,591
 Espere um pouco!
-VocÍ pode...?
+Voc√™ pode...?
 
 613
 00:47:30,947 --> 00:47:32,587
-VocÍ est· parecendo bem!
+Voc√™ est√° parecendo bem!
 Continue assim, ok?
 
 614
@@ -2698,20 +2698,20 @@ Acalme-se!
 
 617
 00:47:40,129 --> 00:47:41,483
-Que som È esse?
+Que som √© esse?
 
 618
 00:47:41,665 --> 00:47:43,080
-… o fogo, querida!
+√â o fogo, querida!
 
 619
 00:47:45,207 --> 00:47:47,551
 - Pra onde vamos?
-- Eu n„o sei!
+- Eu n√£o sei!
 
 620
 00:47:48,514 --> 00:47:50,198
-Esta È a ponte pra cachoeira!
+Esta √© a ponte pra cachoeira!
 
 621
 00:47:50,276 --> 00:47:51,466
@@ -2731,7 +2731,7 @@ Continuem!
 
 625
 00:48:09,510 --> 00:48:10,717
-N„o parem!
+N√£o parem!
 
 626
 00:48:41,489 --> 00:48:42,609
@@ -2743,7 +2743,7 @@ O que foi?
 
 628
 00:48:46,941 --> 00:48:48,390
-Este n„o È nosso piloto!
+Este n√£o √© nosso piloto!
 
 629
 00:48:48,503 --> 00:48:49,640
@@ -2763,7 +2763,7 @@ Sim! Sentiu minha falta?
 
 633
 00:49:25,401 --> 00:49:27,077
-Vejo que conheceu meu sÛcio!
+Vejo que conheceu meu s√≥cio!
 
 634
 00:49:27,884 --> 00:49:29,464
@@ -2771,16 +2771,16 @@ Surpresa, surpresa!
 
 635
 00:49:30,228 --> 00:49:32,025
-Porque n„o atira em
+Porque n√£o atira em
 mim e pega ele?
 
 636
 00:49:33,101 --> 00:49:34,733
-Acha que sou est˙pido, hein?
+Acha que sou est√∫pido, hein?
 
 637
 00:49:34,898 --> 00:49:36,287
-Sabe que n„o posso fazer isso!
+Sabe que n√£o posso fazer isso!
 
 638
 00:49:36,408 --> 00:49:38,848
@@ -2789,7 +2789,7 @@ trabalho me matariam
 
 639
 00:49:39,039 --> 00:49:40,714
-se eu n„o conseguir de volta pra eles!
+se eu n√£o conseguir de volta pra eles!
 
 640
 00:49:40,792 --> 00:49:42,502
@@ -2797,24 +2797,24 @@ Deveria ter me pago mais!
 
 641
 00:49:42,589 --> 00:49:43,457
-Mas n„o!
+Mas n√£o!
 
 642
 00:49:43,561 --> 00:49:45,914
-Garotos espertos como vocÍ
+Garotos espertos como voc√™
 sempre acham que podem ser espertos!
 
 643
 00:49:47,259 --> 00:49:48,969
-Ent„o, como isso È inteligente?
+Ent√£o, como isso √© inteligente?
 
 644
 00:49:49,546 --> 00:49:52,158
-Vou pegar vocÍ e seu drive
+Vou pegar voc√™ e seu drive
 
 645
 00:49:52,488 --> 00:49:53,851
-e seu helicÛptero,
+e seu helic√≥ptero,
 
 646
 00:49:54,216 --> 00:49:56,195
@@ -2822,11 +2822,11 @@ e vou te fazer assistir
 
 647
 00:49:56,342 --> 00:49:58,079
-o seu edifÌcio virar cinzas,
+o seu edif√≠cio virar cinzas,
 
 648
 00:49:58,165 --> 00:49:59,684
-e n„o h· nada que possa fazer!
+e n√£o h√° nada que possa fazer!
 
 649
 00:50:09,421 --> 00:50:10,680
@@ -2838,7 +2838,7 @@ Zhao!
 
 651
 00:50:52,420 --> 00:50:53,687
-N„o! N„o!
+N√£o! N√£o!
 
 652
 00:51:02,492 --> 00:51:04,367
@@ -2851,7 +2851,7 @@ Abra as portas!
 654
 00:51:08,404 --> 00:51:10,574
 A cobertura tem sua 
-prÛpria subrotina!
+pr√≥pria subrotina!
 
 655
 00:51:10,988 --> 00:51:13,152
@@ -2860,7 +2860,7 @@ aquele sistema!
 
 656
 00:51:13,793 --> 00:51:15,590
-N„o posso abrir as portas
+N√£o posso abrir as portas
 com este tablet.
 
 657
@@ -2870,7 +2870,7 @@ Espere!
 658
 00:51:17,352 --> 00:51:19,574
 Parece que o Will Sawyer
-est· no edifÌcio!
+est√° no edif√≠cio!
 
 659
 00:51:19,756 --> 00:51:21,909
@@ -2878,11 +2878,11 @@ E tenho um alerta de movimento!
 
 660
 00:51:22,491 --> 00:51:23,801
-… a famÌlia dele!
+√â a fam√≠lia dele!
 
 661
 00:51:23,975 --> 00:51:25,164
-Eles ainda est„o vivos!
+Eles ainda est√£o vivos!
 
 662
 00:51:26,640 --> 00:51:27,994
@@ -2890,16 +2890,16 @@ Zhao!
 
 663
 00:51:49,968 --> 00:51:51,765
-VocÍ n„o vai entrar usando ao forÁa!
+Voc√™ n√£o vai entrar usando ao for√ßa!
 
 664
 00:51:52,828 --> 00:51:54,413
-VocÍ precisa alguÈm
-que conheÁa o sistema!
+Voc√™ precisa algu√©m
+que conhe√ßa o sistema!
 
 665
 00:51:55,694 --> 00:51:58,062
-E eu conheÁo o cara pro serviÁo!
+E eu conhe√ßo o cara pro servi√ßo!
 
 666
 00:51:58,890 --> 00:51:59,913
@@ -2907,16 +2907,16 @@ Sawyer!
 
 667
 00:52:00,515 --> 00:52:02,405
-Se alguÈm pode entrar, È ele!
+Se algu√©m pode entrar, √© ele!
 
 668
 00:52:02,734 --> 00:52:05,601
-Ele est· no edifÌcio!
-SÛ precisamos achar ele!
+Ele est√° no edif√≠cio!
+S√≥ precisamos achar ele!
 
 669
 00:52:07,234 --> 00:52:08,609
-N„o precisamos achar ele!
+N√£o precisamos achar ele!
 
 670
 00:52:09,984 --> 00:52:11,390
@@ -2924,17 +2924,17 @@ Sabemos o que ele quer!
 
 671
 00:52:58,749 --> 00:53:00,937
-Se vocÍ n„o pode arrumar
+Se voc√™ n√£o pode arrumar
 com fita adesiva...
 
 672
 00:53:03,421 --> 00:53:05,296
-ent„o n„o est· usando
+ent√£o n√£o est√° usando
 fita adesiva suficiente!
 
 673
 00:53:28,447 --> 00:53:29,947
-VocÍ est· no 98∫ andar!
+Voc√™ est√° no 98¬∫ andar!
 
 674
 00:53:30,557 --> 00:53:32,150
@@ -2943,7 +2943,7 @@ Escadaria do lado Leste!
 675
 00:53:33,080 --> 00:53:34,799
 Significa que tem que ir
-atravÈs do parque!
+atrav√©s do parque!
 
 676
 00:53:35,596 --> 00:53:36,822
@@ -2963,7 +2963,7 @@ Ok!
 
 680
 00:54:00,622 --> 00:54:01,786
-Vamos, quase l·!
+Vamos, quase l√°!
 
 681
 00:54:13,138 --> 00:54:14,497
@@ -2975,28 +2975,28 @@ Sim!
 
 683
 00:54:16,841 --> 00:54:18,107
-Prazer em conhecÍ-la!
+Prazer em conhec√™-la!
 
 684
 00:54:19,974 --> 00:54:21,552
 Tenho eles!
-Est„o no parque!
+Est√£o no parque!
 
 685
 00:54:22,740 --> 00:54:23,911
-Venham, as crianÁas tambÈm!
+Venham, as crian√ßas tamb√©m!
 
 686
 00:54:23,997 --> 00:54:25,638
-FaÁam o que ele diz, ok?
+Fa√ßam o que ele diz, ok?
 
 687
 00:54:25,958 --> 00:54:28,497
-Isso mesmo, escutem sua m„e!
+Isso mesmo, escutem sua m√£e!
 
 688
 00:54:28,747 --> 00:54:30,224
-Est· tudo bem, pessoal!
+Est√° tudo bem, pessoal!
 
 689
 00:54:30,521 --> 00:54:32,169
@@ -3004,7 +3004,7 @@ Tudo vai ficar bem!
 
 690
 00:54:32,357 --> 00:54:34,107
-FaÁam exatamente o que eu disser!
+Fa√ßam exatamente o que eu disser!
 
 691
 00:54:34,716 --> 00:54:35,661
@@ -3012,7 +3012,7 @@ Corram!
 
 692
 00:54:39,785 --> 00:54:41,363
-- Mam„e!
+- Mam√£e!
 - Vamos!
 
 693
@@ -3021,7 +3021,7 @@ Ok!
 
 694
 00:55:13,039 --> 00:55:15,125
-Vamos, sÛ temos que ir
+Vamos, s√≥ temos que ir
 um pouco mais longe!
 
 695
@@ -3039,12 +3039,12 @@ Eu vou achar outro caminho!
 698
 00:55:29,485 --> 00:55:31,789
 Continuem! Todo o caminho
-atÈ a cachoeira!
+at√© a cachoeira!
 
 699
 00:55:31,992 --> 00:55:34,360
 Vou contornar pelo outro lado!
-Te encontro l·!
+Te encontro l√°!
 
 700
 00:55:34,696 --> 00:55:35,758
@@ -3052,7 +3052,7 @@ Ok!
 
 701
 00:55:46,358 --> 00:55:48,569
-Eu n„o deveria te matar!
+Eu n√£o deveria te matar!
 
 702
 00:55:48,780 --> 00:55:50,499
@@ -3065,7 +3065,7 @@ Sarah!
 
 704
 00:55:58,817 --> 00:55:59,848
-VocÍ est· bem?
+Voc√™ est√° bem?
 
 705
 00:55:59,997 --> 00:56:01,427
@@ -3073,26 +3073,26 @@ Sim, estou bem!
 
 706
 00:56:03,841 --> 00:56:05,106
-Como vocÍ entrou no edifÌcio?
+Como voc√™ entrou no edif√≠cio?
 
 707
 00:56:05,208 --> 00:56:06,934
-… uma longa estÛria!
-onde est„o as crianÁas?
+√â uma longa est√≥ria!
+onde est√£o as crian√ßas?
 
 708
 00:56:06,981 --> 00:56:09,192
-- Mam„e! Papai!
-- Oh, Deus, vocÍs est„o bem?
+- Mam√£e! Papai!
+- Oh, Deus, voc√™s est√£o bem?
 
 709
 00:56:09,294 --> 00:56:11,067
-- N„o se mexam!
-- Onde est· sua irm„?
+- N√£o se mexam!
+- Onde est√° sua irm√£?
 
 710
 00:56:11,403 --> 00:56:13,544
-Est· no topo do parque
+Est√° no topo do parque
 perto da cachoeira.
 
 711
@@ -3101,8 +3101,8 @@ Papai!
 
 712
 00:56:16,520 --> 00:56:18,215
-Querida, fique bem aÌ,
-o papai est· indo atÈ vocÍ!
+Querida, fique bem a√≠,
+o papai est√° indo at√© voc√™!
 
 713
 00:56:18,246 --> 00:56:19,013
@@ -3130,7 +3130,7 @@ Merda!
 
 719
 00:56:38,757 --> 00:56:40,187
-A ponte est· inst·vel!
+A ponte est√° inst√°vel!
 
 720
 00:56:40,507 --> 00:56:41,890
@@ -3143,7 +3143,7 @@ Ok!
 722
 00:56:42,851 --> 00:56:45,062
 Quando eu te disser, ande,
-solte isso e v· buscar ele, ok?
+solte isso e v√° buscar ele, ok?
 
 723
 00:56:45,126 --> 00:56:46,235
@@ -3152,7 +3152,7 @@ solte isso e v· buscar ele, ok?
 
 724
 00:56:46,290 --> 00:56:47,438
-O que vocÍ vai fazer?
+O que voc√™ vai fazer?
 
 725
 00:56:47,688 --> 00:56:49,477
@@ -3178,19 +3178,19 @@ Ok...
 
 730
 00:57:22,277 --> 00:57:23,425
-Oh, peguei vocÍ!
+Oh, peguei voc√™!
 
 731
 00:57:23,621 --> 00:57:24,613
-Eu peguei vocÍ!
+Eu peguei voc√™!
 
 732
 00:57:25,777 --> 00:57:27,339
-Ok, volte, r·pido!
+Ok, volte, r√°pido!
 
 733
 00:57:28,589 --> 00:57:30,113
-… isso, È isso!
+√â isso, √© isso!
 
 734
 00:57:30,254 --> 00:57:31,754
@@ -3202,28 +3202,28 @@ Ok! Firme e reto!
 
 736
 00:57:47,629 --> 00:57:49,348
-Ok, estamos quase l·!
+Ok, estamos quase l√°!
 
 737
 00:57:53,182 --> 00:57:54,166
-N„o!
+N√£o!
 
 738
 00:57:54,870 --> 00:57:55,823
-Mam„e!
+Mam√£e!
 
 739
 00:57:57,924 --> 00:57:59,510
-VocÍ consegue!
-VocÍ consegue!
+Voc√™ consegue!
+Voc√™ consegue!
 
 740
 00:58:04,801 --> 00:58:05,980
-… isso aÌ, levante!
+√â isso a√≠, levante!
 
 741
 00:58:08,105 --> 00:58:09,551
-N„o posso segurar mais!
+N√£o posso segurar mais!
 
 742
 00:58:09,808 --> 00:58:10,699
@@ -3239,16 +3239,16 @@ Vamos!
 
 745
 00:58:20,879 --> 00:58:22,387
-Will, o que est· acontecendo?
+Will, o que est√° acontecendo?
 
 746
 00:58:22,426 --> 00:58:23,957
-N„o sei, mas tenho que
-tirar vocÍs deste edifÌcio!
+N√£o sei, mas tenho que
+tirar voc√™s deste edif√≠cio!
 
 747
 00:58:24,027 --> 00:58:25,035
-O Henry n„o est· respirando!
+O Henry n√£o est√° respirando!
 
 748
 00:58:25,840 --> 00:58:26,684
@@ -3256,7 +3256,7 @@ Henry!
 
 749
 00:58:30,246 --> 00:58:31,543
-Georgia, j· vou pra aÌ!
+Georgia, j√° vou pra a√≠!
 
 750
 00:58:31,793 --> 00:58:32,949
@@ -3265,38 +3265,38 @@ Ok, papai!
 751
 00:58:43,215 --> 00:58:45,902
 Tudo bem, estes elevadores
-operam com induÁ„o electromagnÈtica!
+operam com indu√ß√£o electromagn√©tica!
 
 752
 00:58:46,035 --> 00:58:47,192
-Quando h· um incÍndio,
+Quando h√° um inc√™ndio,
 
 753
 00:58:47,269 --> 00:58:49,051
-eles s„o mantidos no lugar
-por um freio ‡ prova de falhas!
+eles s√£o mantidos no lugar
+por um freio √† prova de falhas!
 
 754
 00:58:49,944 --> 00:58:51,702
 Quando eu cortar este cabo,
-vocÍs v„o cair!
+voc√™s v√£o cair!
 
 755
 00:58:51,796 --> 00:58:53,030
-O quÍ? Will!
+O qu√™? Will!
 
 756
 00:58:53,296 --> 00:58:54,585
-Est· tudo bem, me escute!
+Est√° tudo bem, me escute!
 
 757
 00:58:54,804 --> 00:58:55,937
-VocÍ vai cair atravÈs do fogo!
+Voc√™ vai cair atrav√©s do fogo!
 
 758
 00:58:56,054 --> 00:58:58,484
-Os Ìm„s v„o recuar quando
-vocÍ passar pela linha de fogo.
+Os √≠m√£s v√£o recuar quando
+voc√™ passar pela linha de fogo.
 
 759
 00:58:59,530 --> 00:59:02,428
@@ -3305,17 +3305,17 @@ pra acionar o sistema de freio!
 
 760
 00:59:02,937 --> 00:59:05,858
-S„o cerca de 150mt daqui
-atÈ a linha de fogo!
+S√£o cerca de 150mt daqui
+at√© a linha de fogo!
 
 761
 00:59:06,015 --> 00:59:07,663
-Quero que conte atÈ cinco
+Quero que conte at√© cinco
 e puxe a alavanca!
 
 762
 00:59:08,202 --> 00:59:09,421
-Isso È loucura!
+Isso √© loucura!
 
 763
 00:59:09,515 --> 00:59:10,616
@@ -3327,7 +3327,7 @@ Ok!
 
 765
 00:59:14,859 --> 00:59:16,711
-- Como est· indo, amigo?
+- Como est√° indo, amigo?
 - Estou com medo!
 
 766
@@ -3342,7 +3342,7 @@ que ter um pouco de medo!
 768
 00:59:21,086 --> 00:59:23,203
 Tudo bem, e preciso que
-vocÍ seja corajoso bem agora!
+voc√™ seja corajoso bem agora!
 
 769
 00:59:23,289 --> 00:59:24,937
@@ -3351,7 +3351,7 @@ vocÍ seja corajoso bem agora!
 
 770
 00:59:25,078 --> 00:59:26,351
-Quero que se segure na sua m„e!
+Quero que se segure na sua m√£e!
 
 771
 00:59:26,867 --> 00:59:28,047
@@ -3383,7 +3383,7 @@ Ok, querido, vamos nos sentar!
 
 778
 00:59:45,011 --> 00:59:46,808
-Vamos nos abraÁar, certo?
+Vamos nos abra√ßar, certo?
 
 779
 00:59:46,878 --> 00:59:47,808
@@ -3391,11 +3391,11 @@ Ok!
 
 780
 00:59:50,167 --> 00:59:51,292
-Eu amo vocÍ!
+Eu amo voc√™!
 
 781
 00:59:51,558 --> 00:59:52,644
-VocÍ È o melhor!
+Voc√™ √© o melhor!
 
 782
 01:00:05,878 --> 01:00:07,018
@@ -3411,7 +3411,7 @@ Quatro...
 
 785
 01:00:12,214 --> 01:00:13,245
-TrÍs...
+Tr√™s...
 
 786
 01:00:15,167 --> 01:00:16,104
@@ -3423,7 +3423,7 @@ Um!
 
 788
 01:00:17,698 --> 01:00:18,690
-M„e!
+M√£e!
 
 789
 01:00:30,428 --> 01:00:31,310
@@ -3435,11 +3435,11 @@ Oh, Deus!
 
 791
 01:00:35,638 --> 01:00:37,490
-Ei, ei, est· tudo bem!
+Ei, ei, est√° tudo bem!
 
 792
 01:00:38,638 --> 01:00:39,553
-Est· tudo bem!
+Est√° tudo bem!
 
 793
 01:00:40,553 --> 01:00:41,803
@@ -3447,7 +3447,7 @@ Somos os mocinhos!
 
 794
 01:00:42,208 --> 01:00:43,115
-VocÍ est· segura!
+Voc√™ est√° segura!
 
 795
 01:00:43,326 --> 01:00:44,240
@@ -3463,7 +3463,7 @@ Papai!
 
 798
 01:01:39,921 --> 01:01:41,062
-Achei vocÍ!
+Achei voc√™!
 
 799
 01:01:41,460 --> 01:01:42,546
@@ -3484,21 +3484,21 @@ Sua Majestade!
 803
 01:02:02,286 --> 01:02:05,247
 Soube que o seu pai sabe
-tudo sobre este edifÌcio!
+tudo sobre este edif√≠cio!
 
 804
 01:02:33,212 --> 01:02:34,665
 Tudo o que me interessa
-È saber o que
+√© saber o que
 
 805
 01:02:34,727 --> 01:02:37,094
-meu parceiro de negÛcios
-mantÈm atr·s dessas portas!
+meu parceiro de neg√≥cios
+mant√©m atr√°s dessas portas!
 
 806
 01:02:37,391 --> 01:02:38,837
-E vocÍ vai conseguir isso pra mim!
+E voc√™ vai conseguir isso pra mim!
 
 807
 01:02:39,258 --> 01:02:40,282
@@ -3506,22 +3506,22 @@ Me escute!
 
 808
 01:02:40,594 --> 01:02:42,602
-A ˙nica forma dessa portas 
-abrirem È por dentro...
+A √∫nica forma dessa portas 
+abrirem √© por dentro...
 
 809
 01:02:42,868 --> 01:02:44,727
-ou se o alarme de incÍndio
+ou se o alarme de inc√™ndio
 neste andar for acionado!
 
 810
 01:02:44,782 --> 01:02:47,289
-Mas isso n„o pode acontecer
-porque vocÍ desligou todo o sistema!
+Mas isso n√£o pode acontecer
+porque voc√™ desligou todo o sistema!
 
 811
 01:02:47,399 --> 01:02:48,485
-Ent„o È isso?
+Ent√£o √© isso?
 
 812
 01:02:48,579 --> 01:02:49,844
@@ -3533,7 +3533,7 @@ Todo homem tem uma fraqueza!
 
 814
 01:02:52,212 --> 01:02:53,399
-… f·cil achar!
+√â f√°cil achar!
 
 815
 01:02:54,172 --> 01:02:56,610
@@ -3542,11 +3542,11 @@ ele ama, pegou ele!
 
 816
 01:02:56,735 --> 01:02:58,360
-Zhao, ele ama este edifÌcio!
+Zhao, ele ama este edif√≠cio!
 
 817
 01:02:59,047 --> 01:02:59,922
-E vocÍ,
+E voc√™,
 
 818
 01:03:00,047 --> 01:03:01,297
@@ -3554,11 +3554,11 @@ sua fraqueza...
 
 819
 01:03:01,751 --> 01:03:03,040
-È sua famÌlia!
+√© sua fam√≠lia!
 
 820
 01:03:03,938 --> 01:03:05,751
-Ent„o agora, vamos descobrir
+Ent√£o agora, vamos descobrir
 
 821
 01:03:05,938 --> 01:03:07,063
@@ -3566,7 +3566,7 @@ o quanto
 
 822
 01:03:07,321 --> 01:03:08,719
-vocÍ ama sua famÌlia, Will!
+voc√™ ama sua fam√≠lia, Will!
 
 823
 01:03:08,946 --> 01:03:09,985
@@ -3575,7 +3575,7 @@ Me escute...
 824
 01:03:10,118 --> 01:03:12,477
 Abrir as portas por este
-andar, n„o pode ser feito!
+andar, n√£o pode ser feito!
 
 825
 01:03:14,032 --> 01:03:15,946
@@ -3583,11 +3583,11 @@ Tudo pode ser feito
 
 826
 01:03:16,180 --> 01:03:17,790
-com a devida motivaÁ„o!
+com a devida motiva√ß√£o!
 
 827
 01:03:19,532 --> 01:03:20,828
-N„o, n„o, n„o, n„o, n„o!
+N√£o, n√£o, n√£o, n√£o, n√£o!
 
 828
 01:03:20,969 --> 01:03:21,915
@@ -3595,20 +3595,20 @@ Papai!
 
 829
 01:03:22,008 --> 01:03:23,376
-N„o machuque ele, pare!
+N√£o machuque ele, pare!
 
 830
 01:03:30,594 --> 01:03:31,946
-Ok, chor„o!
+Ok, chor√£o!
 
 831
 01:03:33,001 --> 01:03:34,266
-VocÍ vai trazer o Zhao
+Voc√™ vai trazer o Zhao
 
 832
 01:03:34,360 --> 01:03:36,415
-e o que ele mantÈm
-atr·s dessas portas, pra mim!
+e o que ele mant√©m
+atr√°s dessas portas, pra mim!
 
 833
 01:03:40,021 --> 01:03:42,264
@@ -3617,12 +3617,12 @@ filha da porra do telhado!
 
 834
 01:03:50,777 --> 01:03:52,316
-Ouvi dizer que È como 
-o cÈu l· em cima!
+Ouvi dizer que √© como 
+o c√©u l√° em cima!
 
 835
 01:03:56,012 --> 01:03:57,934
-N„o, n„o, n„o, papai!
+N√£o, n√£o, n√£o, papai!
 
 836
 01:04:05,606 --> 01:04:07,215
@@ -3630,12 +3630,12 @@ Direto pro telhado, meninos!
 
 837
 01:04:07,356 --> 01:04:08,942
-N„o vamos esperar 
+N√£o vamos esperar 
 por aqui pra queimar!
 
 838
 01:04:09,014 --> 01:04:09,975
-N„o!
+N√£o!
 
 839
 01:04:10,538 --> 01:04:12,389
@@ -3662,13 +3662,13 @@ Georgia!
 
 845
 01:04:42,560 --> 01:04:46,036
-<i>A destruiÁ„o da Torre PÈrola
+<i>A destrui√ß√£o da Torre P√©rola
 de Zhao Long Ji.</i>
 
 846
 01:04:47,342 --> 01:04:50,372
-<i>Estamos recebendo informaÁıes
-de atividades no tÈrreo do edifÌcio!</i>
+<i>Estamos recebendo informa√ß√µes
+de atividades no t√©rreo do edif√≠cio!</i>
 
 847
 01:04:51,391 --> 01:04:53,626
@@ -3677,12 +3677,12 @@ de atividades no tÈrreo do edifÌcio!</i>
 848
 01:04:53,704 --> 01:04:56,727
 <i>onde podemos ter alguns
-sobreviventes saindo do edifÌcio!</i>
+sobreviventes saindo do edif√≠cio!</i>
 
 849
 01:04:56,788 --> 01:04:59,336
-<i>… difÌcil imaginar como
-alguÈm pode ter sobrevivido</i>
+<i>√â dif√≠cil imaginar como
+algu√©m pode ter sobrevivido</i>
 
 850
 01:04:59,399 --> 01:05:01,082
@@ -3695,25 +3695,25 @@ andares superiores!</i>
 
 852
 01:05:05,352 --> 01:05:06,501
-<i>Meu pai est· l· dentro!
+<i>Meu pai est√° l√° dentro!
 Ele nos salvou!</i>
 
 853
 01:05:07,618 --> 01:05:08,602
-<i>Ele ainda est· dentro!</i>
+<i>Ele ainda est√° dentro!</i>
 
 854
 01:05:09,102 --> 01:05:10,180
-<i>Ele È um cara legal!</i>
+<i>Ele √© um cara legal!</i>
 
 855
 01:05:11,229 --> 01:05:13,760
 <i>Parece que esta pode ser
-a famÌlia de William Sawyer,</i>
+a fam√≠lia de William Sawyer,</i>
 
 856
 01:05:13,934 --> 01:05:16,098
-<i>o consultor americano de seguranÁa...</i>
+<i>o consultor americano de seguran√ßa...</i>
 
 857
 01:05:17,434 --> 01:05:18,433
@@ -3726,7 +3726,7 @@ abrir estas portas!
 
 859
 01:05:20,396 --> 01:05:22,911
-Onde vocÍ pos os painÈis de
+Onde voc√™ pos os pain√©is de
 subrotina que controla elas?
 
 860
@@ -3735,11 +3735,11 @@ Onde as escondeu, Zhao?
 
 861
 01:05:28,536 --> 01:05:30,076
-Atr·s das turbinas!
+Atr√°s das turbinas!
 
 862
 01:05:30,404 --> 01:05:31,576
-Oh, qual È, cara!
+Oh, qual √©, cara!
 
 863
 01:05:42,556 --> 01:05:43,493
@@ -3747,15 +3747,15 @@ Merda!
 
 864
 01:05:43,694 --> 01:05:44,890
-Ent„o vocÍ escapou!
+Ent√£o voc√™ escapou!
 
 865
 01:05:44,984 --> 01:05:46,273
-Como vocÍ saiu do edifÌcio?
+Como voc√™ saiu do edif√≠cio?
 
 866
 01:05:46,569 --> 01:05:47,624
-VocÍ pode comentar?
+Voc√™ pode comentar?
 
 867
 01:05:51,741 --> 01:05:52,593
@@ -3763,22 +3763,22 @@ Senhor...
 
 868
 01:05:57,030 --> 01:05:59,452
-E vocÍ alega que seu marido
-n„o est· envolvido?
+E voc√™ alega que seu marido
+n√£o est√° envolvido?
 
 869
 01:05:59,663 --> 01:06:01,850
-N„o È uma alegaÁ„o!
-Ele n„o est· envolvido!
+N√£o √© uma alega√ß√£o!
+Ele n√£o est√° envolvido!
 
 870
 01:06:02,600 --> 01:06:04,554
-Quantos deles vocÍ diz ter visto?
+Quantos deles voc√™ diz ter visto?
 
 871
 01:06:05,639 --> 01:06:07,655
 Um de terno, outros
-dois de macac„o!
+dois de macac√£o!
 
 872
 01:06:07,780 --> 01:06:10,038
@@ -3795,16 +3795,16 @@ Escandinavo, eu acho!
 
 875
 01:06:17,944 --> 01:06:20,694
-AlÌ! Linha de cima,
+Al√≠! Linha de cima,
 segundo da direita!
 
 876
 01:06:21,507 --> 01:06:22,725
-Este È o homem que viu?
+Este √© o homem que viu?
 
 877
 01:06:22,835 --> 01:06:24,600
-… ele! Quem È ele?
+√â ele! Quem √© ele?
 
 878
 01:06:25,046 --> 01:06:27,569
@@ -3812,12 +3812,12 @@ Kores Botha, ex-militar!
 
 879
 01:06:28,093 --> 01:06:29,694
-Tem uma equipe desagrad·vel
-com ele, tambÈm!
+Tem uma equipe desagrad√°vel
+com ele, tamb√©m!
 
 880
 01:06:29,983 --> 01:06:32,272
-ServiÁo de qualidade para
+Servi√ßo de qualidade para
 3 diferentes sindicatos do crime!
 
 881
@@ -3826,11 +3826,11 @@ Senhor!
 
 882
 01:06:35,772 --> 01:06:37,147
-Algo est· errado!
+Algo est√° errado!
 
 883
 01:06:37,444 --> 01:06:39,007
-Este n„o È o modo de
+Este n√£o √© o modo de
 agir do Botha!
 
 884
@@ -3841,7 +3841,7 @@ era extorquir o Zhao,
 885
 01:06:42,577 --> 01:06:45,112
 porque se prender num
-edificÌo sem saÌda?
+edific√≠o sem sa√≠da?
 
 886
 01:06:45,569 --> 01:06:46,796
@@ -3849,7 +3849,7 @@ Isso faz sentido?
 
 887
 01:06:47,177 --> 01:06:48,740
-Eles v„o pular fora!
+Eles v√£o pular fora!
 
 888
 01:06:51,443 --> 01:06:52,458
@@ -3857,7 +3857,7 @@ Desculpe?
 
 889
 01:06:52,615 --> 01:06:54,052
-Um deles est· levando
+Um deles est√° levando
 uma caixa
 
 890
@@ -3874,26 +3874,26 @@ Procure!
 
 893
 01:08:43,362 --> 01:08:44,627
-Este È A PÈrola!
+Este √© A P√©rola!
 
 894
 01:08:45,365 --> 01:08:48,279
 Um base jump de 1.000 metros
-que te d· por
+que te d√° por
 
 895
 01:08:48,342 --> 01:08:50,232
 volta de 2 quilometros
-de dist‚ncia em descida.
+de dist√¢ncia em descida.
 
 896
 01:08:50,303 --> 01:08:51,560
-Agora, se vocÍ estiver certa,
+Agora, se voc√™ estiver certa,
 
 897
 01:08:51,717 --> 01:08:53,803
-eles pousar„o em algum lugar
-dentro deste cÌrculo.
+eles pousar√£o em algum lugar
+dentro deste c√≠rculo.
 
 898
 01:08:54,201 --> 01:08:57,404
@@ -3902,17 +3902,17 @@ plano, isolado!
 
 899
 01:08:57,592 --> 01:08:59,052
-Eles n„o poderiam
-ir pro Parque VitÛria,
+Eles n√£o poderiam
+ir pro Parque Vit√≥ria,
 
 900
 01:08:59,092 --> 01:09:01,185
-tÍm muitas ·rvores 
+t√™m muitas √°rvores 
 pra ficar preso!
 
 901
 01:09:01,318 --> 01:09:03,123
-Sul...eles n„o venceriam o pico!
+Sul...eles n√£o venceriam o pico!
 
 902
 01:09:03,240 --> 01:09:05,920
@@ -3920,21 +3920,21 @@ Norte...talvez!
 
 903
 01:09:06,060 --> 01:09:07,701
-Mas È mais demorado pra
+Mas √© mais demorado pra
 um lugar aberto.
 
 904
 01:09:08,432 --> 01:09:09,791
-Que tal isso, o que È isso?
+Que tal isso, o que √© isso?
 
 905
 01:09:10,143 --> 01:09:12,197
-Isso n„o È nada! … uma
-·rea de construÁ„o!
+Isso n√£o √© nada! √â uma
+√°rea de constru√ß√£o!
 
 906
 01:09:12,432 --> 01:09:13,455
-Dragagem da baÌa!
+Dragagem da ba√≠a!
 
 907
 01:09:18,449 --> 01:09:19,238
@@ -3942,8 +3942,8 @@ Senhor...
 
 908
 01:09:19,354 --> 01:09:20,925
-N„o tenho certeza se podemos
-usar esta informaÁ„o!
+N√£o tenho certeza se podemos
+usar esta informa√ß√£o!
 
 909
 01:09:21,151 --> 01:09:24,253
@@ -3953,11 +3953,11 @@ trabalhando com eles!
 910
 01:09:24,691 --> 01:09:27,496
 Acha que eu prenderia de bom grado 
-meus filhos num prÈdio em chamas?
+meus filhos num pr√©dio em chamas?
 
 911
 01:09:27,605 --> 01:09:28,949
-Acho que vocÍ poderia estar
+Acho que voc√™ poderia estar
 representando um papel!
 
 912
@@ -3967,12 +3967,12 @@ do plano do seu marido!
 
 913
 01:09:33,232 --> 01:09:34,225
-Me leve atÈ l·!
+Me leve at√© l√°!
 
 914
 01:09:34,333 --> 01:09:37,076
 Se eu estiver errada e estiver 
-vazio, ent„o o que perdemos?
+vazio, ent√£o o que perdemos?
 
 915
 01:09:37,170 --> 01:09:38,217
@@ -3980,17 +3980,17 @@ Mas se eu estiver certa,
 
 916
 01:09:38,247 --> 01:09:39,435
-esta pode ser sua ˙nica
+esta pode ser sua √∫nica
 chance de pegar
 
 917
 01:09:39,528 --> 01:09:41,380
-as pessoas respons·veis
+as pessoas respons√°veis
 por essa coisa toda!
 
 918
 01:09:43,927 --> 01:09:45,576
-Minha famÌlia est· l· dentro!
+Minha fam√≠lia est√° l√° dentro!
 
 919
 01:09:46,943 --> 01:09:48,076
@@ -4006,7 +4006,7 @@ Vai, querido, vai!
 
 922
 01:12:13,415 --> 01:12:15,165
-Dois, trÍs!
+Dois, tr√™s!
 
 923
 01:12:15,379 --> 01:12:16,222
@@ -4018,7 +4018,7 @@ Dois!
 
 925
 01:12:17,410 --> 01:12:18,433
-TrÍs!
+Tr√™s!
 
 926
 01:12:25,999 --> 01:12:27,335
@@ -4026,8 +4026,8 @@ Ok, calma!
 
 927
 01:12:27,514 --> 01:12:30,452
-Corte o cabo, as portas abrir„o,
-suba de volta l· em cima!
+Corte o cabo, as portas abrir√£o,
+suba de volta l√° em cima!
 
 928
 01:12:35,633 --> 01:12:36,586
@@ -4039,8 +4039,8 @@ Merda!
 
 930
 01:14:29,277 --> 01:14:31,675
-Pra vocÍ, isso parece
-alguÈm com um plano?
+Pra voc√™, isso parece
+algu√©m com um plano?
 
 931
 01:14:32,082 --> 01:14:33,535
@@ -4052,15 +4052,15 @@ Vamos!
 
 933
 01:15:11,919 --> 01:15:13,458
-N„o se mexa!
+N√£o se mexa!
 
 934
 01:15:19,885 --> 01:15:21,026
-VocÍ est· muito perto!
+Voc√™ est√° muito perto!
 
 935
 01:15:21,627 --> 01:15:22,463
-O quÍ?
+O qu√™?
 
 936
 01:15:28,060 --> 01:15:29,326
@@ -4073,41 +4073,41 @@ que sair daqui,
 
 938
 01:15:37,646 --> 01:15:38,911
-vocÍ vai ter que me 
+voc√™ vai ter que me 
 dizer a verdade!
 
 939
 01:15:39,692 --> 01:15:41,817
 Como um homem assim te
-chama de parceiro de negÛcios?
+chama de parceiro de neg√≥cios?
 
 940
 01:15:42,161 --> 01:15:43,716
-O nome dele È Kores Botha!
+O nome dele √© Kores Botha!
 
 941
 01:15:43,880 --> 01:15:46,544
-Ele comanda extorÁ„o para 3
+Ele comanda extor√ß√£o para 3
 poderosos sindicatos do crime!
 
 942
 01:15:47,255 --> 01:15:48,965
 E quando comecei a
-construÁ„o no A PÈrola,
+constru√ß√£o no A P√©rola,
 
 943
 01:15:49,005 --> 01:15:50,255
-O Botha veio atÈ mim!
+O Botha veio at√© mim!
 
 944
 01:15:50,474 --> 01:15:51,802
-Ele disse que se eu n„o
+Ele disse que se eu n√£o
 pagasse ele,
 
 945
 01:15:51,888 --> 01:15:53,294
 ele iria aleijar minha
-forÁa de trabalho
+for√ßa de trabalho
 
 946
 01:15:53,411 --> 01:15:55,606
@@ -4116,31 +4116,31 @@ concluir esse lugar!
 
 947
 01:15:55,640 --> 01:15:56,921
-- VocÍ pagou ele?
+- Voc√™ pagou ele?
 - Sim!
 
 948
 01:15:57,054 --> 01:15:58,413
-Mas o que ele n„o sabe È que
+Mas o que ele n√£o sabe √© que
 
 949
 01:15:58,460 --> 01:16:01,007
 eu escondi um programa rastreador
-dentro da transferÍncia banc·ria!
+dentro da transfer√™ncia banc√°ria!
 
 950
 01:16:01,389 --> 01:16:04,545
 Como Botha lavou meus pagamentos
-atravÈs de contas no exterior,
+atrav√©s de contas no exterior,
 
 951
 01:16:04,788 --> 01:16:06,968
 sou capaz de rastrear
-cada transaÁ„o,
+cada transa√ß√£o,
 
 952
 01:16:07,124 --> 01:16:09,445
-me dando suas contas banc·rias,
+me dando suas contas banc√°rias,
 seus nomes,
 
 953
@@ -4149,11 +4149,11 @@ suas identidades!
 
 954
 01:16:11,535 --> 01:16:13,254
-Esta era minha apÛlice de seguro!
+Esta era minha ap√≥lice de seguro!
 
 955
 01:16:13,582 --> 01:16:16,238
-O Botha nunca mais ser· capaz
+O Botha nunca mais ser√° capaz
 de me extorquir dinheiro de novo!
 
 956
@@ -4163,17 +4163,17 @@ que estavam comprometidos,
 
 957
 01:16:19,488 --> 01:16:22,464
-eles ameaÁaram destruir o Botha
-se ele n„o limpasse sua bagunÁa!
+eles amea√ßaram destruir o Botha
+se ele n√£o limpasse sua bagun√ßa!
 
 958
 01:16:23,269 --> 01:16:26,457
-Se ele me matar, as cÛpias que eu 
-fiz ser„o enviadas ‡s autoridades.
+Se ele me matar, as c√≥pias que eu 
+fiz ser√£o enviadas √†s autoridades.
 
 959
 01:16:27,051 --> 01:16:29,254
-Mas se ele pÙr as m„os nisso,
+Mas se ele p√¥r as m√£os nisso,
 o original,
 
 960
@@ -4184,26 +4184,26 @@ reversa do meu software
 961
 01:16:31,879 --> 01:16:34,496
 e esconder as identidades
-antes que alguÈm saiba!
+antes que algu√©m saiba!
 
 962
 01:16:34,876 --> 01:16:36,344
-Ent„o ele ateou fogo
-no prÈdio todo,
+Ent√£o ele ateou fogo
+no pr√©dio todo,
 
 963
 01:16:36,423 --> 01:16:37,485
-sabendo que vocÍ levaria
+sabendo que voc√™ levaria
 
 964
 01:16:37,579 --> 01:16:39,813
-com vocÍ a coisa mais 
+com voc√™ a coisa mais 
 valiosa no mundo, ao fugir!
 
 965
 01:16:39,915 --> 01:16:41,946
 - E o plano dele deu certo!
-- Ainda n„o deu!
+- Ainda n√£o deu!
 
 966
 01:16:44,710 --> 01:16:46,343
@@ -4225,8 +4225,8 @@ Mas ele tem a minha filha!
 
 970
 01:16:56,476 --> 01:16:58,663
-A vida dela È o que me 
-importa, n„o a minha!
+A vida dela √© o que me 
+importa, n√£o a minha!
 
 971
 01:17:00,670 --> 01:17:02,365
@@ -4235,11 +4235,11 @@ pro telhado!
 
 972
 01:17:03,115 --> 01:17:04,873
-VocÍ pode estar junto ou n„o!
+Voc√™ pode estar junto ou n√£o!
 
 973
 01:17:05,701 --> 01:17:07,045
-… sua escolha, Zhao!
+√â sua escolha, Zhao!
 
 974
 01:17:08,545 --> 01:17:09,490
@@ -4247,7 +4247,7 @@ Tudo bem!
 
 975
 01:17:11,131 --> 01:17:12,451
-Ent„o, qual È o plano?
+Ent√£o, qual √© o plano?
 
 976
 01:17:17,717 --> 01:17:19,053
@@ -4265,15 +4265,15 @@ Eu sabia que daria um jeito!
 
 979
 01:18:08,632 --> 01:18:10,046
-VocÍ tem o que È meu!
+Voc√™ tem o que √© meu!
 
 980
 01:18:10,702 --> 01:18:11,968
-E tenho o que È seu!
+E tenho o que √© seu!
 
 981
 01:18:13,507 --> 01:18:14,702
-Me dÍ o disco
+Me d√™ o disco
 
 982
 01:18:15,085 --> 01:18:16,359
@@ -4281,16 +4281,16 @@ e traga o Zhao!
 
 983
 01:18:17,109 --> 01:18:18,718
-N„o! Primeiro minha filha!
+N√£o! Primeiro minha filha!
 
 984
 01:18:20,460 --> 01:18:21,757
-N„o posso te deixar fazer isso!
+N√£o posso te deixar fazer isso!
 
 985
 01:18:21,937 --> 01:18:23,257
-O que est· fazendo?
-Este n„o È o plano!
+O que est√° fazendo?
+Este n√£o √© o plano!
 
 986
 01:18:23,351 --> 01:18:24,312
@@ -4299,7 +4299,7 @@ Vire-se!
 987
 01:18:24,687 --> 01:18:26,624
 Ele pegou minha filha,
-por favor n„o faÁa isso!
+por favor n√£o fa√ßa isso!
 
 988
 01:18:26,663 --> 01:18:27,843
@@ -4315,19 +4315,19 @@ Precisa de mim vivo!
 
 991
 01:18:33,273 --> 01:18:34,843
-Um paraquedas ou vocÍ
-n„o tem nada!
+Um paraquedas ou voc√™
+n√£o tem nada!
 
 992
 01:18:34,929 --> 01:18:35,960
-DÍ o seu paraquedas pra ele!
+D√™ o seu paraquedas pra ele!
 
 993
 01:18:36,030 --> 01:18:36,772
 
 994
 01:18:37,538 --> 01:18:39,515
-DÍ o seu paraquedas pra ele!
+D√™ o seu paraquedas pra ele!
 
 995
 01:18:46,450 --> 01:18:47,520
@@ -4347,11 +4347,11 @@ Venha! Traga o disco!
 
 999
 01:18:56,332 --> 01:18:57,520
-… isso que quer?
+√â isso que quer?
 
 1000
 01:18:59,942 --> 01:19:00,957
-V· buscar!
+V√° buscar!
 
 1001
 01:19:02,184 --> 01:19:03,239
@@ -4371,20 +4371,20 @@ Papai!
 
 1005
 01:20:29,261 --> 01:20:30,332
-Parece que vocÍ estava certa!
+Parece que voc√™ estava certa!
 
 1006
 01:20:30,425 --> 01:20:32,285
-Temos suspeitos armados ‡ frente!
+Temos suspeitos armados √† frente!
 
 1007
 01:20:32,589 --> 01:20:33,472
-… a polÌcia!
+√â a pol√≠cia!
 
 1008
 01:20:47,252 --> 01:20:48,471
 Fique abaixada!
-N„o saia do carro!
+N√£o saia do carro!
 
 1009
 01:21:44,631 --> 01:21:45,388
@@ -4392,7 +4392,7 @@ Obrigado!
 
 1010
 01:21:45,490 --> 01:21:46,740
-VocÍ quase me convenceu l· fora!
+Voc√™ quase me convenceu l√° fora!
 
 1011
 01:21:47,138 --> 01:21:48,381
@@ -4400,7 +4400,7 @@ Vamos achar a sua filha!
 
 1012
 01:22:01,920 --> 01:22:03,342
-V„o, v„o, v„o!
+V√£o, v√£o, v√£o!
 
 1013
 01:23:21,591 --> 01:23:22,348
@@ -4408,11 +4408,11 @@ Ei!
 
 1014
 01:23:42,963 --> 01:23:43,877
-V· pegar ela!
+V√° pegar ela!
 
 1015
 01:23:45,525 --> 01:23:46,799
-Vou voltar por vocÍ!
+Vou voltar por voc√™!
 
 1016
 01:24:14,410 --> 01:24:15,340
@@ -4424,7 +4424,7 @@ Vire-se, agora!
 
 1018
 01:24:25,952 --> 01:24:26,835
-VocÍ atira em mim,
+Voc√™ atira em mim,
 
 1019
 01:24:27,069 --> 01:24:29,069
@@ -4440,7 +4440,7 @@ Desarme! Agora!
 
 1022
 01:24:38,417 --> 01:24:40,299
-N„o, por favor! Papai!
+N√£o, por favor! Papai!
 
 1023
 01:24:43,354 --> 01:24:44,307
@@ -4448,7 +4448,7 @@ Tudo bem!
 
 1024
 01:24:46,463 --> 01:24:47,455
-VocÍ venceu!
+Voc√™ venceu!
 
 1025
 01:24:54,323 --> 01:24:55,510
@@ -4477,7 +4477,7 @@ O que?
 
 1031
 01:25:07,174 --> 01:25:08,456
-Estou atr·s de vocÍ!
+Estou atr√°s de voc√™!
 
 1032
 01:25:19,734 --> 01:25:21,225
@@ -4489,38 +4489,38 @@ Te peguei!
 
 1034
 01:25:22,773 --> 01:25:23,905
-O papai pegou vocÍ!
+O papai pegou voc√™!
 
 1035
 01:25:27,902 --> 01:25:28,793
-O que È isso?
+O que √© isso?
 
 1036
 01:25:28,933 --> 01:25:30,261
-Eu n„o sei!
+Eu n√£o sei!
 Ela tinha isso nela!
 
 1037
 01:25:34,667 --> 01:25:36,448
-Parece que isso controla o edifÌcio!
+Parece que isso controla o edif√≠cio!
 
 1038
 01:25:36,657 --> 01:25:38,258
-Ei, vamos esperar por alguÈm
-que saiba o que est„o fazendo!
+Ei, vamos esperar por algu√©m
+que saiba o que est√£o fazendo!
 
 1039
 01:25:38,315 --> 01:25:39,690
 Meu marido e minha filha
-est„o naquele edifÌcio!
+est√£o naquele edif√≠cio!
 
 1040
 01:25:39,753 --> 01:25:40,706
-Est· pegando fogo bem agora!
+Est√° pegando fogo bem agora!
 
 1041
 01:25:40,784 --> 01:25:42,292
-N„o vou esperar outro
+N√£o vou esperar outro
 maldito segundo!
 
 1042
@@ -4536,7 +4536,7 @@ fique abaixada!
 1044
 01:25:54,439 --> 01:25:56,024
 Vou achar um jeito de
-saÌrmos daqui!
+sa√≠rmos daqui!
 
 1045
 01:25:56,071 --> 01:25:56,884
@@ -4544,20 +4544,20 @@ Ok!
 
 1046
 01:26:03,306 --> 01:26:04,321
-O que est· fazendo?
+O que est√° fazendo?
 
 1047
 01:26:05,032 --> 01:26:06,806
 Estou tentando religar os 
-sistemas anti-incÍndio!
+sistemas anti-inc√™ndio!
 
 1048
 01:26:06,938 --> 01:26:08,047
-Est· dando certo?
+Est√° dando certo?
 
 1049
 01:26:08,586 --> 01:26:09,625
-Ainda n„o!
+Ainda n√£o!
 
 1050
 01:26:22,548 --> 01:26:23,337
@@ -4577,16 +4577,16 @@ Vamos!
 
 1054
 01:26:31,024 --> 01:26:32,204
-O papai pegou vocÍ!
+O papai pegou voc√™!
 
 1055
 01:26:33,094 --> 01:26:35,821
-O papai pegou vocÍ!
-O papai pegou vocÍ!
+O papai pegou voc√™!
+O papai pegou voc√™!
 
 1056
 01:26:40,289 --> 01:26:41,391
-Peguei vocÍ!
+Peguei voc√™!
 
 1057
 01:26:41,915 --> 01:26:43,282
@@ -4606,7 +4606,7 @@ O papai te ama!
 
 1061
 01:26:47,285 --> 01:26:49,105
-O pa..papai ama vocÍ!
+O pa..papai ama voc√™!
 
 1062
 01:26:52,176 --> 01:26:53,340
@@ -4622,12 +4622,12 @@ Deu certo!
 
 1065
 01:28:44,565 --> 01:28:45,885
-Como vocÍ fez isso?
+Como voc√™ fez isso?
 
 1066
 01:28:46,315 --> 01:28:48,956
 Eu reiniciei os sistemas de 
-controle para todo o edifÌcio!
+controle para todo o edif√≠cio!
 
 1067
 01:28:51,448 --> 01:28:52,924
@@ -4647,7 +4647,7 @@ Aqui!
 
 1071
 01:29:56,785 --> 01:29:58,051
-O que vocÍ vai fazer agora?
+O que voc√™ vai fazer agora?
 
 1072
 01:30:02,465 --> 01:30:03,480
@@ -4663,7 +4663,7 @@ Sarah...
 
 1075
 01:30:36,246 --> 01:30:37,464
-AlguÈm viu minha esposa?
+Algu√©m viu minha esposa?
 
 1076
 01:30:39,007 --> 01:30:40,062
@@ -4687,7 +4687,7 @@ Sarah!
 
 1081
 01:31:14,845 --> 01:31:15,907
-M„e!
+M√£e!
 
 1082
 01:31:22,048 --> 01:31:22,938
@@ -4695,15 +4695,15 @@ Pai!
 
 1083
 01:31:29,696 --> 01:31:30,766
-VocÍ est· bem?
+Voc√™ est√° bem?
 
 1084
 01:31:31,196 --> 01:31:32,235
-Est· ferida?
+Est√° ferida?
 
 1085
 01:31:32,290 --> 01:31:34,259
-- N„o!
+- N√£o!
 - Estou bem, pai!
 
 1086
@@ -4716,15 +4716,15 @@ Eu te amo!
 
 1088
 01:31:43,009 --> 01:31:44,610
-TambÈm te amo!
+Tamb√©m te amo!
 
 1089
 01:31:52,009 --> 01:31:53,571
-VocÍ precisa mesmo de um banho!
+Voc√™ precisa mesmo de um banho!
 
 1090
 01:31:57,282 --> 01:31:58,485
-…, preciso!
+√â, preciso!
 
 1091
 01:32:01,539 --> 01:32:03,102
@@ -4738,11 +4738,11 @@ Will Sawyer!
 1093
 01:32:06,452 --> 01:32:07,875
 Que bom finalmente
-conhecer vocÍ!
+conhecer voc√™!
 
 1094
 01:32:09,148 --> 01:32:10,586
-VocÍ tem uma bela famÌlia aÌ!
+Voc√™ tem uma bela fam√≠lia a√≠!
 
 1095
 01:32:14,593 --> 01:32:15,757
@@ -4754,341 +4754,341 @@ Legendas pt/BR by Cross65
 
 1097
 01:32:41,030 --> 01:32:43,413
-∂ Been a hard time, my dear ∂
+¬∂ Been a hard time, my dear ¬∂
 
 1098
 01:32:47,906 --> 01:32:51,109
-∂ And I know oh-oh ∂
+¬∂ And I know oh-oh ¬∂
 
 1099
 01:32:52,264 --> 01:32:55,170
-∂ It's been a long
-time, my dear ∂
+¬∂ It's been a long
+time, my dear ¬∂
 
 1100
 01:32:58,088 --> 01:33:00,471
-∂ But I will be a savior ∂
+¬∂ But I will be a savior ¬∂
 
 1101
 01:33:01,049 --> 01:33:03,323
-∂ Biding through
-the flames, yeah ∂
+¬∂ Biding through
+the flames, yeah ¬∂
 
 1102
 01:33:03,635 --> 01:33:05,573
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1103
 01:33:06,432 --> 01:33:08,526
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1104
 01:33:09,643 --> 01:33:11,979
-∂ I will be a savior ∂
+¬∂ I will be a savior ¬∂
 
 1105
 01:33:12,159 --> 01:33:14,729
-∂ Fighting through
-the flames, yeah ∂
+¬∂ Fighting through
+the flames, yeah ¬∂
 
 1106
 01:33:14,932 --> 01:33:16,932
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1107
 01:33:17,768 --> 01:33:19,916
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1108
 01:33:20,494 --> 01:33:22,643
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1109
 01:33:22,960 --> 01:33:25,901
-∂ Down, down, down, down ∂
+¬∂ Down, down, down, down ¬∂
 
 1110
 01:33:26,251 --> 01:33:28,400
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1111
 01:33:28,579 --> 01:33:31,236
-∂ Down, down, down, down ∂
+¬∂ Down, down, down, down ¬∂
 
 1112
 01:33:31,868 --> 01:33:34,095
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1113
 01:33:34,368 --> 01:33:36,837
-∂ Down, down, down, down ∂
+¬∂ Down, down, down, down ¬∂
 
 1114
 01:33:37,376 --> 01:33:39,720
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1115
 01:33:39,907 --> 01:33:42,712
-∂ Down, down, down, down ∂
+¬∂ Down, down, down, down ¬∂
 
 1116
 01:33:43,204 --> 01:33:45,829
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1117
 01:33:46,889 --> 01:33:50,107
-∂ Oh, my love ∂
+¬∂ Oh, my love ¬∂
 
 1118
 01:33:51,662 --> 01:33:54,357
-∂ Won't you take my hand? ∂
+¬∂ Won't you take my hand? ¬∂
 
 1119
 01:33:58,033 --> 01:34:01,604
-∂ Oh, my love ∂
+¬∂ Oh, my love ¬∂
 
 1120
 01:34:02,963 --> 01:34:05,283
-∂ Won't you understand? ∂
+¬∂ Won't you understand? ¬∂
 
 1121
 01:34:08,911 --> 01:34:11,114
-∂ That I will be a savior ∂
+¬∂ That I will be a savior ¬∂
 
 1122
 01:34:11,684 --> 01:34:14,012
-∂ Biding through
-the flames, yeah ∂
+¬∂ Biding through
+the flames, yeah ¬∂
 
 1123
 01:34:14,371 --> 01:34:16,411
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1124
 01:34:17,103 --> 01:34:19,267
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1125
 01:34:20,290 --> 01:34:22,329
-∂ I will be a savior ∂
+¬∂ I will be a savior ¬∂
 
 1126
 01:34:23,173 --> 01:34:25,345
-∂ Fighting through
-the flames, yeah ∂
+¬∂ Fighting through
+the flames, yeah ¬∂
 
 1127
 01:34:25,681 --> 01:34:27,798
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1128
 01:34:28,376 --> 01:34:30,501
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1129
 01:34:31,189 --> 01:34:33,423
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1130
 01:34:33,681 --> 01:34:36,267
-∂ Down, down, down, down ∂
+¬∂ Down, down, down, down ¬∂
 
 1131
 01:34:36,782 --> 01:34:39,048
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1132
 01:34:39,212 --> 01:34:41,853
-∂ Down, down, down, down ∂
+¬∂ Down, down, down, down ¬∂
 
 1133
 01:34:42,540 --> 01:34:44,736
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1134
 01:34:44,892 --> 01:34:47,423
-∂ Down, down, down, down ∂
+¬∂ Down, down, down, down ¬∂
 
 1135
 01:34:47,883 --> 01:34:50,337
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1136
 01:34:50,509 --> 01:34:53,290
-∂ Down, down, down, down ∂
+¬∂ Down, down, down, down ¬∂
 
 1137
 01:34:53,564 --> 01:34:56,501
-∂ When the walls
-come falling down ∂
+¬∂ When the walls
+come falling down ¬∂
 
 1138
 01:35:27,935 --> 01:35:33,263
-∂ Been sittin' on a feeling
-trying to figure it out ∂
+¬∂ Been sittin' on a feeling
+trying to figure it out ¬∂
 
 1139
 01:35:38,771 --> 01:35:44,638
-∂ It's difficult seeing
-through those clouds ∂
+¬∂ It's difficult seeing
+through those clouds ¬∂
 
 1140
 01:35:49,619 --> 01:35:52,127
-∂ Hold on, hold on ∂
+¬∂ Hold on, hold on ¬∂
 
 1141
 01:35:52,354 --> 01:35:54,908
-∂ You're not done yet ∂
+¬∂ You're not done yet ¬∂
 
 1142
 01:35:54,996 --> 01:35:57,652
-∂ Hold on, hold on ∂
+¬∂ Hold on, hold on ¬∂
 
 1143
 01:35:57,801 --> 01:35:59,762
-∂ The sun has not set ∂
+¬∂ The sun has not set ¬∂
 
 1144
 01:35:59,995 --> 01:36:02,971
-∂ I will not sit and wait for ∂
+¬∂ I will not sit and wait for ¬∂
 
 1145
 01:36:03,127 --> 01:36:05,659
-∂ A break in the clouds ∂
+¬∂ A break in the clouds ¬∂
 
 1146
 01:36:05,804 --> 01:36:10,655
-∂ A-ha, a-ha, a-ha, ah ∂
+¬∂ A-ha, a-ha, a-ha, ah ¬∂
 
 1147
 01:36:10,848 --> 01:36:16,588
-∂ I'll carry on through the
-rainstorm without you now ∂
+¬∂ I'll carry on through the
+rainstorm without you now ¬∂
 
 1148
 01:36:16,783 --> 01:36:21,473
-∂ A-ha, a-ha, a-ha, ah ∂
+¬∂ A-ha, a-ha, a-ha, ah ¬∂
 
 1149
 01:36:33,646 --> 01:36:36,153
-∂ What do I believe in? ∂
+¬∂ What do I believe in? ¬∂
 
 1150
 01:36:36,271 --> 01:36:38,638
-∂ Where is the truth? ∂
+¬∂ Where is the truth? ¬∂
 
 1151
 01:36:42,407 --> 01:36:43,766
-∂ 'Cause I thought ∂
+¬∂ 'Cause I thought ¬∂
 
 1152
 01:36:43,958 --> 01:36:49,614
-∂ The weather I needed
-revolved around you ∂
+¬∂ The weather I needed
+revolved around you ¬∂
 
 1153
 01:36:52,907 --> 01:36:54,516
-∂ A voice said ∂
+¬∂ A voice said ¬∂
 
 1154
 01:36:54,805 --> 01:36:57,141
-∂ Hold on, hold on ∂
+¬∂ Hold on, hold on ¬∂
 
 1155
 01:36:57,860 --> 01:37:00,001
-∂ You're not done yet ∂
+¬∂ You're not done yet ¬∂
 
 1156
 01:37:00,188 --> 01:37:02,532
-∂ Hold on, hold on ∂
+¬∂ Hold on, hold on ¬∂
 
 1157
 01:37:02,930 --> 01:37:04,696
-∂ The sun has not set ∂
+¬∂ The sun has not set ¬∂
 
 1158
 01:37:05,149 --> 01:37:08,303
-∂ I will not sit and wait for ∂
+¬∂ I will not sit and wait for ¬∂
 
 1159
 01:37:08,397 --> 01:37:10,680
-∂ A break in the clouds ∂
+¬∂ A break in the clouds ¬∂
 
 1160
 01:37:10,868 --> 01:37:15,688
-∂ A-ha, a-ha, a-ha, ah ∂
+¬∂ A-ha, a-ha, a-ha, ah ¬∂
 
 1161
 01:37:15,860 --> 01:37:21,595
-∂ I'll carry on through the
-rainstorm without you now ∂
+¬∂ I'll carry on through the
+rainstorm without you now ¬∂
 
 1162
 01:37:21,813 --> 01:37:26,540
-∂ A-ha, a-ha, a-ha, ah ∂
+¬∂ A-ha, a-ha, a-ha, ah ¬∂
 
 1163
 01:37:48,292 --> 01:37:51,916
-∂ I will not sit and wait for ∂
+¬∂ I will not sit and wait for ¬∂
 
 1164
 01:37:52,260 --> 01:37:54,341
-∂ A break in the clouds ∂
+¬∂ A break in the clouds ¬∂
 
 1165
 01:37:54,489 --> 01:37:59,073
-∂ A-ha, a-ha, a-ha, ah ∂
+¬∂ A-ha, a-ha, a-ha, ah ¬∂
 
 1166
 01:37:59,560 --> 01:38:05,279
-∂ I'll carry on through the
-rainstorm without you now ∂
+¬∂ I'll carry on through the
+rainstorm without you now ¬∂
 
 1167
 01:38:05,506 --> 01:38:10,178
-∂ A-ha, a-ha, a-ha, ah ∂
+¬∂ A-ha, a-ha, a-ha, ah ¬∂
 
 1168
 01:38:10,303 --> 01:38:13,537
-∂ I will not sit and wait for ∂
+¬∂ I will not sit and wait for ¬∂
 
 1169
 01:38:13,795 --> 01:38:16,076
-∂ A break in the clouds ∂
+¬∂ A break in the clouds ¬∂
 
 1170
 01:38:16,208 --> 01:38:20,896
-∂ A-ha, a-ha, a-ha, ah ∂
+¬∂ A-ha, a-ha, a-ha, ah ¬∂
 
 1171
 01:38:21,069 --> 01:38:24,402
-∂ And I'll carry on
-through the rainstorm ∂
+¬∂ And I'll carry on
+through the rainstorm ¬∂
 
 1172
 01:38:24,622 --> 01:38:26,974
-∂ And I'll dry me out ∂
+¬∂ And I'll dry me out ¬∂
 
 1173
 01:38:27,107 --> 01:38:29,957
-∂ A-ha, a-ha ∂
+¬∂ A-ha, a-ha ¬∂
 
 1174
 01:42:25,195 --> 01:42:26,187
