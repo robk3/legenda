@@ -1,12 +1,12 @@
 1
 00:00:42,757 --> 00:00:44,247
-TESTE DE PR…-LAN«AMENTO
-APOLLO 1 - CABO KENNEDY, FL”RIDA
+TESTE DE PR√â-LAN√áAMENTO
+APOLLO 1 - CABO KENNEDY, FL√ìRIDA
 
 2
 00:00:44,325 --> 00:00:46,520
-<i>A tripulaÁ„o est· ingressando
-na c·psula.</i>
+<i>A tripula√ß√£o est√° ingressando
+na c√°psula.</i>
 
 3
 00:00:46,594 --> 00:00:47,583
@@ -23,7 +23,7 @@ na c·psula.</i>
 
 6
 00:00:51,265 --> 00:00:56,202
-<i>em apenas sete anos, a AmÈrica venceu</i>
+<i>em apenas sete anos, a Am√©rica venceu</i>
 <i>o desafio que ele chamava:</i>
 
 7
@@ -32,7 +32,7 @@ na c·psula.</i>
 
 8
 00:01:00,207 --> 00:01:02,573
-<i>"na qual o homem j· embarcou."</i>
+<i>"na qual o homem j√° embarcou."</i>
 
 9
 00:01:02,843 --> 00:01:07,246
@@ -41,12 +41,12 @@ na c·psula.</i>
 
 10
 00:01:07,314 --> 00:01:10,249
-<i>e depois daquele terrÌvel</i>
-<i>incÍndio repentino...</i>
+<i>e depois daquele terr√≠vel</i>
+<i>inc√™ndio repentino...</i>
 
 11
 00:01:10,317 --> 00:01:12,717
-<i>na plataforma de lanÁamento</i>
+<i>na plataforma de lan√ßamento</i>
 <i>num teste de rotina...</i>
 
 12
@@ -60,18 +60,18 @@ na c·psula.</i>
 
 14
 00:01:18,092 --> 00:01:21,721
-<i>muitos duvidaram que poderÌamos</i>
-<i>bater os russos na corrida ‡ lua.</i>
+<i>muitos duvidaram que poder√≠amos</i>
+<i>bater os russos na corrida √† lua.</i>
 
 15
 00:01:21,796 --> 00:01:25,857
 HOUSTON, TEXAS, 20 DE JULHO DE 1969
 <i>Hoje, 18 meses</i>
-<i>apÛs a tragÈdia da</i> Apollo 1...
+<i>ap√≥s a trag√©dia da</i> Apollo 1...
 
 16
 00:01:25,933 --> 00:01:29,994
-<i>o mundo inteiro assistiu com admiraÁ„o</i>
+<i>o mundo inteiro assistiu com admira√ß√£o</i>
 <i>enquanto Neil Armstrong e Buzz Aldrin...</i>
 
 17
@@ -80,17 +80,17 @@ HOUSTON, TEXAS, 20 DE JULHO DE 1969
 
 18
 00:01:31,739 --> 00:01:34,264
-<i>A grande notÌcia chegou</i>
-<i>h· poucos minutos.</i>
+<i>A grande not√≠cia chegou</i>
+<i>h√° poucos minutos.</i>
 
 19
 00:01:34,341 --> 00:01:37,310
-<i>O Controle da Miss„o deu permiss„o</i>
-<i>‡ tripulaÁ„o...</i>
+<i>O Controle da Miss√£o deu permiss√£o</i>
+<i>√† tripula√ß√£o...</i>
 
 20
 00:01:37,411 --> 00:01:40,244
-<i>para passar ‡ atividade
+<i>para passar √† atividade
 extraveicular...</i>
 
 21
@@ -99,13 +99,13 @@ extraveicular...</i>
 
 22
 00:01:42,316 --> 00:01:46,980
-<i>bem antes do anunciado, ‡s 21:00,</i>
-hor·rio de ver„o nos Estados do Leste.
+<i>bem antes do anunciado, √†s 21:00,</i>
+hor√°rio de ver√£o nos Estados do Leste.
 
 23
 00:01:47,188 --> 00:01:51,090
-Quando penetramos no mÛdulo lunar,
-È muito importante a nossa posiÁ„o...
+Quando penetramos no m√≥dulo lunar,
+√© muito importante a nossa posi√ß√£o...
 
 24
 00:01:51,258 --> 00:01:52,725
@@ -113,13 +113,13 @@ e a velocidade relativa.
 
 25
 00:01:52,793 --> 00:01:56,251
-Digamos que este aqui seja eu no mÛdulo
-de comando, e esta seja vocÍ...
+Digamos que este aqui seja eu no m√≥dulo
+de comando, e esta seja voc√™...
 
 26
 00:01:56,330 --> 00:01:57,922
 - Certo.
-...no mÛdulo lunar.
+...no m√≥dulo lunar.
 
 27
 00:01:57,998 --> 00:02:00,159
@@ -137,36 +137,36 @@ penetrar, tudo se encaixa...
 
 30
 00:02:07,274 --> 00:02:09,765
-È uma sensaÁ„o ˙nica.
+√© uma sensa√ß√£o √∫nica.
 
 31
 00:02:11,212 --> 00:02:13,806
-- Um pouco de propuls„o lÌquida.
-- Qual È a grande ocasi„o?
+- Um pouco de propuls√£o l√≠quida.
+- Qual √© a grande ocasi√£o?
 
 32
 00:02:13,881 --> 00:02:15,940
-Como v„o as coisas no
-Controle da Miss„o?
+Como v√£o as coisas no
+Controle da Miss√£o?
 
 33
 00:02:16,016 --> 00:02:18,712
-… um momento de tens„o.
-Andam de l· pra c· e fumam.
+√â um momento de tens√£o.
+Andam de l√° pra c√° e fumam.
 
 34
 00:02:18,786 --> 00:02:21,380
-Gene Kranz est· quase tendo um filho.
+Gene Kranz est√° quase tendo um filho.
 Jim Lovell.
 
 35
 00:02:21,455 --> 00:02:22,479
-Esta È a Tracey.
+Esta √© a Tracey.
 
 36
 00:02:22,556 --> 00:02:24,456
 - Como vai, Tracey?
-- Esse È o cara.
+- Esse √© o cara.
 
 37
 00:02:24,525 --> 00:02:27,983
@@ -175,25 +175,25 @@ Foram os primeiros a circundar a lua.
 
 38
 00:02:28,062 --> 00:02:29,825
-Este cara j· deu 10 voltas.
+Este cara j√° deu 10 voltas.
 
 39
 00:02:30,064 --> 00:02:32,692
-Com uma m„o no volante.
-Fiquem ‡ vontade.
+Com uma m√£o no volante.
+Fiquem √† vontade.
 
 40
 00:02:34,335 --> 00:02:36,895
-Este È o ˙ltimo champanhe de Houston.
+Este √© o √∫ltimo champanhe de Houston.
 
 41
 00:02:37,004 --> 00:02:39,063
 - Muito bom.
-- O resto est· tudo bem?
+- O resto est√° tudo bem?
 
 42
 00:02:39,139 --> 00:02:41,767
-- Est· tudo encaminhado.
+- Est√° tudo encaminhado.
 - Parece OK. Cadete Lovell.
 
 43
@@ -204,7 +204,7 @@ Este È o ˙ltimo champanhe de Houston.
 44
 00:02:44,712 --> 00:02:47,738
 - Vai cortar o cabelo essa semana?
-- Estou de fÈrias.
+- Estou de f√©rias.
 
 45
 00:02:47,982 --> 00:02:50,473
@@ -221,22 +221,22 @@ BORMAN E LOVELL
 
 48
 00:02:59,593 --> 00:03:01,239
-Gostaria de estar l·
-em cima hoje ‡ noite.
+Gostaria de estar l√°
+em cima hoje √† noite.
 
 49
 00:03:01,240 --> 00:03:03,085
-<i>Nossa, quem n„o gostaria?</i>
+<i>Nossa, quem n√£o gostaria?</i>
 
 50
 00:03:03,163 --> 00:03:05,631
-N„o se preocupe.
-O nosso dia est· chegando.
+N√£o se preocupe.
+O nosso dia est√° chegando.
 
 51
 00:03:06,233 --> 00:03:09,225
-Eles n„o cortar„o o programa
-antes do n˙mero 14.
+Eles n√£o cortar√£o o programa
+antes do n√∫mero 14.
 
 52
 00:03:09,536 --> 00:03:11,697
@@ -274,11 +274,11 @@ John, aumente o som!
 
 60
 00:03:34,428 --> 00:03:35,486
-AgradeÁo...
+Agrade√ßo...
 
 61
 00:03:35,562 --> 00:03:37,827
-a todos por terem vindo ‡ festa
+a todos por terem vindo √† festa
 de ensaio da aterrissagem da...
 
 62
@@ -291,7 +291,7 @@ Sente-se, Conrad.
 
 64
 00:03:41,468 --> 00:03:44,403
-Acho que todos nÛs deverÌamos
+Acho que todos n√≥s dever√≠amos
 parar para reconhecer...
 
 65
@@ -300,16 +300,16 @@ o exemplar...
 
 66
 00:03:46,273 --> 00:03:49,242
-quase heroico esforÁo...
+quase heroico esfor√ßo...
 
 67
 00:03:49,877 --> 00:03:53,643
 dado pela ajuda de Neil Armstrong
-para essa histÛrica caminhada na lua...
+para essa hist√≥rica caminhada na lua...
 
 68
 00:03:53,714 --> 00:03:55,079
-e, È claro, de sua tripulaÁ„o.
+e, √© claro, de sua tripula√ß√£o.
 
 69
 00:03:55,149 --> 00:03:58,641
@@ -318,7 +318,7 @@ Ken Mattingly e Fred Haise.
 
 70
 00:04:05,159 --> 00:04:07,753
-L· est· ele! Todos em silÍncio!
+L√° est√° ele! Todos em sil√™ncio!
 
 71
 00:04:08,295 --> 00:04:09,557
@@ -331,20 +331,20 @@ Ei! Garotos!
 73
 00:04:12,599 --> 00:04:17,559
 <i>Podemos verificar a abertura do</i>
-<i>diafragma da minha c‚mera.</i>
+<i>diafragma da minha c√¢mera.</i>
 
 74
 00:04:19,440 --> 00:04:21,408
-AO VIVO DA SUPERFÕCIE DA LUA
+AO VIVO DA SUPERF√çCIE DA LUA
 
 75
 00:04:21,642 --> 00:04:25,442
-- Acha que È tarde demais pra abortar?
+- Acha que √© tarde demais pra abortar?
 - Ele ainda tem tempo pra sair.
 
 76
 00:04:25,512 --> 00:04:28,276
-- SÛ precisa que alguÈm lhe dÍ um sinal.
+- S√≥ precisa que algu√©m lhe d√™ um sinal.
 - Para cima, Neil!
 
 77
@@ -353,7 +353,7 @@ Para cima!
 
 78
 00:04:31,752 --> 00:04:34,585
-<i>Neil, nÛs o vemos</i>
+<i>Neil, n√≥s o vemos</i>
 <i>descendo as escadas agora.</i>
 
 79
@@ -366,21 +366,21 @@ Para cima!
 
 81
 00:04:40,828 --> 00:04:45,094
-<i>As sapatas do mÛdulo lunar sÛ afundaram</i>
-<i>na superfÌcie cerca de...</i>
+<i>As sapatas do m√≥dulo lunar s√≥ afundaram</i>
+<i>na superf√≠cie cerca de...</i>
 
 82
 00:04:46,433 --> 00:04:47,559
-<i>trÍs ou quatro centÌmetros.</i>
+<i>tr√™s ou quatro cent√≠metros.</i>
 
 83
 00:04:47,634 --> 00:04:49,192
-<i>Parece pÛ.</i>
+<i>Parece p√≥.</i>
 
 84
 00:04:49,269 --> 00:04:51,203
 ARMSTRONG NA LUA
-<i>Armstrong est· na lua.</i>
+<i>Armstrong est√° na lua.</i>
 
 85
 00:04:51,271 --> 00:04:54,707
@@ -388,7 +388,7 @@ ARMSTRONG NA LUA
 
 86
 00:04:55,109 --> 00:04:57,839
-<i>pisando na superfÌcie da lua...</i>
+<i>pisando na superf√≠cie da lua...</i>
 
 87
 00:04:59,213 --> 00:05:02,273
@@ -417,11 +417,11 @@ ARMSTRONG NA LUA
 
 93
 00:05:32,813 --> 00:05:34,508
-VocÍ est· bÍbado, Lovell.
+Voc√™ est√° b√™bado, Lovell.
 
 94
 00:05:35,149 --> 00:05:37,481
-N„o estou acostumado a beber champanhe.
+N√£o estou acostumado a beber champanhe.
 
 95
 00:05:37,651 --> 00:05:39,050
@@ -437,22 +437,22 @@ Tudo bem, vamos vender a casa.
 
 98
 00:05:49,129 --> 00:05:52,428
-Eles est„o l· dentro agora
-olhando para nÛs.
+Eles est√£o l√° dentro agora
+olhando para n√≥s.
 
 99
 00:05:52,766 --> 00:05:54,131
-Isso n„o È demais?
+Isso n√£o √© demais?
 
 100
 00:05:54,968 --> 00:05:58,699
 Aposto que Jannie Armstrong
-n„o vai pregar o olho essa noite.
+n√£o vai pregar o olho essa noite.
 
 101
 00:06:00,107 --> 00:06:03,235
-Quando vocÍ estava na <i>Apollo 8,</i>
-eu n„o dormi nada.
+Quando voc√™ estava na <i>Apollo 8,</i>
+eu n√£o dormi nada.
 
 102
 00:06:03,310 --> 00:06:05,938
@@ -461,7 +461,7 @@ o aspirador.
 
 103
 00:06:06,046 --> 00:06:10,244
-CristÛv„o Colombo,
+Crist√≥v√£o Colombo,
 Charles Lindbergh e Neil Armstrong.
 
 104
@@ -475,19 +475,19 @@ em que o homem pisou na lua.
 
 106
 00:06:32,139 --> 00:06:33,936
-N„o È um milagre.
+N√£o √© um milagre.
 
 107
 00:06:35,609 --> 00:06:37,509
-NÛs simplesmente decidimos ir.
+N√≥s simplesmente decidimos ir.
 
 108
 00:06:38,846 --> 00:06:41,076
-Com a <i>Apollo 8,</i> chegamos t„o perto...
+Com a <i>Apollo 8,</i> chegamos t√£o perto...
 
 109
 00:06:41,615 --> 00:06:44,140
-sÛ faltavam 110 quilÙmetros e...
+s√≥ faltavam 110 quil√¥metros e...
 
 110
 00:06:47,488 --> 00:06:49,649
@@ -499,24 +499,24 @@ sair e caminhar sobre ela.
 
 112
 00:06:58,832 --> 00:07:00,857
-Eu quero voltar l·.
+Eu quero voltar l√°.
 
 113
 00:07:07,541 --> 00:07:09,372
-Onde est· minha montanha?
+Onde est√° minha montanha?
 
 114
 00:07:13,213 --> 00:07:14,942
-Est· bem acima do...
+Est√° bem acima do...
 
 115
 00:07:15,883 --> 00:07:18,613
-VocÍ est· vendo onde a sombra cruza...
+Voc√™ est√° vendo onde a sombra cruza...
 
 116
 00:07:19,386 --> 00:07:22,321
-a ·rea branca ali?
-Aquele È o Mar da Tranquilidade...
+a √°rea branca ali?
+Aquele √© o Mar da Tranquilidade...
 
 117
 00:07:22,389 --> 00:07:24,550
@@ -524,20 +524,20 @@ e a sua montanha fica na margem dele.
 
 118
 00:07:24,625 --> 00:07:27,389
-… a sua montanha, Marilyn.
+√â a sua montanha, Marilyn.
 O Monte Marilyn.
 
 119
 00:07:28,462 --> 00:07:30,020
-N„o estou vendo.
+N√£o estou vendo.
 
 120
 00:07:32,799 --> 00:07:35,029
-Bem, vocÍ tem que olhar com atenÁ„o.
+Bem, voc√™ tem que olhar com aten√ß√£o.
 
 121
 00:07:38,205 --> 00:07:39,968
-VocÍ olha com atenÁ„o...
+Voc√™ olha com aten√ß√£o...
 
 122
 00:07:42,242 --> 00:07:43,539
@@ -545,12 +545,12 @@ enquanto eu...
 
 123
 00:07:53,320 --> 00:07:54,810
-MONTAGEM DE VEÕCULOS
-CABO KENNEDY, FL”RIDA
+MONTAGEM DE VE√çCULOS
+CABO KENNEDY, FL√ìRIDA
 
 124
 00:07:54,888 --> 00:07:57,789
-<i>O astronauta È o membro mais visÌvel</i>
+<i>O astronauta √© o membro mais vis√≠vel</i>
 <i>de uma grande equipe.</i>
 
 125
@@ -559,8 +559,8 @@ CABO KENNEDY, FL”RIDA
 
 126
 00:07:59,026 --> 00:08:01,859
-<i>Todos nÛs,
-atÈ o cara que varre o ch„o...</i>
+<i>Todos n√≥s,
+at√© o cara que varre o ch√£o...</i>
 
 127
 00:08:01,929 --> 00:08:03,760
@@ -573,13 +573,13 @@ atÈ o cara que varre o ch„o...</i>
 
 129
 00:08:07,601 --> 00:08:11,367
-<i>… o que estamos fazendo aqui.</i>
-<i>Isso È inspiraÁ„o divina, pessoal.</i>
+<i>√â o que estamos fazendo aqui.</i>
+<i>Isso √© inspira√ß√£o divina, pessoal.</i>
 
 130
 00:08:11,438 --> 00:08:15,340
-<i>… a melhor parte de cada um de nÛs,</i>
-<i>acreditar que tudo È possÌvel.</i>
+<i>√â a melhor parte de cada um de n√≥s,</i>
+<i>acreditar que tudo √© poss√≠vel.</i>
 
 131
 00:08:15,842 --> 00:08:19,710
@@ -588,7 +588,7 @@ que cabe num quarto...
 
 132
 00:08:20,214 --> 00:08:23,206
-e armazena milhıes de informaÁıes...
+e armazena milh√µes de informa√ß√µes...
 
 133
 00:08:23,917 --> 00:08:25,544
@@ -596,17 +596,17 @@ ou o foguete Saturn 5.
 
 134
 00:08:25,686 --> 00:08:29,178
-Este È o veÌculo de lanÁamento
-que ir· levar Alan Shepard...
+Este √© o ve√≠culo de lan√ßamento
+que ir√° levar Alan Shepard...
 
 135
 00:08:29,256 --> 00:08:33,215
-e sua tripulaÁ„o na primeira fase
-da miss„o <i>Apollo 13.</i>
+e sua tripula√ß√£o na primeira fase
+da miss√£o <i>Apollo 13.</i>
 
 136
 00:08:33,527 --> 00:08:36,018
-Quando ir· subir de novo, Jim?
+Quando ir√° subir de novo, Jim?
 
 137
 00:08:36,763 --> 00:08:40,756
@@ -619,27 +619,27 @@ Se houver uma <i>Apollo 14.</i>
 
 139
 00:08:46,440 --> 00:08:49,705
-As pessoas do meu estado est„o
+As pessoas do meu estado est√£o
 se perguntando porque continuamos...
 
 140
 00:08:49,776 --> 00:08:53,473
 a financiar este programa agora que
-fomos ‡ lua antes que os russos.
+fomos √† lua antes que os russos.
 
 141
 00:08:53,580 --> 00:08:56,913
-Imagine se CristÛv„o Colombo
+Imagine se Crist√≥v√£o Colombo
 tivesse voltado do Novo Mundo...
 
 142
 00:08:56,984 --> 00:08:59,009
-e ninguÈm tivesse seguido seus passos.
+e ningu√©m tivesse seguido seus passos.
 
 143
 00:08:59,086 --> 00:09:01,953
-<i>AtenÁ„o, todos os funcion·rios.</i>
-<i>Evacuar o nÌvel 3.</i>
+<i>Aten√ß√£o, todos os funcion√°rios.</i>
+<i>Evacuar o n√≠vel 3.</i>
 
 144
 00:09:03,724 --> 00:09:05,783
@@ -647,11 +647,11 @@ Mais alguma pergunta?
 
 145
 00:09:06,927 --> 00:09:09,452
-Como v„o ao banheiro no espaÁo?
+Como v√£o ao banheiro no espa√ßo?
 
 146
 00:09:09,563 --> 00:09:12,088
-… um processo altamente tecnolÛgico...
+√â um processo altamente tecnol√≥gico...
 
 147
 00:09:12,165 --> 00:09:16,465
@@ -665,27 +665,27 @@ Eis Deke Slayton.
 149
 00:09:20,007 --> 00:09:22,805
 Acho que pode responder
-‡ pergunta desta senhora.
+√† pergunta desta senhora.
 
 150
 00:09:22,909 --> 00:09:26,640
-O Deke È um dos astronautas
+O Deke √© um dos astronautas
 da <i>Mercury 7,</i> senhoras e senhores.
 
 151
 00:09:26,747 --> 00:09:30,274
-Agora ele È o nosso chefe.
+Agora ele √© o nosso chefe.
 Ele determina o voo dos astronaltas...
 
 152
 00:09:30,350 --> 00:09:33,444
-ent„o, nÛs passamos parte
-de nossos sal·rios para o Deke.
+ent√£o, n√≥s passamos parte
+de nossos sal√°rios para o Deke.
 
 153
 00:09:33,520 --> 00:09:36,887
-- Quanto quer este mÍs?
-- Posso falar com vocÍ? Tenho novidades.
+- Quanto quer este m√™s?
+- Posso falar com voc√™? Tenho novidades.
 
 154
 00:09:37,190 --> 00:09:38,316
@@ -693,29 +693,29 @@ Claro.
 
 155
 00:09:45,966 --> 00:09:46,746
-Tem alguÈm em casa?
+Tem algu√©m em casa?
 
 156
 00:09:46,747 --> 00:09:49,527
-<i>N„o vou me vestir de</i>
-<i>lÌder de torcida, m„e!</i>
+<i>N√£o vou me vestir de</i>
+<i>l√≠der de torcida, m√£e!</i>
 
 157
 00:09:49,636 --> 00:09:51,536
-VocÍ n„o entende! Eu trabalhei duro!
+Voc√™ n√£o entende! Eu trabalhei duro!
 
 158
 00:09:51,605 --> 00:09:53,368
-Talvez eu n„o entenda...
+Talvez eu n√£o entenda...
 
 159
 00:09:53,473 --> 00:09:56,135
-mas vocÍ n„o vai vestir isso
-por essa vizinhanÁa.
+mas voc√™ n√£o vai vestir isso
+por essa vizinhan√ßa.
 
 160
 00:09:56,209 --> 00:09:58,837
-Ela nem est· de suti„! D· pra ver tudo!
+Ela nem est√° de suti√£! D√° pra ver tudo!
 
 161
 00:09:58,945 --> 00:10:00,207
@@ -729,16 +729,16 @@ Marilyn, gostosuras ou travessuras.
 163
 00:10:03,216 --> 00:10:07,118
 Sabe aquela viagem para Acapulco
-que planejamos para a P·scoa?
+que planejamos para a P√°scoa?
 
 164
 00:10:08,121 --> 00:10:11,454
 Acho que talvez haja
-uma pequena mudanÁa de planos.
+uma pequena mudan√ßa de planos.
 
 165
 00:10:11,892 --> 00:10:13,154
-… mesmo?
+√â mesmo?
 
 166
 00:10:14,294 --> 00:10:15,727
@@ -750,17 +750,17 @@ a lua.
 
 168
 00:10:19,900 --> 00:10:22,562
-A infecÁ„o de ouvido
+A infec√ß√£o de ouvido
 de Al Shepard piorou...
 
 169
 00:10:22,736 --> 00:10:26,672
-e nÛs fomos promovidos ‡ tripulaÁ„o
+e n√≥s fomos promovidos √† tripula√ß√£o
 principa da <i>Apollo 13.</i>
 
 170
 00:10:27,841 --> 00:10:31,504
-Vamos direto para o comeÁo da fila
+Vamos direto para o come√ßo da fila
 e para as montanhas de Fra Mauro.
 
 171
@@ -777,12 +777,12 @@ Claro.
 
 174
 00:10:38,385 --> 00:10:40,444
-N„o! De jeito nenhum.
+N√£o! De jeito nenhum.
 
 175
 00:10:44,057 --> 00:10:47,390
-Eles n„o est„o apressando as coisas?
-Estar· pronto em seis meses?
+Eles n√£o est√£o apressando as coisas?
+Estar√° pronto em seis meses?
 
 176
 00:10:47,461 --> 00:10:48,312
@@ -790,17 +790,17 @@ Estaremos prontos.
 
 177
 00:10:48,313 --> 00:10:51,363
-N„o gostaria de estar perto
-de Al Shepard hoje ‡ noite.
+N√£o gostaria de estar perto
+de Al Shepard hoje √† noite.
 
 178
 00:10:51,431 --> 00:10:54,423
-Preciso voltar l· e adiantar
+Preciso voltar l√° e adiantar
 algumas coisas.
 
 179
 00:10:54,868 --> 00:10:55,926
-V·.
+V√°.
 
 180
 00:10:56,570 --> 00:10:58,800
@@ -808,11 +808,11 @@ Eu vou pisar na lua, Marilyn.
 
 181
 00:10:58,972 --> 00:11:01,133
-Eu sei. N„o estou acreditando.
+Eu sei. N√£o estou acreditando.
 
 182
 00:11:02,275 --> 00:11:04,766
-SÛ que È 13. Por que 13?
+S√≥ que √© 13. Por que 13?
 
 183
 00:11:05,612 --> 00:11:07,307
@@ -820,33 +820,33 @@ Vem depois do 12, querida.
 
 184
 00:11:10,317 --> 00:11:14,276
-Apollo 13, <i>pronto para a igniÁ„o</i>
+Apollo 13, <i>pronto para a igni√ß√£o</i>
 <i>e para o acoplamento.</i>
 
 185
 00:11:14,788 --> 00:11:18,121
-<i>Todos os sistemas est„o</i>
-<i>satisfatÛrios e funcionais.</i>
+<i>Todos os sistemas est√£o</i>
+<i>satisfat√≥rios e funcionais.</i>
 
 186
 00:11:18,925 --> 00:11:22,656
 CENTRO DE NAVES TRIPULADAS
 HOUSTON, TEXAS
-<i>S- 4B est·vel. PainÈis SLA vagando.</i>
+<i>S- 4B est√°vel. Pain√©is SLA vagando.</i>
 
 187
 00:11:22,729 --> 00:11:26,290
-3 MESES ANTES DO LAN«AMENTO
-<i>Conex„o e ponto de acoplamento livres.</i>
+3 MESES ANTES DO LAN√áAMENTO
+<i>Conex√£o e ponto de acoplamento livres.</i>
 
 188
 00:11:28,001 --> 00:11:31,437
-<i>Estou chegando l· agora. Dois, um, j·.</i>
+<i>Estou chegando l√° agora. Dois, um, j√°.</i>
 
 189
 00:11:31,738 --> 00:11:34,605
-Vinte e trÍs metros.
-Estamos prÛximos ao acoplamento.
+Vinte e tr√™s metros.
+Estamos pr√≥ximos ao acoplamento.
 
 190
 00:11:34,674 --> 00:11:38,667
@@ -859,7 +859,7 @@ Espere um pouco.
 
 192
 00:11:42,416 --> 00:11:44,646
-Perdi algo aqui. N„o consigo subir.
+Perdi algo aqui. N√£o consigo subir.
 
 193
 00:11:44,785 --> 00:11:47,583
@@ -868,8 +868,8 @@ e descendo.
 
 194
 00:11:47,821 --> 00:11:50,756
-- Quer voltar e recomeÁar?
-- N„o, estou bem.
+- Quer voltar e recome√ßar?
+- N√£o, estou bem.
 
 195
 00:11:50,824 --> 00:11:53,622
@@ -878,12 +878,12 @@ Deixe-me tentar nos estabilizar aqui.
 196
 00:11:54,127 --> 00:11:58,461
 - Vou reorientar a antena principal.
-- Recuperei o alvo no retÌculo.
+- Recuperei o alvo no ret√≠culo.
 
 197
 00:11:58,532 --> 00:12:00,864
-OK, estamos est·veis.
-V·lvulas na posiÁ„o certa.
+OK, estamos est√°veis.
+V√°lvulas na posi√ß√£o certa.
 
 198
 00:12:00,934 --> 00:12:03,732
@@ -897,32 +897,32 @@ Seis.
 
 200
 00:12:11,478 --> 00:12:12,809
-TrÍs metros.
+Tr√™s metros.
 
 201
 00:12:15,949 --> 00:12:17,814
 - Capturado.
-- … isso aÌ!
+- √â isso a√≠!
 
 202
 00:12:18,051 --> 00:12:22,010
-- … isso aÌ.
+- √â isso a√≠.
 - Bom trabalho, Ken. Lindo.
 
 203
 00:12:22,122 --> 00:12:25,523
-- Cavalheiros, È assim que se faz.
+- Cavalheiros, √© assim que se faz.
 - Cara, isso me acordou.
 
 204
 00:12:25,792 --> 00:12:29,785
-<i>TripulaÁ„o de reserva da</i> Apollo 13,
+<i>Tripula√ß√£o de reserva da</i> Apollo 13,
 <i>para o simulador.</i>
 
 205
 00:12:30,897 --> 00:12:33,798
 - Bom trabalho, cavalheiros.
-- Foram trÍs horas de tÈdio...
+- Foram tr√™s horas de t√©dio...
 
 206
 00:12:33,867 --> 00:12:36,165
@@ -931,7 +931,7 @@ seguidas de sete segundos de puro pavor.
 207
 00:12:36,236 --> 00:12:39,569
 Bom trabalho, rapazes.
-VocÍs ganharam o peru de Natal.
+Voc√™s ganharam o peru de Natal.
 
 208
 00:12:39,873 --> 00:12:41,431
@@ -939,39 +939,39 @@ Bela tentativa, Frank.
 
 209
 00:12:42,909 --> 00:12:44,399
-VocÍ passou a perna neles.
+Voc√™ passou a perna neles.
 
 210
 00:12:44,478 --> 00:12:47,242
-…, mas n„o foi perfeito.
-Usei combustÌvel demais.
+√â, mas n√£o foi perfeito.
+Usei combust√≠vel demais.
 
 211
 00:12:47,314 --> 00:12:48,838
-Mas ainda foi aceit·vel.
+Mas ainda foi aceit√°vel.
 
 212
 00:12:48,915 --> 00:12:52,214
-Por pouco. OuÁam,
+Por pouco. Ou√ßam,
 eu quero tentar de novo.
 
 213
 00:12:54,921 --> 00:12:58,152
 Vamos acordar de madrugada
-e partiremos para Bethpage ‡s 7:00.
+e partiremos para Bethpage √†s 7:00.
 
 214
 00:12:58,225 --> 00:13:00,090
-- Sairemos ‡s 7:00.
+- Sairemos √†s 7:00.
 - Sim, eu sei...
 
 215
 00:13:00,160 --> 00:13:02,754
-mas minha curva ainda est· meio lenta.
+mas minha curva ainda est√° meio lenta.
 
 216
 00:13:02,863 --> 00:13:05,525
-Ainda acho que deverÌamos
+Ainda acho que dever√≠amos
 tentar de novo.
 
 217
@@ -981,21 +981,21 @@ tentar de novo.
 
 218
 00:13:11,071 --> 00:13:13,539
-<i>OK, tripulaÁ„o de reserva da</i> 13.
-<i>Ter„o que esperar.</i>
+<i>OK, tripula√ß√£o de reserva da</i> 13.
+<i>Ter√£o que esperar.</i>
 
 219
 00:13:13,607 --> 00:13:16,098
-<i>A tripulaÁ„o principal far·</i>
+<i>A tripula√ß√£o principal far√°</i>
 <i>outra rodada.</i>
 
 220
 00:13:18,745 --> 00:13:21,179
-Apollo 13, <i>S- 4B est· desligado...</i>
+Apollo 13, <i>S- 4B est√° desligado...</i>
 
 221
 00:13:21,248 --> 00:13:23,216
-<i>todos os sistemas est„o operacionais.</i>
+<i>todos os sistemas est√£o operacionais.</i>
 
 222
 00:13:23,283 --> 00:13:25,478
@@ -1004,7 +1004,7 @@ Apollo 13, <i>S- 4B est· desligado...</i>
 
 223
 00:13:25,552 --> 00:13:28,282
-<i>e, quando entrar no mÛdulo,</i>
+<i>e, quando entrar no m√≥dulo,</i>
 <i>ative a dianteira.</i>
 
 224
@@ -1021,17 +1021,17 @@ Ei, estamos com um problema.
 
 227
 00:13:34,461 --> 00:13:36,929
-Nave em despressurizaÁ„o.
+Nave em despressuriza√ß√£o.
 
 228
 00:13:37,097 --> 00:13:40,362
 - Ken, coloque seu capacete!
-- N„o consigo fech·-lo!
+- N√£o consigo fech√°-lo!
 
 229
 00:13:40,433 --> 00:13:44,392
 Houston, algo causou um grande buraco
-na nave! Temos uma despressurizaÁ„o!
+na nave! Temos uma despressuriza√ß√£o!
 
 230
 00:13:45,372 --> 00:13:46,634
@@ -1039,25 +1039,25 @@ Oh, meu Deus!
 
 231
 00:14:16,169 --> 00:14:18,103
-Pensei que as estrelas cairiam em vocÍ.
+Pensei que as estrelas cairiam em voc√™.
 
 232
 00:14:18,171 --> 00:14:19,365
-23 DE MAR«O DE 1970
-3 SEMANAS PARA O LAN«AMENTO
+23 DE MAR√áO DE 1970
+3 SEMANAS PARA O LAN√áAMENTO
 
 233
 00:14:19,439 --> 00:14:22,067
-Isso È tolice.
-As estrelas n„o caem na gente.
+Isso √© tolice.
+As estrelas n√£o caem na gente.
 
 234
 00:14:22,475 --> 00:14:24,568
-VocÍ È mais esperto do que eu era.
+Voc√™ √© mais esperto do que eu era.
 
 235
 00:14:24,678 --> 00:14:27,169
-De quanto tempo precisar·
+De quanto tempo precisar√°
 para chegar na lua?
 
 236
@@ -1066,38 +1066,38 @@ Quatro dias.
 
 237
 00:14:30,650 --> 00:14:32,015
-Mas È bem r·pido.
+Mas √© bem r√°pido.
 
 238
 00:14:32,118 --> 00:14:35,315
-Olhe, esse È o est·gio de impulso
+Olhe, esse √© o est√°gio de impulso
 do Saturn 4B...
 
 239
 00:14:35,422 --> 00:14:38,016
-e nos lanÁa para longe da Terra...
+e nos lan√ßa para longe da Terra...
 
 240
 00:14:38,692 --> 00:14:42,150
-r·pido como a bala de um revÛlver...
+r√°pido como a bala de um rev√≥lver...
 
 241
 00:14:43,096 --> 00:14:47,123
-atÈ a gravidade da lua nos pegar
+at√© a gravidade da lua nos pegar
 e nos puxar...
 
 242
 00:14:48,134 --> 00:14:51,695
-para um cÌrculo em volta da lua...
+para um c√≠rculo em volta da lua...
 
 243
 00:14:51,805 --> 00:14:54,365
-que se chama Ûrbita. Certo?
+que se chama √≥rbita. Certo?
 
 244
 00:14:55,475 --> 00:14:58,706
-O Fred e eu flutuamos pelo t˙nel
-pra dentro do mÛdulo lunar...
+O Fred e eu flutuamos pelo t√∫nel
+pra dentro do m√≥dulo lunar...
 
 245
 00:14:58,778 --> 00:15:00,473
@@ -1105,7 +1105,7 @@ essa coisa com cara de aranha.
 
 246
 00:15:00,547 --> 00:15:04,449
-Cabem sÛ duas pessoas,
+Cabem s√≥ duas pessoas,
 e serve somente para pousar na lua.
 
 247
@@ -1118,8 +1118,8 @@ e voamos para baixo...
 
 249
 00:15:09,689 --> 00:15:13,181
-ajustamos aqui, a posiÁ„o ali,
-a inclinaÁ„o, o balanÁo...
+ajustamos aqui, a posi√ß√£o ali,
+a inclina√ß√£o, o balan√ßo...
 
 250
 00:15:13,426 --> 00:15:17,157
@@ -1133,13 +1133,13 @@ Muito melhor que Pete Conrad.
 
 252
 00:15:26,439 --> 00:15:29,340
-VocÍ conhecia os astronautas
-do incÍndio?
+Voc√™ conhecia os astronautas
+do inc√™ndio?
 
 253
 00:15:32,212 --> 00:15:34,510
 Sim. Conhecia os
-astronautas do incÍndio.
+astronautas do inc√™ndio.
 
 254
 00:15:34,511 --> 00:15:35,409
@@ -1152,11 +1152,11 @@ Poderia acontecer de novo?
 256
 00:15:42,722 --> 00:15:45,691
 Bem, vou lhe dizer uma coisa
-sobre aquele incÍndio.
+sobre aquele inc√™ndio.
 
 257
 00:15:45,759 --> 00:15:47,920
-Muitas coisas saÌram erradas.
+Muitas coisas sa√≠ram erradas.
 
 258
 00:15:49,629 --> 00:15:51,221
@@ -1164,7 +1164,7 @@ A porta.
 
 259
 00:15:53,099 --> 00:15:57,297
-Chama-se escotilha. Eles n„o conseguiram
+Chama-se escotilha. Eles n√£o conseguiram
 abrir quando precisavam sair.
 
 260
@@ -1174,7 +1174,7 @@ Isso foi um dos motivos.
 261
 00:16:01,374 --> 00:16:04,241
 Muitas coisas estavam erradas
-naquele incÍndio.
+naquele inc√™ndio.
 
 262
 00:16:07,113 --> 00:16:08,671
@@ -1182,34 +1182,34 @@ Eles consertaram tudo?
 
 263
 00:16:09,282 --> 00:16:11,773
-Sim, tudo. NÛs consertamos.
+Sim, tudo. N√≥s consertamos.
 
 264
 00:16:12,552 --> 00:16:14,713
-N„o È mais um problema.
+N√£o √© mais um problema.
 
 265
 00:16:25,432 --> 00:16:28,424
-N„o acredito que ainda
-queiram que vocÍ apareÁa em p˙blico.
+N√£o acredito que ainda
+queiram que voc√™ apare√ßa em p√∫blico.
 
 266
 00:16:28,501 --> 00:16:32,801
-Bem, Henry Hurt ficou no meu pÈ.
+Bem, Henry Hurt ficou no meu p√©.
 
 267
 00:16:33,673 --> 00:16:36,699
-Com um hor·rio de treinamento
-t„o puxado, n„o deveriam pedir.
+Com um hor√°rio de treinamento
+t√£o puxado, n√£o deveriam pedir.
 
 268
 00:16:36,776 --> 00:16:39,176
-… o programa, Marilyn.
-VocÍ sabe, È a NASA.
+√â o programa, Marilyn.
+Voc√™ sabe, √© a NASA.
 
 269
 00:16:39,245 --> 00:16:41,770
-Ei, vocÍ È Jim Lovell, n„o È?
+Ei, voc√™ √© Jim Lovell, n√£o √©?
 
 270
 00:16:42,282 --> 00:16:44,307
@@ -1217,72 +1217,72 @@ Boa sorte com a <i>13!</i>
 
 271
 00:16:44,851 --> 00:16:46,182
-… isso aÌ!
+√â isso a√≠!
 
 272
 00:16:54,594 --> 00:16:56,960
-… a segunda vez que isso acontece.
+√â a segunda vez que isso acontece.
 
 273
 00:17:06,206 --> 00:17:09,664
-Estive olhando o hor·rio da escola
-das crianÁas.
+Estive olhando o hor√°rio da escola
+das crian√ßas.
 
 274
 00:17:10,110 --> 00:17:12,010
-Ser· uma semana muito cheia.
+Ser√° uma semana muito cheia.
 
 275
 00:17:13,680 --> 00:17:16,945
-Estou pensando em n„o ir ao lanÁamento.
+Estou pensando em n√£o ir ao lan√ßamento.
 
 276
 00:17:22,989 --> 00:17:25,150
-As crianÁas precisam de mim em casa.
+As crian√ßas precisam de mim em casa.
 
 277
 00:17:25,391 --> 00:17:28,519
-Marilyn, j· faz alguns anos
-que temos as crianÁas.
+Marilyn, j√° faz alguns anos
+que temos as crian√ßas.
 
 278
 00:17:29,329 --> 00:17:32,230
 Elas nunca a impediram de ir
-aos outros lanÁamentos.
+aos outros lan√ßamentos.
 
 279
 00:17:32,332 --> 00:17:34,664
-Mas sua m„e acabou de ter um derrame.
+Mas sua m√£e acabou de ter um derrame.
 
 280
 00:17:34,734 --> 00:17:36,065
-Minha m„e est· bem.
+Minha m√£e est√° bem.
 
 281
 00:17:36,136 --> 00:17:38,536
-Eu j· vi outros lanÁamentos.
+Eu j√° vi outros lan√ßamentos.
 
 282
 00:17:38,638 --> 00:17:41,072
-As outras esposas n„o viram trÍs.
+As outras esposas n√£o viram tr√™s.
 
 283
 00:17:41,508 --> 00:17:44,636
-Eu sÛ n„o sei se vou conseguir
+Eu s√≥ n√£o sei se vou conseguir
 passar por tudo isso.
 
 284
 00:17:49,182 --> 00:17:51,980
-SÛ ficarei feliz quando isso acabar.
+S√≥ ficarei feliz quando isso acabar.
 
 285
 00:17:54,721 --> 00:17:57,349
-Vai perder um show magnÌfico.
+Vai perder um show magn√≠fico.
 
 286
 00:18:06,232 --> 00:18:08,325
 Ei, caras.
-Vejo vocÍs daqui a algumas semanas.
+Vejo voc√™s daqui a algumas semanas.
 
 287
 00:18:08,401 --> 00:18:11,097
@@ -1290,31 +1290,31 @@ Tome cuidado. Traga-nos uma rocha lunar.
 
 288
 00:18:38,064 --> 00:18:40,965
-- O n˙mero 13 n„o os incomoda?
-- SÛ se for uma sexta-feira.
+- O n√∫mero 13 n√£o os incomoda?
+- S√≥ se for uma sexta-feira.
 
 289
 00:18:41,034 --> 00:18:43,059
 7 DE ABRIL DE 1970 CABO KENNEDY,
-FL”RIDA - 4 DIAS ANTES DO LAN«AMENTO
+FL√ìRIDA - 4 DIAS ANTES DO LAN√áAMENTO
 
 290
 00:18:43,136 --> 00:18:46,594
-A <i>Apollo 13</i> ser· lanÁada ‡s 13:13...
+A <i>Apollo 13</i> ser√° lan√ßada √†s 13:13...
 
 291
 00:18:46,706 --> 00:18:49,698
-e entrar· na gravidade da lua
+e entrar√° na gravidade da lua
 no dia 13 de abril?
 
 292
 00:18:50,310 --> 00:18:53,802
 Ken Mattingly tem feito
-alguns experimentos cientÌficos...
+alguns experimentos cient√≠ficos...
 
 293
 00:18:53,913 --> 00:18:55,904
-a respeito desse fenÙmeno.
+a respeito desse fen√¥meno.
 
 294
 00:18:56,382 --> 00:18:59,146
@@ -1326,8 +1326,8 @@ para andar num espelho quebrado...
 
 296
 00:19:01,154 --> 00:19:04,590
-embaixo da escada do mÛdulo lunar.
-Parece que n„o aconteceu nada.
+embaixo da escada do m√≥dulo lunar.
+Parece que n√£o aconteceu nada.
 
 297
 00:19:04,657 --> 00:19:06,648
@@ -1340,26 +1340,26 @@ para dar boa sorte.
 
 299
 00:19:11,130 --> 00:19:14,429
-VocÍs se incomodam que o p˙blico
+Voc√™s se incomodam que o p√∫blico
 considere este como um voo de rotina?
 
 300
 00:19:14,500 --> 00:19:18,436
-N„o h· nada de rotineiro num voo
+N√£o h√° nada de rotineiro num voo
 para a lua. Eu posso lhes garantir.
 
 301
 00:19:20,740 --> 00:19:23,470
-Acho que a ˙ltima miss„o
+Acho que a √∫ltima miss√£o
 de um astronauta...
 
 302
 00:19:23,576 --> 00:19:27,239
-seu ˙ltimo voo È muito importante.
+seu √∫ltimo voo √© muito importante.
 
 303
 00:19:28,681 --> 00:19:30,842
-Por que È sua ˙ltima miss„o, Jim?
+Por que √© sua √∫ltima miss√£o, Jim?
 
 304
 00:19:31,451 --> 00:19:34,420
@@ -1367,13 +1367,13 @@ Estou no comando da melhor nave...
 
 305
 00:19:34,487 --> 00:19:37,479
-com a melhor tripulaÁ„o
-que alguÈm poderia querer...
+com a melhor tripula√ß√£o
+que algu√©m poderia querer...
 
 306
 00:19:37,824 --> 00:19:41,282
 e poderei andar num lugar
-onde h· 220 graus de diferenÁa...
+onde h√° 220 graus de diferen√ßa...
 
 307
 00:19:41,361 --> 00:19:43,625
@@ -1381,27 +1381,27 @@ entre a luz do sol e a sombra.
 
 308
 00:19:44,998 --> 00:19:47,933
-N„o consigo imaginar algo
+N√£o consigo imaginar algo
 melhor que isso.
 
 309
 00:19:50,470 --> 00:19:54,372
 9 DE ABRIL DE 1970
-2 DIAS ANTES DO LAN«AMENTO
+2 DIAS ANTES DO LAN√áAMENTO
 
 310
 00:19:54,474 --> 00:19:56,965
-Est· marcado para as 9:00, amanh„.
+Est√° marcado para as 9:00, amanh√£.
 
 311
 00:19:57,043 --> 00:19:59,136
-- N„o vai dar certo, Walter.
-- Por quÍ?
+- N√£o vai dar certo, Walter.
+- Por qu√™?
 
 312
 00:19:59,212 --> 00:20:03,171
 Freddo e eu vamos fazer os
-testes da superfÌcie lunar amanh„...
+testes da superf√≠cie lunar amanh√£...
 
 313
 00:20:03,249 --> 00:20:04,865
@@ -1410,11 +1410,11 @@ Ken estara no simulador.
 314
 00:20:04,866 --> 00:20:07,481
 Vamos passar o plano
-de voo hoje ‡ noite.
+de voo hoje √† noite.
 
 315
 00:20:07,553 --> 00:20:11,319
-Farei uma visita a esta m·quina
+Farei uma visita a esta m√°quina
 mais tarde.
 
 316
@@ -1428,25 +1428,25 @@ dos exames de sangue.
 
 318
 00:20:16,428 --> 00:20:19,328
-Charlie Duke est· com sarampo.
+Charlie Duke est√° com sarampo.
 
 319
 00:20:19,832 --> 00:20:21,993
-Ent„o precisamos de um novo reserva.
+Ent√£o precisamos de um novo reserva.
 
 320
 00:20:22,268 --> 00:20:25,704
-- VocÍs todos tiveram contato com ele.
-- Eu j· tive sarampo.
+- Voc√™s todos tiveram contato com ele.
+- Eu j√° tive sarampo.
 
 321
 00:20:25,772 --> 00:20:27,672
-Ken Mattingly n„o teve.
+Ken Mattingly n√£o teve.
 
 322
 00:20:28,942 --> 00:20:32,605
-Quer quebrar minha tripulaÁ„o
-dois dias antes do lanÁamento...
+Quer quebrar minha tripula√ß√£o
+dois dias antes do lan√ßamento...
 
 323
 00:20:32,946 --> 00:20:37,042
@@ -1455,31 +1455,31 @@ e ler o tom de nossas vozes?
 
 324
 00:20:37,116 --> 00:20:39,584
-Ken Mattingly ficar· muito doente...
+Ken Mattingly ficar√° muito doente...
 
 325
 00:20:39,752 --> 00:20:43,620
-bem quando vocÍ e o Haise
-estiverem subindo da superfÌcie lunar.
+bem quando voc√™ e o Haise
+estiverem subindo da superf√≠cie lunar.
 
 326
 00:20:43,723 --> 00:20:45,486
-… um pÈssimo momento para uma febre.
+√â um p√©ssimo momento para uma febre.
 
 327
 00:20:45,558 --> 00:20:48,459
-Jack Swigert n„o tem treinado
-h· semanas.
+Jack Swigert n√£o tem treinado
+h√° semanas.
 
 328
 00:20:48,628 --> 00:20:50,789
-Ele est· qualificado
-para entrar nessa miss„o.
+Ele est√° qualificado
+para entrar nessa miss√£o.
 
 329
 00:20:50,863 --> 00:20:54,924
-… um bom piloto, mas qual foi a
-˙ltima vez que ele entrou num simulador?
+√â um bom piloto, mas qual foi a
+√∫ltima vez que ele entrou num simulador?
 
 330
 00:20:55,635 --> 00:20:57,865
@@ -1496,8 +1496,8 @@ e colocar o Swigert...
 
 333
 00:21:02,875 --> 00:21:06,106
-ou, ent„o, podemos adiar
-a miss„o de vocÍs trÍs.
+ou, ent√£o, podemos adiar
+a miss√£o de voc√™s tr√™s.
 
 334
 00:21:10,717 --> 00:21:13,584
@@ -1506,17 +1506,17 @@ Fra Mauro...
 
 335
 00:21:14,787 --> 00:21:17,756
-e isso È uma idiotice
-do mÈdico de bordo, Deke!
+e isso √© uma idiotice
+do m√©dico de bordo, Deke!
 
 336
 00:21:18,825 --> 00:21:22,659
 Jim, se ficar esperando pelo Ken,
-n„o ir· com a <i>Apollo 13.</i>
+n√£o ir√° com a <i>Apollo 13.</i>
 
 337
 00:21:23,830 --> 00:21:25,627
-A decis„o È sua.
+A decis√£o √© sua.
 
 338
 00:21:29,102 --> 00:21:30,763
@@ -1528,13 +1528,13 @@ Preciso atender.
 
 340
 00:21:33,072 --> 00:21:35,734
-- Por quÍ?
-- Estou na tripulaÁ„o de reserva...
+- Por qu√™?
+- Estou na tripula√ß√£o de reserva...
 
 341
 00:21:35,808 --> 00:21:39,938
-e a tripulaÁ„o de reserva faz a lista
-de convidados e as reservas dos hotÈis.
+e a tripula√ß√£o de reserva faz a lista
+de convidados e as reservas dos hot√©is.
 
 342
 00:21:46,586 --> 00:21:47,951
@@ -1554,35 +1554,35 @@ Droga.
 
 346
 00:22:29,195 --> 00:22:30,685
-Malditos mÈdicos.
+Malditos m√©dicos.
 
 347
 00:22:32,565 --> 00:22:36,865
-Tive um pressentimento quando comeÁaram
+Tive um pressentimento quando come√ßaram
 a pedir aqueles exames de sangue...
 
 348
 00:22:40,807 --> 00:22:45,506
-Quero dizer, eu sei que s„o respons·veis
-se eu ficar doente l·, mas... Droga!
+Quero dizer, eu sei que s√£o respons√°veis
+se eu ficar doente l√°, mas... Droga!
 
 349
 00:23:01,894 --> 00:23:04,385
-Swigert, ele È bom.
+Swigert, ele √© bom.
 
 350
 00:23:07,200 --> 00:23:08,667
-Ele È forte.
+Ele √© forte.
 
 351
 00:23:11,938 --> 00:23:15,203
-Ser· uma grande miss„o.
-Ficar· para a histÛria.
+Ser√° uma grande miss√£o.
+Ficar√° para a hist√≥ria.
 
 352
 00:23:19,378 --> 00:23:22,939
-VocÍ tem certeza?
-Por que n„o me deixa falar com Deke?
+Voc√™ tem certeza?
+Por que n√£o me deixa falar com Deke?
 
 353
 00:23:23,049 --> 00:23:25,381
@@ -1590,19 +1590,19 @@ Tenho certeza que podemos dar um jeito.
 
 354
 00:23:27,186 --> 00:23:28,881
-A decis„o foi minha.
+A decis√£o foi minha.
 
 355
 00:23:39,599 --> 00:23:41,692
-Deve ter sido muito difÌcil.
+Deve ter sido muito dif√≠cil.
 
 356
 00:23:47,373 --> 00:23:49,705
-OuÁam, eu n„o estou com sarampo.
+Ou√ßam, eu n√£o estou com sarampo.
 
 357
 00:23:50,977 --> 00:23:53,275
-E n„o pegarei sarampo.
+E n√£o pegarei sarampo.
 
 358
 00:23:57,884 --> 00:23:59,374
@@ -1610,7 +1610,7 @@ Ken, espere.
 
 359
 00:24:03,656 --> 00:24:07,251
-A trajetÛria est· estabilizada.
+A trajet√≥ria est√° estabilizada.
 Estamos bem na linha.
 
 360
@@ -1619,7 +1619,7 @@ Estamos no programa 64 a 0,05 G...
 
 361
 00:24:11,731 --> 00:24:13,323
-com a respectiva forÁa de gravidade.
+com a respectiva for√ßa de gravidade.
 
 362
 00:24:13,399 --> 00:24:17,130
@@ -1632,17 +1632,17 @@ entrando na atmosfera terrestre.
 
 364
 00:24:19,505 --> 00:24:23,236
-<i>Os dados de entrada s„o satisfatÛrios,</i>
-<i>e perdemos o contato de r·dio.</i>
+<i>Os dados de entrada s√£o satisfat√≥rios,</i>
+<i>e perdemos o contato de r√°dio.</i>
 
 365
 00:24:27,680 --> 00:24:29,477
-O que est· havendo aqui?
+O que est√° havendo aqui?
 
 366
 00:24:30,183 --> 00:24:33,641
 Tenho um aviso luminoso.
-Estamos com um ‚ngulo muito baixo.
+Estamos com um √¢ngulo muito baixo.
 
 367
 00:24:33,920 --> 00:24:36,013
@@ -1655,7 +1655,7 @@ Vou passar para o controle manual.
 
 369
 00:24:43,162 --> 00:24:45,187
-OK, estamos a trÍs Gs.
+OK, estamos a tr√™s Gs.
 
 370
 00:24:45,865 --> 00:24:47,162
@@ -1719,15 +1719,15 @@ Entrei muito inclinado. Estamos mortos.
 
 384
 00:25:27,340 --> 00:25:28,637
-N„o me diga.
+N√£o me diga.
 
 385
 00:25:28,741 --> 00:25:31,733
-Est·vamos no programa 67.
+Est√°vamos no programa 67.
 
 386
 00:25:35,681 --> 00:25:38,081
-Vamos repetir, È claro.
+Vamos repetir, √© claro.
 
 387
 00:25:38,184 --> 00:25:40,812
@@ -1736,7 +1736,7 @@ Vamos repetir, È claro.
 
 388
 00:25:40,886 --> 00:25:42,877
-Jim, posso falar com vocÍ?
+Jim, posso falar com voc√™?
 
 389
 00:25:45,558 --> 00:25:46,991
@@ -1745,16 +1745,16 @@ Claro, Deke.
 390
 00:25:52,898 --> 00:25:56,026
 <i>Vamos nos desconectar</i>
-<i>e discutir isso entre nÛs.</i>
+<i>e discutir isso entre n√≥s.</i>
 
 391
 00:26:01,374 --> 00:26:04,309
-Se eu ganhasse um dÛlar
+Se eu ganhasse um d√≥lar
 cada vez que me matassem nisso...
 
 392
 00:26:04,377 --> 00:26:07,210
-eu n„o teria que trabalhar para vocÍ,
+eu n√£o teria que trabalhar para voc√™,
 Deke.
 
 393
@@ -1771,43 +1771,43 @@ Fazer de novo.
 
 396
 00:26:30,936 --> 00:26:33,370
-DesÁa, Fred! Stephen, venha aqui!
+Des√ßa, Fred! Stephen, venha aqui!
 
 397
 00:26:33,773 --> 00:26:35,536
 10 DE ABRIL DE 1970
-A NOITE ANTES DO LAN«AMENTO
+A NOITE ANTES DO LAN√áAMENTO
 
 398
 00:26:35,608 --> 00:26:37,633
-N„o podemos atravessar a rua.
+N√£o podemos atravessar a rua.
 
 399
 00:26:38,077 --> 00:26:41,843
-N„o queremos que o papai pegue
-nossos germes e fique doente no espaÁo.
+N√£o queremos que o papai pegue
+nossos germes e fique doente no espa√ßo.
 
 400
 00:26:41,947 --> 00:26:45,610
-Ei, garotos. N„o est„o dando trabalho
-para a mam„e, est„o?
+Ei, garotos. N√£o est√£o dando trabalho
+para a mam√£e, est√£o?
 
 401
 00:26:46,585 --> 00:26:48,883
-Princesa, vocÍ est· linda.
+Princesa, voc√™ est√° linda.
 
 402
 00:27:10,643 --> 00:27:13,407
-VocÍ se parece muito com Marilyn Lovell.
+Voc√™ se parece muito com Marilyn Lovell.
 
 403
 00:27:13,479 --> 00:27:16,141
-Mas n„o pode ser.
-Ela n„o vir· ao lanÁamento.
+Mas n√£o pode ser.
+Ela n√£o vir√° ao lan√ßamento.
 
 404
 00:27:16,248 --> 00:27:18,512
-Ouvi dizer que ser· um show magnÌfico.
+Ouvi dizer que ser√° um show magn√≠fico.
 
 405
 00:27:18,584 --> 00:27:20,051
@@ -1815,19 +1815,19 @@ Quem lhe disse isso?
 
 406
 00:27:20,119 --> 00:27:21,780
-Um cara que conheÁo.
+Um cara que conhe√ßo.
 
 407
 00:27:25,524 --> 00:27:27,492
-VocÍ n„o vive sem mim.
+Voc√™ n√£o vive sem mim.
 
 408
 00:27:28,828 --> 00:27:31,058
-OK, pessoal. … hora de dizer boa noite.
+OK, pessoal. √â hora de dizer boa noite.
 
 409
 00:27:31,130 --> 00:27:34,827
-- Amanh„ ser· um grande dia para eles.
+- Amanh√£ ser√° um grande dia para eles.
 - Boa noite!
 
 410
@@ -1841,11 +1841,11 @@ Sim.
 412
 00:27:49,048 --> 00:27:53,985
 11 DE ABRIL DE 1970
-CABO KENNEDY, FL”RIDA
+CABO KENNEDY, FL√ìRIDA
 
 413
 00:27:57,723 --> 00:27:59,520
-Para tr·s, por favor.
+Para tr√°s, por favor.
 
 414
 00:28:02,728 --> 00:28:04,286
@@ -1857,8 +1857,8 @@ Aonde foi o Guenter?
 
 416
 00:28:11,537 --> 00:28:14,995
-- VocÍ pisa na lua, <i>ja?</i>
-<i>- Ja,</i> nÛs pisamos...
+- Voc√™ pisa na lua, <i>ja?</i>
+<i>- Ja,</i> n√≥s pisamos...
 
 417
 00:28:15,374 --> 00:28:17,365
@@ -1893,11 +1893,11 @@ BOA SORTE APOLLO 13
 
 424
 00:29:00,119 --> 00:29:02,280
-Meu Deus, n„o.
+Meu Deus, n√£o.
 
 425
 00:29:13,966 --> 00:29:16,400
-- O sistema purificador de oxigÍnio.
+- O sistema purificador de oxig√™nio.
 - OK.
 
 426
@@ -1907,12 +1907,12 @@ Meu Deus, n„o.
 
 427
 00:29:30,483 --> 00:29:32,644
-ComunicaÁ„o umbilical ligada.
+Comunica√ß√£o umbilical ligada.
 
 428
 00:29:33,486 --> 00:29:34,578
 - Fred.
-- O quÍ?
+- O qu√™?
 
 429
 00:29:34,653 --> 00:29:36,211
@@ -1925,7 +1925,7 @@ Obrigado.
 
 431
 00:29:42,661 --> 00:29:44,993
-Vou dar uma viagem fant·stica
+Vou dar uma viagem fant√°stica
 a estes caras.
 
 432
@@ -1938,41 +1938,41 @@ Precisa de mais ar?
 
 434
 00:30:18,264 --> 00:30:20,164
-Quer maÁ„?
+Quer ma√ß√£?
 
 435
 00:30:23,102 --> 00:30:24,933
-J· estou detestando isso.
+J√° estou detestando isso.
 
 436
 00:30:25,004 --> 00:30:26,972
-N„o est· para nascer, est·?
+N√£o est√° para nascer, est√°?
 
 437
 00:30:27,039 --> 00:30:30,770
-N„o. Faltam 30 dias
+N√£o. Faltam 30 dias
 para a minha decolagem.
 
 438
 00:31:13,152 --> 00:31:15,347
-CONTROLE DA MISS√O, HOUSTON, TEXAS
+CONTROLE DA MISS√ÉO, HOUSTON, TEXAS
 
 439
 00:31:15,421 --> 00:31:17,082
-Isso È para o Gene.
+Isso √© para o Gene.
 
 440
 00:31:19,925 --> 00:31:23,190
 A Sra. Kranz tirou agulha e linha
-do ba˙ de novo.
+do ba√∫ de novo.
 
 441
 00:31:23,262 --> 00:31:25,594
-O ˙ltimo parecia comprado dos ciganos.
+O √∫ltimo parecia comprado dos ciganos.
 
 442
 00:31:25,698 --> 00:31:28,064
-Bem, n„o se pode ir contra as tradiÁıes.
+Bem, n√£o se pode ir contra as tradi√ß√µes.
 
 443
 00:31:28,200 --> 00:31:29,565
@@ -1980,7 +1980,7 @@ Entendido.
 
 444
 00:31:29,668 --> 00:31:31,602
-Isso È da sua mulher, Gene.
+Isso √© da sua mulher, Gene.
 
 445
 00:31:32,071 --> 00:31:33,663
@@ -1988,11 +1988,11 @@ Obrigado, Tom.
 
 446
 00:31:34,173 --> 00:31:36,266
-Estava comeÁando a me preocupar.
+Estava come√ßando a me preocupar.
 
 447
 00:31:37,443 --> 00:31:38,910
-L· vamos nÛs.
+L√° vamos n√≥s.
 
 448
 00:31:41,413 --> 00:31:43,711
@@ -2001,7 +2001,7 @@ L· vamos nÛs.
 
 449
 00:31:57,663 --> 00:31:59,494
-Jim, est· pronto.
+Jim, est√° pronto.
 
 450
 00:32:09,074 --> 00:32:10,336
@@ -2009,7 +2009,7 @@ Muito elegante.
 
 451
 00:32:11,210 --> 00:32:13,440
-Gene, acho que agora podemos comeÁar.
+Gene, acho que agora podemos come√ßar.
 
 452
 00:32:13,612 --> 00:32:15,910
@@ -2018,12 +2018,12 @@ Reservem isso para a volta, pessoal.
 453
 00:32:35,367 --> 00:32:38,131
 Controladores de voo da
-<i>Apollo 13,</i> atenÁ„o.
+<i>Apollo 13,</i> aten√ß√£o.
 
 454
 00:32:39,571 --> 00:32:41,903
-Deem-me um "OK, n„o <i>OK"</i>
-para o lanÁamento.
+Deem-me um "OK, n√£o <i>OK"</i>
+para o lan√ßamento.
 
 455
 00:32:41,974 --> 00:32:43,032
@@ -2037,17 +2037,17 @@ para o lanÁamento.
 
 457
 00:32:44,276 --> 00:32:45,743
-- TrajetÛria.
+- Trajet√≥ria.
 - Estamos prontos.
 
 458
 00:32:45,811 --> 00:32:46,971
-- OrientaÁ„o.
+- Orienta√ß√£o.
 - OK.
 
 459
 00:32:47,046 --> 00:32:48,411
-- MÈdico.
+- M√©dico.
 - OK, Controle.
 
 460
@@ -2057,7 +2057,7 @@ Controle de Vida.
 461
 00:32:49,615 --> 00:32:51,515
 - Estamos prontos, Controle.
-- NavegaÁ„o.
+- Navega√ß√£o.
 
 462
 00:32:51,583 --> 00:32:52,675
@@ -2071,7 +2071,7 @@ Controle de Vida.
 
 464
 00:32:53,919 --> 00:32:56,114
-- Procedimentos. ComunicaÁ„o.
+- Procedimentos. Comunica√ß√£o.
 - OK.
 
 465
@@ -2081,7 +2081,7 @@ Controle de Vida.
 
 466
 00:32:58,590 --> 00:33:00,820
-- Rede. RecuperaÁ„o.
+- Rede. Recupera√ß√£o.
 - OK.
 
 467
@@ -2091,7 +2091,7 @@ Controle de Vida.
 
 468
 00:33:04,063 --> 00:33:06,998
-Centro de lanÁamento, aqui È Houston.
+Centro de lan√ßamento, aqui √© Houston.
 Estamos prontos.
 
 469
@@ -2100,25 +2100,25 @@ Entendido, Houston.
 
 470
 00:33:08,934 --> 00:33:10,868
-CENTRO DE LAN«AMENTO
-CABO KENNEDY, FL”RIDA
+CENTRO DE LAN√áAMENTO
+CABO KENNEDY, FL√ìRIDA
 
 471
 00:33:10,936 --> 00:33:12,426
-Chefe de plataforma, est· pronto?
+Chefe de plataforma, est√° pronto?
 
 472
 00:33:12,504 --> 00:33:14,438
-<i>Estamos prontos para o lanÁamento.</i>
+<i>Estamos prontos para o lan√ßamento.</i>
 
 473
 00:33:14,506 --> 00:33:16,974
-<i>Tempo de lanÁamento 60 segundos</i>
+<i>Tempo de lan√ßamento 60 segundos</i>
 <i>e contando.</i>
 
 474
 00:33:41,467 --> 00:33:43,492
-<i>- AtenÁ„o.</i>
+<i>- Aten√ß√£o.</i>
 <i>- OK.</i>
 
 475
@@ -2127,21 +2127,21 @@ ABORTAR
 
 476
 00:34:01,987 --> 00:34:03,545
-Bombas de combustÌvel.
+Bombas de combust√≠vel.
 
 477
 00:34:03,822 --> 00:34:07,656
-L· vamos nÛs. Algumas sacudidas
-e poderemos entregar a correspondÍncia.
+L√° vamos n√≥s. Algumas sacudidas
+e poderemos entregar a correspond√™ncia.
 
 478
 00:34:13,799 --> 00:34:17,166
-<i>Controle, aqui È OrientaÁ„o.</i>
+<i>Controle, aqui √© Orienta√ß√£o.</i>
 <i>Estamos prontos para a decolagem.</i>
 
 479
 00:34:19,838 --> 00:34:21,931
-Estamos prontos para o lanÁamento.
+Estamos prontos para o lan√ßamento.
 
 480
 00:34:22,341 --> 00:34:23,399
@@ -2169,19 +2169,19 @@ Contagem...
 
 486
 00:34:35,754 --> 00:34:37,619
-<i>InÌcio da sequÍncia de igniÁ„o.</i>
+<i>In√≠cio da sequ√™ncia de igni√ß√£o.</i>
 
 487
 00:34:37,689 --> 00:34:40,089
-<i>TrÍs, dois, um.</i>
+<i>Tr√™s, dois, um.</i>
 
 488
 00:34:40,926 --> 00:34:42,257
-<i>IgniÁ„o!</i>
+<i>Igni√ß√£o!</i>
 
 489
 00:35:05,551 --> 00:35:07,416
-O relÛgio est· ligado!
+O rel√≥gio est√° ligado!
 
 490
 00:35:14,626 --> 00:35:16,526
@@ -2189,15 +2189,15 @@ O relÛgio est· ligado!
 
 491
 00:35:30,209 --> 00:35:34,373
-<i>Houston, deixaram a torre ‡s 13:13.</i>
+<i>Houston, deixaram a torre √†s 13:13.</i>
 
 492
 00:35:35,380 --> 00:35:37,280
-OK, pessoal, agora È conosco.
+OK, pessoal, agora √© conosco.
 
 493
 00:35:50,762 --> 00:35:52,286
-Vamos l·, beleza.
+Vamos l√°, beleza.
 
 494
 00:35:56,768 --> 00:35:59,259
@@ -2205,11 +2205,11 @@ Altitude conforme o previsto.
 
 495
 00:36:00,072 --> 00:36:02,233
-Velocidade satisfatÛria.
+Velocidade satisfat√≥ria.
 
 496
 00:36:03,742 --> 00:36:06,108
-SaÌda vertical. RotaÁ„o para horizontal.
+Sa√≠da vertical. Rota√ß√£o para horizontal.
 
 497
 00:36:06,178 --> 00:36:09,113
@@ -2217,19 +2217,19 @@ SaÌda vertical. RotaÁ„o para horizontal.
 
 498
 00:36:14,419 --> 00:36:16,284
-TrajetÛria, como estamos?
+Trajet√≥ria, como estamos?
 
 499
 00:36:16,922 --> 00:36:19,152
-Estamos bem. Na trajetÛria prevista.
+Estamos bem. Na trajet√≥ria prevista.
 
 500
 00:36:20,826 --> 00:36:23,260
-<i>O escudo protetor est· livre,</i> 13.
+<i>O escudo protetor est√° livre,</i> 13.
 
 501
 00:36:24,329 --> 00:36:26,661
-OK. De autom·tico para manual.
+OK. De autom√°tico para manual.
 
 502
 00:36:28,267 --> 00:36:29,495
@@ -2266,8 +2266,8 @@ Controle, confirma um motor desligado?
 
 510
 00:37:17,082 --> 00:37:20,745
-- Confirmo. NÛs o perdemos.
-- Quais ser„o as consequÍncias?
+- Confirmo. N√≥s o perdemos.
+- Quais ser√£o as consequ√™ncias?
 
 511
 00:37:20,819 --> 00:37:22,150
@@ -2275,8 +2275,8 @@ Aguarde, Controle.
 
 512
 00:37:22,220 --> 00:37:25,712
-Preciso saber se as unidades de inÈrcia
-corrigem o n˙mero cinco.
+Preciso saber se as unidades de in√©rcia
+corrigem o n√∫mero cinco.
 
 513
 00:37:32,331 --> 00:37:34,356
@@ -2288,18 +2288,18 @@ Houston, e quanto ao motor cinco?
 
 515
 00:37:39,371 --> 00:37:43,364
-Est· tudo bem. Dar· tudo certo
-se n„o perdermos outro motor.
+Est√° tudo bem. Dar√° tudo certo
+se n√£o perdermos outro motor.
 
 516
 00:37:43,875 --> 00:37:47,003
 - Entendido.
-- N„o sabemos bem por que falhou...
+- N√£o sabemos bem por que falhou...
 
 517
 00:37:47,079 --> 00:37:50,571
-mas os outros est„o operacionais,
-ent„o vamos us·-los...
+mas os outros est√£o operacionais,
+ent√£o vamos us√°-los...
 
 518
 00:37:50,682 --> 00:37:52,513
@@ -2307,20 +2307,20 @@ um pouco mais.
 
 519
 00:37:52,617 --> 00:37:55,051
-OK. Os giroscÛpios funcionam bem.
+OK. Os girosc√≥pios funcionam bem.
 
 520
 00:37:55,687 --> 00:37:57,382
-A posiÁ„o est· boa.
+A posi√ß√£o est√° boa.
 
 521
 00:38:00,792 --> 00:38:04,228
-Acho que j· tivemos o susto da miss„o.
+Acho que j√° tivemos o susto da miss√£o.
 
 522
 00:38:12,938 --> 00:38:15,004
 13, <i>preparem-se para deixar</i>
-<i>um est·gio.</i>
+<i>um est√°gio.</i>
 
 523
 00:38:15,005 --> 00:38:16,271
@@ -2328,7 +2328,7 @@ Entendido.
 
 524
 00:38:16,975 --> 00:38:20,138
-<i>S- 2 desligado. S-4B igniÁ„o.</i>
+<i>S- 2 desligado. S-4B igni√ß√£o.</i>
 
 525
 00:38:20,879 --> 00:38:22,972
@@ -2336,12 +2336,12 @@ Entendido.
 
 526
 00:38:24,583 --> 00:38:26,744
-Controle, S-4B ser· desligado
+Controle, S-4B ser√° desligado
 em 10 segundos.
 
 527
 00:38:26,818 --> 00:38:31,152
-<i>13,</i> Houston. Previs„o de desligamento
+<i>13,</i> Houston. Previs√£o de desligamento
 em 12 minutos e 34 segundos.
 
 528
@@ -2362,7 +2362,7 @@ Desligar!
 
 532
 00:38:43,335 --> 00:38:46,099
-<i>E È assim, senhores, que se faz.</i>
+<i>E √© assim, senhores, que se faz.</i>
 
 533
 00:39:13,031 --> 00:39:15,124
@@ -2370,51 +2370,51 @@ Nossa. Espero que eu consiga dormir.
 
 534
 00:39:15,200 --> 00:39:16,997
-Mam„e, foi muito barulhento.
+Mam√£e, foi muito barulhento.
 
 535
 00:39:17,369 --> 00:39:19,166
-Venha, segure na minha m„o.
+Venha, segure na minha m√£o.
 
 536
 00:39:20,172 --> 00:39:22,800
-N„o acredito que passou por isso
+N√£o acredito que passou por isso
 quatro vezes.
 
 537
 00:39:22,874 --> 00:39:24,307
-A pior parte j· passou.
+A pior parte j√° passou.
 
 538
 00:39:24,376 --> 00:39:25,604
-J·?
+J√°?
 
 539
 00:39:26,445 --> 00:39:31,382
-Para mim, isso sÛ acaba
-quando ele chegar no porta-aviıes.
+Para mim, isso s√≥ acaba
+quando ele chegar no porta-avi√µes.
 
 540
 00:39:31,716 --> 00:39:33,650
-Mas vocÍ me parece t„o calma.
+Mas voc√™ me parece t√£o calma.
 
 541
 00:39:33,718 --> 00:39:37,848
-Se o mÈdico tivesse que me dar
-um atestado, eu n„o sairia da cama.
+Se o m√©dico tivesse que me dar
+um atestado, eu n√£o sairia da cama.
 
 542
 00:39:37,956 --> 00:39:40,754
 - Sra. Lovell! Sra. Haise!
-- Podemos entrevist·-las?
+- Podemos entrevist√°-las?
 
 543
 00:39:41,126 --> 00:39:43,458
-Podemos falar com vocÍs sÛ um minuto?
+Podemos falar com voc√™s s√≥ um minuto?
 
 544
 00:39:43,528 --> 00:39:46,793
-Lembre-se, vocÍ est· orgulhosa,
+Lembre-se, voc√™ est√° orgulhosa,
 feliz e emocionada.
 
 545
@@ -2428,17 +2428,17 @@ e muito feliz, e estamos emocionadas.
 
 547
 00:39:56,241 --> 00:39:58,971
-<i>Controle, Propuls„o.</i>
-<i>O S-4B est· desligado.</i>
+<i>Controle, Propuls√£o.</i>
+<i>O S-4B est√° desligado.</i>
 
 548
 00:39:59,244 --> 00:40:02,236
-Estamos a caminho da Ûrbita lunar.
+Estamos a caminho da √≥rbita lunar.
 Tudo bem, Controle.
 
 549
 00:40:02,314 --> 00:40:03,872
-Entendido, TrajetÛria.
+Entendido, Trajet√≥ria.
 
 550
 00:40:07,486 --> 00:40:09,181
@@ -2447,7 +2447,7 @@ Estamos a caminho da lua!
 551
 00:40:09,254 --> 00:40:11,722
 Controle, recuperamos contato
-com o HavaÌ.
+com o Hava√≠.
 
 552
 00:40:11,823 --> 00:40:13,882
@@ -2455,7 +2455,7 @@ Controle, tudo parece correr bem.
 
 553
 00:40:15,327 --> 00:40:17,318
-OK, Houston. Aqui È o piloto do mÛdulo.
+OK, Houston. Aqui √© o piloto do m√≥dulo.
 
 554
 00:40:17,395 --> 00:40:20,660
@@ -2464,7 +2464,7 @@ Estou no lugar do piloto.
 
 555
 00:40:21,700 --> 00:40:24,999
-Vou me preparar para a transposiÁ„o
+Vou me preparar para a transposi√ß√£o
 e acoplagem.
 
 556
@@ -2473,22 +2473,22 @@ e acoplagem.
 
 557
 00:40:40,185 --> 00:40:41,880
-Freddo, vocÍ est· bem?
+Freddo, voc√™ est√° bem?
 
 558
 00:40:45,423 --> 00:40:49,052
 <i>Pessoal, vamos virar</i>
-<i>e pegar o mÛdulo lunar.</i>
+<i>e pegar o m√≥dulo lunar.</i>
 
 559
 00:40:49,127 --> 00:40:51,994
-Odyssey, preparem-se para igniÁ„o
+Odyssey, preparem-se para igni√ß√£o
 e acoplamento...
 
 560
 00:40:52,130 --> 00:40:55,566
 e recomendamos que verifiquem
-a pressurizaÁ„o da cabina.
+a pressuriza√ß√£o da cabina.
 
 561
 00:40:56,401 --> 00:40:57,800
@@ -2496,40 +2496,40 @@ a pressurizaÁ„o da cabina.
 
 562
 00:40:58,803 --> 00:41:01,795
-Estamos prontos para a separaÁ„o
-do mÛdulo de comando.
+Estamos prontos para a separa√ß√£o
+do m√≥dulo de comando.
 
 563
 00:41:03,975 --> 00:41:07,206
-OK, as v·lvulas de isolamento
-est„o prontas.
+OK, as v√°lvulas de isolamento
+est√£o prontas.
 
 564
 00:41:07,879 --> 00:41:10,313
 OK, Swigert,
-piloto do mÛdulo de comando.
+piloto do m√≥dulo de comando.
 
 565
 00:41:10,482 --> 00:41:12,143
-… todo seu.
+√â todo seu.
 
 566
 00:41:16,955 --> 00:41:19,287
-<i>Houston, boa separaÁ„o.</i>
+<i>Houston, boa separa√ß√£o.</i>
 
 567
 00:41:19,391 --> 00:41:22,121
-<i>- O S-4B est· est·vel.</i>
-<i>- A translaÁ„o parece boa.</i>
+<i>- O S-4B est√° est√°vel.</i>
+<i>- A transla√ß√£o parece boa.</i>
 
 568
 00:41:22,294 --> 00:41:25,559
 <i>- Reconfirme,</i> 13.
-<i>- Vamos comeÁar a rodar...</i>
+<i>- Vamos come√ßar a rodar...</i>
 
 569
 00:41:25,630 --> 00:41:27,655
-<i>para nos alinharmos com o mÛdulo lunar.</i>
+<i>para nos alinharmos com o m√≥dulo lunar.</i>
 
 570
 00:41:27,732 --> 00:41:29,723
@@ -2542,7 +2542,7 @@ na <i>Apollo 8.</i>
 
 572
 00:41:32,938 --> 00:41:36,999
-Estou bem. SÛ comi demais no cafÈ.
+Estou bem. S√≥ comi demais no caf√©.
 Vamos trabalhar.
 
 573
@@ -2551,7 +2551,7 @@ Estou girando.
 
 574
 00:41:40,779 --> 00:41:43,304
-Õndice de rotaÁ„o,
+√çndice de rota√ß√£o,
 2,5 graus por segundo.
 
 575
@@ -2560,7 +2560,7 @@ Estou girando.
 
 576
 00:41:45,951 --> 00:41:47,509
-Estamos vendo vocÍ girar.
+Estamos vendo voc√™ girar.
 
 577
 00:41:47,586 --> 00:41:49,213
@@ -2568,17 +2568,17 @@ Fique de olho na telemetria.
 
 578
 00:41:49,287 --> 00:41:53,656
-Entendido. Se Swigert n„o conseguir
-acoplar essa coisa, n„o haver· miss„o.
+Entendido. Se Swigert n√£o conseguir
+acoplar essa coisa, n√£o haver√° miss√£o.
 
 579
 00:41:55,260 --> 00:41:57,820
-- Como est· o alinhamento?
+- Como est√° o alinhamento?
 - GDC alinhado.
 
 580
 00:42:03,001 --> 00:42:04,764
-Impuls„o para a frente.
+Impuls√£o para a frente.
 
 581
 00:42:06,671 --> 00:42:08,366
@@ -2586,29 +2586,29 @@ Impuls„o para a frente.
 
 582
 00:42:13,545 --> 00:42:15,638
-AtenÁ„o ao alinhamento agora.
+Aten√ß√£o ao alinhamento agora.
 
 583
 00:42:23,955 --> 00:42:25,582
-N„o se preocupem, rapazes.
+N√£o se preocupem, rapazes.
 
 584
 00:42:25,657 --> 00:42:27,352
-Est· tudo sob controle.
+Est√° tudo sob controle.
 
 585
 00:42:31,663 --> 00:42:33,756
-<i>TrajetÛria, avise-me quando</i>
+<i>Trajet√≥ria, avise-me quando</i>
 <i>estiver pronto.</i>
 
 586
 00:42:33,832 --> 00:42:35,231
-<i>Vamos conect·-lo.</i>
+<i>Vamos conect√°-lo.</i>
 
 587
 00:42:37,002 --> 00:42:40,096
 - Como estamos indo?
-- Ainda n„o chegamos l·. Doze metros.
+- Ainda n√£o chegamos l√°. Doze metros.
 
 588
 00:42:42,140 --> 00:42:43,368
@@ -2620,7 +2620,7 @@ Vamos, novato, estacione essa coisa.
 
 590
 00:42:56,921 --> 00:42:58,252
-TrÍs metros.
+Tr√™s metros.
 
 591
 00:43:08,867 --> 00:43:10,095
@@ -2628,16 +2628,16 @@ Acoplado.
 
 592
 00:43:10,568 --> 00:43:11,865
-… isso aÌ.
+√â isso a√≠.
 
 593
 00:43:11,936 --> 00:43:15,235
-- O Painel mostra a mudanÁa.
-- Positivo para a retraÁ„o.
+- O Painel mostra a mudan√ßa.
+- Positivo para a retra√ß√£o.
 
 594
 00:43:19,044 --> 00:43:20,944
-Houston, temos uma acoplagem sÛlida.
+Houston, temos uma acoplagem s√≥lida.
 
 595
 00:43:21,012 --> 00:43:23,913
@@ -2645,12 +2645,12 @@ OK, entendido. Bom trabalho, Jack.
 
 596
 00:43:24,015 --> 00:43:26,575
-Vamos comeÁar o procedimento 17.
+Vamos come√ßar o procedimento 17.
 
 597
 00:43:28,253 --> 00:43:30,687
-<i>Houston, extraÁ„o do</i>
-<i>mÛdulo concluÌda.</i>
+<i>Houston, extra√ß√£o do</i>
+<i>m√≥dulo conclu√≠da.</i>
 
 598
 00:43:30,789 --> 00:43:32,450
@@ -2658,7 +2658,7 @@ Vamos comeÁar o procedimento 17.
 
 599
 00:43:32,857 --> 00:43:35,155
-<i>Agora est„o a caminho</i>
+<i>Agora est√£o a caminho</i>
 <i>das montanhas Fra Mauro.</i>
 
 600
@@ -2668,8 +2668,8 @@ Vamos comeÁar o procedimento 17.
 
 601
 00:43:38,897 --> 00:43:41,127
-para as rotaÁıes
-de controle tÈrmico passivo...
+para as rota√ß√µes
+de controle t√©rmico passivo...
 
 602
 00:43:41,199 --> 00:43:45,431
@@ -2687,8 +2687,8 @@ Poderia comer um rinoceronte inteiro.
 
 605
 00:43:55,447 --> 00:43:58,041
-- Est· tudo correndo bem?
-- AtÈ agora.
+- Est√° tudo correndo bem?
+- At√© agora.
 
 606
 00:43:58,116 --> 00:44:01,210
@@ -2697,7 +2697,7 @@ no sistema de resfriamento...
 
 607
 00:44:02,954 --> 00:44:05,081
-- AtÈ amanh„.
+- At√© amanh√£.
 - Cuidem-se.
 
 608
@@ -2706,12 +2706,12 @@ DIA 3 - 13 DE ABRIL
 
 609
 00:44:19,504 --> 00:44:22,496
-… uma pena n„o podermos mostrar
+√â uma pena n√£o podermos mostrar
 isto na TV.
 
 610
 00:44:23,007 --> 00:44:24,497
-… uma pena mesmo.
+√â uma pena mesmo.
 
 611
 00:44:31,449 --> 00:44:33,076
@@ -2727,55 +2727,55 @@ ESGOTO FORA DE BORDO
 
 614
 00:44:37,188 --> 00:44:38,746
-AÌ vai ela...
+A√≠ vai ela...
 
 615
 00:44:38,857 --> 00:44:40,825
-a constelaÁ„o de Urion.
+a constela√ß√£o de Urion.
 
 616
 00:44:44,929 --> 00:44:46,954
-<i>Isso sim È um belo espet·culo.</i>
+<i>Isso sim √© um belo espet√°culo.</i>
 
 617
 00:44:47,031 --> 00:44:50,933
-Barbara, vamos ‡ transmiss„o do seu pai.
+Barbara, vamos √† transmiss√£o do seu pai.
 
 618
 00:44:51,136 --> 00:44:53,263
-N„o! Nunca mais vou sair!
+N√£o! Nunca mais vou sair!
 
 619
 00:44:53,972 --> 00:44:57,999
-Eu odeio o Paul! NinguÈm mais poder·
+Eu odeio o Paul! Ningu√©m mais poder√°
 tocar seus discos de novo!
 
 620
 00:44:58,209 --> 00:45:01,440
-Ela ainda est· chateada
-pela separaÁ„o dos idiotas dos Beatles?
+Ela ainda est√° chateada
+pela separa√ß√£o dos idiotas dos Beatles?
 
 621
 00:45:01,513 --> 00:45:04,141
-Eles n„o s„o idiotas! VocÍ È idiota!
+Eles n√£o s√£o idiotas! Voc√™ √© idiota!
 
 622
 00:45:04,215 --> 00:45:05,443
-Sei que est· chateada.
+Sei que est√° chateada.
 
 623
 00:45:05,517 --> 00:45:08,111
-Eu n„o vou, m„e!
-O pai n„o saber· se estamos l·!
+Eu n√£o vou, m√£e!
+O pai n√£o saber√° se estamos l√°!
 
 624
 00:45:08,186 --> 00:45:12,816
-O mundo inteiro assistir·
-a essa transmiss„o, e nÛs tambÈm.
+O mundo inteiro assistir√°
+a essa transmiss√£o, e n√≥s tamb√©m.
 
 625
 00:45:16,194 --> 00:45:18,219
-<i>Boa noite, AmÈrica...</i>
+<i>Boa noite, Am√©rica...</i>
 
 626
 00:45:18,329 --> 00:45:20,854
@@ -2784,12 +2784,12 @@ a essa transmiss„o, e nÛs tambÈm.
 627
 00:45:21,733 --> 00:45:25,328
 <i>Eu sou Jim Lovell,</i>
-<i>e estamos transmitindo hoje ‡ noite...</i>
+<i>e estamos transmitindo hoje √† noite...</i>
 
 628
 00:45:25,403 --> 00:45:29,169
 <i>de uma altitude</i>
-<i>de quase 320 mil quilÙmetros...</i>
+<i>de quase 320 mil quil√¥metros...</i>
 
 629
 00:45:30,008 --> 00:45:32,135
@@ -2797,34 +2797,34 @@ a essa transmiss„o, e nÛs tambÈm.
 
 630
 00:45:32,210 --> 00:45:34,974
-<i>e temos um belo espet·culo</i>
-<i>para vocÍs hoje ‡ noite.</i>
+<i>e temos um belo espet√°culo</i>
+<i>para voc√™s hoje √† noite.</i>
 
 631
 00:45:35,046 --> 00:45:37,378
-<i>Vamos mostrar-lhes como È...</i>
+<i>Vamos mostrar-lhes como √©...</i>
 
 632
 00:45:37,515 --> 00:45:40,313
-<i>a vida de nÛs trÍs aqui...</i>
+<i>a vida de n√≥s tr√™s aqui...</i>
 
 633
 00:45:40,919 --> 00:45:43,513
-<i>na vasta imensid„o do espaÁo.</i>
+<i>na vasta imensid√£o do espa√ßo.</i>
 
 634
 00:45:44,088 --> 00:45:46,522
 <i>A primeira coisa que</i>
-<i>gostarÌamos de fazer...</i>
+<i>gostar√≠amos de fazer...</i>
 
 635
 00:45:46,591 --> 00:45:49,890
-È providenciar o fundo
+√© providenciar o fundo
 musical apropriado.
 
 636
 00:45:51,196 --> 00:45:53,255
-Ent„o, aperte aÌ, Freddo.
+Ent√£o, aperte a√≠, Freddo.
 
 637
 00:46:09,113 --> 00:46:13,015
@@ -2832,36 +2832,36 @@ Ent„o, aperte aÌ, Freddo.
 
 638
 00:46:13,084 --> 00:46:15,609
-<i>em honra ao nosso mÛdulo</i>
+<i>em honra ao nosso m√≥dulo</i>
 <i>de comando, Odyssey.</i>
 
 639
 00:46:15,687 --> 00:46:19,384
-Parece que houve uma mudanÁa de planos
-de ˙ltima hora.
+Parece que houve uma mudan√ßa de planos
+de √∫ltima hora.
 
 640
 00:46:19,757 --> 00:46:24,558
 Quando eu subir com o <i>19,</i> vou levar
-a coleÁ„o inteira de Johnny Cash comigo.
+a cole√ß√£o inteira de Johnny Cash comigo.
 
 641
 00:46:28,132 --> 00:46:30,726
 - Ei, Marilyn.
-- Onde est· a transmiss„o?
+- Onde est√° a transmiss√£o?
 
 642
 00:46:31,936 --> 00:46:33,801
-Todas as estaÁıes desistiram.
+Todas as esta√ß√µes desistiram.
 
 643
 00:46:33,905 --> 00:46:35,964
 Uma delas disse que
-tornamos a ida ‡ lua...
+tornamos a ida √† lua...
 
 644
 00:46:36,040 --> 00:46:38,702
-t„o emocionante
+t√£o emocionante
 quanto uma viagem a Pittsburgh.
 
 645
@@ -2870,20 +2870,20 @@ Meu filho deveria aparecer hoje.
 
 646
 00:46:42,881 --> 00:46:44,712
-Ele est· no espaÁo.
+Ele est√° no espa√ßo.
 
 647
 00:46:46,584 --> 00:46:49,644
-Aqui sÛ pegam estes canais, Sra. Lovell.
+Aqui s√≥ pegam estes canais, Sra. Lovell.
 
 648
 00:46:51,222 --> 00:46:53,656
-… culpa deste maldito
+√â culpa deste maldito
 <i>Guia da TV</i> de novo.
 
 649
 00:46:54,292 --> 00:46:55,987
-<i>Carregadores cruÈis.</i>
+<i>Carregadores cru√©is.</i>
 
 650
 00:46:57,061 --> 00:46:58,722
@@ -2891,7 +2891,7 @@ Aqui sÛ pegam estes canais, Sra. Lovell.
 
 651
 00:47:12,076 --> 00:47:14,840
-Eles sabem que n„o est„o no ar?
+Eles sabem que n√£o est√£o no ar?
 
 652
 00:47:15,179 --> 00:47:17,807
@@ -2903,7 +2903,7 @@ Vamos contar quando eles voltarem.
 
 654
 00:47:25,657 --> 00:47:29,184
-<i>esqueci de preencher a minha declaraÁ„o.</i>
+<i>esqueci de preencher a minha declara√ß√£o.</i>
 
 655
 00:47:29,294 --> 00:47:31,353
@@ -2911,13 +2911,13 @@ Vamos contar quando eles voltarem.
 
 656
 00:47:31,462 --> 00:47:34,056
-Isso n„o È brincadeira.
-Eles ir„o procur·-lo.
+Isso n√£o √© brincadeira.
+Eles ir√£o procur√°-lo.
 
 657
 00:47:36,301 --> 00:47:39,429
-Bem, pessoal, vamos lev·-los
-numa excurs„o pelo mÛdulo lunar.
+Bem, pessoal, vamos lev√°-los
+numa excurs√£o pelo m√≥dulo lunar.
 
 658
 00:47:39,504 --> 00:47:40,835
@@ -2931,16 +2931,16 @@ para descer na lua...
 660
 00:47:43,675 --> 00:47:47,873
 eu e o Fred Haise flutuaremos
-por este t˙nel de acesso...
+por este t√∫nel de acesso...
 
 661
 00:47:47,979 --> 00:47:49,947
-atÈ o mÛdulo lunar, deixando...
+at√© o m√≥dulo lunar, deixando...
 
 662
 00:47:50,014 --> 00:47:53,108
 Controle de Vida,
-aquele misturador ser· usado...
+aquele misturador ser√° usado...
 
 663
 00:47:53,184 --> 00:47:56,312
@@ -2948,7 +2948,7 @@ nos dois tanques de H2 e O2, correto?
 
 664
 00:47:56,788 --> 00:47:59,279
-...a nave permanecer· ligada.
+...a nave permanecer√° ligada.
 
 665
 00:48:01,626 --> 00:48:03,992
@@ -2956,17 +2956,17 @@ Bem, pessoal, como podem ver...
 
 666
 00:48:04,062 --> 00:48:07,259
-o Aquarius n„o È muito maior
-que duas cabines telefÙnicas.
+o Aquarius n√£o √© muito maior
+que duas cabines telef√¥nicas.
 
 667
 00:48:07,465 --> 00:48:10,229
-O revestimento do mÛdulo lunar,
+O revestimento do m√≥dulo lunar,
 em alguns lugares...
 
 668
 00:48:10,301 --> 00:48:11,791
-È t„o...
+√© t√£o...
 
 669
 00:48:12,203 --> 00:48:14,899
@@ -2974,13 +2974,13 @@ espesso quanto algumas camadas...
 
 670
 00:48:15,006 --> 00:48:18,635
-de papel alumÌnio, e È sÛ isso que
-nos protege contra o v·cuo do espaÁo.
+de papel alum√≠nio, e √© s√≥ isso que
+nos protege contra o v√°cuo do espa√ßo.
 
 671
 00:48:18,710 --> 00:48:23,340
-Isso n„o nos afeta porque o mÛdulo lunar
-foi desenhado apenas pra voar no espaÁo.
+Isso n√£o nos afeta porque o m√≥dulo lunar
+foi desenhado apenas pra voar no espa√ßo.
 
 672
 00:48:23,414 --> 00:48:26,474
@@ -2988,7 +2988,7 @@ Fred Haise, o homem do Renascimento.
 
 673
 00:48:27,852 --> 00:48:32,016
-Agora vamos voltar para o t˙nel
+Agora vamos voltar para o t√∫nel
 e para dentro do Odyssey.
 
 674
@@ -3001,12 +3001,12 @@ Espere um momento, Houston.
 
 676
 00:48:44,402 --> 00:48:45,664
-Peguei vocÍs!
+Peguei voc√™s!
 
 677
 00:48:46,237 --> 00:48:50,731
 Houston, aquele barulho foi
-Fred Haise na v·lvula de pressurizaÁ„o.
+Fred Haise na v√°lvula de pressuriza√ß√£o.
 
 678
 00:48:50,842 --> 00:48:53,743
@@ -3022,12 +3022,12 @@ e a voltar para o Odyssey.
 
 681
 00:49:04,088 --> 00:49:08,821
-Nossa prÛxima transmiss„o ser·
-de Fra Mauro, na superfÌcie da lua.
+Nossa pr√≥xima transmiss√£o ser√°
+de Fra Mauro, na superf√≠cie da lua.
 
 682
 00:49:10,361 --> 00:49:13,660
-<i>Bem, esta È a tripulaÁ„o da</i> Apollo 13...
+<i>Bem, esta √© a tripula√ß√£o da</i> Apollo 13...
 
 683
 00:49:14,432 --> 00:49:16,923
@@ -3043,16 +3043,16 @@ Muito bem.
 
 686
 00:49:28,046 --> 00:49:29,741
-O papai estava engraÁado.
+O papai estava engra√ßado.
 
 687
 00:49:30,181 --> 00:49:32,547
 Talvez passem alguns minutos
-no notici·rio noturno.
+no notici√°rio noturno.
 
 688
 00:49:32,617 --> 00:49:34,209
-… o mÌnimo.
+√â o m√≠nimo.
 
 689
 00:49:36,020 --> 00:49:37,112
@@ -3065,7 +3065,7 @@ e o show de Fred Haise...
 
 691
 00:49:42,627 --> 00:49:45,790
-diria que foi uma transmiss„o
+diria que foi uma transmiss√£o
 de sucesso.
 
 692
@@ -3078,22 +3078,22 @@ Muito obrigado, Houston.
 
 694
 00:49:49,400 --> 00:49:51,630
-Temos alguns serviÁos domÈsticos
-pra vocÍs.
+Temos alguns servi√ßos dom√©sticos
+pra voc√™s.
 
 695
 00:49:51,703 --> 00:49:56,265
-Queremos que virem ‡ direita a 0-6-0
+Queremos que virem √† direita a 0-6-0
 e zerassem os movimentos errados.
 
 696
 00:49:56,641 --> 00:49:59,804
-Entendido. Virando ‡ direita, 0-6-0.
+Entendido. Virando √† direita, 0-6-0.
 
 697
 00:50:04,782 --> 00:50:08,548
 E se puderem,
-agitem os tanques de oxigÍnio.
+agitem os tanques de oxig√™nio.
 
 698
 00:50:09,387 --> 00:50:10,786
@@ -3113,12 +3113,12 @@ Temos um problema aqui.
 
 702
 00:50:47,425 --> 00:50:49,655
-- O que vocÍ fez?
+- O que voc√™ fez?
 - Nada. Agitei os tanques.
 
 703
 00:50:55,299 --> 00:50:57,961
-Aqui È Houston. Repita, por favor.
+Aqui √© Houston. Repita, por favor.
 
 704
 00:50:58,136 --> 00:50:59,626
@@ -3130,22 +3130,22 @@ PAINEL B PERDA DE ENERGIA
 
 706
 00:51:01,372 --> 00:51:03,533
-Temos uma perda de potÍncia no painel B.
+Temos uma perda de pot√™ncia no painel B.
 
 707
 00:51:03,608 --> 00:51:06,702
-- Temos muita propuls„o.
-- O que h· com o computador?
+- Temos muita propuls√£o.
+- O que h√° com o computador?
 
 708
 00:51:06,811 --> 00:51:10,042
-Est· desligado.
+Est√° desligado.
 Temos outro alarme principal.
 
 709
 00:51:10,148 --> 00:51:12,582
-- Estou vendo o quadr‚ngulo.
-- N„o foi uma v·lvula.
+- Estou vendo o quadr√¢ngulo.
+- N√£o foi uma v√°lvula.
 
 710
 00:51:12,650 --> 00:51:15,744
@@ -3167,7 +3167,7 @@ Vou para o sistema de controle.
 
 714
 00:51:26,364 --> 00:51:29,162
-Controle, os ritmos cardÌacos
+Controle, os ritmos card√≠acos
 deles dispararam.
 
 715
@@ -3177,36 +3177,36 @@ Sistemas, o que disem os seus dados?
 716
 00:51:30,482 --> 00:51:32,930
 O tanque de O2 dois
-n„o d· informaÁıes.
+n√£o d√° informa√ß√µes.
 
 717
 00:51:33,004 --> 00:51:36,496
-O tanque um est· em 725 psi
-e o valor est· descendo.
+O tanque um est√° em 725 psi
+e o valor est√° descendo.
 
 718
 00:51:36,974 --> 00:51:39,465
-Os tanques de combustÌvel
-um e trÍs est„o...
+Os tanques de combust√≠vel
+um e tr√™s est√£o...
 
 719
 00:51:40,311 --> 00:51:42,779
-O que est· havendo aqui?
+O que est√° havendo aqui?
 Controle, espere um momento.
 
 720
 00:51:42,847 --> 00:51:45,748
-Controle, NavegaÁ„o.
-Eles est„o por toda a parte.
+Controle, Navega√ß√£o.
+Eles est√£o por toda a parte.
 
 721
 00:51:45,850 --> 00:51:49,013
-- Est„o perdendo a orientaÁ„o.
-- Estou perdendo o sinal de r·dio.
+- Est√£o perdendo a orienta√ß√£o.
+- Estou perdendo o sinal de r√°dio.
 
 722
 00:51:49,086 --> 00:51:51,077
-A antena deve estar ao contr·rio.
+A antena deve estar ao contr√°rio.
 
 723
 00:51:51,155 --> 00:51:54,818
@@ -3215,13 +3215,13 @@ Um de cada vez.
 
 724
 00:51:55,059 --> 00:51:58,654
-Isso È um problema de equipamento
-ou uma perda real de potÍncia?
+Isso √© um problema de equipamento
+ou uma perda real de pot√™ncia?
 
 725
 00:51:58,863 --> 00:52:01,593
-Aqui diz uma falha qu·drupla.
-Isso n„o È possÌvel.
+Aqui diz uma falha qu√°drupla.
+Isso n√£o √© poss√≠vel.
 
 726
 00:52:01,666 --> 00:52:03,634
@@ -3230,12 +3230,12 @@ Deve ser o equipamento.
 727
 00:52:03,701 --> 00:52:06,295
 Feche a escotilha.
-Um meteoro deve ter atingido o mÛdulo.
+Um meteoro deve ter atingido o m√≥dulo.
 
 728
 00:52:06,370 --> 00:52:09,339
-O t˙nel est· balanÁando muito
-com toda essa press„o.
+O t√∫nel est√° balan√ßando muito
+com toda essa press√£o.
 
 729
 00:52:09,841 --> 00:52:13,675
@@ -3244,39 +3244,39 @@ associado ao aviso principal.
 
 730
 00:52:13,744 --> 00:52:15,575
-Merda, È o painel A.
+Merda, √© o painel A.
 
 731
 00:52:15,680 --> 00:52:19,776
-<i>- Perda de potÍncia no painel A?</i>
-- Painel A mostra perda de potÍncia...
+<i>- Perda de pot√™ncia no painel A?</i>
+- Painel A mostra perda de pot√™ncia...
 
 732
 00:52:20,618 --> 00:52:24,418
-Diz 25 e meio. O painel B n„o diz nada.
+Diz 25 e meio. O painel B n√£o diz nada.
 
 733
 00:52:24,755 --> 00:52:26,848
-A nave est· balanÁando muito.
+A nave est√° balan√ßando muito.
 
 734
 00:52:26,924 --> 00:52:29,654
-Os rapazes est„o falando
-de estrondos e trepidaÁıes.
+Os rapazes est√£o falando
+de estrondos e trepida√ß√µes.
 
 735
 00:52:29,727 --> 00:52:31,627
-N„o parece um problema de equipamento.
+N√£o parece um problema de equipamento.
 
 736
 00:52:31,696 --> 00:52:34,187
-<i>- Est„o perdendo sinal.</i>
-- A escotilha n„o se fecha.
+<i>- Est√£o perdendo sinal.</i>
+- A escotilha n√£o se fecha.
 
 737
 00:52:34,265 --> 00:52:38,759
-Guarde-a. Se tivÈssemos sido atingidos
-por um meteoro, estarÌamos mortos.
+Guarde-a. Se tiv√©ssemos sido atingidos
+por um meteoro, estar√≠amos mortos.
 
 738
 00:52:38,970 --> 00:52:40,961
@@ -3290,22 +3290,22 @@ para omni bravo?
 740
 00:52:43,708 --> 00:52:46,700
 <i>- Isso mesmo,</i> 13.
-- O sinal perdeu muita forÁa.
+- O sinal perdeu muita for√ßa.
 
 741
 00:52:46,777 --> 00:52:50,338
-Est· difÌcil. O que est· havendo?
-Continuamos a perder a orientaÁ„o.
+Est√° dif√≠cil. O que est√° havendo?
+Continuamos a perder a orienta√ß√£o.
 
 742
 00:52:50,414 --> 00:52:53,975
-<i>Precisamos de uma confirmaÁ„o.</i>
-<i>Quais s„o os sistemas avariados?</i>
+<i>Precisamos de uma confirma√ß√£o.</i>
+<i>Quais s√£o os sistemas avariados?</i>
 
 743
 00:52:56,320 --> 00:52:58,550
-Sistema de controle de reaÁ„o,
-HÈlio um...
+Sistema de controle de rea√ß√£o,
+H√©lio um...
 
 744
 00:52:58,623 --> 00:53:00,784
@@ -3323,21 +3323,21 @@ para A principal.
 747
 00:53:05,229 --> 00:53:08,323
 OK, Houston,
-tanques de combustÌvel um e trÍs.
+tanques de combust√≠vel um e tr√™s.
 
 748
 00:53:08,900 --> 00:53:13,269
-Perda de potÍncia no painel B,
-press„o criogÍnica, compressor.
+Perda de pot√™ncia no painel B,
+press√£o criog√™nica, compressor.
 
 749
 00:53:13,671 --> 00:53:17,835
-O que È que n„o temos?
+O que √© que n√£o temos?
 Controle da altitude um e dois.
 
 750
 00:53:18,142 --> 00:53:21,407
-Computador do mÛdulo de comando.
+Computador do m√≥dulo de comando.
 Fluxo de O2 alto.
 
 751
@@ -3347,7 +3347,7 @@ Pode ser um defeito nas luzes de aviso.
 752
 00:53:24,115 --> 00:53:28,484
 Houston, estamos despejando
-alguma coisa no espaÁo.
+alguma coisa no espa√ßo.
 
 753
 00:53:30,254 --> 00:53:33,621
@@ -3356,28 +3356,28 @@ alguma coisa no espaÁo.
 
 754
 00:53:35,359 --> 00:53:39,489
-<i>…, com certeza, algum tipo de g·s.</i>
+<i>√â, com certeza, algum tipo de g√°s.</i>
 
 755
 00:53:42,166 --> 00:53:44,293
-SÛ pode ser oxigÍnio.
+S√≥ pode ser oxig√™nio.
 
 756
 00:54:02,286 --> 00:54:04,277
-Entendido, Odyssey. H· um vazamento.
+Entendido, Odyssey. H√° um vazamento.
 
 757
 00:54:04,355 --> 00:54:07,984
-- DÍ-me um alinhamento.
-- Vamos pensar nas possÌveis ligaÁıes.
+- D√™-me um alinhamento.
+- Vamos pensar nas poss√≠veis liga√ß√µes.
 
 758
 00:54:08,125 --> 00:54:10,525
-Vamos comeÁar pelo inÌcio.
+Vamos come√ßar pelo in√≠cio.
 
 759
 00:54:22,740 --> 00:54:25,368
-OuÁam. SilÍncio, pessoal.
+Ou√ßam. Sil√™ncio, pessoal.
 
 760
 00:54:30,014 --> 00:54:32,005
@@ -3404,12 +3404,12 @@ Vamos analisar o problema, pessoal.
 
 765
 00:54:42,994 --> 00:54:45,189
-N„o vamos piorar as coisas
-com adivinhaÁıes.
+N√£o vamos piorar as coisas
+com adivinha√ß√µes.
 
 766
 00:54:45,262 --> 00:54:46,178
-13, <i>aqui È Houston.</i>
+13, <i>aqui √© Houston.</i>
 
 767
 00:54:46,179 --> 00:54:49,494
@@ -3418,7 +3418,7 @@ com adivinhaÁıes.
 
 768
 00:54:49,767 --> 00:54:53,533
-<i>Se continuarmos perdendo g·s,</i>
+<i>Se continuarmos perdendo g√°s,</i>
 <i>vamos continuar batendo na faixa morta.</i>
 
 769
@@ -3427,16 +3427,16 @@ Verifiquem o O2 no tanque um.
 
 770
 00:55:00,745 --> 00:55:02,736
-200 libras e est· diminuindo.
+200 libras e est√° diminuindo.
 
 771
 00:55:03,748 --> 00:55:05,739
-O tanque de O2 dois est· a zero.
+O tanque de O2 dois est√° a zero.
 
 772
 00:55:05,850 --> 00:55:09,342
 - Tanque um: 218 psi e caindo.
-<i>- … isso o que tÍm? Confirmem.</i>
+<i>- √â isso o que t√™m? Confirmem.</i>
 
 773
 00:55:09,420 --> 00:55:14,187
@@ -3450,19 +3450,19 @@ sob um ponto de vista de status.
 
 775
 00:55:22,733 --> 00:55:25,896
-O que temos na espaÁonave que funciona?
+O que temos na espa√ßonave que funciona?
 
 776
 00:55:28,239 --> 00:55:30,400
-J· vou responder, Gene.
+J√° vou responder, Gene.
 
 777
 00:55:32,076 --> 00:55:34,408
-N„o teremos potÍncia por muito tempo.
+N√£o teremos pot√™ncia por muito tempo.
 
 778
 00:55:34,745 --> 00:55:37,043
-A nave est· sangrando atÈ a morte.
+A nave est√° sangrando at√© a morte.
 
 779
 00:55:44,922 --> 00:55:46,981
@@ -3472,16 +3472,16 @@ A nave est· sangrando atÈ a morte.
 780
 00:55:48,392 --> 00:55:52,021
 Controle, recomendo que fechem
-as v·lvulas reativas de combustÌvel.
+as v√°lvulas reativas de combust√≠vel.
 
 781
 00:55:53,164 --> 00:55:55,758
-Em que diabos isso ir· ajudar?
+Em que diabos isso ir√° ajudar?
 
 782
 00:55:56,000 --> 00:55:58,434
 Se o vazamento for ali,
-podemos isol·-lo.
+podemos isol√°-lo.
 
 783
 00:55:58,669 --> 00:56:02,002
@@ -3490,17 +3490,17 @@ e usar o tanque bom.
 
 784
 00:56:02,106 --> 00:56:06,566
-Se fecharmos, n„o poderemos mais abrir.
-N„o se pode pousar na lua com um tanque.
+Se fecharmos, n√£o poderemos mais abrir.
+N√£o se pode pousar na lua com um tanque.
 
 785
 00:56:07,578 --> 00:56:09,739
-Gene, o Odyssey est· morrendo.
+Gene, o Odyssey est√° morrendo.
 
 786
 00:56:10,481 --> 00:56:13,314
 No que me diz respeito,
-esta È a ˙ltima opÁ„o.
+esta √© a √∫ltima op√ß√£o.
 
 787
 00:56:21,258 --> 00:56:23,351
@@ -3508,30 +3508,30 @@ Sim. OK, Sy.
 
 788
 00:56:38,976 --> 00:56:42,139
-ComunicaÁ„o, mande-os fechar
-as v·lvulas reativas.
+Comunica√ß√£o, mande-os fechar
+as v√°lvulas reativas.
 
 789
 00:56:42,379 --> 00:56:44,210
-<i>13,</i> aqui È Houston.
+<i>13,</i> aqui √© Houston.
 
 790
 00:56:44,582 --> 00:56:49,542
-Queremos que fechem as v·lvulas reativas
-dos tanques um e trÍs. Entendido?
+Queremos que fechem as v√°lvulas reativas
+dos tanques um e tr√™s. Entendido?
 
 791
 00:56:51,622 --> 00:56:54,147
-Est· dizendo para desligarmos tudo?
+Est√° dizendo para desligarmos tudo?
 
 792
 00:56:54,225 --> 00:56:57,991
-Desligar as v·lvulas reativas
-para desligar os tanques de combustÌvel?
+Desligar as v√°lvulas reativas
+para desligar os tanques de combust√≠vel?
 
 793
 00:56:58,529 --> 00:57:01,965
-Desligar os tanques de combustÌvel?
+Desligar os tanques de combust√≠vel?
 Eu ouvi bem?
 
 794
@@ -3540,7 +3540,7 @@ Sim, ouviram bem.
 
 795
 00:57:05,469 --> 00:57:08,961
-Diga que achamos que È o ˙nico modo
+Diga que achamos que √© o √∫nico modo
 para deter o vazamento.
 
 796
@@ -3549,7 +3549,7 @@ Sim, Jim...
 
 797
 00:57:10,407 --> 00:57:13,843
-<i>achamos que fechar as v·lvulas reativas</i>
+<i>achamos que fechar as v√°lvulas reativas</i>
 <i>pode deter o vazamento.</i>
 
 798
@@ -3575,16 +3575,16 @@ Vejamos o que acontece.
 
 803
 00:58:02,793 --> 00:58:04,693
-Se isso n„o funcionar...
+Se isso n√£o funcionar...
 
 804
 00:58:04,929 --> 00:58:07,921
-n„o teremos energia suficiente
+n√£o teremos energia suficiente
 para voltar para casa.
 
 805
 00:58:22,279 --> 00:58:24,372
-PRESS√O - QUANTIDADE - TEMPERATURA
+PRESS√ÉO - QUANTIDADE - TEMPERATURA
 
 806
 00:58:25,482 --> 00:58:28,076
@@ -3593,21 +3593,21 @@ PRESS√O - QUANTIDADE - TEMPERATURA
 
 807
 00:58:28,252 --> 00:58:31,415
-Houston, O2 no um ainda em diminuiÁ„o.
+Houston, O2 no um ainda em diminui√ß√£o.
 
 808
 00:58:34,792 --> 00:58:37,090
-Quanto tempo È necess·rio
-para carregar o mÛdulo?
+Quanto tempo √© necess√°rio
+para carregar o m√≥dulo?
 
 809
 00:58:37,161 --> 00:58:39,652
-TrÍs horas segundo
+Tr√™s horas segundo
 a lista de procedimentos.
 
 810
 00:58:39,997 --> 00:58:41,692
-N„o temos todo esse tempo.
+N√£o temos todo esse tempo.
 
 811
 00:58:42,166 --> 00:58:43,326
@@ -3625,13 +3625,13 @@ para usarmos no nosso retorno.
 
 814
 00:58:54,278 --> 00:58:57,770
-Quinze minutos de oxigÍnio e È tudo.
-O mÛdulo de comando morrer·.
+Quinze minutos de oxig√™nio e √© tudo.
+O m√≥dulo de comando morrer√°.
 
 815
 00:58:57,848 --> 00:59:00,646
-OK, rapazes, ouÁam.
-Aqui v„o as instruÁıes.
+OK, rapazes, ou√ßam.
+Aqui v√£o as instru√ß√µes.
 
 816
 00:59:00,951 --> 00:59:02,919
@@ -3639,50 +3639,50 @@ Vamos colocar os astronautas no LEM.
 
 817
 00:59:02,987 --> 00:59:04,716
-Temos que mandar oxigÍnio para l·.
+Temos que mandar oxig√™nio para l√°.
 
 818
 00:59:04,788 --> 00:59:09,191
 TELMU, Controle, quero um procedimento
-de emergÍncia. SÛ o essencial.
+de emerg√™ncia. S√≥ o essencial.
 
 819
 00:59:09,260 --> 00:59:13,026
-NavegaÁ„o, EECOM, vamos fechar
-o mÛdulo de comando ao mesmo tempo.
+Navega√ß√£o, EECOM, vamos fechar
+o m√≥dulo de comando ao mesmo tempo.
 
 820
 00:59:13,130 --> 00:59:16,031
-Temos que pÙr o sistema de orientaÁ„o
+Temos que p√¥r o sistema de orienta√ß√£o
 em outro computador.
 
 821
 00:59:16,100 --> 00:59:18,933
 Quero as coordenadas prontas
-pra quando estiverem em posiÁ„o.
+pra quando estiverem em posi√ß√£o.
 
 822
 00:59:19,003 --> 00:59:23,303
 Transfiram tudo para o computador do LEM
-antes que o mÛdulo de comando morra.
+antes que o m√≥dulo de comando morra.
 
 823
 00:59:23,374 --> 00:59:25,604
-O mÛdulo lunar virou um salva-vidas.
+O m√≥dulo lunar virou um salva-vidas.
 
 824
 00:59:25,876 --> 00:59:29,835
-Odyssey, aqui È Houston. Reduzam
+Odyssey, aqui √© Houston. Reduzam
 o consumo de energia imediatamente.
 
 825
 00:59:30,180 --> 00:59:33,707
-<i>Liguem o mÛdulo lunar ao mesmo tempo,</i>
-<i>ent„o mandem alguÈm para l·.</i>
+<i>Liguem o m√≥dulo lunar ao mesmo tempo,</i>
+<i>ent√£o mandem algu√©m para l√°.</i>
 
 826
 00:59:33,784 --> 00:59:36,184
-O Freddo j· est· l·.
+O Freddo j√° est√° l√°.
 
 827
 00:59:36,287 --> 00:59:38,346
@@ -3690,77 +3690,77 @@ O Freddo j· est· l·.
 
 828
 00:59:38,455 --> 00:59:41,015
-<i>Transfiram o programa de orientaÁ„o...</i>
+<i>Transfiram o programa de orienta√ß√£o...</i>
 
 829
 00:59:41,125 --> 00:59:43,821
 <i>antes que fiquem sem energia</i>
-<i>no mÛdulo de comando...</i>
+<i>no m√≥dulo de comando...</i>
 
 830
 00:59:43,894 --> 00:59:46,328
-<i>ou n„o poder„o navegar.</i>
+<i>ou n√£o poder√£o navegar.</i>
 
 831
 00:59:46,463 --> 00:59:48,431
-Quanto tempo? Podem me dar um n˙mero?
+Quanto tempo? Podem me dar um n√∫mero?
 
 832
 00:59:48,499 --> 00:59:52,697
 Digamos menos de 15 minutos
-de sobrevivÍncia no Odyssey.
+de sobreviv√™ncia no Odyssey.
 
 833
 00:59:56,140 --> 00:59:59,803
 Temos 15 minutos, Freddo.
-… pior do que eu pensava.
+√â pior do que eu pensava.
 
 834
 01:00:01,645 --> 01:00:05,376
-<i>Houston, passei do mÛdulo de comando</i>
-<i>para o mÛdulo lunar.</i>
+<i>Houston, passei do m√≥dulo de comando</i>
+<i>para o m√≥dulo lunar.</i>
 
 835
 01:00:06,517 --> 01:00:10,044
-Se o Jack n„o transferir
+Se o Jack n√£o transferir
 os dados em tempo...
 
 836
 01:00:10,154 --> 01:00:12,418
-N„o saber„o para que lado est„o indo.
+N√£o saber√£o para que lado est√£o indo.
 
 837
 01:00:12,523 --> 01:00:15,219
-- … um pÈssimo modo de voar.
+- √â um p√©ssimo modo de voar.
 - Estarei no 210 se precisar.
 
 838
 01:00:17,494 --> 01:00:20,588
-<i>Houston, aqui È a 13.
-<i>Est· me ouvindo agora?</i>
+<i>Houston, aqui √© a 13.
+<i>Est√° me ouvindo agora?</i>
 
 839
 01:00:22,266 --> 01:00:25,997
-<i>Aquarius, aqui È Houston.</i>
-<i>VocÍs tÍm 12 minutos pra ligar o mÛdulo.</i>
+<i>Aquarius, aqui √© Houston.</i>
+<i>Voc√™s t√™m 12 minutos pra ligar o m√≥dulo.</i>
 
 840
 01:00:26,070 --> 01:00:30,439
-N„o estou vendo nenhuma estrela.
-H· muitos escombros flutuando l· fora.
+N√£o estou vendo nenhuma estrela.
+H√° muitos escombros flutuando l√° fora.
 
 841
 01:00:32,009 --> 01:00:34,705
 Houston, completei os passos
-da p·gina 15.
+da p√°gina 15.
 
 842
 01:00:34,778 --> 01:00:36,746
-J· posso desligar o computador.
+J√° posso desligar o computador.
 
 843
 01:00:38,082 --> 01:00:42,416
-Preciso dos ‚ngulos dos giroscÛpios,
+Preciso dos √¢ngulos dos girosc√≥pios,
 Jack, antes que desligue o computador!
 
 844
@@ -3773,11 +3773,11 @@ Preciso disso antes que eles desliguem.
 
 846
 01:00:46,123 --> 01:00:48,557
-Est· bem, j· entendi. Espere.
+Est√° bem, j√° entendi. Espere.
 
 847
 01:00:49,593 --> 01:00:52,858
-- Houston, nosso computador est· ligado.
+- Houston, nosso computador est√° ligado.
 <i>- OK. Fiquem prontos.</i>
 
 848
@@ -3787,7 +3787,7 @@ Est· bem, j· entendi. Espere.
 
 849
 01:00:58,469 --> 01:01:01,404
-<i>SÛ restam cerca de oito minutos.</i>
+<i>S√≥ restam cerca de oito minutos.</i>
 
 850
 01:01:01,972 --> 01:01:05,203
@@ -3797,32 +3797,32 @@ Est· bem, j· entendi. Espere.
 851
 01:01:05,275 --> 01:01:09,211
 OK, Houston, confirmem.
-Eu terminei as conversıes card‚nicas...
+Eu terminei as convers√µes card√¢nicas...
 
 852
 01:01:09,279 --> 01:01:12,612
-mas preciso que verifiquem a aritmÈtica.
+mas preciso que verifiquem a aritm√©tica.
 
 853
 01:01:12,716 --> 01:01:17,210
 - OK, pode dizer, Jim.
-- O ‚ngulo de calibraÁ„o È menos dois.
+- O √¢ngulo de calibra√ß√£o √© menos dois.
 
 854
 01:01:17,388 --> 01:01:20,880
-<i>A rotaÁ„o do mÛdulo lunar È 355,57.</i>
+<i>A rota√ß√£o do m√≥dulo lunar √© 355,57.</i>
 
 855
 01:01:21,091 --> 01:01:24,458
-<i>InclinaÁ„o: 1678, correÁ„o.</i>
+<i>Inclina√ß√£o: 1678, corre√ß√£o.</i>
 
 856
 01:01:24,561 --> 01:01:27,462
-<i>InclinaÁ„o: 167,78.</i>
+<i>Inclina√ß√£o: 167,78.</i>
 
 857
 01:01:27,731 --> 01:01:30,131
-<i>Velocidade angular È 351,87.</i>
+<i>Velocidade angular √© 351,87.</i>
 
 858
 01:01:30,234 --> 01:01:31,758
@@ -3835,7 +3835,7 @@ Espere. Estamos verificando.
 
 860
 01:01:34,405 --> 01:01:39,001
-<i>e se os c·lculos estiverem errados,</i>
+<i>e se os c√°lculos estiverem errados,</i>
 <i>quem sabe aonde iremos parar.</i>
 
 861
@@ -3849,12 +3849,12 @@ Parece correto, Controle.
 
 863
 01:01:50,087 --> 01:01:52,317
-- Est· bom, Andy.
+- Est√° bom, Andy.
 - Vamos proceder.
 
 864
 01:01:52,423 --> 01:01:54,050
-<i>- Est· correto.</i>
+<i>- Est√° correto.</i>
 - Insira-os, Freddo.
 
 865
@@ -3863,36 +3863,36 @@ Parece correto, Controle.
 
 866
 01:01:56,493 --> 01:01:58,927
-<i>Fiquem prontos. C‚mbio.</i>
+<i>Fiquem prontos. C√¢mbio.</i>
 
 867
 01:01:59,863 --> 01:02:02,627
-<i>… um lindo dia em Nova lorque.</i>
+<i>√â um lindo dia em Nova lorque.</i>
 <i>Tempo bom para observar as garotas.</i>
 
 868
 01:02:02,699 --> 01:02:05,862
 <i>Gosto do truque de fingir</i>
-<i>trabalhar para uma companhia elÈtrica...</i>
+<i>trabalhar para uma companhia el√©trica...</i>
 
 869
 01:02:05,936 --> 01:02:09,599
 <i>e cavar buracos na rua</i>
-<i>para ter uma vis„o melhor.</i>
+<i>para ter uma vis√£o melhor.</i>
 
 870
 01:02:09,673 --> 01:02:11,903
-<i>Mas a propÛsito de observar</i>
+<i>Mas a prop√≥sito de observar</i>
 <i>as garotas...</i>
 
 871
 01:02:11,975 --> 01:02:15,536
 <i>sabiam que o nosso primeiro astronauta</i>
-<i>solteiro est· a caminho da lua?</i>
+<i>solteiro est√° a caminho da lua?</i>
 
 872
 01:02:15,612 --> 01:02:18,103
-<i>… o Swigert? …, o primeiro solteiro.</i>
+<i>√â o Swigert? √â, o primeiro solteiro.</i>
 
 873
 01:02:18,182 --> 01:02:22,448
@@ -3901,12 +3901,12 @@ Parece correto, Controle.
 
 874
 01:02:22,553 --> 01:02:26,956
-<i>… um otimista. Levou meias de nylon,</i>
+<i>√â um otimista. Levou meias de nylon,</i>
 <i>e bombons para a lua.</i>
 
 875
 01:02:29,693 --> 01:02:31,490
-<i>VocÍs leram que trÍs milhıes...</i>
+<i>Voc√™s leram que tr√™s milh√µes...</i>
 
 876
 01:02:31,562 --> 01:02:34,258
@@ -3915,12 +3915,12 @@ Parece correto, Controle.
 
 877
 01:02:34,331 --> 01:02:37,823
-<i>TrÍs milhıes de espectadores a menos...</i>
+<i>Tr√™s milh√µes de espectadores a menos...</i>
 
 878
 01:02:37,968 --> 01:02:40,664
-<i>assistiram ao lanÁamento</i>
-<i>em relaÁ„o ao anterior.</i>
+<i>assistiram ao lan√ßamento</i>
+<i>em rela√ß√£o ao anterior.</i>
 
 879
 01:02:42,806 --> 01:02:44,137
@@ -3928,13 +3928,13 @@ REPORTAGEM ESPECIAL - APOLLO 13
 
 880
 01:02:45,542 --> 01:02:48,841
-<i>Temos aqui o comentador cientÌfico</i>
+<i>Temos aqui o comentador cient√≠fico</i>
 <i>da ABC, Jules Bergman.</i>
 
 881
 01:02:49,580 --> 01:02:53,175
 <i>A nave espacial</i> Apollo 13
-<i>perdeu toda a energia elÈtrica...</i>
+<i>perdeu toda a energia el√©trica...</i>
 
 882
 01:02:53,250 --> 01:02:55,980
@@ -3943,64 +3943,64 @@ REPORTAGEM ESPECIAL - APOLLO 13
 
 883
 01:02:56,053 --> 01:02:58,578
-<i>est„o a caminho do mÛdulo lunar...</i>
+<i>est√£o a caminho do m√≥dulo lunar...</i>
 
 884
 01:02:58,689 --> 01:03:01,453
-<i>que lhes servir· de salva-vidas</i>
-<i>com energia elÈtrica...</i>
+<i>que lhes servir√° de salva-vidas</i>
+<i>com energia el√©trica...</i>
 
 885
 01:03:01,525 --> 01:03:03,356
-<i>para o r·dio no mÛdulo de comando.</i>
+<i>para o r√°dio no m√≥dulo de comando.</i>
 
 886
 01:03:03,427 --> 01:03:06,362
-<i>A Apollo 13 est· aparentemente</i>
-<i>perdendo o oxigÍnio tambÈm...</i>
+<i>A Apollo 13 est√° aparentemente</i>
+<i>perdendo o oxig√™nio tamb√©m...</i>
 
 887
 01:03:06,430 --> 01:03:09,763
-Espere. Uma "falha <i>elÈtrica".</i>
+Espere. Uma "falha <i>el√©trica".</i>
 O que isso significa exatamente?
 
 888
 01:03:09,833 --> 01:03:12,768
-<i>A emergÍncia eliminou qualquer hipÛtese</i>
+<i>A emerg√™ncia eliminou qualquer hip√≥tese</i>
 <i>de pousar na lua...</i>
 
 889
 01:03:12,836 --> 01:03:15,532
-<i>e poderia pÙr em perigo</i>
+<i>e poderia p√¥r em perigo</i>
 <i>a vida dos astronautas...</i>
 
 890
 01:03:15,606 --> 01:03:19,804
-<i>se o oxigÍnio do mÛdulo lunar,</i>
-<i>mais o que resta no mÛdulo de comando...</i>
+<i>se o oxig√™nio do m√≥dulo lunar,</i>
+<i>mais o que resta no m√≥dulo de comando...</i>
 
 891
 01:03:19,877 --> 01:03:22,175
-<i>n„o for suficiente para eles</i>
-<i>voltarem ‡ Terra.</i>
+<i>n√£o for suficiente para eles</i>
+<i>voltarem √† Terra.</i>
 
 892
 01:03:22,246 --> 01:03:24,009
-Como assim, "n„o h· perigo <i>imediato"?</i>
+Como assim, "n√£o h√° perigo <i>imediato"?</i>
 
 893
 01:03:24,081 --> 01:03:26,879
-Ouvi que est„o perdendo oxigÍnio.
+Ouvi que est√£o perdendo oxig√™nio.
 Eles podem voltar?
 
 894
 01:03:26,950 --> 01:03:30,613
-<i>O motor do foguete de descida do mÛdulo</i>
-<i>ser· usado para abortar a miss„o...</i>
+<i>O motor do foguete de descida do m√≥dulo</i>
+<i>ser√° usado para abortar a miss√£o...</i>
 
 895
 01:03:30,687 --> 01:03:33,019
-<i>e trazÍ-los, a salvo, de volta ‡ Terra.</i>
+<i>e traz√™-los, a salvo, de volta √† Terra.</i>
 
 896
 01:03:33,223 --> 01:03:34,815
@@ -4009,15 +4009,15 @@ Eles podem voltar?
 897
 01:03:34,892 --> 01:03:37,884
 <i>Os astronautas da</i> Apollo 13
-<i>podem estar em sÈrio perigo.</i>
+<i>podem estar em s√©rio perigo.</i>
 
 898
 01:03:37,961 --> 01:03:39,724
-N„o, n„o venha com esse papo de NASA!
+N√£o, n√£o venha com esse papo de NASA!
 
 899
 01:03:39,796 --> 01:03:42,230
-Quero saber o que est· acontecendo
+Quero saber o que est√° acontecendo
 com meu marido!
 
 900
@@ -4032,27 +4032,27 @@ com meu marido!
 
 902
 01:03:46,236 --> 01:03:47,966
-<i>SÛ lhes restam cinco minutos agora.</i>
+<i>S√≥ lhes restam cinco minutos agora.</i>
 
 903
 01:03:48,036 --> 01:03:50,328
-- N„o estamos em posiÁ„o.
-- Houston, atenÁ„o.
+- N√£o estamos em posi√ß√£o.
+- Houston, aten√ß√£o.
 
 904
 01:03:50,406 --> 01:03:54,007
-N„o estamos em posiÁ„o.
-N„o temos controle de altitude.
+N√£o estamos em posi√ß√£o.
+N√£o temos controle de altitude.
 
 905
 01:03:55,379 --> 01:03:58,075
-Eles n„o tÍm controle?
+Eles n√£o t√™m controle?
 Pulamos algum passo aqui?
 
 906
 01:03:58,248 --> 01:04:02,275
 - Controle, que diabos aconteceu?
-- N„o sei. Precisamos de mais tempo.
+- N√£o sei. Precisamos de mais tempo.
 
 907
 01:04:05,956 --> 01:04:07,184
@@ -4061,41 +4061,41 @@ Pulamos algum passo aqui?
 908
 01:04:07,257 --> 01:04:09,817
 Estou tentando inclinar,
-mas viramos ‡ esquerda.
+mas viramos √† esquerda.
 
 909
 01:04:09,893 --> 01:04:11,724
-Por que n„o consigo estabiliz·-lo?
+Por que n√£o consigo estabiliz√°-lo?
 
 910
 01:04:11,795 --> 01:04:14,787
-<i>Ele n„o foi desenhado para</i>
+<i>Ele n√£o foi desenhado para</i>
 <i>voar acoplado.</i>
 
 911
 01:04:15,766 --> 01:04:18,929
-… como voar com um elefante morto
+√â como voar com um elefante morto
 nas costas.
 
 912
 01:04:19,002 --> 01:04:21,596
-Controle, OrientaÁ„o.
+Controle, Orienta√ß√£o.
 Estamos nos aproximando do centro.
 
 913
 01:04:21,672 --> 01:04:25,039
-AtenÁ„o ‡ suspens„o card‚nica.
-N„o queremos que caiam no espaÁo.
+Aten√ß√£o √† suspens√£o card√¢nica.
+N√£o queremos que caiam no espa√ßo.
 
 914
 01:04:25,108 --> 01:04:28,202
 Diga a eles que estou de olho
-nas suspensıes card‚nicas!
+nas suspens√µes card√¢nicas!
 
 915
 01:04:28,645 --> 01:04:31,239
 - Entendido.
-<i>- N„o preciso ouvir o Ûbvio.</i>
+<i>- N√£o preciso ouvir o √≥bvio.</i>
 
 916
 01:04:31,315 --> 01:04:32,907
@@ -4107,8 +4107,8 @@ Andy, estamos no viva-voz.
 
 918
 01:04:34,351 --> 01:04:37,377
-Aquarius, aqui È Houston.
-VocÍs dois est„o no viva-voz.
+Aquarius, aqui √© Houston.
+Voc√™s dois est√£o no viva-voz.
 
 919
 01:04:37,621 --> 01:04:39,680
@@ -4116,7 +4116,7 @@ VocÍs dois est„o no viva-voz.
 
 920
 01:04:39,957 --> 01:04:43,017
-<i>Est„o com o microfone ligado.</i>
+<i>Est√£o com o microfone ligado.</i>
 <i>Ouvimos tudo o que dizem.</i>
 
 921
@@ -4125,7 +4125,7 @@ Desculpe, Jim.
 
 922
 01:04:46,697 --> 01:04:48,790
-<i>SÛ com muita sorte...</i>
+<i>S√≥ com muita sorte...</i>
 
 923
 01:04:48,865 --> 01:04:52,824
@@ -4134,17 +4134,17 @@ Desculpe, Jim.
 
 924
 01:04:56,139 --> 01:04:58,607
-Desculpe. O Jeffrey est· chamando-o.
+Desculpe. O Jeffrey est√° chamando-o.
 
 925
 01:04:58,675 --> 01:05:02,634
-<i>... a concis„o de Kraft</i>
+<i>... a concis√£o de Kraft</i>
 <i>e as linhas severas de Jim McDivitt.</i>
 
 926
 01:05:03,046 --> 01:05:07,176
-<i>Foi uma situaÁ„o muito crÌtica.</i>
-<i>E o perigo ainda n„o passou.</i>
+<i>Foi uma situa√ß√£o muito cr√≠tica.</i>
+<i>E o perigo ainda n√£o passou.</i>
 
 927
 01:05:14,858 --> 01:05:17,122
@@ -4152,7 +4152,7 @@ Por que tem tanta gente aqui?
 
 928
 01:05:20,530 --> 01:05:22,828
-O seu pai est· em miss„o espacial.
+O seu pai est√° em miss√£o espacial.
 
 929
 01:05:25,869 --> 01:05:28,702
@@ -4166,11 +4166,11 @@ Certo.
 931
 01:05:36,246 --> 01:05:39,181
 Uma coisa quebrou
-na espaÁonave do seu pai...
+na espa√ßonave do seu pai...
 
 932
 01:05:40,584 --> 01:05:44,452
-e ele ter· que voltar antes
+e ele ter√° que voltar antes
 de chegar na lua.
 
 933
@@ -4184,7 +4184,7 @@ Foi a porta?
 
 935
 01:05:55,365 --> 01:05:57,890
-<i>- Como est„o?</i>
+<i>- Como est√£o?</i>
 <i>- Houston, Aquarius.</i>
 
 936
@@ -4223,7 +4223,7 @@ ligar isto de novo?
 
 943
 01:06:29,433 --> 01:06:31,492
-Vamos passar para o mÛdulo lunar.
+Vamos passar para o m√≥dulo lunar.
 
 944
 01:06:32,235 --> 01:06:34,226
@@ -4231,87 +4231,87 @@ Confirmamos o desligamento, Jack.
 
 945
 01:06:34,304 --> 01:06:36,295
-<i>MÛdulo lunar no controle agora.</i>
+<i>M√≥dulo lunar no controle agora.</i>
 
 946
 01:06:41,411 --> 01:06:45,438
 <i>Entendido, Houston.</i>
-<i>Aqui È Odyssey terminando a transmiss„o.</i>
+<i>Aqui √© Odyssey terminando a transmiss√£o.</i>
 
 947
 01:07:01,765 --> 01:07:04,461
 Freddo, teremos que executar
-algumas combustıes.
+algumas combust√µes.
 
 948
 01:07:04,634 --> 01:07:06,568
-… sÛ uma quest„o de tempo.
+√â s√≥ uma quest√£o de tempo.
 
 949
 01:07:10,807 --> 01:07:13,776
-- Eles desligaram tudo l· embaixo?
+- Eles desligaram tudo l√° embaixo?
 - Sim.
 
 950
 01:07:15,245 --> 01:07:18,146
-N„o pensei que voltarÌamos
-aqui t„o cedo.
+N√£o pensei que voltar√≠amos
+aqui t√£o cedo.
 
 951
 01:07:20,083 --> 01:07:23,416
-Houston, qu„o fora da rota
-calcula que estamos? C‚mbio.
+Houston, qu√£o fora da rota
+calcula que estamos? C√¢mbio.
 
 952
 01:07:27,157 --> 01:07:28,954
-OK, pessoal, ouÁam!
+OK, pessoal, ou√ßam!
 
 953
 01:07:29,025 --> 01:07:32,324
-Senhores, quero que esqueÁam
+Senhores, quero que esque√ßam
 o plano de voo.
 
 954
 01:07:33,263 --> 01:07:36,824
 A partir de agora,
-improvisaremos uma nova miss„o.
+improvisaremos uma nova miss√£o.
 
 955
 01:07:39,436 --> 01:07:42,769
 Desculpe por isso. Vamos arranjar
-alguÈm para dar uma olhada.
+algu√©m para dar uma olhada.
 
 956
 01:07:43,006 --> 01:07:45,338
-Como È que vamos trazÍ-los para casa?
+Como √© que vamos traz√™-los para casa?
 
 957
 01:07:47,978 --> 01:07:49,138
-Eles est„o aqui.
+Eles est√£o aqui.
 
 958
 01:07:49,212 --> 01:07:52,045
-- NÛs os viramos, um aborto direto?
+- N√≥s os viramos, um aborto direto?
 - Sim!
 
 959
 01:07:55,819 --> 01:07:58,879
-N„o, senhor! NÛs os colocamos
-numa trajetÛria de retorno livre.
+N√£o, senhor! N√≥s os colocamos
+numa trajet√≥ria de retorno livre.
 
 960
 01:07:58,955 --> 01:08:01,685
-… a opÁ„o com menos riscos de seguranÁa.
+√â a op√ß√£o com menos riscos de seguran√ßa.
 
 961
 01:08:01,792 --> 01:08:04,920
 Concordo. Usamos a gravidade da lua
-para inverter a direÁ„o.
+para inverter a dire√ß√£o.
 
 962
 01:08:04,995 --> 01:08:08,658
-N„o, o mÛdulo lunar n„o comporta
-trÍs pessoas por tanto tempo.
+N√£o, o m√≥dulo lunar n√£o comporta
+tr√™s pessoas por tanto tempo.
 
 963
 01:08:08,732 --> 01:08:13,362
@@ -4320,49 +4320,49 @@ Damos meia-volta e os trazemos de volta.
 
 964
 01:08:13,470 --> 01:08:15,097
-Precisamos trazÍ-los logo.
+Precisamos traz√™-los logo.
 
 965
 01:08:15,172 --> 01:08:17,640
 Nem sabemos se o motor do Odyssey
-est· funcionando.
+est√° funcionando.
 
 966
 01:08:17,707 --> 01:08:21,336
-- Se houve sÈrios danos na nave...
+- Se houve s√©rios danos na nave...
 - Eles explodem e morrem!
 
 967
 01:08:21,411 --> 01:08:23,845
-N„o È esta a quest„o!
+N√£o √© esta a quest√£o!
 Estamos falando de tempo!
 
 968
 01:08:23,914 --> 01:08:27,042
-- E n„o se esses caras...
-- N„o vou ficar fazendo rodeios!
+- E n√£o se esses caras...
+- N√£o vou ficar fazendo rodeios!
 
 969
 01:08:27,150 --> 01:08:29,584
-OK, silÍncio. Vamos nos acalmar.
+OK, sil√™ncio. Vamos nos acalmar.
 
 970
 01:08:29,686 --> 01:08:33,087
-O ˙nico motor com potÍncia
+O √∫nico motor com pot√™ncia
 suficiente para um aborto direto...
 
 971
 01:08:33,190 --> 01:08:35,249
-È o SPS no mÛdulo de serviÁo.
+√© o SPS no m√≥dulo de servi√ßo.
 
 972
 01:08:35,358 --> 01:08:37,918
 Pode ter sido danificado
-numa explos„o...
+numa explos√£o...
 
 973
 01:08:38,028 --> 01:08:39,655
-ent„o, nÛs o consideraremos morto.
+ent√£o, n√≥s o consideraremos morto.
 
 974
 01:08:39,729 --> 01:08:41,822
@@ -4370,18 +4370,18 @@ Ao ligarmos, poderia explodir tudo.
 
 975
 01:08:41,898 --> 01:08:44,423
-… muito arriscado.
-N„o correremos esse risco.
+√â muito arriscado.
+N√£o correremos esse risco.
 
 976
 01:08:44,534 --> 01:08:47,230
-O mÛdulo de comando
-sÛ servir· para reentrar.
+O m√≥dulo de comando
+s√≥ servir√° para reentrar.
 
 977
 01:08:47,337 --> 01:08:51,103
-SÛ nos resta o mÛdulo lunar, ou seja,
-uma trajetÛria de retorno livre.
+S√≥ nos resta o m√≥dulo lunar, ou seja,
+uma trajet√≥ria de retorno livre.
 
 978
 01:08:51,608 --> 01:08:53,542
@@ -4389,8 +4389,8 @@ Depois que eles circundarem a lua...
 
 979
 01:08:53,610 --> 01:08:55,942
-ligamos o motor do mÛdulo,
-fazemos uma combust„o...
+ligamos o motor do m√≥dulo,
+fazemos uma combust√£o...
 
 980
 01:08:56,012 --> 01:08:58,776
@@ -4404,52 +4404,52 @@ do Grumman pensa sobre isso.
 
 982
 01:09:02,586 --> 01:09:04,236
-N„o podemos garantir nada.
+N√£o podemos garantir nada.
 
 983
 01:09:04,237 --> 01:09:06,886
-Projetamos o mÛdulo
+Projetamos o m√≥dulo
 para pousar na lua...
 
 984
 01:09:06,957 --> 01:09:09,448
-n„o para usar o motor
+n√£o para usar o motor
 para corrigir a rota.
 
 985
 01:09:09,526 --> 01:09:13,394
 Bem, infelizmente,
-n„o iremos pousar na lua, n„o È?
+n√£o iremos pousar na lua, n√£o √©?
 
 986
 01:09:14,965 --> 01:09:18,992
-N„o importa para quÍ ele foi projetado.
-O importante È o que pode fazer.
+N√£o importa para qu√™ ele foi projetado.
+O importante √© o que pode fazer.
 
 987
 01:09:19,236 --> 01:09:22,137
-Ent„o, ao trabalho.
+Ent√£o, ao trabalho.
 Vamos fazer um plano, OK?
 
 988
 01:09:23,106 --> 01:09:26,371
-ComunicaÁ„o, Controle,
-ele diz que ficar· pronto em tempo.
+Comunica√ß√£o, Controle,
+ele diz que ficar√° pronto em tempo.
 
 989
 01:09:26,576 --> 01:09:30,569
 DIA 4
-Depois da combust„o, temos de incluir
+Depois da combust√£o, temos de incluir
 no plano de voo tempo pra eles dormirem.
 
 990
 01:09:30,647 --> 01:09:33,480
 - Precisa falar com o Controle de Voo.
-- J· falei com eles.
+- J√° falei com eles.
 
 991
 01:09:33,550 --> 01:09:35,711
-Sabemos quanto durar· a combust„o?
+Sabemos quanto durar√° a combust√£o?
 
 992
 01:09:35,785 --> 01:09:37,882
@@ -4471,26 +4471,26 @@ Nixon. Ele quer as probabilidades.
 
 996
 01:09:44,628 --> 01:09:46,459
-N„o perderemos a tripulaÁ„o.
+N√£o perderemos a tripula√ß√£o.
 
 997
 01:09:46,763 --> 01:09:50,221
 Gene, tenho que lhe dar probabilidades.
-Cinco pra um? TrÍs pra um?
+Cinco pra um? Tr√™s pra um?
 
 998
 01:09:50,300 --> 01:09:53,736
-- N„o acredito que sejam t„o boas.
-- N„o perderemos esses homens.
+- N√£o acredito que sejam t√£o boas.
+- N√£o perderemos esses homens.
 
 999
 01:09:58,675 --> 01:10:01,906
-Durante quanto tempo queimar„o
+Durante quanto tempo queimar√£o
 o motor PC + 2?
 
 1000
 01:10:02,479 --> 01:10:04,743
-OuÁa, diga-lhe trÍs pra um.
+Ou√ßa, diga-lhe tr√™s pra um.
 
 1001
 01:10:07,684 --> 01:10:10,585
@@ -4500,7 +4500,7 @@ OuÁa, diga-lhe trÍs pra um.
 1002
 01:10:10,654 --> 01:10:13,817
 <i>Quando recuperarmos contato,</i>
-<i>teremos os dados para a combust„o.</i>
+<i>teremos os dados para a combust√£o.</i>
 
 1003
 01:10:13,890 --> 01:10:18,486
@@ -4513,7 +4513,7 @@ Querem olhar?
 
 1005
 01:10:24,901 --> 01:10:26,630
-Oh, olhem sÛ isso.
+Oh, olhem s√≥ isso.
 
 1006
 01:10:35,011 --> 01:10:38,310
@@ -4538,11 +4538,11 @@ Jim, precisa ver isso.
 
 1011
 01:10:56,433 --> 01:10:57,923
-J· vi.
+J√° vi.
 
 1012
 01:11:04,107 --> 01:11:05,870
-<i>Aquarius, aqui È Houston.</i>
+<i>Aquarius, aqui √© Houston.</i>
 
 1013
 01:11:05,942 --> 01:11:09,537
@@ -4551,13 +4551,13 @@ J· vi.
 
 1014
 01:11:11,114 --> 01:11:14,083
-<i>AtÈ logo, Terra.</i>
+<i>At√© logo, Terra.</i>
 <i>Nos vemos do outro lado.</i>
 
 1015
 01:11:21,124 --> 01:11:26,084
 <i>Quando se entra na sombra da lua</i>
-<i>e a lua fica entre nÛs e o sol...</i>
+<i>e a lua fica entre n√≥s e o sol...</i>
 
 1016
 01:11:26,596 --> 01:11:30,225
@@ -4570,35 +4570,35 @@ J· vi.
 
 1018
 01:11:32,435 --> 01:11:37,372
-<i>E ent„o, passamos ‡ aurora lunar</i>
-<i>sobre a superfÌcie da lua.</i>
+<i>E ent√£o, passamos √† aurora lunar</i>
+<i>sobre a superf√≠cie da lua.</i>
 
 1019
 01:11:38,608 --> 01:11:42,806
-<i>Deve ser uma vis„o muito inspiradora.</i>
+<i>Deve ser uma vis√£o muito inspiradora.</i>
 <i>Mal posso esperar para ver pessoalmente.</i>
 
 1020
 01:11:43,213 --> 01:11:47,741
-<i>O problema agora n„o È tanto uma quest„o</i>
-<i>de provis„o de oxigÍnio adequada...</i>
+<i>O problema agora n√£o √© tanto uma quest√£o</i>
+<i>de provis√£o de oxig√™nio adequada...</i>
 
 1021
 01:11:47,817 --> 01:11:49,944
-<i>mas a taxa de consumo de ·gua...</i>
+<i>mas a taxa de consumo de √°gua...</i>
 
 1022
 01:11:50,086 --> 01:11:53,146
-<i>que È essencial</i>
-<i>para as operaÁıes de resfriamento...</i>
+<i>que √© essencial</i>
+<i>para as opera√ß√µes de resfriamento...</i>
 
 1023
 01:11:53,256 --> 01:11:55,315
-<i>para manter os sistemas eletrÙnicos...</i>
+<i>para manter os sistemas eletr√¥nicos...</i>
 
 1024
 01:12:33,930 --> 01:12:35,795
-Olhem, È Fra Mauro.
+Olhem, √© Fra Mauro.
 
 1025
 01:12:37,967 --> 01:12:40,435
@@ -4610,44 +4610,44 @@ Olhem a Cratera de Tsiolkovsky.
 
 1027
 01:12:48,812 --> 01:12:51,747
-… incrÌvel como s„o brilhantes
+√â incr√≠vel como s√£o brilhantes
 os fragmentos expelidos.
 
 1028
 01:12:51,815 --> 01:12:54,682
-Parece neve. … lindo.
+Parece neve. √â lindo.
 
 1029
 01:12:56,853 --> 01:12:59,287
-Aquele È o Mare Imbrium, a Norte.
+Aquele √© o Mare Imbrium, a Norte.
 
 1030
 01:14:02,352 --> 01:14:04,217
-13, <i>aqui È Houston.</i>
+13, <i>aqui √© Houston.</i>
 
 1031
 01:14:04,287 --> 01:14:08,053
 <i>Estamos recebendo a sua telemetria.</i>
-<i>… um prazer vÍ-los de novo.</i>
+<i>√â um prazer v√™-los de novo.</i>
 
 1032
 01:14:08,558 --> 01:14:10,685
-… um prazer vÍ-los tambÈm, Houston.
+√â um prazer v√™-los tamb√©m, Houston.
 
 1033
 01:14:10,894 --> 01:14:14,853
-<i>Vemos que est„o a uma velocidade</i>
+<i>Vemos que est√£o a uma velocidade</i>
 <i>de 2. 152 metros por segundo...</i>
 
 1034
 01:14:14,931 --> 01:14:18,594
-<i>a uma dist‚ncia de 104 quilÙmetros</i>
+<i>a uma dist√¢ncia de 104 quil√¥metros</i>
 <i>da lua.</i>
 
 1035
 01:14:18,801 --> 01:14:21,736
 <i>Aguardem os dados</i>
-<i>para a combust„o PC</i> + <i>2.</i>
+<i>para a combust√£o PC</i> + <i>2.</i>
 
 1036
 01:14:22,772 --> 01:14:26,970
@@ -4656,11 +4656,11 @@ de aterrissar, explorar um pouco.
 
 1037
 01:14:28,411 --> 01:14:30,242
-Droga, est·vamos t„o perto.
+Droga, est√°vamos t√£o perto.
 
 1038
 01:14:32,949 --> 01:14:35,577
-Senhores, quais s„o suas intenÁıes?
+Senhores, quais s√£o suas inten√ß√µes?
 
 1039
 01:14:39,756 --> 01:14:41,587
@@ -4668,7 +4668,7 @@ Eu gostaria de ir para casa.
 
 1040
 01:14:44,260 --> 01:14:46,490
-Estamos prestes a fazer uma combust„o.
+Estamos prestes a fazer uma combust√£o.
 
 1041
 01:14:46,563 --> 01:14:49,657
@@ -4677,8 +4677,8 @@ se perdermos contato com Houston.
 
 1042
 01:14:50,166 --> 01:14:53,624
-Vejamos como est· a situaÁ„o
-do que È consumÌvel.
+Vejamos como est√° a situa√ß√£o
+do que √© consum√≠vel.
 
 1043
 01:14:54,337 --> 01:14:56,601
@@ -4686,8 +4686,8 @@ Jack, entre no Odyssey...
 
 1044
 01:14:56,673 --> 01:15:00,131
-e traga toda a ·gua que puder
-antes que ela congele l· dentro.
+e traga toda a √°gua que puder
+antes que ela congele l√° dentro.
 
 1045
 01:15:02,812 --> 01:15:03,938
@@ -4696,11 +4696,11 @@ Vamos para casa.
 1046
 01:15:04,013 --> 01:15:07,574
 <i>Aquarius, temos os dados</i>
-<i>da combust„o PC</i> + <i>2 para vocÍs.</i>
+<i>da combust√£o PC</i> + <i>2 para voc√™s.</i>
 
 1047
 01:15:08,017 --> 01:15:10,611
-Ent„o, est· dizendo que sÛ pode dar
+Ent√£o, est√° dizendo que s√≥ pode dar
 45 horas aos rapazes?
 
 1048
@@ -4709,11 +4709,11 @@ Ent„o, est· dizendo que sÛ pode dar
 
 1049
 01:15:13,556 --> 01:15:15,956
-Isso os leva atÈ aqui.
+Isso os leva at√© aqui.
 
 1050
 01:15:20,663 --> 01:15:22,130
-Senhores, n„o È aceit·vel.
+Senhores, n√£o √© aceit√°vel.
 
 1051
 01:15:22,198 --> 01:15:25,065
@@ -4721,51 +4721,51 @@ Gene, temos que falar de energia.
 
 1052
 01:15:25,468 --> 01:15:27,834
-Pessoal! A energia È tudo!
+Pessoal! A energia √© tudo!
 
 1053
 01:15:28,805 --> 01:15:31,103
-- A energia È tudo.
+- A energia √© tudo.
 - O que quer dizer com isso?
 
 1054
 01:15:31,174 --> 01:15:34,302
-Sem ela, n„o falam conosco,
-n„o corrigem a trajetÛria...
+Sem ela, n√£o falam conosco,
+n√£o corrigem a trajet√≥ria...
 
 1055
 01:15:34,377 --> 01:15:36,402
-n„o orientam o escudo tÈrmico.
+n√£o orientam o escudo t√©rmico.
 
 1056
 01:15:36,512 --> 01:15:41,074
 Precisamos desligar tudo. Agora.
-Ou n„o poder„o voltar.
+Ou n√£o poder√£o voltar.
 
 1057
 01:15:41,184 --> 01:15:44,915
 - O que quer dizer com "tudo"?
-- Com tudo ligado, consomem 60 ampËres.
+- Com tudo ligado, consomem 60 amp√®res.
 
 1058
 01:15:44,988 --> 01:15:48,719
-Nesse ritmo, as baterias acabar„o
-em 16 horas, n„o em 45.
+Nesse ritmo, as baterias acabar√£o
+em 16 horas, n√£o em 45.
 
 1059
 01:15:49,192 --> 01:15:51,956
-E a tripulaÁ„o tambÈm.
-Precisamos baixar para 12 ampËres.
+E a tripula√ß√£o tamb√©m.
+Precisamos baixar para 12 amp√®res.
 
 1060
 01:15:52,028 --> 01:15:53,586
-- Doze ampËres?
+- Doze amp√®res?
 - Quantos?
 
 1061
 01:15:53,663 --> 01:15:55,961
-N„o se passa nem o aspirador
-com 12 ampËres.
+N√£o se passa nem o aspirador
+com 12 amp√®res.
 
 1062
 01:15:56,032 --> 01:15:59,559
@@ -4774,17 +4774,17 @@ o aquecimento...
 
 1063
 01:15:59,669 --> 01:16:02,035
-os painÈis,
-o computador de orientaÁ„o, tudo.
+os pain√©is,
+o computador de orienta√ß√£o, tudo.
 
 1064
 01:16:02,105 --> 01:16:04,767
-Computador de orientaÁ„o?
-Se for preciso outra combust„o?
+Computador de orienta√ß√£o?
+Se for preciso outra combust√£o?
 
 1065
 01:16:04,841 --> 01:16:06,775
-N„o saber„o em que direÁ„o est„o indo.
+N√£o saber√£o em que dire√ß√£o est√£o indo.
 
 1066
 01:16:06,843 --> 01:16:09,038
@@ -4793,17 +4793,17 @@ mais energia eles gastam.
 
 1067
 01:16:09,112 --> 01:16:10,841
-Analisei os dados na ˙ltima hora.
+Analisei os dados na √∫ltima hora.
 
 1068
 01:16:10,913 --> 01:16:13,438
-- … essa a situaÁ„o?
-- Essa È a situaÁ„o.
+- √â essa a situa√ß√£o?
+- Essa √© a situa√ß√£o.
 
 1069
 01:16:18,054 --> 01:16:22,718
-OK, John. Terminando a combust„o,
-desligaremos o mÛdulo lunar.
+OK, John. Terminando a combust√£o,
+desligaremos o m√≥dulo lunar.
 
 1070
 01:16:22,792 --> 01:16:24,191
@@ -4811,12 +4811,12 @@ Certo.
 
 1071
 01:16:24,894 --> 01:16:29,228
-Enquanto isso, teremos um mÛdulo
-de comando congelado l· em cima.
+Enquanto isso, teremos um m√≥dulo
+de comando congelado l√° em cima.
 
 1072
 01:16:29,399 --> 01:16:32,926
-Logo teremos que lig·-lo usando
+Logo teremos que lig√°-lo usando
 as baterias de reentrada.
 
 1073
@@ -4831,87 +4831,87 @@ Bem, teremos que arranjar um modo.
 1075
 01:16:39,409 --> 01:16:42,572
 Quero o pessoal dos simuladores
-testando v·rios modos de reentrada.
+testando v√°rios modos de reentrada.
 
 1076
 01:16:42,645 --> 01:16:46,137
 Quero que encontrem cada engenheiro
-que projetou cada bot„o, circuito...
+que projetou cada bot√£o, circuito...
 
 1077
 01:16:46,215 --> 01:16:47,705
-transistor e l‚mpada daquela nave.
+transistor e l√¢mpada daquela nave.
 
 1078
 01:16:47,784 --> 01:16:51,515
-Ent„o, falem com o cara da linha
+Ent√£o, falem com o cara da linha
 de montagem que construiu aquela coisa.
 
 1079
 01:16:51,587 --> 01:16:55,614
-Descubram como obter todos os ampËres
-de cada uma dessas malditas m·quinas.
+Descubram como obter todos os amp√®res
+de cada uma dessas malditas m√°quinas.
 
 1080
 01:16:55,958 --> 01:17:00,657
-Quero que esse ponto chegue atÈ a Terra
+Quero que esse ponto chegue at√© a Terra
 com tempo de sobra.
 
 1081
 01:17:01,597 --> 01:17:03,224
-Nunca perdemos um americano l·.
+Nunca perdemos um americano l√°.
 
 1082
 01:17:03,299 --> 01:17:05,767
-E isso n„o acontecer· sob o meu comando.
+E isso n√£o acontecer√° sob o meu comando.
 
 1083
 01:17:05,835 --> 01:17:07,598
-O fracasso n„o È uma opÁ„o.
+O fracasso n√£o √© uma op√ß√£o.
 
 1084
 01:17:17,080 --> 01:17:19,412
-- O quÍ?
-- ”timo, n„o est· morto.
+- O qu√™?
+- √ìtimo, n√£o est√° morto.
 
 1085
 01:17:19,682 --> 01:17:22,378
 Faz 45 minutos
-que estou tentando falar com vocÍ.
+que estou tentando falar com voc√™.
 
 1086
 01:17:22,452 --> 01:17:23,942
-O que est· fazendo aqui?
+O que est√° fazendo aqui?
 
 1087
 01:17:24,020 --> 01:17:26,682
-Vou lev·-lo ao simulador.
+Vou lev√°-lo ao simulador.
 Temos uma nave para aterrar.
 
 1088
 01:17:26,756 --> 01:17:28,951
-- O quÍ?
-- Houve uma explos„o.
+- O qu√™?
+- Houve uma explos√£o.
 
 1089
 01:17:29,125 --> 01:17:33,084
-Tanques de oxigÍnio e combustÌvel
-perdidos, mÛdulo de comando desligado.
+Tanques de oxig√™nio e combust√≠vel
+perdidos, m√≥dulo de comando desligado.
 
 1090
 01:17:33,162 --> 01:17:35,392
-- E a tripulaÁ„o?
-- AtÈ agora, tudo bem.
+- E a tripula√ß√£o?
+- At√© agora, tudo bem.
 
 1091
 01:17:35,465 --> 01:17:37,592
-Estamos tentando mantÍ-los
-no mÛdulo lunar.
+Estamos tentando mant√™-los
+no m√≥dulo lunar.
 
 1092
 01:17:37,667 --> 01:17:40,602
 Daqui a pouco teremos
-que deslig·-lo tambÈm.
+que deslig√°-lo tamb√©m.
 
 1093
 01:17:40,870 --> 01:17:43,703
@@ -4919,27 +4919,27 @@ Temos muita gente trabalhando nisso.
 
 1094
 01:17:43,806 --> 01:17:46,604
-NinguÈm sabe bem
+Ningu√©m sabe bem
 quanta energia teremos para o retorno.
 
 1095
 01:17:46,676 --> 01:17:49,611
-O mÛdulo de comando
-ficar· bem frio atÈ l·.
+O m√≥dulo de comando
+ficar√° bem frio at√© l√°.
 
 1096
 01:17:50,713 --> 01:17:54,205
-Se o amperÌmetro passar dos 20,
+Se o amper√≠metro passar dos 20,
 temos problemas de energia.
 
 1097
 01:17:54,317 --> 01:17:56,979
 Se disparar,
-È adeus ao computador de orientaÁ„o.
+√© adeus ao computador de orienta√ß√£o.
 
 1098
 01:17:57,053 --> 01:17:58,543
-E eles n„o poder„o retornar, OK?
+E eles n√£o poder√£o retornar, OK?
 
 1099
 01:17:58,621 --> 01:18:00,521
@@ -4957,29 +4957,29 @@ em nove horas.
 
 1102
 01:18:05,661 --> 01:18:07,356
-Entendido. Ele est· aqui.
+Entendido. Ele est√° aqui.
 
 1103
 01:18:07,997 --> 01:18:10,056
-Est„o perdendo calor desde o acidente.
+Est√£o perdendo calor desde o acidente.
 
 1104
 01:18:10,133 --> 01:18:13,193
-A ·gua comeÁar·
-a condensar-se nos painÈis de controle.
+A √°gua come√ßar√°
+a condensar-se nos pain√©is de controle.
 
 1105
 01:18:13,302 --> 01:18:15,236
-Que bom vÍ-lo. Sabe o que est· havendo?
+Que bom v√™-lo. Sabe o que est√° havendo?
 
 1106
 01:18:15,304 --> 01:18:16,794
-O John j· me informou.
+O John j√° me informou.
 
 1107
 01:18:16,873 --> 01:18:19,068
 - Quanto resta nas baterias?
-- N„o sabemos.
+- N√£o sabemos.
 
 1108
 01:18:19,142 --> 01:18:21,576
@@ -4992,8 +4992,8 @@ Sabe como fazer isso?
 
 1110
 01:18:23,079 --> 01:18:26,981
-Est· tudo na sequÍncia.
-Se pularmos tudo o que n„o precisamos...
+Est√° tudo na sequ√™ncia.
+Se pularmos tudo o que n√£o precisamos...
 
 1111
 01:18:27,049 --> 01:18:28,846
@@ -5006,12 +5006,12 @@ Concordo.
 
 1113
 01:18:29,719 --> 01:18:33,246
-- ComeÁaram o procedimento?
-- Eles tentaram, mas È a sua nave.
+- Come√ßaram o procedimento?
+- Eles tentaram, mas √© a sua nave.
 
 1114
 01:18:33,356 --> 01:18:35,847
-- Temos de coloc·-lo l· dentro.
+- Temos de coloc√°-lo l√° dentro.
 - OK.
 
 1115
@@ -5020,33 +5020,33 @@ Frank, quero o simulador frio e escuro.
 
 1116
 01:18:38,694 --> 01:18:41,356
-DÍ-me as mesmas condiÁıes
-que eles tÍm agora.
+D√™-me as mesmas condi√ß√µes
+que eles t√™m agora.
 
 1117
 01:18:41,431 --> 01:18:44,059
-- Quero a situaÁ„o de cada instrumento.
+- Quero a situa√ß√£o de cada instrumento.
 - OK.
 
 1118
 01:18:44,167 --> 01:18:47,159
 Preciso de uma lanterna.
-N„o È esta que eles tÍm l· em cima.
+N√£o √© esta que eles t√™m l√° em cima.
 
 1119
 01:18:47,236 --> 01:18:49,466
-N„o me deem nada
-que eles n„o tenham a bordo.
+N√£o me deem nada
+que eles n√£o tenham a bordo.
 
 1120
 01:18:49,539 --> 01:18:52,872
-O show vai comeÁar.
-Ponham-no no espaÁo, pessoal.
+O show vai come√ßar.
+Ponham-no no espa√ßo, pessoal.
 
 1121
 01:18:54,210 --> 01:18:58,010
 OK, Houston,
-os disjuntores est„o ligados.
+os disjuntores est√£o ligados.
 
 1122
 01:18:58,080 --> 01:18:59,138
@@ -5068,12 +5068,12 @@ avistarmos a lua.
 
 1126
 01:19:06,589 --> 01:19:09,456
-<i>Aquarius, n„o queremos que despejem</i>
-<i>mais nada no espaÁo.</i>
+<i>Aquarius, n√£o queremos que despejem</i>
+<i>mais nada no espa√ßo.</i>
 
 1127
 01:19:09,525 --> 01:19:12,085
-<i>O descarregamento pode desvi·-los</i>
+<i>O descarregamento pode desvi√°-los</i>
 <i>da rota.</i>
 
 1128
@@ -5083,7 +5083,7 @@ avistarmos a lua.
 
 1129
 01:19:15,364 --> 01:19:19,232
-N„o podemos descarregar mais nada.
+N√£o podemos descarregar mais nada.
 Teremos que armazenar tudo.
 
 1130
@@ -5110,95 +5110,95 @@ no banco do piloto.
 
 1135
 01:19:46,929 --> 01:19:48,726
-… manh„ ou tarde?
+√â manh√£ ou tarde?
 
 1136
 01:19:49,165 --> 01:19:52,328
-Manh„, muito cedo.
+Manh√£, muito cedo.
 
 1137
 01:19:52,435 --> 01:19:54,960
-O Haise est· com febre,
-e ninguÈm dormiu.
+O Haise est√° com febre,
+e ningu√©m dormiu.
 
 1138
 01:19:55,071 --> 01:19:59,007
-N„o posso obrig·-los a dormir.
-VocÍ dormiria l· em cima?
+N√£o posso obrig√°-los a dormir.
+Voc√™ dormiria l√° em cima?
 
 1139
 01:19:59,108 --> 01:20:02,009
 Vai fazer um frio de rachar
-para eles l· em cima.
+para eles l√° em cima.
 
 1140
 01:20:02,945 --> 01:20:06,676
 Temos um problema
-com o diÛxido de carbono.
+com o di√≥xido de carbono.
 
 1141
 01:20:06,782 --> 01:20:09,182
 Temos um problema no filtro de CO2
-no mÛdulo lunar.
+no m√≥dulo lunar.
 
 1142
 01:20:09,252 --> 01:20:10,515
-Cinco filtros no mÛdulo.
+Cinco filtros no m√≥dulo.
 
 1143
 01:20:10,516 --> 01:20:12,779
-D· para duas pessoas
+D√° para duas pessoas
 para um dia e meio.
 
 1144
 01:20:12,855 --> 01:20:15,255
-- J· falei com o mÈdico...
-- Est· marcando oito.
+- J√° falei com o m√©dico...
+- Est√° marcando oito.
 
 1145
 01:20:15,324 --> 01:20:18,691
-Acima de 15 comeÁa-se a perder
+Acima de 15 come√ßa-se a perder
 o discernimento, ter desmaios...
 
 1146
 01:20:18,761 --> 01:20:20,228
-princÌpios de asfixia cerebral.
+princ√≠pios de asfixia cerebral.
 
 1147
 01:20:20,296 --> 01:20:22,230
-E os purificadores do mÛdulo de comando?
+E os purificadores do m√≥dulo de comando?
 
 1148
 01:20:22,298 --> 01:20:25,825
 - Eles usam cartuchos quadrados.
-- Os do mÛdulo lunar s„o redondos.
+- Os do m√≥dulo lunar s√£o redondos.
 
 1149
 01:20:27,136 --> 01:20:29,195
-Esta È a organizaÁ„o do governo.
+Esta √© a organiza√ß√£o do governo.
 
 1150
 01:20:29,272 --> 01:20:32,105
-Esta È uma situaÁ„o
+Esta √© uma situa√ß√£o
 que nunca foi considerada.
 
 1151
 01:20:32,174 --> 01:20:34,404
-Os nÌveis de CO2 v„o tornar-se tÛxicos.
+Os n√≠veis de CO2 v√£o tornar-se t√≥xicos.
 
 1152
 01:20:34,477 --> 01:20:39,380
-Sugiro que inventem um modo de pÙr
-um quadrado num cÌrculo. Depressa.
+Sugiro que inventem um modo de p√¥r
+um quadrado num c√≠rculo. Depressa.
 
 1153
 01:20:42,952 --> 01:20:44,852
-OK, pessoal, ouÁam!
+OK, pessoal, ou√ßam!
 
 1154
 01:20:44,954 --> 01:20:49,721
-O pessoal l· de cima nos mandou isso
-aqui, e temos que achar uma soluÁ„o.
+O pessoal l√° de cima nos mandou isso
+aqui, e temos que achar uma solu√ß√£o.
 
 1155
 01:20:50,059 --> 01:20:53,756
@@ -5220,22 +5220,22 @@ usando nada mais do que isto.
 
 1159
 01:21:03,906 --> 01:21:06,397
-… melhor trazer cafÈ tambÈm.
+√â melhor trazer caf√© tamb√©m.
 
 1160
 01:21:07,410 --> 01:21:09,970
-<i>A famÌlia Haise vive em El Lago,</i>
+<i>A fam√≠lia Haise vive em El Lago,</i>
 <i>Texas.</i>
 
 1161
 01:21:10,046 --> 01:21:12,742
 <i>Sua esposa, Mary,</i>
-<i>È de Biloxi, Mississippi.</i>
+<i>√© de Biloxi, Mississippi.</i>
 
 1162
 01:21:12,848 --> 01:21:17,080
 <i>Enquanto Fred Haise crescia em Biloxi,</i>
-<i>pensava em construir uma bela famÌlia...</i>
+<i>pensava em construir uma bela fam√≠lia...</i>
 
 1163
 01:21:17,186 --> 01:21:18,619
@@ -5249,13 +5249,13 @@ usando nada mais do que isto.
 1165
 01:21:21,357 --> 01:21:25,259
 Astronauta - FRED HAISE JR.
-<i>SÛ quis voar</i>
+<i>S√≥ quis voar</i>
 <i>para obter uma patente de oficial...</i>
 
 1166
 01:21:25,328 --> 01:21:28,764
 - Bom dia.
-- Henry. VocÍ nunca dorme?
+- Henry. Voc√™ nunca dorme?
 
 1167
 01:21:29,231 --> 01:21:31,961
@@ -5263,7 +5263,7 @@ Tenho um pedido dos jornalistas.
 
 1168
 01:21:32,735 --> 01:21:36,262
-Est„o aqui fora e querem montar
+Est√£o aqui fora e querem montar
 um transmissor no jardim.
 
 1169
@@ -5272,13 +5272,13 @@ Transmissor?
 
 1170
 01:21:39,709 --> 01:21:42,576
-… uma espÈcie de torre
-para uma transmiss„o ao vivo.
+√â uma esp√©cie de torre
+para uma transmiss√£o ao vivo.
 
 1171
 01:21:47,583 --> 01:21:50,084
-Pensei que eles n„o
-ligassem para a miss„o.
+Pensei que eles n√£o
+ligassem para a miss√£o.
 
 1172
 01:21:50,085 --> 01:21:51,986
@@ -5291,37 +5291,37 @@ De repente as pessoas...
 
 1174
 01:21:56,058 --> 01:22:00,085
-Se pousar na lua n„o era emocionante,
-por que n„o pousar seria?
+Se pousar na lua n√£o era emocionante,
+por que n√£o pousar seria?
 
 1175
 01:22:00,730 --> 01:22:04,461
-OuÁa, sei o quanto isso È difÌcil,
+Ou√ßa, sei o quanto isso √© dif√≠cil,
 Marilyn...
 
 1176
 01:22:04,567 --> 01:22:06,501
-mas o mundo inteiro est·
+mas o mundo inteiro est√°
 envolvido nisso.
 
 1177
 01:22:06,569 --> 01:22:09,265
-- … a maior histÛria desde...
-- N„o, Henry.
+- √â a maior hist√≥ria desde...
+- N√£o, Henry.
 
 1178
 01:22:09,739 --> 01:22:14,073
-Aquelas pessoas n„o v„o colocar
+Aquelas pessoas n√£o v√£o colocar
 nada no meu jardim.
 
 1179
 01:22:14,443 --> 01:22:17,935
 E se isso for um problema para eles,
-poder„o discutir com meu marido.
+poder√£o discutir com meu marido.
 
 1180
 01:22:18,014 --> 01:22:20,175
-Ele estar· em casa na sexta.
+Ele estar√° em casa na sexta.
 
 1181
 01:22:34,263 --> 01:22:37,664
@@ -5333,11 +5333,11 @@ Ei, Fred.
 
 1183
 01:23:06,629 --> 01:23:08,620
-Est· muito frio aqui.
+Est√° muito frio aqui.
 
 1184
 01:23:20,309 --> 01:23:22,971
-TOQUE NA LUA POR N”S - EU O AMO, Mary
+TOQUE NA LUA POR N√ìS - EU O AMO, Mary
 
 1185
 01:23:23,579 --> 01:23:25,706
@@ -5345,13 +5345,13 @@ A Mary saiu bem aqui.
 
 1186
 01:23:29,385 --> 01:23:32,616
-- N„o est· com um bom aspecto, Freddo.
+- N√£o est√° com um bom aspecto, Freddo.
 - Vou sobreviver.
 
 1187
 01:23:32,688 --> 01:23:35,020
 - Tem aspirina na caixa de medicamentos.
-- J· tomei.
+- J√° tomei.
 
 1188
 01:23:35,091 --> 01:23:36,888
@@ -5372,11 +5372,11 @@ Bom, essas coisas acontecem.
 
 1192
 01:24:02,251 --> 01:24:04,617
-Gostaria de saber se È menino ou menina.
+Gostaria de saber se √© menino ou menina.
 
 1193
 01:24:06,422 --> 01:24:08,390
-Logo vocÍ saber·.
+Logo voc√™ saber√°.
 
 1194
 01:24:09,358 --> 01:24:10,518
@@ -5388,7 +5388,7 @@ Nunca pensei que faria algo assim.
 
 1196
 01:24:18,134 --> 01:24:20,364
-Vir atÈ aqui numa verdadeira miss„o.
+Vir at√© aqui numa verdadeira miss√£o.
 
 1197
 01:24:21,570 --> 01:24:24,004
@@ -5397,24 +5397,24 @@ me formei...
 
 1198
 01:24:24,073 --> 01:24:26,439
-nunca saÌram da cidade, e aqui estou eu.
+nunca sa√≠ram da cidade, e aqui estou eu.
 
 1199
 01:24:26,776 --> 01:24:28,038
-… mesmo.
+√â mesmo.
 
 1200
 01:24:29,245 --> 01:24:30,610
-Aqui est· vocÍ.
+Aqui est√° voc√™.
 
 1201
 01:24:36,085 --> 01:24:38,053
-DÛi quando urino.
+D√≥i quando urino.
 
 1202
 01:24:39,121 --> 01:24:43,581
-- Bem, n„o est· bebendo o bastante.
-- Estou bebendo minha cota, como vocÍ.
+- Bem, n√£o est√° bebendo o bastante.
+- Estou bebendo minha cota, como voc√™.
 
 1203
 01:24:46,929 --> 01:24:49,557
@@ -5426,27 +5426,27 @@ Ele tem mijado pelo meu tubo.
 
 1205
 01:24:56,172 --> 01:25:00,165
-Bem, isso ser· um tema excitante
-no question·rio mÈdico da miss„o.
+Bem, isso ser√° um tema excitante
+no question√°rio m√©dico da miss√£o.
 
 1206
 01:25:00,276 --> 01:25:04,235
-… mais uma coisa inÈdita
+√â mais uma coisa in√©dita
 no programa espacial americano.
 
 1207
 01:25:06,582 --> 01:25:11,349
-OuÁa, andei repassando umas coisas...
+Ou√ßa, andei repassando umas coisas...
 
 1208
 01:25:12,288 --> 01:25:16,987
 e estou preocupado com o frio que
-pode afetar a eficiÍncia das baterias.
+pode afetar a efici√™ncia das baterias.
 
 1209
 01:25:17,526 --> 01:25:21,792
 Deixamos de aquecer o glicol para poupar
-·gua e energia, ent„o isso n„o ajuda.
+√°gua e energia, ent√£o isso n√£o ajuda.
 
 1210
 01:25:21,864 --> 01:25:23,889
@@ -5455,12 +5455,12 @@ de amperagem no final?
 
 1211
 01:25:23,966 --> 01:25:27,333
-- … uma possibilidade.
-- Dei uma repassada nos n˙meros de novo.
+- √â uma possibilidade.
+- Dei uma repassada nos n√∫meros de novo.
 
 1212
 01:25:27,436 --> 01:25:29,927
-Eles j· comunicaram
+Eles j√° comunicaram
 o novo plano de reentrada?
 
 1213
@@ -5470,17 +5470,17 @@ o novo plano de reentrada?
 
 1214
 01:25:32,608 --> 01:25:36,271
-N„o me lembro da raz„o da temperatura.
-N„o temos referÍncias a bordo.
+N√£o me lembro da raz√£o da temperatura.
+N√£o temos refer√™ncias a bordo.
 
 1215
 01:25:36,345 --> 01:25:38,643
 Vejamos se Houston consegue
-as especificaÁıes...
+as especifica√ß√µes...
 
 1216
 01:25:38,714 --> 01:25:42,514
-OuÁam, nos deram Delta V demais.
+Ou√ßam, nos deram Delta V demais.
 Deixaram queimar por muito tempo.
 
 1217
@@ -5490,7 +5490,7 @@ da atmosfera e nunca mais voltaremos.
 
 1218
 01:25:46,856 --> 01:25:49,791
-Do que est· falando? Como sabe disso?
+Do que est√° falando? Como sabe disso?
 
 1219
 01:25:49,959 --> 01:25:51,324
@@ -5498,13 +5498,13 @@ Eu sei somar.
 
 1220
 01:25:53,162 --> 01:25:56,791
-- V·rios gÍnios est„o trabalhando nisso.
+- V√°rios g√™nios est√£o trabalhando nisso.
 - Houston diz que estamos bem.
 
 1221
 01:25:56,866 --> 01:25:59,892
 E se tiverem cometido um erro
-e n„o o puderem reverter?
+e n√£o o puderem reverter?
 
 1222
 01:25:59,969 --> 01:26:01,163
@@ -5512,18 +5512,18 @@ Acha que nos diriam?
 
 1223
 01:26:01,237 --> 01:26:04,570
-- N„o h· raz„o para nos dizer!
-- O que quer dizer? Isso È absurdo!
+- N√£o h√° raz√£o para nos dizer!
+- O que quer dizer? Isso √© absurdo!
 
 1224
 01:26:04,640 --> 01:26:07,108
-Milhares de coisas tÍm que acontecer
-em sequÍncia.
+Milhares de coisas t√™m que acontecer
+em sequ√™ncia.
 
 1225
 01:26:07,176 --> 01:26:12,045
-Estamos no n˙mero oito.
-VocÍ est· falando do n˙mero 692.
+Estamos no n√∫mero oito.
+Voc√™ est√° falando do n√∫mero 692.
 
 1226
 01:26:12,147 --> 01:26:15,412
@@ -5532,8 +5532,8 @@ que estamos depressa demais.
 
 1227
 01:26:15,484 --> 01:26:18,817
-Acho que eles sabem e È por isso
-que n„o temos um plano de regresso.
+Acho que eles sabem e √© por isso
+que n√£o temos um plano de regresso.
 
 1228
 01:26:18,888 --> 01:26:21,083
@@ -5545,21 +5545,21 @@ Maldita nave de merda!
 
 1230
 01:26:25,361 --> 01:26:27,488
-Esta nave de merda o levar· para casa.
+Esta nave de merda o levar√° para casa.
 
 1231
 01:26:27,563 --> 01:26:31,192
-Porque isso È a ˙nica coisa
+Porque isso √© a √∫nica coisa
 que nos resta, Jack!
 
 1232
 01:26:32,201 --> 01:26:35,932
-- O que est· dizendo, Fred?
+- O que est√° dizendo, Fred?
 - Acho que sabe o que estou dizendo.
 
 1233
 01:26:36,038 --> 01:26:39,132
-Espere aÌ. Tudo o que eu fiz
+Espere a√≠. Tudo o que eu fiz
 foi agitar aqueles tanques.
 
 1234
@@ -5569,7 +5569,7 @@ antes de apertar o interruptor?
 
 1235
 01:26:41,744 --> 01:26:45,202
-N„o me diga como se pilota o mÛdulo
+N√£o me diga como se pilota o m√≥dulo
 de comando! Eles me deram uma tarefa!
 
 1236
@@ -5580,11 +5580,11 @@ os malditos tanques, e eu os agitei!
 1237
 01:26:48,584 --> 01:26:51,348
 - Pare de se martirizar.
-- N„o È culpa minha!
+- N√£o √© culpa minha!
 
 1238
 01:26:51,420 --> 01:26:53,354
-NinguÈm est· dizendo que È.
+Ningu√©m est√° dizendo que √©.
 
 1239
 01:26:53,689 --> 01:26:57,386
@@ -5597,21 +5597,21 @@ Bem, diga isso a ele.
 
 1241
 01:26:58,594 --> 01:27:01,757
-Eu sÛ perguntei quais eram os valores,
-e vocÍ n„o sabe!
+Eu s√≥ perguntei quais eram os valores,
+e voc√™ n√£o sabe!
 
 1242
 01:27:01,864 --> 01:27:03,695
-N„o faÁamos isso, senhores.
+N√£o fa√ßamos isso, senhores.
 
 1243
 01:27:03,766 --> 01:27:06,530
-N„o vamos ficar discutindo
+N√£o vamos ficar discutindo
 por dez minutos...
 
 1244
 01:27:06,602 --> 01:27:09,537
-porque isso n„o resolver·
+porque isso n√£o resolver√°
 os nossos problemas!
 
 1245
@@ -5620,16 +5620,16 @@ Tentem descobrir um modo de sobreviver!
 
 1246
 01:27:14,109 --> 01:27:15,406
-<i>Aquarius, aqui È Houston.</i>
+<i>Aquarius, aqui √© Houston.</i>
 
 1247
 01:27:15,477 --> 01:27:18,207
 - Estamos no viva-voz?
-- N„o, n„o estamos.
+- N√£o, n√£o estamos.
 
 1248
 01:27:18,380 --> 01:27:20,871
-Sim, Houston, aqui È Aquarius. Prossiga.
+Sim, Houston, aqui √© Aquarius. Prossiga.
 
 1249
 01:27:22,017 --> 01:27:25,509
@@ -5638,32 +5638,32 @@ Sim, Houston, aqui È Aquarius. Prossiga.
 
 1250
 01:27:28,657 --> 01:27:30,716
-… justo o que est·vamos fazendo.
+√â justo o que est√°vamos fazendo.
 
 1251
 01:27:30,793 --> 01:27:34,752
 O nosso medidor de CO2 subiu
-quatro unidades na ˙ltima hora.
+quatro unidades na √∫ltima hora.
 
 1252
 01:27:34,930 --> 01:27:37,956
-N„o pode ser.
-Conferi estes n˙meros trÍs vezes.
+N√£o pode ser.
+Conferi estes n√∫meros tr√™s vezes.
 
 1253
 01:27:38,067 --> 01:27:41,559
-<i>Jim, acho que est· certo.</i>
-<i>… o que temÌamos.</i>
+<i>Jim, acho que est√° certo.</i>
+<i>√â o que tem√≠amos.</i>
 
 1254
 01:27:41,804 --> 01:27:45,240
-Isso È muito reconfortante, Houston.
+Isso √© muito reconfortante, Houston.
 O que podemos fazer?
 
 1255
 01:27:45,307 --> 01:27:48,435
 <i>Jim, estamos trabalhando</i>
-<i>num procedimento para vocÍs.</i>
+<i>num procedimento para voc√™s.</i>
 
 1256
 01:27:50,512 --> 01:27:52,309
@@ -5677,8 +5677,8 @@ esses procedimentos.
 
 1258
 01:27:54,750 --> 01:27:57,218
-Eu sei porque meus c·lculos
-est„o errados.
+Eu sei porque meus c√°lculos
+est√£o errados.
 
 1259
 01:27:58,087 --> 01:28:00,487
@@ -5690,12 +5690,12 @@ Talvez eu deva parar de respirar.
 
 1261
 01:28:07,863 --> 01:28:12,857
-<i>O mortal g·s CO 2 est· envenenando</i>
-<i>os astronautas a cada respiraÁ„o.</i>
+<i>O mortal g√°s CO 2 est√° envenenando</i>
+<i>os astronautas a cada respira√ß√£o.</i>
 
 1262
 01:28:12,935 --> 01:28:14,266
-AtenÁ„o.
+Aten√ß√£o.
 
 1263
 01:28:16,772 --> 01:28:17,830
@@ -5703,12 +5703,12 @@ Vamos.
 
 1264
 01:28:19,641 --> 01:28:21,666
-AtenÁ„o, pessoal. Cuidado.
+Aten√ß√£o, pessoal. Cuidado.
 
 1265
 01:28:24,613 --> 01:28:27,548
-- O que È isso?
-- … o que eles precisam fazer.
+- O que √© isso?
+- √â o que eles precisam fazer.
 
 1266
 01:28:28,350 --> 01:28:31,114
@@ -5717,15 +5717,15 @@ AtenÁ„o, pessoal. Cuidado.
 
 1267
 01:28:31,186 --> 01:28:32,551
-SÛ isso?
+S√≥ isso?
 
 1268
 01:28:35,190 --> 01:28:37,317
-<i>Muito bem, Aquarius, aqui È Houston.</i>
+<i>Muito bem, Aquarius, aqui √© Houston.</i>
 
 1269
 01:28:37,393 --> 01:28:39,384
-<i>VocÍs tÍm um plano de voo aÌ?</i>
+<i>Voc√™s t√™m um plano de voo a√≠?</i>
 
 1270
 01:28:39,495 --> 01:28:42,623
@@ -5735,11 +5735,11 @@ O Jack tem um bem aqui.
 1271
 01:28:42,698 --> 01:28:46,498
 OK, temos um procedimento diferente
-para vocÍs aqui.
+para voc√™s aqui.
 
 1272
 01:28:46,568 --> 01:28:48,502
-<i>VocÍs tÍm que rasgar a capa.</i>
+<i>Voc√™s t√™m que rasgar a capa.</i>
 
 1273
 01:28:48,670 --> 01:28:51,332
@@ -5753,16 +5753,16 @@ Com prazer.
 1275
 01:28:53,709 --> 01:28:56,234
 <i>Os outros materiais</i>
-<i>que ir„o precisar s„o...</i>
+<i>que ir√£o precisar s√£o...</i>
 
 1276
 01:28:56,378 --> 01:28:58,278
-uma lata de hidrÛxido de lÌtio...
+uma lata de hidr√≥xido de l√≠tio...
 
 1277
 01:28:58,347 --> 01:29:01,145
-Duas latas de hidrÛxido
-de lÌtio, desculpem...
+Duas latas de hidr√≥xido
+de l√≠tio, desculpem...
 
 1278
 01:29:01,216 --> 01:29:03,480
@@ -5781,20 +5781,20 @@ de lÌtio, desculpem...
 
 1281
 01:29:17,499 --> 01:29:19,763
-Como est· o nÌvel do diÛxido de carbono?
+Como est√° o n√≠vel do di√≥xido de carbono?
 
 1282
 01:29:19,835 --> 01:29:21,496
-Est· subindo.
+Est√° subindo.
 
 1283
 01:29:23,105 --> 01:29:25,869
-Quer dizer que eles est„o
-quase sem ar respir·vel?
+Quer dizer que eles est√£o
+quase sem ar respir√°vel?
 
 1284
 01:29:25,941 --> 01:29:30,275
-Espere aÌ. N„o foi isso que ele disse.
+Espere a√≠. N√£o foi isso que ele disse.
 Ele disse que estamos trabalhando nisso.
 
 1285
@@ -5803,17 +5803,17 @@ Ele disse que estamos trabalhando nisso.
 
 1286
 01:29:34,049 --> 01:29:36,210
-- Diga-lhe para usar o braÁo.
-- Use seu braÁo.
+- Diga-lhe para usar o bra√ßo.
+- Use seu bra√ßo.
 
 1287
 01:29:36,285 --> 01:29:39,220
-<i>- … a medida de um braÁo.</i>
+<i>- √â a medida de um bra√ßo.</i>
 - OK, entendi o que quer dizer.
 
 1288
 01:29:39,288 --> 01:29:42,519
-Jack, divida esse pedaÁo de fita
+Jack, divida esse peda√ßo de fita
 no meio, longitudinalmente.
 
 1289
@@ -5824,30 +5824,30 @@ no meio, longitudinalmente.
 1290
 01:29:46,261 --> 01:29:49,822
 <i>Enquanto parece que os astronautas</i>
-<i>tÍm oxigÍnio para sobreviver...</i>
+<i>t√™m oxig√™nio para sobreviver...</i>
 
 1291
 01:29:49,898 --> 01:29:53,095
-<i>uma coisa eles tÍm em excesso,</i>
-<i>o diÛxido de carbono.</i>
+<i>uma coisa eles t√™m em excesso,</i>
+<i>o di√≥xido de carbono.</i>
 
 1292
 01:29:53,202 --> 01:29:55,067
-<i>Com cada respiraÁ„o, os trÍs expelem...</i>
+<i>Com cada respira√ß√£o, os tr√™s expelem...</i>
 
 1293
 01:29:55,137 --> 01:29:58,197
-<i>mais g·s venenoso</i>
-<i>para dentro do mÛdulo lunar...</i>
+<i>mais g√°s venenoso</i>
+<i>para dentro do m√≥dulo lunar...</i>
 
 1294
 01:29:58,273 --> 01:30:01,265
 <i>e os filtros que deveriam manter</i>
-<i>o ar respir·vel...</i>
+<i>o ar respir√°vel...</i>
 
 1295
 01:30:01,376 --> 01:30:03,537
-<i>est„o se saturando rapidamente.</i>
+<i>est√£o se saturando rapidamente.</i>
 
 1296
 01:30:05,881 --> 01:30:07,712
@@ -5856,12 +5856,12 @@ Merda, rasguei-o.
 1297
 01:30:11,086 --> 01:30:15,455
 Houston, o que fazemos se rasgamos
-um saco? Podemos col·-lo?
+um saco? Podemos col√°-lo?
 
 1298
 01:30:15,624 --> 01:30:17,592
 - Eles rasgaram o saco.
-- Oh, n„o.
+- Oh, n√£o.
 
 1299
 01:30:17,659 --> 01:30:21,618
@@ -5870,33 +5870,33 @@ um saco? Podemos col·-lo?
 
 1300
 01:30:21,730 --> 01:30:24,426
-<i>Mas ainda tÍm uma longa viagem</i>
+<i>Mas ainda t√™m uma longa viagem</i>
 <i>pela frente...</i>
 
 1301
 01:30:24,500 --> 01:30:29,437
-<i>e agora est„o trabalhando nas</i>
-<i>instalaÁıes de apoio e de emergÍncia.</i>
+<i>e agora est√£o trabalhando nas</i>
+<i>instala√ß√µes de apoio e de emerg√™ncia.</i>
 
 1302
 01:30:29,605 --> 01:30:33,405
-<i>O problema È que se algo mais falhar,</i>
-<i>estar„o em sÈrios apuros.</i>
+<i>O problema √© que se algo mais falhar,</i>
+<i>estar√£o em s√©rios apuros.</i>
 
 1303
 01:31:02,804 --> 01:31:06,672
-<i>Como quase todos sabem, n„o h·</i>
-<i>salvamento possÌvel num voo espacial.</i>
+<i>Como quase todos sabem, n√£o h√°</i>
+<i>salvamento poss√≠vel num voo espacial.</i>
 
 1304
 01:31:06,775 --> 01:31:10,871
 <i>Qualquer sistema de salvamento</i>
-<i>planejado pela agÍncia espacial...</i>
+<i>planejado pela ag√™ncia espacial...</i>
 
 1305
 01:31:11,213 --> 01:31:14,808
 <i>Qualquer sistema de salvamento</i>
-<i>planejado pela agÍncia espacial...</i>
+<i>planejado pela ag√™ncia espacial...</i>
 
 1306
 01:31:19,521 --> 01:31:22,354
@@ -5905,47 +5905,47 @@ um saco? Podemos col·-lo?
 
 1307
 01:31:22,457 --> 01:31:24,550
-<i>- queremos que vocÍs...</i>
+<i>- queremos que voc√™s...</i>
 - Coloque-a dentro.
 
 1308
 01:31:24,626 --> 01:31:27,993
-<i>... prendam o filtro ao reservatÛrio</i>
-<i>com um el·stico...</i>
+<i>... prendam o filtro ao reservat√≥rio</i>
+<i>com um el√°stico...</i>
 
 1309
 01:31:28,063 --> 01:31:31,294
-<i>- em cima da caixa do mÛdulo lunar.</i>
+<i>- em cima da caixa do m√≥dulo lunar.</i>
 - Estamos chegando no 15.
 
 1310
 01:31:32,334 --> 01:31:37,067
 Pode-se comparar esse voo com outras
-situaÁıes de emergÍncia que enfrentou?
+situa√ß√µes de emerg√™ncia que enfrentou?
 
 1311
 01:31:37,839 --> 01:31:40,899
 Tenho que admitir
-que esta È a situaÁ„o mais sÈria...
+que esta √© a situa√ß√£o mais s√©ria...
 
 1312
 01:31:41,009 --> 01:31:43,443
-que j· enfrentamos
+que j√° enfrentamos
 num voo espacial tripulado.
 
 1313
 01:31:43,512 --> 01:31:47,243
-- Houston, o filtro est· no lugar.
-- O g·s da cabine ser· reciclado.
+- Houston, o filtro est√° no lugar.
+- O g√°s da cabine ser√° reciclado.
 
 1314
 01:31:47,916 --> 01:31:50,214
-Fechando circuito de g·s das roupas.
+Fechando circuito de g√°s das roupas.
 
 1315
 01:31:50,385 --> 01:31:51,749
 Selecionar a caixa
-de CO2 em secund·rio.
+de CO2 em secund√°rio.
 
 1316
 01:31:51,750 --> 01:31:53,513
@@ -5953,7 +5953,7 @@ Certo.
 
 1317
 01:31:55,257 --> 01:31:56,656
-L· vai.
+L√° vai.
 
 1318
 01:31:58,093 --> 01:32:00,027
@@ -5966,16 +5966,16 @@ Respirem normalmente, rapazes.
 1320
 01:32:17,179 --> 01:32:19,909
 <i>Aquarius, informe-nos</i>
-<i>sobre a situaÁ„o do CO 2.</i>
+<i>sobre a situa√ß√£o do CO 2.</i>
 
 1321
 01:32:20,749 --> 01:32:23,946
 Houston, estamos olhando
-esses n˙meros agora.
+esses n√∫meros agora.
 
 1322
 01:32:27,789 --> 01:32:30,758
-<i>Ainda estamos prÛximos ao 15,</i>
+<i>Ainda estamos pr√≥ximos ao 15,</i>
 <i>Houston.</i>
 
 1323
@@ -5984,7 +5984,7 @@ esses n˙meros agora.
 
 1324
 01:32:43,839 --> 01:32:47,172
-Houston, o nÌvel de CO2 desceu
+Houston, o n√≠vel de CO2 desceu
 para nove...
 
 1325
@@ -5993,16 +5993,16 @@ e continua descendo.
 
 1326
 01:32:55,250 --> 01:32:57,411
-… uma boa notÌcia, Aquarius.
+√â uma boa not√≠cia, Aquarius.
 
 1327
 01:32:57,486 --> 01:33:00,421
-E o senhor È um gÍnio
+E o senhor √© um g√™nio
 da engenharia espacial.
 
 1328
 01:33:05,093 --> 01:33:07,789
-OK, controle da espaÁonave
+OK, controle da espa√ßonave
 para o computador.
 
 1329
@@ -6024,15 +6024,15 @@ Sobrecarregamos.
 
 1333
 01:33:23,445 --> 01:33:25,640
-Muito bem, qual È o que tem a fuga?
+Muito bem, qual √© o que tem a fuga?
 
 1334
 01:33:26,715 --> 01:33:28,615
-Ainda n„o sei, John.
+Ainda n√£o sei, John.
 
 1335
 01:33:28,684 --> 01:33:32,381
-A sequÍncia estava errada.
+A sequ√™ncia estava errada.
 Temos de voltar e tentar um de cada vez.
 
 1336
@@ -6041,11 +6041,11 @@ Quer descansar, Ken?
 
 1337
 01:33:35,390 --> 01:33:38,188
-Eles n„o descansam, eu n„o descanso.
+Eles n√£o descansam, eu n√£o descanso.
 
 1338
 01:33:42,230 --> 01:33:44,858
-Bem, se n„o funcionar, tragam-me outra.
+Bem, se n√£o funcionar, tragam-me outra.
 
 1339
 01:33:44,966 --> 01:33:48,197
@@ -6054,20 +6054,20 @@ Bem, se n„o funcionar, tragam-me outra.
 
 1340
 01:33:48,303 --> 01:33:49,736
-Ol·, Blanch.
+Ol√°, Blanch.
 
 1341
 01:33:50,339 --> 01:33:53,331
-Eles n„o sabem consertar
+Eles n√£o sabem consertar
 nada neste lugar.
 
 1342
 01:33:53,542 --> 01:33:55,840
-Blanch, È a Marilyn.
+Blanch, √© a Marilyn.
 
 1343
 01:33:56,545 --> 01:33:58,012
-Oi, vovÛ.
+Oi, vov√≥.
 
 1344
 01:33:58,914 --> 01:34:00,848
@@ -6084,11 +6084,11 @@ Viemos lhe dizer uma coisa.
 1347
 01:34:08,156 --> 01:34:11,751
 Houve um acidente.
-O Jimmy est· bem. Ele est· bem.
+O Jimmy est√° bem. Ele est√° bem.
 
 1348
 01:34:14,229 --> 01:34:17,221
-Mas n„o vai poder pisar na lua.
+Mas n√£o vai poder pisar na lua.
 
 1349
 01:34:18,066 --> 01:34:20,057
@@ -6104,21 +6104,21 @@ Isso foi antes.
 
 1352
 01:34:27,209 --> 01:34:30,508
-Agora houve uma explos„o,
-e eles est„o bem...
+Agora houve uma explos√£o,
+e eles est√£o bem...
 
 1353
 01:34:30,579 --> 01:34:34,606
-est„o todos bem.
-Mas agora eles tentar„o...
+est√£o todos bem.
+Mas agora eles tentar√£o...
 
 1354
 01:34:36,017 --> 01:34:38,918
-encontrar um modo de trazÍ-los de volta.
+encontrar um modo de traz√™-los de volta.
 
 1355
 01:34:44,860 --> 01:34:47,260
-E È um pouco perigoso.
+E √© um pouco perigoso.
 
 1356
 01:34:48,730 --> 01:34:50,197
@@ -6126,38 +6126,38 @@ Oh, querida.
 
 1357
 01:34:54,202 --> 01:34:55,760
-Est· com medo?
+Est√° com medo?
 
 1358
 01:35:00,075 --> 01:35:02,373
-Bem, n„o se preocupe, querida.
+Bem, n√£o se preocupe, querida.
 
 1359
 01:35:03,445 --> 01:35:06,414
 Se conseguissem fazer
-uma m·quina de lavar voar...
+uma m√°quina de lavar voar...
 
 1360
 01:35:07,949 --> 01:35:09,940
-meu Jimmy saberia como pous·-la.
+meu Jimmy saberia como pous√°-la.
 
 1361
 01:35:29,905 --> 01:35:31,964
-SISTEMA DE TRANSFER NCIA DE URINA
+SISTEMA DE TRANSFER√äNCIA DE URINA
 
 1362
 01:35:49,191 --> 01:35:53,025
-<i>Jack, ficar· feliz em saber</i>
+<i>Jack, ficar√° feliz em saber</i>
 <i>que contatamos o Presidente Nixon...</i>
 
 1363
 01:35:53,528 --> 01:35:57,157
 <i>e ele vai lhe conceder um adiamento</i>
-<i>para entregar sua declaraÁ„o...</i>
+<i>para entregar sua declara√ß√£o...</i>
 
 1364
 01:35:57,365 --> 01:36:01,028
-<i>J· que est·, sem d˙vida, fora do paÌs.</i>
+<i>J√° que est√°, sem d√∫vida, fora do pa√≠s.</i>
 
 1365
 01:36:03,305 --> 01:36:05,136
@@ -6165,7 +6165,7 @@ Entendido, Houston.
 
 1366
 01:36:05,507 --> 01:36:07,441
-… uma Ûtima notÌcia.
+√â uma √≥tima not√≠cia.
 
 1367
 01:36:07,509 --> 01:36:09,477
@@ -6173,21 +6173,21 @@ Diga que precisam dormir.
 
 1368
 01:36:09,544 --> 01:36:11,978
-Haise est· com 40 de febre.
+Haise est√° com 40 de febre.
 
 1369
 01:36:12,347 --> 01:36:15,942
 <i>13,</i> temos outro pedido
-do mÈdico de voo...
+do m√©dico de voo...
 
 1370
 01:36:16,017 --> 01:36:18,042
-que vocÍs durmam um pouco.
+que voc√™s durmam um pouco.
 
 1371
 01:36:18,153 --> 01:36:20,951
-<i>Ele n„o est· gostando</i>
-<i>do que est· vendo aqui.</i>
+<i>Ele n√£o est√° gostando</i>
+<i>do que est√° vendo aqui.</i>
 
 1372
 01:36:21,323 --> 01:36:23,314
@@ -6208,17 +6208,17 @@ Controle, acabei de perder o Lovell.
 
 1376
 01:36:41,710 --> 01:36:43,575
-<i>13,</i> aqui È Houston.
+<i>13,</i> aqui √© Houston.
 
 1377
 01:36:44,079 --> 01:36:47,515
 <i>Jim, tivemos uma perda repentina</i>
-<i>dos seus sensores biomÈdicos.</i>
+<i>dos seus sensores biom√©dicos.</i>
 
 1378
 01:36:47,916 --> 01:36:50,749
-N„o estou usando
-meus sensores biomÈdicos, Houston.
+N√£o estou usando
+meus sensores biom√©dicos, Houston.
 
 1379
 01:37:01,062 --> 01:37:03,326
@@ -6226,16 +6226,16 @@ OK, Jim. Entendido.
 
 1380
 01:37:19,014 --> 01:37:21,505
-Agora estou perdendo os trÍs!
+Agora estou perdendo os tr√™s!
 
 1381
 01:37:22,450 --> 01:37:25,078
-… sÛ um motim mÈdico, doutor.
+√â s√≥ um motim m√©dico, doutor.
 
 1382
 01:37:25,453 --> 01:37:27,887
 Tenho certeza de que ainda
-est„o conosco.
+est√£o conosco.
 
 1383
 01:37:28,757 --> 01:37:31,191
@@ -6247,16 +6247,16 @@ DIA 6
 
 1385
 01:37:42,804 --> 01:37:45,739
-Gene, n„o È a velocidade, È o ‚ngulo.
+Gene, n√£o √© a velocidade, √© o √¢ngulo.
 
 1386
 01:37:46,308 --> 01:37:50,244
 Talvez ainda tenham algum vazamento
-que os est· desviando da trajetÛria...
+que os est√° desviando da trajet√≥ria...
 
 1387
 01:37:50,312 --> 01:37:52,143
-mas o ‚ngulo est· diminuindo de novo.
+mas o √¢ngulo est√° diminuindo de novo.
 
 1388
 01:37:52,213 --> 01:37:54,977
@@ -6265,17 +6265,17 @@ mas o ‚ngulo est· diminuindo de novo.
 
 1389
 01:37:55,083 --> 01:37:58,644
-Nesse ‚ngulo, eles tocar„o a atmosfera
-e voltar„o para o espaÁo.
+Nesse √¢ngulo, eles tocar√£o a atmosfera
+e voltar√£o para o espa√ßo.
 
 1390
 01:37:58,753 --> 01:38:00,721
-… preciso outra combust„o
-para trazÍ-los.
+√â preciso outra combust√£o
+para traz√™-los.
 
 1391
 01:38:00,789 --> 01:38:03,383
-- Outra combust„o.
+- Outra combust√£o.
 - Ligue os motores, ponha-os na rota.
 
 1392
@@ -6284,7 +6284,7 @@ Entendido.
 
 1393
 01:38:25,080 --> 01:38:27,173
-<i>Aquarius, aqui È Houston.</i>
+<i>Aquarius, aqui √© Houston.</i>
 
 1394
 01:38:28,316 --> 01:38:29,681
@@ -6292,8 +6292,8 @@ Houston, Aquarius.
 
 1395
 01:38:30,852 --> 01:38:33,616
-<i>Jim, temos outra correÁ„o de rota</i>
-<i>para vocÍs.</i>
+<i>Jim, temos outra corre√ß√£o de rota</i>
+<i>para voc√™s.</i>
 
 1396
 01:38:34,089 --> 01:38:35,454
@@ -6301,7 +6301,7 @@ O que houve?
 
 1397
 01:38:36,191 --> 01:38:38,352
-Algo sobre outra correÁ„o de rota.
+Algo sobre outra corre√ß√£o de rota.
 
 1398
 01:38:38,460 --> 01:38:40,587
@@ -6309,7 +6309,7 @@ Entendido, Houston.
 
 1399
 01:38:41,796 --> 01:38:45,596
-Mas saibam que levar· algum tempo
+Mas saibam que levar√° algum tempo
 para ligarmos o computador...
 
 1400
@@ -6319,17 +6319,17 @@ se tivermos que ligar o motor.
 
 1401
 01:38:49,337 --> 01:38:53,501
-<i>Negativo, Jim. N„o podemos gastar</i>
+<i>Negativo, Jim. N√£o podemos gastar</i>
 <i>energia com o computador.</i>
 
 1402
 01:38:54,876 --> 01:38:56,537
-Temos que fazer isso ‡s cegas?
+Temos que fazer isso √†s cegas?
 
 1403
 01:38:56,611 --> 01:39:00,103
 Houston, sem o computador,
-o que usamos como orientaÁ„o?
+o que usamos como orienta√ß√£o?
 
 1404
 01:39:00,548 --> 01:39:03,346
@@ -6338,27 +6338,27 @@ Vamos, precisamos dar-lhes alguma coisa.
 1405
 01:39:03,451 --> 01:39:05,942
 Sem energia,
-n„o podemos mandar-lhes uma leitura.
+n√£o podemos mandar-lhes uma leitura.
 
 1406
 01:39:06,021 --> 01:39:08,080
-Energia, n„o.
-Falo de ponto de referÍncia.
+Energia, n√£o.
+Falo de ponto de refer√™ncia.
 
 1407
 01:39:08,156 --> 01:39:11,216
-N„o h· pontos de referÍncia.
-SÛ um monte de fragmentos aqui...
+N√£o h√° pontos de refer√™ncia.
+S√≥ um monte de fragmentos aqui...
 
 1408
 01:39:11,426 --> 01:39:14,224
 Houston, pode nos dizer o motivo
-desta combust„o?
+desta combust√£o?
 
 1409
 01:39:14,529 --> 01:39:17,464
 <i>Estamos tentando achar</i>
-<i>uma soluÁ„o aqui, Aquarius.</i>
+<i>uma solu√ß√£o aqui, Aquarius.</i>
 
 1410
 01:39:17,732 --> 01:39:19,063
@@ -6366,8 +6366,8 @@ desta combust„o?
 
 1411
 01:39:19,734 --> 01:39:24,330
-OuÁa, Houston, para manter a posiÁ„o
-precisamos de um ponto fixo no espaÁo.
+Ou√ßa, Houston, para manter a posi√ß√£o
+precisamos de um ponto fixo no espa√ßo.
 
 1412
 01:39:24,973 --> 01:39:28,033
@@ -6376,7 +6376,7 @@ precisamos de um ponto fixo no espaÁo.
 
 1413
 01:39:32,881 --> 01:39:34,974
-Bem, Houston, nÛs temos um.
+Bem, Houston, n√≥s temos um.
 
 1414
 01:39:35,650 --> 01:39:38,676
@@ -6385,16 +6385,16 @@ voando manualmente...
 
 1415
 01:39:39,187 --> 01:39:41,747
-<i>com referÍncia no terminador...</i>
+<i>com refer√™ncia no terminador...</i>
 
 1416
 01:39:41,856 --> 01:39:45,121
-<i>tudo o que temos a saber È</i>
+<i>tudo o que temos a saber √©</i>
 <i>quanto tempo temos que ligar o motor.</i>
 
 1417
 01:39:45,193 --> 01:39:48,162
-- O menor tempo possÌvel.
+- O menor tempo poss√≠vel.
 - Entendido, Jim.
 
 1418
@@ -6408,11 +6408,11 @@ sem o computador?
 
 1420
 01:39:55,904 --> 01:39:57,769
-… o m·ximo que podemos fazer.
+√â o m√°ximo que podemos fazer.
 
 1421
 01:39:57,839 --> 01:39:59,363
-N„o temos mais tempo.
+N√£o temos mais tempo.
 
 1422
 01:39:59,441 --> 01:40:01,671
@@ -6420,18 +6420,18 @@ N„o temos mais tempo.
 
 1423
 01:40:01,743 --> 01:40:05,042
-<i>eles tÍm como objetivo um corredor</i>
+<i>eles t√™m como objetivo um corredor</i>
 <i>de apenas 2,5 graus de largura.</i>
 
 1424
 01:40:05,113 --> 01:40:08,708
 <i>Se estiverem muito inclinados,</i>
-<i>se incendiar„o com a densidade do ar.</i>
+<i>se incendiar√£o com a densidade do ar.</i>
 
 1425
 01:40:08,783 --> 01:40:11,809
 <i>Se entrarem pouco inclinados,</i>
-<i>ricochetear„o fora da atmosfera...</i>
+<i>ricochetear√£o fora da atmosfera...</i>
 
 1426
 01:40:11,886 --> 01:40:13,285
@@ -6439,7 +6439,7 @@ N„o temos mais tempo.
 
 1427
 01:40:13,354 --> 01:40:17,848
-<i>O corredor da reentrada È t„o estreito</i>
+<i>O corredor da reentrada √© t√£o estreito</i>
 <i>que se esta bola fosse a Terra...</i>
 
 1428
@@ -6449,12 +6449,12 @@ N„o temos mais tempo.
 
 1429
 01:40:22,297 --> 01:40:26,495
-<i>a tripulaÁ„o teria que atingir um alvo</i>
+<i>a tripula√ß√£o teria que atingir um alvo</i>
 <i>da espessura dessa folha de papel.</i>
 
 1430
 01:40:26,568 --> 01:40:29,036
-AtenÁ„o. Vamos fazer isso ‡s cegas.
+Aten√ß√£o. Vamos fazer isso √†s cegas.
 
 1431
 01:40:29,104 --> 01:40:31,732
@@ -6467,21 +6467,21 @@ disparo, controle manual.
 
 1433
 01:40:35,910 --> 01:40:37,810
-O motor funcionar·, n„o È?
+O motor funcionar√°, n√£o √©?
 
 1434
 01:40:37,912 --> 01:40:41,473
-SÛ quero que saiba que o motor
+S√≥ quero que saiba que o motor
 nunca foi testado assim.
 
 1435
 01:40:41,583 --> 01:40:43,983
-… sÛ isso que estou tentando dizer.
+√â s√≥ isso que estou tentando dizer.
 
 1436
 01:40:44,085 --> 01:40:48,385
-Sei o que est· tentando dizer.
-N„o o responsabilizarei por isso.
+Sei o que est√° tentando dizer.
+N√£o o responsabilizarei por isso.
 
 1437
 01:40:48,456 --> 01:40:51,721
@@ -6494,31 +6494,31 @@ OK.
 
 1439
 01:40:54,062 --> 01:40:58,999
-<i>Ligar„o o motor e pilotar„o manualmente</i>
+<i>Ligar√£o o motor e pilotar√£o manualmente</i>
 <i>tentando manter a Terra na janela.</i>
 
 1440
 01:41:06,241 --> 01:41:08,607
-NÛs trÍs teremos que nos empenhar nisso.
+N√≥s tr√™s teremos que nos empenhar nisso.
 
 1441
 01:41:09,244 --> 01:41:12,975
-Freddo, vocÍ controla a inclinaÁ„o.
+Freddo, voc√™ controla a inclina√ß√£o.
 
 1442
 01:41:13,481 --> 01:41:16,075
 Coloque os controladores
-de translaÁ„o pra tr·s...
+de transla√ß√£o pra tr√°s...
 
 1443
 01:41:16,151 --> 01:41:19,211
 assim, se vir que a Terra
-est· descendo...
+est√° descendo...
 
 1444
 01:41:19,287 --> 01:41:22,484
-dÍ um impulso para tr·s,
-n„o para a frente.
+d√™ um impulso para tr√°s,
+n√£o para a frente.
 
 1445
 01:41:22,824 --> 01:41:25,486
@@ -6526,7 +6526,7 @@ Eu farei o mesmo com o meu.
 
 1446
 01:41:25,660 --> 01:41:29,096
-Faremos uma combust„o a 10%
+Faremos uma combust√£o a 10%
 por 39 segundos. Jack, marque o tempo.
 
 1447
@@ -6535,8 +6535,8 @@ Certo.
 
 1448
 01:41:30,598 --> 01:41:34,557
-DÍ-nos a contagem dos ˙ltimos
-10 segundos atÈ 39. N„o vamos falhar.
+D√™-nos a contagem dos √∫ltimos
+10 segundos at√© 39. N√£o vamos falhar.
 
 1449
 01:41:38,206 --> 01:41:40,197
@@ -6544,11 +6544,11 @@ Pode fazer isso, Freddo?
 
 1450
 01:41:42,110 --> 01:41:43,600
-Estou com vocÍ.
+Estou com voc√™.
 
 1451
 01:41:44,379 --> 01:41:47,507
-Estamos prontos para a combust„o
+Estamos prontos para a combust√£o
 de controle do corredor.
 
 1452
@@ -6558,15 +6558,15 @@ pode ligar quando estiver pronto.
 
 1453
 01:41:50,418 --> 01:41:52,784
-<i>Autorizamos operaÁ„o de controle manual.</i>
+<i>Autorizamos opera√ß√£o de controle manual.</i>
 
 1454
 01:41:52,854 --> 01:41:56,290
-OK, bot„o X-plus a 10 segundos. Vamos.
+OK, bot√£o X-plus a 10 segundos. Vamos.
 
 1455
 01:41:56,524 --> 01:41:59,322
-- Vamos, beleza. Mais uma combust„o.
+- Vamos, beleza. Mais uma combust√£o.
 - Nove, oito...
 
 1456
@@ -6575,50 +6575,50 @@ sete, seis, cinco...
 
 1457
 01:42:01,996 --> 01:42:04,260
-- quatro, trÍs...
-- Pressurizadores de combustÌvel.
+- quatro, tr√™s...
+- Pressurizadores de combust√≠vel.
 
 1458
 01:42:04,332 --> 01:42:06,892
-<i>... dois, um, igniÁ„o!</i>
+<i>... dois, um, igni√ß√£o!</i>
 
 1459
 01:42:08,837 --> 01:42:10,361
-Est· funcionando!
+Est√° funcionando!
 
 1460
 01:42:10,672 --> 01:42:13,505
 - Interruptor principal desligado.
-- OK, l· vamos nÛs.
+- OK, l√° vamos n√≥s.
 
 1461
 01:42:13,575 --> 01:42:17,409
-<i>- Regulador de hÈlio ligado.</i>
+<i>- Regulador de h√©lio ligado.</i>
 <i>- Valor positivo, 10% de impulso.</i>
 
 1462
 01:42:17,545 --> 01:42:21,003
 <i>- Vire-a, Freddo.</i>
-<i>- Estou tentando, mas est· duro.</i>
+<i>- Estou tentando, mas est√° duro.</i>
 
 1463
 01:42:21,416 --> 01:42:24,112
 - Dez segundos.
-<i>- Abaixe o ‚ngulo, Freddo.</i>
+<i>- Abaixe o √¢ngulo, Freddo.</i>
 
 1464
 01:42:24,219 --> 01:42:26,153
-<i>- Estamos ‡ deriva!</i>
-<i>- N„o, segure assim.</i>
+<i>- Estamos √† deriva!</i>
+<i>- N√£o, segure assim.</i>
 
 1465
 01:42:26,221 --> 01:42:28,485
 <i>- Eu viro. Saia.</i>
-<i>- N„o consigo estabiliz·-la.</i>
+<i>- N√£o consigo estabiliz√°-la.</i>
 
 1466
 01:42:28,556 --> 01:42:31,024
-Ela est· balanÁando demais!
+Ela est√° balan√ßando demais!
 
 1467
 01:42:31,092 --> 01:42:33,959
@@ -6627,17 +6627,17 @@ Ela est· balanÁando demais!
 
 1468
 01:42:34,095 --> 01:42:36,290
-<i>Est· ‡ deriva.</i>
-<i>Estou perdendo inclinaÁ„o.</i>
+<i>Est√° √† deriva.</i>
+<i>Estou perdendo inclina√ß√£o.</i>
 
 1469
 01:42:36,364 --> 01:42:38,924
 <i>Mantenha assim. Isso.</i>
-<i>N„o, Freddo, para tr·s!</i>
+<i>N√£o, Freddo, para tr√°s!</i>
 
 1470
 01:42:39,033 --> 01:42:41,297
-<i>- Est· sem controle!</i>
+<i>- Est√° sem controle!</i>
 <i>- Traga a Terra para cima.</i>
 
 1471
@@ -6646,11 +6646,11 @@ Impulso para a frente, Fred. Vamos.
 
 1472
 01:42:44,339 --> 01:42:47,172
-Merda, eu a perdi! Onde est·?
+Merda, eu a perdi! Onde est√°?
 
 1473
 01:42:47,242 --> 01:42:49,403
-<i>¿s 7:00. Regulador de hÈlio fechado.</i>
+<i>√Äs 7:00. Regulador de h√©lio fechado.</i>
 
 1474
 01:42:49,944 --> 01:42:52,105
@@ -6667,16 +6667,16 @@ Aponte-a para baixo, Freddo. Para baixo.
 
 1477
 01:42:57,352 --> 01:43:00,219
-Droga, È culpa minha. Assim. Ao redor.
+Droga, √© culpa minha. Assim. Ao redor.
 
 1478
 01:43:02,123 --> 01:43:05,183
-- Mais um pouco. Vamos l·.
+- Mais um pouco. Vamos l√°.
 - Isso mesmo. Assim.
 
 1479
 01:43:05,260 --> 01:43:08,286
-- Para tr·s! Assim! Segure assim! Firme.
+- Para tr√°s! Assim! Segure assim! Firme.
 ...oito, nove!
 
 1480
@@ -6685,36 +6685,36 @@ Desligue!
 
 1481
 01:43:20,608 --> 01:43:22,599
-Houston, nÛs desligamos.
+Houston, n√≥s desligamos.
 
 1482
 01:43:22,710 --> 01:43:25,338
-<i>… suficientemente perto, Jim.</i>
+<i>√â suficientemente perto, Jim.</i>
 <i>Bom trabalho.</i>
 
 1483
 01:43:26,247 --> 01:43:30,183
-Eu sabia! Que tal o mÛdulo lunar?
+Eu sabia! Que tal o m√≥dulo lunar?
 Que tal?
 
 1484
 01:43:32,053 --> 01:43:34,521
 - Acho que pode conservar seu emprego.
-- Sem d˙vidas.
+- Sem d√∫vidas.
 
 1485
 01:43:34,589 --> 01:43:38,525
-13, <i>atenÁ„o. Estamos avaliando</i>
-<i>o consumo de energia dessa igniÁ„o.</i>
+13, <i>aten√ß√£o. Estamos avaliando</i>
+<i>o consumo de energia dessa igni√ß√£o.</i>
 
 1486
 01:43:40,194 --> 01:43:42,526
-Espero n„o ter que fazer isso de novo.
+Espero n√£o ter que fazer isso de novo.
 
 1487
 01:43:56,644 --> 01:44:00,808
 Senhores, deram-lhes o suficiente
-para sobreviver atÈ a reentrada.
+para sobreviver at√© a reentrada.
 
 1488
 01:44:02,250 --> 01:44:03,615
@@ -6722,17 +6722,17 @@ Bom trabalho.
 
 1489
 01:44:07,055 --> 01:44:10,388
-Agora temos de trazÍ-los pra c·,
+Agora temos de traz√™-los pra c√°,
 quais as etapas de acionamento?
 
 1490
 01:44:10,458 --> 01:44:12,926
-Aqui est· a ordem do que eu quero fazer.
+Aqui est√° a ordem do que eu quero fazer.
 
 1491
 01:44:12,994 --> 01:44:16,828
-Quero ligar a orientaÁ„o,
-o controle ambiental, as comunicaÁıes...
+Quero ligar a orienta√ß√£o,
+o controle ambiental, as comunica√ß√µes...
 
 1492
 01:44:17,665 --> 01:44:21,761
@@ -6741,58 +6741,58 @@ dos para-quedas e os propulsores.
 
 1493
 01:44:22,003 --> 01:44:24,733
-O propulsores v„o exceder
-o limite de ampËres.
+O propulsores v√£o exceder
+o limite de amp√®res.
 
 1494
 01:44:24,906 --> 01:44:28,899
-Eles est„o a 120 graus negativos
-h· quatro dias. Precisam ser aquecidos.
+Eles est√£o a 120 graus negativos
+h√° quatro dias. Precisam ser aquecidos.
 
 1495
 01:44:28,977 --> 01:44:31,207
-OK. Ent„o trocamos pelos para-quedas.
+OK. Ent√£o trocamos pelos para-quedas.
 
 1496
 01:44:31,412 --> 01:44:33,863
-Se os para-quedas n„o abrem,
+Se os para-quedas n√£o abrem,
 que adianta?
 
 1497
 01:44:33,864 --> 01:44:35,314
-VocÍ me diz o que precisa.
+Voc√™ me diz o que precisa.
 
 1498
 01:44:35,416 --> 01:44:39,182
-Eu lhe digo o que temos disponÌvel.
-N„o estou inventando nada.
+Eu lhe digo o que temos dispon√≠vel.
+N√£o estou inventando nada.
 
 1499
 01:44:39,287 --> 01:44:41,346
-Eles precisar„o de tudo isso.
+Eles precisar√£o de tudo isso.
 
 1500
 01:44:41,456 --> 01:44:44,948
-N„o temos energia suficiente, Ken.
-Simplesmente n„o temos.
+N√£o temos energia suficiente, Ken.
+Simplesmente n√£o temos.
 
 1501
 01:44:48,629 --> 01:44:52,360
-Vou reorganizar a sequÍncia
+Vou reorganizar a sequ√™ncia
 e ver se encontro mais energia.
 
 1502
 01:44:52,867 --> 01:44:55,836
-Vamos comeÁar do zero. Anulem os dados.
+Vamos come√ßar do zero. Anulem os dados.
 
 1503
 01:44:59,140 --> 01:45:01,438
-N„o sei onde diabos procurar.
+N√£o sei onde diabos procurar.
 
 1504
 01:45:02,310 --> 01:45:05,871
 <i>O comandante da</i> Apollo 13<i> Jim Lovell</i>
-<i>passou mais tempo no espaÁo...</i>
+<i>passou mais tempo no espa√ßo...</i>
 
 1505
 01:45:05,947 --> 01:45:08,814
@@ -6807,7 +6807,7 @@ N„o sei onde diabos procurar.
 1507
 01:45:11,619 --> 01:45:14,782
 <i>Algumas vezes tive falhas</i>
-<i>no motor do avi„o...</i>
+<i>no motor do avi√£o...</i>
 
 1508
 01:45:14,856 --> 01:45:19,759
@@ -6816,11 +6816,11 @@ N„o sei onde diabos procurar.
 
 1509
 01:45:19,827 --> 01:45:21,920
-<i>mas s„o coisas que se resolvem.</i>
+<i>mas s√£o coisas que se resolvem.</i>
 
 1510
 01:45:22,630 --> 01:45:27,124
-<i>Lembra-se de algum caso de emergÍncia</i>
+<i>Lembra-se de algum caso de emerg√™ncia</i>
 <i>em que teve medo?</i>
 
 1511
@@ -6829,33 +6829,33 @@ N„o sei onde diabos procurar.
 
 1512
 01:45:31,472 --> 01:45:35,272
-<i>‡ noite, num Banshee em condiÁıes</i>
-<i>de combate, sem luzes no porta-aviıes.</i>
+<i>√† noite, num Banshee em condi√ß√µes</i>
+<i>de combate, sem luzes no porta-avi√µes.</i>
 
 1513
 01:45:35,343 --> 01:45:37,971
 <i>Era o Shangri-la.
-<i>Est·vamos no Mar do Jap„o.</i>
+<i>Est√°vamos no Mar do Jap√£o.</i>
 
 1514
 01:45:38,046 --> 01:45:41,675
 <i>O meu radar tinha pifado,</i>
-<i>e estava sem sinal de referÍncia...</i>
+<i>e estava sem sinal de refer√™ncia...</i>
 
 1515
 01:45:41,783 --> 01:45:45,150
-<i>porque alguÈm no Jap„o</i>
-<i>estava usando a mesma frequÍncia...</i>
+<i>porque algu√©m no Jap√£o</i>
+<i>estava usando a mesma frequ√™ncia...</i>
 
 1516
 01:45:45,553 --> 01:45:48,784
-<i>e ent„o estava me afastando</i>
+<i>e ent√£o estava me afastando</i>
 <i>de onde deveria estar.</i>
 
 1517
 01:45:49,223 --> 01:45:54,126
 <i>Havia um imenso oceano escuro abaixo,</i>
-<i>ent„o acendi a minha luz de mapa.</i>
+<i>ent√£o acendi a minha luz de mapa.</i>
 
 1518
 01:45:54,562 --> 01:45:58,225
@@ -6865,16 +6865,16 @@ N„o sei onde diabos procurar.
 1519
 01:45:58,332 --> 01:46:02,530
 <i>Fiquei sem luzes e equipamentos,</i>
-<i>n„o sabia nem a minha altitude.</i>
+<i>n√£o sabia nem a minha altitude.</i>
 
 1520
 01:46:03,337 --> 01:46:07,899
-<i>Sabia que estava acabando o combustÌvel,</i>
-<i>ent„o comecei a pensar em amerissar.</i>
+<i>Sabia que estava acabando o combust√≠vel,</i>
+<i>ent√£o comecei a pensar em amerissar.</i>
 
 1521
 01:46:08,476 --> 01:46:11,570
-<i>Olhei para baixo, e na escurid„o...</i>
+<i>Olhei para baixo, e na escurid√£o...</i>
 
 1522
 01:46:11,679 --> 01:46:14,307
@@ -6888,7 +6888,7 @@ N„o sei onde diabos procurar.
 1524
 01:46:20,054 --> 01:46:24,115
 <i>Eram aquelas coisas fosforescentes</i>
-<i>que se enroscam nas hÈlices dos navios.</i>
+<i>que se enroscam nas h√©lices dos navios.</i>
 
 1525
 01:46:24,192 --> 01:46:26,422
@@ -6896,7 +6896,7 @@ N„o sei onde diabos procurar.
 
 1526
 01:46:26,727 --> 01:46:29,821
-<i>Se as minhas luzes n„o tivessem entrado</i>
+<i>Se as minhas luzes n√£o tivessem entrado</i>
 <i>em curto circuito...</i>
 
 1527
@@ -6905,21 +6905,21 @@ N„o sei onde diabos procurar.
 
 1528
 01:46:32,266 --> 01:46:34,826
-<i>Ent„o, nunca se sabe...</i>
+<i>Ent√£o, nunca se sabe...</i>
 
 1529
 01:46:34,936 --> 01:46:38,372
-<i>quais s„o os eventos</i>
+<i>quais s√£o os eventos</i>
 <i>que podem nos levar para casa.</i>
 
 1530
 01:46:43,177 --> 01:46:47,079
 <i>O comandante da nave, Jim Lovell,</i>
-<i>est· acostumado com emergÍncias.</i>
+<i>est√° acostumado com emerg√™ncias.</i>
 
 1531
 01:46:58,259 --> 01:47:00,887
-- Como est·, Fred?
+- Como est√°, Fred?
 - Estou bem.
 
 1532
@@ -6929,22 +6929,22 @@ Que diabos foi isso?
 1533
 01:47:05,933 --> 01:47:08,231
 Espero que seja apenas
-o diafragma do hÈlio.
+o diafragma do h√©lio.
 
 1534
 01:47:08,302 --> 01:47:12,363
-- Foi o diafragma de seguranÁa do hÈlio?
+- Foi o diafragma de seguran√ßa do h√©lio?
 <i>- Confirmamos.</i>
 
 1535
 01:47:12,540 --> 01:47:16,203
-Houston, isso afetar·
-o nosso ‚ngulo de entrada?
+Houston, isso afetar√°
+o nosso √¢ngulo de entrada?
 
 1536
 01:47:16,777 --> 01:47:20,440
-<i>Negativo. O ‚ngulo de entrada</i>
-<i>est· est·vel nos 6,24 graus, Aquarius.</i>
+<i>Negativo. O √¢ngulo de entrada</i>
+<i>est√° est√°vel nos 6,24 graus, Aquarius.</i>
 
 1537
 01:47:20,781 --> 01:47:22,146
@@ -6952,7 +6952,7 @@ Houston...
 
 1538
 01:47:24,152 --> 01:47:28,248
-nÛs gostarÌamos muito de poder ter
+n√≥s gostar√≠amos muito de poder ter
 o procedimento de regresso aqui.
 
 1539
@@ -6961,73 +6961,73 @@ o procedimento de regresso aqui.
 
 1540
 01:47:33,594 --> 01:47:35,926
-Chegar· muito em breve, Aquarius.
+Chegar√° muito em breve, Aquarius.
 
 1541
 01:47:35,997 --> 01:47:37,589
-Houston, nÛs...
+Houston, n√≥s...
 
 1542
 01:47:38,566 --> 01:47:41,660
-N„o podemos fazer tudo no ˙ltimo minuto.
+N√£o podemos fazer tudo no √∫ltimo minuto.
 
 1543
 01:47:41,802 --> 01:47:44,168
-Ent„o, faÁamos o seguinte.
+Ent√£o, fa√ßamos o seguinte.
 
 1544
 01:47:44,472 --> 01:47:48,135
-VocÍs nos mandam o procedimento,
+Voc√™s nos mandam o procedimento,
 seja ele qual for...
 
 1545
 01:47:48,342 --> 01:47:52,472
-e nÛs o repassaremos passo a passo
+e n√≥s o repassaremos passo a passo
 para evitar falhas.
 
 1546
 01:47:53,581 --> 01:47:56,448
-N„o preciso dizer que estamos
+N√£o preciso dizer que estamos
 todos cansados aqui em cima.
 
 1547
 01:47:56,517 --> 01:47:59,281
-A Terra est· ficando muito grande
+A Terra est√° ficando muito grande
 na janela.
 
 1548
 01:47:59,587 --> 01:48:01,919
-- Jim, aqui È o Deke.
-- … o Deke.
+- Jim, aqui √© o Deke.
+- √â o Deke.
 
 1549
 01:48:02,356 --> 01:48:04,620
-Eles n„o sabem como fazer isso.
+Eles n√£o sabem como fazer isso.
 
 1550
 01:48:05,159 --> 01:48:06,854
-Talvez o Jack tenha raz„o.
+Talvez o Jack tenha raz√£o.
 
 1551
 01:48:08,329 --> 01:48:10,194
-Oi, Deke. O que est· havendo?
+Oi, Deke. O que est√° havendo?
 
 1552
 01:48:10,298 --> 01:48:14,257
-Vamos mandar o procedimento para vocÍs
+Vamos mandar o procedimento para voc√™s
 assim que pudermos.
 
 1553
 01:48:14,368 --> 01:48:17,337
-<i>Ken Mattingly est· no simulador agora.</i>
+<i>Ken Mattingly est√° no simulador agora.</i>
 
 1554
 01:48:18,673 --> 01:48:20,538
-O Ken est· trabalhando nisso?
+O Ken est√° trabalhando nisso?
 
 1555
 01:48:23,945 --> 01:48:27,506
-Sei que esta sequÍncia funcionar·, John.
+Sei que esta sequ√™ncia funcionar√°, John.
 
 1556
 01:48:27,648 --> 01:48:30,412
@@ -7037,11 +7037,11 @@ do limite da amperagem.
 1557
 01:48:30,484 --> 01:48:32,816
 <i>- De quanto?</i>
-- TrÍs ou quatro ampËres.
+- Tr√™s ou quatro amp√®res.
 
 1558
 01:48:32,887 --> 01:48:35,014
-Droga, John! TrÍs ou quatro?
+Droga, John! Tr√™s ou quatro?
 
 1559
 01:48:35,189 --> 01:48:36,656
@@ -7050,12 +7050,12 @@ Droga, John! TrÍs ou quatro?
 
 1560
 01:48:38,326 --> 01:48:39,884
-Quatro ampËres a mais.
+Quatro amp√®res a mais.
 
 1561
 01:48:50,571 --> 01:48:53,438
-Eles ainda tÍm energia
-nas baterias do mÛdulo lunar, n„o?
+Eles ainda t√™m energia
+nas baterias do m√≥dulo lunar, n√£o?
 
 1562
 01:48:53,507 --> 01:48:54,667
@@ -7064,47 +7064,47 @@ nas baterias do mÛdulo lunar, n„o?
 1563
 01:48:55,977 --> 01:49:00,004
 Temos uma linha que fornece energia
-do mÛdulo de comando para o lunar.
+do m√≥dulo de comando para o lunar.
 
 1564
 01:49:00,081 --> 01:49:03,573
-- … energia de reserva para o LEM.
+- √â energia de reserva para o LEM.
 - Estou ouvindo.
 
 1565
 01:49:04,018 --> 01:49:08,648
-Ent„o invertam-na. Invertam o fluxo
-e tentem obter os quatro ampËres...
+Ent√£o invertam-na. Invertam o fluxo
+e tentem obter os quatro amp√®res...
 
 1566
 01:49:08,723 --> 01:49:11,590
 do LEM antes de o deixarmos.
-Por que n„o podemos fazer isso?
+Por que n√£o podemos fazer isso?
 
 1567
 01:49:13,160 --> 01:49:16,789
-- N„o temos um procedimento para isso?
-- Perderemos muito na transferÍncia.
+- N√£o temos um procedimento para isso?
+- Perderemos muito na transfer√™ncia.
 
 1568
 01:49:16,864 --> 01:49:20,322
-Sim. Mas sÛ estamos falando
-de quatro ampËres.
+Sim. Mas s√≥ estamos falando
+de quatro amp√®res.
 
 1569
 01:49:21,535 --> 01:49:24,197
-Quero tudo o que tÍm
-sobre procedimentos elÈtricos.
+Quero tudo o que t√™m
+sobre procedimentos el√©tricos.
 
 1570
 01:49:24,272 --> 01:49:27,207
-- Gene, eles j·...
-- N„o tudo, uma parte.
+- Gene, eles j√°...
+- N√£o tudo, uma parte.
 
 1571
 01:49:27,275 --> 01:49:30,210
 - Precisamos dar-lhes algo.
-- Est„o trabalhando nisso.
+- Est√£o trabalhando nisso.
 
 1572
 01:49:30,278 --> 01:49:32,371
@@ -7113,26 +7113,26 @@ sobre procedimentos elÈtricos.
 
 1573
 01:49:32,446 --> 01:49:36,678
-N„o quero outra estimativa!
+N√£o quero outra estimativa!
 Quero o procedimento agora!
 
 1574
 01:49:40,888 --> 01:49:44,415
-”PTICA - DESLIGADO - AQUECEDOR
+√ìPTICA - DESLIGADO - AQUECEDOR
 
 1575
 01:49:49,130 --> 01:49:50,529
-O IMU est· ligado.
+O IMU est√° ligado.
 
 1576
 01:49:51,799 --> 01:49:54,427
 <i>- Como estamos indo?</i>
-- Bem, atÈ agora.
+- Bem, at√© agora.
 
 1577
 01:49:54,635 --> 01:49:57,229
 <i>- Repita.</i>
-- Est· dentro dos limites. Continue.
+- Est√° dentro dos limites. Continue.
 
 1578
 01:49:58,239 --> 01:50:00,366
@@ -7141,34 +7141,34 @@ OK. Projetor luminoso ligado.
 1579
 01:50:02,276 --> 01:50:04,801
 <i>OK, estou ligando o sistema</i>
-<i>de orientaÁ„o.</i>
+<i>de orienta√ß√£o.</i>
 
 1580
 01:50:07,548 --> 01:50:08,913
-L· vamos nÛs.
+L√° vamos n√≥s.
 
 1581
 01:50:08,983 --> 01:50:10,382
-CMC INCLINA«√O IMU
+CMC INCLINA√á√ÉO IMU
 
 1582
 01:50:10,451 --> 01:50:12,442
-IMU de InclinaÁ„o do Computador.
+IMU de Inclina√ß√£o do Computador.
 
 1583
 01:50:13,321 --> 01:50:15,585
 <i>Fonte do computador</i>
-<i>do mÛdulo de comando.</i>
+<i>do m√≥dulo de comando.</i>
 
 1584
 01:50:15,656 --> 01:50:18,750
-Modo de computador, autom·tico,
+Modo de computador, autom√°tico,
 e ligamos o computador.
 
 1585
 01:50:29,837 --> 01:50:32,431
 <i>- Continue.</i>
-- O seu computador est· ligado?
+- O seu computador est√° ligado?
 
 1586
 01:50:33,174 --> 01:50:35,142
@@ -7185,34 +7185,34 @@ Acho que conseguimos, amigo.
 
 1589
 01:50:58,999 --> 01:51:02,526
-Arthur, minhas anotaÁıes est„o claras
-na ˙ltima sequÍncia, n„o?
+Arthur, minhas anota√ß√µes est√£o claras
+na √∫ltima sequ√™ncia, n√£o?
 
 1590
 01:51:02,770 --> 01:51:05,864
-- Com licenÁa, senhores.
-- Estava ficando meio zonzo l·.
+- Com licen√ßa, senhores.
+- Estava ficando meio zonzo l√°.
 
 1591
 01:51:09,143 --> 01:51:11,168
-L· est„o o Ken e o John.
+L√° est√£o o Ken e o John.
 
 1592
 01:51:12,046 --> 01:51:14,139
-Que bom ver vocÍ, Ken.
+Que bom ver voc√™, Ken.
 
 1593
 01:51:14,548 --> 01:51:15,810
-Esta È a sequÍncia.
+Esta √© a sequ√™ncia.
 
 1594
 01:51:15,883 --> 01:51:19,114
-- J· foi passada para o computador?
-- N„o tivemos tempo.
+- J√° foi passada para o computador?
+- N√£o tivemos tempo.
 
 1595
 01:51:20,154 --> 01:51:22,486
-Aquarius, Houston. Est„o ouvindo?
+Aquarius, Houston. Est√£o ouvindo?
 
 1596
 01:51:23,491 --> 01:51:25,482
@@ -7220,20 +7220,20 @@ Sim, estamos ouvindo, Ken.
 
 1597
 01:51:27,561 --> 01:51:30,155
-As flores est„o nascendo em Houston?
+As flores est√£o nascendo em Houston?
 
 1598
 01:51:30,231 --> 01:51:34,031
-Negativo, Jim. N„o estou com sarampo.
+Negativo, Jim. N√£o estou com sarampo.
 
 1599
 01:51:38,706 --> 01:51:40,799
-<i>Jim, o Jack est· aÌ com vocÍ?</i>
+<i>Jim, o Jack est√° a√≠ com voc√™?</i>
 
 1600
 01:51:41,208 --> 01:51:44,075
 Sim, espere um momento.
-Vamos coloc·-lo na linha.
+Vamos coloc√°-lo na linha.
 
 1601
 01:51:44,178 --> 01:51:47,079
@@ -7242,36 +7242,36 @@ Vamos coloc·-lo na linha.
 
 1602
 01:51:47,181 --> 01:51:49,513
-Acho que seria muito ˙til se pudessem...
+Acho que seria muito √∫til se pudessem...
 
 1603
 01:51:49,583 --> 01:51:53,986
-distraÌ-la quando as m·s
-notÌcias chegarem.
+distra√≠-la quando as m√°s
+not√≠cias chegarem.
 
 1604
 01:51:55,022 --> 01:51:57,149
-- Faremos o possÌvel.
+- Faremos o poss√≠vel.
 - Obrigada.
 
 1605
 01:51:59,326 --> 01:52:02,853
-Blanch, estes simp·ticos rapazes ir„o
-assistir ‡ televis„o com vocÍ.
+Blanch, estes simp√°ticos rapazes ir√£o
+assistir √† televis√£o com voc√™.
 
 1606
 01:52:02,930 --> 01:52:06,593
-- Este È Neil Armstrong, e este È Buzz.
-- Prazer em conhecÍ-la.
+- Este √© Neil Armstrong, e este √© Buzz.
+- Prazer em conhec√™-la.
 
 1607
 01:52:06,700 --> 01:52:10,761
-- Ol·.
-- VocÍs tambÈm s„o do programa espacial?
+- Ol√°.
+- Voc√™s tamb√©m s√£o do programa espacial?
 
 1608
 01:52:12,506 --> 01:52:16,101
-OK, Jack, repita o ˙ltimo procedimento.
+OK, Jack, repita o √∫ltimo procedimento.
 
 1609
 01:52:16,410 --> 01:52:17,934
@@ -7280,7 +7280,7 @@ Espere, Ken.
 1610
 01:52:21,715 --> 01:52:25,947
 Ken, estou tendo problemas
-para ler minha prÛpria escrita.
+para ler minha pr√≥pria escrita.
 
 1611
 01:52:26,053 --> 01:52:29,352
@@ -7289,7 +7289,7 @@ do que pensava.
 
 1612
 01:52:34,395 --> 01:52:37,023
-N„o se preocupe, Jack. Eu o ajudo.
+N√£o se preocupe, Jack. Eu o ajudo.
 
 1613
 01:52:39,800 --> 01:52:42,598
@@ -7307,12 +7307,12 @@ Disjuntores principais. Achei.
 
 1616
 01:52:56,884 --> 01:53:00,650
-Ken, h· muita condensaÁ„o
-sobre estes painÈis.
+Ken, h√° muita condensa√ß√£o
+sobre estes pain√©is.
 
 1617
 01:53:00,921 --> 01:53:03,617
-H· alguma possibilidade
+H√° alguma possibilidade
 de curto circuito?
 
 1618
@@ -7321,32 +7321,32 @@ Uma coisa de cada vez, Jack.
 
 1619
 01:53:13,300 --> 01:53:16,929
-… como passar uma torradeira
+√â como passar uma torradeira
 num lava-carros.
 
 1620
 01:53:24,512 --> 01:53:26,412
-<i>O circuito B est· fechado.</i>
+<i>O circuito B est√° fechado.</i>
 
 1621
 01:53:26,480 --> 01:53:29,074
 13, <i>estamos chegando</i>
-<i>‡ interface de entrada.</i>
+<i>√† interface de entrada.</i>
 
 1622
 01:53:29,149 --> 01:53:32,778
-ALTITUDE GEOD…SICA X PERCURSO
-A nave ainda mantÈm
-‚ngulo baixo na reentrada.
+ALTITUDE GEOD√âSICA X PERCURSO
+A nave ainda mant√©m
+√¢ngulo baixo na reentrada.
 
 1623
 01:53:32,853 --> 01:53:35,014
-… como se estivem abaixo do peso.
+√â como se estivem abaixo do peso.
 
 1624
 01:53:35,155 --> 01:53:38,522
 - Como poderiam estar abaixo do peso?
-- N„o pousamos na lua.
+- N√£o pousamos na lua.
 
 1625
 01:53:40,194 --> 01:53:42,128
@@ -7360,12 +7360,12 @@ A nave ainda mantÈm
 1627
 01:53:44,761 --> 01:53:47,590
 <i>Enquanto o Jack mexe na energia,</i>
-<i>queremos que vocÍ e o Freddo...</i>
+<i>queremos que voc√™ e o Freddo...</i>
 
 1628
 01:53:47,668 --> 01:53:50,159
 <i>transfiram lastro</i>
-<i>para o mÛdulo de comando.</i>
+<i>para o m√≥dulo de comando.</i>
 
 1629
 01:53:50,271 --> 01:53:52,136
@@ -7377,7 +7377,7 @@ Afirmativo. Precisamos acertar o peso.
 
 1631
 01:53:55,709 --> 01:53:59,338
-HavÌamos calculado que trariam
+Hav√≠amos calculado que trariam
 uns cem quilos de rochas lunares.
 
 1632
@@ -7408,36 +7408,36 @@ Alarme principal desligado.
 
 1638
 01:54:16,897 --> 01:54:20,993
-Jack, no painel 7, giroscÛpio n˙mero 2,
+Jack, no painel 7, girosc√≥pio n√∫mero 2,
 energia para aquecimento.
 
 1639
 01:54:21,235 --> 01:54:24,102
-GiroscÛpio n˙mero dois,
+Girosc√≥pio n√∫mero dois,
 energia para aquecimento. Pronto.
 
 1640
 01:54:24,171 --> 01:54:26,571
-<i>Ligar lÛgica sequencial um e dois.</i>
+<i>Ligar l√≥gica sequencial um e dois.</i>
 
 1641
 01:54:26,874 --> 01:54:29,741
-LÛgica sequencial dois ligada.
+L√≥gica sequencial dois ligada.
 
 1642
 01:54:30,044 --> 01:54:32,410
-N√O
-<i>PressurizaÁ„o CMRCS ligada.</i>
+N√ÉO
+<i>Pressuriza√ß√£o CMRCS ligada.</i>
 
 1643
 01:54:32,980 --> 01:54:34,743
-PressurizaÁ„o CMRCS.
+Pressuriza√ß√£o CMRCS.
 
 1644
 01:54:34,848 --> 01:54:38,340
 DIA 7
 Enquanto seu marido se prepara
-para descartar o mÛdulo lunar...
+para descartar o m√≥dulo lunar...
 
 1645
 01:54:38,419 --> 01:54:41,286
@@ -7451,8 +7451,8 @@ e, ouvimos dizer, com os astronautas da
 
 1647
 01:54:46,193 --> 01:54:49,026
-SÛ o filho mais velho de Lovell,
-Jay, est· ausente...
+S√≥ o filho mais velho de Lovell,
+Jay, est√° ausente...
 
 1648
 01:54:49,096 --> 01:54:51,291
@@ -7465,21 +7465,21 @@ St. John em Wisconsin.
 
 1650
 01:54:54,702 --> 01:54:57,535
-<i>O comentarista cientÌfico da</i> ABC News,
+<i>O comentarista cient√≠fico da</i> ABC News,
 <i>Jules Bergman.</i>
 
 1651
 01:54:57,605 --> 01:55:01,371
-<i>Com o mÛdulo de comando danificado,</i>
+<i>Com o m√≥dulo de comando danificado,</i>
 <i>e usando apenas os sistemas do LEM...</i>
 
 1652
 01:55:01,442 --> 01:55:03,376
-<i>n„o existe manobra f·cil.</i>
+<i>n√£o existe manobra f√°cil.</i>
 
 1653
 01:55:03,444 --> 01:55:06,709
-<i>O mÛdulo lunar executou manobras</i>
+<i>O m√≥dulo lunar executou manobras</i>
 <i>e trabalhou mais...</i>
 
 1654
@@ -7488,8 +7488,8 @@ St. John em Wisconsin.
 
 1655
 01:55:08,415 --> 01:55:11,043
-<i>… uma corrida contra o tempo</i>
-<i>atÈ a amerissagem...</i>
+<i>√â uma corrida contra o tempo</i>
+<i>at√© a amerissagem...</i>
 
 1656
 01:55:11,118 --> 01:55:13,882
@@ -7497,11 +7497,11 @@ St. John em Wisconsin.
 
 1657
 01:55:13,954 --> 01:55:16,252
-<i>a transmiss„o dos dados da reentrada.</i>
+<i>a transmiss√£o dos dados da reentrada.</i>
 
 1658
 01:55:17,591 --> 01:55:18,888
-O IMU est· ativado.
+O IMU est√° ativado.
 
 1659
 01:55:18,959 --> 01:55:21,689
@@ -7511,7 +7511,7 @@ O IMU est· ativado.
 1660
 01:55:21,762 --> 01:55:26,461
 Ken, transferir a telemetria
-para o mÛdulo de comando, certo?
+para o m√≥dulo de comando, certo?
 
 1661
 01:55:27,067 --> 01:55:29,592
@@ -7519,11 +7519,11 @@ Afirmativo. Vamos, tente.
 
 1662
 01:55:50,324 --> 01:55:52,053
-TransferÍncia completa.
+Transfer√™ncia completa.
 
 1663
 01:55:57,665 --> 01:56:00,327
-- … assim que se faz.
+- √â assim que se faz.
 - OK, vamos.
 
 1664
@@ -7532,7 +7532,7 @@ Verifique a amperagem. Como estamos?
 
 1665
 01:56:05,572 --> 01:56:07,472
-NÛs a temos de volta, Ken.
+N√≥s a temos de volta, Ken.
 
 1666
 01:56:07,941 --> 01:56:09,932
@@ -7548,39 +7548,39 @@ Bom trabalho, Jack.
 
 1669
 01:56:21,655 --> 01:56:24,021
-- Controle, aqui È RETRO.
+- Controle, aqui √© RETRO.
 <i>- Prossiga.</i>
 
 1670
 01:56:24,091 --> 01:56:26,582
-Controle, temos um aviso de tuf„o...
+Controle, temos um aviso de tuf√£o...
 
 1671
 01:56:26,694 --> 01:56:29,788
-<i>- perto da zona de recuperaÁ„o.</i>
+<i>- perto da zona de recupera√ß√£o.</i>
 - Repita, RETRO.
 
 1672
 01:56:29,863 --> 01:56:33,993
-<i>Temos um aviso de tuf„o</i>
-<i>perto da zona de recuperaÁ„o.</i>
+<i>Temos um aviso de tuf√£o</i>
+<i>perto da zona de recupera√ß√£o.</i>
 
 1673
 01:56:34,101 --> 01:56:36,763
-… sÛ um aviso. Pode n„o ser nada.
+√â s√≥ um aviso. Pode n√£o ser nada.
 
 1674
 01:56:36,837 --> 01:56:38,998
-SÛ se a sorte deles mudar.
+S√≥ se a sorte deles mudar.
 
 1675
 01:56:39,707 --> 01:56:41,698
 Jim, podemos descartar
-o mÛdulo de serviÁo!
+o m√≥dulo de servi√ßo!
 
 1676
 01:56:42,509 --> 01:56:44,636
-Tudo bem, Jack, no trÍs!
+Tudo bem, Jack, no tr√™s!
 
 1677
 01:56:45,946 --> 01:56:47,846
@@ -7593,17 +7593,17 @@ Um, dois...
 
 1679
 01:56:52,152 --> 01:56:53,813
-Inverter propuls„o!
+Inverter propuls√£o!
 
 1680
 01:56:54,088 --> 01:56:56,386
 ESTADOS UNIDOS
-MÛdulo de serviÁo separado.
+M√≥dulo de servi√ßo separado.
 
 1681
 01:56:56,457 --> 01:56:59,153
 <i>OK, Houston,</i>
-<i>o mÛdulo de serviÁo est· livre.</i>
+<i>o m√≥dulo de servi√ßo est√° livre.</i>
 
 1682
 01:56:59,526 --> 01:57:01,756
@@ -7615,17 +7615,17 @@ MÛdulo de serviÁo separado.
 
 1684
 01:57:07,367 --> 01:57:09,301
-L· est·! Estou vendo!
+L√° est√°! Estou vendo!
 
 1685
 01:57:12,973 --> 01:57:16,238
 Houston, estamos dando a primeira olhada
-no mÛdulo de serviÁo.
+no m√≥dulo de servi√ßo.
 
 1686
 01:57:16,310 --> 01:57:19,040
-Um lado inteiro da espaÁonave
-est· faltando.
+Um lado inteiro da espa√ßonave
+est√° faltando.
 
 1687
 01:57:20,481 --> 01:57:24,315
@@ -7634,7 +7634,7 @@ est· faltando.
 
 1688
 01:57:24,852 --> 01:57:27,548
-<i>atÈ o nosso escudo tÈrmico.</i>
+<i>at√© o nosso escudo t√©rmico.</i>
 
 1689
 01:57:29,022 --> 01:57:30,853
@@ -7642,21 +7642,21 @@ Entendido, Aquarius.
 
 1690
 01:57:30,924 --> 01:57:34,416
-Parece que atingiu o motor tambÈm.
+Parece que atingiu o motor tamb√©m.
 Consegue ver?
 
 1691
 01:57:38,332 --> 01:57:40,493
-Nossa, È incrÌvel.
+Nossa, √© incr√≠vel.
 
 1692
 01:57:43,871 --> 01:57:45,133
-O escudo tÈrmico.
+O escudo t√©rmico.
 
 1693
 01:57:45,205 --> 01:57:49,835
-<i>O calor aumentar·</i>
-<i>atÈ um ou dois mil graus centÌgrados.</i>
+<i>O calor aumentar√°</i>
+<i>at√© um ou dois mil graus cent√≠grados.</i>
 
 1694
 01:57:51,178 --> 01:57:53,169
@@ -7664,11 +7664,11 @@ O escudo tÈrmico.
 
 1695
 01:57:53,247 --> 01:57:54,714
-Ent„o, Blanch?
+Ent√£o, Blanch?
 
 1696
 01:57:56,617 --> 01:57:59,381
-O Jim foi chefe dos escoteiros ou n„o?
+O Jim foi chefe dos escoteiros ou n√£o?
 
 1697
 01:57:59,553 --> 01:58:01,214
@@ -7677,13 +7677,13 @@ O Jim foi chefe dos escoteiros ou n„o?
 
 1698
 01:58:01,288 --> 01:58:03,656
-<i>Se o escudo tÈrmico</i>
+<i>Se o escudo t√©rmico</i>
 <i>estiver danificado,</i>
 
 1699
 01:58:03,657 --> 01:58:06,225
 <i>o frio extremo pode</i>
-<i>tÍ-lo aberto ao meio.</i>
+<i>t√™-lo aberto ao meio.</i>
 
 1700
 01:58:06,527 --> 01:58:09,690
@@ -7693,12 +7693,12 @@ O Jim foi chefe dos escoteiros ou n„o?
 1701
 01:58:09,763 --> 01:58:12,527
 <i>estiverem danificados,</i>
-<i>eles podem n„o abrir...</i>
+<i>eles podem n√£o abrir...</i>
 
 1702
 01:58:12,633 --> 01:58:16,467
-<i>fazendo com que a nave atinja a ·gua</i>
-<i>n„o a suaves 30 km por hora...</i>
+<i>fazendo com que a nave atinja a √°gua</i>
+<i>n√£o a suaves 30 km por hora...</i>
 
 1703
 01:58:16,737 --> 01:58:19,001
@@ -7707,13 +7707,13 @@ O Jim foi chefe dos escoteiros ou n„o?
 
 1704
 01:58:19,072 --> 01:58:21,006
-<i>Talvez nunca na histÛria</i>
+<i>Talvez nunca na hist√≥ria</i>
 <i>da humanidade...</i>
 
 1705
 01:58:21,074 --> 01:58:24,566
 <i>o mundo inteiro tenha se unido</i>
-<i>num drama t„o global.</i>
+<i>num drama t√£o global.</i>
 
 1706
 01:58:24,711 --> 01:58:27,339
@@ -7722,12 +7722,12 @@ O Jim foi chefe dos escoteiros ou n„o?
 
 1707
 01:58:27,414 --> 01:58:30,076
-<i>para ver a evoluÁ„o da miss„o</i>
+<i>para ver a evolu√ß√£o da miss√£o</i>
 <i>na Times Square.</i>
 
 1708
 01:58:30,150 --> 01:58:33,142
-<i>Muitos paÌses ofereceram ajuda</i>
+<i>Muitos pa√≠ses ofereceram ajuda</i>
 <i>e o Estado disse...</i>
 
 1709
@@ -7736,8 +7736,8 @@ O Jim foi chefe dos escoteiros ou n„o?
 
 1710
 01:58:35,255 --> 01:58:38,554
-<i>A C‚mara e o Senado</i>
-<i>fizeram um apelo ‡ populaÁ„o...</i>
+<i>A C√¢mara e o Senado</i>
+<i>fizeram um apelo √† popula√ß√£o...</i>
 
 1711
 01:58:38,625 --> 01:58:40,718
@@ -7750,13 +7750,13 @@ O Jim foi chefe dos escoteiros ou n„o?
 
 1713
 01:58:44,097 --> 01:58:46,759
-<i>em oraÁ„o pelo retorno seguro</i>
+<i>em ora√ß√£o pelo retorno seguro</i>
 <i>dos astronautas.</i>
 
 1714
 01:58:46,834 --> 01:58:49,462
-<i>Em JerusalÈm,</i>
-<i>oraÁıes no Muro das LamentaÁıes...</i>
+<i>Em Jerusal√©m,</i>
+<i>ora√ß√µes no Muro das Lamenta√ß√µes...</i>
 
 1715
 01:58:49,736 --> 01:58:52,899
@@ -7764,12 +7764,12 @@ APOLLO 13 - AQUARIUS - ABRIL 1970
 
 1716
 01:58:55,409 --> 01:58:58,310
-Est· quase na hora
+Est√° quase na hora
 de abandonarmos a nave.
 
 1717
 01:59:05,786 --> 01:59:07,117
-VocÍ est· bem?
+Voc√™ est√° bem?
 
 1718
 01:59:08,856 --> 01:59:10,346
@@ -7777,21 +7777,21 @@ Estou congelando.
 
 1719
 01:59:12,860 --> 01:59:15,488
-D· pra aguentar mais um pouco?
+D√° pra aguentar mais um pouco?
 
 1720
 01:59:15,929 --> 01:59:18,159
 - O tempo que for preciso.
-- Vamos l·.
+- Vamos l√°.
 
 1721
 01:59:19,099 --> 01:59:22,500
-N„o falta muito. SÛ mais um pouco.
+N√£o falta muito. S√≥ mais um pouco.
 
 1722
 01:59:25,105 --> 01:59:29,872
-SÛ mais um pouco.
-Pularemos nas ·guas do PacÌfico Sul.
+S√≥ mais um pouco.
+Pularemos nas √°guas do Pac√≠fico Sul.
 
 1723
 01:59:30,711 --> 01:59:32,508
@@ -7799,13 +7799,13 @@ Vamos abrir a escotilha.
 
 1724
 01:59:33,780 --> 01:59:36,647
-- Faz 30 graus l· fora.
+- Faz 30 graus l√° fora.
 - 30 graus.
 
 1725
 01:59:39,553 --> 01:59:42,954
-- VocÍ n„o est· nada bem.
-- ….
+- Voc√™ n√£o est√° nada bem.
+- √â.
 
 1726
 01:59:44,992 --> 01:59:47,688
@@ -7813,7 +7813,7 @@ Vamos abrir a escotilha.
 
 1727
 01:59:47,794 --> 01:59:50,024
-<i>Ter„o que descartar o mÛdulo lunar.</i>
+<i>Ter√£o que descartar o m√≥dulo lunar.</i>
 
 1728
 01:59:50,130 --> 01:59:52,325
@@ -7822,7 +7822,7 @@ Vamos abrir a escotilha.
 1729
 01:59:52,399 --> 01:59:54,993
 <i>Deveriam passar</i>
-<i>para o mÛdulo de comando.</i>
+<i>para o m√≥dulo de comando.</i>
 
 1730
 01:59:55,068 --> 01:59:56,729
@@ -7831,7 +7831,7 @@ Vamos abrir a escotilha.
 1731
 01:59:56,803 --> 01:59:59,567
 <i>e, quando puderem,</i>
-<i>informem-nos como est„o indo.</i>
+<i>informem-nos como est√£o indo.</i>
 
 1732
 01:59:59,806 --> 02:00:01,205
@@ -7839,29 +7839,29 @@ Entendido.
 
 1733
 02:00:04,344 --> 02:00:06,676
-Deixe-me ajud·-lo, Freddo.
+Deixe-me ajud√°-lo, Freddo.
 
 1734
 02:00:41,848 --> 02:00:44,248
-<i>Est„o prÛximos a descartar o LEM.</i>
+<i>Est√£o pr√≥ximos a descartar o LEM.</i>
 
 1735
 02:00:44,584 --> 02:00:47,348
-Est„o todos com cinto de seguranÁa?
+Est√£o todos com cinto de seguran√ßa?
 Estamos perto.
 
 1736
 02:00:47,421 --> 02:00:51,721
 Entendido, <i>Controle. 13,</i> Houston.
-Vamos soltar o mÛdulo lunar.
+Vamos soltar o m√≥dulo lunar.
 
 1737
 02:00:52,225 --> 02:00:53,556
-AtenÁ„o.
+Aten√ß√£o.
 
 1738
 02:00:54,928 --> 02:00:56,953
-<i>Est„o todos no Odyssey?</i>
+<i>Est√£o todos no Odyssey?</i>
 
 1739
 02:00:57,064 --> 02:01:00,363
@@ -7870,17 +7870,17 @@ dos para-quedas de novo.
 
 1740
 02:01:01,802 --> 02:01:06,102
-Parecem boas. Acho que n„o precisaremos
+Parecem boas. Acho que n√£o precisaremos
 das outras baterias.
 
 1741
 02:01:18,652 --> 02:01:21,052
-Desculpe, Jack, isso È um velho h·bito.
+Desculpe, Jack, isso √© um velho h√°bito.
 
 1742
 02:01:21,121 --> 02:01:24,420
 Estou acostumado a me sentar no banco
-do piloto. … todo seu.
+do piloto. √â todo seu.
 
 1743
 02:01:29,796 --> 02:01:33,254
@@ -7889,16 +7889,16 @@ do piloto. … todo seu.
 
 1744
 02:01:33,333 --> 02:01:37,235
-<i>logo apÛs soltarmos o mÛdulo lunar,</i>
-<i>o que acontecer· em 30 segundos.</i>
+<i>logo ap√≥s soltarmos o m√≥dulo lunar,</i>
+<i>o que acontecer√° em 30 segundos.</i>
 
 1745
 02:01:38,138 --> 02:01:39,628
-O que È aquilo?
+O que √© aquilo?
 
 1746
 02:01:40,007 --> 02:01:41,099
-N√O
+N√ÉO
 
 1747
 02:01:41,174 --> 02:01:42,766
@@ -7906,8 +7906,8 @@ Estava meio nervoso...
 
 1748
 02:01:42,843 --> 02:01:46,574
-e n„o queria soltar o mÛdulo lunar
-com vocÍs dois dentro.
+e n√£o queria soltar o m√≥dulo lunar
+com voc√™s dois dentro.
 
 1749
 02:01:47,814 --> 02:01:49,679
@@ -7915,11 +7915,11 @@ Bem pensado.
 
 1750
 02:01:51,752 --> 02:01:53,481
-AtenÁ„o, Houston.
+Aten√ß√£o, Houston.
 
 1751
 02:01:56,156 --> 02:01:58,488
-<i>Soltamos o mÛdulo lunar.</i>
+<i>Soltamos o m√≥dulo lunar.</i>
 
 1752
 02:02:06,299 --> 02:02:08,358
@@ -7931,7 +7931,7 @@ Era uma bela nave.
 
 1754
 02:02:23,617 --> 02:02:25,642
-Est· quase na hora, querida.
+Est√° quase na hora, querida.
 
 1755
 02:02:29,122 --> 02:02:31,215
@@ -7939,7 +7939,7 @@ Voo 966406.
 
 1756
 02:02:46,073 --> 02:02:51,010
-USS IWO JIMA, PACÕFICO SUL
+USS IWO JIMA, PAC√çFICO SUL
 17 DE ABRIL DE 1970
 
 1757
@@ -7948,26 +7948,26 @@ Vamos colocar desta forma.
 
 1758
 02:02:53,480 --> 02:02:56,313
-A trajetÛria pode estar errada,
+A trajet√≥ria pode estar errada,
 os propulsores congelados.
 
 1759
 02:02:56,383 --> 02:02:58,578
-O sistema de orientaÁ„o
+O sistema de orienta√ß√£o
 pode estar avariado.
 
 1760
 02:02:58,652 --> 02:03:00,415
-O escudo tÈrmico pode estar rachado.
+O escudo t√©rmico pode estar rachado.
 
 1761
 02:03:00,487 --> 02:03:03,456
 E os para-quedas podem ter virado
-trÍs blocos de gelo.
+tr√™s blocos de gelo.
 
 1762
 02:03:03,523 --> 02:03:05,582
-Ou seja, temos alguns obst·culos.
+Ou seja, temos alguns obst√°culos.
 
 1763
 02:03:05,659 --> 02:03:08,719
@@ -7975,17 +7975,17 @@ Mas agora eu pergunto, quando saberemos?
 
 1764
 02:03:09,796 --> 02:03:14,495
-A perda de sinal dura trÍs minutos.
-Se n„o voltar em quatro, saberemos.
+A perda de sinal dura tr√™s minutos.
+Se n√£o voltar em quatro, saberemos.
 
 1765
 02:03:16,036 --> 02:03:19,870
-A velocidade agora È
+A velocidade agora √©
 10.620 metros por segundo.
 
 1766
 02:03:20,006 --> 02:03:23,203
-- Falta percorrer, 4.862 quilÙmetros.
+- Falta percorrer, 4.862 quil√¥metros.
 - Entendido.
 
 1767
@@ -7995,7 +7995,7 @@ Jim, precisamos do plano de reentrada.
 
 1768
 02:03:28,849 --> 02:03:31,716
-- Fred, como est„o as baterias?
+- Fred, como est√£o as baterias?
 - OK.
 
 1769
@@ -8005,7 +8005,7 @@ Jim, precisamos do plano de reentrada.
 
 1770
 02:03:35,789 --> 02:03:39,418
-- Bateria B, zero volts. AmpËres est„o bem.
+- Bateria B, zero volts. Amp√®res est√£o bem.
 <i>...e 30 segundos.</i>
 
 1771
@@ -8014,7 +8014,7 @@ Bateria C...
 
 1772
 02:03:42,929 --> 02:03:44,954
-Zero volts, sÛ dois ampËres.
+Zero volts, s√≥ dois amp√®res.
 
 1773
 02:03:46,199 --> 02:03:48,759
@@ -8028,22 +8028,22 @@ nos circuitos A e B.
 
 1775
 02:03:52,072 --> 02:03:55,633
-Eles ainda est„o com o ‚ngulo reduzido.
-VocÍ quer lhes dizer isso?
+Eles ainda est√£o com o √¢ngulo reduzido.
+Voc√™ quer lhes dizer isso?
 
 1776
 02:03:56,376 --> 02:03:59,174
 - Podemos fazer alguma coisa?
-<i>- Agora n„o, Controle.</i>
+<i>- Agora n√£o, Controle.</i>
 
 1777
 02:03:59,246 --> 02:04:01,806
-- Ent„o n„o precisam saber, n„o È?
+- Ent√£o n√£o precisam saber, n√£o √©?
 <i>- Entendido.</i>
 
 1778
 02:04:01,915 --> 02:04:05,510
-O RETRO diz que o tuf„o
+O RETRO diz que o tuf√£o
 ainda representa um perigo?
 
 1779
@@ -8052,13 +8052,13 @@ Temos o problema dos para-quedas...
 
 1780
 02:04:08,555 --> 02:04:11,046
-o escudo tÈrmico,
-o ‚ngulo de trajetÛria e o tuf„o.
+o escudo t√©rmico,
+o √¢ngulo de trajet√≥ria e o tuf√£o.
 
 1781
 02:04:11,124 --> 02:04:14,958
-- ¿ tantas vari·veis, estou meio...
-- Sei quais s„o os problemas.
+- √Ä tantas vari√°veis, estou meio...
+- Sei quais s√£o os problemas.
 
 1782
 02:04:15,128 --> 02:04:18,120
@@ -8067,7 +8067,7 @@ Este pode ser o pior desastre da NASA.
 1783
 02:04:18,231 --> 02:04:22,827
 Com todo o respeito, senhor, acho
-que este ser· o nosso momento de glÛria.
+que este ser√° o nosso momento de gl√≥ria.
 
 1784
 02:04:35,782 --> 02:04:38,410
@@ -8075,15 +8075,15 @@ Entrada na interface em 45 segundos.
 
 1785
 02:04:39,319 --> 02:04:41,446
-Quando eu disser j·, a sua velocidade...
+Quando eu disser j√°, a sua velocidade...
 
 1786
 02:04:41,521 --> 02:04:44,752
-<i>ser· de 10. 742 metros por segundo.</i>
+<i>ser√° de 10. 742 metros por segundo.</i>
 
 1787
 02:04:46,259 --> 02:04:49,160
-<i>J·, 35 segundos para entrar</i>
+<i>J√°, 35 segundos para entrar</i>
 <i>na interface.</i>
 
 1788
@@ -8092,31 +8092,31 @@ Senhores...
 
 1789
 02:04:56,036 --> 02:04:58,766
-foi um privilÈgio voar com vocÍs.
+foi um privil√©gio voar com voc√™s.
 
 1790
 02:05:40,747 --> 02:05:44,183
-- Controle, perdemos o contato de r·dio.
+- Controle, perdemos o contato de r√°dio.
 - Entendido.
 
 1791
 02:05:44,251 --> 02:05:46,811
 Esperamos recuperar o sinal
-daqui a trÍs minutos.
+daqui a tr√™s minutos.
 
 1792
 02:05:50,423 --> 02:05:52,220
-Tudo depende do escudo tÈrmico.
+Tudo depende do escudo t√©rmico.
 
 1793
 02:06:25,458 --> 02:06:28,154
 <i>De volta a Iwo Jima
-<i>e nossas c‚meras ao vivo l·.</i>
+<i>e nossas c√¢meras ao vivo l√°.</i>
 
 1794
 02:06:28,528 --> 02:06:31,895
-<i>Os helicÛpteros de salvamento da marinha</i>
-<i>J· est„o voando...</i>
+<i>Os helic√≥pteros de salvamento da marinha</i>
+<i>J√° est√£o voando...</i>
 
 1795
 02:06:31,965 --> 02:06:34,798
@@ -8125,12 +8125,12 @@ Tudo depende do escudo tÈrmico.
 
 1796
 02:06:34,901 --> 02:06:37,836
-<i>TrÍs minutos</i>
-<i>para o para-quedas de desaceleraÁ„o.</i>
+<i>Tr√™s minutos</i>
+<i>para o para-quedas de desacelera√ß√£o.</i>
 
 1797
 02:06:38,772 --> 02:06:42,105
-<i>Estamos aguardando notÌcias do contato.</i>
+<i>Estamos aguardando not√≠cias do contato.</i>
 
 1798
 02:06:47,147 --> 02:06:50,241
@@ -8143,26 +8143,26 @@ para o fim da perda de sinal.
 
 1800
 02:06:58,258 --> 02:07:01,091
-<i>de trÍs minutos</i>
-<i>para recuperar o sinal de r·dio.</i>
+<i>de tr√™s minutos</i>
+<i>para recuperar o sinal de r√°dio.</i>
 
 1801
 02:07:01,161 --> 02:07:04,562
-<i>Este È o momento crÌtico.</i>
-<i>O escudo tÈrmico resistir·?</i>
+<i>Este √© o momento cr√≠tico.</i>
+<i>O escudo t√©rmico resistir√°?</i>
 
 1802
 02:07:04,998 --> 02:07:08,934
-<i>O mÛdulo de comando sobreviver·</i>
+<i>O m√≥dulo de comando sobreviver√°</i>
 <i>ao intenso calor da reentrada?</i>
 
 1803
 02:07:09,269 --> 02:07:11,931
-<i>Se n„o, sÛ haver· silÍncio.</i>
+<i>Se n√£o, s√≥ haver√° sil√™ncio.</i>
 
 1804
 02:07:12,072 --> 02:07:15,132
-- Mam„e, est· me apertando.
+- Mam√£e, est√° me apertando.
 - Desculpe, querido.
 
 1805
@@ -8172,7 +8172,7 @@ Tudo bem.
 1806
 02:07:33,126 --> 02:07:35,287
 OK, Controle,
-j· se passaram trÍs minutos.
+j√° se passaram tr√™s minutos.
 
 1807
 02:07:35,362 --> 02:07:38,627
@@ -8181,7 +8181,7 @@ j· se passaram trÍs minutos.
 
 1808
 02:07:40,300 --> 02:07:42,791
-Odyssey, Houston. Est„o me ouvindo?
+Odyssey, Houston. Est√£o me ouvindo?
 
 1809
 02:07:45,872 --> 02:07:48,102
@@ -8191,25 +8191,25 @@ Odyssey, Houston. Est„o me ouvindo?
 1810
 02:07:48,174 --> 02:07:51,837
 <i>o tempo em que os astronautas</i>
-<i>deveriam recuperar o sinal de r·dio...</i>
+<i>deveriam recuperar o sinal de r√°dio...</i>
 
 1811
 02:07:52,145 --> 02:07:54,807
-<i>J· passou.</i>
+<i>J√° passou.</i>
 
 1812
 02:07:55,882 --> 02:07:59,443
-<i>Agora sÛ podemos escutar e esperar.</i>
+<i>Agora s√≥ podemos escutar e esperar.</i>
 
 1813
 02:07:59,519 --> 02:08:02,283
 <i>Estamos prestes a saber</i>
-<i>se o escudo tÈrmico...</i>
+<i>se o escudo t√©rmico...</i>
 
 1814
 02:08:02,355 --> 02:08:05,620
-<i>que foi danificado na explos„o</i>
-<i>de trÍs dias atr·s...</i>
+<i>que foi danificado na explos√£o</i>
+<i>de tr√™s dias atr√°s...</i>
 
 1815
 02:08:05,859 --> 02:08:08,623
@@ -8217,23 +8217,23 @@ Odyssey, Houston. Est„o me ouvindo?
 
 1816
 02:08:12,732 --> 02:08:15,667
-Odyssey, aqui È Houston.
-Est„o me ouvindo?
+Odyssey, aqui √© Houston.
+Est√£o me ouvindo?
 
 1817
 02:08:21,908 --> 02:08:24,502
-TrÍs minutos, 30 segundos.
+Tr√™s minutos, 30 segundos.
 Estamos aguardando.
 
 1818
 02:08:25,145 --> 02:08:27,579
-Odyssey, aqui È Houston.
-Est„o me ouvindo?
+Odyssey, aqui √© Houston.
+Est√£o me ouvindo?
 
 1819
 02:08:35,355 --> 02:08:38,222
-Odyssey, aqui È Houston.
-Est„o me ouvindo?
+Odyssey, aqui √© Houston.
+Est√£o me ouvindo?
 
 1820
 02:08:42,529 --> 02:08:45,157
@@ -8241,15 +8241,15 @@ Quatro minutos. Estamos aguardando.
 
 1821
 02:09:07,387 --> 02:09:09,582
-Odyssey, Houston. Est„o ouvindo?
+Odyssey, Houston. Est√£o ouvindo?
 
 1822
 02:09:18,031 --> 02:09:20,431
-<i>Ol·, Houston, aqui È Odyssey.</i>
+<i>Ol√°, Houston, aqui √© Odyssey.</i>
 
 1823
 02:09:20,567 --> 02:09:22,398
-<i>… um prazer vÍ-los de novo.</i>
+<i>√â um prazer v√™-los de novo.</i>
 
 1824
 02:09:46,159 --> 02:09:48,491
@@ -8257,7 +8257,7 @@ Odyssey, Houston. Sejam bem-vindos.
 
 1825
 02:09:48,828 --> 02:09:50,762
-Estamos felizes em ver vocÍs.
+Estamos felizes em ver voc√™s.
 
 1826
 02:09:51,397 --> 02:09:53,490
@@ -8270,12 +8270,12 @@ Eles conseguiram!
 
 1828
 02:11:22,555 --> 02:11:25,718
-Houston, estamos est·veis.
-A nave est· firme.
+Houston, estamos est√°veis.
+A nave est√° firme.
 
 1829
 02:11:26,526 --> 02:11:28,858
-Aqui È a <i>Apollo 13</i> se despedindo.
+Aqui √© a <i>Apollo 13</i> se despedindo.
 
 1830
 02:11:29,195 --> 02:11:30,526
@@ -8283,13 +8283,13 @@ Bom trabalho.
 
 1831
 02:12:22,315 --> 02:12:24,977
-<i>A nossa miss„o foi chamada</i>
+<i>A nossa miss√£o foi chamada</i>
 <i>de um fracasso bem-sucedido...</i>
 
 1832
 02:12:25,051 --> 02:12:28,282
 <i>porque regressamos a salvo,</i>
-<i>mas nunca chegamos ‡ lua.</i>
+<i>mas nunca chegamos √† lua.</i>
 
 1833
 02:12:28,788 --> 02:12:31,086
@@ -8298,12 +8298,12 @@ Bom trabalho.
 1834
 02:12:31,157 --> 02:12:34,354
 <i>que uma bobina danificada</i>
-<i>no tanque de oxigÍnio lÌquido...</i>
+<i>no tanque de oxig√™nio l√≠quido...</i>
 
 1835
 02:12:34,627 --> 02:12:39,223
-<i>causou uma faÌsca quando o</i>
-<i>pressurizamos, provocando a explos„o.</i>
+<i>causou uma fa√≠sca quando o</i>
+<i>pressurizamos, provocando a explos√£o.</i>
 
 1836
 02:12:39,499 --> 02:12:41,865
@@ -8317,17 +8317,17 @@ Bom trabalho.
 
 1838
 02:12:45,004 --> 02:12:48,405
-<i>Fred Haise devia ter voltado ‡ lua</i>
+<i>Fred Haise devia ter voltado √† lua</i>
 <i>na</i> Apollo 18...
 
 1839
 02:12:48,474 --> 02:12:50,840
-<i>mas cancelaram a miss„o</i>
-<i>por cortes no orÁamento.</i>
+<i>mas cancelaram a miss√£o</i>
+<i>por cortes no or√ßamento.</i>
 
 1840
 02:12:50,910 --> 02:12:53,003
-<i>Ele nunca mais voou para o espaÁo.</i>
+<i>Ele nunca mais voou para o espa√ßo.</i>
 
 1841
 02:12:53,246 --> 02:12:56,044
@@ -8341,32 +8341,32 @@ Bom trabalho.
 
 1843
 02:12:59,352 --> 02:13:02,185
-<i>Mas morreu de c‚ncer</i>
+<i>Mas morreu de c√¢ncer</i>
 <i>antes de tomar posse.</i>
 
 1844
 02:13:03,656 --> 02:13:07,558
 <i>Ken Mattingly orbitou a lua como piloto</i>
-<i>do mÛdulo de comando da</i> Apollo 16...
+<i>do m√≥dulo de comando da</i> Apollo 16...
 
 1845
 02:13:07,627 --> 02:13:11,427
-<i>e comandou o ‘nibus Espacial,</i>
+<i>e comandou o √înibus Espacial,</i>
 <i>sem nunca ter pegado sarampo.</i>
 
 1846
 02:13:12,098 --> 02:13:16,535
 <i>Gene Kranz se aposentou como Diretor</i>
-<i>de OperaÁıes de Voo h· pouco tempo.</i>
+<i>de Opera√ß√µes de Voo h√° pouco tempo.</i>
 
 1847
 02:13:16,836 --> 02:13:20,033
-<i>Muitos dos membros do Controle da Miss„o</i>
+<i>Muitos dos membros do Controle da Miss√£o</i>
 <i>fizeram outras coisas...</i>
 
 1848
 02:13:20,106 --> 02:13:22,165
-<i>mas alguns continuam l·.</i>
+<i>mas alguns continuam l√°.</i>
 
 1849
 02:13:23,009 --> 02:13:24,476
@@ -8374,8 +8374,8 @@ Bom trabalho.
 
 1850
 02:13:24,844 --> 02:13:28,974
-<i>aqueles sete extraordin·rios dias</i>
-<i>na</i> Apollo 13 <i>foram meus ˙ltimos no espaÁo.</i>
+<i>aqueles sete extraordin√°rios dias</i>
+<i>na</i> Apollo 13 <i>foram meus √∫ltimos no espa√ßo.</i>
 
 1851
 02:13:29,982 --> 02:13:33,975
@@ -8384,12 +8384,12 @@ Bom trabalho.
 
 1852
 02:13:34,454 --> 02:13:38,686
-<i>da sala do Controle da Miss„o</i>
+<i>da sala do Controle da Miss√£o</i>
 <i>ou da minha casa em Houston.</i>
 
 1853
 02:13:39,826 --> 02:13:42,522
-<i>¿s vezes me pego olhando para a lua...</i>
+<i>√Äs vezes me pego olhando para a lua...</i>
 
 1854
 02:13:42,628 --> 02:13:46,064
@@ -8407,11 +8407,11 @@ Bom trabalho.
 
 1857
 02:13:55,007 --> 02:13:56,804
-<i>quando voltaremos para l·...</i>
+<i>quando voltaremos para l√°...</i>
 
 1858
 02:13:57,643 --> 02:13:59,304
-<i>e quem ser· o escolhido?</i>
+<i>e quem ser√° o escolhido?</i>
 
 1859
 02:14:01,447 --> 02:14:04,814
