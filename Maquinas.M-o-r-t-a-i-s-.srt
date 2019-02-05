@@ -1,4 +1,8 @@
 1
+00:00:00,624 --> 00:00:18,000
+Obrigado Por Assistir smartflix.tv
+
+1
 00:00:19,294 --> 00:00:24,294
 Legendas por Strassenkater
 
