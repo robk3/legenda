@@ -1,0 +1,3288 @@
+1
+00:00:00,627 --> 00:00:04,475
+<i>Meu nome é Barry Allen,
+e sou o homem mais rápido vivo.</i>
+
+2
+00:00:04,476 --> 00:00:07,652
+<i>Para o mundo exterior,
+sou um cientista forense,</i>
+
+3
+00:00:07,653 --> 00:00:10,430
+<i>mas, secretamente, com a ajuda
+dos meus amigos do STAR Labs,</i>
+
+4
+00:00:10,431 --> 00:00:13,540
+<i>eu combato o crime
+e acho outros como eu.</i>
+
+5
+00:00:13,541 --> 00:00:15,679
+<i>Mas quando minha filha
+do futuro veio para ajudar,</i>
+
+6
+00:00:15,680 --> 00:00:17,083
+<i>ela mudou o presente.</i>
+
+7
+00:00:18,069 --> 00:00:20,648
+<i>Agora, nosso mundo
+está mais perigoso do que nunca.</i>
+
+8
+00:00:20,649 --> 00:00:23,195
+<i>E sou o único rápido o bastante
+para salvá-lo.</i>
+
+9
+00:00:23,196 --> 00:00:25,879
+<i>Eu sou o Flash!</i>
+
+10
+00:00:26,405 --> 00:00:28,257
+<i>Anteriormente...</i>
+
+11
+00:00:29,797 --> 00:00:33,336
+<i>- O que vão fazer com ele?
+- Acho que seria melhor tentar curá-lo.</i>
+
+12
+00:00:33,337 --> 00:00:35,008
+Deveria falar
+com a Dra. Lamden.
+
+13
+00:00:35,886 --> 00:00:38,362
+<i>Grodd está atacando-o psiquicamente.
+Ele está paralisado.</i>
+
+14
+00:00:38,363 --> 00:00:41,058
+Humano fraco.
+
+15
+00:00:41,059 --> 00:00:43,074
+Poderíamos curar
+um meta-humano.
+
+16
+00:00:43,075 --> 00:00:45,294
+Tem que haver algo
+que possamos fazer.
+
+17
+00:00:48,152 --> 00:00:49,809
+<i>Não deveria ir pro escritório.
+Não agora.</i>
+
+18
+00:00:49,810 --> 00:00:52,268
+- Por quê?
+<i>- Quantas vezes aconteceu?</i>
+
+19
+00:00:52,269 --> 00:00:54,323
+- 52.
+<i>- Se eu quiser deter o Cicada,</i>
+
+20
+00:00:54,324 --> 00:00:56,873
+não posso me importar tanto
+sobre sujar as mãos como Flash.
+
+21
+00:00:56,874 --> 00:00:58,900
+Às vezes os fins justificam
+os meios.
+
+22
+00:00:58,901 --> 00:01:00,135
+Entendo isso agora.
+
+23
+00:01:06,481 --> 00:01:07,813
+Não consigo me mexer.
+
+24
+00:01:19,903 --> 00:01:21,403
+<b>Velocistas:
+zCabral | Davros | Prytti
+
+25
+00:01:21,428 --> 00:01:22,956
+<b>Velocistas:
+Lewis | AirtonSub | Gerson
+
+26
+00:01:22,981 --> 00:01:25,406
+<b>The Flash S05E15
+"King Shark vs. Gorilla Grodd"</b>
+
+27
+00:01:25,605 --> 00:01:27,137
+<b>Resync:
+Legendei.com</b>
+
+28
+00:01:27,162 --> 00:01:28,323
+12 HORAS ANTES
+
+29
+00:01:28,348 --> 00:01:30,502
+<i>Senhoras e Senhores,</i>
+
+30
+00:01:30,623 --> 00:01:33,668
+finalmente temos
+em nossas mãos
+
+31
+00:01:34,394 --> 00:01:36,184
+a cura meta-humana.
+
+32
+00:01:40,481 --> 00:01:42,877
+Que legal. Não é como se eu
+tivesse passado semanas
+
+33
+00:01:42,878 --> 00:01:44,386
+naquela tundra gelada
+ou outra coisa.
+
+34
+00:01:44,387 --> 00:01:46,171
+Não é isso.
+Acho que...
+
+35
+00:01:46,172 --> 00:01:50,859
+só estamos esperando
+pelo inevitável "mas"
+
+36
+00:01:50,860 --> 00:01:52,796
+que segue
+uma declaração tão grande.
+
+37
+00:01:53,186 --> 00:01:55,882
+Não, está feito.
+E graças a Caitlin,
+
+38
+00:01:55,883 --> 00:01:59,076
+temos até uma maneira
+de entregar nossa bala de prata,
+
+39
+00:01:59,077 --> 00:02:01,532
+então não, sem "mas".
+
+40
+00:02:01,533 --> 00:02:03,568
+Acredito que há um grande
+"mas" vindo.
+
+41
+00:02:03,569 --> 00:02:06,671
+Mas precisamos testar
+a cura em um meta-humano.
+
+42
+00:02:06,672 --> 00:02:09,889
+<i>- Voilà.</i> Aí está.
+- O que precisamos é salvar
+
+43
+00:02:09,890 --> 00:02:11,590
+os metas que o Cicada
+está atacando
+
+44
+00:02:11,591 --> 00:02:13,739
+porque ele não vai parar
+de matar pessoas inocentes.
+
+45
+00:02:13,740 --> 00:02:17,482
+- A cura é perigosa?
+- Bem, é um soro não testado
+
+46
+00:02:17,483 --> 00:02:19,384
+que altera a biologia
+em um nível celular,
+
+47
+00:02:19,385 --> 00:02:21,286
+então até experimentarmos
+em alguém
+
+48
+00:02:21,287 --> 00:02:24,176
+- não temos como saber.
+- Quando começamos a trabalhar na cura,
+
+49
+00:02:24,177 --> 00:02:27,231
+decidimos que seria uma escolha,
+não uma arma,
+
+50
+00:02:27,232 --> 00:02:29,194
+então tudo que precisamos
+é de um voluntário.
+
+51
+00:02:29,195 --> 00:02:31,059
+Bem, há um enigma, certo?
+
+52
+00:02:31,060 --> 00:02:33,481
+Um voluntário meta-humano
+em uma cidade onde os meta-humanos
+
+53
+00:02:33,482 --> 00:02:35,450
+foram perseguidos por nós
+ou mortos pelo Cicada
+
+54
+00:02:35,451 --> 00:02:38,338
+ou encarcerado em Iron Heights,
+então...
+
+55
+00:02:38,339 --> 00:02:40,639
+Ninguém de nenhum dos grupos
+vai se voluntariar.
+
+56
+00:02:40,640 --> 00:02:44,193
+Esses criminosos não vão desistir
+de seus poderes, embora...
+
+57
+00:02:44,194 --> 00:02:46,273
+Tem que haver alguém
+em algum lugar.
+
+58
+00:02:46,274 --> 00:02:48,716
+Sim, em outra Terra.
+
+59
+00:02:49,175 --> 00:02:51,657
+Vou ligar pro Harry,
+ver se tem alguém da Terra-2
+
+60
+00:02:51,658 --> 00:02:53,065
+- que queira ser voluntário.
+- Isso.
+
+61
+00:02:53,066 --> 00:02:54,860
+Não é realmente
+o que eu estava sugerindo.
+
+62
+00:02:55,266 --> 00:02:57,490
+- Não precisa ligar pro Harry.
+- Espere, por que não?
+
+63
+00:02:57,491 --> 00:03:00,592
+Porque já existe um meta aqui
+da Terra-2,
+
+64
+00:03:00,593 --> 00:03:02,808
+alguém que pode
+não querer seus poderes...
+
+65
+00:03:03,960 --> 00:03:08,295
+embora seja muito difícil falar
+com ele.
+
+66
+00:03:08,668 --> 00:03:10,204
+Tubarão-Rei...
+
+67
+00:03:10,205 --> 00:03:11,822
+Realmente acham
+que podem curá-lo?
+
+68
+00:03:11,823 --> 00:03:14,795
+- Essa é a ideia.
+- Lyla essa é...
+
+69
+00:03:16,010 --> 00:03:18,320
+minha filha, Nora.
+
+70
+00:03:18,321 --> 00:03:20,322
+- Sua filha?
+- Sim.
+
+71
+00:03:20,323 --> 00:03:22,952
+- Eu sou do...
+- Futuro, suponho.
+
+72
+00:03:22,953 --> 00:03:24,093
+Estranho, né?
+
+73
+00:03:24,094 --> 00:03:28,047
+Só não é mais que descobrir
+que seu filho costumava ser sua filha.
+
+74
+00:03:29,188 --> 00:03:31,016
+Então, por que o Tubarão-Rei?
+
+75
+00:03:31,017 --> 00:03:34,459
+Os níveis de matéria negra variam
+de meta-humano para meta-humano,
+
+76
+00:03:34,460 --> 00:03:37,730
+mas o caso de Shay Lamden
+é o mais extremo que vimos,
+
+77
+00:03:37,731 --> 00:03:40,332
+então achamos que se revertêssemos
+os efeitos de um nível alto
+
+78
+00:03:40,333 --> 00:03:43,151
+- de mutação como a dele...
+- Poderiam ajudar todos os meta-humanos.
+
+79
+00:03:44,004 --> 00:03:47,556
+Olha, sabemos que o Tubarão-Rei
+tem fala limitada,
+
+80
+00:03:47,557 --> 00:03:51,127
+mas poderíamos tentar
+conversar com ele?
+
+81
+00:03:51,128 --> 00:03:53,145
+Se vamos fazer isso,
+precisamos da permissão dele.
+
+82
+00:03:53,146 --> 00:03:54,673
+Você está com sorte, Cisco.
+
+83
+00:03:54,674 --> 00:03:57,142
+Ultimamente,
+ele tem sido bem tagarela.
+
+84
+00:04:00,624 --> 00:04:03,096
+<i>Olhe para estas fotos.</i>
+
+85
+00:04:03,600 --> 00:04:05,721
+Tão pacifico.
+
+86
+00:04:06,666 --> 00:04:08,843
+Tão linda.
+
+87
+00:04:09,599 --> 00:04:13,100
+- Tão pacifico.
+- É, não é?
+
+88
+00:04:13,433 --> 00:04:16,656
+Sabe que eu nunca entendi
+porque o Wally foi pra lá.
+
+89
+00:04:16,657 --> 00:04:19,271
+- Agora entendo.
+- Bem, isso me faz pensar.
+
+90
+00:04:19,272 --> 00:04:21,755
+Meu irmãozinho
+está voltando do Tibete?
+
+91
+00:04:21,756 --> 00:04:25,258
+Tudo o que posso dizer
+é que ele está mais aliviado
+
+92
+00:04:25,259 --> 00:04:27,927
+do que nunca.
+
+93
+00:04:27,928 --> 00:04:30,411
+E isso significa
+que ele quer ficar longe da...
+
+94
+00:04:30,911 --> 00:04:35,454
+loucura que é Central City,
+então sabe como é? Que assim seja.
+
+95
+00:04:35,455 --> 00:04:36,956
+Pois é.
+
+96
+00:04:36,957 --> 00:04:40,198
+Bem, estou feliz
+que esteja de volta, pai.
+
+97
+00:04:40,528 --> 00:04:42,594
+Estamos todos felizes
+por você estar de volta.
+
+98
+00:04:43,877 --> 00:04:46,765
+Até mesmo o capitão Singh
+está feliz por você estar de volta.
+
+99
+00:04:48,565 --> 00:04:49,884
+- O quê...
+- Eu vou.
+
+100
+00:04:49,885 --> 00:04:52,037
+Não, não.
+Não vai, não.
+
+101
+00:04:52,038 --> 00:04:53,205
+Não vai.
+
+102
+00:04:53,206 --> 00:04:56,274
+Você já cuidou do bebê
+por muito tempo, Joe West.
+
+103
+00:04:57,379 --> 00:04:59,105
+Estou tão feliz que voltou.
+
+104
+00:04:59,106 --> 00:05:00,907
+Tá legal, tá legal.
+
+105
+00:05:02,781 --> 00:05:04,966
+Já vamos falar sobre esse sofá
+que você comprou?
+
+106
+00:05:04,967 --> 00:05:07,202
+Outro dia, Joe.
+Outro dia.
+
+107
+00:05:07,203 --> 00:05:10,239
+- Muito caro.
+- Legal. Olha.
+
+108
+00:05:10,240 --> 00:05:14,456
+Então,
+Cecile me contou tudo.
+
+109
+00:05:14,894 --> 00:05:17,358
+Cicada...
+Esteve muito ocupada.
+
+110
+00:05:18,981 --> 00:05:22,148
+Pois é, bem...
+
+111
+00:05:22,149 --> 00:05:25,712
+O Time Flash vai descobrir
+uma maneira de vencê-lo.
+
+112
+00:05:26,173 --> 00:05:29,942
+Mas Jonesy estava ajudando-o
+bem debaixo do nosso nariz,
+
+113
+00:05:29,943 --> 00:05:31,509
+e isso me fez pensar.
+
+114
+00:05:31,931 --> 00:05:35,395
+O Cicada já escapou
+tantas vezes
+
+115
+00:05:35,736 --> 00:05:37,046
+que estou pensando
+
+116
+00:05:37,937 --> 00:05:40,830
+que ele ainda está recebendo
+ajuda de alguém.
+
+117
+00:05:43,355 --> 00:05:46,589
+Eu quero mais café.
+Vou fazer mais café.
+
+118
+00:05:46,590 --> 00:05:49,592
+É.
+Vou trazer um fresquinho.
+
+119
+00:05:52,089 --> 00:05:54,118
+<i>Normalmente,</i>
+não trazemos ajuda externa,
+
+120
+00:05:54,119 --> 00:05:56,488
+mas ficamos sabendo
+que a principal ictióloga do país
+
+121
+00:05:56,489 --> 00:05:59,160
+estava pesquisando casos
+como os do Tubarão-Rei.
+
+122
+00:05:59,161 --> 00:06:01,378
+Na verdade,
+acho que devem conhecê-la.
+
+123
+00:06:01,775 --> 00:06:03,327
+Dra. Lamden?
+
+124
+00:06:03,328 --> 00:06:04,980
+Está trabalhando
+para a A.R.G.U.S.?
+
+125
+00:06:04,980 --> 00:06:07,496
+Não podia recusar.
+E, por favor, me chame de Tanya.
+
+126
+00:06:07,497 --> 00:06:09,172
+E os Laboratórios Nautilus?
+
+127
+00:06:09,172 --> 00:06:11,472
+O diretor Michaels me deu
+a oportunidade de trabalhar
+
+128
+00:06:11,472 --> 00:06:13,042
+com outro Shay Lamden,
+
+129
+00:06:13,042 --> 00:06:16,412
+afetado pela mesma matéria negra
+que meu falecido marido,
+
+130
+00:06:16,412 --> 00:06:18,929
+só que o organismo desse Shay
+está causando
+
+131
+00:06:18,930 --> 00:06:21,238
+uma diminuição
+nas vias neurais dele.
+
+132
+00:06:21,238 --> 00:06:23,074
+Estou ensinando-o
+a se comunicar direito.
+
+133
+00:06:23,074 --> 00:06:25,765
+A mente dele está ficando mais
+parecida com a de um tubarão?
+
+134
+00:06:25,766 --> 00:06:28,233
+Estava, mas não mais.
+
+135
+00:06:28,233 --> 00:06:30,127
+Eu impedi a diminuição
+na mente do Tubarão-Rei
+
+136
+00:06:30,127 --> 00:06:34,130
+usando uma interface cerebral
+que estimula as saídas neurais.
+
+137
+00:06:34,130 --> 00:06:36,313
+Eu a chamo de coroa telepática.
+
+138
+00:06:36,313 --> 00:06:39,597
+Tipo o M.A.D. 2.0 que fizemos.
+É brilhante.
+
+139
+00:06:39,598 --> 00:06:42,750
+Meu marido,
+o Shay Lamden da Terra-1,
+
+140
+00:06:42,750 --> 00:06:44,367
+era um homem maravilhoso.
+
+141
+00:06:44,367 --> 00:06:47,928
+Agora tenho a chance de ajudar
+o Shay Lamden de outra Terra
+
+142
+00:06:47,929 --> 00:06:50,117
+dando a ele
+sua mente humana de volta.
+
+143
+00:06:50,643 --> 00:06:52,591
+E já que o estado atual
+de Shay
+
+144
+00:06:52,591 --> 00:06:54,491
+exige que ele fique
+mais dentro d'água,
+
+145
+00:06:55,260 --> 00:06:57,583
+estes fones de ouvido
+me permitem escutá-lo
+
+146
+00:06:57,583 --> 00:06:59,474
+dentro d'água e vice-versa.
+
+147
+00:06:59,474 --> 00:07:02,118
+A coroa telepática permite Tanya
+alcançar o Tubarão-Rei
+
+148
+00:07:02,118 --> 00:07:04,487
+e conter
+seu comportamento violento.
+
+149
+00:07:04,488 --> 00:07:06,776
+Podemos usar a coroa
+para falar com ele?
+
+150
+00:07:06,777 --> 00:07:08,874
+Sim, mas por quê?
+
+151
+00:07:10,241 --> 00:07:12,032
+Achamos que ele pode voltar
+a ser humano.
+
+152
+00:07:13,738 --> 00:07:15,699
+Deu muito trabalho,
+mas descobrimos um jeito
+
+153
+00:07:15,699 --> 00:07:17,655
+de voltar células
+infundidas de matéria negra
+
+154
+00:07:17,655 --> 00:07:19,119
+ao seu estado não-meta.
+
+155
+00:07:19,119 --> 00:07:21,364
+Agora, tudo que precisamos fazer
+é testá-la,
+
+156
+00:07:21,364 --> 00:07:23,189
+então viemos atrás
+de um voluntário.
+
+157
+00:07:23,931 --> 00:07:25,431
+Isso poderia mesmo funcionar?
+
+158
+00:07:25,966 --> 00:07:27,310
+Então podemos pedir a ele?
+
+159
+00:07:38,302 --> 00:07:39,302
+Shay...
+
+160
+00:07:40,125 --> 00:07:42,378
+Um Time do STAR Labs
+está aqui.
+
+161
+00:07:42,378 --> 00:07:44,974
+Eles têm algo
+que você pode querer.
+
+162
+00:07:44,975 --> 00:07:46,928
+Uma cura-meta
+para sua situação.
+
+163
+00:07:48,775 --> 00:07:51,520
+Acredite,
+as análises preliminares deles
+
+164
+00:07:51,520 --> 00:07:53,950
+em reverter transfigurações
+de meta-genes
+
+165
+00:07:53,950 --> 00:07:57,055
+provam que há uma forte chance
+de funcionar,
+
+166
+00:07:57,055 --> 00:07:59,505
+ainda mais
+de uma perspectiva ictiológica.
+
+167
+00:08:00,691 --> 00:08:03,725
+Não estou só me exibindo.
+
+168
+00:08:03,725 --> 00:08:05,425
+É a pesquisa deles.
+
+169
+00:08:05,771 --> 00:08:07,763
+Shay tem um senso de humor
+maravilhoso.
+
+170
+00:08:08,791 --> 00:08:13,790
+Devemos chamá-lo
+de Tubarão-Rei ou Shay?
+
+171
+00:08:13,791 --> 00:08:15,291
+Sim, ainda estou aqui.
+
+172
+00:08:17,432 --> 00:08:18,732
+Eu concordo.
+
+173
+00:08:19,719 --> 00:08:21,019
+Está bem.
+
+174
+00:08:37,119 --> 00:08:41,216
+Acredita que essa cura
+pode ajudar?
+
+175
+00:08:41,216 --> 00:08:42,516
+Sim.
+
+176
+00:08:43,509 --> 00:08:44,909
+Por onde começamos?
+
+177
+00:08:53,251 --> 00:08:54,251
+Aqui é a Agente Michaels.
+
+178
+00:08:54,252 --> 00:08:56,958
+Todos os soldados disponíveis
+para o aquário!
+
+179
+00:08:59,716 --> 00:09:01,692
+- Pai?
+- Estou bem.
+
+180
+00:09:09,254 --> 00:09:11,923
+Que feedback era aquele?
+Pensei que estava sob controle.
+
+181
+00:09:12,119 --> 00:09:15,216
+Eu não sei.
+Nunca aconteceu antes.
+
+182
+00:09:15,216 --> 00:09:17,630
+Talvez a neuro-regressão
+chegou ao ponto
+
+183
+00:09:17,630 --> 00:09:19,764
+onde a coroa
+não o afeta mais.
+
+184
+00:09:20,133 --> 00:09:21,462
+Shay pode se perder
+para sempre.
+
+185
+00:09:21,462 --> 00:09:23,215
+Não temos certeza disso.
+
+186
+00:09:23,215 --> 00:09:26,023
+Venha ao STAR Labs.
+Podemos usar o M.A.D. 2.0
+
+187
+00:09:26,023 --> 00:09:27,506
+para impulsionar a coroa.
+
+188
+00:09:27,507 --> 00:09:30,046
+Precisamos achar o Tubarão-Rei
+antes que machuque alguém.
+
+189
+00:09:31,323 --> 00:09:33,639
+Os protocolos de apoio
+da A.R.G.U.S. foram ativados.
+
+190
+00:09:33,639 --> 00:09:34,919
+Ele pode estar
+em qualquer lugar.
+
+191
+00:09:34,920 --> 00:09:36,640
+Reposicionaremos o satélite
+do STAR Labs
+
+192
+00:09:36,641 --> 00:09:38,263
+para trabalhar
+em prol da A.R.G.U.S.
+
+193
+00:09:40,121 --> 00:09:41,297
+O que tem em mente?
+
+194
+00:09:43,163 --> 00:09:45,910
+Imaginando se precisaremos
+repensar em como iremos pegá-lo.
+
+195
+00:09:47,917 --> 00:09:49,404
+Pare.
+Isso não aconteceu.
+
+196
+00:09:49,405 --> 00:09:51,253
+Aconteceu, sim.
+
+197
+00:09:51,253 --> 00:09:54,591
+Meus lábios ficaram dormentes...
+
+198
+00:09:54,592 --> 00:09:56,201
+e depois incharam tanto
+
+199
+00:09:56,201 --> 00:09:58,595
+que parecia que fiz
+uma cirurgia plástica.
+
+200
+00:09:59,056 --> 00:10:00,892
+- O que Wally fez?
+- Ele riu, é claro.
+
+201
+00:10:00,892 --> 00:10:02,802
+O bebê riu!
+
+202
+00:10:02,803 --> 00:10:06,764
+Pelo menos agora sei que sou
+alérgico a pimenta-chinesa.
+
+203
+00:10:06,765 --> 00:10:10,526
+Pai, algum problema
+se eu trabalhar aqui hoje?
+
+204
+00:10:10,526 --> 00:10:12,769
+Deve nos dar tempo
+de pôr a conversa em dia.
+
+205
+00:10:12,770 --> 00:10:15,262
+Sabe que eu nunca
+vou recusar isso, então...
+
+206
+00:10:16,250 --> 00:10:19,855
+Mas a Cecile me disse
+que você tem...
+
+207
+00:10:20,355 --> 00:10:21,906
+um escritório novo chique.
+
+208
+00:10:22,898 --> 00:10:26,003
+Sim, é que, sabe...
+O encanamento é péssimo
+
+209
+00:10:26,003 --> 00:10:28,756
+e não posso deixar cair água
+no meu laptop, certo?
+
+210
+00:10:28,756 --> 00:10:31,772
+O cara que expandiu
+nosso banheiro de visita...
+
+211
+00:10:31,772 --> 00:10:33,865
+Ele fez ótimo trabalho
+e tem um preço acessível.
+
+212
+00:10:33,866 --> 00:10:36,955
+- Deixe-me te dar o número dele.
+- Não, pai, está tudo bem.
+
+213
+00:10:36,955 --> 00:10:39,138
+Iris,
+se não cuidar disso rápido,
+
+214
+00:10:39,138 --> 00:10:40,443
+pode virar uma bola de neve.
+
+215
+00:10:40,443 --> 00:10:42,025
+Aqui.
+Deixe-me mandar para você.
+
+216
+00:10:43,146 --> 00:10:47,110
+Está bem.
+Na verdade, é uma ótima ideia.
+
+217
+00:10:47,110 --> 00:10:50,879
+Mande-me e eu vou lá
+ver o que posso fazer.
+
+218
+00:10:50,879 --> 00:10:52,418
+- Valeu, pai.
+- Certo.
+
+219
+00:10:53,465 --> 00:10:55,148
+- Te amo.
+- Te amo mais.
+
+220
+00:10:56,852 --> 00:10:59,652
+Se queremos impulsionar
+os poderes da coroa
+
+221
+00:10:59,652 --> 00:11:02,395
+temos que fazê-la falar
+com o M.A.D. 2.0.
+
+222
+00:11:02,396 --> 00:11:04,422
+Que tal um código logarítmico?
+
+223
+00:11:04,423 --> 00:11:08,809
+Exato. Por isso precisamos
+de mais cientistas...
+
+224
+00:11:08,809 --> 00:11:11,543
+- na equipe.
+- Shay me diz isso o tempo todo.
+
+225
+00:11:11,543 --> 00:11:13,718
+O cara sabe do que fala.
+
+226
+00:11:13,718 --> 00:11:17,682
+Por que não usa minha oficina
+e eu preparo isto?
+
+227
+00:11:20,711 --> 00:11:23,261
+- Fascinante, certo?
+- Deve ficar.
+
+228
+00:11:23,261 --> 00:11:26,522
+É a fusão da tecnologia
+e a consciência humana.
+
+229
+00:11:26,522 --> 00:11:27,866
+E tubarão, mas não.
+
+230
+00:11:27,866 --> 00:11:30,908
+Estou me referindo ao seu relacionamento
+com Shay Lamden.
+
+231
+00:11:31,374 --> 00:11:32,936
+O que quer dizer com "relacionamento"?
+
+232
+00:11:34,827 --> 00:11:39,065
+O jeito que sua postura relaxa
+quando fala dele
+
+233
+00:11:39,065 --> 00:11:40,724
+e o jeito que sua voz modula...
+
+234
+00:11:40,724 --> 00:11:43,946
+Ela sugere uma familiaridade...
+
+235
+00:11:44,430 --> 00:11:46,969
+Ou algo mais.
+
+236
+00:11:46,969 --> 00:11:49,739
+Somos biólogos marinhos,
+então temos muito em comum.
+
+237
+00:11:49,739 --> 00:11:53,062
+Pode-se dizer
+que ficamos muito próximos.
+
+238
+00:11:53,820 --> 00:11:55,084
+Mas ele é só meu paciente.
+
+239
+00:11:55,085 --> 00:11:56,739
+É claro.
+
+240
+00:11:57,541 --> 00:12:00,130
+Olhe para isso.
+Estamos decolando.
+
+241
+00:12:00,130 --> 00:12:02,646
+Estão realmente conversando.
+Está vendo?
+
+242
+00:12:02,646 --> 00:12:05,291
+Sabia que estas duas
+crianças loucas dariam um jeito.
+
+243
+00:12:05,292 --> 00:12:07,032
+Não estão só sincronizando.
+
+244
+00:12:07,032 --> 00:12:09,600
+O M.A.D. 2.0 está agindo
+como uma antena,
+
+245
+00:12:09,600 --> 00:12:11,928
+amplificando
+o sinal psíquico da coroa
+
+246
+00:12:11,928 --> 00:12:14,198
+além da minha imaginação.
+
+247
+00:12:14,199 --> 00:12:16,608
+Ouvimos gritos de nerd.
+Como vão as coisas por aqui?
+
+248
+00:12:16,608 --> 00:12:18,502
+Preciso sincronizar o capacete
+aos meus fones,
+
+249
+00:12:18,502 --> 00:12:21,513
+- aí estaremos prontos.
+- Deixe isso no córtex,
+
+250
+00:12:21,513 --> 00:12:23,938
+no painel principal,
+no monitor à esquerda.
+
+251
+00:12:24,438 --> 00:12:25,438
+Quer saber?
+
+252
+00:12:25,847 --> 00:12:27,350
+Venha comigo.
+Eu te mostro.
+
+253
+00:12:28,280 --> 00:12:30,887
+- Ótimo trabalho, Cisco.
+- Não é um trabalho individual.
+
+254
+00:12:30,887 --> 00:12:33,087
+Mas todo trabalho precisa
+de um gênio, e o gênio sou eu,
+
+255
+00:12:33,088 --> 00:12:34,343
+então obrigado.
+
+256
+00:12:34,344 --> 00:12:36,896
+Agora só precisamos falar
+com o Tubarão-Rei.
+
+257
+00:12:36,896 --> 00:12:39,446
+Por que não levamos a injeção
+de cura para a Caitlin
+
+258
+00:12:39,446 --> 00:12:41,391
+- para ver se está pronta?
+- Lembre-se:
+
+259
+00:12:41,391 --> 00:12:43,316
+precisamos falar
+com ele antes.
+
+260
+00:12:43,769 --> 00:12:44,769
+Certo.
+
+261
+00:12:45,554 --> 00:12:47,987
+<i>Achamos o Tubarão-Rei.
+Ele está no porto.</i>
+
+262
+00:13:02,182 --> 00:13:03,837
+Caitlin, tem certeza
+que ele está aqui?
+
+263
+00:13:03,837 --> 00:13:05,379
+Ele está aí.
+
+264
+00:13:06,739 --> 00:13:08,359
+Está indo direto até vocês.
+
+265
+00:13:12,153 --> 00:13:13,453
+Nora, é sua vez.
+
+266
+00:13:14,850 --> 00:13:15,850
+Pronto.
+
+267
+00:13:15,851 --> 00:13:17,815
+Certo, os sistemas
+estão sincronizados.
+
+268
+00:13:17,815 --> 00:13:20,342
+Shay? Sou eu, a Tanya.
+
+269
+00:13:20,342 --> 00:13:22,556
+Essas pessoas
+só estão aqui para te ajudar.
+
+270
+00:13:22,556 --> 00:13:24,626
+<i>Por favor, escute-os.</i>
+
+271
+00:13:24,626 --> 00:13:25,926
+Está tudo bem.
+
+272
+00:13:28,715 --> 00:13:30,015
+Acho que está funcionando.
+
+273
+00:13:30,559 --> 00:13:31,859
+Acho que está certa.
+
+274
+00:13:33,562 --> 00:13:34,862
+Vamos perguntar a ele.
+
+275
+00:13:36,003 --> 00:13:37,803
+Shay, pare!
+Por favor.
+
+276
+00:13:39,131 --> 00:13:41,131
+Por favor. Não sei
+o que há de errado com ele.
+
+277
+00:13:45,331 --> 00:13:46,331
+<i>Barry?</i>
+
+278
+00:14:13,479 --> 00:14:16,480
+<i>Gente, o que esta acontecendo?
+Cadê o Shay?</i>
+
+279
+00:14:25,185 --> 00:14:26,374
+Shay?
+
+280
+00:14:26,982 --> 00:14:28,280
+O que é isso?
+
+281
+00:14:30,190 --> 00:14:31,458
+O que está acontecendo?
+
+282
+00:14:31,458 --> 00:14:33,326
+<i>Shay está bem?</i>
+
+283
+00:14:33,826 --> 00:14:36,093
+Sim.
+Ele é humano de novo.
+
+284
+00:14:49,302 --> 00:14:51,631
+Onde estou?
+Quem são vocês?
+
+285
+00:14:52,809 --> 00:14:54,698
+- Só me larga!
+- Está bem.
+
+286
+00:14:54,698 --> 00:14:55,994
+Eles são amigos.
+
+287
+00:14:59,596 --> 00:15:01,197
+Tanya.
+
+288
+00:15:01,198 --> 00:15:03,099
+Sim, sou eu.
+
+289
+00:15:07,632 --> 00:15:08,984
+Sou eu?
+
+290
+00:15:08,985 --> 00:15:11,415
+Como?
+
+291
+00:15:11,415 --> 00:15:13,350
+Nós chamamos de cura.
+
+292
+00:15:13,350 --> 00:15:16,653
+É um soro que suprime
+a matéria negra em metas.
+
+293
+00:15:16,653 --> 00:15:18,255
+Você é a primeira pessoa
+que aceitou isso.
+
+294
+00:15:18,255 --> 00:15:20,520
+Bem, exceto
+que você não aceitou.
+
+295
+00:15:20,521 --> 00:15:23,857
+Nós, injetamos em você.
+
+296
+00:15:24,320 --> 00:15:26,353
+Minha cabeça ainda está girando.
+
+297
+00:15:28,447 --> 00:15:30,744
+Vocês estão dizendo
+que sou humano de novo?
+
+298
+00:15:30,744 --> 00:15:32,087
+Para sempre?
+
+299
+00:15:32,876 --> 00:15:34,361
+Quase.
+
+300
+00:15:34,838 --> 00:15:38,008
+Fizemos uma cura para mexer
+a parte humana de um meta.
+
+301
+00:15:38,008 --> 00:15:41,819
+A parte animal do seu cérebro
+lutou um pouco.
+
+302
+00:15:41,820 --> 00:15:44,722
+Ainda tem um pouco de matéria negra
+na sua glândula pituitária,
+
+303
+00:15:44,723 --> 00:15:47,241
+mas com esses novos dados,
+
+304
+00:15:47,242 --> 00:15:50,819
+devemos ser capazes de abordar a cura
+e a próxima dose deve ser permanente.
+
+305
+00:15:50,820 --> 00:15:53,357
+Monsieur Lamden,
+eu deveria me apresentar.
+
+306
+00:15:53,357 --> 00:15:55,292
+Sherloque Wells.
+Provavelmente já ouviu falar de mim.
+
+307
+00:15:55,292 --> 00:15:58,362
+Eu tenho uma pergunta
+que tenho pensado muito.
+
+308
+00:15:58,362 --> 00:16:01,608
+O que impulsiona
+o Tubarão-Rei?
+
+309
+00:16:02,186 --> 00:16:06,868
+É o tubarão ou é o homem?
+
+310
+00:16:09,299 --> 00:16:12,549
+Se está perguntando se serei
+responsabilizado pelas minhas ações,
+
+311
+00:16:12,550 --> 00:16:14,778
+minha resposta é simples.
+
+312
+00:16:14,778 --> 00:16:16,511
+Sim eu deveria.
+
+313
+00:16:20,084 --> 00:16:22,619
+Não me lembro de quantas
+ pessoas eu machuquei
+
+314
+00:16:22,619 --> 00:16:26,390
+ou quem, mas isso não é desculpa.
+
+315
+00:16:26,390 --> 00:16:27,891
+O que você lembra?
+
+316
+00:16:27,891 --> 00:16:29,728
+Fragmentos e vislumbres.
+
+317
+00:16:30,829 --> 00:16:33,097
+Em um dia eu era cientista,
+no outro eu estava preso
+
+318
+00:16:33,097 --> 00:16:35,332
+naquele corpo e tudo
+sentiu-se intensificado,
+
+319
+00:16:35,332 --> 00:16:37,667
+como minhas emoções
+estavam em esteróides.
+
+320
+00:16:37,667 --> 00:16:41,509
+E a raiva...
+havia tanta raiva.
+
+321
+00:16:41,510 --> 00:16:43,507
+Isso faz sentido.
+A amígdala de um tubarão provoca
+
+322
+00:16:43,507 --> 00:16:45,675
+uma enorme resposta emocional
+quando se sente atacado.
+
+323
+00:16:45,675 --> 00:16:48,412
+Talvez seja por isso
+que você escapou hoje.
+
+324
+00:16:48,412 --> 00:16:50,114
+Você estava com medo.
+
+325
+00:16:50,114 --> 00:16:53,283
+Eu não sei.
+Hoje senti diferente.
+
+326
+00:16:53,283 --> 00:16:56,553
+Eu não lembro muito antes de eu
+começou a usar a coroa de Tanya,
+
+327
+00:16:56,553 --> 00:17:00,790
+mas desde então, minha mente
+e memória foi muito mais claro.
+
+328
+00:17:00,790 --> 00:17:04,226
+E eu me lembro especialmente da
+gentileza que você me mostrou.
+
+329
+00:17:12,302 --> 00:17:13,735
+O quê?
+
+330
+00:17:15,925 --> 00:17:18,980
+O que aconteceu?
+
+331
+00:17:19,643 --> 00:17:21,811
+A matéria escura em sua
+o sistema está replicando.
+
+332
+00:17:21,811 --> 00:17:24,779
+Tanya, me desculpe.
+
+333
+00:17:36,504 --> 00:17:39,530
+Shay, me desculpe,
+mas até que isso acabe,
+
+334
+00:17:39,530 --> 00:17:42,130
+não podemos deixar você sair daqui.
+
+335
+00:17:45,981 --> 00:17:49,206
+Me avise assim
+que a segunda cura esteja pronta.
+
+336
+00:17:49,206 --> 00:17:51,839
+Temos que saber se isso funciona.
+
+337
+00:17:54,545 --> 00:17:55,890
+- Barry?
+- Sim?
+
+338
+00:17:55,891 --> 00:17:57,681
+Quando pediu para te avisar,
+
+339
+00:17:57,681 --> 00:18:01,429
+foi para perguntar ao Shay
+se ele queria tomar a cura, certo?
+
+340
+00:18:01,430 --> 00:18:04,797
+- Caitlin...
+- Mais cedo, não perguntou se ele queria.
+
+341
+00:18:04,798 --> 00:18:08,225
+Foi difícil de perguntar
+com ele tentando te matar.
+
+342
+00:18:08,225 --> 00:18:10,208
+Tínhamos uma maneira
+de nos comunicar com ele,
+
+343
+00:18:10,209 --> 00:18:12,662
+e você mal deu uma chance.
+E poderíamos ter tentado novamente.
+
+344
+00:18:12,662 --> 00:18:15,299
+Eu te salvei, cara.
+O que você quer que eu faça?
+
+345
+00:18:15,299 --> 00:18:16,833
+- Arriscar sua vida?
+- Essa não é a questão.
+
+346
+00:18:16,833 --> 00:18:18,368
+Deveria ser.
+Somos uma equipe.
+
+347
+00:18:18,368 --> 00:18:19,869
+Temos que proteger um ao outro.
+
+348
+00:18:19,869 --> 00:18:21,538
+E nós concordamos,
+como uma equipe,
+
+349
+00:18:21,538 --> 00:18:23,240
+esperar pela permissão,
+mas você nem fez isso.
+
+350
+00:18:23,240 --> 00:18:25,576
+E olha o que aconteceu.
+Você está vivo,
+
+351
+00:18:25,576 --> 00:18:29,436
+e Shay parece gostar de ser
+humano, foi uma vitória.
+
+352
+00:18:31,449 --> 00:18:33,772
+É isso que você acha
+que um herói faz?
+
+353
+00:18:33,773 --> 00:18:37,241
+Forçar outras pessoas a fazer
+o que você quer que eles façam?
+
+354
+00:18:37,242 --> 00:18:40,226
+Ele ia comer você, Cisco.
+
+355
+00:18:40,536 --> 00:18:42,405
+O que eu deveria fazer?
+
+356
+00:18:42,406 --> 00:18:46,997
+Concordamos que a cura
+nunca seria usada como arma.
+
+357
+00:18:46,997 --> 00:18:52,369
+Diga-me.
+Mudou de ideia naquele momento,
+
+358
+00:18:52,369 --> 00:18:54,169
+ou isso sempre foi parte
+do plano?
+
+359
+00:19:11,033 --> 00:19:12,501
+Papai?
+
+360
+00:19:12,502 --> 00:19:16,643
+Eu fui ao seu escritório
+falar com você.
+
+361
+00:19:18,169 --> 00:19:19,962
+Papai, olhe.
+Eu...
+
+362
+00:19:19,963 --> 00:19:21,798
+Não. Não tente.
+
+363
+00:19:21,798 --> 00:19:26,516
+Fiquei sabendo sobre vocês
+ terem ficado presos.
+
+364
+00:19:26,517 --> 00:19:29,286
+Cisco e Nora me disseram,
+
+365
+00:19:29,642 --> 00:19:31,508
+o que aconteceu em todas
+as versões
+
+366
+00:19:31,508 --> 00:19:34,278
+e embora eu não
+lembre de qualquer um deles,
+
+367
+00:19:34,278 --> 00:19:36,480
+mas só em saber
+o que acontece...
+
+368
+00:19:36,480 --> 00:19:38,354
+Você não estava com medo?
+
+369
+00:19:38,355 --> 00:19:40,120
+Eu não sei.
+
+370
+00:19:40,121 --> 00:19:42,286
+Eu invadi a casa do Cicada.
+
+371
+00:19:42,286 --> 00:19:44,261
+Papai, eu lutei com ele.
+
+372
+00:19:44,917 --> 00:19:48,492
+Foi tão assustador, digo...
+
+373
+00:19:48,492 --> 00:19:50,460
+pelo menos eu poderia reagir
+a isso, sabe?
+
+374
+00:19:50,460 --> 00:19:53,096
+Mas agora que ele sabe
+quem eu sou, quem é minha família
+
+375
+00:19:53,096 --> 00:19:55,555
+Quero dizer, ele poderia aparecer
+ a qualquer momento.
+
+376
+00:19:55,556 --> 00:19:57,300
+Eu apenas, eu ...
+
+377
+00:19:57,301 --> 00:19:59,469
+- Eu me sinto...
+- Impotente.
+
+378
+00:19:59,469 --> 00:20:02,539
+Sim, eu apenas...
+
+379
+00:20:02,539 --> 00:20:04,578
+Eu não sei, não posso voltar lá.
+
+380
+00:20:06,143 --> 00:20:07,197
+Certo,
+
+381
+00:20:07,980 --> 00:20:09,018
+levante-se.
+
+382
+00:20:09,019 --> 00:20:12,390
+Pai, eu acabei de te dizer.
+Eu não quero voltar lá.
+
+383
+00:20:12,391 --> 00:20:14,850
+Eu não vou te levar lá.
+
+384
+00:20:14,851 --> 00:20:15,946
+Então onde?
+
+385
+00:20:15,947 --> 00:20:18,322
+A um lugar onde eu possa
+te mostrar
+
+386
+00:20:18,322 --> 00:20:20,469
+quão potente você realmente é.
+
+387
+00:20:21,704 --> 00:20:23,658
+Embale isso.
+Vamos.
+
+388
+00:20:30,357 --> 00:20:32,672
+Nós precisamos conversar.
+
+389
+00:20:32,673 --> 00:20:35,672
+Não sabe que não deve interromper
+alguém meditando?
+
+390
+00:20:35,672 --> 00:20:37,872
+Tentando ter meu momento
+Oliver Queen aqui.
+
+391
+00:20:37,873 --> 00:20:40,244
+Eu fiz mais alguns testes no Shay.
+
+392
+00:20:40,244 --> 00:20:42,479
+A razão pela qual ele não lembra
+ de nada que aconteceu
+
+393
+00:20:42,479 --> 00:20:46,401
+é porque ele teve uma grande interrupção
+nas ondas cerebrais do seu lobo frontal.
+
+394
+00:20:46,402 --> 00:20:48,670
+Esse é o feedback
+que todos nós ouvimos.
+
+395
+00:20:48,671 --> 00:20:51,508
+Então, é por isso que ele nos atacou
+
+396
+00:20:51,509 --> 00:20:53,344
+como no filme
+"Tubarão: A Vingança"?
+
+397
+00:20:53,345 --> 00:20:55,578
+Um lobo frontal comprometido
+teria facilmente
+
+398
+00:20:55,579 --> 00:20:59,072
+uma falta de controle
+sobre emoções e julgamento.
+
+399
+00:20:59,073 --> 00:21:02,585
+Então você acha que talvez a coroa
+poderia ter feito isso?
+
+400
+00:21:02,586 --> 00:21:05,227
+Não, esse é o ponto.
+A coroa não é o problema.
+
+401
+00:21:05,228 --> 00:21:07,170
+A maneira como os neurotransmissores
+trabalhar neste dispositivo
+
+402
+00:21:07,170 --> 00:21:08,204
+nunca teria causado isso.
+
+403
+00:21:08,204 --> 00:21:11,207
+Quer dizer que a coroa estava
+ funcionando o tempo todo?
+
+404
+00:21:11,207 --> 00:21:12,909
+Sim, então isso levanta a questão,
+
+405
+00:21:12,909 --> 00:21:15,548
+o que fez o Tubarão-Rei enlouquecer?
+
+406
+00:21:16,043 --> 00:21:17,862
+Gente....
+
+407
+00:21:19,142 --> 00:21:23,586
+Eu só queria me desculpar
+por mais cedo.
+
+408
+00:21:23,587 --> 00:21:25,819
+Eu realmente fui muito grosso.
+
+409
+00:21:39,303 --> 00:21:40,795
+Não pode ser.
+
+410
+00:21:46,710 --> 00:21:48,163
+Caitlin
+
+411
+00:21:54,026 --> 00:21:55,612
+Olá, Flash.
+
+412
+00:22:03,214 --> 00:22:05,484
+O exame cerebral do Cisco
+está limpo.
+
+413
+00:22:05,485 --> 00:22:07,656
+O meu também.
+Estamos de volta ao normal.
+
+414
+00:22:07,657 --> 00:22:09,530
+Sem mais algemas na gente.
+
+415
+00:22:09,531 --> 00:22:11,973
+Nevasca está se desculpando
+pela rajada de gelo.
+
+416
+00:22:11,974 --> 00:22:13,083
+Foi o Grodd também.
+
+417
+00:22:13,084 --> 00:22:14,660
+Agora ela está pronta
+para a vingança.
+
+418
+00:22:14,661 --> 00:22:15,882
+Sim, eu também.
+
+419
+00:22:15,883 --> 00:22:17,871
+Já localizamos o nosso
+Pyong lee Gorila?
+
+420
+00:22:17,872 --> 00:22:19,540
+Estamos procurando
+com os dados que temos,
+
+421
+00:22:19,541 --> 00:22:21,017
+mas as habilidades
+psíquicas do Grodd
+
+422
+00:22:21,018 --> 00:22:23,001
+estão ajudando a ocultar
+sua localização,
+
+423
+00:22:23,002 --> 00:22:24,460
+então ele pode estar em
+qualquer lugar agora.
+
+424
+00:22:24,461 --> 00:22:27,214
+Achei que todo canto da
+A.R.G.U.S.
+
+425
+00:22:27,215 --> 00:22:29,743
+era vigiado 24 horas por dia.
+
+426
+00:22:29,744 --> 00:22:30,768
+E é.
+
+427
+00:22:30,769 --> 00:22:33,859
+Então como um gorila de 360
+quilos escapou?
+
+428
+00:22:33,860 --> 00:22:35,531
+Vou lhe mostrar.
+
+429
+00:22:35,532 --> 00:22:38,517
+Fui ver a câmera de segurança.
+
+430
+00:22:38,518 --> 00:22:41,395
+Isto é da noite do dia 22
+de maio, 2018.
+
+431
+00:22:41,396 --> 00:22:43,445
+- Essa é a noite...
+- do Iluminismo.
+
+432
+00:22:44,708 --> 00:22:46,900
+A matéria negra do DeVoe
+derrubou toda a tecnologia
+
+433
+00:22:46,901 --> 00:22:48,044
+das áreas próximas.
+
+434
+00:22:48,045 --> 00:22:50,362
+Por sorte, nosso gerador
+se ativou.
+
+435
+00:22:50,363 --> 00:22:52,781
+- Mas não por um segundo.
+- Um segundo.
+
+436
+00:22:52,782 --> 00:22:53,954
+Foi tudo que o Grodd precisou
+
+437
+00:22:53,955 --> 00:22:56,201
+para implantar instruções
+em um guarda.
+
+438
+00:22:56,202 --> 00:22:57,795
+Instruções para secretamente
+desligar
+
+439
+00:22:57,796 --> 00:22:59,533
+os inibidores de
+poder de sua cela
+
+440
+00:22:59,534 --> 00:23:01,744
+e descobrir qualquer informação
+que ele quisesse.
+
+441
+00:23:01,745 --> 00:23:03,908
+Então por isso o Tubarão-Rei
+enlouqueceu?
+
+442
+00:23:03,909 --> 00:23:06,003
+Porque o Grodd tentou
+controlar a mente dele?
+
+443
+00:23:06,004 --> 00:23:07,438
+Como uma distração.
+
+444
+00:23:07,439 --> 00:23:10,591
+Grodd só controlou
+mentes humanas antes.
+
+445
+00:23:10,592 --> 00:23:12,593
+Ele deve ter tido alguma
+complicação controlando
+
+446
+00:23:12,594 --> 00:23:14,219
+por causa da parte animal
+de seu cérebro.
+
+447
+00:23:14,220 --> 00:23:18,574
+Então o Tubarão-Rei tentou
+resistir a vontade do Grodd?
+
+448
+00:23:18,575 --> 00:23:19,950
+Respeito.
+
+449
+00:23:19,951 --> 00:23:21,935
+Se o Grodd já tinha poderes
+há um ano,
+
+450
+00:23:21,936 --> 00:23:23,746
+por que esperar até
+agora para fugir?
+
+451
+00:23:23,747 --> 00:23:26,064
+Provavelmente não é coincidência
+que o primeiro ato dele
+
+452
+00:23:26,065 --> 00:23:27,941
+foi roubar a coroa telepática.
+
+453
+00:23:27,942 --> 00:23:30,661
+Tanya disse que estava
+na coroa fazia um tempo.
+
+454
+00:23:30,662 --> 00:23:33,040
+Grodd sabia que essa era a
+oportunidade perfeita.
+
+455
+00:23:33,041 --> 00:23:35,115
+E foi graças a nossa tecnologia.
+
+456
+00:23:35,116 --> 00:23:37,242
+Certo, agora que o
+Grodd tem a coroa,
+
+457
+00:23:37,243 --> 00:23:38,961
+o que acontece se ele usar?
+
+458
+00:23:38,962 --> 00:23:42,456
+Vai amplificar suas habilidades
+mentais em centenas de vezes.
+
+459
+00:23:42,457 --> 00:23:44,958
+Ao invés de poder controlar
+a mente
+
+460
+00:23:44,959 --> 00:23:46,793
+de algumas pessoas por vez...
+
+461
+00:23:46,794 --> 00:23:49,587
+Ele pode controlar
+a cidade inteira.
+
+462
+00:23:59,023 --> 00:24:02,785
+Perdoe-me.
+Estou invadindo.
+
+463
+00:24:02,786 --> 00:24:04,528
+Ou não estou?
+
+464
+00:24:04,529 --> 00:24:08,273
+Eu vejo ele lá e vejo você aqui
+nas sombras.
+
+465
+00:24:08,274 --> 00:24:09,817
+Por que isso, eu imagino?
+
+466
+00:24:09,818 --> 00:24:11,693
+Pode me culpar?
+
+467
+00:24:11,694 --> 00:24:13,919
+Você viu a mão dele
+se transformar.
+
+468
+00:24:13,920 --> 00:24:16,540
+Sim, claro.
+"Semana do Tubarão!"
+
+469
+00:24:16,541 --> 00:24:18,950
+Não é algo que você vê todo dia,
+mas não,
+
+470
+00:24:18,951 --> 00:24:21,995
+acho que sua indecisão aconteceu
+
+471
+00:24:21,996 --> 00:24:24,034
+antes desse momento, não depois.
+
+472
+00:24:24,035 --> 00:24:28,251
+Foi uma pequena indecisão,
+mas ainda assim estava lá.
+
+473
+00:24:28,252 --> 00:24:30,805
+De novo, por que você
+acha que é isso?
+
+474
+00:24:30,806 --> 00:24:32,315
+Eu não sei...
+
+475
+00:24:32,316 --> 00:24:35,801
+Não? Bom, talvez eu deva ser
+corajoso e oferecer
+
+476
+00:24:35,802 --> 00:24:38,845
+uma sugestão que não foi a mão
+
+477
+00:24:38,846 --> 00:24:40,948
+que você estava com medo.
+
+478
+00:24:40,949 --> 00:24:42,658
+Foi ver o rosto
+
+479
+00:24:43,854 --> 00:24:46,245
+do homem que você ama.
+
+480
+00:24:46,246 --> 00:24:49,332
+Eu não amo o Shay.
+Somos amigos.
+
+481
+00:24:49,333 --> 00:24:52,150
+Certo, vamos analisar.
+
+482
+00:24:52,151 --> 00:24:54,595
+Este é um amigo,
+de uma outra Terra,
+
+483
+00:24:54,596 --> 00:24:56,747
+por quem você deixou um
+trabalho bem pago
+
+484
+00:24:56,748 --> 00:24:59,032
+e por quem você dedica
+cada momento
+
+485
+00:24:59,033 --> 00:25:01,660
+da sua vida tentando ajudar ele,
+não faz muito sentido.
+
+486
+00:25:01,661 --> 00:25:04,755
+Eu não posso amar o Shay.
+
+487
+00:25:04,756 --> 00:25:08,351
+Ele é a sósia do meu marido
+falecido da Terra-2.
+
+488
+00:25:08,352 --> 00:25:11,520
+O quão louca eu tenho que ser
+para me apaixonar por ele?
+
+489
+00:25:11,521 --> 00:25:13,536
+Não o suficiente para casar
+com a mesma mulher
+
+490
+00:25:13,537 --> 00:25:15,048
+de cinco Terras diferentes...
+
+491
+00:25:15,049 --> 00:25:17,008
+Eu sei.
+
+492
+00:25:17,009 --> 00:25:18,527
+Sou muito bom em casar
+com as pessoas,
+
+493
+00:25:18,528 --> 00:25:21,030
+mas não muito para
+continuar casado.
+
+494
+00:25:21,031 --> 00:25:22,508
+Ao longo do tempo
+
+495
+00:25:22,509 --> 00:25:25,442
+nessas várias Terras
+e vários sósias,
+
+496
+00:25:25,443 --> 00:25:27,561
+eu aprendi que tem uma coisa
+
+497
+00:25:27,562 --> 00:25:30,689
+que faz cada um de nós único.
+
+498
+00:25:30,690 --> 00:25:34,284
+E se foi por isso
+
+499
+00:25:34,285 --> 00:25:37,880
+que você se apaixonou, então,
+
+500
+00:25:37,881 --> 00:25:40,698
+talvez o rosto não importa muito.
+
+501
+00:25:56,257 --> 00:25:59,259
+Você perdeu um lindo
+pôr do Sol mais cedo.
+
+502
+00:25:59,260 --> 00:26:00,811
+Uma pena.
+
+503
+00:26:00,812 --> 00:26:03,439
+- Minha hora favorita do dia.
+- A minha também.
+
+504
+00:26:03,440 --> 00:26:05,580
+Quase esqueci como era um.
+
+505
+00:26:06,726 --> 00:26:09,087
+Sabia que tubarões
+são daltônicos?
+
+506
+00:26:10,229 --> 00:26:13,832
+Quando eu era o Tubarão-Rei,
+meu mundo era chato e cinza.
+
+507
+00:26:16,778 --> 00:26:19,236
+Então conheci você, e tudo mudou.
+
+508
+00:26:23,168 --> 00:26:24,871
+Pensei que você estava
+me evitando.
+
+509
+00:26:25,870 --> 00:26:27,788
+Eu estava,
+
+510
+00:26:27,789 --> 00:26:29,680
+mas não mais.
+
+511
+00:26:30,917 --> 00:26:33,877
+Tanya, você está desapontada
+agora que eu...
+
+512
+00:26:33,878 --> 00:26:37,063
+Não, nem um pouco.
+
+513
+00:26:40,351 --> 00:26:43,160
+Dizem que cada pôr
+do sol é único.
+
+514
+00:26:44,875 --> 00:26:46,901
+Você acredita nisso?
+
+515
+00:26:48,285 --> 00:26:50,359
+Sim, acredito.
+
+516
+00:27:07,879 --> 00:27:09,546
+Pai, isso não vai funcionar.
+
+517
+00:27:09,547 --> 00:27:10,964
+Você nem tentou.
+
+518
+00:27:11,449 --> 00:27:12,641
+Olha, eu entendi.
+
+519
+00:27:12,642 --> 00:27:14,551
+Eu deveria descontar
+minhas frustações nesse saco
+
+520
+00:27:14,552 --> 00:27:17,629
+e superar de algum jeito,
+mas não é tão fácil.
+
+521
+00:27:17,630 --> 00:27:21,006
+Confrontar o que te incomoda?
+Não. É difícil.
+
+522
+00:27:21,007 --> 00:27:22,968
+Eu tive que percorrer o
+mundo para fazer isso.
+
+523
+00:27:22,969 --> 00:27:25,262
+Está falando de Tibet?
+
+524
+00:27:25,263 --> 00:27:26,822
+Pensei que tinha ido
+para ver o Wally.
+
+525
+00:27:26,823 --> 00:27:28,682
+Eu fui, mas não foi
+só por isso.
+
+526
+00:27:28,683 --> 00:27:30,934
+Eu fui para me curar.
+
+527
+00:27:30,935 --> 00:27:32,495
+Foi por isso que você se
+foi por tanto tempo?
+
+528
+00:27:32,496 --> 00:27:35,654
+Wally me convenceu a ir para
+o leste com o bebê.
+
+529
+00:27:35,655 --> 00:27:38,242
+disse que ia me ajudar a
+reparar minha mente,
+
+530
+00:27:38,243 --> 00:27:40,652
+meu corpo, restaurar
+minha alma velha.
+
+531
+00:27:40,653 --> 00:27:42,838
+Então a Cecile deixou,
+
+532
+00:27:42,839 --> 00:27:44,199
+e foi o que eu fiz.
+
+533
+00:27:45,491 --> 00:27:46,842
+E funcionou?
+
+534
+00:27:46,843 --> 00:27:50,087
+Pode apostar, minha filha.
+
+535
+00:27:50,088 --> 00:27:52,497
+Mas o Cicada não vai me intimidar.
+
+536
+00:27:52,498 --> 00:27:54,016
+Muito menos você.
+
+537
+00:27:54,017 --> 00:27:55,499
+Vamos.
+
+538
+00:27:58,198 --> 00:28:00,154
+Vamos, Iris. Mostre ao
+Cicada quem você é.
+
+539
+00:28:04,385 --> 00:28:06,602
+Acabe com ele, Iris.
+
+540
+00:28:11,642 --> 00:28:12,432
+Acabe com ele!
+
+541
+00:28:19,233 --> 00:28:21,078
+Isso
+
+542
+00:28:25,164 --> 00:28:26,197
+O que está acontecendo?
+
+543
+00:28:26,198 --> 00:28:28,803
+Nosso amigo peludo está
+escalando o Campanário Broome.
+
+544
+00:28:28,804 --> 00:28:30,201
+O que ele tem com essa torre?
+
+545
+00:28:30,202 --> 00:28:32,245
+Pois é o exato
+epicentro da cidade...
+
+546
+00:28:32,246 --> 00:28:34,176
+Sendo o lugar perfeito
+para transmitir.
+
+547
+00:28:34,177 --> 00:28:35,749
+Ele vai usar a coroa.
+
+548
+00:28:35,750 --> 00:28:38,310
+E entrar na mente
+de todos na cidade.
+
+549
+00:28:46,552 --> 00:28:49,638
+<i>Escutem seu mestre, humanos.</i>
+
+550
+00:28:49,639 --> 00:28:53,116
+<i>Logo, vocês só irão conhecer
+minha vontade...</i>
+
+551
+00:28:54,226 --> 00:28:58,790
+<i>A vontade de Grodd!</i>
+
+552
+00:29:02,833 --> 00:29:05,407
+Quanto tempo até todo mundo
+ser controlado por Grodd?
+
+553
+00:29:05,408 --> 00:29:07,154
+Alguns minutos, talvez menos.
+
+554
+00:29:07,155 --> 00:29:09,316
+Temos que tirar a coroa e
+levar para longe dele.
+
+555
+00:29:09,317 --> 00:29:10,290
+Eu posso tentar falar com ele.
+
+556
+00:29:10,291 --> 00:29:11,373
+Ele sempre teve um
+ponto fraco por mim
+
+557
+00:29:11,374 --> 00:29:12,668
+- Bom.
+<i>- De jeito nenhum.</i>
+
+558
+00:29:12,669 --> 00:29:15,191
+Não,
+Nevasca não vai deixar.
+
+559
+00:29:15,192 --> 00:29:17,033
+Somos imunes ao controle
+dele, certo,
+
+560
+00:29:17,034 --> 00:29:18,534
+porque somos velocistas?
+
+561
+00:29:18,535 --> 00:29:20,178
+Não.
+
+562
+00:29:20,179 --> 00:29:23,372
+Certo, o Museu Flash tem
+muito material errado lá.
+
+563
+00:29:23,373 --> 00:29:26,351
+Espera, você tem algum extra
+anti-controle mental por aqui?
+
+564
+00:29:26,352 --> 00:29:27,574
+Tem alguns na oficina,
+
+565
+00:29:27,575 --> 00:29:29,211
+mas não funcionou muito
+bem na última vez.
+
+566
+00:29:29,212 --> 00:29:30,880
+Sim, mas agora tem dois de nós.
+
+567
+00:29:30,881 --> 00:29:32,548
+Quero que corra até ele
+o mais rápido que puder
+
+568
+00:29:32,549 --> 00:29:34,216
+- sem voltar o tempo.
+- Certo.
+
+569
+00:29:34,217 --> 00:29:36,510
+- Isso vai chamar a atenção dele
+- O que vai fazer?
+
+570
+00:29:36,511 --> 00:29:38,178
+Um velho truque.
+
+571
+00:30:09,570 --> 00:30:11,036
+Pegue a coroa!
+
+572
+00:30:13,755 --> 00:30:15,047
+Pai?
+
+573
+00:30:30,848 --> 00:30:33,602
+<i>- Eu não me mexo.</i>
+- Os inibidores estão funcionando,
+
+574
+00:30:33,603 --> 00:30:34,873
+<i>mas Grodd é muito forte.</i>
+
+575
+00:30:34,874 --> 00:30:36,928
+Estou tentando hackear a coroa,
+mas Grodd não deixa.
+
+576
+00:30:36,929 --> 00:30:38,373
+Ele vai matá-los.
+
+577
+00:30:38,374 --> 00:30:40,326
+Não se você me transformar
+de volta.
+
+578
+00:30:41,217 --> 00:30:43,054
+Posso parar o Grodd.
+
+579
+00:30:43,055 --> 00:30:45,090
+Ele não consegue ler minha mente...
+Pelo menos,
+
+580
+00:30:45,426 --> 00:30:48,261
+- não quando sou um tubarão.
+- Pode fazer isso?
+
+581
+00:30:48,262 --> 00:30:50,604
+Digo, se acelerarmos
+o ciclo celular,
+
+582
+00:30:50,605 --> 00:30:53,512
+faremos algo que vai pedir um retorno
+à forma celular da matéria negra.
+
+583
+00:30:53,513 --> 00:30:56,334
+Certo, talvez uma vibração
+ou um choque?
+
+584
+00:30:56,335 --> 00:30:58,209
+Sim, se fosse suficientemente forte,
+
+585
+00:30:58,210 --> 00:31:00,163
+mas haveria consequências
+permanentes.
+
+586
+00:31:00,164 --> 00:31:02,256
+Se voltarmos a saturar
+suas células meta-gênicas,
+
+587
+00:31:02,257 --> 00:31:03,514
+isso eliminará a possibilidade
+
+588
+00:31:03,515 --> 00:31:06,232
+de transformá-las de volta
+em células humanas.
+
+589
+00:31:06,233 --> 00:31:08,133
+Ele não será capaz
+de usar a cura.
+
+590
+00:31:08,867 --> 00:31:09,976
+Shay,
+
+591
+00:31:10,389 --> 00:31:12,210
+se concordar com isso,
+
+592
+00:31:12,876 --> 00:31:14,461
+nunca mais será humano.
+
+593
+00:31:14,462 --> 00:31:17,688
+Tanya, posso salvar o Flash,
+as pessoas desta cidade, você,
+
+594
+00:31:17,689 --> 00:31:19,816
+e compensar algumas das coisas
+horríveis que fiz.
+
+595
+00:31:19,817 --> 00:31:21,489
+Tenho que fazer isso.
+
+596
+00:31:23,034 --> 00:31:24,771
+Tenho medo de te perder.
+
+597
+00:31:25,421 --> 00:31:26,560
+Não vai.
+
+598
+00:31:28,995 --> 00:31:33,391
+Tem alguém nesta sala que possa
+proporcionar um choque vibracional?
+
+599
+00:31:33,392 --> 00:31:35,025
+Eu faço isso.
+
+600
+00:32:08,877 --> 00:32:12,261
+<i>Minha mente cresce.</i>
+
+601
+00:32:12,737 --> 00:32:17,136
+<i>Em breve, Grodd governará
+esta cidade,</i>
+
+602
+00:32:17,137 --> 00:32:18,933
+<i>este mundo.</i>
+
+603
+00:32:18,934 --> 00:32:20,699
+<i>E você...</i>
+
+604
+00:32:20,700 --> 00:32:24,621
+<i>Desaparecerá para sempre.</i>
+
+605
+00:32:30,557 --> 00:32:32,260
+<i>Tubarão-Rei?</i>
+
+606
+00:32:34,698 --> 00:32:39,604
+Tubarão-Rei quer
+que você vá embora!
+
+607
+00:34:14,733 --> 00:34:16,202
+Não.
+
+608
+00:34:19,182 --> 00:34:20,984
+Pessoal, o Tubarão-Rei
+não está se movendo.
+
+609
+00:34:20,985 --> 00:34:22,749
+Quando um tubarão fica
+de cabeça para baixo,
+
+610
+00:34:22,750 --> 00:34:25,998
+- ele entra em imobilidade tônica.
+- <i>Ele está em um estado de paralisia.</i>
+
+611
+00:34:25,999 --> 00:34:27,254
+Como vamos acordá-lo?
+
+612
+00:34:27,255 --> 00:34:29,324
+Os tubarões não têm órgãos
+electroreceptores
+
+613
+00:34:29,325 --> 00:34:30,878
+chamados ampolas
+de Lorenzini?
+
+614
+00:34:30,879 --> 00:34:33,090
+É como eles detectam <i>campos
+eletromagnéticos, certo?</i>
+
+615
+00:34:33,091 --> 00:34:34,528
+Sim, é como eles navegam.
+
+616
+00:34:34,529 --> 00:34:37,036
+E também atrairá
+eletricidade, certo?
+
+617
+00:34:37,037 --> 00:34:39,912
+Então se pudermos obter eletricidade
+para ele,
+
+618
+00:34:40,362 --> 00:34:42,962
+- Eletrificá-lo até acordar.
+- Eletrificá-lo até acordar.
+
+619
+00:34:42,963 --> 00:34:44,889
+<i>- Barry!</i>
+- Sim, já ouvimos.
+
+620
+00:34:44,890 --> 00:34:46,779
+Hora de outro velho truque.
+
+621
+00:35:14,075 --> 00:35:15,388
+Está bem?
+
+622
+00:35:41,009 --> 00:35:42,947
+- Isso!
+- Isso!
+
+623
+00:35:57,676 --> 00:35:58,997
+Nada disso.
+
+624
+00:36:00,544 --> 00:36:02,028
+Vida longa ao rei.
+
+625
+00:36:13,071 --> 00:36:16,868
+Sei que Grodd
+quase fritou nossos cérebros,
+
+626
+00:36:16,868 --> 00:36:20,399
+mas aquela batalha Kaiju
+foi como um sonho.
+
+627
+00:36:20,399 --> 00:36:23,597
+Sério, muito melhor que tudo
+que li no Museu do Flash.
+
+628
+00:36:23,597 --> 00:36:25,514
+Agora que Grodd está preso,
+
+629
+00:36:25,514 --> 00:36:28,236
+o que o impede de fugir de novo?
+
+630
+00:36:28,236 --> 00:36:30,293
+Um coma medicamente induzido.
+
+631
+00:36:30,294 --> 00:36:31,891
+Seguramente
+administrado por Caitlin
+
+632
+00:36:31,891 --> 00:36:33,446
+e a equipe médica da A.R.G.U.S.
+
+633
+00:36:33,447 --> 00:36:37,286
+Exposição à coroa amplificaram
+as habilidades mentais de Grodd.
+
+634
+00:36:37,286 --> 00:36:38,883
+Estão crescendo,
+até mesmo agora.
+
+635
+00:36:38,883 --> 00:36:40,175
+Felizmente percebi
+
+636
+00:36:40,175 --> 00:36:42,433
+que se o cérebro de Grodd
+permanecer inativo,
+
+637
+00:36:42,433 --> 00:36:44,241
+ele não pode acessar
+os poderes mentais.
+
+638
+00:36:44,241 --> 00:36:46,476
+Também um novo
+bloqueador de poderes
+
+639
+00:36:46,477 --> 00:36:48,574
+que evolui para acompanhar
+os poderes de Grodd.
+
+640
+00:36:48,574 --> 00:36:50,500
+Aliás, de nada.
+
+641
+00:36:50,933 --> 00:36:52,686
+Tudo pela segurança da cidade.
+
+642
+00:36:52,686 --> 00:36:54,205
+Falando em segurança da cidade,
+
+643
+00:36:54,205 --> 00:36:56,267
+não conseguiríamos sem o Shay.
+
+644
+00:36:56,654 --> 00:37:00,231
+Como o convenceram
+a voltar a ser o Tubarão-Rei?
+
+645
+00:37:00,232 --> 00:37:01,232
+Não convencemos.
+
+646
+00:37:01,967 --> 00:37:03,267
+Ele se voluntariou.
+
+647
+00:37:03,712 --> 00:37:06,106
+E nunca poderão transformá-lo
+de volta a humano?
+
+648
+00:37:06,106 --> 00:37:07,522
+Acho que não.
+
+649
+00:37:07,523 --> 00:37:10,851
+Então ele será o Tubarão-Rei
+para sempre?
+
+650
+00:37:21,281 --> 00:37:22,581
+Pois bem...
+
+651
+00:37:23,739 --> 00:37:25,786
+Os mocinhos venceram
+mais uma vez,
+
+652
+00:37:25,786 --> 00:37:28,922
+e, mesmo assim,
+você não parece comemorar.
+
+653
+00:37:28,922 --> 00:37:30,457
+Por que será?
+
+654
+00:37:30,457 --> 00:37:32,249
+Depois de tudo
+que aconteceu hoje,
+
+655
+00:37:33,085 --> 00:37:35,749
+eu me pergunto
+como isso afetará...
+
+656
+00:37:35,749 --> 00:37:37,249
+Seu relacionamento?
+
+657
+00:37:37,844 --> 00:37:40,238
+É uma grande questão.
+Tenho que admitir.
+
+658
+00:37:40,238 --> 00:37:41,538
+Mas quer saber?
+
+659
+00:37:41,949 --> 00:37:45,030
+Vocês vão dar um jeito.
+Vocês dois, juntos.
+
+660
+00:37:45,624 --> 00:37:47,862
+Se sim,
+nós vamos ter que te agradecer.
+
+661
+00:37:47,862 --> 00:37:50,033
+- Não.
+- Principalmente eu.
+
+662
+00:37:50,033 --> 00:37:53,013
+Não, eu não fiz nada.
+Não, tem razão, ajudei um pouco.
+
+663
+00:37:53,013 --> 00:37:55,297
+A questão aqui é:
+
+664
+00:37:55,297 --> 00:37:57,574
+seja aquilo um homem,
+um tubarão,
+
+665
+00:37:58,777 --> 00:38:00,769
+ou um homem-tubarão...
+
+666
+00:38:01,466 --> 00:38:05,696
+O coração quer
+o que o coração quer.
+
+667
+00:38:06,556 --> 00:38:08,907
+Portanto, você deve aceitar isso.
+
+668
+00:38:09,652 --> 00:38:12,847
+Parece que resolveu
+o maior mistério da vida.
+
+669
+00:38:12,847 --> 00:38:15,097
+Bom, é o que eu faço.
+
+670
+00:38:16,866 --> 00:38:18,166
+Se esse for o caso...
+
+671
+00:38:18,852 --> 00:38:20,300
+Espero que um dia...
+
+672
+00:38:20,300 --> 00:38:22,469
+você também ache
+aquilo que procura.
+
+673
+00:38:23,722 --> 00:38:25,522
+Talvez em outro sósia.
+
+674
+00:38:28,561 --> 00:38:29,561
+É claro.
+
+675
+00:38:32,986 --> 00:38:34,486
+Vou deixá-los a sós.
+
+676
+00:38:39,206 --> 00:38:43,120
+Tanya, você parece triste.
+
+677
+00:38:43,120 --> 00:38:44,420
+Por quê?
+
+678
+00:38:46,293 --> 00:38:48,088
+Encontramos
+um ao outro hoje,
+
+679
+00:38:48,089 --> 00:38:50,577
+e agora essa conexão...
+
+680
+00:38:50,577 --> 00:38:52,377
+Ainda está aqui.
+
+681
+00:38:53,881 --> 00:38:56,974
+Shay, o que você fez...
+
+682
+00:38:56,974 --> 00:39:01,157
+Eu faria de novo por você,
+meu amor.
+
+683
+00:39:30,099 --> 00:39:31,797
+Time to bend.
+
+684
+00:39:46,699 --> 00:39:51,215
+Tubarão-Rei vs. Gorila Grodd?
+Está zoando? Eu perdi isso?
+
+685
+00:39:53,580 --> 00:39:56,680
+MAS GRODD ODEIA BANANA
+
+686
+00:40:00,395 --> 00:40:04,187
+Tem certeza que não quer algo
+um pouco mais adulto?
+
+687
+00:40:04,726 --> 00:40:06,789
+Retire o que disse.
+
+688
+00:40:06,790 --> 00:40:09,863
+Este lanche é uma delícia,
+não importa a idade.
+
+689
+00:40:09,863 --> 00:40:13,515
+Pessoal, eu só...
+Jujuba de Peixe?
+
+690
+00:40:13,515 --> 00:40:14,815
+Eu adorava.
+
+691
+00:40:17,058 --> 00:40:20,413
+Sei que hoje foi uma loucura,
+
+692
+00:40:20,413 --> 00:40:22,842
+e queria ter certeza que estamos bem.
+
+693
+00:40:22,842 --> 00:40:25,165
+Sei que Grodd
+te fez disparar na minha cara,
+
+694
+00:40:25,165 --> 00:40:27,227
+mas eu também sei
+que meio que mereci.
+
+695
+00:40:27,973 --> 00:40:29,528
+O mesmo vale
+para ser congelado.
+
+696
+00:40:29,528 --> 00:40:31,828
+Eu não devia ter usado
+a cura como arma
+
+697
+00:40:31,828 --> 00:40:33,582
+e forçá-la no Tubarão-Rei.
+
+698
+00:40:34,086 --> 00:40:36,205
+Prometo que não irá se repetir.
+
+699
+00:40:40,405 --> 00:40:41,905
+Desculpas aceitas.
+
+700
+00:40:43,304 --> 00:40:44,604
+Goober.
+
+701
+00:40:45,366 --> 00:40:48,741
+E sabemos
+que teve algo bom hoje.
+
+702
+00:40:48,741 --> 00:40:50,635
+Sabemos
+que a cura meta-humana funciona.
+
+703
+00:40:50,635 --> 00:40:54,123
+Agora podemos usá-la para ajudar
+todos os metas em Central City
+
+704
+00:40:54,123 --> 00:40:55,623
+e além.
+
+705
+00:40:56,095 --> 00:40:58,408
+Talvez possamos começar
+com o Cicada.
+
+706
+00:41:00,808 --> 00:41:02,433
+Perdão. Como é que é?
+
+707
+00:41:02,433 --> 00:41:03,792
+Eu sei, eu só...
+
+708
+00:41:05,233 --> 00:41:08,408
+Pessoas podem te surpreender.
+Hoje me fez lembrar disso.
+
+709
+00:41:08,408 --> 00:41:11,432
+E como você tem dito,
+todos merecem uma escolha
+
+710
+00:41:11,433 --> 00:41:13,155
+para ser quem elas querem ser.
+
+711
+00:41:14,167 --> 00:41:15,667
+Isso inclui nossos inimigos.
+
+712
+00:41:17,175 --> 00:41:19,636
+Acho que deveríamos
+oferecer a cura ao Cicada.
+
+713
+00:41:19,637 --> 00:41:20,585
+Fb.com/EquipeLegends
+
+714
+00:41:22,073 --> 00:41:25,950
+<b>Resync:
+Legendei.com</b>
+
