@@ -1,6 +1,6 @@
 1
 00:00:10,009 --> 00:00:12,042
-Aqui est· ela.
+Aqui est√° ela.
 
 2
 00:00:12,043 --> 00:00:14,011
@@ -12,13 +12,13 @@ Oi.
 
 4
 00:00:15,471 --> 00:00:17,483
-VocÍ...
+Voc√™...
 Quer alguma coisa?
 
 5
 00:00:17,484 --> 00:00:19,517
 Que tal a minha
-vis„o de volta?
+vis√£o de volta?
 
 6
 00:00:20,853 --> 00:00:22,047
@@ -34,7 +34,7 @@ Quero ir para casa.
 
 9
 00:00:26,600 --> 00:00:28,511
-Todos nÛs
+Todos n√≥s
 queremos isso.
 
 10
@@ -45,11 +45,11 @@ porque...
 11
 00:00:32,064 --> 00:00:33,864
 A Patterson e o Rich
-vieram ver vocÍ.
+vieram ver voc√™.
 
 12
 00:00:33,865 --> 00:00:34,949
-- O quÍ?
+- O qu√™?
 - Oi.
 
 13
@@ -59,18 +59,18 @@ vieram ver vocÍ.
 
 14
 00:00:36,201 --> 00:00:39,069
-- VocÍ est· Ûtima!
-- Por que est· gritando?
+- Voc√™ est√° √≥tima!
+- Por que est√° gritando?
 
 15
 00:00:39,070 --> 00:00:42,125
-- Ela n„o est· surda.
+- Ela n√£o est√° surda.
 - Bom, talvez agora esteja.
 
 16
 00:00:42,126 --> 00:00:44,291
 Mas ainda tem senso de humor.
-O que È Ûtimo.
+O que √© √≥timo.
 
 17
 00:00:44,292 --> 00:00:45,800
@@ -79,7 +79,7 @@ Certo, sim.
 18
 00:00:45,801 --> 00:00:47,962
 Alguma pista sobre
-as cÈlulas-tronco?
+as c√©lulas-tronco?
 
 19
 00:00:47,963 --> 00:00:50,290
@@ -93,47 +93,47 @@ uma pista nos dispositivos.
 
 21
 00:00:52,672 --> 00:00:54,251
-Agora, Roman est·
+Agora, Roman est√°
 nos levando
 
 22
 00:00:54,252 --> 00:00:56,528
-‡ um bilion·rio
+√† um bilion√°rio
 chamado Ken Lee.
 
 23
 00:00:58,257 --> 00:01:00,922
-Ele tem sua prÛpria
-coleÁ„o mÈdica particular.
+Ele tem sua pr√≥pria
+cole√ß√£o m√©dica particular.
 
 24
 00:01:00,923 --> 00:01:03,260
-Incluindo as cÈlulas Stanton
-que podem curar vocÍ.
+Incluindo as c√©lulas Stanton
+que podem curar voc√™.
 
 25
 00:01:03,261 --> 00:01:04,979
-Ken tem as cÈlulas tronco
+Ken tem as c√©lulas tronco
 
 26
 00:01:04,980 --> 00:01:07,898
-porque ele È hipocondrÌaco,
-e agorÛfobo.
+porque ele √© hipocondr√≠aco,
+e agor√≥fobo.
 
 27
 00:01:07,899 --> 00:01:10,339
-Supostamente, n„o sai
-de sua casa h· anos.
+Supostamente, n√£o sai
+de sua casa h√° anos.
 
 28
 00:01:10,340 --> 00:01:13,304
-Ent„o, como... conseguimos
-as cÈlulas? Compramos?
+Ent√£o, como... conseguimos
+as c√©lulas? Compramos?
 
 29
 00:01:13,305 --> 00:01:15,470
-N„o, a menos que
-tenha 1 bilh„o sobrando.
+N√£o, a menos que
+tenha 1 bilh√£o sobrando.
 
 30
 00:01:15,471 --> 00:01:18,749
@@ -152,12 +152,12 @@ o que pudermos.
 
 33
 00:01:26,129 --> 00:01:29,163
-Um sistema aeron·utico
+Um sistema aeron√°utico
 chamado ARVO foi ativado.
 
 34
 00:01:29,164 --> 00:01:30,832
-ParabÈns?
+Parab√©ns?
 
 35
 00:01:30,833 --> 00:01:33,000
@@ -167,12 +167,12 @@ para explorar o ARVO
 36
 00:01:33,001 --> 00:01:34,836
 para derrubar
-um avi„o comercial.
+um avi√£o comercial.
 
 37
 00:01:34,837 --> 00:01:36,693
-Ent„o, retiro os
-parabÈns.
+Ent√£o, retiro os
+parab√©ns.
 
 38
 00:01:36,694 --> 00:01:38,222
@@ -181,7 +181,7 @@ a Bradley Dynamics,
 
 39
 00:01:38,223 --> 00:01:40,007
-a empresa respons·vel
+a empresa respons√°vel
 pelo ARVO,
 
 40
@@ -191,103 +191,103 @@ contratos deles.
 
 41
 00:01:41,713 --> 00:01:45,098
-Ainda n„o sabemos qual avi„o
-È o alvo dela. Ou quando.
+Ainda n√£o sabemos qual avi√£o
+√© o alvo dela. Ou quando.
 
 42
 00:01:45,099 --> 00:01:47,849
-Bom, n„o tenho
+Bom, n√£o tenho
 voado tanto mais,
 
 43
 00:01:47,850 --> 00:01:49,901
-por causa da pris„o
+por causa da pris√£o
 domiciliar, e tudo mais.
 
 44
 00:01:49,902 --> 00:01:52,904
-Mas se eu fosse vocÍ,
-pararia todos os aviıes.
+Mas se eu fosse voc√™,
+pararia todos os avi√µes.
 
 45
 00:01:52,905 --> 00:01:56,023
 Apenas parar toda
-a frota aÈrea?
+a frota a√©rea?
 
 46
 00:01:56,024 --> 00:01:57,859
-Sim, isso n„o acabaria
+Sim, isso n√£o acabaria
 com a economia global?
 
 47
 00:01:57,860 --> 00:01:59,861
-VocÍ me chamou para
+Voc√™ me chamou para
 pedir um conselho, eu...
 
 48
 00:01:59,862 --> 00:02:01,362
-N„o.
+N√£o.
 
 49
 00:02:01,363 --> 00:02:03,197
-NÛs trouxemos vocÍ aqui
+N√≥s trouxemos voc√™ aqui
 para um trabalho.
 
 50
 00:02:03,198 --> 00:02:05,583
-Uma miss„o disfarÁado.
+Uma miss√£o disfar√ßado.
 
 51
 00:02:05,584 --> 00:02:08,035
-Madeline est· esperando
+Madeline est√° esperando
 encontrar o hacker Del Toro.
 
 52
 00:02:08,136 --> 00:02:09,420
-VocÍ vai se passar pelo
-Del Toro, e sÛ ter· que
+Voc√™ vai se passar pelo
+Del Toro, e s√≥ ter√° que
 
 53
 00:02:09,421 --> 00:02:11,005
-descobrir qual voo È
+descobrir qual voo √©
 o alvo dela.
 
 54
 00:02:11,006 --> 00:02:12,373
-Eu tambÈm me
+Eu tamb√©m me
 passarei pela Maria,
 
 55
 00:02:12,374 --> 00:02:14,876
-È uma produÁ„o da Boise State
+√© uma produ√ß√£o da Boise State
 de "Amor, Sublime Amor"?
 
 56
 00:02:14,877 --> 00:02:16,276
-"Del Toro," sÈrio?
+"Del Toro," s√©rio?
 
 57
 00:02:16,277 --> 00:02:18,012
-Eu pareÁo com o Del Toro?
+Eu pare√ßo com o Del Toro?
 
 58
 00:02:18,013 --> 00:02:20,433
 Del Toro tem intermediadores.
-NinguÈm nunca o viu.
+Ningu√©m nunca o viu.
 
 59
 00:02:20,434 --> 00:02:21,849
-Se ninguÈm nunca o viu,
-ent„o por que eu?
+Se ningu√©m nunca o viu,
+ent√£o por que eu?
 
 60
 00:02:21,850 --> 00:02:23,470
-Por que n„o usar alguÈm
+Por que n√£o usar algu√©m
 do seu grupo?
 
 61
 00:02:23,471 --> 00:02:24,936
-Aquele cara l·.
+Aquele cara l√°.
 
 62
 00:02:24,937 --> 00:02:27,751
@@ -301,7 +301,7 @@ e com outra palavra
 
 64
 00:02:29,057 --> 00:02:30,830
-que tambÈm rima
+que tamb√©m rima
 com "witch."
 
 65
@@ -311,7 +311,7 @@ e ela sabe disso.
 
 66
 00:02:32,984 --> 00:02:34,396
-Madeline j· veio aqui.
+Madeline j√° veio aqui.
 
 67
 00:02:34,397 --> 00:02:36,030
@@ -320,16 +320,16 @@ excentricidade do Rich
 
 68
 00:02:36,031 --> 00:02:37,794
-talvez n„o seja o ideal
+talvez n√£o seja o ideal
 para Madeline.
 
 69
 00:02:37,795 --> 00:02:39,580
-Ela È bem peculiar.
+Ela √© bem peculiar.
 
 70
 00:02:39,581 --> 00:02:40,952
-Ela est· pegando leve.
+Ela est√° pegando leve.
 
 71
 00:02:40,953 --> 00:02:43,446
@@ -338,17 +338,17 @@ antecedente do Del Toro.
 
 72
 00:02:43,447 --> 00:02:46,185
-Ent„o È uma
-miss„o suicida?
+Ent√£o √© uma
+miss√£o suicida?
 
 73
 00:02:46,186 --> 00:02:49,803
-… por isso que estou indo?
-Sou dispens·vel?
+√â por isso que estou indo?
+Sou dispens√°vel?
 
 74
 00:02:49,804 --> 00:02:51,129
-N„o, obrigado!
+N√£o, obrigado!
 
 75
 00:02:51,130 --> 00:02:53,247
@@ -360,7 +360,7 @@ vai ganhar imunidade.
 
 77
 00:02:54,967 --> 00:02:57,051
-Sem pris„o domiciliar.
+Sem pris√£o domiciliar.
 Vamos limpar sua ficha.
 
 78
@@ -369,31 +369,31 @@ Meu Deus, gente.
 
 79
 00:03:00,673 --> 00:03:02,492
-Era sÛ comeÁar
+Era s√≥ come√ßar
 falando isso!
 
 80
 00:03:02,493 --> 00:03:05,127
 Certo.
-Qual È o plano?
+Qual √© o plano?
 
 81
 00:03:06,562 --> 00:03:08,095
-Est· vendo isso?
+Est√° vendo isso?
 
 82
 00:03:08,096 --> 00:03:10,310
-Madeline tem um idÍntico
+Madeline tem um id√™ntico
 na mesa dela.
 
 83
 00:03:10,311 --> 00:03:12,150
-Mas esse n„o È exatamente
+Mas esse n√£o √© exatamente
 um peso de papel.
 
 84
 00:03:12,151 --> 00:03:14,213
-… um dispositivo.
+√â um dispositivo.
 Eu sei.
 
 85
@@ -412,8 +412,8 @@ no computador da Madeline.
 
 88
 00:03:19,032 --> 00:03:20,354
-VocÍ sÛ precisa
-troc·-los.
+Voc√™ s√≥ precisa
+troc√°-los.
 
 89
 00:03:20,355 --> 00:03:21,659
@@ -437,12 +437,12 @@ que a Madeline
 
 93
 00:03:29,291 --> 00:03:30,966
-ir· testar as
+ir√° testar as
 suas habilidades.
 
 94
 00:03:30,967 --> 00:03:32,409
-Haver· um teste.
+Haver√° um teste.
 
 95
 00:03:32,410 --> 00:03:34,615
@@ -460,17 +460,17 @@ se lembram?
 98
 00:03:39,106 --> 00:03:40,565
 Madeline matou o
-˙ltimo hacker
+√∫ltimo hacker
 
 99
 00:03:40,566 --> 00:03:42,096
-que ela n„o gostou,
+que ela n√£o gostou,
 lembra?
 
 100
 00:03:42,097 --> 00:03:44,514
 Eu lembraria disso
-se fosse vocÍ.
+se fosse voc√™.
 
 101
 00:03:54,260 --> 00:03:56,944
@@ -489,25 +489,25 @@ Rich DotCom.
 104
 00:04:00,699 --> 00:04:02,149
 Sim.
-Nada contra vocÍ,
+Nada contra voc√™,
 
 105
 00:04:02,150 --> 00:04:03,939
-mas prefiro n„o
-apertar sua m„o.
+mas prefiro n√£o
+apertar sua m√£o.
 
 106
 00:04:03,940 --> 00:04:06,429
 Claro.
-Uma tradiÁ„o nojenta.
+Uma tradi√ß√£o nojenta.
 
 107
 00:04:08,374 --> 00:04:10,041
-Ent„o...
+Ent√£o...
 
 108
 00:04:10,042 --> 00:04:11,626
-Como posso ajud·-los?
+Como posso ajud√°-los?
 
 109
 00:04:11,627 --> 00:04:13,088
@@ -521,7 +521,7 @@ pedir um favor.
 111
 00:04:15,527 --> 00:04:17,048
 Uma de nossas agentes
-est· morrendo.
+est√° morrendo.
 
 112
 00:04:17,049 --> 00:04:19,133
@@ -529,12 +529,12 @@ Sinto muito por isso.
 
 113
 00:04:20,003 --> 00:04:21,560
-O nome dela È Jane.
+O nome dela √© Jane.
 
 114
 00:04:21,561 --> 00:04:23,966
-As cÈlulas-tronco
-que vocÍ tÍm
+As c√©lulas-tronco
+que voc√™ t√™m
 
 115
 00:04:23,967 --> 00:04:25,673
@@ -544,7 +544,7 @@ a vida dela.
 116
 00:04:25,674 --> 00:04:27,992
 Esperamos que
-considerasse do·-las.
+considerasse do√°-las.
 
 117
 00:04:27,993 --> 00:04:30,458
@@ -553,11 +553,11 @@ falando de recompensas.
 
 118
 00:04:30,459 --> 00:04:31,886
-E v·rios equipamentos.
+E v√°rios equipamentos.
 
 119
 00:04:31,887 --> 00:04:33,681
-Ou a prÛxima vez
+Ou a pr√≥xima vez
 que for ao FBI,
 
 120
@@ -566,50 +566,50 @@ pode encontrar
 
 121
 00:04:35,067 --> 00:04:38,582
-uma "Sala de ConferÍncias
+uma "Sala de Confer√™ncias
 Ken Lee."
 
 122
 00:04:38,583 --> 00:04:41,681
-Queria poder ajud·-los.
+Queria poder ajud√°-los.
 
 123
 00:04:41,682 --> 00:04:43,696
-Mas as cÈlulas-tronco
-s„o para mim.
+Mas as c√©lulas-tronco
+s√£o para mim.
 
 124
 00:04:43,697 --> 00:04:46,237
-Qual È, claramente vocÍ
-n„o precisa delas.
+Qual √©, claramente voc√™
+n√£o precisa delas.
 
 125
 00:04:46,238 --> 00:04:48,339
 - Mas posso precisar.
-- Sim, mas n„o precisa.
+- Sim, mas n√£o precisa.
 
 126
 00:04:48,340 --> 00:04:49,664
-Se n„o tem um mandado,
+Se n√£o tem um mandado,
 
 127
 00:04:49,665 --> 00:04:51,153
 gostaria que
-saÌssem.
+sa√≠ssem.
 
 128
 00:04:51,154 --> 00:04:52,333
-Falamos que ela est·
+Falamos que ela est√°
 morrendo, certo?
 
 129
 00:04:52,334 --> 00:04:54,035
-Entende que ela est·
+Entende que ela est√°
 morrendo?
 
 130
 00:04:54,036 --> 00:04:55,928
-- Rich, n„o...
+- Rich, n√£o...
 - As pessoas doam rins.
 
 131
@@ -624,12 +624,12 @@ os compram, pelo que eu ouvi.
 
 133
 00:04:59,410 --> 00:05:01,899
-Foi quase impossÌvel
-conseguir as cÈlulas.
+Foi quase imposs√≠vel
+conseguir as c√©lulas.
 
 134
 00:05:01,900 --> 00:05:03,126
-N„o vou do·-las
+N√£o vou do√°-las
 
 135
 00:05:03,127 --> 00:05:05,318
@@ -638,7 +638,7 @@ caridade que me pedirem.
 
 136
 00:05:06,182 --> 00:05:07,765
-E se dermos a vocÍ...
+E se dermos a voc√™...
 
 137
 00:05:07,766 --> 00:05:09,717
@@ -646,11 +646,11 @@ o Livro dos Segredos?
 
 138
 00:05:09,718 --> 00:05:11,052
-O quÍ?
+O qu√™?
 
 139
 00:05:11,053 --> 00:05:12,437
-N„o faÁo ideia
+N√£o fa√ßo ideia
 do que seja isso.
 
 140
@@ -659,12 +659,12 @@ Desculpa,
 
 141
 00:05:13,689 --> 00:05:16,841
-esse È o nosso
+esse √© o nosso
 nome interno.
 
 142
 00:05:16,842 --> 00:05:18,679
-Eu sei que j·
+Eu sei que j√°
 ouviu dele.
 
 143
@@ -674,7 +674,7 @@ Sul Americano
 
 144
 00:05:20,585 --> 00:05:22,702
-que contÈm milhares
+que cont√©m milhares
 de curas.
 
 145
@@ -688,7 +688,7 @@ Existem rumores, mas...
 147
 00:05:27,620 --> 00:05:29,420
 Ele existe,
-e nÛs temos ele.
+e n√≥s temos ele.
 
 148
 00:05:29,421 --> 00:05:32,193
@@ -697,7 +697,7 @@ troca simples.
 
 149
 00:05:32,742 --> 00:05:35,293
-As cÈlulas pelo Livro.
+As c√©lulas pelo Livro.
 
 150
 00:05:42,120 --> 00:05:44,251
@@ -715,12 +715,12 @@ posso aceitar.
 
 153
 00:05:50,092 --> 00:05:51,909
-Certo, vamos busc·-lo.
+Certo, vamos busc√°-lo.
 
 154
 00:05:51,910 --> 00:05:53,260
 - Sim.
-- Est·...
+- Est√°...
 
 155
 00:05:53,261 --> 00:05:55,096
@@ -729,25 +729,25 @@ fora do estado.
 
 156
 00:05:55,097 --> 00:05:56,230
-Um pouco difÌcil.
+Um pouco dif√≠cil.
 
 157
 00:05:56,231 --> 00:05:57,354
-Podemos trazÍ-lo
-para vocÍ em...
+Podemos traz√™-lo
+para voc√™ em...
 
 158
 00:05:57,355 --> 00:05:58,874
-48 horas, no m·ximo.
+48 horas, no m√°ximo.
 
 159
 00:05:58,875 --> 00:06:00,778
-Ou vocÍs tÍm ele, ou n„o.
+Ou voc√™s t√™m ele, ou n√£o.
 
 160
 00:06:00,779 --> 00:06:02,153
-Se n„o estiver em
-minhas m„os atÈ l·,
+Se n√£o estiver em
+minhas m√£os at√© l√°,
 
 161
 00:06:02,154 --> 00:06:03,487
@@ -759,12 +759,12 @@ Certo.
 
 163
 00:06:12,496 --> 00:06:13,912
-Tem algo que n„o
-est· me contando?
+Tem algo que n√£o
+est√° me contando?
 
 164
 00:06:13,913 --> 00:06:15,580
-N„o temos
+N√£o temos
 o Livro dos Segredos.
 
 165
@@ -809,27 +809,27 @@ blindspotbrasil.com.br</b>
 
 173
 00:06:31,059 --> 00:06:33,433
-VocÍ quebrou a maior regra
+Voc√™ quebrou a maior regra
 da barganha:
 
 174
 00:06:33,434 --> 00:06:35,302
-Nunca ofereÁa algo
-que n„o tem.
+Nunca ofere√ßa algo
+que n√£o tem.
 
 175
 00:06:35,303 --> 00:06:36,603
 Sabe de uma coisa,
-vocÍ devia agradecer
+voc√™ devia agradecer
 
 176
 00:06:36,604 --> 00:06:38,238
 porque de algum
-jeito, vocÍ
+jeito, voc√™
 
 177
 00:06:38,239 --> 00:06:40,040
-entrou na minha cabeÁa
+entrou na minha cabe√ßa
 e me convenceu
 
 178
@@ -843,28 +843,28 @@ Claro que existe!
 
 180
 00:06:42,510 --> 00:06:44,065
-O que eu n„o entendo
-È como vocÍ sabia
+O que eu n√£o entendo
+√© como voc√™ sabia
 
 181
 00:06:44,066 --> 00:06:45,278
 que Ken Lee iria
-querÍ-lo.
+quer√™-lo.
 
 182
 00:06:45,279 --> 00:06:47,247
-Ele È um milion·rio
-hipocondrÌaco
+Ele √© um milion√°rio
+hipocondr√≠aco
 
 183
 00:06:47,248 --> 00:06:48,982
 que coleciona
-raridades mÈdicas.
+raridades m√©dicas.
 
 184
 00:06:48,983 --> 00:06:52,011
 Eu arrisquei.
-E alÈm disso...
+E al√©m disso...
 
 185
 00:06:52,012 --> 00:06:54,224
@@ -883,22 +883,22 @@ As da sua pesquisa.
 
 188
 00:06:58,703 --> 00:07:01,295
-VocÍ leu meu livro?
-Minha obra de 1800 p·ginas?
+Voc√™ leu meu livro?
+Minha obra de 1800 p√°ginas?
 
 189
 00:07:01,296 --> 00:07:04,048
 - Eu... Olhei.
-- N„o, n„o, n„o, n„o.
+- N√£o, n√£o, n√£o, n√£o.
 
 190
 00:07:04,049 --> 00:07:05,222
-Com esse nÌvel de precis„o
-vocÍ mais que olhou.
+Com esse n√≠vel de precis√£o
+voc√™ mais que olhou.
 
 191
 00:07:05,223 --> 00:07:07,010
-- VocÍ leu.
+- Voc√™ leu.
 - Ok, calma.
 
 192
@@ -908,18 +908,18 @@ vocÍ mais que olhou.
 
 193
 00:07:08,219 --> 00:07:09,261
-VocÍ tambÈm
+Voc√™ tamb√©m
 fez fichas?
 
 194
 00:07:09,262 --> 00:07:10,560
-SÛ li essa
+S√≥ li essa
 porcaria porque
 
 195
 00:07:10,561 --> 00:07:13,439
-os dispositivos est„o nos mandando
-em direÁ„o ao Livro dos Segredos.
+os dispositivos est√£o nos mandando
+em dire√ß√£o ao Livro dos Segredos.
 
 196
 00:07:13,440 --> 00:07:14,865
@@ -928,26 +928,26 @@ acreditava que ele tinha
 
 197
 00:07:14,866 --> 00:07:15,983
-a cura da doenÁa do ZIP,
+a cura da doen√ßa do ZIP,
 
 198
 00:07:15,984 --> 00:07:16,986
-para vocÍ que
-est· chegando.
+para voc√™ que
+est√° chegando.
 
 199
 00:07:16,987 --> 00:07:19,165
-N„o, n„o, n„o, n„o, n„o.
-AÌ vocÍ se engana.
+N√£o, n√£o, n√£o, n√£o, n√£o.
+A√≠ voc√™ se engana.
 
 200
 00:07:19,166 --> 00:07:21,233
 Eu acho que Roman
-est· nos levando ‡ ele,
+est√° nos levando √† ele,
 
 201
 00:07:21,234 --> 00:07:23,185
-n„o porque contÈm
+n√£o porque cont√©m
 algo valioso,
 
 202
@@ -958,11 +958,11 @@ ser usado
 203
 00:07:24,938 --> 00:07:26,686
 para trocar pelas
-cÈlulas-tronco.
+c√©lulas-tronco.
 
 204
 00:07:26,687 --> 00:07:28,353
-… um meio para o fim.
+√â um meio para o fim.
 
 205
 00:07:28,354 --> 00:07:30,133
@@ -972,7 +972,7 @@ sobre Ken Lee.
 206
 00:07:30,134 --> 00:07:32,660
 E ele sabia que Ken
-tinha as cÈlulas...
+tinha as c√©lulas...
 
 207
 00:07:32,661 --> 00:07:34,341
@@ -991,12 +991,12 @@ o livro, ok?
 
 210
 00:07:37,917 --> 00:07:39,051
-SÛ porque est· falando
+S√≥ porque est√° falando
 em espanhol
 
 211
 00:07:39,052 --> 00:07:40,918
-n„o deixa
+n√£o deixa
 "mais interessante".
 
 212
@@ -1006,21 +1006,21 @@ com Reade
 
 213
 00:07:42,038 --> 00:07:43,689
-e o convencer ‡
+e o convencer √†
 usar os recursos do FBI
 
 214
 00:07:43,690 --> 00:07:45,339
-numa caÁa ao tesouro.
+numa ca√ßa ao tesouro.
 
 215
 00:07:45,340 --> 00:07:47,608
-N„o se preocupe,
+N√£o se preocupe,
 Patty-Maionese.
 
 216
 00:07:47,609 --> 00:07:50,010
-Eu tenho uma apresentaÁ„o
+Eu tenho uma apresenta√ß√£o
 de Powerpoint. Venha.
 
 217
@@ -1039,57 +1039,57 @@ para falar sobre a cura
 220
 00:07:58,811 --> 00:08:02,614
 que eu encontrei,
-h· meses, para a Jane.
+h√° meses, para a Jane.
 
 221
 00:08:02,615 --> 00:08:06,652
-O Livro dos Segredos È
+O Livro dos Segredos √©
 um mito perdido
 
 222
 00:08:06,653 --> 00:08:09,688
-que contÈm milhares
-de curas em v·rias lÌnguas.
+que cont√©m milhares
+de curas em v√°rias l√≠nguas.
 
 223
 00:08:09,689 --> 00:08:13,625
-Espanhol, QuÌchua,
+Espanhol, Qu√≠chua,
 Aymara, Mapudugun...
 
 224
 00:08:13,626 --> 00:08:15,727
-Entendemos. Por que sÛ estou
+Entendemos. Por que s√≥ estou
 sabendo disso hoje?
 
 225
 00:08:15,728 --> 00:08:17,682
-Porque n„o est·
-sÛ cheio de curas.
+Porque n√£o est√°
+s√≥ cheio de curas.
 
 226
 00:08:17,683 --> 00:08:19,848
-Seu ˙nico valor
-est· no fato que...
+Seu √∫nico valor
+est√° no fato que...
 
 227
 00:08:19,849 --> 00:08:22,968
-GostarÌamos de troc·-lo
-pelas cÈlulas-tronco do Ken.
+Gostar√≠amos de troc√°-lo
+pelas c√©lulas-tronco do Ken.
 
 228
 00:08:22,969 --> 00:08:25,304
-Como trocaremos se n„o
-sabemos onde est·?
+Como trocaremos se n√£o
+sabemos onde est√°?
 
 229
 00:08:25,305 --> 00:08:27,268
-Talvez vocÍ
-n„o saiba, Afreen,
+Talvez voc√™
+n√£o saiba, Afreen,
 
 230
 00:08:27,269 --> 00:08:29,623
 mas eu tenho
-v·rios palpites.
+v√°rios palpites.
 
 231
 00:08:29,624 --> 00:08:31,696
@@ -1098,20 +1098,20 @@ Porque eu ouvi
 
 232
 00:08:31,697 --> 00:08:32,810
-- vocÍs no laboratÛrio...
-- Por que est· sendo assim?
+- voc√™s no laborat√≥rio...
+- Por que est√° sendo assim?
 
 233
 00:08:32,811 --> 00:08:33,758
-Onde est·, Rich?
+Onde est√°, Rich?
 
 234
 00:08:33,759 --> 00:08:35,047
-Acredito que est·
+Acredito que est√°
 
 235
 00:08:35,048 --> 00:08:36,741
-em uma das AmÈricas.
+em uma das Am√©ricas.
 
 236
 00:08:36,742 --> 00:08:39,420
@@ -1120,8 +1120,8 @@ Talvez do Norte.
 
 237
 00:08:39,421 --> 00:08:41,693
-- Ent„o, sem palpite.
-- N„o! N„o, n„o.
+- Ent√£o, sem palpite.
+- N√£o! N√£o, n√£o.
 
 238
 00:08:41,694 --> 00:08:43,960
@@ -1130,7 +1130,7 @@ Eu tenho uma pista!
 
 239
 00:08:43,961 --> 00:08:45,649
-TrÍs exploradores:
+Tr√™s exploradores:
 
 240
 00:08:45,650 --> 00:08:47,860
@@ -1154,8 +1154,8 @@ e Chile.
 
 244
 00:08:54,117 --> 00:08:55,806
-Esses s„o paÌses, Rich.
-Grandes paÌses.
+Esses s√£o pa√≠ses, Rich.
+Grandes pa√≠ses.
 
 245
 00:08:55,807 --> 00:08:57,453
@@ -1163,22 +1163,22 @@ Sim, mas eu reduzi para
 
 246
 00:08:57,454 --> 00:08:59,806
-regiıes naqueles paÌses
+regi√µes naqueles pa√≠ses
 usando seus desenhos.
 
 247
 00:08:59,807 --> 00:09:02,025
-VocÍ viu aqueles pilares?
+Voc√™ viu aqueles pilares?
 
 248
 00:09:02,026 --> 00:09:03,760
-E diagramas especÌficos
-de cada regi„o?
+E diagramas espec√≠ficos
+de cada regi√£o?
 
 249
 00:09:03,761 --> 00:09:05,278
 Espere, volte para
-a ˙ltima imagem.
+a √∫ltima imagem.
 
 250
 00:09:05,279 --> 00:09:07,363
@@ -1186,16 +1186,16 @@ Aquela com as frutas.
 
 251
 00:09:07,364 --> 00:09:09,715
-Ah, n„o s„o frutas.
+Ah, n√£o s√£o frutas.
 
 252
 00:09:09,716 --> 00:09:11,804
-S„o sementes venenosas
+S√£o sementes venenosas
 da fruta de cherimoya,
 
 253
 00:09:11,805 --> 00:09:13,503
-conhecidas tambÈm
+conhecidas tamb√©m
 como frutas-do-conde.
 
 254
@@ -1206,12 +1206,12 @@ Ele a usou...
 255
 00:09:14,838 --> 00:09:16,122
 Meu Deus,
-eu sei onde est·!
+eu sei onde est√°!
 
 256
 00:09:16,123 --> 00:09:17,473
-VocÍ pode...
-O quÍ?
+Voc√™ pode...
+O qu√™?
 
 257
 00:09:17,474 --> 00:09:19,442
@@ -1220,7 +1220,7 @@ meu foco.
 
 258
 00:09:20,845 --> 00:09:22,378
-Ok, o que vocÍ tem?
+Ok, o que voc√™ tem?
 
 259
 00:09:22,379 --> 00:09:24,180
@@ -1229,7 +1229,7 @@ Aqui, olhe.
 260
 00:09:24,181 --> 00:09:26,149
 Existem sementes
-idÍnticas
+id√™nticas
 
 261
 00:09:26,150 --> 00:09:27,450
@@ -1243,44 +1243,44 @@ frutas,
 
 263
 00:09:28,796 --> 00:09:30,114
-atÈ ver sua
-apresentaÁ„o.
+at√© ver sua
+apresenta√ß√£o.
 
 264
 00:09:30,115 --> 00:09:32,029
-Tudo o que ouÁo È:
-Rich, seu gÍnio sexy,
+Tudo o que ou√ßo √©:
+Rich, seu g√™nio sexy,
 
 265
 00:09:32,030 --> 00:09:33,238
-vocÍ resolveu de novo.
+voc√™ resolveu de novo.
 
 266
 00:09:33,239 --> 00:09:35,691
-VocÍ me deu o contexto.
-Est· vendo?
+Voc√™ me deu o contexto.
+Est√° vendo?
 
 267
 00:09:36,792 --> 00:09:37,992
-IdÍnticas.
+Id√™nticas.
 
 268
 00:09:37,993 --> 00:09:39,593
-N„o, s„o quase idÍnticas.
+N√£o, s√£o quase id√™nticas.
 
 269
 00:09:39,594 --> 00:09:41,929
 Roman quer que
-encontremos as diferenÁas.
+encontremos as diferen√ßas.
 
 270
 00:09:41,930 --> 00:09:44,432
-A principal diferenÁa, È que a
+A principal diferen√ßa, √© que a
 imagem do Roman
 
 271
 00:09:44,433 --> 00:09:46,333
-est· sobreposta em
+est√° sobreposta em
 uma grade.
 
 272
@@ -1300,16 +1300,16 @@ nos dizendo para colorir
 275
 00:09:53,779 --> 00:09:56,249
 todos os quadrados
-com diferenÁas?
+com diferen√ßas?
 
 276
 00:09:56,250 --> 00:09:58,672
-Ok, temos um ‡ dois
+Ok, temos um √† dois
 quadrados do topo,
 
 277
 00:09:58,673 --> 00:10:00,765
-trÍs ‡ esquerda,
+tr√™s √† esquerda,
 quatro da base.
 
 278
@@ -1323,7 +1323,7 @@ a quatro da direita.
 
 280
 00:10:03,835 --> 00:10:05,670
-H· um padr„o aqui.
+H√° um padr√£o aqui.
 
 281
 00:10:05,671 --> 00:10:07,138
@@ -1332,12 +1332,12 @@ nossos dados,
 
 282
 00:10:07,139 --> 00:10:09,140
-e arquivos histÛricos,
+e arquivos hist√≥ricos,
 centralizando a pesquisa
 
 283
 00:10:09,141 --> 00:10:10,608
-na AmÈrica do Sul.
+na Am√©rica do Sul.
 
 284
 00:10:10,609 --> 00:10:12,320
@@ -1346,45 +1346,45 @@ E temos um resultado.
 285
 00:10:13,112 --> 00:10:14,512
 Os quadrados coloridos
-s„o idÍnticos
+s√£o id√™nticos
 
 286
 00:10:14,513 --> 00:10:15,579
-aos adereÁos
+aos adere√ßos
 nas portas
 
 287
 00:10:15,580 --> 00:10:17,515
-da BasÌlica Catedral
+da Bas√≠lica Catedral
 
 288
 00:10:17,516 --> 00:10:19,283
-da Virgem da AssunÁ„o.
+da Virgem da Assun√ß√£o.
 
 289
 00:10:19,284 --> 00:10:22,253
-TambÈm conhecida como
+Tamb√©m conhecida como
 Catedral de Cusco, no Peru.
 
 290
 00:10:22,254 --> 00:10:24,809
 Ei, seu pressentimento da
-AmÈrica n„o estava errado.
+Am√©rica n√£o estava errado.
 
 291
 00:10:24,810 --> 00:10:26,711
 Meu Deus.
-Eu sou incrÌvel!
+Eu sou incr√≠vel!
 
 292
 00:10:27,610 --> 00:10:29,610
 Espere, Roman foi ainda
-mais especÌfico.
+mais espec√≠fico.
 
 293
 00:10:29,611 --> 00:10:31,745
 Todos esses quadrados
-s„o coloridos na porta
+s√£o coloridos na porta
 
 294
 00:10:31,746 --> 00:10:33,914
@@ -1392,12 +1392,12 @@ menos esse.
 
 295
 00:10:33,915 --> 00:10:36,317
-Ele est· destacando o canto
+Ele est√° destacando o canto
 inferior direita na grade.
 
 296
 00:10:36,318 --> 00:10:37,618
-Ele est· tentando
+Ele est√° tentando
 nos fazer olhar
 
 297
@@ -1406,7 +1406,7 @@ para a base da Catedral?
 
 298
 00:10:41,122 --> 00:10:42,723
-… onde est· o
+√â onde est√° o
 Livro dos Segredos.
 
 299
@@ -1420,28 +1420,28 @@ Livro dos Segredos!
 
 301
 00:10:47,598 --> 00:10:50,030
-- O quÍ?
-- … "Ol·, Livro dos Segredos" em QuÌchua,
+- O qu√™?
+- √â "Ol√°, Livro dos Segredos" em Qu√≠chua,
 
 302
 00:10:50,031 --> 00:10:51,834
-Uma lÌngua indÌgena
+Uma l√≠ngua ind√≠gena
 dos Andes. Veja...
 
 303
 00:10:51,835 --> 00:10:54,428
-- Eu falo com Reade. VocÍ fala com Weller.
+- Eu falo com Reade. Voc√™ fala com Weller.
 - Ok.
 
 304
 00:10:56,404 --> 00:10:58,145
 Como assim
-vocÍ n„o vem?
+voc√™ n√£o vem?
 
 305
 00:10:58,146 --> 00:11:00,545
-N„o vou deix·-la.
-N„o vou.
+N√£o vou deix√°-la.
+N√£o vou.
 
 306
 00:11:00,546 --> 00:11:03,437
@@ -1455,12 +1455,12 @@ encontrarmos esse livro,
 
 308
 00:11:04,946 --> 00:11:06,599
-- mais r·pido teremos as cÈlulas...
+- mais r√°pido teremos as c√©lulas...
 - Desculpe. Patterson!
 
 309
 00:11:06,600 --> 00:11:08,333
-Eu confio em vocÍ
+Eu confio em voc√™
 e no Rich.
 
 310
@@ -1470,25 +1470,25 @@ Bem, se o livro existe,
 311
 00:11:11,008 --> 00:11:12,603
 tenho certeza de
-que ir„o encontr·-lo.
+que ir√£o encontr√°-lo.
 
 312
 00:11:12,604 --> 00:11:13,988
-Se n„o existir...
+Se n√£o existir...
 
 313
 00:11:13,989 --> 00:11:16,770
-Se esses s„o os
-˙ltimos dias da Jane...
+Se esses s√£o os
+√∫ltimos dias da Jane...
 
 314
 00:11:16,771 --> 00:11:20,027
-N„o quero desperdiÁ·-los
+N√£o quero desperdi√ß√°-los
 perseguindo um conto de fadas.
 
 315
 00:11:20,028 --> 00:11:22,622
-Eu quero pass·-los
+Eu quero pass√°-los
 com ela.
 
 316
@@ -1497,12 +1497,12 @@ Kurt, ela vai conseguir.
 
 317
 00:11:26,243 --> 00:11:28,548
-NinguÈm È mais
+Ningu√©m √© mais
 forte que a Jane.
 
 318
 00:11:28,549 --> 00:11:29,866
-N„o vou deix·-la.
+N√£o vou deix√°-la.
 
 319
 00:11:31,607 --> 00:11:32,840
@@ -1518,13 +1518,13 @@ Ei, Patterson.
 
 322
 00:11:37,822 --> 00:11:40,508
-VocÍ realmente acha que
-È nossa melhor chance?
+Voc√™ realmente acha que
+√© nossa melhor chance?
 
 323
 00:11:40,509 --> 00:11:42,483
 Vamos conseguir
-aquelas cÈlulas.
+aquelas c√©lulas.
 
 324
 00:11:43,278 --> 00:11:44,644
@@ -1532,27 +1532,27 @@ Eu prometo.
 
 325
 00:11:50,009 --> 00:11:51,375
-N„o vai acontecer.
+N√£o vai acontecer.
 
 326
 00:11:51,376 --> 00:11:53,879
-Ah qual È! Precisamos do
-jatinho do escritÛrio.
+Ah qual √©! Precisamos do
+jatinho do escrit√≥rio.
 
 327
 00:11:53,880 --> 00:11:55,714
 Nunca ouviu falar do
-termo "luxo necess·rio"?
+termo "luxo necess√°rio"?
 
 328
 00:11:55,715 --> 00:11:57,883
-- N„o.
-- Eu sei que est· mentindo.
+- N√£o.
+- Eu sei que est√° mentindo.
 
 329
 00:11:57,884 --> 00:11:59,843
-TambÈm sei que o
-jet lag È prejudicial
+Tamb√©m sei que o
+jet lag √© prejudicial
 
 330
 00:11:59,844 --> 00:12:01,637
@@ -1561,13 +1561,13 @@ da mente humana!
 
 331
 00:12:01,638 --> 00:12:03,388
-… um fuso hor·rio
+√â um fuso hor√°rio
 de uma hora
 
 332
 00:12:03,389 --> 00:12:05,390
 - entre aqui e Cusco.
-- Sim, mas È um vÙo longo.
+- Sim, mas √© um v√¥o longo.
 
 333
 00:12:05,391 --> 00:12:06,690
@@ -1576,8 +1576,8 @@ da primeira classe.
 
 334
 00:12:06,691 --> 00:12:07,758
-Colchıes planos.
-E acomodaÁıes
+Colch√µes planos.
+E acomoda√ß√µes
 
 335
 00:12:07,759 --> 00:12:09,204
@@ -1595,17 +1595,17 @@ dormir na rua?
 
 338
 00:12:13,878 --> 00:12:15,799
-Pegar alguÈm em um bar e
+Pegar algu√©m em um bar e
 ir para casa com ele? Quer dizer,
 
 339
 00:12:15,800 --> 00:12:17,434
 - eu farei isso, parece divertido.
-- VocÍ n„o vai dormir em lugar nenhum.
+- Voc√™ n√£o vai dormir em lugar nenhum.
 
 340
 00:12:17,435 --> 00:12:18,585
-VocÍ vai ‡ catedral,
+Voc√™ vai √† catedral,
 pega o livro,
 
 341
@@ -1616,12 +1616,12 @@ Entendido?
 342
 00:12:20,370 --> 00:12:21,672
 - Ok.
-- AlÈm disso, È uma miss„o n„o-autorizada.
+- Al√©m disso, √© uma miss√£o n√£o-autorizada.
 
 343
 00:12:21,673 --> 00:12:23,757
 Espere, o que?
-Por quÍ?
+Por qu√™?
 
 344
 00:12:23,758 --> 00:12:25,275
@@ -1631,7 +1631,7 @@ do Peru
 345
 00:12:25,276 --> 00:12:26,410
 criou uma
-forÁa-tarefa
+for√ßa-tarefa
 
 346
 00:12:26,411 --> 00:12:28,058
@@ -1640,8 +1640,8 @@ o roubo de artefatos.
 
 347
 00:12:28,059 --> 00:12:29,546
-… ilegal tirar qualquer
-coisa do paÌs,
+√â ilegal tirar qualquer
+coisa do pa√≠s,
 
 348
 00:12:29,547 --> 00:12:31,315
@@ -1650,13 +1650,13 @@ supondo que ele exista.
 
 349
 00:12:31,316 --> 00:12:33,003
-N„o podem abrir
-uma exceÁ„o?
+N√£o podem abrir
+uma exce√ß√£o?
 
 350
 00:12:33,004 --> 00:12:34,934
-N„o no prazo
-que nÛs temos.
+N√£o no prazo
+que n√≥s temos.
 
 351
 00:12:34,935 --> 00:12:36,706
@@ -1666,11 +1666,11 @@ precisa aprovar,
 352
 00:12:36,707 --> 00:12:38,848
 o que leva meses, e eu duvido
-que nÛs conseguirÌamos.
+que n√≥s conseguir√≠amos.
 
 353
 00:12:38,849 --> 00:12:40,675
-Eu sÛ estou confort·vel
+Eu s√≥ estou confort√°vel
 com tudo isso,
 
 354
@@ -1680,7 +1680,7 @@ a vida da Jane.
 
 355
 00:12:42,044 --> 00:12:43,845
-Ent„o est· dizendo
+Ent√£o est√° dizendo
 para nos protegermos?
 
 356
@@ -1709,8 +1709,8 @@ dependam disso.
 
 361
 00:12:52,455 --> 00:12:54,556
-E uma p·.
-Eu vou precisar de uma p·.
+E uma p√°.
+Eu vou precisar de uma p√°.
 
 362
 00:13:08,153 --> 00:13:10,053
@@ -1719,7 +1719,7 @@ Uma ajudinha seria legal.
 
 363
 00:13:10,054 --> 00:13:12,105
-J· que foi vocÍ que
+J√° que foi voc√™ que
 encheu demais a mala.
 
 364
@@ -1730,7 +1730,7 @@ nosso disfarce
 365
 00:13:14,425 --> 00:13:15,992
 como turistas americanos, ok?
-Ent„o, de nada.
+Ent√£o, de nada.
 
 366
 00:13:15,993 --> 00:13:17,694
@@ -1747,17 +1747,17 @@ Ah, monara.
 
 369
 00:13:33,762 --> 00:13:35,545
-… uma combinaÁ„o
+√â uma combina√ß√£o
 perfeita.
 
 370
 00:13:36,714 --> 00:13:38,365
-Est· sentindo
+Est√° sentindo
 esse cheiro?
 
 371
 00:13:38,366 --> 00:13:40,037
-… o Livro Dos Segredos.
+√â o Livro Dos Segredos.
 
 372
 00:13:40,038 --> 00:13:41,518
@@ -1766,54 +1766,54 @@ disse que
 
 373
 00:13:41,519 --> 00:13:42,669
-a ·rea sudeste
-desse prÈdio
+a √°rea sudeste
+desse pr√©dio
 
 374
 00:13:42,670 --> 00:13:44,421
-È um lugar perfeito
+√© um lugar perfeito
 para fotos!
 
 375
 00:13:44,422 --> 00:13:47,357
-- Por que vocÍ est· gritando?
-- ”tima ideia!
+- Por que voc√™ est√° gritando?
+- √ìtima ideia!
 
 376
 00:14:00,997 --> 00:14:02,506
-… outra pista!
+√â outra pista!
 
 377
 00:14:02,507 --> 00:14:04,794
-SÈrio?
+S√©rio?
 
 378
 00:14:04,795 --> 00:14:06,202
-Jane est· morrendo.
-N„o temos tempo
+Jane est√° morrendo.
+N√£o temos tempo
 
 379
 00:14:06,203 --> 00:14:08,173
 para resolver outro
-quebra-cabeÁa.
+quebra-cabe√ßa.
 
 380
 00:14:08,174 --> 00:14:09,659
-Bom, È melhor
+Bom, √© melhor
 nos apressarmos,
 
 381
 00:14:09,660 --> 00:14:11,457
 porque algo me diz que
-isso È sÛ o comeÁo.
+isso √© s√≥ o come√ßo.
 
 382
 00:14:19,991 --> 00:14:21,125
-VocÍs pegaram o livro?
+Voc√™s pegaram o livro?
 
 383
 00:14:21,126 --> 00:14:23,761
-Ainda n„o.
+Ainda n√£o.
 Estamos na catedral.
 
 384
@@ -1844,7 +1844,7 @@ de serpentes,
 389
 00:14:33,789 --> 00:14:35,723
 ou talvez uma caverna.
-ExploraÁ„o de cavernas!
+Explora√ß√£o de cavernas!
 
 390
 00:14:35,724 --> 00:14:37,692
@@ -1858,26 +1858,26 @@ compatibilidade.
 
 392
 00:14:38,861 --> 00:14:40,027
-… um mural.
+√â um mural.
 
 393
 00:14:40,028 --> 00:14:41,662
 Uma pintura rupestre,
-È isso!
+√© isso!
 
 394
 00:14:41,663 --> 00:14:43,698
-N„o, È um mural
+N√£o, √© um mural
 na parede
 
 395
 00:14:43,699 --> 00:14:44,766
-de uma pens„o
+de uma pens√£o
 da cidade.
 
 396
 00:14:44,767 --> 00:14:46,234
-Ah, n„o...
+Ah, n√£o...
 
 397
 00:14:46,235 --> 00:14:47,602
@@ -1886,22 +1886,22 @@ isso de novo.
 
 398
 00:14:47,603 --> 00:14:49,221
-Estamos em uma Èpica
-aventura enigm·tica,
+Estamos em uma √©pica
+aventura enigm√°tica,
 
 399
 00:14:49,222 --> 00:14:50,588
-isso n„o È
+isso n√£o √©
 "Sob o Sol da Toscana".
 
 400
 00:14:50,589 --> 00:14:51,990
-N„o, ignore ele.
+N√£o, ignore ele.
 
 401
 00:14:51,991 --> 00:14:53,224
 Tenho certeza de que o
-que achou est· certo.
+que achou est√° certo.
 
 402
 00:14:53,225 --> 00:14:54,559
@@ -1909,7 +1909,7 @@ Pode me contar mais?
 
 403
 00:14:54,560 --> 00:14:56,160
-A pens„o se chama
+A pens√£o se chama
 "De La Sol" e fica
 
 404
@@ -1919,12 +1919,12 @@ numa casa velha.
 
 405
 00:14:57,329 --> 00:14:58,997
-… uma antiga casa
+√â uma antiga casa
 mal-assombrada, pelo menos?
 
 406
 00:14:58,998 --> 00:15:01,065
-Me dÍ algo interessante
+Me d√™ algo interessante
 para trabalhar aqui.
 
 407
@@ -1933,12 +1933,12 @@ Obrigada, pessoal.
 
 408
 00:15:02,735 --> 00:15:04,502
-Me enviem o endereÁo,
+Me enviem o endere√ßo,
 os manteremos atualizado.
 
 409
 00:15:15,048 --> 00:15:17,849
-Tasha, atÈ que enfim.
+Tasha, at√© que enfim.
 Eu imagino
 
 410
@@ -1948,12 +1948,12 @@ Eu imagino
 
 411
 00:15:20,269 --> 00:15:23,107
-- Eu ouvi Ûtimas coisas.
-- Que coincidÍncia.
+- Eu ouvi √≥timas coisas.
+- Que coincid√™ncia.
 
 412
 00:15:23,108 --> 00:15:24,702
-Eu j· fiz Ûtimas coisas.
+Eu j√° fiz √≥timas coisas.
 
 413
 00:15:24,703 --> 00:15:26,317
@@ -1961,56 +1961,56 @@ Vamos ver.
 
 414
 00:15:27,160 --> 00:15:29,525
-Eu n„o acredito
-muito em referÍncias.
+Eu n√£o acredito
+muito em refer√™ncias.
 
 415
 00:15:29,526 --> 00:15:31,119
-Uma avaliaÁ„o, talvez?
+Uma avalia√ß√£o, talvez?
 
 416
 00:15:31,120 --> 00:15:33,472
-Claro. Onde est„o
+Claro. Onde est√£o
 meus equipamentos?
 
 417
 00:15:33,473 --> 00:15:34,651
 - Aqui?
-- N„o.
+- N√£o.
 
 418
 00:15:34,652 --> 00:15:37,538
-Esse È o meu computador.
-Suas coisas est„o ali.
+Esse √© o meu computador.
+Suas coisas est√£o ali.
 
 419
 00:15:38,974 --> 00:15:42,743
-Isso n„o È muito...
+Isso n√£o √© muito...
 Anos 2000?
 
 420
 00:15:42,744 --> 00:15:45,207
-Um artes„o nunca
+Um artes√£o nunca
 culpa suas ferramentas.
 
 421
 00:15:45,208 --> 00:15:47,176
-Se vocÍ È t„o bom como diz,
-vocÍ vai conseguir
+Se voc√™ √© t√£o bom como diz,
+voc√™ vai conseguir
 
 422
 00:15:47,177 --> 00:15:49,612
-usar perfeitamente essa m·quina
+usar perfeitamente essa m√°quina
 
 423
 00:15:49,613 --> 00:15:52,948
-para acessar os depÛsitos
-para o banco l· embaixo.
+para acessar os dep√≥sitos
+para o banco l√° embaixo.
 
 424
 00:15:54,285 --> 00:15:58,662
-Eles supervisionam $6 milhıes em
-transferÍncias todas as tardes.
+Eles supervisionam $6 milh√µes em
+transfer√™ncias todas as tardes.
 
 425
 00:15:58,663 --> 00:16:01,791
@@ -2034,22 +2034,22 @@ Tasha.
 429
 00:16:32,035 --> 00:16:35,236
 Ei, Afreen estava certa.
-Ali est· o mural.
+Ali est√° o mural.
 
 430
 00:16:39,574 --> 00:16:41,440
-… uma pens„o,
+√â uma pens√£o,
 grande coisa.
 
 431
 00:16:41,441 --> 00:16:44,177
-Isso È alfajor?
+Isso √© alfajor?
 Sim, por favor.
 
 432
 00:16:45,814 --> 00:16:47,380
-Olhe a lÌngua da cobra.
-… uma seta.
+Olhe a l√≠ngua da cobra.
+√â uma seta.
 
 433
 00:16:47,381 --> 00:16:49,015
@@ -2063,7 +2063,7 @@ Vamos verificar
 435
 00:16:50,150 --> 00:16:51,300
 e depois procurar a
-prÛxima pista.
+pr√≥xima pista.
 
 436
 00:16:52,704 --> 00:16:54,761
@@ -2072,7 +2072,7 @@ Como posso ajudar?
 
 437
 00:16:54,762 --> 00:16:56,122
-NÛs adorarÌamos
+N√≥s adorar√≠amos
 reservar um quarto.
 
 438
@@ -2082,29 +2082,29 @@ Me desculpem.
 439
 00:16:57,875 --> 00:17:00,827
 Acabei de reservar
-o ˙ltimo quarto.
+o √∫ltimo quarto.
 
 440
 00:17:00,828 --> 00:17:03,713
-N„o, nÛs...
-NÛs devemos...
+N√£o, n√≥s...
+N√≥s devemos...
 
 441
 00:17:03,714 --> 00:17:05,198
-NÛs temos uma
+N√≥s temos uma
 reserva.
 
 442
 00:17:05,199 --> 00:17:07,024
-Para hoje ‡ noite?
+Para hoje √† noite?
 
 443
 00:17:07,769 --> 00:17:09,157
-Como vocÍs agendaram?
+Como voc√™s agendaram?
 
 444
 00:17:09,871 --> 00:17:11,838
-Ah, n„o.
+Ah, n√£o.
 
 445
 00:17:11,839 --> 00:17:13,783
@@ -2126,7 +2126,7 @@ Um idiota?
 
 449
 00:17:21,748 --> 00:17:23,616
-NÛs estamos em
+N√≥s estamos em
 lua de mel, e eu devia
 
 450
@@ -2135,17 +2135,17 @@ ter feito a reserva,
 
 451
 00:17:24,885 --> 00:17:26,319
-e vocÍ est· dizendo
-que n„o tem nenhum quarto?
+e voc√™ est√° dizendo
+que n√£o tem nenhum quarto?
 
 452
 00:17:26,320 --> 00:17:29,922
-Que n„o tem nada
+Que n√£o tem nada
 na lista... Droga.
 
 453
 00:17:29,923 --> 00:17:31,157
-Mas est·
+Mas est√°
 tudo bem, senhor.
 
 454
@@ -2164,7 +2164,7 @@ Um hotel?
 457
 00:17:38,094 --> 00:17:41,768
 Eu te falei sobre o
-De La Sol meses atr·s.
+De La Sol meses atr√°s.
 
 458
 00:17:41,769 --> 00:17:43,344
@@ -2183,8 +2183,8 @@ feito tudo certo.
 
 461
 00:17:45,814 --> 00:17:46,998
-VocÍ sabe que eu sou
-pÈssimo com computadores.
+Voc√™ sabe que eu sou
+p√©ssimo com computadores.
 
 462
 00:17:46,999 --> 00:17:49,217
@@ -2194,7 +2194,7 @@ era tudo que eu queria,
 463
 00:17:49,218 --> 00:17:51,052
 e agora vamos passar
-nossa noite de n˙pcias,
+nossa noite de n√∫pcias,
 
 464
 00:17:51,053 --> 00:17:53,322
@@ -2202,12 +2202,12 @@ em um simples hotel?
 
 465
 00:17:53,323 --> 00:17:55,723
-- NÛs j· nos divertimos em um hotel antes.
-- N„o. Quer saber?
+- N√≥s j√° nos divertimos em um hotel antes.
+- N√£o. Quer saber?
 
 466
 00:17:55,724 --> 00:17:57,959
-Se vocÍ for ligar...
+Se voc√™ for ligar...
 
 467
 00:17:57,960 --> 00:18:00,363
@@ -2215,21 +2215,21 @@ reserve dois quartos.
 
 468
 00:18:00,364 --> 00:18:03,264
-Olha, eu n„o tenho
+Olha, eu n√£o tenho
 nenhum quarto, mas...
 
 469
 00:18:03,265 --> 00:18:05,833
-Posso colocar vocÍs no
-antigo escritÛrio do meu pai.
+Posso colocar voc√™s no
+antigo escrit√≥rio do meu pai.
 
 470
 00:18:05,834 --> 00:18:07,304
-… l· em cima.
+√â l√° em cima.
 
 471
 00:18:08,705 --> 00:18:11,506
-Seria Ûtimo.
+Seria √≥timo.
 Sim, seria maravilhoso.
 
 472
@@ -2239,17 +2239,17 @@ Muito obrigado!"
 
 473
 00:18:13,776 --> 00:18:16,242
-Quer dizer, se n„o
+Quer dizer, se n√£o
 tiver problema
 
 474
 00:18:16,243 --> 00:18:18,077
 com o seu pai,
-È claro.
+√© claro.
 
 475
 00:18:18,078 --> 00:18:20,430
-Ele faleceu h·
+Ele faleceu h√°
 muitos anos.
 
 476
@@ -2268,7 +2268,7 @@ Alejandro Mendoza.
 
 479
 00:18:28,656 --> 00:18:31,387
-<i>TrÍs exploradores:
+<i>Tr√™s exploradores:
 Alejandro Mendoza...</i>
 
 480
@@ -2281,12 +2281,12 @@ Uma estrela do rock!
 
 482
 00:18:34,663 --> 00:18:37,848
-VocÍ conhece o
+Voc√™ conhece o
 trabalho do meu pai?
 
 483
 00:18:37,849 --> 00:18:40,050
-Isso È uma surpresa.
+Isso √© uma surpresa.
 
 484
 00:18:40,051 --> 00:18:43,120
@@ -2309,21 +2309,21 @@ Alejandro Mendoza.
 
 488
 00:18:48,326 --> 00:18:49,893
-Ele È guitarrista.
+Ele √© guitarrista.
 
 489
 00:18:49,894 --> 00:18:51,611
-VocÍ conhece a
+Voc√™ conhece a
 banda Slipknot?
 
 490
 00:18:51,612 --> 00:18:52,846
-… a...
+√â a...
 Esquece.
 
 491
 00:18:52,847 --> 00:18:54,464
-Bom, vamos acomod·-los.
+Bom, vamos acomod√°-los.
 
 492
 00:18:54,465 --> 00:18:55,632
@@ -2337,7 +2337,7 @@ Por favor, me sigam.
 494
 00:18:58,871 --> 00:19:01,571
 Eu pego as malas,
-querida, n„o se preocupe.
+querida, n√£o se preocupe.
 
 495
 00:19:02,841 --> 00:19:05,092
@@ -2350,12 +2350,12 @@ Entendido.
 
 497
 00:19:08,987 --> 00:19:12,255
-Vamos, vocÍ tem que
+Vamos, voc√™ tem que
 comer alguma coisa.
 
 498
 00:19:12,256 --> 00:19:14,290
-Eu n„o estou
+Eu n√£o estou
 com fome.
 
 499
@@ -2364,7 +2364,7 @@ Tudo bem.
 
 500
 00:19:18,960 --> 00:19:21,861
-Isso È muito injusto.
+Isso √© muito injusto.
 
 501
 00:19:21,862 --> 00:19:23,263
@@ -2372,40 +2372,40 @@ Eu achei...
 
 502
 00:19:23,264 --> 00:19:25,501
-Achei que nÛs
-envelhecerÌamos juntos...
+Achei que n√≥s
+envelhecer√≠amos juntos...
 
 503
 00:19:25,502 --> 00:19:27,119
-E nÛs vamos.
+E n√≥s vamos.
 
 504
 00:19:27,120 --> 00:19:29,205
-VocÍ n„o sabe disso.
+Voc√™ n√£o sabe disso.
 
 505
 00:19:29,206 --> 00:19:31,440
-… por isso que vocÍ
+√â por isso que voc√™
 ficou aqui.
 
 506
 00:19:31,441 --> 00:19:33,676
 - Jane...
-- VocÍ nunca recusou
+- Voc√™ nunca recusou
 
 507
 00:19:33,677 --> 00:19:35,631
-uma miss„o em
+uma miss√£o em
 campo antes.
 
 508
 00:19:35,632 --> 00:19:38,634
-VocÍ queria ficar aqui,
+Voc√™ queria ficar aqui,
 caso eu morresse.
 
 509
 00:19:42,939 --> 00:19:44,807
-Chega pra l·.
+Chega pra l√°.
 
 510
 00:19:47,895 --> 00:19:49,678
@@ -2422,12 +2422,12 @@ Depois, um agente.
 
 513
 00:19:54,785 --> 00:19:57,699
-E nÛs vamos encontrar
-aquelas cÈlulas-tronco.
+E n√≥s vamos encontrar
+aquelas c√©lulas-tronco.
 
 514
 00:19:57,700 --> 00:19:59,922
-E vamos curar vocÍ.
+E vamos curar voc√™.
 
 515
 00:19:59,923 --> 00:20:01,857
@@ -2435,12 +2435,12 @@ Eu prometo.
 
 516
 00:20:02,860 --> 00:20:04,827
-N„o consigo enxergar.
+N√£o consigo enxergar.
 
 517
 00:20:04,828 --> 00:20:07,913
-E est· ficando mais
-difÌcil de me mover,
+E est√° ficando mais
+dif√≠cil de me mover,
 
 518
 00:20:07,914 --> 00:20:10,599
@@ -2448,7 +2448,7 @@ de... de respirar.
 
 519
 00:20:10,600 --> 00:20:12,985
-Meu corpo est· esquecendo
+Meu corpo est√° esquecendo
 como fazer tudo.
 
 520
@@ -2466,7 +2466,7 @@ Eu sei.
 
 523
 00:20:21,778 --> 00:20:25,481
-Eu tambÈm estou.
+Eu tamb√©m estou.
 
 524
 00:20:27,867 --> 00:20:30,402
@@ -2480,7 +2480,7 @@ Eu sei que vai...
 
 526
 00:20:38,505 --> 00:20:41,640
-Desculpe pela bagunÁa.
+Desculpe pela bagun√ßa.
 
 527
 00:20:41,641 --> 00:20:43,832
@@ -2489,25 +2489,25 @@ escritos do meu pai
 
 528
 00:20:43,833 --> 00:20:44,999
-do sÛt„o.
+do s√≥t√£o.
 
 529
 00:20:45,000 --> 00:20:46,434
-Vou tir·-los daqui.
+Vou tir√°-los daqui.
 
 530
 00:20:46,435 --> 00:20:48,769
-N„o, n„o, n„o, n„o, n„o...
-N„o se incomode, sÈrio.
+N√£o, n√£o, n√£o, n√£o, n√£o...
+N√£o se incomode, s√©rio.
 
 531
 00:20:48,770 --> 00:20:50,871
-N„o tem problema.
+N√£o tem problema.
 
 532
 00:20:50,872 --> 00:20:53,107
-Esse È...
-Esse È o seu pai?
+Esse √©...
+Esse √© o seu pai?
 
 533
 00:20:53,108 --> 00:20:54,275
@@ -2515,7 +2515,7 @@ Sim.
 
 534
 00:20:54,273 --> 00:20:56,774
-VocÍ disse que...
+Voc√™ disse que...
 Ele encontrou um livro.
 
 535
@@ -2529,7 +2529,7 @@ Sim, meus pais eram.
 
 537
 00:21:01,372 --> 00:21:05,971
-Essa È minha m„e, Eva
+Essa √© minha m√£e, Eva
 e meu pai, Alejandro,
 
 538
@@ -2539,7 +2539,7 @@ que se conheceram.
 
 539
 00:21:09,409 --> 00:21:11,677
-AtÈ 1955,
+At√© 1955,
 quando eu nasci,
 
 540
@@ -2550,7 +2550,7 @@ pelo Peru, colecionando artefatos.
 541
 00:21:16,282 --> 00:21:18,417
 Eles devem ter encontrado
-coisas incrÌveis.
+coisas incr√≠veis.
 
 542
 00:21:18,418 --> 00:21:20,686
@@ -2565,11 +2565,11 @@ proteger nossos objetos sagrados
 544
 00:21:23,356 --> 00:21:27,292
 de visitantes,
-arqueÛlogos,
+arque√≥logos,
 
 545
 00:21:27,292 --> 00:21:31,596
-ladrıes, roubando em nome
+ladr√µes, roubando em nome
 da bolsa de estudos.
 
 546
@@ -2596,7 +2596,7 @@ Ganhamos na loteria!
 
 551
 00:21:44,620 --> 00:21:47,866
-Estamos no est˙dio do
+Estamos no est√∫dio do
 Alejandro Mendoza.
 
 552
@@ -2610,18 +2610,18 @@ Seus escritos!
 
 554
 00:21:51,193 --> 00:21:52,560
-Eu n„o sei,
+Eu n√£o sei,
 me sinto culpada.
 
 555
 00:21:52,561 --> 00:21:54,362
-- O quÍ? Por quÍ?
-- NÛs acabamos
+- O qu√™? Por qu√™?
+- N√≥s acabamos
 
 556
 00:21:54,363 --> 00:21:56,164
 de mentir para uma
-mulher t„o gentil,
+mulher t√£o gentil,
 
 557
 00:21:56,165 --> 00:21:57,532
@@ -2631,7 +2631,7 @@ fazer exatamente
 558
 00:21:57,533 --> 00:22:00,118
 o que os Mendozas se
-esforÁaram para evitar: roubar!
+esfor√ßaram para evitar: roubar!
 
 559
 00:22:00,119 --> 00:22:01,536
@@ -2640,13 +2640,13 @@ roubando pela Jane.
 
 560
 00:22:01,537 --> 00:22:03,137
-- Isso È diferente.
-- …?
+- Isso √© diferente.
+- √â?
 
 561
 00:22:04,254 --> 00:22:06,449
 Ok, olhe, depois que pegarmos
-as cÈlulas-tronco do Ken,
+as c√©lulas-tronco do Ken,
 
 562
 00:22:06,449 --> 00:22:07,976
@@ -2663,35 +2663,35 @@ Ok, ok, ok.
 
 565
 00:22:10,212 --> 00:22:11,412
-E ent„o, vocÍ sabe,
+E ent√£o, voc√™ sabe,
 
 566
 00:22:11,413 --> 00:22:12,914
-devolvÍ-lo ao
+devolv√™-lo ao
 povo do Peru?
 
 567
 00:22:12,915 --> 00:22:14,782
-Sim, ou, vocÍ sabe,
+Sim, ou, voc√™ sabe,
 
 568
 00:22:14,783 --> 00:22:16,884
 - vender na dark web.
-- Qual È o seu problema?
+- Qual √© o seu problema?
 
 569
 00:22:16,885 --> 00:22:18,186
-Pensei que est·vamos
-dando sugestıes, ok
+Pensei que est√°vamos
+dando sugest√µes, ok
 
 570
 00:22:18,187 --> 00:22:19,821
-N„o h· ideias ruins quando
-estamos dando sugestıes.
+N√£o h√° ideias ruins quando
+estamos dando sugest√µes.
 
 571
 00:22:19,822 --> 00:22:21,272
-SÛ...
+S√≥...
 
 572
 00:22:21,273 --> 00:22:23,741
@@ -2700,7 +2700,7 @@ Espere um segundo.
 573
 00:22:23,742 --> 00:22:25,710
 O mosaico nesta
-estaÁ„o meteorolÛgica
+esta√ß√£o meteorol√≥gica
 
 574
 00:22:25,711 --> 00:22:28,603
@@ -2713,17 +2713,17 @@ na catedral.
 
 576
 00:22:29,905 --> 00:22:31,138
-Isso È uma coincidÍncia?
+Isso √© uma coincid√™ncia?
 
 577
 00:22:32,719 --> 00:22:34,685
 Nenhum de seus medidores
-est· funcionando.
+est√° funcionando.
 
 578
 00:22:34,686 --> 00:22:37,321
-Cada um est· parado
-em um n˙mero.
+Cada um est√° parado
+em um n√∫mero.
 
 579
 00:22:39,730 --> 00:22:43,311
@@ -2744,21 +2744,21 @@ Vamos.
 
 583
 00:22:51,945 --> 00:22:54,145
-Digite mais r·pido, Madeline estar·
+Digite mais r√°pido, Madeline estar√°
 de volta a qualquer momento.
 
 584
 00:22:54,146 --> 00:22:56,481
-N„o est· ajudando.
+N√£o est√° ajudando.
 
 585
 00:22:56,482 --> 00:22:57,816
-VocÍ ainda n„o
+Voc√™ ainda n√£o
 terminou?
 
 586
 00:22:57,817 --> 00:22:59,017
-Pensei que vocÍ
+Pensei que voc√™
 fosse o melhor.
 
 587
@@ -2768,12 +2768,12 @@ O melhor leva tempo.
 588
 00:23:00,152 --> 00:23:01,670
 Se quiser rapidez,
-v· ao McDonalds.
+v√° ao McDonalds.
 
 589
 00:23:01,671 --> 00:23:04,055
 Del Toro pode fazer isso. Apenas
-dÍ a ele alguns minutos...
+d√™ a ele alguns minutos...
 
 590
 00:23:04,056 --> 00:23:05,907
@@ -2800,7 +2800,7 @@ Boston Arliss Crab.
 
 595
 00:23:20,291 --> 00:23:21,892
-Eu n„o gosto
+Eu n√£o gosto
 que mintam para mim.
 
 596
@@ -2810,12 +2810,12 @@ isso claro.
 
 597
 00:23:23,378 --> 00:23:26,313
-N„o era mentira.
-Esse È o Del Toro.
+N√£o era mentira.
+Esse √© o Del Toro.
 
 598
 00:23:26,314 --> 00:23:27,781
-N„o continue
+N√£o continue
 mentindo, Tasha.
 
 599
@@ -2826,30 +2826,30 @@ identidade dele.
 600
 00:23:29,657 --> 00:23:31,642
 O homem sentado
-diante de nÛs
+diante de n√≥s
 
 601
 00:23:31,643 --> 00:23:35,329
-È consultor do FBI, e eu pensei
-que vocÍ soubesse disso.
+√© consultor do FBI, e eu pensei
+que voc√™ soubesse disso.
 
 602
 00:23:35,330 --> 00:23:37,341
-Sim, seu nome È
+Sim, seu nome √©
 Boston Arliss Crab.
 
 603
 00:23:37,341 --> 00:23:39,298
-Mas seu nome tambÈm
-È Del Toro.
+Mas seu nome tamb√©m
+√© Del Toro.
 
 604
 00:23:40,401 --> 00:23:42,436
-Ele È um hacker, Madeline.
+Ele √© um hacker, Madeline.
 
 605
 00:23:42,437 --> 00:23:43,754
-Ele tem v·rios
+Ele tem v√°rios
 nomes falsos.
 
 606
@@ -2859,17 +2859,17 @@ Eu fiz minha pesquisa.
 607
 00:23:45,740 --> 00:23:47,674
 Foi ele que violou o sistema
-de defesa antimÌsseis da NORAD
+de defesa antim√≠sseis da NORAD
 
 608
 00:23:47,675 --> 00:23:50,177
-e causou a falsa ameaÁa
+e causou a falsa amea√ßa
 nuclear em Nova York.
 
 609
 00:23:50,178 --> 00:23:53,347
-Acho que isso È prova suficiente
-para acreditar que ele cortou laÁos
+Acho que isso √© prova suficiente
+para acreditar que ele cortou la√ßos
 
 610
 00:23:53,348 --> 00:23:55,165
@@ -2888,17 +2888,17 @@ O. Weimar,
 613
 00:23:59,287 --> 00:24:01,898
 Estragar todos os meus disfarces
-n„o era parte do nosso acordo.
+n√£o era parte do nosso acordo.
 
 614
 00:24:01,899 --> 00:24:03,524
-Quer dar a ela o n˙mero
-do meu CPF tambÈm?
+Quer dar a ela o n√∫mero
+do meu CPF tamb√©m?
 
 615
 00:24:03,525 --> 00:24:06,248
-- Como È?
-- VocÍ acha que È grande coisa?
+- Como √©?
+- Voc√™ acha que √© grande coisa?
 
 616
 00:24:06,248 --> 00:24:08,234
@@ -2907,8 +2907,8 @@ parece de amador.
 
 617
 00:24:08,236 --> 00:24:10,753
-Primeiro, vocÍ me insulta
-com esse teste est˙pido...
+Primeiro, voc√™ me insulta
+com esse teste est√∫pido...
 
 618
 00:24:10,754 --> 00:24:12,666
@@ -2918,7 +2918,7 @@ como eu quiser.
 619
 00:24:12,667 --> 00:24:14,981
 Madeline, me desculpe
-pela confus„o.
+pela confus√£o.
 
 620
 00:24:14,982 --> 00:24:16,583
@@ -2931,7 +2931,7 @@ Madeline."
 
 622
 00:24:18,548 --> 00:24:19,815
-Onde est„o minhas
+Onde est√£o minhas
 desculpas?!
 
 623
@@ -2940,13 +2940,13 @@ Hein?! Querida!
 
 624
 00:24:21,851 --> 00:24:24,469
-Um adulto est·
-falando com vocÍ!
+Um adulto est√°
+falando com voc√™!
 
 625
 00:24:24,470 --> 00:24:26,872
-Quer saber, eu n„o me importo
-com o qu„o bom ele È,
+Quer saber, eu n√£o me importo
+com o qu√£o bom ele √©,
 
 626
 00:24:26,872 --> 00:24:28,722
@@ -2955,8 +2955,8 @@ dele agora mesmo!
 
 627
 00:24:28,724 --> 00:24:31,426
-N„o, n„o, ainda precisamos que
-ele derrube aquele avi„o,
+N√£o, n√£o, ainda precisamos que
+ele derrube aquele avi√£o,
 
 628
 00:24:31,427 --> 00:24:33,728
@@ -2969,31 +2969,31 @@ Um pouco, o que?
 
 630
 00:24:36,365 --> 00:24:39,351
-Quer saber, ou vocÍ È muito
-corajoso ou muito est˙pido.
+Quer saber, ou voc√™ √© muito
+corajoso ou muito est√∫pido.
 
 631
 00:24:39,352 --> 00:24:40,938
-Por que ele n„o
+Por que ele n√£o
 pode ser os dois?
 
 632
 00:24:42,037 --> 00:24:43,836
-E vocÍ È claramente
+E voc√™ √© claramente
 muito bom no que faz.
 
 633
 00:24:43,837 --> 00:24:46,172
 E me desculpe se
-este trabalho est·
+este trabalho est√°
 
 634
 00:24:46,173 --> 00:24:47,974
-abaixo do seu nÌvel.
+abaixo do seu n√≠vel.
 
 635
 00:24:47,975 --> 00:24:49,776
-Mas ainda n„o acabou.
+Mas ainda n√£o acabou.
 
 636
 00:24:50,795 --> 00:24:52,895
@@ -3002,33 +3002,33 @@ coisas para resolver.
 
 637
 00:24:52,896 --> 00:24:55,014
-VocÍs dois esperam aqui
-por mais instruÁıes.
+Voc√™s dois esperam aqui
+por mais instru√ß√µes.
 
 638
 00:24:55,015 --> 00:24:58,651
-Isso È aceit·vel para vocÍ,
+Isso √© aceit√°vel para voc√™,
 Sr. Del Toro?
 
 639
 00:24:58,652 --> 00:25:02,021
-Sim, sim, eu sÛ
+Sim, sim, eu s√≥
 precisava ser ouvido.
 
 640
 00:25:14,269 --> 00:25:16,202
 Ok, bem, aqui estamos
-nÛs, na esquina de
+n√≥s, na esquina de
 
 641
 00:25:16,203 --> 00:25:17,904
-uma vista magnÌfica e
+uma vista magn√≠fica e
 um Jesus enorme.
 
 642
 00:25:17,905 --> 00:25:19,505
 - Rich.
-- O quÍ?
+- O qu√™?
 
 643
 00:25:19,506 --> 00:25:23,443
@@ -3038,7 +3038,7 @@ um Jesus enorme.
 644
 00:25:23,444 --> 00:25:25,313
 Nos separar, e prestar
-atenÁ„o nas pistas.
+aten√ß√£o nas pistas.
 
 645
 00:25:25,314 --> 00:25:26,570
@@ -3051,45 +3051,45 @@ Eu ganhei!
 
 647
 00:25:41,496 --> 00:25:44,263
-… o contorno exato da
-estaÁ„o meteorolÛgica
+√â o contorno exato da
+esta√ß√£o meteorol√≥gica
 
 648
 00:25:44,264 --> 00:25:46,499
-- no escritÛrio do Alejandro.
+- no escrit√≥rio do Alejandro.
 - Foi o que pensei.
 
 649
 00:25:46,500 --> 00:25:48,735
-… por isso que me
-casei com vocÍ.
+√â por isso que me
+casei com voc√™.
 
 650
 00:25:52,512 --> 00:25:54,479
-… um esconderijo.
+√â um esconderijo.
 
 651
 00:25:59,526 --> 00:26:01,559
-- Est· vazio.
-- O quÍ?
+- Est√° vazio.
+- O qu√™?
 
 652
 00:26:01,560 --> 00:26:02,794
-Como isso È possÌvel?
+Como isso √© poss√≠vel?
 
 653
 00:26:02,795 --> 00:26:05,663
-AlguÈm chegou
-antes de nÛs?
+Algu√©m chegou
+antes de n√≥s?
 
 654
 00:26:05,664 --> 00:26:09,000
-N„o.
+N√£o.
 Depois de tudo isso...
 
 655
 00:26:09,001 --> 00:26:10,869
-Tudo o que temos È
+Tudo o que temos √©
 um buraco na parede?
 
 656
@@ -3098,12 +3098,12 @@ Sem aquele livro,
 
 657
 00:26:12,638 --> 00:26:13,721
-nÛs n„o pegamos as
-cÈlulas-tronco,
+n√≥s n√£o pegamos as
+c√©lulas-tronco,
 
 658
 00:26:13,722 --> 00:26:15,373
-e sem as cÈlulas-tronco,
+e sem as c√©lulas-tronco,
 
 659
 00:26:15,374 --> 00:26:18,726
@@ -3116,17 +3116,17 @@ Olhe para essas esculturas.
 
 661
 00:26:26,820 --> 00:26:28,486
-S„o gravuras de
+S√£o gravuras de
 zeros e ums,
 
 662
 00:26:28,487 --> 00:26:32,223
 como se este tijolo estivesse
-tentando nos levar ‡ um computador.
+tentando nos levar √† um computador.
 
 663
 00:26:32,224 --> 00:26:34,359
-Como isso È possÌvel?
+Como isso √© poss√≠vel?
 
 664
 00:26:34,360 --> 00:26:36,227
@@ -3139,11 +3139,11 @@ Alejandro e Eva
 
 666
 00:26:38,716 --> 00:26:40,204
-Espere, o que È isso?
+Espere, o que √© isso?
 
 667
 00:26:40,205 --> 00:26:44,475
-S„o letras.
+S√£o letras.
 "RB 4 RB"
 
 668
@@ -3153,8 +3153,8 @@ Para... Carne Assada.
 
 669
 00:26:47,296 --> 00:26:49,229
--  N„o entendi nada.
-- N„o.
+-  N√£o entendi nada.
+- N√£o.
 
 670
 00:26:49,230 --> 00:26:52,383
@@ -3169,26 +3169,26 @@ para Remi Briggs?"
 672
 00:26:56,508 --> 00:26:58,206
 Ele pegou a pista para
-garantir que serÌamos
+garantir que ser√≠amos
 
 673
 00:26:58,207 --> 00:27:00,558
-os ˙nicos a encontrar
+os √∫nicos a encontrar
 O Livro Dos Segredos!
 
 674
 00:27:00,559 --> 00:27:03,795
-Certo. Ent„o, os zeros
+Certo. Ent√£o, os zeros
 e uns, as iniciais...
 
 675
 00:27:03,796 --> 00:27:05,874
-S„o dicas que
+S√£o dicas que
 ele adicionou.
 
 676
 00:27:07,500 --> 00:27:09,667
-Talvez isso nos leve atÈ
+Talvez isso nos leve at√©
 um computador.
 
 677
@@ -3198,7 +3198,7 @@ um computador.
 
 678
 00:27:13,105 --> 00:27:17,875
-Ok, ok. Ent„o, no primeiro
+Ok, ok. Ent√£o, no primeiro
 dispositivo do Roman,
 
 679
@@ -3245,7 +3245,7 @@ Diga de novo?
 
 688
 00:27:39,915 --> 00:27:41,399
-O sinal È muito
+O sinal √© muito
 ruim aqui.
 
 689
@@ -3255,17 +3255,17 @@ de um telefone fixo.
 
 690
 00:27:45,332 --> 00:27:47,983
-Requer uma autenticaÁ„o
-secund·ria.
+Requer uma autentica√ß√£o
+secund√°ria.
 
 691
 00:27:47,984 --> 00:27:49,418
-SÈrio, Roman?
+S√©rio, Roman?
 
 692
 00:27:49,419 --> 00:27:51,103
 Parece algum tipo de
-quebra-cabeÁa com imagem.
+quebra-cabe√ßa com imagem.
 
 693
 00:27:51,104 --> 00:27:52,137
@@ -3283,7 +3283,7 @@ Vou atualizar o Weller.
 
 696
 00:27:54,841 --> 00:27:58,176
-VocÍ recebeu alguma
+Voc√™ recebeu alguma
 coisa da Zapata?
 
 697
@@ -3298,12 +3298,12 @@ uma pista no dispositivo.
 
 699
 00:28:06,534 --> 00:28:09,336
-… protegido por senha.
-Qual È a pista?
+√â protegido por senha.
+Qual √© a pista?
 
 700
 00:28:11,040 --> 00:28:13,173
-… um quebra-cabeÁa
+√â um quebra-cabe√ßa
 de imagem.
 
 701
@@ -3317,18 +3317,18 @@ Descreve para mim.
 
 703
 00:28:19,948 --> 00:28:23,751
-… um tipo de antÌlope
+√â um tipo de ant√≠lope
 na frente de um escudo.
 
 704
 00:28:23,752 --> 00:28:26,670
 Pode ser... Pode ser um
-bras„o de armas
+bras√£o de armas
 
 705
 00:28:26,671 --> 00:28:29,223
-- Tem certeza de que È um antÌlope?
-- N„o.
+- Tem certeza de que √© um ant√≠lope?
+- N√£o.
 
 706
 00:28:29,224 --> 00:28:31,158
@@ -3337,51 +3337,51 @@ poderia ser um cervo.
 
 707
 00:28:34,263 --> 00:28:36,764
-N„o, È...
-N„o È um cervo.
+N√£o, √©...
+N√£o √© um cervo.
 
 708
 00:28:36,765 --> 00:28:38,816
-- … uma gazela.
+- √â uma gazela.
 - Uma "ga-" o que?
 
 709
 00:28:38,817 --> 00:28:41,218
-… uma gazela, encontrada
-na ¡frica do Sul.
+√â uma gazela, encontrada
+na √Åfrica do Sul.
 
 710
 00:28:41,219 --> 00:28:42,569
-E n„o È um escudo.
+E n√£o √© um escudo.
 
 711
 00:28:42,570 --> 00:28:44,238
-… o selo sul-africano.
+√â o selo sul-africano.
 
 712
 00:28:44,239 --> 00:28:47,093
-Roman est· descrevendo
+Roman est√° descrevendo
 a moeda dele.
 
 713
 00:28:47,094 --> 00:28:49,705
 A nossa moeda, a que
-costum·vamos ficar emprestando
+costum√°vamos ficar emprestando
 
 714
 00:28:49,706 --> 00:28:51,784
 ao outro para fazer com que
-nos sentÌssemos melhor
+nos sent√≠ssemos melhor
 
 715
 00:28:51,785 --> 00:28:54,515
-quando Èramos
-crianÁas no orfanato.
+quando √©ramos
+crian√ßas no orfanato.
 
 716
 00:28:54,516 --> 00:28:56,683
 <i>Eu tenho uma
-coisa para vocÍ.</i>
+coisa para voc√™.</i>
 
 717
 00:28:57,653 --> 00:28:59,555
@@ -3390,12 +3390,12 @@ Acho que sei a senha.
 718
 00:29:01,299 --> 00:29:03,698
 Tente "eu tenho uma
-coisa para vocÍ".
+coisa para voc√™".
 
 719
 00:29:03,699 --> 00:29:04,933
 "Eu tenho uma
-coisa para vocÍ".
+coisa para voc√™".
 
 720
 00:29:07,337 --> 00:29:09,137
@@ -3409,7 +3409,7 @@ Abra ele.
 722
 00:29:11,941 --> 00:29:13,741
 Isso deveria ser um
-mapa do quÍ mesmo?
+mapa do qu√™ mesmo?
 
 723
 00:29:13,742 --> 00:29:16,110
@@ -3423,7 +3423,7 @@ explique isso?
 
 725
 00:29:18,197 --> 00:29:20,248
-… para a Jane.
+√â para a Jane.
 
 726
 00:29:20,249 --> 00:29:22,884
@@ -3431,45 +3431,45 @@ explique isso?
 
 727
 00:29:22,885 --> 00:29:24,680
-… do Roman.
+√â do Roman.
 
 728
 00:29:28,941 --> 00:29:32,177
-"Ei, irm„zinha. Eu tenho uma
-coisa para vocÍ.
+"Ei, irm√£zinha. Eu tenho uma
+coisa para voc√™.
 
 729
 00:29:32,178 --> 00:29:35,113
 Eu nunca resolvi este aqui.
-Espero que vocÍ consiga.
+Espero que voc√™ consiga.
 
 730
 00:29:35,114 --> 00:29:39,451
 Eu fiz o meu melhor.
-Que vocÍ viva mais que isso...
+Que voc√™ viva mais que isso...
 
 731
 00:29:39,452 --> 00:29:40,926
-Por nÛs dois.
+Por n√≥s dois.
 
 732
 00:29:40,927 --> 00:29:43,455
-Seu irm„o,
+Seu irm√£o,
 sempre, Roman."
 
 733
 00:29:43,456 --> 00:29:46,858
-Ent„o, Roman nunca
+Ent√£o, Roman nunca
 decifrou o mapa
 
 734
 00:29:46,859 --> 00:29:49,377
 e ele teve meses
-para decodific·-lo.
+para decodific√°-lo.
 
 735
 00:29:49,378 --> 00:29:51,363
-Sim, mas ele n„o tinha
+Sim, mas ele n√£o tinha
 a Patterson ou Rich.
 
 736
@@ -3484,27 +3484,27 @@ que capaz.
 
 738
 00:29:56,769 --> 00:29:58,803
-Se ele n„o conseguiu resolver,
+Se ele n√£o conseguiu resolver,
 nunca vamos conseguir.
 
 739
 00:29:58,804 --> 00:30:02,357
-N„o antes que seja
+N√£o antes que seja
 tarde demais.
 
 740
 00:30:06,124 --> 00:30:08,098
-Tudo bem, Reade est·
+Tudo bem, Reade est√°
 enviando um scan
 
 741
 00:30:08,099 --> 00:30:10,184
 do mapa de pontos
-indecifr·vel do Roman.
+indecifr√°vel do Roman.
 
 742
 00:30:10,726 --> 00:30:12,726
-Supostamente indecifr·veis.
+Supostamente indecifr√°veis.
 
 743
 00:30:12,727 --> 00:30:14,227
@@ -3513,13 +3513,13 @@ uma olhada nisso.
 
 744
 00:30:14,228 --> 00:30:17,564
-Sim, isso È apenas
+Sim, isso √© apenas
 um monte de nada.
 
 745
 00:30:17,565 --> 00:30:19,699
 Estamos mesmo certos que
-isso aqui È um mapa?
+isso aqui √© um mapa?
 
 746
 00:30:19,700 --> 00:30:22,068
@@ -3528,13 +3528,13 @@ resolveu esse,
 
 747
 00:30:22,069 --> 00:30:24,237
-ent„o talvez ele tenha comeÁado
-com uma suposiÁ„o falsa.
+ent√£o talvez ele tenha come√ßado
+com uma suposi√ß√£o falsa.
 
 748
 00:30:24,238 --> 00:30:28,241
-Ou talvez ele n„o tivesse
-todas as informaÁıes
+Ou talvez ele n√£o tivesse
+todas as informa√ß√µes
 
 749
 00:30:28,242 --> 00:30:29,743
@@ -3544,16 +3544,16 @@ para resolver.
 750
 00:30:29,744 --> 00:30:31,077
 <i>Acabamos de trazer
-para c· alguns</i>
+para c√° alguns</i>
 
 751
 00:30:31,078 --> 00:30:33,079
 <i>dos escritos do
-meu pai do sÛt„o.</i>
+meu pai do s√≥t√£o.</i>
 
 752
 00:30:33,080 --> 00:30:34,581
-As anotaÁıes antigas
+As anota√ß√µes antigas
 do Alejandro!
 
 753
@@ -3564,11 +3564,11 @@ dar uma olhada neles
 754
 00:30:39,588 --> 00:30:41,588
 Sabe, eu sei que tecnicamente
-n„o somos casados
+n√£o somos casados
 
 755
 00:30:41,589 --> 00:30:44,224
-e vocÍ n„o faz
+e voc√™ n√£o faz
 realmente meu tipo,
 
 756
@@ -3588,17 +3588,17 @@ excitado.
 
 759
 00:30:48,429 --> 00:30:51,398
-VocÍ est· completamente
+Voc√™ est√° completamente
 sozinho nisso.
 
 760
 00:30:56,772 --> 00:30:59,272
 Olhe para a rosa-dos-ventos.
-… idÍntica.
+√â id√™ntica.
 
 761
 00:31:04,279 --> 00:31:05,662
-… um mapa de
+√â um mapa de
 Machu Picchu.
 
 762
@@ -3608,43 +3608,43 @@ Alejandro,
 
 763
 00:31:07,081 --> 00:31:08,281
-por que vocÍ esconderia
+por que voc√™ esconderia
 O Livro dos Segredos
 
 764
 00:31:08,282 --> 00:31:10,250
-na ·rea mais altamente
+na √°rea mais altamente
 visitada do Peru?
 
 765
 00:31:10,251 --> 00:31:11,785
-N„o È exatamente
+N√£o √© exatamente
 um local seguro.
 
 766
 00:31:11,786 --> 00:31:13,119
-N„o, vocÍ est·
+N√£o, voc√™ est√°
 olhando tudo errado.
 
 767
 00:31:13,120 --> 00:31:15,004
 No final dos anos 40,
-a escavaÁ„o terminou.
+a escava√ß√£o terminou.
 
 768
 00:31:15,005 --> 00:31:16,756
-ArqueÛlogos j· haviam
+Arque√≥logos j√° haviam
 mudado para outros lugares.
 
 769
 00:31:16,757 --> 00:31:18,458
 Se Alejandro e Eva
-queriam escondÍ-lo
+queriam escond√™-lo
 
 770
 00:31:18,459 --> 00:31:19,759
 em algum lugar que
-ninguÈm procuraria...
+ningu√©m procuraria...
 
 771
 00:31:19,760 --> 00:31:20,960
@@ -3653,7 +3653,7 @@ colocar em algum lugar
 
 772
 00:31:20,961 --> 00:31:22,429
-que j· tivesse
+que j√° tivesse
 sido escavado.
 
 773
@@ -3677,43 +3677,43 @@ marca o lugar. "
 
 777
 00:31:46,487 --> 00:31:47,594
-O que vocÍ est·
+O que voc√™ est√°
 fazendo?
 
 778
 00:31:47,595 --> 00:31:48,676
-Por que vocÍ est·
+Por que voc√™ est√°
 falando assim?
 
 779
 00:31:48,677 --> 00:31:50,323
-VocÍ nunca viu
+Voc√™ nunca viu
 Indiana Jones?
 
 780
 00:31:50,324 --> 00:31:52,659
-- Esse È o seu Indiana?
-- Sim, esse È o meu Indiana.
+- Esse √© o seu Indiana?
+- Sim, esse √© o meu Indiana.
 
 781
 00:31:52,660 --> 00:31:53,827
-VocÍ est· brincando comigo?
-Est· no tom perfeito.
+Voc√™ est√° brincando comigo?
+Est√° no tom perfeito.
 
 782
 00:31:53,828 --> 00:31:55,328
-- N„o, n„o È.
-- Como vocÍ se atreve!
+- N√£o, n√£o √©.
+- Como voc√™ se atreve!
 
 783
 00:31:55,329 --> 00:31:56,663
-Quem È vocÍ?
-FaÁa o seu.
+Quem √© voc√™?
+Fa√ßa o seu.
 
 784
 00:31:56,664 --> 00:31:58,331
 Ok, escute,
-vocÍ est· me distraindo.
+voc√™ est√° me distraindo.
 
 785
 00:31:58,332 --> 00:31:59,716
@@ -3723,11 +3723,11 @@ com dois pontos finais.
 786
 00:31:59,717 --> 00:32:01,590
 Vamos nos dividir e explorar
-simult‚neamente.
+simult√¢neamente.
 
 787
 00:32:01,591 --> 00:32:03,670
-A menos que n„o
+A menos que n√£o
 sejam pontos finais.
 
 788
@@ -3752,13 +3752,13 @@ e o Vagabundo.
 
 792
 00:32:11,512 --> 00:32:13,396
-Ok, tudo bem. NÛs temos que
+Ok, tudo bem. N√≥s temos que
 chegar aos nossos X's.
 
 793
 00:32:13,397 --> 00:32:14,814
 Eu darei o sinal.
-Temos que comeÁar
+Temos que come√ßar
 
 794
 00:32:14,815 --> 00:32:16,516
@@ -3767,28 +3767,28 @@ no mesmo ritmo.
 
 795
 00:32:16,517 --> 00:32:18,401
-ComeÁaremos com o pÈ esquerdo.
-Pronta? TrÍs, dois...
+Come√ßaremos com o p√© esquerdo.
+Pronta? Tr√™s, dois...
 
 796
 00:32:18,402 --> 00:32:20,186
 Ok, ou podemos
-usar matem·tica.
+usar matem√°tica.
 
 797
 00:32:20,187 --> 00:32:22,188
 Vou calcular o
-ponto mÈdio.
+ponto m√©dio.
 
 798
 00:32:22,189 --> 00:32:24,357
-TambÈm podemos
+Tamb√©m podemos
 fazer isso.
 
 799
 00:32:26,328 --> 00:32:29,222
 Tudo bem.
-Este È o ponto mÈdio.
+Este √© o ponto m√©dio.
 
 800
 00:32:30,532 --> 00:32:33,166
@@ -3801,7 +3801,7 @@ o que se acreditava ser
 
 802
 00:32:34,368 --> 00:32:36,369
-um telescÛpio inca
+um telesc√≥pio inca
 datado de
 
 803
@@ -3819,16 +3819,16 @@ olhar para as estrelas.
 
 806
 00:32:42,543 --> 00:32:43,760
-Ent„o temos que nos
+Ent√£o temos que nos
 esconder na loja de presentes
 
 807
 00:32:43,761 --> 00:32:45,762
-atÈ o anoitecer?
+at√© o anoitecer?
 
 808
 00:32:45,763 --> 00:32:47,597
-N„o, n„o precisamos
+N√£o, n√£o precisamos
 esperar o anoitecer.
 
 809
@@ -3839,12 +3839,12 @@ um aplicativo
 810
 00:32:49,266 --> 00:32:51,684
 que lhe diz quais
-estrelas seriam visÌveis
+estrelas seriam vis√≠veis
 
 811
 00:32:51,685 --> 00:32:53,853
 em uma determinada data,
-ent„o se colocarmos
+ent√£o se colocarmos
 
 812
 00:32:53,854 --> 00:32:56,723
@@ -3856,12 +3856,12 @@ o aplicativo nos permite ver
 
 814
 00:33:00,227 --> 00:33:02,896
-o cÈu da nossa
-localizaÁ„o...
+o c√©u da nossa
+localiza√ß√£o...
 
 815
 00:33:04,900 --> 00:33:06,566
-AÌ est·.
+A√≠ est√°.
 
 816
 00:33:06,567 --> 00:33:08,451
@@ -3869,12 +3869,12 @@ Urcuchillay.
 
 817
 00:33:08,452 --> 00:33:11,371
-Se estou com frio? N„o, n„o estou com frio.
-VocÍ precisa do meu casaco?
+Se estou com frio? N√£o, n√£o estou com frio.
+Voc√™ precisa do meu casaco?
 
 818
 00:33:11,372 --> 00:33:12,572
-… Urcuchillay,
+√â Urcuchillay,
 
 819
 00:33:12,573 --> 00:33:14,574
@@ -3883,8 +3883,8 @@ lhama do pastor inca.
 
 820
 00:33:14,575 --> 00:33:16,409
-De fato, quando est·vamos
-vindo para c·,
+De fato, quando est√°vamos
+vindo para c√°,
 
 821
 00:33:16,410 --> 00:33:18,294
@@ -3893,12 +3893,12 @@ lhama de conopas
 
 822
 00:33:18,295 --> 00:33:21,247
-- pelas ruÌnas do matadouro.
-- O que È um conopas?
+- pelas ru√≠nas do matadouro.
+- O que √© um conopas?
 
 823
 00:33:21,248 --> 00:33:22,415
-… uma figura de pedra
+√â uma figura de pedra
 normalmente colocada
 
 824
@@ -3913,7 +3913,7 @@ de um animal.
 
 826
 00:33:30,724 --> 00:33:32,592
-Ok. Ent„o,
+Ok. Ent√£o,
 o altar sacrificial
 
 827
@@ -3923,16 +3923,16 @@ colocado
 
 828
 00:33:33,928 --> 00:33:35,395
-no centro do espaÁo?
+no centro do espa√ßo?
 
 829
 00:33:35,396 --> 00:33:38,398
-L·! Restos de
+L√°! Restos de
 onde estava.
 
 830
 00:33:38,399 --> 00:33:40,433
-Ok. ”timo.
+Ok. √ìtimo.
 
 831
 00:33:40,434 --> 00:33:42,402
@@ -3941,31 +3941,31 @@ incrivelmente ilegal.
 
 832
 00:33:42,403 --> 00:33:44,604
-Uau! VocÍ trouxe
-uma p·?
+Uau! Voc√™ trouxe
+uma p√°?
 
 833
 00:33:44,605 --> 00:33:45,939
-… chamado de esp·tula.
+√â chamado de esp√°tula.
 
 834
 00:33:45,940 --> 00:33:48,274
-Eu tambÈm tenho uma
-vassourinha, com licenÁa.
+Eu tamb√©m tenho uma
+vassourinha, com licen√ßa.
 
 835
 00:33:56,785 --> 00:33:59,285
-FaÁa isso r·pido.
+Fa√ßa isso r√°pido.
 
 836
 00:34:00,788 --> 00:34:03,673
 - Eu encontrei algo!
-- R·pido!
+- R√°pido!
 
 837
 00:34:03,674 --> 00:34:06,292
 - Depressa, por favor.
-- … uma caixa!
+- √â uma caixa!
 
 838
 00:34:06,293 --> 00:34:07,961
@@ -3981,12 +3981,12 @@ Conseguimos!
 
 841
 00:34:28,649 --> 00:34:29,983
-NÛs vamos salvar
+N√≥s vamos salvar
 a Jane.
 
 842
 00:34:29,984 --> 00:34:31,534
-Est· tudo aqui.
+Est√° tudo aqui.
 
 843
 00:34:31,535 --> 00:34:33,319
@@ -4001,26 +4001,26 @@ da natureza.
 845
 00:34:35,623 --> 00:34:37,490
 "Ameixas secas
-para tripas rÌgidas."
+para tripas r√≠gidas."
 
 846
 00:34:37,491 --> 00:34:39,459
-Isso n„o È exatamente
+Isso n√£o √© exatamente
 deslumbrante.
 
 847
 00:34:39,460 --> 00:34:40,660
-Bem, nada disso È.
+Bem, nada disso √©.
 Eu te disse isso.
 
 848
 00:34:40,661 --> 00:34:42,495
-… um monte de remÈdios
-‡ base de ervas.
+√â um monte de rem√©dios
+√† base de ervas.
 
 849
 00:34:42,496 --> 00:34:44,862
-O que importa È que
+O que importa √© que
 Ken quer o livro.
 
 850
@@ -4039,44 +4039,44 @@ pegar nossas malas,
 
 853
 00:34:48,836 --> 00:34:50,470
-e pegar o prÛximo vÙo!
+e pegar o pr√≥ximo v√¥o!
 
 854
 00:34:50,471 --> 00:34:52,005
-Ok, o ˙ltimo a chegar
-no pÈ da montanha...
+Ok, o √∫ltimo a chegar
+no p√© da montanha...
 
 855
 00:34:52,006 --> 00:34:55,391
-AtÈ mais! Ei, tenho que
-pegar minha esp·tula!
+At√© mais! Ei, tenho que
+pegar minha esp√°tula!
 
 856
 00:35:04,352 --> 00:35:06,238
-Reade enviou atualizaÁıes.
+Reade enviou atualiza√ß√µes.
 
 857
 00:35:06,239 --> 00:35:08,274
-Disse que o time est·
+Disse que o time est√°
 perto de conseguir.
 
 858
 00:35:08,275 --> 00:35:10,450
-Est· falando sÛ
+Est√° falando s√≥
 por falar?
 
 859
 00:35:16,197 --> 00:35:17,914
 Porque eu mentiria
-para vocÍ?
+para voc√™?
 
 860
 00:35:17,915 --> 00:35:22,001
-Queria poder ver vocÍ...
+Queria poder ver voc√™...
 
 861
 00:35:22,002 --> 00:35:24,921
-Uma ˙ltima vez.
+Uma √∫ltima vez.
 
 862
 00:35:24,922 --> 00:35:29,342
@@ -4089,8 +4089,8 @@ Hmm.
 
 864
 00:35:33,264 --> 00:35:35,431
-Meu sorriso n„o
-È t„o torto.
+Meu sorriso n√£o
+√© t√£o torto.
 
 865
 00:35:35,432 --> 00:35:37,433
@@ -4102,11 +4102,11 @@ Eu te amo.
 
 867
 00:35:43,023 --> 00:35:45,858
-VocÍ sabe disso, n„o È?
+Voc√™ sabe disso, n√£o √©?
 
 868
 00:35:49,030 --> 00:35:51,030
-N„o fala assim.
+N√£o fala assim.
 
 869
 00:35:51,031 --> 00:35:53,366
@@ -4115,7 +4115,7 @@ Assim como?
 870
 00:35:58,573 --> 00:36:01,074
 Como se fosse
-a ˙ltima vez.
+a √∫ltima vez.
 
 871
 00:36:01,075 --> 00:36:04,410
@@ -4124,11 +4124,11 @@ sempre vou te amar.
 
 872
 00:36:05,547 --> 00:36:07,580
-Eu te amo tambÈm.
+Eu te amo tamb√©m.
 
 873
 00:36:09,584 --> 00:36:11,384
-Porque vocÍ n„o...
+Porque voc√™ n√£o...
 
 874
 00:36:11,385 --> 00:36:13,886
@@ -4144,27 +4144,27 @@ Eu volto logo.
 
 877
 00:36:27,769 --> 00:36:30,770
-Aqui È o Kurt Weller do
-escritÛrio do FBI de Nova York.
+Aqui √© o Kurt Weller do
+escrit√≥rio do FBI de Nova York.
 
 878
 00:36:30,771 --> 00:36:33,439
 Quero falar com Ken Lee.
-… urgente.
+√â urgente.
 
 879
 00:36:33,440 --> 00:36:34,824
-<i>Sr. Lee saiu e n„o tem
+<i>Sr. Lee saiu e n√£o tem
 hora para voltar.</i>
 
 880
 00:36:34,825 --> 00:36:36,325
-<i>Avisarei que vocÍ ligou.</i>
+<i>Avisarei que voc√™ ligou.</i>
 
 881
 00:36:36,326 --> 00:36:39,112
-<i>Supostamente, ele n„o sai
-de casa h· anos.</i>
+<i>Supostamente, ele n√£o sai
+de casa h√° anos.</i>
 
 882
 00:36:45,002 --> 00:36:47,837
@@ -4174,31 +4174,31 @@ todo o trabalho.
 883
 00:36:47,838 --> 00:36:51,924
 Eu fico com o livro agora,
-ou vocÍs pagar„o com suas vidas.
+ou voc√™s pagar√£o com suas vidas.
 
 884
 00:36:54,675 --> 00:36:57,927
-- NÛs tÌnhamos um acordo.
+- N√≥s t√≠nhamos um acordo.
 - Empurre-o.
 
 885
 00:36:57,928 --> 00:36:59,045
-VocÍ tem certeza?
+Voc√™ tem certeza?
 Isso parece meio
 
 886
 00:36:59,046 --> 00:37:00,513
-desrespeitoso, n„o acha?
+desrespeitoso, n√£o acha?
 
 887
 00:37:00,514 --> 00:37:01,548
-AlÈm disso, È bem antigo.
-Eu n„o sei
+Al√©m disso, √© bem antigo.
+Eu n√£o sei
 
 888
 00:37:01,549 --> 00:37:02,682
-n„o sei se empurr·-lo
-È a melhor maneira de...
+n√£o sei se empurr√°-lo
+√© a melhor maneira de...
 
 889
 00:37:02,683 --> 00:37:05,018
@@ -4211,22 +4211,22 @@ Ok, empurrando.
 
 891
 00:37:09,523 --> 00:37:12,392
-- Nossa amiga est· morrendo!
+- Nossa amiga est√° morrendo!
 - Eu disse abaixem-se!
 
 892
 00:37:28,398 --> 00:37:30,259
-<i>Sr. Lee saiu, n„o tem
+<i>Sr. Lee saiu, n√£o tem
 hora para voltar.</i>
 
 893
 00:37:30,460 --> 00:37:31,628
-<i>Avisarei que vocÍ ligou.</i>
+<i>Avisarei que voc√™ ligou.</i>
 
 894
 00:37:31,629 --> 00:37:35,415
 <i>Tentei ligar para Ken Lee.
-Disseram que ele n„o est· em casa.</i>
+Disseram que ele n√£o est√° em casa.</i>
 
 895
 00:37:36,585 --> 00:37:38,134
@@ -4238,13 +4238,13 @@ Rastreando o celular.
 
 897
 00:37:41,089 --> 00:37:42,889
-- O que ele est· fazendo no Peru?
-- Ele est· nos enganando.
+- O que ele est√° fazendo no Peru?
+- Ele est√° nos enganando.
 
 898
 00:37:42,890 --> 00:37:44,591
-Ele n„o pretende trocar
-as cÈlulas-tronco
+Ele n√£o pretende trocar
+as c√©lulas-tronco
 
 899
 00:37:44,592 --> 00:37:45,925
@@ -4252,7 +4252,7 @@ pelo Livro dos Segredos.
 
 900
 00:37:45,926 --> 00:37:47,060
-Ele est· apenas usando
+Ele est√° apenas usando
 Patterson e Rich
 
 901
@@ -4261,7 +4261,7 @@ para encontrar o livro.
 
 902
 00:37:48,429 --> 00:37:49,729
-Ligue para a PolÌcia
+Ligue para a Pol√≠cia
 Nacional Peruana.
 
 903
@@ -4275,13 +4275,13 @@ Hora de um novo plano!
 
 905
 00:38:03,161 --> 00:38:06,579
-Ent„o, agora que os negÛcios
+Ent√£o, agora que os neg√≥cios
 foram cancelados,
 
 906
 00:38:06,580 --> 00:38:08,448
 temos um novo
-acordo para vocÍ.
+acordo para voc√™.
 
 907
 00:38:08,449 --> 00:38:09,999
@@ -4290,17 +4290,17 @@ Podemos te tirar daqui.
 908
 00:38:10,000 --> 00:38:12,168
 A menos que queira passar um
-tempo em uma pris„o peruana.
+tempo em uma pris√£o peruana.
 
 909
 00:38:12,169 --> 00:38:13,670
 Tenho certeza que eles
-n„o tÍm nenhum ·lcool gel,
+n√£o t√™m nenhum √°lcool gel,
 
 910
 00:38:13,671 --> 00:38:15,088
 apesar de que
-apertos de m„os
+apertos de m√£os
 
 911
 00:38:15,089 --> 00:38:16,923
@@ -4309,45 +4309,45 @@ apertos de m„os
 
 912
 00:38:16,924 --> 00:38:18,224
-E como um hipocondrÌaco...
+E como um hipocondr√≠aco...
 
 913
 00:38:18,225 --> 00:38:19,959
-- Eu n„o sou hipocondrÌ...
+- Eu n√£o sou hipocondr√≠...
 - Por favor!
 
 914
 00:38:19,960 --> 00:38:21,511
-VocÍ come comida liofilizada
+Voc√™ come comida liofilizada
 
 915
 00:38:21,512 --> 00:38:23,096
-em uma c‚mara de oxigÍnio
+em uma c√¢mara de oxig√™nio
 hermeticamente fechada.
 
 916
 00:38:23,097 --> 00:38:24,130
-Quanto tempo vocÍ acha
+Quanto tempo voc√™ acha
 que vai durar
 
 917
 00:38:24,131 --> 00:38:25,765
-em um ch„o sujo
+em um ch√£o sujo
 de concreto?
 
 918
 00:38:25,766 --> 00:38:28,184
-O que vocÍs querem?
+O que voc√™s querem?
 
 919
 00:38:28,185 --> 00:38:29,769
-NÛs queremos o
+N√≥s queremos o
 que pedimos.
 
 920
 00:38:29,770 --> 00:38:32,138
-VocÍ nos d· as
-cÈlulas Stanton,
+Voc√™ nos d√° as
+c√©lulas Stanton,
 
 921
 00:38:32,139 --> 00:38:33,773
@@ -4356,7 +4356,7 @@ de volta aos EUA
 
 922
 00:38:33,774 --> 00:38:35,642
-e em pris„o domiciliar
+e em pris√£o domiciliar
 indefinida
 
 923
@@ -4371,16 +4371,16 @@ E quanto ao Livro?
 925
 00:38:38,812 --> 00:38:40,697
 Podemos por favor
-cham·-lo de
+cham√°-lo de
 
 926
 00:38:40,698 --> 00:38:42,982
 O Livro Dos Segredos?
-Vamos respeit·-lo, por favor.
+Vamos respeit√°-lo, por favor.
 
 927
 00:38:42,983 --> 00:38:45,652
-- Esse È o nome dele.
+- Esse √© o nome dele.
 - O livro vai voltar ao lugar que pertence,
 
 928
@@ -4390,12 +4390,12 @@ Museu Nacional de Arqueologia,
 929
 00:38:47,655 --> 00:38:49,789
 Antropologia e
-HistÛria do Peru.
+Hist√≥ria do Peru.
 
 930
 00:38:49,790 --> 00:38:51,791
 Depois de eu
-scane·-lo, claro.
+scane√°-lo, claro.
 
 931
 00:38:53,712 --> 00:38:55,211
@@ -4404,22 +4404,22 @@ Temos um acordo.
 932
 00:38:56,798 --> 00:38:58,831
 Chame seus minions.
-PeÁa que entreguem
+Pe√ßa que entreguem
 
 933
 00:38:58,832 --> 00:39:01,817
-as cÈlulas no Hospital Sinai,
+as c√©lulas no Hospital Sinai,
 imediatamente.
 
 934
 00:39:13,214 --> 00:39:15,648
-- Ei, onde est· a Jane?
+- Ei, onde est√° a Jane?
 - Deu tudo certo?
 
 935
 00:39:15,649 --> 00:39:20,153
-Pergunte vocÍ
-mesmo ‡ ela.
+Pergunte voc√™
+mesmo √† ela.
 
 936
 00:39:20,154 --> 00:39:22,202
@@ -4428,12 +4428,12 @@ Oi!
 937
 00:39:22,203 --> 00:39:23,906
 Aparentemente esse hospital
-n„o acredita em
+n√£o acredita em
 
 938
 00:39:23,907 --> 00:39:25,825
-em "perÌodo de recuperaÁ„o",
-e j· me fizeram
+em "per√≠odo de recupera√ß√£o",
+e j√° me fizeram
 
 939
 00:39:25,826 --> 00:39:28,194
@@ -4442,11 +4442,11 @@ corredores.
 
 940
 00:39:28,195 --> 00:39:30,384
-Isso... Isso È Ûtimo!
+Isso... Isso √© √≥timo!
 
 941
 00:39:30,385 --> 00:39:31,933
-… pegar ou largar, n„o È?
+√â pegar ou largar, n√£o √©?
 
 942
 00:39:31,934 --> 00:39:34,083
@@ -4455,17 +4455,17 @@ Acho que sim.
 943
 00:39:34,084 --> 00:39:35,752
 O tratamento com
-cÈlulas-tronco,
+c√©lulas-tronco,
 
 944
 00:39:35,753 --> 00:39:37,003
-n„o poderia ter
+n√£o poderia ter
 sido melhor.
 
 945
 00:39:37,004 --> 00:39:40,590
 Sim, eu vou ficar bem,
-graÁas ‡ vocÍs dois.
+gra√ßas √† voc√™s dois.
 
 946
 00:39:40,591 --> 00:39:43,576
@@ -4477,12 +4477,12 @@ E, tecnicamente,
 
 948
 00:39:45,946 --> 00:39:47,748
-È graÁas ao
+√© gra√ßas ao
 Livro Dos Segredos.
 
 949
 00:39:47,749 --> 00:39:49,241
-VocÍ sabe, ele È a raz„o
+Voc√™ sabe, ele √© a raz√£o
 
 950
 00:39:49,242 --> 00:39:50,801
@@ -4492,7 +4492,7 @@ foi salva,
 951
 00:39:50,802 --> 00:39:52,685
 o que se formos pensar,
-para mim, È algo Ûbvio.
+para mim, √© algo √≥bvio.
 
 952
 00:39:52,686 --> 00:39:53,853
@@ -4501,49 +4501,49 @@ Quero dizer, todos sabemos
 953
 00:39:53,854 --> 00:39:55,151
 que esse livro era
-minha obsess„o.
+minha obsess√£o.
 
 954
 00:39:55,152 --> 00:39:56,939
-Eu o trouxe para vocÍs.
+Eu o trouxe para voc√™s.
 
 955
 00:39:56,940 --> 00:39:59,192
 Mas, claro que se a
-Senhorita IncrÈdula aqui
+Senhorita Incr√©dula aqui
 
 956
 00:39:59,193 --> 00:40:00,727
-n„o tivesse me
+n√£o tivesse me
 questionado a cada passo...
 
 957
 00:40:00,728 --> 00:40:03,735
-Ah, qual È! As cÈlulas-tronco
+Ah, qual √©! As c√©lulas-tronco
 que salvaram a Jane!
 
 958
 00:40:03,736 --> 00:40:05,898
-Existe uma diferenÁa
+Existe uma diferen√ßa
 entre causa real
 
 959
 00:40:05,899 --> 00:40:08,201
-- e causa prÛxima...
-- Olha sÛ vocÍ toda jurÌdica...
+- e causa pr√≥xima...
+- Olha s√≥ voc√™ toda jur√≠dica...
 
 960
 00:40:08,202 --> 00:40:09,284
-A prÛpria JuÌza Judy.
+A pr√≥pria Ju√≠za Judy.
 
 961
 00:40:09,285 --> 00:40:11,704
-Ok, pessoal, vocÍs podem
+Ok, pessoal, voc√™s podem
 discutir isso mais tarde.
 
 962
 00:40:11,705 --> 00:40:13,039
-Por que n„o deixamos
+Por que n√£o deixamos
 Jane descansar,
 
 963
@@ -4553,11 +4553,11 @@ seja contra isso?
 
 964
 00:40:15,242 --> 00:40:16,793
-”tima ideia.
+√ìtima ideia.
 
 965
 00:40:16,794 --> 00:40:19,859
-SÈrio, obrigada.
+S√©rio, obrigada.
 
 966
 00:40:28,589 --> 00:40:31,057
@@ -4567,7 +4567,7 @@ Salvar a vida da Jane,
 967
 00:40:31,058 --> 00:40:33,226
 pode me qualificar
-para uma  promoÁ„o, n„o È?
+para uma  promo√ß√£o, n√£o √©?
 
 968
 00:40:33,227 --> 00:40:35,261
@@ -4585,23 +4585,23 @@ Zapata e Boston.
 
 971
 00:40:39,566 --> 00:40:42,318
-A miss„o de Boston n„o est·
-indo t„o bem quanto a minha?
+A miss√£o de Boston n√£o est√°
+indo t√£o bem quanto a minha?
 
 972
 00:40:42,319 --> 00:40:43,903
 - Nossa?
-- Possivelmente n„o.
+- Possivelmente n√£o.
 
 973
 00:40:43,904 --> 00:40:45,972
-N„o tenho certeza.
-Eles ainda n„o entraram em contato.
+N√£o tenho certeza.
+Eles ainda n√£o entraram em contato.
 
 974
 00:40:45,973 --> 00:40:48,426
 - Como assim? Tipo, nada?
-- N„o.
+- N√£o.
 
 975
 00:40:48,427 --> 00:40:50,777
@@ -4611,16 +4611,16 @@ estragar o disfarce deles.
 976
 00:40:50,778 --> 00:40:53,669
 - Podemos rastrear os celulares.
-- Afreen est· tentando.
+- Afreen est√° tentando.
 
 977
 00:40:53,670 --> 00:40:56,121
-Sem ofensas ‡ Afreen,
-mas ela n„o È nÛs.
+Sem ofensas √† Afreen,
+mas ela n√£o √© n√≥s.
 
 978
 00:40:56,252 --> 00:40:58,243
-Vamos encontr·-los.
+Vamos encontr√°-los.
 
 979
 00:41:06,628 --> 00:41:08,344
@@ -4634,7 +4634,7 @@ noite toda.
 
 981
 00:41:10,597 --> 00:41:14,005
-Relaxa, Tasha. … sÛ o tempo de
+Relaxa, Tasha. √â s√≥ o tempo de
 nos mudarmos para a segunda base.
 
 982
@@ -4653,7 +4653,7 @@ a casa-segura,
 
 985
 00:41:21,775 --> 00:41:22,942
-vigi·-lo, e ent„o vocÍ iria
+vigi√°-lo, e ent√£o voc√™ iria
 
 986
 00:41:22,943 --> 00:41:23,976
@@ -4666,22 +4666,22 @@ Estou pronta.
 
 988
 00:41:25,312 --> 00:41:26,779
-Agora, me dÍ seus
+Agora, me d√™ seus
 celulares.
 
 989
 00:41:26,780 --> 00:41:28,314
-N„o foi para isso
+N√£o foi para isso
 que eu vim.
 
 990
 00:41:28,315 --> 00:41:30,283
 Coloque-se no seu lugar!
-Aturei suas petul‚ncias uma vez,
+Aturei suas petul√¢ncias uma vez,
 
 991
 00:41:30,284 --> 00:41:32,151
-n„o vou aturar de novo,
+n√£o vou aturar de novo,
 e eu odiaria reclamar
 
 992
@@ -4695,7 +4695,7 @@ Onde estamos indo?
 
 994
 00:41:35,122 --> 00:41:37,290
-Algum lugar invisÌvel,
+Algum lugar invis√≠vel,
 
 995
 00:41:37,291 --> 00:41:38,708
@@ -4708,17 +4708,17 @@ sua longevidade.
 
 997
 00:41:40,327 --> 00:41:42,962
-Agora, me dÍ seus celulares.
-N„o podemos arriscar
+Agora, me d√™ seus celulares.
+N√£o podemos arriscar
 
 998
 00:41:42,963 --> 00:41:45,381
-que alguÈm nos rastreie
+que algu√©m nos rastreie
 nosso paradeiro.
 
 999
 00:41:45,382 --> 00:41:47,070
-Ele ir· hackear hoje?
+Ele ir√° hackear hoje?
 
 1000
 00:41:47,071 --> 00:41:48,968
@@ -4726,7 +4726,7 @@ Algum problema?
 
 1001
 00:41:48,969 --> 00:41:51,036
-… sÛ que ele n„o dormiu.
+√â s√≥ que ele n√£o dormiu.
 
 1002
 00:41:51,037 --> 00:41:53,806
@@ -4735,16 +4735,16 @@ de esperar, Tasha.
 
 1003
 00:41:53,807 --> 00:41:56,492
-AtÈ hoje a noite, teremos
+At√© hoje a noite, teremos
 planejado o acidente
 
 1004
 00:41:56,493 --> 00:41:58,394
-mais devastador da histÛria
-das companhias aÈreas.
+mais devastador da hist√≥ria
+das companhias a√©reas.
 
 1005
 00:41:58,395 --> 00:42:03,120
-NOSSA JANEZINHA EST¡ SALVA!!!!! E VOC  QUERIDA,
+NOSSA JANEZINHA EST√Å SALVA!!!!! E VOC√ä QUERIDA,
 VAMOS COM CALMA COM ESSES ATAQUES AI! #SOS
 
