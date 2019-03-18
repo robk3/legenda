@@ -1,7 +1,7 @@
 1
 00:00:00,627 --> 00:00:04,475
-<i>Meu nome È Barry Allen,
-e sou o homem mais r·pido vivo.</i>
+<i>Meu nome √© Barry Allen,
+e sou o homem mais r√°pido vivo.</i>
 
 2
 00:00:04,476 --> 00:00:07,652
@@ -30,12 +30,12 @@ do futuro veio para ajudar,</i>
 7
 00:00:18,069 --> 00:00:20,648
 <i>Agora, nosso mundo
-est· mais perigoso do que nunca.</i>
+est√° mais perigoso do que nunca.</i>
 
 8
 00:00:20,649 --> 00:00:23,195
-<i>E sou o ˙nico r·pido o bastante
-para salv·-lo.</i>
+<i>E sou o √∫nico r√°pido o bastante
+para salv√°-lo.</i>
 
 9
 00:00:23,196 --> 00:00:25,879
@@ -47,8 +47,8 @@ para salv·-lo.</i>
 
 11
 00:00:29,797 --> 00:00:33,336
-<i>- O que v„o fazer com ele?
-- Acho que seria melhor tentar cur·-lo.</i>
+<i>- O que v√£o fazer com ele?
+- Acho que seria melhor tentar cur√°-lo.</i>
 
 12
 00:00:33,337 --> 00:00:35,008
@@ -57,8 +57,8 @@ com a Dra. Lamden.
 
 13
 00:00:35,886 --> 00:00:38,362
-<i>Grodd est· atacando-o psiquicamente.
-Ele est· paralisado.</i>
+<i>Grodd est√° atacando-o psiquicamente.
+Ele est√° paralisado.</i>
 
 14
 00:00:38,363 --> 00:00:41,058
@@ -66,7 +66,7 @@ Humano fraco.
 
 15
 00:00:41,059 --> 00:00:43,074
-PoderÌamos curar
+Poder√≠amos curar
 um meta-humano.
 
 16
@@ -76,12 +76,12 @@ que possamos fazer.
 
 17
 00:00:48,152 --> 00:00:49,809
-<i>N„o deveria ir pro escritÛrio.
-N„o agora.</i>
+<i>N√£o deveria ir pro escrit√≥rio.
+N√£o agora.</i>
 
 18
 00:00:49,810 --> 00:00:52,268
-- Por quÍ?
+- Por qu√™?
 <i>- Quantas vezes aconteceu?</i>
 
 19
@@ -91,12 +91,12 @@ N„o agora.</i>
 
 20
 00:00:54,324 --> 00:00:56,873
-n„o posso me importar tanto
-sobre sujar as m„os como Flash.
+n√£o posso me importar tanto
+sobre sujar as m√£os como Flash.
 
 21
 00:00:56,874 --> 00:00:58,900
-¿s vezes os fins justificam
+√Äs vezes os fins justificam
 os meios.
 
 22
@@ -105,7 +105,7 @@ Entendo isso agora.
 
 23
 00:01:06,481 --> 00:01:07,813
-N„o consigo me mexer.
+N√£o consigo me mexer.
 
 24
 00:01:19,903 --> 00:01:21,403
@@ -138,7 +138,7 @@ Legendei.com</b>
 30
 00:01:30,623 --> 00:01:33,668
 finalmente temos
-em nossas m„os
+em nossas m√£os
 
 31
 00:01:34,394 --> 00:01:36,184
@@ -146,7 +146,7 @@ a cura meta-humana.
 
 32
 00:01:40,481 --> 00:01:42,877
-Que legal. N„o È como se eu
+Que legal. N√£o √© como se eu
 tivesse passado semanas
 
 33
@@ -156,36 +156,36 @@ ou outra coisa.
 
 34
 00:01:44,387 --> 00:01:46,171
-N„o È isso.
+N√£o √© isso.
 Acho que...
 
 35
 00:01:46,172 --> 00:01:50,859
-sÛ estamos esperando
-pelo inevit·vel "mas"
+s√≥ estamos esperando
+pelo inevit√°vel "mas"
 
 36
 00:01:50,860 --> 00:01:52,796
 que segue
-uma declaraÁ„o t„o grande.
+uma declara√ß√£o t√£o grande.
 
 37
 00:01:53,186 --> 00:01:55,882
-N„o, est· feito.
-E graÁas a Caitlin,
+N√£o, est√° feito.
+E gra√ßas a Caitlin,
 
 38
 00:01:55,883 --> 00:01:59,076
-temos atÈ uma maneira
+temos at√© uma maneira
 de entregar nossa bala de prata,
 
 39
 00:01:59,077 --> 00:02:01,532
-ent„o n„o, sem "mas".
+ent√£o n√£o, sem "mas".
 
 40
 00:02:01,533 --> 00:02:03,568
-Acredito que h· um grande
+Acredito que h√° um grande
 "mas" vindo.
 
 41
@@ -195,81 +195,81 @@ a cura em um meta-humano.
 
 42
 00:02:06,672 --> 00:02:09,889
-<i>- Voil‡.</i> AÌ est·.
-- O que precisamos È salvar
+<i>- Voil√†.</i> A√≠ est√°.
+- O que precisamos √© salvar
 
 43
 00:02:09,890 --> 00:02:11,590
 os metas que o Cicada
-est· atacando
+est√° atacando
 
 44
 00:02:11,591 --> 00:02:13,739
-porque ele n„o vai parar
+porque ele n√£o vai parar
 de matar pessoas inocentes.
 
 45
 00:02:13,740 --> 00:02:17,482
-- A cura È perigosa?
-- Bem, È um soro n„o testado
+- A cura √© perigosa?
+- Bem, √© um soro n√£o testado
 
 46
 00:02:17,483 --> 00:02:19,384
 que altera a biologia
-em um nÌvel celular,
+em um n√≠vel celular,
 
 47
 00:02:19,385 --> 00:02:21,286
-ent„o atÈ experimentarmos
-em alguÈm
+ent√£o at√© experimentarmos
+em algu√©m
 
 48
 00:02:21,287 --> 00:02:24,176
-- n„o temos como saber.
-- Quando comeÁamos a trabalhar na cura,
+- n√£o temos como saber.
+- Quando come√ßamos a trabalhar na cura,
 
 49
 00:02:24,177 --> 00:02:27,231
 decidimos que seria uma escolha,
-n„o uma arma,
+n√£o uma arma,
 
 50
 00:02:27,232 --> 00:02:29,194
-ent„o tudo que precisamos
-È de um volunt·rio.
+ent√£o tudo que precisamos
+√© de um volunt√°rio.
 
 51
 00:02:29,195 --> 00:02:31,059
-Bem, h· um enigma, certo?
+Bem, h√° um enigma, certo?
 
 52
 00:02:31,060 --> 00:02:33,481
-Um volunt·rio meta-humano
+Um volunt√°rio meta-humano
 em uma cidade onde os meta-humanos
 
 53
 00:02:33,482 --> 00:02:35,450
-foram perseguidos por nÛs
+foram perseguidos por n√≥s
 ou mortos pelo Cicada
 
 54
 00:02:35,451 --> 00:02:38,338
 ou encarcerado em Iron Heights,
-ent„o...
+ent√£o...
 
 55
 00:02:38,339 --> 00:02:40,639
-NinguÈm de nenhum dos grupos
+Ningu√©m de nenhum dos grupos
 vai se voluntariar.
 
 56
 00:02:40,640 --> 00:02:44,193
-Esses criminosos n„o v„o desistir
+Esses criminosos n√£o v√£o desistir
 de seus poderes, embora...
 
 57
 00:02:44,194 --> 00:02:46,273
-Tem que haver alguÈm
+Tem que haver algu√©m
 em algum lugar.
 
 58
@@ -279,51 +279,51 @@ Sim, em outra Terra.
 59
 00:02:49,175 --> 00:02:51,657
 Vou ligar pro Harry,
-ver se tem alguÈm da Terra-2
+ver se tem algu√©m da Terra-2
 
 60
 00:02:51,658 --> 00:02:53,065
-- que queira ser volunt·rio.
+- que queira ser volunt√°rio.
 - Isso.
 
 61
 00:02:53,066 --> 00:02:54,860
-N„o È realmente
+N√£o √© realmente
 o que eu estava sugerindo.
 
 62
 00:02:55,266 --> 00:02:57,490
-- N„o precisa ligar pro Harry.
-- Espere, por que n„o?
+- N√£o precisa ligar pro Harry.
+- Espere, por que n√£o?
 
 63
 00:02:57,491 --> 00:03:00,592
-Porque j· existe um meta aqui
+Porque j√° existe um meta aqui
 da Terra-2,
 
 64
 00:03:00,593 --> 00:03:02,808
-alguÈm que pode
-n„o querer seus poderes...
+algu√©m que pode
+n√£o querer seus poderes...
 
 65
 00:03:03,960 --> 00:03:08,295
-embora seja muito difÌcil falar
+embora seja muito dif√≠cil falar
 com ele.
 
 66
 00:03:08,668 --> 00:03:10,204
-Tubar„o-Rei...
+Tubar√£o-Rei...
 
 67
 00:03:10,205 --> 00:03:11,822
 Realmente acham
-que podem cur·-lo?
+que podem cur√°-lo?
 
 68
 00:03:11,823 --> 00:03:14,795
-- Essa È a ideia.
-- Lyla essa È...
+- Essa √© a ideia.
+- Lyla essa √©...
 
 69
 00:03:16,010 --> 00:03:18,320
@@ -341,55 +341,55 @@ minha filha, Nora.
 
 72
 00:03:22,953 --> 00:03:24,093
-Estranho, nÈ?
+Estranho, n√©?
 
 73
 00:03:24,094 --> 00:03:28,047
-SÛ n„o È mais que descobrir
+S√≥ n√£o √© mais que descobrir
 que seu filho costumava ser sua filha.
 
 74
 00:03:29,188 --> 00:03:31,016
-Ent„o, por que o Tubar„o-Rei?
+Ent√£o, por que o Tubar√£o-Rei?
 
 75
 00:03:31,017 --> 00:03:34,459
-Os nÌveis de matÈria negra variam
+Os n√≠veis de mat√©ria negra variam
 de meta-humano para meta-humano,
 
 76
 00:03:34,460 --> 00:03:37,730
 mas o caso de Shay Lamden
-È o mais extremo que vimos,
+√© o mais extremo que vimos,
 
 77
 00:03:37,731 --> 00:03:40,332
-ent„o achamos que se revertÍssemos
-os efeitos de um nÌvel alto
+ent√£o achamos que se revert√™ssemos
+os efeitos de um n√≠vel alto
 
 78
 00:03:40,333 --> 00:03:43,151
-- de mutaÁ„o como a dele...
+- de muta√ß√£o como a dele...
 - Poderiam ajudar todos os meta-humanos.
 
 79
 00:03:44,004 --> 00:03:47,556
-Olha, sabemos que o Tubar„o-Rei
+Olha, sabemos que o Tubar√£o-Rei
 tem fala limitada,
 
 80
 00:03:47,557 --> 00:03:51,127
-mas poderÌamos tentar
+mas poder√≠amos tentar
 conversar com ele?
 
 81
 00:03:51,128 --> 00:03:53,145
 Se vamos fazer isso,
-precisamos da permiss„o dele.
+precisamos da permiss√£o dele.
 
 82
 00:03:53,146 --> 00:03:54,673
-VocÍ est· com sorte, Cisco.
+Voc√™ est√° com sorte, Cisco.
 
 83
 00:03:54,674 --> 00:03:57,142
@@ -402,21 +402,21 @@ ele tem sido bem tagarela.
 
 85
 00:04:03,600 --> 00:04:05,721
-T„o pacifico.
+T√£o pacifico.
 
 86
 00:04:06,666 --> 00:04:08,843
-T„o linda.
+T√£o linda.
 
 87
 00:04:09,599 --> 00:04:13,100
-- T„o pacifico.
-- …, n„o È?
+- T√£o pacifico.
+- √â, n√£o √©?
 
 88
 00:04:13,433 --> 00:04:16,656
 Sabe que eu nunca entendi
-porque o Wally foi pra l·.
+porque o Wally foi pra l√°.
 
 89
 00:04:16,657 --> 00:04:19,271
@@ -425,13 +425,13 @@ porque o Wally foi pra l·.
 
 90
 00:04:19,272 --> 00:04:21,755
-Meu irm„ozinho
-est· voltando do Tibete?
+Meu irm√£ozinho
+est√° voltando do Tibete?
 
 91
 00:04:21,756 --> 00:04:25,258
 Tudo o que posso dizer
-È que ele est· mais aliviado
+√© que ele est√° mais aliviado
 
 92
 00:04:25,259 --> 00:04:27,927
@@ -444,12 +444,12 @@ que ele quer ficar longe da...
 
 94
 00:04:30,911 --> 00:04:35,454
-loucura que È Central City,
-ent„o sabe como È? Que assim seja.
+loucura que √© Central City,
+ent√£o sabe como √©? Que assim seja.
 
 95
 00:04:35,455 --> 00:04:36,956
-Pois È.
+Pois √©.
 
 96
 00:04:36,957 --> 00:04:40,198
@@ -459,44 +459,44 @@ que esteja de volta, pai.
 97
 00:04:40,528 --> 00:04:42,594
 Estamos todos felizes
-por vocÍ estar de volta.
+por voc√™ estar de volta.
 
 98
 00:04:43,877 --> 00:04:46,765
-AtÈ mesmo o capit„o Singh
-est· feliz por vocÍ estar de volta.
+At√© mesmo o capit√£o Singh
+est√° feliz por voc√™ estar de volta.
 
 99
 00:04:48,565 --> 00:04:49,884
-- O quÍ...
+- O qu√™...
 - Eu vou.
 
 100
 00:04:49,885 --> 00:04:52,037
-N„o, n„o.
-N„o vai, n„o.
+N√£o, n√£o.
+N√£o vai, n√£o.
 
 101
 00:04:52,038 --> 00:04:53,205
-N„o vai.
+N√£o vai.
 
 102
 00:04:53,206 --> 00:04:56,274
-VocÍ j· cuidou do bebÍ
+Voc√™ j√° cuidou do beb√™
 por muito tempo, Joe West.
 
 103
 00:04:57,379 --> 00:04:59,105
-Estou t„o feliz que voltou.
+Estou t√£o feliz que voltou.
 
 104
 00:04:59,106 --> 00:05:00,907
-T· legal, t· legal.
+T√° legal, t√° legal.
 
 105
 00:05:02,781 --> 00:05:04,966
-J· vamos falar sobre esse sof·
-que vocÍ comprou?
+J√° vamos falar sobre esse sof√°
+que voc√™ comprou?
 
 106
 00:05:04,967 --> 00:05:07,202
@@ -510,7 +510,7 @@ Outro dia.
 
 108
 00:05:10,240 --> 00:05:14,456
-Ent„o,
+Ent√£o,
 Cecile me contou tudo.
 
 109
@@ -520,12 +520,12 @@ Esteve muito ocupada.
 
 110
 00:05:18,981 --> 00:05:22,148
-Pois È, bem...
+Pois √©, bem...
 
 111
 00:05:22,149 --> 00:05:25,712
 O Time Flash vai descobrir
-uma maneira de vencÍ-lo.
+uma maneira de venc√™-lo.
 
 112
 00:05:26,173 --> 00:05:29,942
@@ -538,7 +538,7 @@ e isso me fez pensar.
 
 114
 00:05:31,931 --> 00:05:35,395
-O Cicada j· escapou
+O Cicada j√° escapou
 tantas vezes
 
 115
@@ -547,38 +547,38 @@ que estou pensando
 
 116
 00:05:37,937 --> 00:05:40,830
-que ele ainda est· recebendo
-ajuda de alguÈm.
+que ele ainda est√° recebendo
+ajuda de algu√©m.
 
 117
 00:05:43,355 --> 00:05:46,589
-Eu quero mais cafÈ.
-Vou fazer mais cafÈ.
+Eu quero mais caf√©.
+Vou fazer mais caf√©.
 
 118
 00:05:46,590 --> 00:05:49,592
-….
+√â.
 Vou trazer um fresquinho.
 
 119
 00:05:52,089 --> 00:05:54,118
 <i>Normalmente,</i>
-n„o trazemos ajuda externa,
+n√£o trazemos ajuda externa,
 
 120
 00:05:54,119 --> 00:05:56,488
 mas ficamos sabendo
-que a principal ictiÛloga do paÌs
+que a principal icti√≥loga do pa√≠s
 
 121
 00:05:56,489 --> 00:05:59,160
 estava pesquisando casos
-como os do Tubar„o-Rei.
+como os do Tubar√£o-Rei.
 
 122
 00:05:59,161 --> 00:06:01,378
 Na verdade,
-acho que devem conhecÍ-la.
+acho que devem conhec√™-la.
 
 123
 00:06:01,775 --> 00:06:03,327
@@ -586,17 +586,17 @@ Dra. Lamden?
 
 124
 00:06:03,328 --> 00:06:04,980
-Est· trabalhando
+Est√° trabalhando
 para a A.R.G.U.S.?
 
 125
 00:06:04,980 --> 00:06:07,496
-N„o podia recusar.
+N√£o podia recusar.
 E, por favor, me chame de Tanya.
 
 126
 00:06:07,497 --> 00:06:09,172
-E os LaboratÛrios Nautilus?
+E os Laborat√≥rios Nautilus?
 
 127
 00:06:09,172 --> 00:06:11,472
@@ -609,17 +609,17 @@ com outro Shay Lamden,
 
 129
 00:06:13,042 --> 00:06:16,412
-afetado pela mesma matÈria negra
+afetado pela mesma mat√©ria negra
 que meu falecido marido,
 
 130
 00:06:16,412 --> 00:06:18,929
-sÛ que o organismo desse Shay
-est· causando
+s√≥ que o organismo desse Shay
+est√° causando
 
 131
 00:06:18,930 --> 00:06:21,238
-uma diminuiÁ„o
+uma diminui√ß√£o
 nas vias neurais dele.
 
 132
@@ -629,31 +629,31 @@ a se comunicar direito.
 
 133
 00:06:23,074 --> 00:06:25,765
-A mente dele est· ficando mais
-parecida com a de um tubar„o?
+A mente dele est√° ficando mais
+parecida com a de um tubar√£o?
 
 134
 00:06:25,766 --> 00:06:28,233
-Estava, mas n„o mais.
+Estava, mas n√£o mais.
 
 135
 00:06:28,233 --> 00:06:30,127
-Eu impedi a diminuiÁ„o
-na mente do Tubar„o-Rei
+Eu impedi a diminui√ß√£o
+na mente do Tubar√£o-Rei
 
 136
 00:06:30,127 --> 00:06:34,130
 usando uma interface cerebral
-que estimula as saÌdas neurais.
+que estimula as sa√≠das neurais.
 
 137
 00:06:34,130 --> 00:06:36,313
-Eu a chamo de coroa telep·tica.
+Eu a chamo de coroa telep√°tica.
 
 138
 00:06:36,313 --> 00:06:39,597
 Tipo o M.A.D. 2.0 que fizemos.
-… brilhante.
+√â brilhante.
 
 139
 00:06:39,598 --> 00:06:42,750
@@ -676,27 +676,27 @@ sua mente humana de volta.
 
 143
 00:06:50,643 --> 00:06:52,591
-E j· que o estado atual
+E j√° que o estado atual
 de Shay
 
 144
 00:06:52,591 --> 00:06:54,491
 exige que ele fique
-mais dentro d'·gua,
+mais dentro d'√°gua,
 
 145
 00:06:55,260 --> 00:06:57,583
 estes fones de ouvido
-me permitem escut·-lo
+me permitem escut√°-lo
 
 146
 00:06:57,583 --> 00:06:59,474
-dentro d'·gua e vice-versa.
+dentro d'√°gua e vice-versa.
 
 147
 00:06:59,474 --> 00:07:02,118
-A coroa telep·tica permite Tanya
-alcanÁar o Tubar„o-Rei
+A coroa telep√°tica permite Tanya
+alcan√ßar o Tubar√£o-Rei
 
 148
 00:07:02,118 --> 00:07:04,487
@@ -710,7 +710,7 @@ para falar com ele?
 
 150
 00:07:06,777 --> 00:07:08,874
-Sim, mas por quÍ?
+Sim, mas por qu√™?
 
 151
 00:07:10,241 --> 00:07:12,032
@@ -724,22 +724,22 @@ mas descobrimos um jeito
 
 153
 00:07:15,699 --> 00:07:17,655
-de voltar cÈlulas
-infundidas de matÈria negra
+de voltar c√©lulas
+infundidas de mat√©ria negra
 
 154
 00:07:17,655 --> 00:07:19,119
-ao seu estado n„o-meta.
+ao seu estado n√£o-meta.
 
 155
 00:07:19,119 --> 00:07:21,364
 Agora, tudo que precisamos fazer
-È test·-la,
+√© test√°-la,
 
 156
 00:07:21,364 --> 00:07:23,189
-ent„o viemos atr·s
-de um volunt·rio.
+ent√£o viemos atr√°s
+de um volunt√°rio.
 
 157
 00:07:23,931 --> 00:07:25,431
@@ -747,7 +747,7 @@ Isso poderia mesmo funcionar?
 
 158
 00:07:25,966 --> 00:07:27,310
-Ent„o podemos pedir a ele?
+Ent√£o podemos pedir a ele?
 
 159
 00:07:38,302 --> 00:07:39,302
@@ -756,45 +756,45 @@ Shay...
 160
 00:07:40,125 --> 00:07:42,378
 Um Time do STAR Labs
-est· aqui.
+est√° aqui.
 
 161
 00:07:42,378 --> 00:07:44,974
-Eles tÍm algo
-que vocÍ pode querer.
+Eles t√™m algo
+que voc√™ pode querer.
 
 162
 00:07:44,975 --> 00:07:46,928
 Uma cura-meta
-para sua situaÁ„o.
+para sua situa√ß√£o.
 
 163
 00:07:48,775 --> 00:07:51,520
 Acredite,
-as an·lises preliminares deles
+as an√°lises preliminares deles
 
 164
 00:07:51,520 --> 00:07:53,950
-em reverter transfiguraÁıes
+em reverter transfigura√ß√µes
 de meta-genes
 
 165
 00:07:53,950 --> 00:07:57,055
-provam que h· uma forte chance
+provam que h√° uma forte chance
 de funcionar,
 
 166
 00:07:57,055 --> 00:07:59,505
 ainda mais
-de uma perspectiva ictiolÛgica.
+de uma perspectiva ictiol√≥gica.
 
 167
 00:08:00,691 --> 00:08:03,725
-N„o estou sÛ me exibindo.
+N√£o estou s√≥ me exibindo.
 
 168
 00:08:03,725 --> 00:08:05,425
-… a pesquisa deles.
+√â a pesquisa deles.
 
 169
 00:08:05,771 --> 00:08:07,763
@@ -803,8 +803,8 @@ maravilhoso.
 
 170
 00:08:08,791 --> 00:08:13,790
-Devemos cham·-lo
-de Tubar„o-Rei ou Shay?
+Devemos cham√°-lo
+de Tubar√£o-Rei ou Shay?
 
 171
 00:08:13,791 --> 00:08:15,291
@@ -816,7 +816,7 @@ Eu concordo.
 
 173
 00:08:19,719 --> 00:08:21,019
-Est· bem.
+Est√° bem.
 
 174
 00:08:37,119 --> 00:08:41,216
@@ -829,16 +829,16 @@ Sim.
 
 176
 00:08:43,509 --> 00:08:44,909
-Por onde comeÁamos?
+Por onde come√ßamos?
 
 177
 00:08:53,251 --> 00:08:54,251
-Aqui È a Agente Michaels.
+Aqui √© a Agente Michaels.
 
 178
 00:08:54,252 --> 00:08:56,958
-Todos os soldados disponÌveis
-para o aqu·rio!
+Todos os soldados dispon√≠veis
+para o aqu√°rio!
 
 179
 00:08:59,716 --> 00:09:01,692
@@ -852,18 +852,18 @@ Pensei que estava sob controle.
 
 181
 00:09:12,119 --> 00:09:15,216
-Eu n„o sei.
+Eu n√£o sei.
 Nunca aconteceu antes.
 
 182
 00:09:15,216 --> 00:09:17,630
-Talvez a neuro-regress„o
+Talvez a neuro-regress√£o
 chegou ao ponto
 
 183
 00:09:17,630 --> 00:09:19,764
 onde a coroa
-n„o o afeta mais.
+n√£o o afeta mais.
 
 184
 00:09:20,133 --> 00:09:21,462
@@ -872,7 +872,7 @@ para sempre.
 
 185
 00:09:21,462 --> 00:09:23,215
-N„o temos certeza disso.
+N√£o temos certeza disso.
 
 186
 00:09:23,215 --> 00:09:26,023
@@ -885,8 +885,8 @@ para impulsionar a coroa.
 
 188
 00:09:27,507 --> 00:09:30,046
-Precisamos achar o Tubar„o-Rei
-antes que machuque alguÈm.
+Precisamos achar o Tubar√£o-Rei
+antes que machuque algu√©m.
 
 189
 00:09:31,323 --> 00:09:33,639
@@ -900,7 +900,7 @@ em qualquer lugar.
 
 191
 00:09:34,920 --> 00:09:36,640
-Reposicionaremos o satÈlite
+Reposicionaremos o sat√©lite
 do STAR Labs
 
 192
@@ -915,12 +915,12 @@ O que tem em mente?
 194
 00:09:43,163 --> 00:09:45,910
 Imaginando se precisaremos
-repensar em como iremos peg·-lo.
+repensar em como iremos peg√°-lo.
 
 195
 00:09:47,917 --> 00:09:49,404
 Pare.
-Isso n„o aconteceu.
+Isso n√£o aconteceu.
 
 196
 00:09:49,405 --> 00:09:51,253
@@ -928,7 +928,7 @@ Aconteceu, sim.
 
 197
 00:09:51,253 --> 00:09:54,591
-Meus l·bios ficaram dormentes...
+Meus l√°bios ficaram dormentes...
 
 198
 00:09:54,592 --> 00:09:56,201
@@ -937,21 +937,21 @@ e depois incharam tanto
 199
 00:09:56,201 --> 00:09:58,595
 que parecia que fiz
-uma cirurgia pl·stica.
+uma cirurgia pl√°stica.
 
 200
 00:09:59,056 --> 00:10:00,892
 - O que Wally fez?
-- Ele riu, È claro.
+- Ele riu, √© claro.
 
 201
 00:10:00,892 --> 00:10:02,802
-O bebÍ riu!
+O beb√™ riu!
 
 202
 00:10:02,803 --> 00:10:06,764
 Pelo menos agora sei que sou
-alÈrgico a pimenta-chinesa.
+al√©rgico a pimenta-chinesa.
 
 203
 00:10:06,765 --> 00:10:10,526
@@ -961,30 +961,30 @@ se eu trabalhar aqui hoje?
 204
 00:10:10,526 --> 00:10:12,769
 Deve nos dar tempo
-de pÙr a conversa em dia.
+de p√¥r a conversa em dia.
 
 205
 00:10:12,770 --> 00:10:15,262
 Sabe que eu nunca
-vou recusar isso, ent„o...
+vou recusar isso, ent√£o...
 
 206
 00:10:16,250 --> 00:10:19,855
 Mas a Cecile me disse
-que vocÍ tem...
+que voc√™ tem...
 
 207
 00:10:20,355 --> 00:10:21,906
-um escritÛrio novo chique.
+um escrit√≥rio novo chique.
 
 208
 00:10:22,898 --> 00:10:26,003
-Sim, È que, sabe...
-O encanamento È pÈssimo
+Sim, √© que, sabe...
+O encanamento √© p√©ssimo
 
 209
 00:10:26,003 --> 00:10:28,756
-e n„o posso deixar cair ·gua
+e n√£o posso deixar cair √°gua
 no meu laptop, certo?
 
 210
@@ -994,18 +994,18 @@ nosso banheiro de visita...
 
 211
 00:10:31,772 --> 00:10:33,865
-Ele fez Ûtimo trabalho
-e tem um preÁo acessÌvel.
+Ele fez √≥timo trabalho
+e tem um pre√ßo acess√≠vel.
 
 212
 00:10:33,866 --> 00:10:36,955
-- Deixe-me te dar o n˙mero dele.
-- N„o, pai, est· tudo bem.
+- Deixe-me te dar o n√∫mero dele.
+- N√£o, pai, est√° tudo bem.
 
 213
 00:10:36,955 --> 00:10:39,138
 Iris,
-se n„o cuidar disso r·pido,
+se n√£o cuidar disso r√°pido,
 
 214
 00:10:39,138 --> 00:10:40,443
@@ -1014,16 +1014,16 @@ pode virar uma bola de neve.
 215
 00:10:40,443 --> 00:10:42,025
 Aqui.
-Deixe-me mandar para vocÍ.
+Deixe-me mandar para voc√™.
 
 216
 00:10:43,146 --> 00:10:47,110
-Est· bem.
-Na verdade, È uma Ûtima ideia.
+Est√° bem.
+Na verdade, √© uma √≥tima ideia.
 
 217
 00:10:47,110 --> 00:10:50,879
-Mande-me e eu vou l·
+Mande-me e eu vou l√°
 ver o que posso fazer.
 
 218
@@ -1043,12 +1043,12 @@ os poderes da coroa
 
 221
 00:10:59,652 --> 00:11:02,395
-temos que fazÍ-la falar
+temos que faz√™-la falar
 com o M.A.D. 2.0.
 
 222
 00:11:02,396 --> 00:11:04,422
-Que tal um cÛdigo logarÌtmico?
+Que tal um c√≥digo logar√≠tmico?
 
 223
 00:11:04,423 --> 00:11:08,809
@@ -1066,7 +1066,7 @@ O cara sabe do que fala.
 
 226
 00:11:13,718 --> 00:11:17,682
-Por que n„o usa minha oficina
+Por que n√£o usa minha oficina
 e eu preparo isto?
 
 227
@@ -1076,12 +1076,12 @@ e eu preparo isto?
 
 228
 00:11:23,261 --> 00:11:26,522
-… a fus„o da tecnologia
-e a consciÍncia humana.
+√â a fus√£o da tecnologia
+e a consci√™ncia humana.
 
 229
 00:11:26,522 --> 00:11:27,866
-E tubar„o, mas n„o.
+E tubar√£o, mas n√£o.
 
 230
 00:11:27,866 --> 00:11:30,908
@@ -1111,21 +1111,21 @@ Ou algo mais.
 
 236
 00:11:46,969 --> 00:11:49,739
-Somos biÛlogos marinhos,
-ent„o temos muito em comum.
+Somos bi√≥logos marinhos,
+ent√£o temos muito em comum.
 
 237
 00:11:49,739 --> 00:11:53,062
 Pode-se dizer
-que ficamos muito prÛximos.
+que ficamos muito pr√≥ximos.
 
 238
 00:11:53,820 --> 00:11:55,084
-Mas ele È sÛ meu paciente.
+Mas ele √© s√≥ meu paciente.
 
 239
 00:11:55,085 --> 00:11:56,739
-… claro.
+√â claro.
 
 240
 00:11:57,541 --> 00:12:00,130
@@ -1134,36 +1134,36 @@ Estamos decolando.
 
 241
 00:12:00,130 --> 00:12:02,646
-Est„o realmente conversando.
-Est· vendo?
+Est√£o realmente conversando.
+Est√° vendo?
 
 242
 00:12:02,646 --> 00:12:05,291
 Sabia que estas duas
-crianÁas loucas dariam um jeito.
+crian√ßas loucas dariam um jeito.
 
 243
 00:12:05,292 --> 00:12:07,032
-N„o est„o sÛ sincronizando.
+N√£o est√£o s√≥ sincronizando.
 
 244
 00:12:07,032 --> 00:12:09,600
-O M.A.D. 2.0 est· agindo
+O M.A.D. 2.0 est√° agindo
 como uma antena,
 
 245
 00:12:09,600 --> 00:12:11,928
 amplificando
-o sinal psÌquico da coroa
+o sinal ps√≠quico da coroa
 
 246
 00:12:11,928 --> 00:12:14,198
-alÈm da minha imaginaÁ„o.
+al√©m da minha imagina√ß√£o.
 
 247
 00:12:14,199 --> 00:12:16,608
 Ouvimos gritos de nerd.
-Como v„o as coisas por aqui?
+Como v√£o as coisas por aqui?
 
 248
 00:12:16,608 --> 00:12:18,502
@@ -1172,13 +1172,13 @@ aos meus fones,
 
 249
 00:12:18,502 --> 00:12:21,513
-- aÌ estaremos prontos.
-- Deixe isso no cÛrtex,
+- a√≠ estaremos prontos.
+- Deixe isso no c√≥rtex,
 
 250
 00:12:21,513 --> 00:12:23,938
 no painel principal,
-no monitor ‡ esquerda.
+no monitor √† esquerda.
 
 251
 00:12:24,438 --> 00:12:25,438
@@ -1191,31 +1191,31 @@ Eu te mostro.
 
 253
 00:12:28,280 --> 00:12:30,887
-- ”timo trabalho, Cisco.
-- N„o È um trabalho individual.
+- √ìtimo trabalho, Cisco.
+- N√£o √© um trabalho individual.
 
 254
 00:12:30,887 --> 00:12:33,087
 Mas todo trabalho precisa
-de um gÍnio, e o gÍnio sou eu,
+de um g√™nio, e o g√™nio sou eu,
 
 255
 00:12:33,088 --> 00:12:34,343
-ent„o obrigado.
+ent√£o obrigado.
 
 256
 00:12:34,344 --> 00:12:36,896
-Agora sÛ precisamos falar
-com o Tubar„o-Rei.
+Agora s√≥ precisamos falar
+com o Tubar√£o-Rei.
 
 257
 00:12:36,896 --> 00:12:39,446
-Por que n„o levamos a injeÁ„o
+Por que n√£o levamos a inje√ß√£o
 de cura para a Caitlin
 
 258
 00:12:39,446 --> 00:12:41,391
-- para ver se est· pronta?
+- para ver se est√° pronta?
 - Lembre-se:
 
 259
@@ -1229,25 +1229,25 @@ Certo.
 
 261
 00:12:45,554 --> 00:12:47,987
-<i>Achamos o Tubar„o-Rei.
-Ele est· no porto.</i>
+<i>Achamos o Tubar√£o-Rei.
+Ele est√° no porto.</i>
 
 262
 00:13:02,182 --> 00:13:03,837
 Caitlin, tem certeza
-que ele est· aqui?
+que ele est√° aqui?
 
 263
 00:13:03,837 --> 00:13:05,379
-Ele est· aÌ.
+Ele est√° a√≠.
 
 264
 00:13:06,739 --> 00:13:08,359
-Est· indo direto atÈ vocÍs.
+Est√° indo direto at√© voc√™s.
 
 265
 00:13:12,153 --> 00:13:13,453
-Nora, È sua vez.
+Nora, √© sua vez.
 
 266
 00:13:14,850 --> 00:13:15,850
@@ -1256,7 +1256,7 @@ Pronto.
 267
 00:13:15,851 --> 00:13:17,815
 Certo, os sistemas
-est„o sincronizados.
+est√£o sincronizados.
 
 268
 00:13:17,815 --> 00:13:20,342
@@ -1265,7 +1265,7 @@ Shay? Sou eu, a Tanya.
 269
 00:13:20,342 --> 00:13:22,556
 Essas pessoas
-sÛ est„o aqui para te ajudar.
+s√≥ est√£o aqui para te ajudar.
 
 270
 00:13:22,556 --> 00:13:24,626
@@ -1273,15 +1273,15 @@ sÛ est„o aqui para te ajudar.
 
 271
 00:13:24,626 --> 00:13:25,926
-Est· tudo bem.
+Est√° tudo bem.
 
 272
 00:13:28,715 --> 00:13:30,015
-Acho que est· funcionando.
+Acho que est√° funcionando.
 
 273
 00:13:30,559 --> 00:13:31,859
-Acho que est· certa.
+Acho que est√° certa.
 
 274
 00:13:33,562 --> 00:13:34,862
@@ -1294,8 +1294,8 @@ Por favor.
 
 276
 00:13:39,131 --> 00:13:41,131
-Por favor. N„o sei
-o que h· de errado com ele.
+Por favor. N√£o sei
+o que h√° de errado com ele.
 
 277
 00:13:45,331 --> 00:13:46,331
@@ -1304,7 +1304,7 @@ o que h· de errado com ele.
 278
 00:14:13,479 --> 00:14:16,480
 <i>Gente, o que esta acontecendo?
-CadÍ o Shay?</i>
+Cad√™ o Shay?</i>
 
 279
 00:14:25,185 --> 00:14:26,374
@@ -1312,34 +1312,34 @@ Shay?
 
 280
 00:14:26,982 --> 00:14:28,280
-O que È isso?
+O que √© isso?
 
 281
 00:14:30,190 --> 00:14:31,458
-O que est· acontecendo?
+O que est√° acontecendo?
 
 282
 00:14:31,458 --> 00:14:33,326
-<i>Shay est· bem?</i>
+<i>Shay est√° bem?</i>
 
 283
 00:14:33,826 --> 00:14:36,093
 Sim.
-Ele È humano de novo.
+Ele √© humano de novo.
 
 284
 00:14:49,302 --> 00:14:51,631
 Onde estou?
-Quem s„o vocÍs?
+Quem s√£o voc√™s?
 
 285
 00:14:52,809 --> 00:14:54,698
-- SÛ me larga!
-- Est· bem.
+- S√≥ me larga!
+- Est√° bem.
 
 286
 00:14:54,698 --> 00:14:55,994
-Eles s„o amigos.
+Eles s√£o amigos.
 
 287
 00:14:59,596 --> 00:15:01,197
@@ -1359,34 +1359,34 @@ Como?
 
 291
 00:15:11,415 --> 00:15:13,350
-NÛs chamamos de cura.
+N√≥s chamamos de cura.
 
 292
 00:15:13,350 --> 00:15:16,653
-… um soro que suprime
-a matÈria negra em metas.
+√â um soro que suprime
+a mat√©ria negra em metas.
 
 293
 00:15:16,653 --> 00:15:18,255
-VocÍ È a primeira pessoa
+Voc√™ √© a primeira pessoa
 que aceitou isso.
 
 294
 00:15:18,255 --> 00:15:20,520
 Bem, exceto
-que vocÍ n„o aceitou.
+que voc√™ n√£o aceitou.
 
 295
 00:15:20,521 --> 00:15:23,857
-NÛs, injetamos em vocÍ.
+N√≥s, injetamos em voc√™.
 
 296
 00:15:24,320 --> 00:15:26,353
-Minha cabeÁa ainda est· girando.
+Minha cabe√ßa ainda est√° girando.
 
 297
 00:15:28,447 --> 00:15:30,744
-VocÍs est„o dizendo
+Voc√™s est√£o dizendo
 que sou humano de novo?
 
 298
@@ -1404,13 +1404,13 @@ a parte humana de um meta.
 
 301
 00:15:38,008 --> 00:15:41,819
-A parte animal do seu cÈrebro
+A parte animal do seu c√©rebro
 lutou um pouco.
 
 302
 00:15:41,820 --> 00:15:44,722
-Ainda tem um pouco de matÈria negra
-na sua gl‚ndula pituit·ria,
+Ainda tem um pouco de mat√©ria negra
+na sua gl√¢ndula pituit√°ria,
 
 303
 00:15:44,723 --> 00:15:47,241
@@ -1419,7 +1419,7 @@ mas com esses novos dados,
 304
 00:15:47,242 --> 00:15:50,819
 devemos ser capazes de abordar a cura
-e a prÛxima dose deve ser permanente.
+e a pr√≥xima dose deve ser permanente.
 
 305
 00:15:50,820 --> 00:15:53,357
@@ -1429,7 +1429,7 @@ eu deveria me apresentar.
 306
 00:15:53,357 --> 00:15:55,292
 Sherloque Wells.
-Provavelmente j· ouviu falar de mim.
+Provavelmente j√° ouviu falar de mim.
 
 307
 00:15:55,292 --> 00:15:58,362
@@ -1439,20 +1439,20 @@ que tenho pensado muito.
 308
 00:15:58,362 --> 00:16:01,608
 O que impulsiona
-o Tubar„o-Rei?
+o Tubar√£o-Rei?
 
 309
 00:16:02,186 --> 00:16:06,868
-… o tubar„o ou È o homem?
+√â o tubar√£o ou √© o homem?
 
 310
 00:16:09,299 --> 00:16:12,549
-Se est· perguntando se serei
-responsabilizado pelas minhas aÁıes,
+Se est√° perguntando se serei
+responsabilizado pelas minhas a√ß√µes,
 
 311
 00:16:12,550 --> 00:16:14,778
-minha resposta È simples.
+minha resposta √© simples.
 
 312
 00:16:14,778 --> 00:16:16,511
@@ -1460,16 +1460,16 @@ Sim eu deveria.
 
 313
 00:16:20,084 --> 00:16:22,619
-N„o me lembro de quantas
+N√£o me lembro de quantas
  pessoas eu machuquei
 
 314
 00:16:22,619 --> 00:16:26,390
-ou quem, mas isso n„o È desculpa.
+ou quem, mas isso n√£o √© desculpa.
 
 315
 00:16:26,390 --> 00:16:27,891
-O que vocÍ lembra?
+O que voc√™ lembra?
 
 316
 00:16:27,891 --> 00:16:29,728
@@ -1487,8 +1487,8 @@ sentiu-se intensificado,
 
 319
 00:16:35,332 --> 00:16:37,667
-como minhas emoÁıes
-estavam em esterÛides.
+como minhas emo√ß√µes
+estavam em ester√≥ides.
 
 320
 00:16:37,667 --> 00:16:41,509
@@ -1498,7 +1498,7 @@ havia tanta raiva.
 321
 00:16:41,510 --> 00:16:43,507
 Isso faz sentido.
-A amÌgdala de um tubar„o provoca
+A am√≠gdala de um tubar√£o provoca
 
 322
 00:16:43,507 --> 00:16:45,675
@@ -1508,35 +1508,35 @@ quando se sente atacado.
 323
 00:16:45,675 --> 00:16:48,412
 Talvez seja por isso
-que vocÍ escapou hoje.
+que voc√™ escapou hoje.
 
 324
 00:16:48,412 --> 00:16:50,114
-VocÍ estava com medo.
+Voc√™ estava com medo.
 
 325
 00:16:50,114 --> 00:16:53,283
-Eu n„o sei.
+Eu n√£o sei.
 Hoje senti diferente.
 
 326
 00:16:53,283 --> 00:16:56,553
-Eu n„o lembro muito antes de eu
-comeÁou a usar a coroa de Tanya,
+Eu n√£o lembro muito antes de eu
+come√ßou a usar a coroa de Tanya,
 
 327
 00:16:56,553 --> 00:17:00,790
-mas desde ent„o, minha mente
-e memÛria foi muito mais claro.
+mas desde ent√£o, minha mente
+e mem√≥ria foi muito mais claro.
 
 328
 00:17:00,790 --> 00:17:04,226
 E eu me lembro especialmente da
-gentileza que vocÍ me mostrou.
+gentileza que voc√™ me mostrou.
 
 329
 00:17:12,302 --> 00:17:13,735
-O quÍ?
+O qu√™?
 
 330
 00:17:15,925 --> 00:17:18,980
@@ -1544,8 +1544,8 @@ O que aconteceu?
 
 331
 00:17:19,643 --> 00:17:21,811
-A matÈria escura em sua
-o sistema est· replicando.
+A mat√©ria escura em sua
+o sistema est√° replicando.
 
 332
 00:17:21,811 --> 00:17:24,779
@@ -1554,11 +1554,11 @@ Tanya, me desculpe.
 333
 00:17:36,504 --> 00:17:39,530
 Shay, me desculpe,
-mas atÈ que isso acabe,
+mas at√© que isso acabe,
 
 334
 00:17:39,530 --> 00:17:42,130
-n„o podemos deixar vocÍ sair daqui.
+n√£o podemos deixar voc√™ sair daqui.
 
 335
 00:17:45,981 --> 00:17:49,206
@@ -1586,32 +1586,32 @@ se ele queria tomar a cura, certo?
 340
 00:18:01,430 --> 00:18:04,797
 - Caitlin...
-- Mais cedo, n„o perguntou se ele queria.
+- Mais cedo, n√£o perguntou se ele queria.
 
 341
 00:18:04,798 --> 00:18:08,225
-Foi difÌcil de perguntar
+Foi dif√≠cil de perguntar
 com ele tentando te matar.
 
 342
 00:18:08,225 --> 00:18:10,208
-TÌnhamos uma maneira
+T√≠nhamos uma maneira
 de nos comunicar com ele,
 
 343
 00:18:10,209 --> 00:18:12,662
-e vocÍ mal deu uma chance.
-E poderÌamos ter tentado novamente.
+e voc√™ mal deu uma chance.
+E poder√≠amos ter tentado novamente.
 
 344
 00:18:12,662 --> 00:18:15,299
 Eu te salvei, cara.
-O que vocÍ quer que eu faÁa?
+O que voc√™ quer que eu fa√ßa?
 
 345
 00:18:15,299 --> 00:18:16,833
 - Arriscar sua vida?
-- Essa n„o È a quest„o.
+- Essa n√£o √© a quest√£o.
 
 346
 00:18:16,833 --> 00:18:18,368
@@ -1624,37 +1624,37 @@ Temos que proteger um ao outro.
 
 348
 00:18:19,869 --> 00:18:21,538
-E nÛs concordamos,
+E n√≥s concordamos,
 como uma equipe,
 
 349
 00:18:21,538 --> 00:18:23,240
-esperar pela permiss„o,
-mas vocÍ nem fez isso.
+esperar pela permiss√£o,
+mas voc√™ nem fez isso.
 
 350
 00:18:23,240 --> 00:18:25,576
 E olha o que aconteceu.
-VocÍ est· vivo,
+Voc√™ est√° vivo,
 
 351
 00:18:25,576 --> 00:18:29,436
 e Shay parece gostar de ser
-humano, foi uma vitÛria.
+humano, foi uma vit√≥ria.
 
 352
 00:18:31,449 --> 00:18:33,772
-… isso que vocÍ acha
-que um herÛi faz?
+√â isso que voc√™ acha
+que um her√≥i faz?
 
 353
 00:18:33,773 --> 00:18:37,241
-ForÁar outras pessoas a fazer
-o que vocÍ quer que eles faÁam?
+For√ßar outras pessoas a fazer
+o que voc√™ quer que eles fa√ßam?
 
 354
 00:18:37,242 --> 00:18:40,226
-Ele ia comer vocÍ, Cisco.
+Ele ia comer voc√™, Cisco.
 
 355
 00:18:40,536 --> 00:18:42,405
@@ -1681,8 +1681,8 @@ Papai?
 
 360
 00:19:12,502 --> 00:19:16,643
-Eu fui ao seu escritÛrio
-falar com vocÍ.
+Eu fui ao seu escrit√≥rio
+falar com voc√™.
 
 361
 00:19:18,169 --> 00:19:19,962
@@ -1691,11 +1691,11 @@ Eu...
 
 362
 00:19:19,963 --> 00:19:21,798
-N„o. N„o tente.
+N√£o. N√£o tente.
 
 363
 00:19:21,798 --> 00:19:26,516
-Fiquei sabendo sobre vocÍs
+Fiquei sabendo sobre voc√™s
  terem ficado presos.
 
 364
@@ -1705,25 +1705,25 @@ Cisco e Nora me disseram,
 365
 00:19:29,642 --> 00:19:31,508
 o que aconteceu em todas
-as versıes
+as vers√µes
 
 366
 00:19:31,508 --> 00:19:34,278
-e embora eu n„o
+e embora eu n√£o
 lembre de qualquer um deles,
 
 367
 00:19:34,278 --> 00:19:36,480
-mas sÛ em saber
+mas s√≥ em saber
 o que acontece...
 
 368
 00:19:36,480 --> 00:19:38,354
-VocÍ n„o estava com medo?
+Voc√™ n√£o estava com medo?
 
 369
 00:19:38,355 --> 00:19:40,120
-Eu n„o sei.
+Eu n√£o sei.
 
 370
 00:19:40,121 --> 00:19:42,286
@@ -1735,7 +1735,7 @@ Papai, eu lutei com ele.
 
 372
 00:19:44,917 --> 00:19:48,492
-Foi t„o assustador, digo...
+Foi t√£o assustador, digo...
 
 373
 00:19:48,492 --> 00:19:50,460
@@ -1745,7 +1745,7 @@ a isso, sabe?
 374
 00:19:50,460 --> 00:19:53,096
 Mas agora que ele sabe
-quem eu sou, quem È minha famÌlia
+quem eu sou, quem √© minha fam√≠lia
 
 375
 00:19:53,096 --> 00:19:55,555
@@ -1767,7 +1767,7 @@ Sim, eu apenas...
 
 379
 00:20:02,539 --> 00:20:04,578
-Eu n„o sei, n„o posso voltar l·.
+Eu n√£o sei, n√£o posso voltar l√°.
 
 380
 00:20:06,143 --> 00:20:07,197
@@ -1780,15 +1780,15 @@ levante-se.
 382
 00:20:09,019 --> 00:20:12,390
 Pai, eu acabei de te dizer.
-Eu n„o quero voltar l·.
+Eu n√£o quero voltar l√°.
 
 383
 00:20:12,391 --> 00:20:14,850
-Eu n„o vou te levar l·.
+Eu n√£o vou te levar l√°.
 
 384
 00:20:14,851 --> 00:20:15,946
-Ent„o onde?
+Ent√£o onde?
 
 385
 00:20:15,947 --> 00:20:18,322
@@ -1797,7 +1797,7 @@ te mostrar
 
 386
 00:20:18,322 --> 00:20:20,469
-qu„o potente vocÍ realmente È.
+qu√£o potente voc√™ realmente √©.
 
 387
 00:20:21,704 --> 00:20:23,658
@@ -1806,12 +1806,12 @@ Vamos.
 
 388
 00:20:30,357 --> 00:20:32,672
-NÛs precisamos conversar.
+N√≥s precisamos conversar.
 
 389
 00:20:32,673 --> 00:20:35,672
-N„o sabe que n„o deve interromper
-alguÈm meditando?
+N√£o sabe que n√£o deve interromper
+algu√©m meditando?
 
 390
 00:20:35,672 --> 00:20:37,872
@@ -1824,27 +1824,27 @@ Eu fiz mais alguns testes no Shay.
 
 392
 00:20:40,244 --> 00:20:42,479
-A raz„o pela qual ele n„o lembra
+A raz√£o pela qual ele n√£o lembra
  de nada que aconteceu
 
 393
 00:20:42,479 --> 00:20:46,401
-È porque ele teve uma grande interrupÁ„o
+√© porque ele teve uma grande interrup√ß√£o
 nas ondas cerebrais do seu lobo frontal.
 
 394
 00:20:46,402 --> 00:20:48,670
-Esse È o feedback
-que todos nÛs ouvimos.
+Esse √© o feedback
+que todos n√≥s ouvimos.
 
 395
 00:20:48,671 --> 00:20:51,508
-Ent„o, È por isso que ele nos atacou
+Ent√£o, √© por isso que ele nos atacou
 
 396
 00:20:51,509 --> 00:20:53,344
 como no filme
-"Tubar„o: A VinganÁa"?
+"Tubar√£o: A Vingan√ßa"?
 
 397
 00:20:53,345 --> 00:20:55,578
@@ -1854,17 +1854,17 @@ teria facilmente
 398
 00:20:55,579 --> 00:20:59,072
 uma falta de controle
-sobre emoÁıes e julgamento.
+sobre emo√ß√µes e julgamento.
 
 399
 00:20:59,073 --> 00:21:02,585
-Ent„o vocÍ acha que talvez a coroa
+Ent√£o voc√™ acha que talvez a coroa
 poderia ter feito isso?
 
 400
 00:21:02,586 --> 00:21:05,227
-N„o, esse È o ponto.
-A coroa n„o È o problema.
+N√£o, esse √© o ponto.
+A coroa n√£o √© o problema.
 
 401
 00:21:05,228 --> 00:21:07,170
@@ -1882,11 +1882,11 @@ Quer dizer que a coroa estava
 
 404
 00:21:11,207 --> 00:21:12,909
-Sim, ent„o isso levanta a quest„o,
+Sim, ent√£o isso levanta a quest√£o,
 
 405
 00:21:12,909 --> 00:21:15,548
-o que fez o Tubar„o-Rei enlouquecer?
+o que fez o Tubar√£o-Rei enlouquecer?
 
 406
 00:21:16,043 --> 00:21:17,862
@@ -1894,7 +1894,7 @@ Gente....
 
 407
 00:21:19,142 --> 00:21:23,586
-Eu sÛ queria me desculpar
+Eu s√≥ queria me desculpar
 por mais cedo.
 
 408
@@ -1903,7 +1903,7 @@ Eu realmente fui muito grosso.
 
 409
 00:21:39,303 --> 00:21:40,795
-N„o pode ser.
+N√£o pode ser.
 
 410
 00:21:46,710 --> 00:21:48,163
@@ -1911,16 +1911,16 @@ Caitlin
 
 411
 00:21:54,026 --> 00:21:55,612
-Ol·, Flash.
+Ol√°, Flash.
 
 412
 00:22:03,214 --> 00:22:05,484
 O exame cerebral do Cisco
-est· limpo.
+est√° limpo.
 
 413
 00:22:05,485 --> 00:22:07,656
-O meu tambÈm.
+O meu tamb√©m.
 Estamos de volta ao normal.
 
 414
@@ -1929,25 +1929,25 @@ Sem mais algemas na gente.
 
 415
 00:22:09,531 --> 00:22:11,973
-Nevasca est· se desculpando
+Nevasca est√° se desculpando
 pela rajada de gelo.
 
 416
 00:22:11,974 --> 00:22:13,083
-Foi o Grodd tambÈm.
+Foi o Grodd tamb√©m.
 
 417
 00:22:13,084 --> 00:22:14,660
-Agora ela est· pronta
-para a vinganÁa.
+Agora ela est√° pronta
+para a vingan√ßa.
 
 418
 00:22:14,661 --> 00:22:15,882
-Sim, eu tambÈm.
+Sim, eu tamb√©m.
 
 419
 00:22:15,883 --> 00:22:17,871
-J· localizamos o nosso
+J√° localizamos o nosso
 Pyong lee Gorila?
 
 420
@@ -1958,16 +1958,16 @@ com os dados que temos,
 421
 00:22:19,541 --> 00:22:21,017
 mas as habilidades
-psÌquicas do Grodd
+ps√≠quicas do Grodd
 
 422
 00:22:21,018 --> 00:22:23,001
-est„o ajudando a ocultar
-sua localizaÁ„o,
+est√£o ajudando a ocultar
+sua localiza√ß√£o,
 
 423
 00:22:23,002 --> 00:22:24,460
-ent„o ele pode estar em
+ent√£o ele pode estar em
 qualquer lugar agora.
 
 424
@@ -1981,11 +1981,11 @@ era vigiado 24 horas por dia.
 
 426
 00:22:29,744 --> 00:22:30,768
-E È.
+E √©.
 
 427
 00:22:30,769 --> 00:22:33,859
-Ent„o como um gorila de 360
+Ent√£o como um gorila de 360
 quilos escapou?
 
 428
@@ -1994,26 +1994,26 @@ Vou lhe mostrar.
 
 429
 00:22:35,532 --> 00:22:38,517
-Fui ver a c‚mera de seguranÁa.
+Fui ver a c√¢mera de seguran√ßa.
 
 430
 00:22:38,518 --> 00:22:41,395
-Isto È da noite do dia 22
+Isto √© da noite do dia 22
 de maio, 2018.
 
 431
 00:22:41,396 --> 00:22:43,445
-- Essa È a noite...
+- Essa √© a noite...
 - do Iluminismo.
 
 432
 00:22:44,708 --> 00:22:46,900
-A matÈria negra do DeVoe
+A mat√©ria negra do DeVoe
 derrubou toda a tecnologia
 
 433
 00:22:46,901 --> 00:22:48,044
-das ·reas prÛximas.
+das √°reas pr√≥ximas.
 
 434
 00:22:48,045 --> 00:22:50,362
@@ -2022,7 +2022,7 @@ se ativou.
 
 435
 00:22:50,363 --> 00:22:52,781
-- Mas n„o por um segundo.
+- Mas n√£o por um segundo.
 - Um segundo.
 
 436
@@ -2031,12 +2031,12 @@ Foi tudo que o Grodd precisou
 
 437
 00:22:53,955 --> 00:22:56,201
-para implantar instruÁıes
+para implantar instru√ß√µes
 em um guarda.
 
 438
 00:22:56,202 --> 00:22:57,795
-InstruÁıes para secretamente
+Instru√ß√µes para secretamente
 desligar
 
 439
@@ -2046,12 +2046,12 @@ poder de sua cela
 
 440
 00:22:59,534 --> 00:23:01,744
-e descobrir qualquer informaÁ„o
+e descobrir qualquer informa√ß√£o
 que ele quisesse.
 
 441
 00:23:01,745 --> 00:23:03,908
-Ent„o por isso o Tubar„o-Rei
+Ent√£o por isso o Tubar√£o-Rei
 enlouqueceu?
 
 442
@@ -2061,26 +2061,26 @@ controlar a mente dele?
 
 443
 00:23:06,004 --> 00:23:07,438
-Como uma distraÁ„o.
+Como uma distra√ß√£o.
 
 444
 00:23:07,439 --> 00:23:10,591
-Grodd sÛ controlou
+Grodd s√≥ controlou
 mentes humanas antes.
 
 445
 00:23:10,592 --> 00:23:12,593
 Ele deve ter tido alguma
-complicaÁ„o controlando
+complica√ß√£o controlando
 
 446
 00:23:12,594 --> 00:23:14,219
 por causa da parte animal
-de seu cÈrebro.
+de seu c√©rebro.
 
 447
 00:23:14,220 --> 00:23:18,574
-Ent„o o Tubar„o-Rei tentou
+Ent√£o o Tubar√£o-Rei tentou
 resistir a vontade do Grodd?
 
 448
@@ -2089,22 +2089,22 @@ Respeito.
 
 449
 00:23:19,951 --> 00:23:21,935
-Se o Grodd j· tinha poderes
-h· um ano,
+Se o Grodd j√° tinha poderes
+h√° um ano,
 
 450
 00:23:21,936 --> 00:23:23,746
-por que esperar atÈ
+por que esperar at√©
 agora para fugir?
 
 451
 00:23:23,747 --> 00:23:26,064
-Provavelmente n„o È coincidÍncia
+Provavelmente n√£o √© coincid√™ncia
 que o primeiro ato dele
 
 452
 00:23:26,065 --> 00:23:27,941
-foi roubar a coroa telep·tica.
+foi roubar a coroa telep√°tica.
 
 453
 00:23:27,942 --> 00:23:30,661
@@ -2118,7 +2118,7 @@ oportunidade perfeita.
 
 455
 00:23:33,041 --> 00:23:35,115
-E foi graÁas a nossa tecnologia.
+E foi gra√ßas a nossa tecnologia.
 
 456
 00:23:35,116 --> 00:23:37,242
@@ -2136,7 +2136,7 @@ mentais em centenas de vezes.
 
 459
 00:23:42,457 --> 00:23:44,958
-Ao invÈs de poder controlar
+Ao inv√©s de poder controlar
 a mente
 
 460
@@ -2155,11 +2155,11 @@ Estou invadindo.
 
 463
 00:24:02,786 --> 00:24:04,528
-Ou n„o estou?
+Ou n√£o estou?
 
 464
 00:24:04,529 --> 00:24:08,273
-Eu vejo ele l· e vejo vocÍ aqui
+Eu vejo ele l√° e vejo voc√™ aqui
 nas sombras.
 
 465
@@ -2172,53 +2172,53 @@ Pode me culpar?
 
 467
 00:24:11,694 --> 00:24:13,919
-VocÍ viu a m„o dele
+Voc√™ viu a m√£o dele
 se transformar.
 
 468
 00:24:13,920 --> 00:24:16,540
 Sim, claro.
-"Semana do Tubar„o!"
+"Semana do Tubar√£o!"
 
 469
 00:24:16,541 --> 00:24:18,950
-N„o È algo que vocÍ vÍ todo dia,
-mas n„o,
+N√£o √© algo que voc√™ v√™ todo dia,
+mas n√£o,
 
 470
 00:24:18,951 --> 00:24:21,995
-acho que sua indecis„o aconteceu
+acho que sua indecis√£o aconteceu
 
 471
 00:24:21,996 --> 00:24:24,034
-antes desse momento, n„o depois.
+antes desse momento, n√£o depois.
 
 472
 00:24:24,035 --> 00:24:28,251
-Foi uma pequena indecis„o,
-mas ainda assim estava l·.
+Foi uma pequena indecis√£o,
+mas ainda assim estava l√°.
 
 473
 00:24:28,252 --> 00:24:30,805
-De novo, por que vocÍ
-acha que È isso?
+De novo, por que voc√™
+acha que √© isso?
 
 474
 00:24:30,806 --> 00:24:32,315
-Eu n„o sei...
+Eu n√£o sei...
 
 475
 00:24:32,316 --> 00:24:35,801
-N„o? Bom, talvez eu deva ser
+N√£o? Bom, talvez eu deva ser
 corajoso e oferecer
 
 476
 00:24:35,802 --> 00:24:38,845
-uma sugest„o que n„o foi a m„o
+uma sugest√£o que n√£o foi a m√£o
 
 477
 00:24:38,846 --> 00:24:40,948
-que vocÍ estava com medo.
+que voc√™ estava com medo.
 
 478
 00:24:40,949 --> 00:24:42,658
@@ -2226,11 +2226,11 @@ Foi ver o rosto
 
 479
 00:24:43,854 --> 00:24:46,245
-do homem que vocÍ ama.
+do homem que voc√™ ama.
 
 480
 00:24:46,246 --> 00:24:49,332
-Eu n„o amo o Shay.
+Eu n√£o amo o Shay.
 Somos amigos.
 
 481
@@ -2239,41 +2239,41 @@ Certo, vamos analisar.
 
 482
 00:24:52,151 --> 00:24:54,595
-Este È um amigo,
+Este √© um amigo,
 de uma outra Terra,
 
 483
 00:24:54,596 --> 00:24:56,747
-por quem vocÍ deixou um
+por quem voc√™ deixou um
 trabalho bem pago
 
 484
 00:24:56,748 --> 00:24:59,032
-e por quem vocÍ dedica
+e por quem voc√™ dedica
 cada momento
 
 485
 00:24:59,033 --> 00:25:01,660
 da sua vida tentando ajudar ele,
-n„o faz muito sentido.
+n√£o faz muito sentido.
 
 486
 00:25:01,661 --> 00:25:04,755
-Eu n„o posso amar o Shay.
+Eu n√£o posso amar o Shay.
 
 487
 00:25:04,756 --> 00:25:08,351
-Ele È a sÛsia do meu marido
+Ele √© a s√≥sia do meu marido
 falecido da Terra-2.
 
 488
 00:25:08,352 --> 00:25:11,520
-O qu„o louca eu tenho que ser
+O qu√£o louca eu tenho que ser
 para me apaixonar por ele?
 
 489
 00:25:11,521 --> 00:25:13,536
-N„o o suficiente para casar
+N√£o o suficiente para casar
 com a mesma mulher
 
 490
@@ -2291,7 +2291,7 @@ com as pessoas,
 
 493
 00:25:18,528 --> 00:25:21,030
-mas n„o muito para
+mas n√£o muito para
 continuar casado.
 
 494
@@ -2300,8 +2300,8 @@ Ao longo do tempo
 
 495
 00:25:22,509 --> 00:25:25,442
-nessas v·rias Terras
-e v·rios sÛsias,
+nessas v√°rias Terras
+e v√°rios s√≥sias,
 
 496
 00:25:25,443 --> 00:25:27,561
@@ -2309,7 +2309,7 @@ eu aprendi que tem uma coisa
 
 497
 00:25:27,562 --> 00:25:30,689
-que faz cada um de nÛs ˙nico.
+que faz cada um de n√≥s √∫nico.
 
 498
 00:25:30,690 --> 00:25:34,284
@@ -2317,16 +2317,16 @@ E se foi por isso
 
 499
 00:25:34,285 --> 00:25:37,880
-que vocÍ se apaixonou, ent„o,
+que voc√™ se apaixonou, ent√£o,
 
 500
 00:25:37,881 --> 00:25:40,698
-talvez o rosto n„o importa muito.
+talvez o rosto n√£o importa muito.
 
 501
 00:25:56,257 --> 00:25:59,259
-VocÍ perdeu um lindo
-pÙr do Sol mais cedo.
+Voc√™ perdeu um lindo
+p√¥r do Sol mais cedo.
 
 502
 00:25:59,260 --> 00:26:00,811
@@ -2335,7 +2335,7 @@ Uma pena.
 503
 00:26:00,812 --> 00:26:03,439
 - Minha hora favorita do dia.
-- A minha tambÈm.
+- A minha tamb√©m.
 
 504
 00:26:03,440 --> 00:26:05,580
@@ -2343,21 +2343,21 @@ Quase esqueci como era um.
 
 505
 00:26:06,726 --> 00:26:09,087
-Sabia que tubarıes
-s„o daltÙnicos?
+Sabia que tubar√µes
+s√£o dalt√¥nicos?
 
 506
 00:26:10,229 --> 00:26:13,832
-Quando eu era o Tubar„o-Rei,
+Quando eu era o Tubar√£o-Rei,
 meu mundo era chato e cinza.
 
 507
 00:26:16,778 --> 00:26:19,236
-Ent„o conheci vocÍ, e tudo mudou.
+Ent√£o conheci voc√™, e tudo mudou.
 
 508
 00:26:23,168 --> 00:26:24,871
-Pensei que vocÍ estava
+Pensei que voc√™ estava
 me evitando.
 
 509
@@ -2366,25 +2366,25 @@ Eu estava,
 
 510
 00:26:27,789 --> 00:26:29,680
-mas n„o mais.
+mas n√£o mais.
 
 511
 00:26:30,917 --> 00:26:33,877
-Tanya, vocÍ est· desapontada
+Tanya, voc√™ est√° desapontada
 agora que eu...
 
 512
 00:26:33,878 --> 00:26:37,063
-N„o, nem um pouco.
+N√£o, nem um pouco.
 
 513
 00:26:40,351 --> 00:26:43,160
-Dizem que cada pÙr
-do sol È ˙nico.
+Dizem que cada p√¥r
+do sol √© √∫nico.
 
 514
 00:26:44,875 --> 00:26:46,901
-VocÍ acredita nisso?
+Voc√™ acredita nisso?
 
 515
 00:26:48,285 --> 00:26:50,359
@@ -2392,11 +2392,11 @@ Sim, acredito.
 
 516
 00:27:07,879 --> 00:27:09,546
-Pai, isso n„o vai funcionar.
+Pai, isso n√£o vai funcionar.
 
 517
 00:27:09,547 --> 00:27:10,964
-VocÍ nem tentou.
+Voc√™ nem tentou.
 
 518
 00:27:11,449 --> 00:27:12,641
@@ -2405,17 +2405,17 @@ Olha, eu entendi.
 519
 00:27:12,642 --> 00:27:14,551
 Eu deveria descontar
-minhas frustaÁıes nesse saco
+minhas frusta√ß√µes nesse saco
 
 520
 00:27:14,552 --> 00:27:17,629
 e superar de algum jeito,
-mas n„o È t„o f·cil.
+mas n√£o √© t√£o f√°cil.
 
 521
 00:27:17,630 --> 00:27:21,006
 Confrontar o que te incomoda?
-N„o. … difÌcil.
+N√£o. √â dif√≠cil.
 
 522
 00:27:21,007 --> 00:27:22,968
@@ -2424,7 +2424,7 @@ mundo para fazer isso.
 
 523
 00:27:22,969 --> 00:27:25,262
-Est· falando de Tibet?
+Est√° falando de Tibet?
 
 524
 00:27:25,263 --> 00:27:26,822
@@ -2433,8 +2433,8 @@ para ver o Wally.
 
 525
 00:27:26,823 --> 00:27:28,682
-Eu fui, mas n„o foi
-sÛ por isso.
+Eu fui, mas n√£o foi
+s√≥ por isso.
 
 526
 00:27:28,683 --> 00:27:30,934
@@ -2442,13 +2442,13 @@ Eu fui para me curar.
 
 527
 00:27:30,935 --> 00:27:32,495
-Foi por isso que vocÍ se
+Foi por isso que voc√™ se
 foi por tanto tempo?
 
 528
 00:27:32,496 --> 00:27:35,654
 Wally me convenceu a ir para
-o leste com o bebÍ.
+o leste com o beb√™.
 
 529
 00:27:35,655 --> 00:27:38,242
@@ -2462,7 +2462,7 @@ minha alma velha.
 
 531
 00:27:40,653 --> 00:27:42,838
-Ent„o a Cecile deixou,
+Ent√£o a Cecile deixou,
 
 532
 00:27:42,839 --> 00:27:44,199
@@ -2478,11 +2478,11 @@ Pode apostar, minha filha.
 
 535
 00:27:50,088 --> 00:27:52,497
-Mas o Cicada n„o vai me intimidar.
+Mas o Cicada n√£o vai me intimidar.
 
 536
 00:27:52,498 --> 00:27:54,016
-Muito menos vocÍ.
+Muito menos voc√™.
 
 537
 00:27:54,017 --> 00:27:55,499
@@ -2491,7 +2491,7 @@ Vamos.
 538
 00:27:58,198 --> 00:28:00,154
 Vamos, Iris. Mostre ao
-Cicada quem vocÍ È.
+Cicada quem voc√™ √©.
 
 539
 00:28:04,385 --> 00:28:06,602
@@ -2507,12 +2507,12 @@ Isso
 
 542
 00:28:25,164 --> 00:28:26,197
-O que est· acontecendo?
+O que est√° acontecendo?
 
 543
 00:28:26,198 --> 00:28:28,803
-Nosso amigo peludo est·
-escalando o Campan·rio Broome.
+Nosso amigo peludo est√°
+escalando o Campan√°rio Broome.
 
 544
 00:28:28,804 --> 00:28:30,201
@@ -2520,7 +2520,7 @@ O que ele tem com essa torre?
 
 545
 00:28:30,202 --> 00:28:32,245
-Pois È o exato
+Pois √© o exato
 epicentro da cidade...
 
 546
@@ -2543,7 +2543,7 @@ de todos na cidade.
 
 550
 00:28:49,639 --> 00:28:53,116
-<i>Logo, vocÍs sÛ ir„o conhecer
+<i>Logo, voc√™s s√≥ ir√£o conhecer
 minha vontade...</i>
 
 551
@@ -2552,7 +2552,7 @@ minha vontade...</i>
 
 552
 00:29:02,833 --> 00:29:05,407
-Quanto tempo atÈ todo mundo
+Quanto tempo at√© todo mundo
 ser controlado por Grodd?
 
 553
@@ -2580,8 +2580,8 @@ ponto fraco por mim
 
 558
 00:29:12,669 --> 00:29:15,191
-N„o,
-Nevasca n„o vai deixar.
+N√£o,
+Nevasca n√£o vai deixar.
 
 559
 00:29:15,192 --> 00:29:17,033
@@ -2594,16 +2594,16 @@ porque somos velocistas?
 
 561
 00:29:18,535 --> 00:29:20,178
-N„o.
+N√£o.
 
 562
 00:29:20,179 --> 00:29:23,372
 Certo, o Museu Flash tem
-muito material errado l·.
+muito material errado l√°.
 
 563
 00:29:23,373 --> 00:29:26,351
-Espera, vocÍ tem algum extra
+Espera, voc√™ tem algum extra
 anti-controle mental por aqui?
 
 564
@@ -2612,17 +2612,17 @@ Tem alguns na oficina,
 
 565
 00:29:27,575 --> 00:29:29,211
-mas n„o funcionou muito
-bem na ˙ltima vez.
+mas n√£o funcionou muito
+bem na √∫ltima vez.
 
 566
 00:29:29,212 --> 00:29:30,880
-Sim, mas agora tem dois de nÛs.
+Sim, mas agora tem dois de n√≥s.
 
 567
 00:29:30,881 --> 00:29:32,548
-Quero que corra atÈ ele
-o mais r·pido que puder
+Quero que corra at√© ele
+o mais r√°pido que puder
 
 568
 00:29:32,549 --> 00:29:34,216
@@ -2631,7 +2631,7 @@ o mais r·pido que puder
 
 569
 00:29:34,217 --> 00:29:36,510
-- Isso vai chamar a atenÁ„o dele
+- Isso vai chamar a aten√ß√£o dele
 - O que vai fazer?
 
 570
@@ -2648,25 +2648,25 @@ Pai?
 
 573
 00:30:30,848 --> 00:30:33,602
-<i>- Eu n„o me mexo.</i>
-- Os inibidores est„o funcionando,
+<i>- Eu n√£o me mexo.</i>
+- Os inibidores est√£o funcionando,
 
 574
 00:30:33,603 --> 00:30:34,873
-<i>mas Grodd È muito forte.</i>
+<i>mas Grodd √© muito forte.</i>
 
 575
 00:30:34,874 --> 00:30:36,928
 Estou tentando hackear a coroa,
-mas Grodd n„o deixa.
+mas Grodd n√£o deixa.
 
 576
 00:30:36,929 --> 00:30:38,373
-Ele vai mat·-los.
+Ele vai mat√°-los.
 
 577
 00:30:38,374 --> 00:30:40,326
-N„o se vocÍ me transformar
+N√£o se voc√™ me transformar
 de volta.
 
 578
@@ -2675,12 +2675,12 @@ Posso parar o Grodd.
 
 579
 00:30:43,055 --> 00:30:45,090
-Ele n„o consegue ler minha mente...
+Ele n√£o consegue ler minha mente...
 Pelo menos,
 
 580
 00:30:45,426 --> 00:30:48,261
-- n„o quando sou um tubar„o.
+- n√£o quando sou um tubar√£o.
 - Pode fazer isso?
 
 581
@@ -2691,11 +2691,11 @@ o ciclo celular,
 582
 00:30:50,605 --> 00:30:53,512
 faremos algo que vai pedir um retorno
-‡ forma celular da matÈria negra.
+√† forma celular da mat√©ria negra.
 
 583
 00:30:53,513 --> 00:30:56,334
-Certo, talvez uma vibraÁ„o
+Certo, talvez uma vibra√ß√£o
 ou um choque?
 
 584
@@ -2704,26 +2704,26 @@ Sim, se fosse suficientemente forte,
 
 585
 00:30:58,210 --> 00:31:00,163
-mas haveria consequÍncias
+mas haveria consequ√™ncias
 permanentes.
 
 586
 00:31:00,164 --> 00:31:02,256
 Se voltarmos a saturar
-suas cÈlulas meta-gÍnicas,
+suas c√©lulas meta-g√™nicas,
 
 587
 00:31:02,257 --> 00:31:03,514
-isso eliminar· a possibilidade
+isso eliminar√° a possibilidade
 
 588
 00:31:03,515 --> 00:31:06,232
-de transform·-las de volta
-em cÈlulas humanas.
+de transform√°-las de volta
+em c√©lulas humanas.
 
 589
 00:31:06,233 --> 00:31:08,133
-Ele n„o ser· capaz
+Ele n√£o ser√° capaz
 de usar a cura.
 
 590
@@ -2736,17 +2736,17 @@ se concordar com isso,
 
 592
 00:31:12,876 --> 00:31:14,461
-nunca mais ser· humano.
+nunca mais ser√° humano.
 
 593
 00:31:14,462 --> 00:31:17,688
 Tanya, posso salvar o Flash,
-as pessoas desta cidade, vocÍ,
+as pessoas desta cidade, voc√™,
 
 594
 00:31:17,689 --> 00:31:19,816
 e compensar algumas das coisas
-horrÌveis que fiz.
+horr√≠veis que fiz.
 
 595
 00:31:19,817 --> 00:31:21,489
@@ -2758,16 +2758,16 @@ Tenho medo de te perder.
 
 597
 00:31:25,421 --> 00:31:26,560
-N„o vai.
+N√£o vai.
 
 598
 00:31:28,995 --> 00:31:33,391
-Tem alguÈm nesta sala que possa
+Tem algu√©m nesta sala que possa
 proporcionar um choque vibracional?
 
 599
 00:31:33,392 --> 00:31:35,025
-Eu faÁo isso.
+Eu fa√ßo isso.
 
 600
 00:32:08,877 --> 00:32:12,261
@@ -2775,7 +2775,7 @@ Eu faÁo isso.
 
 601
 00:32:12,737 --> 00:32:17,136
-<i>Em breve, Grodd governar·
+<i>Em breve, Grodd governar√°
 esta cidade,</i>
 
 602
@@ -2784,47 +2784,47 @@ esta cidade,</i>
 
 603
 00:32:18,934 --> 00:32:20,699
-<i>E vocÍ...</i>
+<i>E voc√™...</i>
 
 604
 00:32:20,700 --> 00:32:24,621
-<i>Desaparecer· para sempre.</i>
+<i>Desaparecer√° para sempre.</i>
 
 605
 00:32:30,557 --> 00:32:32,260
-<i>Tubar„o-Rei?</i>
+<i>Tubar√£o-Rei?</i>
 
 606
 00:32:34,698 --> 00:32:39,604
-Tubar„o-Rei quer
-que vocÍ v· embora!
+Tubar√£o-Rei quer
+que voc√™ v√° embora!
 
 607
 00:34:14,733 --> 00:34:16,202
-N„o.
+N√£o.
 
 608
 00:34:19,182 --> 00:34:20,984
-Pessoal, o Tubar„o-Rei
-n„o est· se movendo.
+Pessoal, o Tubar√£o-Rei
+n√£o est√° se movendo.
 
 609
 00:34:20,985 --> 00:34:22,749
-Quando um tubar„o fica
-de cabeÁa para baixo,
+Quando um tubar√£o fica
+de cabe√ßa para baixo,
 
 610
 00:34:22,750 --> 00:34:25,998
-- ele entra em imobilidade tÙnica.
-- <i>Ele est· em um estado de paralisia.</i>
+- ele entra em imobilidade t√¥nica.
+- <i>Ele est√° em um estado de paralisia.</i>
 
 611
 00:34:25,999 --> 00:34:27,254
-Como vamos acord·-lo?
+Como vamos acord√°-lo?
 
 612
 00:34:27,255 --> 00:34:29,324
-Os tubarıes n„o tÍm Ûrg„os
+Os tubar√µes n√£o t√™m √≥rg√£os
 electroreceptores
 
 613
@@ -2834,32 +2834,32 @@ de Lorenzini?
 
 614
 00:34:30,879 --> 00:34:33,090
-… como eles detectam <i>campos
-eletromagnÈticos, certo?</i>
+√â como eles detectam <i>campos
+eletromagn√©ticos, certo?</i>
 
 615
 00:34:33,091 --> 00:34:34,528
-Sim, È como eles navegam.
+Sim, √© como eles navegam.
 
 616
 00:34:34,529 --> 00:34:37,036
-E tambÈm atrair·
+E tamb√©m atrair√°
 eletricidade, certo?
 
 617
 00:34:37,037 --> 00:34:39,912
-Ent„o se pudermos obter eletricidade
+Ent√£o se pudermos obter eletricidade
 para ele,
 
 618
 00:34:40,362 --> 00:34:42,962
-- Eletrific·-lo atÈ acordar.
-- Eletrific·-lo atÈ acordar.
+- Eletrific√°-lo at√© acordar.
+- Eletrific√°-lo at√© acordar.
 
 619
 00:34:42,963 --> 00:34:44,889
 <i>- Barry!</i>
-- Sim, j· ouvimos.
+- Sim, j√° ouvimos.
 
 620
 00:34:44,890 --> 00:34:46,779
@@ -2867,7 +2867,7 @@ Hora de outro velho truque.
 
 621
 00:35:14,075 --> 00:35:15,388
-Est· bem?
+Est√° bem?
 
 622
 00:35:41,009 --> 00:35:42,947
@@ -2885,7 +2885,7 @@ Vida longa ao rei.
 625
 00:36:13,071 --> 00:36:16,868
 Sei que Grodd
-quase fritou nossos cÈrebros,
+quase fritou nossos c√©rebros,
 
 626
 00:36:16,868 --> 00:36:20,399
@@ -2894,12 +2894,12 @@ foi como um sonho.
 
 627
 00:36:20,399 --> 00:36:23,597
-SÈrio, muito melhor que tudo
+S√©rio, muito melhor que tudo
 que li no Museu do Flash.
 
 628
 00:36:23,597 --> 00:36:25,514
-Agora que Grodd est· preso,
+Agora que Grodd est√° preso,
 
 629
 00:36:25,514 --> 00:36:28,236
@@ -2916,17 +2916,17 @@ administrado por Caitlin
 
 632
 00:36:31,891 --> 00:36:33,446
-e a equipe mÈdica da A.R.G.U.S.
+e a equipe m√©dica da A.R.G.U.S.
 
 633
 00:36:33,447 --> 00:36:37,286
-ExposiÁ„o ‡ coroa amplificaram
+Exposi√ß√£o √† coroa amplificaram
 as habilidades mentais de Grodd.
 
 634
 00:36:37,286 --> 00:36:38,883
-Est„o crescendo,
-atÈ mesmo agora.
+Est√£o crescendo,
+at√© mesmo agora.
 
 635
 00:36:38,883 --> 00:36:40,175
@@ -2934,17 +2934,17 @@ Felizmente percebi
 
 636
 00:36:40,175 --> 00:36:42,433
-que se o cÈrebro de Grodd
+que se o c√©rebro de Grodd
 permanecer inativo,
 
 637
 00:36:42,433 --> 00:36:44,241
-ele n„o pode acessar
+ele n√£o pode acessar
 os poderes mentais.
 
 638
 00:36:44,241 --> 00:36:46,476
-TambÈm um novo
+Tamb√©m um novo
 bloqueador de poderes
 
 639
@@ -2954,28 +2954,28 @@ os poderes de Grodd.
 
 640
 00:36:48,574 --> 00:36:50,500
-Ali·s, de nada.
+Ali√°s, de nada.
 
 641
 00:36:50,933 --> 00:36:52,686
-Tudo pela seguranÁa da cidade.
+Tudo pela seguran√ßa da cidade.
 
 642
 00:36:52,686 --> 00:36:54,205
-Falando em seguranÁa da cidade,
+Falando em seguran√ßa da cidade,
 
 643
 00:36:54,205 --> 00:36:56,267
-n„o conseguirÌamos sem o Shay.
+n√£o conseguir√≠amos sem o Shay.
 
 644
 00:36:56,654 --> 00:37:00,231
 Como o convenceram
-a voltar a ser o Tubar„o-Rei?
+a voltar a ser o Tubar√£o-Rei?
 
 645
 00:37:00,232 --> 00:37:01,232
-N„o convencemos.
+N√£o convencemos.
 
 646
 00:37:01,967 --> 00:37:03,267
@@ -2983,16 +2983,16 @@ Ele se voluntariou.
 
 647
 00:37:03,712 --> 00:37:06,106
-E nunca poder„o transform·-lo
+E nunca poder√£o transform√°-lo
 de volta a humano?
 
 648
 00:37:06,106 --> 00:37:07,522
-Acho que n„o.
+Acho que n√£o.
 
 649
 00:37:07,523 --> 00:37:10,851
-Ent„o ele ser· o Tubar„o-Rei
+Ent√£o ele ser√° o Tubar√£o-Rei
 para sempre?
 
 650
@@ -3007,11 +3007,11 @@ mais uma vez,
 652
 00:37:25,786 --> 00:37:28,922
 e, mesmo assim,
-vocÍ n„o parece comemorar.
+voc√™ n√£o parece comemorar.
 
 653
 00:37:28,922 --> 00:37:30,457
-Por que ser·?
+Por que ser√°?
 
 654
 00:37:30,457 --> 00:37:32,249
@@ -3021,7 +3021,7 @@ que aconteceu hoje,
 655
 00:37:33,085 --> 00:37:35,749
 eu me pergunto
-como isso afetar·...
+como isso afetar√°...
 
 656
 00:37:35,749 --> 00:37:37,249
@@ -3029,7 +3029,7 @@ Seu relacionamento?
 
 657
 00:37:37,844 --> 00:37:40,238
-… uma grande quest„o.
+√â uma grande quest√£o.
 Tenho que admitir.
 
 658
@@ -3038,54 +3038,54 @@ Mas quer saber?
 
 659
 00:37:41,949 --> 00:37:45,030
-VocÍs v„o dar um jeito.
-VocÍs dois, juntos.
+Voc√™s v√£o dar um jeito.
+Voc√™s dois, juntos.
 
 660
 00:37:45,624 --> 00:37:47,862
 Se sim,
-nÛs vamos ter que te agradecer.
+n√≥s vamos ter que te agradecer.
 
 661
 00:37:47,862 --> 00:37:50,033
-- N„o.
+- N√£o.
 - Principalmente eu.
 
 662
 00:37:50,033 --> 00:37:53,013
-N„o, eu n„o fiz nada.
-N„o, tem raz„o, ajudei um pouco.
+N√£o, eu n√£o fiz nada.
+N√£o, tem raz√£o, ajudei um pouco.
 
 663
 00:37:53,013 --> 00:37:55,297
-A quest„o aqui È:
+A quest√£o aqui √©:
 
 664
 00:37:55,297 --> 00:37:57,574
 seja aquilo um homem,
-um tubar„o,
+um tubar√£o,
 
 665
 00:37:58,777 --> 00:38:00,769
-ou um homem-tubar„o...
+ou um homem-tubar√£o...
 
 666
 00:38:01,466 --> 00:38:05,696
-O coraÁ„o quer
-o que o coraÁ„o quer.
+O cora√ß√£o quer
+o que o cora√ß√£o quer.
 
 667
 00:38:06,556 --> 00:38:08,907
-Portanto, vocÍ deve aceitar isso.
+Portanto, voc√™ deve aceitar isso.
 
 668
 00:38:09,652 --> 00:38:12,847
 Parece que resolveu
-o maior mistÈrio da vida.
+o maior mist√©rio da vida.
 
 669
 00:38:12,847 --> 00:38:15,097
-Bom, È o que eu faÁo.
+Bom, √© o que eu fa√ßo.
 
 670
 00:38:16,866 --> 00:38:18,166
@@ -3097,28 +3097,28 @@ Espero que um dia...
 
 672
 00:38:20,300 --> 00:38:22,469
-vocÍ tambÈm ache
+voc√™ tamb√©m ache
 aquilo que procura.
 
 673
 00:38:23,722 --> 00:38:25,522
-Talvez em outro sÛsia.
+Talvez em outro s√≥sia.
 
 674
 00:38:28,561 --> 00:38:29,561
-… claro.
+√â claro.
 
 675
 00:38:32,986 --> 00:38:34,486
-Vou deix·-los a sÛs.
+Vou deix√°-los a s√≥s.
 
 676
 00:38:39,206 --> 00:38:43,120
-Tanya, vocÍ parece triste.
+Tanya, voc√™ parece triste.
 
 677
 00:38:43,120 --> 00:38:44,420
-Por quÍ?
+Por qu√™?
 
 678
 00:38:46,293 --> 00:38:48,088
@@ -3127,19 +3127,19 @@ um ao outro hoje,
 
 679
 00:38:48,089 --> 00:38:50,577
-e agora essa conex„o...
+e agora essa conex√£o...
 
 680
 00:38:50,577 --> 00:38:52,377
-Ainda est· aqui.
+Ainda est√° aqui.
 
 681
 00:38:53,881 --> 00:38:56,974
-Shay, o que vocÍ fez...
+Shay, o que voc√™ fez...
 
 682
 00:38:56,974 --> 00:39:01,157
-Eu faria de novo por vocÍ,
+Eu faria de novo por voc√™,
 meu amor.
 
 683
@@ -3148,8 +3148,8 @@ Time to bend.
 
 684
 00:39:46,699 --> 00:39:51,215
-Tubar„o-Rei vs. Gorila Grodd?
-Est· zoando? Eu perdi isso?
+Tubar√£o-Rei vs. Gorila Grodd?
+Est√° zoando? Eu perdi isso?
 
 685
 00:39:53,580 --> 00:39:56,680
@@ -3157,7 +3157,7 @@ MAS GRODD ODEIA BANANA
 
 686
 00:40:00,395 --> 00:40:04,187
-Tem certeza que n„o quer algo
+Tem certeza que n√£o quer algo
 um pouco mais adulto?
 
 687
@@ -3166,12 +3166,12 @@ Retire o que disse.
 
 688
 00:40:06,790 --> 00:40:09,863
-Este lanche È uma delÌcia,
-n„o importa a idade.
+Este lanche √© uma del√≠cia,
+n√£o importa a idade.
 
 689
 00:40:09,863 --> 00:40:13,515
-Pessoal, eu sÛ...
+Pessoal, eu s√≥...
 Jujuba de Peixe?
 
 690
@@ -3193,7 +3193,7 @@ te fez disparar na minha cara,
 
 694
 00:40:25,165 --> 00:40:27,227
-mas eu tambÈm sei
+mas eu tamb√©m sei
 que meio que mereci.
 
 695
@@ -3203,16 +3203,16 @@ para ser congelado.
 
 696
 00:40:29,528 --> 00:40:31,828
-Eu n„o devia ter usado
+Eu n√£o devia ter usado
 a cura como arma
 
 697
 00:40:31,828 --> 00:40:33,582
-e forÁ·-la no Tubar„o-Rei.
+e for√ß√°-la no Tubar√£o-Rei.
 
 698
 00:40:34,086 --> 00:40:36,205
-Prometo que n„o ir· se repetir.
+Prometo que n√£o ir√° se repetir.
 
 699
 00:40:40,405 --> 00:40:41,905
@@ -3234,25 +3234,25 @@ que a cura meta-humana funciona.
 
 703
 00:40:50,635 --> 00:40:54,123
-Agora podemos us·-la para ajudar
+Agora podemos us√°-la para ajudar
 todos os metas em Central City
 
 704
 00:40:54,123 --> 00:40:55,623
-e alÈm.
+e al√©m.
 
 705
 00:40:56,095 --> 00:40:58,408
-Talvez possamos comeÁar
+Talvez possamos come√ßar
 com o Cicada.
 
 706
 00:41:00,808 --> 00:41:02,433
-Perd„o. Como È que È?
+Perd√£o. Como √© que √©?
 
 707
 00:41:02,433 --> 00:41:03,792
-Eu sei, eu sÛ...
+Eu sei, eu s√≥...
 
 708
 00:41:05,233 --> 00:41:08,408
@@ -3261,7 +3261,7 @@ Hoje me fez lembrar disso.
 
 709
 00:41:08,408 --> 00:41:11,432
-E como vocÍ tem dito,
+E como voc√™ tem dito,
 todos merecem uma escolha
 
 710
@@ -3274,7 +3274,7 @@ Isso inclui nossos inimigos.
 
 712
 00:41:17,175 --> 00:41:19,636
-Acho que deverÌamos
+Acho que dever√≠amos
 oferecer a cura ao Cicada.
 
 713
