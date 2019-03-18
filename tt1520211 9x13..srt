@@ -1,28 +1,28 @@
 1
 00:00:56,356 --> 00:00:57,523
-VocÍ est· bem?
+Voc√™ est√° bem?
 
 2
 00:00:57,523 --> 00:00:59,256
-Este n„o È
+Este n√£o √©
 o caminho para Hilltop.
 
 3
 00:00:59,256 --> 00:01:01,423
 Tara fez um acordo
-com os cretinos. NÛs quebramos.
+com os cretinos. N√≥s quebramos.
 
 4
 00:01:01,423 --> 00:01:02,923
-N„o vamos voltar pra Hilltop.
+N√£o vamos voltar pra Hilltop.
 
 5
 00:01:03,490 --> 00:01:04,790
-Ele tem raz„o.
+Ele tem raz√£o.
 
 6
 00:01:04,790 --> 00:01:06,256
-H· muitos deles.
+H√° muitos deles.
 
 7
 00:01:06,256 --> 00:01:08,290
@@ -31,17 +31,17 @@ para me recuperar agora.
 
 8
 00:01:08,656 --> 00:01:11,023
-…, por que n„o disse
+√â, por que n√£o disse
 que eram tantos?
 
 9
 00:01:11,590 --> 00:01:13,690
-Me deixaram trancada na pris„o.
+Me deixaram trancada na pris√£o.
 
 10
 00:01:13,690 --> 00:01:16,156
 O que esperava?
-Eu n„o ia trair minha gente.
+Eu n√£o ia trair minha gente.
 
 11
 00:01:16,990 --> 00:01:18,556
@@ -49,12 +49,12 @@ Talvez devesse voltar pra eles.
 
 12
 00:01:19,923 --> 00:01:21,823
-Henry n„o sabia
+Henry n√£o sabia
 no que estava se metendo,
 
 13
 00:01:21,823 --> 00:01:23,256
-mas vocÍ sabia.
+mas voc√™ sabia.
 
 14
 00:01:23,856 --> 00:01:25,256
@@ -62,11 +62,11 @@ Achei que podia voltar.
 
 15
 00:01:27,756 --> 00:01:29,123
-Mas n„o posso.
+Mas n√£o posso.
 
 16
 00:01:30,123 --> 00:01:31,490
-Bem, n„o vai vir conosco.
+Bem, n√£o vai vir conosco.
 
 17
 00:01:35,190 --> 00:01:36,623
@@ -78,17 +78,17 @@ Podemos fugir.
 
 19
 00:01:39,623 --> 00:01:42,890
-Eu e ela. VocÍs voltam
-e nÛs continuamos fugindo.
+Eu e ela. Voc√™s voltam
+e n√≥s continuamos fugindo.
 
 20
 00:01:42,890 --> 00:01:45,056
-N„o podem culpar Hilltop
+N√£o podem culpar Hilltop
 se desaparecermos.
 
 21
 00:01:45,594 --> 00:01:46,894
-Henry, n„o podemos.
+Henry, n√£o podemos.
 
 22
 00:01:48,072 --> 00:01:49,539
@@ -96,26 +96,26 @@ Deixe-me consertar isso.
 
 23
 00:01:53,190 --> 00:01:54,323
-N„o.
+N√£o.
 
 24
 00:01:55,056 --> 00:01:57,823
-N„o vou deixar
-vocÍ fugir com ela.
+N√£o vou deixar
+voc√™ fugir com ela.
 
 25
 00:01:59,056 --> 00:02:01,323
 De jeito nenhum.
-Pense na sua m„e.
+Pense na sua m√£e.
 
 26
 00:02:05,290 --> 00:02:07,723
-N„o, ela tem raz„o.
+N√£o, ela tem raz√£o.
 Venham, temos de ir. Vamos.
 
 27
 00:02:10,856 --> 00:02:11,890
-… por aqui.
+√â por aqui.
 
 28
 00:02:14,290 --> 00:02:15,390
@@ -123,11 +123,11 @@ Sim, por aqui.
 
 29
 00:02:21,956 --> 00:02:23,256
-N„o. N„o!
+N√£o. N√£o!
 
 30
 00:02:23,756 --> 00:02:24,823
-C„o.
+C√£o.
 
 31
 00:03:16,890 --> 00:03:19,590
@@ -135,11 +135,11 @@ Vou ser um deles.
 
 32
 00:03:22,423 --> 00:03:24,390
-Mas vocÍ sempre ser·
+Mas voc√™ sempre ser√°
 
 33
 00:03:25,623 --> 00:03:27,023
-um de nÛs.
+um de n√≥s.
 
 34
 00:03:34,623 --> 00:03:36,356
@@ -147,16 +147,16 @@ Achem a esposa dele.
 
 35
 00:03:38,756 --> 00:03:41,890
-Digam que a mudanÁa
-est· chegando pra ele.
+Digam que a mudan√ßa
+est√° chegando pra ele.
 
 36
 00:03:50,656 --> 00:03:51,890
-VocÍs os acharam?
+Voc√™s os acharam?
 
 37
 00:03:52,456 --> 00:03:53,490
-N„o.
+N√£o.
 
 38
 00:03:54,523 --> 00:03:56,223
@@ -172,8 +172,8 @@ Lydia vai andar conosco de novo,
 
 41
 00:04:05,323 --> 00:04:08,956
-ou todos v„o andar
-com os Guardiıes.
+ou todos v√£o andar
+com os Guardi√µes.
 
 42
 00:04:14,927 --> 00:04:19,776
@@ -182,12 +182,12 @@ apresenta...</b>
 
 43
 00:04:23,831 --> 00:04:29,289
-<b>Revis„o:
+<b>Revis√£o:
 Legendei</b>
 
 44
 00:04:29,313 --> 00:04:32,113
-<b>Download de SÈries e Filmes
+<b>Download de S√©ries e Filmes
 :: ComandoTorrents.com ::</b>
 
 45
@@ -202,12 +202,12 @@ ALEXANDRIA
 
 47
 00:05:17,376 --> 00:05:20,009
-Estou comeÁando a achar
+Estou come√ßando a achar
 que essa coisa vai funcionar.
 
 48
 00:05:20,009 --> 00:05:21,776
-Tinha alguma d˙vida?
+Tinha alguma d√∫vida?
 
 49
 00:05:21,776 --> 00:05:23,742
@@ -215,11 +215,11 @@ Sim, algumas.
 
 50
 00:05:23,742 --> 00:05:24,776
-Eu n„o.
+Eu n√£o.
 
 51
 00:05:25,542 --> 00:05:27,709
-… por isso que
+√â por isso que
 lutamos tanto.
 
 52
@@ -229,7 +229,7 @@ sermos diferentes.
 
 53
 00:05:32,376 --> 00:05:34,109
-N„o guerreiros.
+N√£o guerreiros.
 
 54
 00:05:35,242 --> 00:05:37,676
@@ -238,11 +238,11 @@ passamos para chegar aqui,
 
 55
 00:05:38,242 --> 00:05:39,909
-n„o podÌamos desistir agora.
+n√£o pod√≠amos desistir agora.
 
 56
 00:05:44,309 --> 00:05:46,776
-Parece que Jerry est· parando
+Parece que Jerry est√° parando
 mais cedo.
 
 57
@@ -252,11 +252,11 @@ com a armadura deles?
 
 58
 00:05:50,342 --> 00:05:51,576
-Ei, amig„o.
+Ei, amig√£o.
 
 59
 00:05:54,676 --> 00:05:55,742
-VocÍ est· bem?
+Voc√™ est√° bem?
 
 60
 00:05:56,176 --> 00:05:56,942
@@ -276,7 +276,7 @@ Fomos atacados.
 
 64
 00:06:08,676 --> 00:06:11,909
-Est·vamos limpando a estrada
+Est√°vamos limpando a estrada
 dos zumbis, e eles nos atacaram.
 
 65
@@ -296,21 +296,21 @@ nos pertencem.
 68
 00:06:29,909 --> 00:06:32,842
 "Todos os visitantes
-que tentarem ir ‡ feira
+que tentarem ir √† feira
 
 69
 00:06:32,842 --> 00:06:35,442
-"ser„o forÁados a irem embora
-se n„o pagarem o ped·gio."
+"ser√£o for√ßados a irem embora
+se n√£o pagarem o ped√°gio."
 
 70
 00:06:36,942 --> 00:06:39,176
-… uma lista de mercadorias
+√â uma lista de mercadorias
 pelo resgate
 
 71
 00:06:40,176 --> 00:06:42,242
-e um mapa com instruÁıes
+e um mapa com instru√ß√µes
 para o pagamento.
 
 72
@@ -321,11 +321,11 @@ e me ouviram falando da feira.
 73
 00:06:48,642 --> 00:06:52,142
 -Sinto muito, fiz besteira.
--N„o, Jerry.
+-N√£o, Jerry.
 
 74
 00:06:52,976 --> 00:06:54,676
-A feira n„o È um segredo.
+A feira n√£o √© um segredo.
 
 75
 00:06:55,376 --> 00:06:56,909
@@ -338,8 +338,8 @@ com pouca comida e suprimentos.
 
 77
 00:06:58,976 --> 00:07:00,976
-N„o poderÌamos pagar
-os piratas nem se quisÈssemos.
+N√£o poder√≠amos pagar
+os piratas nem se quis√©ssemos.
 
 78
 00:07:02,642 --> 00:07:04,242
@@ -360,16 +360,16 @@ Soube que era o grupo do Jed.
 
 82
 00:07:13,009 --> 00:07:15,709
-N„o o vimos l· fora,
+N√£o o vimos l√° fora,
 mas podia ser o pessoal dele.
 
 83
 00:07:15,709 --> 00:07:17,342
-N„o, n„o eram.
+N√£o, n√£o eram.
 
 84
 00:07:17,642 --> 00:07:19,009
-Salvadores n„o escrevem cartas.
+Salvadores n√£o escrevem cartas.
 
 85
 00:07:19,542 --> 00:07:22,376
@@ -379,7 +379,7 @@ com o grupo do Jed
 86
 00:07:22,376 --> 00:07:26,042
 para os Salteadores pegarem
-o territÛrio deles.
+o territ√≥rio deles.
 
 87
 00:07:28,809 --> 00:07:30,209
@@ -400,21 +400,21 @@ O que acha, minha rainha?
 
 91
 00:07:40,742 --> 00:07:42,309
-Jerry tem raz„o.
+Jerry tem raz√£o.
 
 92
 00:07:42,909 --> 00:07:44,809
 A feira pode ser
-nossa ˙ltima chance.
+nossa √∫ltima chance.
 
 93
 00:07:48,109 --> 00:07:49,876
-Re˙nam todos os guerreiros
+Re√∫nam todos os guerreiros
 que pudermos dispensar.
 
 94
 00:08:00,709 --> 00:08:02,242
-Nunca acaba, nÈ?
+Nunca acaba, n√©?
 
 95
 00:08:16,276 --> 00:08:17,609
@@ -427,7 +427,7 @@ do comboio do Alden chegar.
 
 97
 00:08:22,542 --> 00:08:24,476
--Vamos fechar um perÌmetro.
+-Vamos fechar um per√≠metro.
 -Certo.
 
 98
@@ -436,48 +436,48 @@ Vamos.
 
 99
 00:08:34,242 --> 00:08:35,576
-Eu devia ajud·-los.
+Eu devia ajud√°-los.
 
 100
 00:08:35,576 --> 00:08:37,809
-Como se n„o tivesse
+Como se n√£o tivesse
 se machucado o bastante.
 
 101
 00:08:37,809 --> 00:08:39,742
-Ah, e vocÍ est· ficando
+Ah, e voc√™ est√° ficando
 mais jovem?
 
 102
 00:08:39,742 --> 00:08:41,709
-Est· brincando? Depois
+Est√° brincando? Depois
 de passar a noite acordada
 
 103
 00:08:41,709 --> 00:08:44,376
 com essa fofurinha,
-minhas costas est„o me matando.
+minhas costas est√£o me matando.
 
 104
 00:08:46,142 --> 00:08:47,642
-Esse bebÍ merece algo melhor
+Esse beb√™ merece algo melhor
 
 105
 00:08:47,642 --> 00:08:49,676
-que um casal de velhos como nÛs.
+que um casal de velhos como n√≥s.
 
 106
 00:08:49,676 --> 00:08:51,109
-Especialmente vocÍ.
+Especialmente voc√™.
 
 107
 00:08:51,809 --> 00:08:54,509
 Vamos achar
-uma boa famÌlia pra ele.
+uma boa fam√≠lia pra ele.
 
 108
 00:08:54,509 --> 00:08:57,176
-… t„o bom ter
+√â t√£o bom ter
 este pequenino no colo.
 
 109
@@ -496,23 +496,23 @@ Estou ficando maluca aqui.
 112
 00:09:17,109 --> 00:09:19,942
 A Connie vai ficar bem.
-Ela est· com o Daryl.
+Ela est√° com o Daryl.
 
 113
 00:09:19,942 --> 00:09:21,042
-….
+√â.
 
 114
 00:09:21,476 --> 00:09:23,476
-… o Daryl que vai ficar bem.
+√â o Daryl que vai ficar bem.
 
 115
 00:09:23,476 --> 00:09:25,042
-Ele est· com a Connie.
+Ele est√° com a Connie.
 
 116
 00:09:25,042 --> 00:09:27,309
-Ei, eles v„o alcanÁar o garoto
+Ei, eles v√£o alcan√ßar o garoto
 
 117
 00:09:27,309 --> 00:09:29,176
@@ -520,8 +520,8 @@ e nos encontrar na feira.
 
 118
 00:09:29,176 --> 00:09:31,509
-Quer saber? J· devem
-estar esperando por nÛs.
+Quer saber? J√° devem
+estar esperando por n√≥s.
 
 119
 00:09:32,509 --> 00:09:33,642
@@ -538,7 +538,7 @@ Vamos para um ponto mais alto.
 
 122
 00:10:01,076 --> 00:10:02,176
-….
+√â.
 
 123
 00:10:06,042 --> 00:10:07,909
@@ -550,7 +550,7 @@ Boa ideia. Vamos.
 
 125
 00:10:13,442 --> 00:10:14,909
-N„o entendo.
+N√£o entendo.
 
 126
 00:10:15,609 --> 00:10:17,909
@@ -559,12 +559,12 @@ se proteger, certo?
 
 127
 00:10:17,909 --> 00:10:19,209
-Ent„o vamos subir.
+Ent√£o vamos subir.
 
 128
 00:10:19,209 --> 00:10:20,942
 Para onde
-os zumbis n„o consigam chegar.
+os zumbis n√£o consigam chegar.
 
 129
 00:10:21,342 --> 00:10:22,876
@@ -576,7 +576,7 @@ Eles viajam em bandos,
 
 131
 00:10:24,442 --> 00:10:27,176
-mas tem sÛ uns cinco
+mas tem s√≥ uns cinco
 ou seis deles no meio, certo?
 
 132
@@ -586,8 +586,8 @@ estaremos presos.
 
 133
 00:10:32,176 --> 00:10:34,709
-Alfa n„o vai mandar um exÈrcito,
-porque n„o precisa mandar.
+Alfa n√£o vai mandar um ex√©rcito,
+porque n√£o precisa mandar.
 
 134
 00:10:36,076 --> 00:10:37,176
@@ -599,15 +599,15 @@ Estou cansado de fugir.
 
 136
 00:10:43,509 --> 00:10:45,709
-Esse Beta, ele È o melhor deles?
+Esse Beta, ele √© o melhor deles?
 
 137
 00:10:47,442 --> 00:10:48,609
-”timo.
+√ìtimo.
 
 138
 00:10:48,609 --> 00:10:50,776
-Vamos mat·-lo primeiro. Venham.
+Vamos mat√°-lo primeiro. Venham.
 
 139
 00:11:14,284 --> 00:11:15,718
@@ -615,7 +615,7 @@ Dois guardas.
 
 140
 00:11:16,084 --> 00:11:17,618
-Eles tÍm armas.
+Eles t√™m armas.
 
 141
 00:11:28,018 --> 00:11:30,718
@@ -632,22 +632,22 @@ Como nos velhos tempos.
 
 144
 00:11:50,584 --> 00:11:51,984
-Eles tÍm armas.
+Eles t√™m armas.
 
 145
 00:11:55,118 --> 00:11:57,318
 Esta feira era
-pra ser um sÌmbolo.
+pra ser um s√≠mbolo.
 
 146
 00:11:57,751 --> 00:11:59,351
-Minha esperanÁa
+Minha esperan√ßa
 de um futuro melhor.
 
 147
 00:12:03,918 --> 00:12:06,251
-Mas parece que a violÍncia
-È a ˙nica moeda deste futuro,
+Mas parece que a viol√™ncia
+√© a √∫nica moeda deste futuro,
 
 148
 00:12:06,251 --> 00:12:07,484
@@ -659,7 +659,7 @@ Ezekiel, talvez...
 
 150
 00:12:11,751 --> 00:12:13,784
-Talvez devÍssemos
+Talvez dev√™ssemos
 tentar conversar com eles.
 
 151
@@ -677,8 +677,8 @@ Eles podiam ter te matado.
 
 154
 00:12:23,418 --> 00:12:25,318
-VocÍ e seu grupo,
-mas n„o mataram.
+Voc√™ e seu grupo,
+mas n√£o mataram.
 
 155
 00:12:25,918 --> 00:12:28,484
@@ -691,7 +691,7 @@ E gramaticalmente correta.
 
 157
 00:12:30,584 --> 00:12:32,684
-Isso parece bem civilizado, nÈ?
+Isso parece bem civilizado, n√©?
 
 158
 00:12:32,684 --> 00:12:35,184
@@ -703,30 +703,30 @@ a carta deles que se foda.
 
 160
 00:12:36,751 --> 00:12:39,018
-Foi uma ameaÁa de morte
+Foi uma amea√ßa de morte
 gramaticalmente correta.
 
 161
 00:12:39,018 --> 00:12:40,784
-N„o foi.
+N√£o foi.
 
 162
 00:12:42,518 --> 00:12:46,551
-SÛ dizia que os visitantes
-da feira n„o poderiam passar.
+S√≥ dizia que os visitantes
+da feira n√£o poderiam passar.
 
 163
 00:12:47,518 --> 00:12:50,984
-Esses piratas tÍm suas facas
+Esses piratas t√™m suas facas
 na garganta do Reino.
 
 164
 00:12:54,318 --> 00:12:55,918
-E se vocÍ estiver errada?
+E se voc√™ estiver errada?
 
 165
 00:12:55,918 --> 00:12:57,551
-H· riscos.
+H√° riscos.
 
 166
 00:12:57,551 --> 00:12:59,251
@@ -735,15 +735,15 @@ Vamos conversar com eles.
 167
 00:12:59,251 --> 00:13:01,818
 Se eu estiver errada
-e eles n„o ouvirem...
+e eles n√£o ouvirem...
 
 168
 00:13:03,651 --> 00:13:05,251
-Ent„o os mataremos.
+Ent√£o os mataremos.
 
 169
 00:14:06,584 --> 00:14:08,451
-As escadas j· est„o bloqueadas.
+As escadas j√° est√£o bloqueadas.
 
 170
 00:14:11,284 --> 00:14:12,718
@@ -759,8 +759,8 @@ Ficamos aqui uma vez.
 
 173
 00:14:25,784 --> 00:14:28,551
-…? Guardaram algo
-para uma emergÍncia?
+√â? Guardaram algo
+para uma emerg√™ncia?
 
 174
 00:14:28,551 --> 00:14:29,784
@@ -772,13 +772,13 @@ Muito bem.
 
 176
 00:14:44,818 --> 00:14:46,951
-H· sÛ duas formas de subir.
-Isso È bom.
+H√° s√≥ duas formas de subir.
+Isso √© bom.
 
 177
 00:14:48,018 --> 00:14:51,484
 Acho que essas barricadas
-est„o fechadas demais.
+est√£o fechadas demais.
 
 178
 00:14:52,518 --> 00:14:55,451
@@ -791,7 +791,7 @@ Tudo bem? Beleza.
 
 180
 00:15:00,351 --> 00:15:01,684
-Este lugar È bom.
+Este lugar √© bom.
 
 181
 00:15:02,484 --> 00:15:03,618
@@ -815,7 +815,7 @@ A garota fica
 
 186
 00:15:24,451 --> 00:15:26,451
-N„o.
+N√£o.
 
 187
 00:15:31,784 --> 00:15:35,018
@@ -824,23 +824,23 @@ meus amigos morrem.
 
 188
 00:15:35,651 --> 00:15:37,318
-Seus amigos tambÈm.
+Seus amigos tamb√©m.
 
 189
 00:15:38,351 --> 00:15:39,484
-Me dÍ isso.
+Me d√™ isso.
 
 190
 00:15:55,384 --> 00:15:56,718
-NOSSOS AMIGOS V√O MORRER
+NOSSOS AMIGOS V√ÉO MORRER
 
 191
 00:16:12,784 --> 00:16:15,784
-Temos amigos. Ela n„o tem.
+Temos amigos. Ela n√£o tem.
 
 192
 00:17:07,984 --> 00:17:10,318
-Esta reuni„o È sÛ com o rei.
+Esta reuni√£o √© s√≥ com o rei.
 
 193
 00:17:14,751 --> 00:17:18,684
@@ -849,15 +849,15 @@ governam juntos.
 
 194
 00:17:20,084 --> 00:17:21,518
-N„o foi o trato.
+N√£o foi o trato.
 
 195
 00:17:22,418 --> 00:17:23,851
-N„o tÌnhamos um trato.
+N√£o t√≠nhamos um trato.
 
 196
 00:17:26,484 --> 00:17:28,451
-Vamos negociar ou o quÍ?
+Vamos negociar ou o qu√™?
 
 197
 00:17:38,151 --> 00:17:40,184
@@ -865,35 +865,35 @@ Deviam ter me trazido algo.
 
 198
 00:17:40,784 --> 00:17:42,451
-N„o vamos pagar seu ped·gio.
+N√£o vamos pagar seu ped√°gio.
 
 199
 00:17:42,451 --> 00:17:46,084
 Viemos discutir
-soluÁıes alternativas.
+solu√ß√µes alternativas.
 
 200
 00:17:47,251 --> 00:17:49,918
 Que tal
-esta soluÁ„o alternativa?
+esta solu√ß√£o alternativa?
 
 201
 00:18:02,751 --> 00:18:05,718
-Se o Reino n„o vai pagar
+Se o Reino n√£o vai pagar
 para usar as nossas estradas,
 
 202
 00:18:08,384 --> 00:18:09,851
-talvez eles paguem por vocÍs.
+talvez eles paguem por voc√™s.
 
 203
 00:18:10,484 --> 00:18:12,351
-Eles n„o podem pagar
-com o que n„o tÍm.
+Eles n√£o podem pagar
+com o que n√£o t√™m.
 
 204
 00:18:17,384 --> 00:18:20,651
-VocÍs tÍm comida e ·gua limpa.
+Voc√™s t√™m comida e √°gua limpa.
 
 205
 00:18:22,518 --> 00:18:24,051
@@ -905,11 +905,11 @@ Precisamos do que temos.
 
 207
 00:18:28,218 --> 00:18:29,418
-NÛs tambÈm.
+N√≥s tamb√©m.
 
 208
 00:18:44,918 --> 00:18:48,918
-O que pede ameaÁa o futuro
+O que pede amea√ßa o futuro
 de nossa comunidade
 
 209
@@ -927,7 +927,7 @@ Estou ouvindo.
 
 212
 00:19:03,384 --> 00:19:05,151
-GostarÌamos de lhe oferecer
+Gostar√≠amos de lhe oferecer
 um trabalho.
 
 213
@@ -937,17 +937,17 @@ as rotas para o Reino limpas.
 
 214
 00:19:11,751 --> 00:19:14,484
-Ent„o, em vez de ameaÁar
+Ent√£o, em vez de amea√ßar
 as estradas,
 
 215
 00:19:14,484 --> 00:19:17,584
-vocÍ e sua gente
-as mantÍm seguras para nÛs.
+voc√™ e sua gente
+as mant√™m seguras para n√≥s.
 
 216
 00:19:20,918 --> 00:19:23,884
-TambÈm precisam devolver
+Tamb√©m precisam devolver
 a Janis Joplin com a bainha.
 
 217
@@ -958,21 +958,21 @@ de recuperar a espada dele.
 218
 00:19:30,318 --> 00:19:33,884
 O que exatamente ganhamos
-fazendo esse trabalho pra vocÍs?
+fazendo esse trabalho pra voc√™s?
 
 219
 00:19:33,884 --> 00:19:38,718
-VocÍ e sua gente ter„o acesso
-ao Reino e ‡ feira.
+Voc√™ e sua gente ter√£o acesso
+ao Reino e √† feira.
 
 220
 00:19:51,851 --> 00:19:53,551
-… piada?
+√â piada?
 
 221
 00:19:55,484 --> 00:19:58,618
-… um mercado de trocas.
-Essa È a quest„o.
+√â um mercado de trocas.
+Essa √© a quest√£o.
 
 222
 00:19:59,151 --> 00:20:01,218
@@ -981,12 +981,12 @@ as coisas que roubam
 
 223
 00:20:01,218 --> 00:20:03,718
-se n„o podem troc·-las
+se n√£o podem troc√°-las
 pelo que precisam?
 
 224
 00:20:12,518 --> 00:20:14,551
-Ter· de oferecer
+Ter√° de oferecer
 algo melhor que isso.
 
 225
@@ -995,7 +995,7 @@ Tudo bem.
 
 226
 00:20:26,018 --> 00:20:31,051
-Quando foi a ˙ltima vez
+Quando foi a √∫ltima vez
 
 227
 00:20:31,051 --> 00:20:34,684
@@ -1003,7 +1003,7 @@ que viram um filme?
 
 228
 00:20:45,018 --> 00:20:46,151
-SÈrio?
+S√©rio?
 
 229
 00:21:04,286 --> 00:21:05,353
@@ -1019,24 +1019,24 @@ Afiei a ponta.
 
 232
 00:21:27,220 --> 00:21:28,653
-O seu bast„o n„o tem ponta.
+O seu bast√£o n√£o tem ponta.
 
 233
 00:21:28,653 --> 00:21:29,820
-N„o preciso de uma.
+N√£o preciso de uma.
 
 234
 00:21:30,653 --> 00:21:32,620
-Achei que uma lanÁa seria
-mais f·cil pra vocÍ.
+Achei que uma lan√ßa seria
+mais f√°cil pra voc√™.
 
 235
 00:21:35,120 --> 00:21:36,553
-Mais f·cil para matar?
+Mais f√°cil para matar?
 
 236
 00:21:42,220 --> 00:21:43,686
-Eles s„o minha gente.
+Eles s√£o minha gente.
 
 237
 00:21:46,286 --> 00:21:48,753
@@ -1045,20 +1045,20 @@ a maior parte da minha vida.
 
 238
 00:21:52,220 --> 00:21:54,886
-Sinto muito, n„o posso...
-N„o consigo.
+Sinto muito, n√£o posso...
+N√£o consigo.
 
 239
 00:21:55,553 --> 00:21:57,453
-N„o, tudo bem. Ent„o n„o mate.
+N√£o, tudo bem. Ent√£o n√£o mate.
 
 240
 00:22:01,020 --> 00:22:02,220
-VocÍ vai?
+Voc√™ vai?
 
 241
 00:22:08,386 --> 00:22:09,920
-Vou tentar n„o matar.
+Vou tentar n√£o matar.
 
 242
 00:22:13,186 --> 00:22:14,286
@@ -1066,33 +1066,33 @@ Eu prometo.
 
 243
 00:22:23,420 --> 00:22:24,953
-Por que est· fazendo isso?
+Por que est√° fazendo isso?
 
 244
 00:22:30,720 --> 00:22:32,620
-VocÍ n„o queria voltar, n„o È?
+Voc√™ n√£o queria voltar, n√£o √©?
 
 245
 00:22:32,620 --> 00:22:34,220
-N„o, mas...
+N√£o, mas...
 
 246
 00:22:34,220 --> 00:22:36,386
-Isso n„o È raz„o pra vocÍ
+Isso n√£o √© raz√£o pra voc√™
 arriscar a sua vida por mim.
 
 247
 00:22:36,386 --> 00:22:37,520
-Claro que È.
+Claro que √©.
 
 248
 00:22:37,520 --> 00:22:39,253
-N„o ia simplesmente
+N√£o ia simplesmente
 deixar que a levassem
 
 249
 00:22:39,253 --> 00:22:40,420
-se vocÍ n„o quisesse ir.
+se voc√™ n√£o quisesse ir.
 
 250
 00:22:42,520 --> 00:22:43,953
@@ -1100,19 +1100,19 @@ Era a coisa certa a fazer.
 
 251
 00:22:43,953 --> 00:22:45,986
-N„o, era a coisa idiota a fazer.
+N√£o, era a coisa idiota a fazer.
 
 252
 00:22:47,753 --> 00:22:49,253
-Fez a minha m„e parecer fraca.
+Fez a minha m√£e parecer fraca.
 
 253
 00:22:51,253 --> 00:22:53,120
-Ela n„o vai perdoar. N„o pode.
+Ela n√£o vai perdoar. N√£o pode.
 
 254
 00:22:53,120 --> 00:22:54,253
-Ent„o, vamos fugir.
+Ent√£o, vamos fugir.
 
 255
 00:22:54,253 --> 00:22:55,486
@@ -1120,12 +1120,12 @@ Quer parar?
 
 256
 00:22:55,486 --> 00:22:57,853
-N„o tem lugar
-onde ela n„o nos encontrar·.
+N√£o tem lugar
+onde ela n√£o nos encontrar√°.
 
 257
 00:22:57,853 --> 00:22:59,186
-Qual È, claro que h·.
+Qual √©, claro que h√°.
 
 258
 00:23:00,086 --> 00:23:01,186
@@ -1133,11 +1133,11 @@ Lydia,
 
 259
 00:23:02,020 --> 00:23:03,853
-tem um mundo todo l· fora.
+tem um mundo todo l√° fora.
 
 260
 00:23:06,086 --> 00:23:07,953
-Falou sÈrio o que disse ontem?
+Falou s√©rio o que disse ontem?
 
 261
 00:23:09,320 --> 00:23:10,686
@@ -1149,7 +1149,7 @@ Sim. Falei.
 
 263
 00:23:22,486 --> 00:23:24,353
-Por que veio atr·s de mim?
+Por que veio atr√°s de mim?
 
 264
 00:23:28,286 --> 00:23:29,786
@@ -1157,7 +1157,7 @@ De verdade desta vez.
 
 265
 00:23:32,353 --> 00:23:33,786
-Me diga a raz„o.
+Me diga a raz√£o.
 
 266
 00:23:34,786 --> 00:23:35,920
@@ -1165,7 +1165,7 @@ Porque...
 
 267
 00:23:38,453 --> 00:23:40,186
-eu gosto de vocÍ.
+eu gosto de voc√™.
 
 268
 00:23:49,086 --> 00:23:50,153
@@ -1189,7 +1189,7 @@ Ei, Tara.
 
 273
 00:24:18,720 --> 00:24:20,920
-Zumbis. Vindo pra c·.
+Zumbis. Vindo pra c√°.
 
 274
 00:24:20,920 --> 00:24:22,220
@@ -1201,8 +1201,8 @@ Talvez dez.
 
 276
 00:24:23,353 --> 00:24:25,186
-… difÌcil dizer.
-Est„o saindo das ·rvores.
+√â dif√≠cil dizer.
+Est√£o saindo das √°rvores.
 
 277
 00:24:25,186 --> 00:24:26,353
@@ -1210,7 +1210,7 @@ Podemos cuidar deles.
 
 278
 00:24:26,353 --> 00:24:28,153
-…, mas podem ser os doidos
+√â, mas podem ser os doidos
 com traje de pele.
 
 279
@@ -1224,30 +1224,30 @@ Kal, Oscar, comigo.
 
 281
 00:24:33,186 --> 00:24:35,920
-VocÍs trÍs, guardem a carroÁa.
+Voc√™s tr√™s, guardem a carro√ßa.
 Fiquem alertas. Vamos.
 
 282
 00:24:44,486 --> 00:24:47,986
-Prestem atenÁ„o nas m„os deles
+Prestem aten√ß√£o nas m√£os deles
 e procurem armas.
 
 283
 00:25:14,653 --> 00:25:15,953
-Earl, atr·s de vocÍ!
+Earl, atr√°s de voc√™!
 
 284
 00:25:21,786 --> 00:25:23,186
-Est· tudo bem.
+Est√° tudo bem.
 
 285
 00:25:24,086 --> 00:25:27,153
-N„o se preocupe, pequenino,
-cuidaremos de vocÍ.
+N√£o se preocupe, pequenino,
+cuidaremos de voc√™.
 
 286
 00:25:48,986 --> 00:25:50,686
-V·, Tammy! Corra!
+V√°, Tammy! Corra!
 
 287
 00:25:50,686 --> 00:25:52,020
@@ -1259,11 +1259,11 @@ Eu estou bem.
 
 289
 00:26:04,220 --> 00:26:05,353
-L·.
+L√°.
 
 290
 00:26:21,386 --> 00:26:22,686
-Quem diabos s„o vocÍs?
+Quem diabos s√£o voc√™s?
 
 291
 00:26:22,686 --> 00:26:24,453
@@ -1275,15 +1275,15 @@ Somos sua escolta para a feira.
 
 293
 00:26:27,886 --> 00:26:28,953
-A seu serviÁo.
+A seu servi√ßo.
 
 294
 00:27:23,853 --> 00:27:24,920
-L·!
+L√°!
 
 295
 00:27:35,020 --> 00:27:36,120
-Eles est„o vindo.
+Eles est√£o vindo.
 
 296
 00:27:53,115 --> 00:27:54,415
@@ -1291,7 +1291,7 @@ Espalhem-se.
 
 297
 00:28:34,669 --> 00:28:36,536
-Tudo bem. Eles est„o aqui.
+Tudo bem. Eles est√£o aqui.
 
 298
 00:28:36,836 --> 00:28:37,869
@@ -1304,7 +1304,7 @@ Escada norte.
 300
 00:29:15,169 --> 00:29:19,669
 Peguem-na.
-N„o deixem saÌda para eles.
+N√£o deixem sa√≠da para eles.
 
 301
 00:29:32,707 --> 00:29:33,740
@@ -1312,7 +1312,7 @@ Oi.
 
 302
 00:29:34,674 --> 00:29:35,840
-VocÍ vem comigo.
+Voc√™ vem comigo.
 
 303
 00:29:38,007 --> 00:29:39,140
@@ -1320,26 +1320,26 @@ Vamos, garoto.
 
 304
 00:29:54,407 --> 00:29:56,640
-Os Guardiıes
-n„o podem escalar isso.
+Os Guardi√µes
+n√£o podem escalar isso.
 
 305
 00:29:57,540 --> 00:30:00,040
--Isso n„o vai nos deter.
--N„o È pra deter.
+-Isso n√£o vai nos deter.
+-N√£o √© pra deter.
 
 306
 00:30:01,440 --> 00:30:02,807
-… uma armadilha.
+√â uma armadilha.
 
 307
 00:30:26,974 --> 00:30:28,407
-V· em frente. Entre.
+V√° em frente. Entre.
 
 308
 00:30:28,407 --> 00:30:30,640
 Que diabos?
-N„o, eu quero ajudar.
+N√£o, eu quero ajudar.
 
 309
 00:30:30,640 --> 00:30:32,774
@@ -1347,7 +1347,7 @@ Como vai ajudar sem lutar?
 
 310
 00:30:33,274 --> 00:30:35,440
-N„o, sÛ vai atrapalhar. V·.
+N√£o, s√≥ vai atrapalhar. V√°.
 
 311
 00:30:35,440 --> 00:30:36,474
@@ -1355,11 +1355,11 @@ Entre!
 
 312
 00:30:39,574 --> 00:30:40,640
-C„o.
+C√£o.
 
 313
 00:30:42,274 --> 00:30:44,907
-Se alguÈm entrar,
+Se algu√©m entrar,
 ele vai abater.
 
 314
@@ -1385,13 +1385,13 @@ Henry!
 
 319
 00:33:47,640 --> 00:33:50,240
-Sinto muito. Tentei n„o matar
-ninguÈm, mas n„o sei...
+Sinto muito. Tentei n√£o matar
+ningu√©m, mas n√£o sei...
 
 320
 00:33:50,240 --> 00:33:51,740
 -Acho que...
--N„o, est· tudo bem.
+-N√£o, est√° tudo bem.
 
 321
 00:33:52,240 --> 00:33:53,574
@@ -1403,15 +1403,15 @@ Eu odeio isso.
 
 323
 00:33:58,607 --> 00:34:00,540
-….
+√â.
 
 324
 00:34:01,607 --> 00:34:02,640
-Eu tambÈm.
+Eu tamb√©m.
 
 325
 00:34:14,240 --> 00:34:15,707
-N„o!
+N√£o!
 
 326
 00:34:28,974 --> 00:34:30,140
@@ -1419,7 +1419,7 @@ A garota.
 
 327
 00:34:30,140 --> 00:34:31,340
-Onde ela est·?
+Onde ela est√°?
 
 328
 00:34:42,407 --> 00:34:43,574
@@ -1427,38 +1427,38 @@ Sim.
 
 329
 00:35:16,574 --> 00:35:18,040
-Onde ela est·?
+Onde ela est√°?
 
 330
 00:36:01,007 --> 00:36:05,140
-VocÍ e sua gente
-n„o s„o nada para mim.
+Voc√™ e sua gente
+n√£o s√£o nada para mim.
 
 331
 00:36:06,807 --> 00:36:10,140
-Seu mundo j· est· morto.
+Seu mundo j√° est√° morto.
 
 332
 00:36:12,707 --> 00:36:15,074
-SÛ quero a garota.
+S√≥ quero a garota.
 
 333
 00:37:27,235 --> 00:37:29,235
-E quem È esse precioso anjinho?
+E quem √© esse precioso anjinho?
 
 334
 00:37:29,235 --> 00:37:31,368
-O bebÍ perdeu os pais,
+O beb√™ perdeu os pais,
 
 335
 00:37:31,368 --> 00:37:35,268
-e nÛs o trouxemos para achar
-quem possa acolhÍ-lo, mas...
+e n√≥s o trouxemos para achar
+quem possa acolh√™-lo, mas...
 
 336
 00:37:35,268 --> 00:37:38,168
-Earl, n„o vou abandonar
-esse bebÍ.
+Earl, n√£o vou abandonar
+esse beb√™.
 
 337
 00:37:41,335 --> 00:37:42,502
@@ -1467,7 +1467,7 @@ Ei.
 338
 00:37:43,235 --> 00:37:45,235
 Eu diria
-que ele j· tem um bom lar.
+que ele j√° tem um bom lar.
 
 339
 00:37:46,635 --> 00:37:47,902
@@ -1488,11 +1488,11 @@ Oi.
 
 343
 00:38:04,035 --> 00:38:05,568
-CadÍ o Henry?
+Cad√™ o Henry?
 
 344
 00:38:06,744 --> 00:38:08,077
-Ele ainda n„o chegou?
+Ele ainda n√£o chegou?
 
 345
 00:38:08,356 --> 00:38:09,556
@@ -1500,11 +1500,11 @@ E o Daryl?
 
 346
 00:38:10,472 --> 00:38:11,706
-Õamos encontr·-los aqui.
+√çamos encontr√°-los aqui.
 
 347
 00:38:13,010 --> 00:38:14,644
-Onde exatamente eles est„o?
+Onde exatamente eles est√£o?
 
 348
 00:38:49,544 --> 00:38:50,910
@@ -1512,7 +1512,7 @@ Muito bem.
 
 349
 00:38:51,110 --> 00:38:52,444
-Tudo bem, devÌamos ir.
+Tudo bem, dev√≠amos ir.
 
 350
 00:38:53,277 --> 00:38:55,010
@@ -1524,38 +1524,38 @@ Alexandria fica mais perto,
 
 352
 00:38:56,277 --> 00:38:58,177
--È onde dar„o pontos em vocÍ.
--N„o podemos.
+-√© onde dar√£o pontos em voc√™.
+-N√£o podemos.
 
 353
 00:38:58,777 --> 00:39:01,544
 -Se o pessoal dela descobrir...
--N„o vamos ficar.
+-N√£o vamos ficar.
 
 354
 00:39:02,110 --> 00:39:04,277
-Vamos bot·-lo de novo em pÈ
+Vamos bot√°-lo de novo em p√©
 e continuamos.
 
 355
 00:39:05,410 --> 00:39:06,677
-Todos nÛs.
+Todos n√≥s.
 
 356
 00:39:11,577 --> 00:39:12,610
-N„o.
+N√£o.
 
 357
 00:39:13,555 --> 00:39:14,955
-N„o, mas...
+N√£o, mas...
 
 358
 00:39:14,980 --> 00:39:16,513
-N„o, mas pra onde vamos?
+N√£o, mas pra onde vamos?
 
 359
 00:39:21,852 --> 00:39:23,685
-Tem um mundo todo l· fora.
+Tem um mundo todo l√° fora.
 
 360
 00:39:23,710 --> 00:39:24,777
