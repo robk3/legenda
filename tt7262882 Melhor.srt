@@ -1,4 +1,8 @@
-﻿1
+0
+00:00:00,000 --> 00:00:25,000
+Obrigado Por Assistir Conosco https://smartflix.tv
+
+1
 00:00:27,958 --> 00:00:33,032
 "O mestre do Wing Chun, Cheung Tin-chi,
 defende a comunidade com artes marciais."
