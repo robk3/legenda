@@ -1,4 +1,8 @@
 1
+00:00:00,000 --> 00:00:20,000
+Obrigado Por Assistir Conosco http://smartflix.tv
+
+1
 00:01:18,594 --> 00:01:20,529
 Quieto!
 
