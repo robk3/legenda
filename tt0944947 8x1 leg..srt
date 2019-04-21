@@ -1,26 +1,26 @@
 1
 00:04:26,083 --> 00:04:27,999
-VocÍ tem muita sorte.
+Voc√™ tem muita sorte.
 
 2
 00:04:30,000 --> 00:04:32,083
 Pelo menos suas bolas
-n„o v„o congelar.
+n√£o v√£o congelar.
 
 3
 00:04:32,125 --> 00:04:33,999
-VocÍ se ofende
-com piadas de an„o,
+Voc√™ se ofende
+com piadas de an√£o,
 
 4
 00:04:34,000 --> 00:04:36,167
 mas adora as de eunuco.
-Por quÍ?
+Por qu√™?
 
 5
 00:04:37,334 --> 00:04:40,334
 Porque eu tenho bolas,
-e vocÍ n„o.
+e voc√™ n√£o.
 
 6
 00:05:07,999 --> 00:05:09,000
@@ -28,7 +28,7 @@ Eu avisei.
 
 7
 00:05:09,542 --> 00:05:12,000
-Os Nortenhos n„o confiam
+Os Nortenhos n√£o confiam
 em estrangeiros.
 
 8
@@ -37,11 +37,11 @@ em estrangeiros.
 
 9
 00:06:33,959 --> 00:06:34,999
-Veja sÛ vocÍ!
+Veja s√≥ voc√™!
 
 10
 00:06:36,626 --> 00:06:37,792
-J· È um adulto.
+J√° √© um adulto.
 
 11
 00:06:38,834 --> 00:06:39,876
@@ -50,7 +50,7 @@ Quase.
 12
 00:06:59,667 --> 00:07:01,999
 -E a Arya?
--Espiando por aÌ.
+-Espiando por a√≠.
 
 13
 00:07:09,167 --> 00:07:11,626
@@ -59,35 +59,35 @@ da Casa Targaryen.
 
 14
 00:07:12,959 --> 00:07:16,918
-Minha irm„, Sansa Stark,
+Minha irm√£, Sansa Stark,
 Lady de Winterfell.
 
 15
 00:07:16,999 --> 00:07:19,501
 Obrigada por nos convidar
-‡ sua casa, Lady Stark.
+√† sua casa, Lady Stark.
 
 16
 00:07:19,918 --> 00:07:22,709
-O Norte È lindo
-como seu irm„o me disse.
+O Norte √© lindo
+como seu irm√£o me disse.
 
 17
 00:07:22,999 --> 00:07:24,042
-A senhora tambÈm.
+A senhora tamb√©m.
 
 18
 00:07:28,125 --> 00:07:29,999
-Winterfell È sua, Majestade.
+Winterfell √© sua, Majestade.
 
 19
 00:07:31,999 --> 00:07:33,959
-N„o temos tempo para isso.
+N√£o temos tempo para isso.
 
 20
 00:07:34,209 --> 00:07:37,584
-O Rei da Noite tem o seu drag„o.
-Ele È um deles agora.
+O Rei da Noite tem o seu drag√£o.
+Ele √© um deles agora.
 
 21
 00:07:38,584 --> 00:07:41,792
@@ -109,12 +109,12 @@ Lorde Umber,
 
 25
 00:07:56,542 --> 00:07:58,834
-quando v„o chegar os seus?
+quando v√£o chegar os seus?
 
 26
 00:08:03,501 --> 00:08:05,626
 Precisamos de mais cavalos
-e carroÁas,
+e carro√ßas,
 
 27
 00:08:05,667 --> 00:08:07,209
@@ -130,22 +130,22 @@ E minha rainha.
 
 30
 00:08:16,459 --> 00:08:19,542
--Perd„o.
+-Perd√£o.
 -Leve todos que pudermos dar.
 
 31
 00:08:19,834 --> 00:08:22,459
-Volte a ⁄ltima Lareira
-e traga seu povo para c·.
+Volte a √öltima Lareira
+e traga seu povo para c√°.
 
 32
 00:08:25,417 --> 00:08:27,999
 Precisamos enviar corvos
-‡ Patrulha da Noite.
+√† Patrulha da Noite.
 
 33
 00:08:28,375 --> 00:08:30,334
-N„o h· por que ficar
+N√£o h√° por que ficar
 nos castelos.
 
 34
@@ -159,7 +159,7 @@ nos castelos.
 
 36
 00:08:41,334 --> 00:08:43,083
-Mas vocÍ n„o È rei, È?
+Mas voc√™ n√£o √© rei, √©?
 
 37
 00:08:44,083 --> 00:08:46,959
@@ -168,7 +168,7 @@ e voltou como...
 
 38
 00:08:49,792 --> 00:08:51,250
-N„o sei o que È agora.
+N√£o sei o que √© agora.
 
 39
 00:08:52,501 --> 00:08:53,584
@@ -180,12 +180,12 @@ Nada?
 
 41
 00:08:56,999 --> 00:08:58,999
--Isso n„o importa.
--N„o importa?
+-Isso n√£o importa.
+-N√£o importa?
 
 42
 00:09:00,042 --> 00:09:02,250
-NÛs o conclamamos Rei do Norte.
+N√≥s o conclamamos Rei do Norte.
 
 43
 00:09:03,999 --> 00:09:05,417
@@ -193,7 +193,7 @@ Rei do Norte!
 
 44
 00:09:10,501 --> 00:09:12,250
-… verdade, milady.
+√â verdade, milady.
 
 45
 00:09:13,876 --> 00:09:15,626
@@ -202,12 +202,12 @@ A maior honra da minha vida.
 46
 00:09:16,042 --> 00:09:18,375
 Sempre serei grato
-pela sua confianÁa.
+pela sua confian√ßa.
 
 47
 00:09:20,959 --> 00:09:24,584
-Parti dizendo que precis·vamos
-de aliados, ou morrerÌamos.
+Parti dizendo que precis√°vamos
+de aliados, ou morrer√≠amos.
 
 48
 00:09:25,918 --> 00:09:29,584
@@ -229,40 +229,40 @@ Eu escolhi o Norte.
 
 52
 00:09:50,959 --> 00:09:53,375
-Se alguÈm sobreviver ‡ guerra
-que est· por vir,
+Se algu√©m sobreviver √† guerra
+que est√° por vir,
 
 53
 00:09:53,542 --> 00:09:55,501
-ser· graÁas a Jon Snow.
+ser√° gra√ßas a Jon Snow.
 
 54
 00:09:56,999 --> 00:09:59,250
 Ele se arriscou
-para expor a ameaÁa.
+para expor a amea√ßa.
 
 55
 00:09:59,501 --> 00:10:01,042
-GraÁas ‡ coragem dele,
+Gra√ßas √† coragem dele,
 
 56
 00:10:01,083 --> 00:10:04,125
-trouxemos o maior exÈrcito
-que o mundo j· viu.
+trouxemos o maior ex√©rcito
+que o mundo j√° viu.
 
 57
 00:10:04,459 --> 00:10:07,459
-Trouxemos dois dragıes adultos.
+Trouxemos dois drag√µes adultos.
 
 58
 00:10:09,667 --> 00:10:13,999
-E logo o exÈrcito Lannister
-vir· ao Norte se juntar a nÛs.
+E logo o ex√©rcito Lannister
+vir√° ao Norte se juntar a n√≥s.
 
 59
 00:10:17,876 --> 00:10:21,999
 Eu sei! Nossos povos
-n„o foram amigos no passado.
+n√£o foram amigos no passado.
 
 60
 00:10:24,292 --> 00:10:25,999
@@ -279,8 +279,8 @@ como vamos alimentar
 
 63
 00:10:32,999 --> 00:10:35,209
-o maior exÈrcito
-que o mundo j· viu?
+o maior ex√©rcito
+que o mundo j√° viu?
 
 64
 00:10:35,292 --> 00:10:37,542
@@ -289,16 +289,16 @@ para o inverno,
 
 65
 00:10:37,584 --> 00:10:39,375
-eu n„o contava com Dothrakis,
+eu n√£o contava com Dothrakis,
 
 66
 00:10:39,417 --> 00:10:42,999
 Imaculados
-e dois dragıes adultos.
+e dois drag√µes adultos.
 
 67
 00:10:44,584 --> 00:10:46,542
-O que dragıes comem, ali·s?
+O que drag√µes comem, ali√°s?
 
 68
 00:10:48,751 --> 00:10:49,999
@@ -315,7 +315,7 @@ Cuidado, rapazes.
 
 71
 00:11:18,209 --> 00:11:19,959
-S„o as ˙ltimas carroÁas?
+S√£o as √∫ltimas carro√ßas?
 
 72
 00:11:19,999 --> 00:11:22,999
@@ -344,70 +344,70 @@ Isso soa bem.
 
 78
 00:12:00,999 --> 00:12:02,876
-Assim como M„o da Rainha.
+Assim como M√£o da Rainha.
 
 79
 00:12:04,083 --> 00:12:06,000
-Dependendo da rainha, È claro.
+Dependendo da rainha, √© claro.
 
 80
 00:12:08,876 --> 00:12:11,125
-N„o nos vemos
+N√£o nos vemos
 desde o casamento de Joffrey.
 
 81
 00:12:12,999 --> 00:12:15,626
--N„o foi agrad·vel.
--N„o foi t„o ruim.
+-N√£o foi agrad√°vel.
+-N√£o foi t√£o ruim.
 
 82
 00:12:21,501 --> 00:12:23,751
-Perd„o por ter ido embora
+Perd√£o por ter ido embora
 daquele jeito.
 
 83
 00:12:23,876 --> 00:12:26,250
-…, foi difÌcil explicar
+√â, foi dif√≠cil explicar
 a fuga da minha mulher
 
 84
 00:12:26,292 --> 00:12:28,042
-logo apÛs o assassinato do rei.
+logo ap√≥s o assassinato do rei.
 
 85
 00:12:30,667 --> 00:12:32,042
-NÛs dois sobrevivemos.
+N√≥s dois sobrevivemos.
 
 86
 00:12:34,876 --> 00:12:36,501
-Muitos subestimaram vocÍ.
+Muitos subestimaram voc√™.
 
 87
 00:12:37,876 --> 00:12:39,501
-A maioria agora est· morta.
+A maioria agora est√° morta.
 
 88
 00:12:47,501 --> 00:12:50,999
-N„o deve estar feliz com a vinda
-do exÈrcito Lannister.
+N√£o deve estar feliz com a vinda
+do ex√©rcito Lannister.
 
 89
 00:12:53,292 --> 00:12:55,876
-VocÍ tem todo o direito
-de temer a minha irm„,
+Voc√™ tem todo o direito
+de temer a minha irm√£,
 
 90
 00:12:56,834 --> 00:12:58,667
-mas prometo que estar· segura...
+mas prometo que estar√° segura...
 
 91
 00:12:58,751 --> 00:13:01,751
-Cersei disse que o exÈrcito dela
+Cersei disse que o ex√©rcito dela
 vem ao Norte
 
 92
 00:13:02,209 --> 00:13:03,751
-para lutar com vocÍ?
+para lutar com voc√™?
 
 93
 00:13:03,792 --> 00:13:04,834
@@ -415,7 +415,7 @@ Disse.
 
 94
 00:13:06,292 --> 00:13:07,834
-E vocÍ acreditou nela?
+E voc√™ acreditou nela?
 
 95
 00:13:09,209 --> 00:13:13,584
@@ -424,12 +424,12 @@ Acho que ela quer sobreviver.
 
 96
 00:13:16,501 --> 00:13:19,209
-J· achei vocÍ o homem
+J√° achei voc√™ o homem
 mais inteligente de todos.
 
 97
 00:13:50,834 --> 00:13:52,125
-VocÍ era mais alto.
+Voc√™ era mais alto.
 
 98
 00:13:55,167 --> 00:13:56,959
@@ -438,15 +438,15 @@ Como chegou sem eu perceber?
 99
 00:13:56,999 --> 00:13:59,000
 Como sobreviveu
-a uma facada no coraÁ„o?
+a uma facada no cora√ß√£o?
 
 100
 00:13:59,709 --> 00:14:00,834
-N„o sobrevivi.
+N√£o sobrevivi.
 
 101
 00:14:19,501 --> 00:14:20,999
-VocÍ ainda a tem.
+Voc√™ ainda a tem.
 
 102
 00:14:23,999 --> 00:14:25,167
@@ -454,7 +454,7 @@ Agulha.
 
 103
 00:14:27,209 --> 00:14:28,501
-E vocÍ j· usou?
+E voc√™ j√° usou?
 
 104
 00:14:30,000 --> 00:14:31,250
@@ -462,19 +462,19 @@ Uma vez ou outra.
 
 105
 00:14:47,042 --> 00:14:48,209
-AÁo valiriano.
+A√ßo valiriano.
 
 106
 00:14:50,626 --> 00:14:51,667
-Est· com inveja?
+Est√° com inveja?
 
 107
 00:14:52,999 --> 00:14:54,250
-… muito pesada para mim.
+√â muito pesada para mim.
 
 108
 00:15:03,000 --> 00:15:04,501
-Onde vocÍ estava?
+Onde voc√™ estava?
 
 109
 00:15:05,250 --> 00:15:07,751
@@ -483,8 +483,8 @@ com a Sansa.
 
 110
 00:15:09,876 --> 00:15:11,999
-Ela n„o gosta
-da sua rainha, n„o È?
+Ela n√£o gosta
+da sua rainha, n√£o √©?
 
 111
 00:15:12,083 --> 00:15:14,918
@@ -493,20 +493,20 @@ mais inteligente que todos.
 
 112
 00:15:16,083 --> 00:15:18,459
-… a pessoa mais inteligente
-que eu conheÁo.
+√â a pessoa mais inteligente
+que eu conhe√ßo.
 
 113
 00:15:19,501 --> 00:15:22,209
-Agora vocÍ a defende? VocÍ?
+Agora voc√™ a defende? Voc√™?
 
 114
 00:15:23,292 --> 00:15:25,292
-Eu defendo a nossa famÌlia.
+Eu defendo a nossa fam√≠lia.
 
 115
 00:15:26,751 --> 00:15:27,959
-E ela tambÈm.
+E ela tamb√©m.
 
 116
 00:15:28,542 --> 00:15:29,542
@@ -514,16 +514,16 @@ Eu sei.
 
 117
 00:15:30,999 --> 00:15:32,459
-Sou da famÌlia tambÈm.
+Sou da fam√≠lia tamb√©m.
 
 118
 00:15:38,459 --> 00:15:39,834
-N„o se esqueÁa disso.
+N√£o se esque√ßa disso.
 
 119
 00:15:57,667 --> 00:16:01,000
 Majestade, receio trazer
-pÈssimas notÌcias.
+p√©ssimas not√≠cias.
 
 120
 00:16:02,167 --> 00:16:03,999
@@ -532,30 +532,30 @@ a Muralha.
 
 121
 00:16:07,751 --> 00:16:08,792
-”timo.
+√ìtimo.
 
 122
 00:16:43,542 --> 00:16:45,751
-Por que n„o acaba com isso
+Por que n√£o acaba com isso
 e me mata?
 
 123
 00:16:47,375 --> 00:16:48,709
-Porque somos famÌlia.
+Porque somos fam√≠lia.
 
 124
 00:16:49,834 --> 00:16:52,626
-Os ˙ltimos Greyjoys
+Os √∫ltimos Greyjoys
 que sobraram no mundo.
 
 125
 00:16:55,542 --> 00:16:57,999
-Os ˙ltimos com colhıes,
+Os √∫ltimos com colh√µes,
 pelo menos.
 
 126
 00:17:02,751 --> 00:17:04,000
-Se eu matar vocÍ,
+Se eu matar voc√™,
 
 127
 00:17:05,459 --> 00:17:06,999
@@ -563,11 +563,11 @@ com quem vou conversar?
 
 128
 00:17:11,999 --> 00:17:14,042
-Minha tripulaÁ„o n„o fala nada.
+Minha tripula√ß√£o n√£o fala nada.
 
 129
 00:17:17,459 --> 00:17:19,083
-O mar È solit·rio.
+O mar √© solit√°rio.
 
 130
 00:17:21,999 --> 00:17:23,375
@@ -575,12 +575,12 @@ Estamos em Porto Real?
 
 131
 00:17:29,751 --> 00:17:31,709
-VocÍ escolheu o lado
+Voc√™ escolheu o lado
 dos derrotados.
 
 132
 00:17:35,459 --> 00:17:37,626
-Ent„o vou com a frota
+Ent√£o vou com a frota
 a outro lugar.
 
 133
@@ -606,12 +606,12 @@ Ou talvez eu tenha trapaceado.
 
 138
 00:18:14,167 --> 00:18:15,334
-AlguÈm trapaceou.
+Algu√©m trapaceou.
 
 139
 00:18:17,626 --> 00:18:19,959
-N„o eram bons guerreiros,
-n„o far„o falta.
+N√£o eram bons guerreiros,
+n√£o far√£o falta.
 
 140
 00:18:20,083 --> 00:18:21,999
@@ -628,7 +628,7 @@ Nenhum elefante, Majestade.
 
 143
 00:18:27,459 --> 00:18:28,999
-Que decepÁ„o...
+Que decep√ß√£o...
 
 144
 00:18:29,751 --> 00:18:32,375
@@ -637,18 +637,18 @@ Dourada tinha elefantes.
 
 145
 00:18:32,417 --> 00:18:34,751
-S„o animais formid·veis,
+S√£o animais formid√°veis,
 Majestade,
 
 146
 00:18:34,834 --> 00:18:37,876
 mas inadequados
-para viagens marÌtimas longas.
+para viagens mar√≠timas longas.
 
 147
 00:18:38,209 --> 00:18:41,999
-Em todo caso, vocÍ È bem-vindo
-a Porto Real, Capit„o Strickland.
+Em todo caso, voc√™ √© bem-vindo
+a Porto Real, Capit√£o Strickland.
 
 148
 00:18:42,209 --> 00:18:45,292
@@ -661,7 +661,7 @@ Eu sou bem-vindo aqui?
 
 150
 00:18:59,542 --> 00:19:01,918
-VocÍ È um verdadeiro amigo
+Voc√™ √© um verdadeiro amigo
 da Coroa
 
 151
@@ -670,7 +670,7 @@ e um convidado de honra.
 
 152
 00:19:04,042 --> 00:19:05,042
-”timo.
+√ìtimo.
 
 153
 00:19:05,626 --> 00:19:08,584
@@ -680,11 +680,11 @@ e convidado de honra...
 154
 00:19:17,584 --> 00:19:20,709
 eu esperava
-que pudÈssemos falar a sÛs.
+que pud√©ssemos falar a s√≥s.
 
 155
 00:19:21,709 --> 00:19:23,999
-ApÛs a guerra.
+Ap√≥s a guerra.
 Foi o nosso acordo.
 
 156
@@ -709,30 +709,30 @@ Como?
 
 161
 00:19:42,626 --> 00:19:46,459
-Eu trouxe a ela justiÁa,
-um exÈrcito e a Frota de Ferro,
+Eu trouxe a ela justi√ßa,
+um ex√©rcito e a Frota de Ferro,
 
 162
 00:19:46,999 --> 00:19:49,834
-porÈm, ela n„o me d·
+por√©m, ela n√£o me d√°
 nenhum sinal de afeto.
 
 163
 00:19:50,876 --> 00:19:52,999
-Meu coraÁ„o est· quase partido.
+Meu cora√ß√£o est√° quase partido.
 
 164
 00:19:55,167 --> 00:19:56,584
-VocÍ È insolente.
+Voc√™ √© insolente.
 
 165
 00:19:58,542 --> 00:20:02,042
--J· executei homens por menos.
+-J√° executei homens por menos.
 -Eram homens inferiores.
 
 166
 00:20:41,999 --> 00:20:44,501
-<i>O drag„o queimou</i>
+<i>O drag√£o queimou</i>
 <i>mil homens dos Lannisters.</i>
 
 167
@@ -752,16 +752,16 @@ VocÍ È insolente.
 170
 00:20:51,417 --> 00:20:53,751
 Dizem que os restos dele
-cabiam numa taÁa.
+cabiam numa ta√ßa.
 
 171
 00:20:53,792 --> 00:20:57,125
-Eu sou o ˙nico que vocÍs
-conhecem que atirou num drag„o.
+Eu sou o √∫nico que voc√™s
+conhecem que atirou num drag√£o.
 
 172
 00:20:57,584 --> 00:20:59,375
--… mesmo?
+-√â mesmo?
 -Quase o matei.
 
 173
@@ -778,34 +778,34 @@ O ruivo?
 
 176
 00:21:13,459 --> 00:21:16,375
-O prÛprio. Ele voltou
+O pr√≥prio. Ele voltou
 com o rosto todo queimado.
 
 177
 00:21:16,417 --> 00:21:17,998
-Ele perdeu as p·lpebras.
+Ele perdeu as p√°lpebras.
 
 178
 00:21:17,999 --> 00:21:19,834
-Como ele dorme sem as p·lpebras?
+Como ele dorme sem as p√°lpebras?
 
 179
 00:21:19,876 --> 00:21:22,000
 Podemos parar de falar
-de dragıes?
+de drag√µes?
 
 180
 00:21:22,083 --> 00:21:23,584
-<i>Sor Bronn da ¡gua Negra?</i>
+<i>Sor Bronn da √Ågua Negra?</i>
 
 181
 00:21:26,250 --> 00:21:27,334
-Est· brincando!
+Est√° brincando!
 
 182
 00:21:27,459 --> 00:21:30,501
-Perdoe a interrupÁ„o,
-mas a rainha solicitou urgÍncia.
+Perdoe a interrup√ß√£o,
+mas a rainha solicitou urg√™ncia.
 
 183
 00:21:33,667 --> 00:21:34,918
@@ -817,7 +817,7 @@ Talvez outra hora.
 
 185
 00:21:46,250 --> 00:21:49,999
-Se vocÍ se sentir sozinho,
+Se voc√™ se sentir sozinho,
 eu gosto de homens mais velhos.
 
 186
@@ -826,7 +826,7 @@ Pobrezinha.
 
 187
 00:21:54,000 --> 00:21:56,083
-Vai morrer de varÌola
+Vai morrer de var√≠ola
 ainda este ano.
 
 188
@@ -835,8 +835,8 @@ Qual delas?
 
 189
 00:21:59,209 --> 00:22:02,125
-Os irm„os da rainha fizeram
-promessas e n„o cumpriram.
+Os irm√£os da rainha fizeram
+promessas e n√£o cumpriram.
 
 190
 00:22:02,834 --> 00:22:05,083
@@ -850,11 +850,11 @@ e uma esposa,
 
 192
 00:22:08,918 --> 00:22:10,918
-e retificou me tirando de l·.
+e retificou me tirando de l√°.
 
 193
 00:22:10,959 --> 00:22:12,959
-Sor Jaime fez isso, n„o foi ela.
+Sor Jaime fez isso, n√£o foi ela.
 
 194
 00:22:13,250 --> 00:22:15,250
@@ -864,21 +864,21 @@ quer algo,
 195
 00:22:15,292 --> 00:22:18,501
 ela paga adiantado e em ouro.
-Ali·s, h· v·rios ba˙s de ouro
+Ali√°s, h√° v√°rios ba√∫s de ouro
 
 196
 00:22:18,999 --> 00:22:21,918
 esperando pelo senhor
-numa carroÁa do lado de fora.
+numa carro√ßa do lado de fora.
 
 197
 00:22:26,999 --> 00:22:30,876
-Ent„o ela quer matar alguÈm,
-mas n„o pode enviar soldados.
+Ent√£o ela quer matar algu√©m,
+mas n√£o pode enviar soldados.
 
 198
 00:22:31,876 --> 00:22:33,959
-Se for a Rainha dos Dragıes...
+Se for a Rainha dos Drag√µes...
 
 199
 00:22:33,999 --> 00:22:36,334
@@ -891,8 +891,8 @@ Boa sorte com isso.
 
 201
 00:22:38,209 --> 00:22:42,375
-Os irm„os da rainha dificilmente
-v„o sobreviver no Norte,
+Os irm√£os da rainha dificilmente
+v√£o sobreviver no Norte,
 
 202
 00:22:42,459 --> 00:22:44,876
@@ -900,27 +900,27 @@ mas, caso eles consigam...
 
 203
 00:22:51,375 --> 00:22:54,999
-Ela tem uma forte noÁ„o
-de justiÁa poÈtica.
+Ela tem uma forte no√ß√£o
+de justi√ßa po√©tica.
 
 204
 00:22:56,125 --> 00:22:58,083
-Que famÌlia desgraÁada!
+Que fam√≠lia desgra√ßada!
 
 205
 00:22:58,459 --> 00:23:02,000
 Quando fui expulso da Cidadela,
-achei que morreria pobre e sÛ,
+achei que morreria pobre e s√≥,
 
 206
 00:23:02,042 --> 00:23:05,999
-mas, em troca dos meus serviÁos,
-Cersei me nomeou M„o da Rainha.
+mas, em troca dos meus servi√ßos,
+Cersei me nomeou M√£o da Rainha.
 
 207
 00:23:06,709 --> 00:23:10,334
-O que ela far· pelo homem que
-a livrar dos irm„os traidores?
+O que ela far√° pelo homem que
+a livrar dos irm√£os traidores?
 
 208
 00:23:26,999 --> 00:23:28,918
@@ -928,7 +928,7 @@ Eu queria aqueles elefantes.
 
 209
 00:23:34,918 --> 00:23:35,959
-Ent„o,
+Ent√£o,
 
 210
 00:23:37,792 --> 00:23:41,709
@@ -936,12 +936,12 @@ como eu me comparo ao rei gordo?
 
 211
 00:23:42,834 --> 00:23:44,709
-Est· ofendendo
+Est√° ofendendo
 meu falecido marido?
 
 212
 00:23:44,751 --> 00:23:45,999
-Est· ofendida?
+Est√° ofendida?
 
 213
 00:23:50,501 --> 00:23:52,959
@@ -950,7 +950,7 @@ por noite,
 
 214
 00:23:53,667 --> 00:23:56,209
-ainda assim, n„o sabia
+ainda assim, n√£o sabia
 o que fazer com uma mulher.
 
 215
@@ -960,16 +960,16 @@ E o Regicida?
 216
 00:24:04,000 --> 00:24:06,042
 Gosta de arriscar
-o pescoÁo, n„o È?
+o pesco√ßo, n√£o √©?
 
 217
 00:24:07,876 --> 00:24:08,998
-A vida È sem graÁa.
+A vida √© sem gra√ßa.
 
 218
 00:24:08,999 --> 00:24:11,999
-VocÍ n„o È sem graÁa,
-isso eu reconheÁo.
+Voc√™ n√£o √© sem gra√ßa,
+isso eu reconhe√ßo.
 
 219
 00:24:23,999 --> 00:24:25,918
@@ -977,8 +977,8 @@ Sou do agrado da rainha?
 
 220
 00:24:27,375 --> 00:24:30,792
-VocÍ deve ser o homem
-mais arrogante que j· conheci.
+Voc√™ deve ser o homem
+mais arrogante que j√° conheci.
 
 221
 00:24:32,999 --> 00:24:34,250
@@ -990,17 +990,17 @@ Agora quero ficar sozinha.
 
 223
 00:24:45,083 --> 00:24:47,959
-Vou pÙr um prÌncipe
+Vou p√¥r um pr√≠ncipe
 na sua barriga.
 
 224
 00:26:22,292 --> 00:26:24,834
-<i>Euron n„o pode defender</i>
+<i>Euron n√£o pode defender</i>
 <i>as Ilhas de Ferro.</i>
 
 225
 00:26:25,000 --> 00:26:27,999
-<i>N„o se estiver em Porto Real</i>
+<i>N√£o se estiver em Porto Real</i>
 <i>com seus homens e navios.</i>
 
 226
@@ -1013,25 +1013,25 @@ Daenerys foi para o Norte.
 
 228
 00:26:33,250 --> 00:26:36,209
-Daenerys precisar· de abrigo
+Daenerys precisar√° de abrigo
 se eles perderem o Norte.
 
 229
 00:26:37,000 --> 00:26:39,000
 Um lugar aonde os mortos
-n„o cheguem.
+n√£o cheguem.
 
 230
 00:26:44,542 --> 00:26:45,999
-VocÍ È a minha rainha.
+Voc√™ √© a minha rainha.
 
 231
 00:26:46,417 --> 00:26:47,999
-Vou aonde vocÍ ordenar.
+Vou aonde voc√™ ordenar.
 
 232
 00:26:52,876 --> 00:26:54,667
-VocÍ quer ir a Winterfell
+Voc√™ quer ir a Winterfell
 
 233
 00:26:54,792 --> 00:26:56,083
@@ -1039,21 +1039,21 @@ lutar pelos Starks?
 
 234
 00:26:59,999 --> 00:27:01,000
-V·.
+V√°.
 
 235
 00:27:05,999 --> 00:27:07,999
-O que est· morto
-n„o pode morrer.
+O que est√° morto
+n√£o pode morrer.
 
 236
 00:27:11,542 --> 00:27:13,417
-O que est· morto
-n„o pode morrer.
+O que est√° morto
+n√£o pode morrer.
 
 237
 00:27:18,459 --> 00:27:20,417
-Mate aqueles miser·veis
+Mate aqueles miser√°veis
 mesmo assim.
 
 238
@@ -1070,7 +1070,7 @@ Os Karstarks.
 
 241
 00:27:54,292 --> 00:27:56,000
-Um dos melhores brasıes.
+Um dos melhores bras√µes.
 
 242
 00:27:57,167 --> 00:27:58,626
@@ -1082,7 +1082,7 @@ Tenho que concordar.
 
 244
 00:28:02,042 --> 00:28:04,250
-H· pouco tempo,
+H√° pouco tempo,
 os Starks e os Karstarks
 
 245
@@ -1092,7 +1092,7 @@ estavam se matando numa batalha.
 246
 00:28:06,334 --> 00:28:08,501
 Jon Snow trouxe paz
-‡s duas casas.
+√†s duas casas.
 
 247
 00:28:08,626 --> 00:28:10,334
@@ -1100,41 +1100,41 @@ E a nossa rainha ficou grata.
 
 248
 00:28:10,834 --> 00:28:13,042
-Gratid„o È Ûtimo,
-mas essa n„o È a quest„o.
+Gratid√£o √© √≥timo,
+mas essa n√£o √© a quest√£o.
 
 249
 00:28:14,125 --> 00:28:16,999
-Os Nortenhos s„o leais
-a Jon Snow, n„o a ela.
+Os Nortenhos s√£o leais
+a Jon Snow, n√£o a ela.
 
 250
 00:28:17,083 --> 00:28:20,334
-Eles n„o a conhecem.
-O Povo Livre n„o a conhece.
+Eles n√£o a conhecem.
+O Povo Livre n√£o a conhece.
 
 251
 00:28:20,792 --> 00:28:23,250
-Eu os conheÁo faz
+Eu os conhe√ßo faz
 um bom tempo e garanto
 
 252
 00:28:23,626 --> 00:28:25,292
-que s„o teimosos como cabras.
+que s√£o teimosos como cabras.
 
 253
 00:28:25,626 --> 00:28:28,209
 Se quiser a lealdade deles,
-deve conquist·-la.
+deve conquist√°-la.
 
 254
 00:28:39,584 --> 00:28:42,250
-Tenho a impress„o de que vai
+Tenho a impress√£o de que vai
 me fazer uma proposta.
 
 255
 00:28:43,042 --> 00:28:45,999
-Minha proposta È um casamento.
+Minha proposta √© um casamento.
 
 256
 00:28:46,000 --> 00:28:48,999
@@ -1148,7 +1148,7 @@ que tal se os Sete Reinos,
 258
 00:28:51,042 --> 00:28:53,584
 pela primeira vez
-na sua histÛria miser·vel,
+na sua hist√≥ria miser√°vel,
 
 259
 00:28:53,626 --> 00:28:55,751
@@ -1165,21 +1165,21 @@ Eles formam um belo casal.
 
 262
 00:29:01,459 --> 00:29:03,417
-VocÍ superestima
-a nossa influÍncia.
+Voc√™ superestima
+a nossa influ√™ncia.
 
 263
 00:29:03,459 --> 00:29:06,667
-Jon e Daenerys n„o querem
-ouvir velhos solit·rios.
+Jon e Daenerys n√£o querem
+ouvir velhos solit√°rios.
 
 264
 00:29:06,751 --> 00:29:07,999
-N„o sou t„o velho.
+N√£o sou t√£o velho.
 
 265
 00:29:09,709 --> 00:29:11,167
-N„o tanto quanto ele.
+N√£o tanto quanto ele.
 
 266
 00:29:13,042 --> 00:29:15,417
@@ -1188,7 +1188,7 @@ a sabedoria da idade.
 
 267
 00:29:15,501 --> 00:29:16,876
-… claro que sim.
+√â claro que sim.
 
 268
 00:29:16,959 --> 00:29:19,667
@@ -1197,8 +1197,8 @@ para nos manter distantes.
 
 269
 00:29:19,792 --> 00:29:22,626
-Assim, n„o os fazemos lembrar
-uma verdade desagrad·vel.
+Assim, n√£o os fazemos lembrar
+uma verdade desagrad√°vel.
 
 270
 00:29:23,209 --> 00:29:24,417
@@ -1210,20 +1210,20 @@ Que nada dura.
 
 272
 00:29:35,999 --> 00:29:37,751
-Sua irm„ n„o gosta de mim.
+Sua irm√£ n√£o gosta de mim.
 
 273
 00:29:42,999 --> 00:29:44,334
-Ela n„o conhece vocÍ.
+Ela n√£o conhece voc√™.
 
 274
 00:29:46,501 --> 00:29:49,584
-E ela tambÈm n„o gostava de mim
-quando Èramos pequenos.
+E ela tamb√©m n√£o gostava de mim
+quando √©ramos pequenos.
 
 275
 00:29:49,792 --> 00:29:51,584
-Ela n„o precisa ser minha amiga,
+Ela n√£o precisa ser minha amiga,
 
 276
 00:29:53,083 --> 00:29:54,667
@@ -1231,7 +1231,7 @@ mas eu sou a rainha dela.
 
 277
 00:29:58,667 --> 00:30:00,709
-Se ela n„o consegue
+Se ela n√£o consegue
 me respeitar...
 
 278
@@ -1240,7 +1240,7 @@ Quantos hoje?
 
 279
 00:30:13,667 --> 00:30:16,209
-SÛ 18 cabras e 11 ovelhas.
+S√≥ 18 cabras e 11 ovelhas.
 
 280
 00:30:19,709 --> 00:30:20,751
@@ -1248,33 +1248,33 @@ O que aconteceu?
 
 281
 00:30:20,834 --> 00:30:22,501
-Os dragıes mal est„o comendo.
+Os drag√µes mal est√£o comendo.
 
 282
 00:30:40,667 --> 00:30:43,542
--Qual È o problema com eles?
--Eles n„o gostam do Norte.
+-Qual √© o problema com eles?
+-Eles n√£o gostam do Norte.
 
 283
 00:30:59,792 --> 00:31:00,999
-V· em frente.
+V√° em frente.
 
 284
 00:31:07,000 --> 00:31:09,167
-Eu n„o sei montar um drag„o.
+Eu n√£o sei montar um drag√£o.
 
 285
 00:31:09,876 --> 00:31:11,999
-NinguÈm sabe, atÈ montar um.
+Ningu√©m sabe, at√© montar um.
 
 286
 00:31:14,584 --> 00:31:16,501
-E se ele n„o quiser
+E se ele n√£o quiser
 que eu monte?
 
 287
 00:31:16,999 --> 00:31:19,459
-Ent„o foi um prazer conhecÍ-lo,
+Ent√£o foi um prazer conhec√™-lo,
 Jon Snow.
 
 288
@@ -1283,56 +1283,56 @@ Onde eu me seguro?
 
 289
 00:31:41,501 --> 00:31:42,876
-Onde vocÍ conseguir.
+Onde voc√™ conseguir.
 
 290
 00:33:39,542 --> 00:33:41,834
-VocÍ acabou
-com a graÁa dos cavalos.
+Voc√™ acabou
+com a gra√ßa dos cavalos.
 
 291
 00:33:50,999 --> 00:33:52,999
-PoderÌamos ficar aqui mil anos.
+Poder√≠amos ficar aqui mil anos.
 
 292
 00:33:54,999 --> 00:33:56,417
-NinguÈm nos encontraria.
+Ningu√©m nos encontraria.
 
 293
 00:33:58,999 --> 00:34:00,292
-FicarÌamos bem velhos.
+Ficar√≠amos bem velhos.
 
 294
 00:34:08,667 --> 00:34:10,918
-… frio aqui
+√â frio aqui
 para uma garota do Sul.
 
 295
 00:34:11,667 --> 00:34:13,292
-Ent„o aqueÁa a sua rainha.
+Ent√£o aque√ßa a sua rainha.
 
 296
 00:34:27,999 --> 00:34:29,083
-N„o tenha medo.
+N√£o tenha medo.
 
 297
 00:34:52,999 --> 00:34:54,626
 <i>-Gendry?</i>
--Ele est· aqui.
+-Ele est√° aqui.
 
 298
 00:35:00,959 --> 00:35:03,918
-N„o È f·cil fazer uma l‚mina
-assim com vidro de drag„o.
+N√£o √© f√°cil fazer uma l√¢mina
+assim com vidro de drag√£o.
 
 299
 00:35:05,999 --> 00:35:08,542
-Est· dizendo
-que vocÍ È bom, È isso?
+Est√° dizendo
+que voc√™ √© bom, √© isso?
 
 300
 00:35:08,626 --> 00:35:10,083
-… um material difÌcil de...
+√â um material dif√≠cil de...
 
 301
 00:35:10,167 --> 00:35:12,459
@@ -1345,71 +1345,71 @@ Aleijados e pilantras.
 
 303
 00:35:15,999 --> 00:35:18,417
--Em que grupo vocÍ est·?
+-Em que grupo voc√™ est√°?
 -Deixe o rapaz em paz.
 
 304
 00:35:25,501 --> 00:35:27,292
-Ouvi dizer que vocÍ estava aqui.
+Ouvi dizer que voc√™ estava aqui.
 
 305
 00:35:29,792 --> 00:35:31,751
-VocÍ me largou ‡ beira da morte.
+Voc√™ me largou √† beira da morte.
 
 306
 00:35:32,209 --> 00:35:33,709
-Primeiro eu roubei vocÍ.
+Primeiro eu roubei voc√™.
 
 307
 00:35:45,501 --> 00:35:47,918
-VocÍ È uma vadiazinha cruel,
-n„o È?
+Voc√™ √© uma vadiazinha cruel,
+n√£o √©?
 
 308
 00:35:51,334 --> 00:35:53,459
 Deve ser por isso
-que ainda est· viva.
+que ainda est√° viva.
 
 309
 00:36:01,250 --> 00:36:03,209
-VocÍ fez um belo machado
+Voc√™ fez um belo machado
 para ele.
 
 310
 00:36:03,959 --> 00:36:06,375
--VocÍ melhorou.
--…... Obrigado.
+-Voc√™ melhorou.
+-√â... Obrigado.
 
 311
 00:36:06,751 --> 00:36:07,918
-VocÍ tambÈm.
+Voc√™ tamb√©m.
 
 312
 00:36:08,918 --> 00:36:11,042
-Quer dizer, vocÍ me parece bem.
+Quer dizer, voc√™ me parece bem.
 
 313
 00:36:12,667 --> 00:36:14,709
-Obrigada. VocÍ tambÈm.
+Obrigada. Voc√™ tamb√©m.
 
 314
 00:36:18,334 --> 00:36:21,125
-N„o seria ruim envelhecer aqui
-se n„o fosse t„o frio.
+N√£o seria ruim envelhecer aqui
+se n√£o fosse t√£o frio.
 
 315
 00:36:22,584 --> 00:36:26,626
--Ent„o fique perto da fornalha.
--… uma ordem, Lady Stark?
+-Ent√£o fique perto da fornalha.
+-√â uma ordem, Lady Stark?
 
 316
 00:36:26,918 --> 00:36:30,000
--N„o me chame assim.
+-N√£o me chame assim.
 -Como desejar, milady.
 
 317
 00:36:37,459 --> 00:36:38,918
-O que eu desejo È isto.
+O que eu desejo √© isto.
 
 318
 00:36:40,999 --> 00:36:44,125
@@ -1418,25 +1418,25 @@ O que eu desejo È isto.
 
 319
 00:36:44,542 --> 00:36:47,250
--Consegue ou n„o?
--VocÍ j· tem uma espada.
+-Consegue ou n√£o?
+-Voc√™ j√° tem uma espada.
 
 320
 00:36:48,000 --> 00:36:49,042
-O que È isso?
+O que √© isso?
 
 321
 00:36:55,167 --> 00:36:56,709
-… aÁo valiriano.
+√â a√ßo valiriano.
 
 322
 00:36:56,751 --> 00:36:59,083
-Eu sabia que vocÍ era
-sÛ mais uma menina rica.
+Eu sabia que voc√™ era
+s√≥ mais uma menina rica.
 
 323
 00:37:01,542 --> 00:37:03,792
-VocÍ n„o conhece
+Voc√™ n√£o conhece
 outras meninas ricas.
 
 324
@@ -1461,11 +1461,11 @@ vai apoiar a Casa Stark
 328
 00:37:32,792 --> 00:37:34,876
 como vem fazendo
-h· mil anos."
+h√° mil anos."
 
 329
 00:37:36,167 --> 00:37:37,709
-N„o foi o que ele disse?
+N√£o foi o que ele disse?
 
 330
 00:37:37,792 --> 00:37:40,459
@@ -1479,11 +1479,11 @@ ele disse.
 332
 00:37:44,999 --> 00:37:46,998
 Eu disse
-que precis·vamos de aliados.
+que precis√°vamos de aliados.
 
 333
 00:37:46,999 --> 00:37:49,209
-Mas n„o que renunciaria ‡ coroa.
+Mas n√£o que renunciaria √† coroa.
 
 334
 00:37:49,709 --> 00:37:51,584
@@ -1496,8 +1496,8 @@ era proteger o Norte.
 
 336
 00:37:54,918 --> 00:37:57,459
-Eu trouxe dois exÈrcitos,
-dois dragıes.
+Eu trouxe dois ex√©rcitos,
+dois drag√µes.
 
 337
 00:37:57,542 --> 00:37:59,334
@@ -1506,7 +1506,7 @@ E uma rainha Targaryen.
 338
 00:38:00,375 --> 00:38:03,209
 Acha que podemos vencer
-o ExÈrcito dos Mortos sem ela?
+o Ex√©rcito dos Mortos sem ela?
 
 339
 00:38:03,459 --> 00:38:06,125
@@ -1515,42 +1515,42 @@ Duas vezes.
 
 340
 00:38:06,209 --> 00:38:10,209
-VocÍ se preocupa com tÌtulos,
-e estou dizendo que n„o importa.
+Voc√™ se preocupa com t√≠tulos,
+e estou dizendo que n√£o importa.
 
 341
 00:38:11,167 --> 00:38:13,626
 Sem ela,
-n„o temos nenhuma chance.
+n√£o temos nenhuma chance.
 
 342
 00:38:22,626 --> 00:38:24,709
-VocÍ tem a mÌnima confianÁa
+Voc√™ tem a m√≠nima confian√ßa
 em mim?
 
 343
 00:38:26,751 --> 00:38:27,999
-VocÍ sabe que tenho.
+Voc√™ sabe que tenho.
 
 344
 00:38:32,417 --> 00:38:34,000
-Ela ser· uma boa rainha.
+Ela ser√° uma boa rainha.
 
 345
 00:38:35,083 --> 00:38:36,167
-Para todos nÛs.
+Para todos n√≥s.
 
 346
 00:38:37,999 --> 00:38:39,375
-Ela n„o È o pai dela.
+Ela n√£o √© o pai dela.
 
 347
 00:38:45,999 --> 00:38:47,709
-N„o, È bem mais bonita.
+N√£o, √© bem mais bonita.
 
 348
 00:38:53,125 --> 00:38:55,626
-VocÍ dobrou o joelho
+Voc√™ dobrou o joelho
 para salvar o Norte
 
 349
@@ -1559,7 +1559,7 @@ ou por amor a ela?
 
 350
 00:39:25,959 --> 00:39:27,292
-Ent„o vocÍ È o homem?
+Ent√£o voc√™ √© o homem?
 
 351
 00:39:28,876 --> 00:39:30,999
@@ -1568,25 +1568,25 @@ Que homem eu seria, Majestade?
 352
 00:39:31,292 --> 00:39:34,042
 O que salvou Sor Jorah
-quando ninguÈm mais pÙde?
+quando ningu√©m mais p√¥de?
 
 353
 00:39:34,167 --> 00:39:36,834
-Podiam, mas n„o queriam.
+Podiam, mas n√£o queriam.
 
 354
 00:39:38,626 --> 00:39:41,501
-Farei mudanÁas na Cidadela
+Farei mudan√ßas na Cidadela
 quando assumir o trono.
 
 355
 00:39:41,999 --> 00:39:44,834
-Um grande serviÁo
+Um grande servi√ßo
 merece uma grande recompensa.
 
 356
 00:39:44,918 --> 00:39:47,000
-… uma honra servi-la, Majestade.
+√â uma honra servi-la, Majestade.
 
 357
 00:39:47,083 --> 00:39:49,542
@@ -1595,8 +1595,8 @@ que eu possa lhe dar.
 
 358
 00:39:51,417 --> 00:39:55,918
-Se n„o for dar muito trabalho,
-eu posso precisar de um perd„o.
+Se n√£o for dar muito trabalho,
+eu posso precisar de um perd√£o.
 
 359
 00:39:56,667 --> 00:39:57,959
@@ -1609,7 +1609,7 @@ alguns livros da Cidadela...
 
 361
 00:40:04,334 --> 00:40:06,125
-e tambÈm uma espada.
+e tamb√©m uma espada.
 
 362
 00:40:06,667 --> 00:40:07,918
@@ -1617,16 +1617,16 @@ Da Cidadela?
 
 363
 00:40:07,999 --> 00:40:09,000
-Da minha famÌlia.
+Da minha fam√≠lia.
 
 364
 00:40:10,626 --> 00:40:12,459
-J· est· na Casa Tarly
-h· geraÁıes,
+J√° est√° na Casa Tarly
+h√° gera√ß√µes,
 
 365
 00:40:12,542 --> 00:40:14,792
-ent„o seria minha
+ent√£o seria minha
 de qualquer forma,
 
 366
@@ -1643,8 +1643,8 @@ A senhora o conhece?
 
 369
 00:40:29,792 --> 00:40:33,501
-Propus deix·-lo com suas terras
-e tÌtulos em troca de lealdade.
+Propus deix√°-lo com suas terras
+e t√≠tulos em troca de lealdade.
 
 370
 00:40:36,584 --> 00:40:37,792
@@ -1657,11 +1657,11 @@ Bem...
 372
 00:40:50,999 --> 00:40:54,417
 Ao menos posso voltar para casa,
-agora que meu irm„o È o lorde.
+agora que meu irm√£o √© o lorde.
 
 373
 00:40:58,626 --> 00:41:00,999
-Seu irm„o se juntou ao seu pai.
+Seu irm√£o se juntou ao seu pai.
 
 374
 00:41:18,000 --> 00:41:19,918
@@ -1673,15 +1673,15 @@ por me contar.
 
 376
 00:41:23,417 --> 00:41:24,501
-Ser· que eu?
+Ser√° que eu?
 
 377
 00:41:24,999 --> 00:41:26,042
-… claro.
+√â claro.
 
 378
 00:42:09,417 --> 00:42:10,999
-Por que est· aqui fora?
+Por que est√° aqui fora?
 
 379
 00:42:11,999 --> 00:42:13,918
@@ -1689,30 +1689,30 @@ Estou esperando um velho amigo.
 
 380
 00:42:15,626 --> 00:42:17,501
-… hora
+√â hora
 de contar a verdade ao Jon.
 
 381
 00:42:18,459 --> 00:42:19,667
-N„o, n„o.
+N√£o, n√£o.
 
 382
 00:42:20,834 --> 00:42:23,709
-VocÍ È irm„o dele.
-N„o deveria ser vocÍ?
+Voc√™ √© irm√£o dele.
+N√£o deveria ser voc√™?
 
 383
 00:42:24,626 --> 00:42:25,999
-Eu n„o sou irm„o dele.
+Eu n√£o sou irm√£o dele.
 
 384
 00:42:26,999 --> 00:42:29,000
-Ele confia em vocÍ
-mais do que ninguÈm.
+Ele confia em voc√™
+mais do que ningu√©m.
 
 385
 00:42:30,042 --> 00:42:31,375
-A hora È agora.
+A hora √© agora.
 
 386
 00:43:07,167 --> 00:43:08,501
@@ -1721,20 +1721,20 @@ Sam?
 387
 00:43:08,999 --> 00:43:12,042
 Desculpe. Sei que eu
-n„o deveria estar aqui.
+n√£o deveria estar aqui.
 
 388
 00:43:15,999 --> 00:43:18,375
 -Estava se escondendo de mim?
--… claro que n„o.
+-√â claro que n√£o.
 
 389
 00:43:19,417 --> 00:43:21,000
-Por que est· em Winterfell?
+Por que est√° em Winterfell?
 
 390
 00:43:21,709 --> 00:43:24,042
-J· leu todos os livros
+J√° leu todos os livros
 da Cidadela?
 
 391
@@ -1743,8 +1743,8 @@ O que foi?
 
 392
 00:43:29,459 --> 00:43:31,999
--Gilly? Ela est· bem?
--Est·.
+-Gilly? Ela est√° bem?
+-Est√°.
 
 393
 00:43:32,042 --> 00:43:33,125
@@ -1752,11 +1752,11 @@ O pequeno Sam?
 
 394
 00:43:34,999 --> 00:43:35,999
-VocÍ n„o sabe?
+Voc√™ n√£o sabe?
 
 395
 00:43:37,292 --> 00:43:38,501
-O quÍ?
+O qu√™?
 
 396
 00:43:39,959 --> 00:43:40,999
@@ -1765,7 +1765,7 @@ Daenerys...
 397
 00:43:41,999 --> 00:43:44,417
 Ela executou
-meu pai e meu irm„o.
+meu pai e meu irm√£o.
 
 398
 00:43:45,250 --> 00:43:46,918
@@ -1773,7 +1773,7 @@ Eram prisioneiros dela.
 
 399
 00:43:50,918 --> 00:43:52,250
-Ela n„o contou para vocÍ.
+Ela n√£o contou para voc√™.
 
 400
 00:44:01,250 --> 00:44:02,626
@@ -1781,54 +1781,54 @@ Eu sinto muito,
 
 401
 00:44:05,999 --> 00:44:08,083
-mas temos que pÙr um fim
+mas temos que p√¥r um fim
 a essa guerra.
 
 402
 00:44:09,542 --> 00:44:11,000
-VocÍ teria feito o mesmo?
+Voc√™ teria feito o mesmo?
 
 403
 00:44:13,501 --> 00:44:15,250
-J· executei quem me desobedeceu.
+J√° executei quem me desobedeceu.
 
 404
 00:44:15,292 --> 00:44:17,042
-Mas tambÈm poupou outros.
+Mas tamb√©m poupou outros.
 
 405
 00:44:17,375 --> 00:44:19,998
 Milhares de Selvagens
-que n„o dobraram o joelho.
+que n√£o dobraram o joelho.
 
 406
 00:44:19,999 --> 00:44:21,209
-Eu n„o era rei.
+Eu n√£o era rei.
 
 407
 00:44:23,542 --> 00:44:24,918
-Sim, vocÍ era.
+Sim, voc√™ era.
 
 408
 00:44:26,250 --> 00:44:27,792
-VocÍ sempre foi.
+Voc√™ sempre foi.
 
 409
 00:44:29,584 --> 00:44:31,209
-Eu renunciei ‡ coroa, Sam.
+Eu renunciei √† coroa, Sam.
 
 410
 00:44:32,417 --> 00:44:34,876
 Dobrei o joelho,
-n„o sou mais o Rei do Norte.
+n√£o sou mais o Rei do Norte.
 
 411
 00:44:34,999 --> 00:44:36,334
-N„o È Rei do Norte,
+N√£o √© Rei do Norte,
 
 412
 00:44:36,417 --> 00:44:38,999
-mas È Rei dos Sete Reinos,
+mas √© Rei dos Sete Reinos,
 droga!
 
 413
@@ -1837,17 +1837,17 @@ Bran e eu descobrimos.
 
 414
 00:44:49,125 --> 00:44:51,792
-Eu tinha o di·rio
-do Alto Sept„o. Bran tinha...
+Eu tinha o di√°rio
+do Alto Sept√£o. Bran tinha...
 
 415
 00:44:52,999 --> 00:44:55,959
--Seja l· o que ele tem.
--Do que est· falando?
+-Seja l√° o que ele tem.
+-Do que est√° falando?
 
 416
 00:44:59,542 --> 00:45:00,667
-Sua m„e...
+Sua m√£e...
 
 417
 00:45:01,876 --> 00:45:03,209
@@ -1867,31 +1867,31 @@ era Rhaegar Targaryen.
 
 421
 00:45:13,125 --> 00:45:15,083
-VocÍ nunca foi bastardo.
+Voc√™ nunca foi bastardo.
 
 422
 00:45:16,000 --> 00:45:19,709
-VocÍ È Aegon Targaryen,
+Voc√™ √© Aegon Targaryen,
 o verdadeiro herdeiro do trono.
 
 423
 00:45:23,999 --> 00:45:26,083
 Desculpe.
-Eu sei que È muita coisa.
+Eu sei que √© muita coisa.
 
 424
 00:45:36,000 --> 00:45:39,250
 Meu pai era o homem mais honrado
-que j· conheci.
+que j√° conheci.
 
 425
 00:45:42,999 --> 00:45:44,998
-Est· dizendo
+Est√° dizendo
 que ele mentiu para mim?
 
 426
 00:45:44,999 --> 00:45:45,999
-N„o.
+N√£o.
 
 427
 00:45:47,000 --> 00:45:50,667
@@ -1899,17 +1899,17 @@ Seu pai... Bem, Ned Stark...
 
 428
 00:45:51,042 --> 00:45:53,999
-Ele prometeu ‡ sua m„e
-que sempre protegeria vocÍ.
+Ele prometeu √† sua m√£e
+que sempre protegeria voc√™.
 
 429
 00:45:54,000 --> 00:45:56,999
 E fez isso. Robert teria
-matado vocÍ se soubesse.
+matado voc√™ se soubesse.
 
 430
 00:45:58,959 --> 00:46:00,417
-VocÍ È o verdadeiro rei.
+Voc√™ √© o verdadeiro rei.
 
 431
 00:46:01,667 --> 00:46:03,584
@@ -1923,17 +1923,17 @@ A coisa toda.
 
 433
 00:46:20,125 --> 00:46:22,834
--Daenerys È a nossa rainha.
--Ela n„o deveria ser.
+-Daenerys √© a nossa rainha.
+-Ela n√£o deveria ser.
 
 434
 00:46:24,999 --> 00:46:26,999
--… traiÁ„o.
--… a verdade.
+-√â trai√ß√£o.
+-√â a verdade.
 
 435
 00:46:28,834 --> 00:46:30,999
-VocÍ renunciou ‡ coroa
+Voc√™ renunciou √† coroa
 pelo seu povo.
 
 436
@@ -1942,20 +1942,20 @@ Ela faria o mesmo?
 
 437
 00:48:42,876 --> 00:48:46,250
--Para tr·s! Ele tem olhos azuis!
+-Para tr√°s! Ele tem olhos azuis!
 -Eu sempre tive olhos azuis!
 
 438
 00:48:56,042 --> 00:48:57,292
-Encontrou alguÈm?
+Encontrou algu√©m?
 
 439
 00:49:30,918 --> 00:49:32,459
-… o filho dos Umbers.
+√â o filho dos Umbers.
 
 440
 00:49:33,000 --> 00:49:34,125
-… uma mensagem
+√â uma mensagem
 
 441
 00:49:35,209 --> 00:49:36,584
@@ -1963,12 +1963,12 @@ do Rei da Noite.
 
 442
 00:49:37,167 --> 00:49:39,626
-O exÈrcito dele est·
-entre nÛs e Winterfell.
+O ex√©rcito dele est√°
+entre n√≥s e Winterfell.
 
 443
 00:49:39,751 --> 00:49:40,751
-Estamos a pÈ.
+Estamos a p√©.
 
 444
 00:49:40,834 --> 00:49:43,042
@@ -1987,7 +1987,7 @@ chegaremos antes dos mortos.
 447
 00:49:49,042 --> 00:49:51,667
 Vamos torcer para que
-o Rei da Noite n„o venha...
+o Rei da Noite n√£o venha...
 
 448
 00:50:43,542 --> 00:50:45,999
@@ -1996,5 +1996,5 @@ Continuem andando! Em frente!
 449
 00:50:47,999 --> 00:50:50,834
 <i>Fiquem juntos!</i>
-<i>N„o fiquem para tr·s!</i>
+<i>N√£o fiquem para tr√°s!</i>
 
