@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL HD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/04/power-couple-brasil.jpg" group-title="CANAIS ENTRETENIMENTO",POWER COUPLE BRASIL HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/30236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL SD" tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/04/power-couple-brasil.jpg" group-title="CANAIS ENTRETENIMENTO",POWER COUPLE BRASIL SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/30235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 1 SD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA NORDESTE 1 SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 1 HD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA NORDESTE 1 HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 2 SD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA NORDESTE 2 SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 2 HD" tvg-logo="https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png" group-title="CANAIS ESPORTES",COPA NORDESTE 2 HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20068.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4404.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/8139.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/9344.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/7448.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/7691.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/9343.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20891.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png" group-title="CANAIS FILMES | SERIES",AMC HD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20890.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20893.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES | SERIES",A&E HD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20892.m3u8
+#EXTINF:-1 tvg-id="Agro Canal" tvg-name="AGRO CANAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/aovivoac-transparente.png" group-title="CANAIS ABERTO",AGRO CANAL SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/5983.m3u8
+#EXTINF:-1 tvg-id="ALL SPORTS" tvg-name="ALL SPORT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ALL-Sports.png" group-title="CANAIS ESPORTES",ALL SPORT SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/6812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Aljazeera-logo-English-1024x768.png" group-title="CANAIS ENTRETENIMENTO",ALJAZEERA HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/7550.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4403.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/6142.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/13205.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20887.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET HD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/24628.m3u8
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/7904.m3u8
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/10235.m3u8
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="ARTE 1 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112155742-canal-arte-1.png" group-title="CANAIS CULTURA",ARTE 1 SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20880.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES | SERIES",AXN SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4402.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/6140.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/13212.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png" group-title="CANAIS FILMES | SERIES",AXN SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20884.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/AXN_HD_Logo_2015.png" group-title="CANAIS FILMES | SERIES",AXN HD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1000px-Arirang.svg_.png" group-title="CANAIS ENTRETENIMENTO",ARIRANG TV SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4407.m3u8
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY TV SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4401.m3u8
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY TV HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20870.m3u8
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BABY TV SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Baby_TV.png" group-title="CANAIS INFANTIL",BABY TV SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20871.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4399.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/10296.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/11536.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandNews_TV_logo_2010.svg_.png" group-title="CANAIS NOTICIAS",BAND NEWS SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND BAHIA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND BAHIA SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/30427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND GOIANIA FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND GOIANIA FHD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/30438.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4400.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/6882.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND FHD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/25008.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20875.m3u8
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND HD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND PARANA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND PARANA SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/24927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND RJ HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/25542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND ARACAJU HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND ARACAJU HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/24752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND GOIANIA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND GOIANIA HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/25019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND RS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND RS HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/25018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND TV TAROBA PARANA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND TV TAROBA PARANA HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/24924.m3u8
+#EXTINF:-1 tvg-id="Band Campinas" tvg-name="BAND CAMPINAS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND CAMPINAS HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/18203.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png" group-title="CANAIS ESPORTES",BAND SPORTS SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4398.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTES",BAND SPORTS HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/6138.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTES",BAND SPORTS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/11535.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo-1.png" group-title="CANAIS ESPORTES",BAND SPORTS SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20864.m3u8
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BAND SPORTS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png" group-title="CANAIS ESPORTES",BAND SPORTS HD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20863.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/6964.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/6881.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD (DUAL AUDIO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/11547.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS SD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20868.m3u8
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/bis.png" group-title="CANAIS MUSICAS",BIS HD*
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/20866.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="BLOOMBERG TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/blobemg.png" group-title="CANAIS ENTRETENIMENTO",BLOOMBERG TV SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/7424.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG SD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/4396.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",BOOMERANG HD
+http://painel.ebanonet.com.br:25461/live/2xVMJGYcb3/VLlcEi67N6/10294.m3u8
