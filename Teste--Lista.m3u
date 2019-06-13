@@ -1,0 +1,431 @@
+#EXTM3U
+#EXTINF:0 group-title="Canais Abertos"
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/1d/20180330131441%21LOGO_REDETV%21.png" group-title="(Felps)",REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1738905660.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837637013243326464/p9XHZuW3.jpg"(Felps)",REDE MINAS
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1518072814.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/61/Logotipo_da_TV_Difusora_Sul.png/200px-Logotipo_da_TV_Difusora_Sul.png" group-title="(Felps)",TV DIFUSORA SUL
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1030661937.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Logotipo_da_TV_Difusora.png" group-title="(Felps)",TV DIFUSORA
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
+
+#EXTINF:-1 tvg-logo="http://jrscomunicacao.com/wp-content/uploads/2017/06/18838957_10214153705821742_4176658407251604279_n-540x480.jpg" group-title="(Felps)",BAH TV
+https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LOGO_TOP_TV_HD.png/200px-LOGO_TOP_TV_HD.png" group-title="(Felps)",TOP TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=75515083
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-lrFHOUdAWT4/WyCp49lRY0I/AAAAAAAAAJE/RCBmbf5jSWgy2ju2quwaX39QBqZ1g5kZwCPcBGAYYCw/s400/Screenshot_2018-06-13-00-55-39.png" group-title="(Felps)",GOSPEL MOVIES TELEVISION
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?wowzasessionid=1995137443
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1041426459259297792/Gw2DdV-l.jpg" group-title="(Felps)",TV TEEN NET
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=1211361614
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/200px-Rede_Vida_logo.png" group-title="(Felps)",REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c98bd1a061f04f8f2ef85528cd6b253.png" group-title="(Felps)",TV SANTA CECÍLIA
+https://5829cb6b64c3c.streamlock.net/2063/2063/chunklist_w1335494998.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5qaNaJjf3no/hqdefault.jpg" group-title="(Felps)",TV UNIVERSAL
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://mattlehmanstudio.com/content/files/01-EW-Summer-Preview-1.png" group-title="(Felps)",RIVIERA SUMMER TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w452256422.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvlitoral.com.br/logo.png" group-title="(Felps)",TV LITORAL
+http://streaming03.zas.media:1935/panorama/panorama/chunklist_w1134455306.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/492994379460526080/yJVDFmiS_400x400.jpeg" group-title="(Felps)",CATVE HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.master.tv.br/logo.png" group-title="(Felps)",MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/ALL-Sports-1.png" group-title="(Felps)",ALL SPORTS HD
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ab/82/a5/ab82a56b-b49c-67cf-d6e7-6237ce86b971/source/512x512bb.jpg" group-title="(Felps)",TV PAMPA
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDoKn0whDIKbOPS-XY70soCt5c_WD-A6BeaSA=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",REDE MINAS
+https://slbps-sambatech.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1554691600~exp=1554698200~acl=/*~hmac=ad13c164bc5ff09731ebef138bedb57edc6da29ec0a20790df144f709848ddfb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Rede_Fam%C3%ADlia.png/200px-Rede_Fam%C3%ADlia.png" group-title="(Felps)",REDE FAMÍLIA
+https://redefamilia.opic.live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="(Felps)",TV CLIMA
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/joEZPKTLZfc/maxresdefault.jpg" group-title="(Felps)",TV CAPITAL
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1160507725.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.infoney.com.br/icones/grande/aberto/central-tv-online-ao-vivo-gratis-5c1ffcd90e483.jpeg" group-title="(Felps)",TV ARACATI
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/42/Logotipo_da_TV_Tropical_%28Natal%29.jpg" group-title="(Felps)",TV TROPICAL
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w1525229873.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png/200px-Logotipo_da_TV_A_Cr%C3%ADtica.png" group-title="(Felps)",TV ACRÍTICA
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1556699763~exp=1556706363~acl=/*~hmac=9a13a357e6fa457ca2bb2266eff19214ebc004fb0a3c3de90889fa94df16033c
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio23478_1491843141.jpg" group-title="(Felps)",RBC TV
+https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1518997145_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDv9oiW8iuZxNGUi59W5zwo-nybN7-W1GEEYw=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-logo="https://media.cdnandroid.com/bd/1c/c5/43/imagen-rede-tvt-0big.jpg" group-title="(Felps)",REDE TVT
+https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1gU9bU84uRnps40pTEIjw0)/dm/3/x6ph7x7/s/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBBz4kU6QyZQNUHykhpAuDNqEryF3fQlHaWuw=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",TVC
+http://stmv3.srvstm.com/tvc16/tvc16/playlist.m3u8?wowzasessionid=156463704
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b4/Rede_S%C3%A9culo_21.jpg/200px-Rede_S%C3%A9culo_21.jpg" group-title="(Felps)",REDE SÉCULO 21
+https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCkk6wUBF5fG1Uhart-Kl5E30vjB3DnVQKhuQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",TV SERRA AZUL
+http://stmv2.srvstm.com/tvserrazuladm/tvserrazuladm/playlist.m3u8?wowzasessionid=1845444560
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/CONEX%C3%83O_BR_-_LOGO.jpg" group-title="(Felps)",CONEXÃO BR
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.estadoemfoco.com.br/wp-content/uploads/2015/09/agro-canal.jpg" group-title="(Felps)",AGRO CANAL
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://bonitonet.com.br/admin/files/33222/canal-do-boi.jpg" group-title="(Felps)",CANAL DO BOI
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario_m.png" group-title="(Felps)",TV DIÁRIO
+https://5a1c76baf08c0.streamlock.net/zw338/zw338/chunklist_w194158470.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-plan-logo-FB390B515C-seeklogo.com.gif" group-title="(Felps)",TV PLAN
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist.m3u8?73cf7ba432b12ec30120b300085d1d1d
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDl4T22rf5KLsNJ6bpEuIixvLWpWTW4gkX6yg=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",VERDE VALE
+http://ad.mysisli.com/live/13verdevalelive13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.polemicaparaiba.com.br/wp-content/uploads/2018/08/tv_arapuan.jpg?ssl=1" group-title="(Felps)",TV ARAPUAN
+https://v5.ciclano.io:1443/8064/_definst_/8064/chunklist_w1698221517.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.camalaunoticias.com.br/wp-content/uploads/2018/08/27545460_1557522747694926_88680957201169834_n.png" group-title="(Felps)",TV SOL
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1923535057.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvcarioca.net/gallery_gen/f2e7d8967706e209f0dbe21345a0993d_150x152.jpeg" group-title="(Felps)",TV CARIOCA
+http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w796319542.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b9e29405fcb5d0ea24baa173a953c256.jpg" group-title="(Felps)",TV ZOOM
+https://cdn.jmvstream.com/live/hls/lv_751/LV751_rdDjSLQZp6.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvmetropolitanario.com.br/images/LOGO-METROPOLITANA-VETORIZADA1.png" group-title="(Felps)",TV METROPOLITANA
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1856238396.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2Y2FyaW9jYV9zY3JlZW5fMF9wbDhtbnJ2Mg/screen-0.jpg?h=800&fakeurl=1&type=.jpg" group-title="(Felps)",CARIOCA TV
+http://wse01.logicahost.com.br:1935/cariocainterativo/cariocainterativo/chunklist_w306082016.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTg0MDU1LmdwdTU5NTZjMjQwODY0YjNlNTc0NTQ1NmVmYmEzZmI1YTU2X3NjcmVlbl8wXzE1NDE3OTQ2NzNfMDQ1/screen-0.jpg?h=800&fakeurl=1&type=.jpg" group-title="(Felps)",CANAL TV RIO
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/chunklist_w1175538107.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.multirio.rj.gov.br/images/img_2015_08/Identidade_2015.jpg" group-title="(Felps)",MULTIRIO
+http://187.111.97.45:1935/webtv/webtv/chunklist_w1431287229.m3u8
+
+#EXTINF:-1 tvg-logo="http://luautv.com.br/wp-content/themes/temaLuauTv/i/logo.png" group-title="(Felps)",LUAU TV
+http://server-1.locaaovivo.com.br/liveStream/36711571249/chunklist_w1225563843.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.terceiraviatv.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via-interna.png" group-title="(Felps)",3 VIA TV
+http://stream07.localmidia.com.br/terceiraviatv/ngrp:aovivo_all/chunklist_w1889242771_b1046608.m3u8
+
+#EXTINF:-1 tvg-logo="https://maricainfo.com/wp-content/uploads/2015/11/marica-tv.jpg" group-title="(Felps)",TV + MARICÁ
+http://stmv2.painelcast.com/tvmaismarica/tvmaismarica/playlist.m3u8?wowzasessionid=688890456
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-W1gx8-oB1mQ/W0Br1yz3LYI/AAAAAAAAABQ/KKkTKCYggX0gvQ_iUOdPFVJpLling-A6QCLcBGAs/s1600/Logotipo_da_Rede_Brasil.png" group-title="(Felps)",REDE BRASIL RBTV
+https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2066766331.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/tvplateia.png" group-title="(Felps)",TV APLATÉIA
+http://srv-rs1.sisdera.com/hls/tvap_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="(Felps)",CINE+
+http://189.86.89.117:8080/hls/livecm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cc45613b4fb666f27e26c27db4a4bc31.jpg" group-title="(Felps)",TV ALMS
+https://cdn.jmvstream.com/live/hls/lv_6769/LV6769_Q7AKXnL6Bn.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogdotarso.files.wordpress.com/2013/10/e-parana.jpg" group-title="(Felps)",TV EPARANÁ
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="(Felps)",CANAL FUTURA
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvnbrasil.com.br/wp-content/uploads/2019/02/www.tvnbrasil.com_.br_-e1549740456806.jpg" group-title="(Felps)",TVN BRASIL
+http://painelvj.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/52a23eaae4b0a695ee3d229c/t/5304ce8fe4b035d468e0538f/1392823952565/Convenios+-+Mackenzie.jpg?format=750w" group-title="(Felps)",TV MACKENZIE
+https://player.internetaovivo.com:8443/live_tvmackenzie/tvmackenzie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foztv.com.br/wp-content/uploads/2018/07/foztv-novo.png" group-title="(Felps)",FOZ TV
+https://streamingserverbr1.septe.com.br:1936/hls/foztv.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBk-SR4O08YjHhpCDibq1fWWAdQshIE0SlwJw=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",ITU TV 2
+https://59f2354c05961.streamlock.net:1443/itutv/_definst_/itutv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/6/2/5/16253392/16253392,640x360,b:2.jpg" group-title="(Felps)",ITU TV 1
+https://5ad482a77183d.streamlock.net/ulissesgaluccihotmail.com/5b7483cffe10d004e65d0c6d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alltv.com.br/wp-content/uploads/2018/04/logo.png" group-title="(Felps)",ALL TV
+https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w498661116.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg" group-title="(Felps)",TV MEIO NORTE
+https://playback2.akamaized.net/streams/3332377_2958396_lsi6whnfp7xxcnclrnj_1/exp=1559844101~acl=%2f*~data=hdntl~hmac=e1b89ff52029970aafebf654587b49774b3f2474d96fc30702fa41504fabf4f2/media/3332377_2958396_lsi6whnfp7xxcnclrnj_1@446000p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvgazeta.com.br/wp-content/uploads/2015/10/share-logo-tv-470x246.png" group-title="(Felps)",TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wDejc0xYiOw/XBF5daD-ItI/AAAAAAAAAMs/U89q9wTovmQw7d2xvwNn_GbEw4Sj5BkzACPcBGAYYCw/s640/Screenshot_2018-12-12-18-25-36.png" group-title="(Felps)",TV GUARANY
+http://wsecast.com.br:1935/rtguarany/rtguarany/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logicahost.com.br/blog/wp-content/uploads/2017/02/livretv.png" group-title="(Felps)",LIVRE TV HD
+https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvmais.org/wp-content/uploads/2016/01/Logo01_com_texto.png" group-title="(Felps)",TV MAIS
+https://596639ebdd89b.streamlock.net:443/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB1PUDkhpE1ZftN9Xa4MvKrF1uWsNS7HdbngA=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",TV ITARARÉ
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+
+#EXTINF:-1 tvg-logo="http://logicahost.com.br/natalbranco01.png" group-title="(Felps)",TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/6riHj4cm424l4iMJ8I1xssEf5bqxi1zVgu2uONFDvmZcbU97Lx0rvTTN2Ef4srWHuO4" group-title="(Felps)",WEB TV
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imagem.band.com.br/f_394138.jpg" group-title="(Felps)",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://teleguiado.com/wp-content/uploads/2018/11/novo-logo-tv-band-bandeirantes-prata-cinza-2018.jpg" group-title="(Felps)",BAND 2
+https://evpp.mm.uol.com.br/bandpracas/bandtv_pp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_TV_Cidade_Verde.png/200px-Logotipo_TV_Cidade_Verde.png" group-title="(Felps)",TV CIDADE VERDE
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_TV_Jornal.jpg/200px-Logotipo_TV_Jornal.jpg" group-title="(Felps)",TV JORNAL HD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC609dwkcOjlYVB3dYvGmGeOzh0j0AgXauvyQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="(Felps)",TV CULTURA
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/502526573149319169/of0kdcZR.png" group-title="(Felps)",TV JAGUAR
+https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.jovempan.uol.com.br/uploads/2018/06/unnamed-500x500.png" group-title="(Felps)",TV JOVEM PAN
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://b.vimeocdn.com/ts/966/256/96625630_200.jpg" group-title="(Felps)",TV TRANSAMÉRICA
+http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.universo.mobi/image.php?url=https://s3.amazonaws.com/universo-prd1/e12125a3b19a50e2a401a10eaca56dbc92de9a3a&size=220x220&crop=1" group-title="(Felps)",CONECTV
+http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w521722592.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DpCkIk7WwAE0Xad.jpg" group-title="(Felps)",TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/chunklist_w1333771401.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/SBT_Interior.png/200px-SBT_Interior.png" group-title="(Felps)",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/690949651537612800/uahNvz8V.jpg" group-title="(Felps)",TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880897327946502146/CiaKh2DW.jpg" group-title="(Felps)",DTTV
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiocapitalfm777.com/images/415d46e69bdae8276a4cc5cba9cd3d10.jpg" group-title="(Felps)",CAPITAL 777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7utNioP4twQ/UgwwrDwkeGI/AAAAAAAAAfY/ZMT4qCe-_nY/s1600/ImageProxy.jpg" group-title="(Felps)",CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+#EXTINF:-1 tvg-logo="https://tvmar.tv.br/img/logo.png" group-title="(Felps)",TV MAR
+https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1007758976.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875056249829830656/KKwgwQ8O_400x400.jpg" group-title="(Felps)",TVU RECIFE
+http://150.161.93.173/hls/720/index.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="(Felps)",CAXIAS TV
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w8407895.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD.jpg" group-title="(Felps)",TV NA ILHA
+http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1284434096
+
+#EXTINF:-1 tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_mid.jpg" group-title="(Felps)",REDE NEW
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.redecentraltv.com.br/logo.png" group-title="(Felps)",CENTRAL TV HD
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ILB7ZFKytC9K6lg8hC4GKhUAjBv7tSbHiIwA9lLyuJJQKtSo-i_rkUtEt3OuY2rDvh0" group-title="(Felps)",TV CIDADE OESTE HD
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cinemacineplus.com.br/site/wp-content/uploads/2018/05/02-logotipo-cineplus.png" group-title="(Felps)",CINE PLUS
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hIMEiYD3omI/WWZQBVUlhsI/AAAAAAAAA68/D2pwuzQljbkdMpDVZzWNfNtgigGbFI8YACLcBGAs/s1600/globo.png" group-title="(Felps)",GLOBO
+http://s.tvmaster.net:80/estenio/1217/1603
+
+#EXTINF:-1 tvg-logo="http://revistapress.com.br/wp-content/uploads/2018/07/espn.jpg" group-title="(Felps)",ESPN EXTRA
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
+
+#EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/djr.png" group-title="(Felps)",DISNEY JUNIOR
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="(Felps)",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w456429934.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/TVG.png/200px-TVG.png" group-title="(Felps)",TV DA GENTE
+https://595b85410a151.streamlock.net/tvdagenteoficial/tvdagenteoficial/chunklist_w1870775582.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.diariodosertao.com.br/wp-content/uploads/2017/10/dstv-3.jpg" group-title="(Felps)",TV DIÁRIO DO SERTÃO
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w155831820.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79h8nKZ-Q9KLptny5wSOaVuU-Qg3Prw9rpBmA=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",RBA TV
+https://5ad482a77183d.streamlock.net/suportesupersuportegmail.com/suportesupersuportegmail.com.stream/chunklist_w684598837.m3u8
+
+#EXTINF:-1 tvg-logo="https://okariri.com/wp-content/uploads/2015/07/18.png" group-title="(Felps)",TV JANGADEIRO
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1263330763_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://oplanetatv.clickgratis.com.br/_upload/content/2018/12/13/record-tv-rio-mantem-vice-lideranca-em-todas-as-faixas-5c12483327bfb.jpg" group-title="(Felps)",RECORD TV RIO HD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b4738048.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78GgVOWLqt4KiLDg2k3S02weCz9oqKYR6GoHQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w705315891.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-b5XnfbsbZC8/XAsiR8IJVPI/AAAAAAAAAKE/wdT_JOVJHbMLcDLxvqAGHi_Oeuqorq7dQCPcBGAYYCw/s640/Screenshot_2018-12-07-23-20-21.png" group-title="(Felps)",GOSPEL CARTOON TV
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+#EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2018/10/Hit-TV.png" group-title="(Felps)",HITTV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080451514911592448/EKQSKMJq.jpg" group-title="(Felps)",FM O DIA RJ
+https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/db/Logotipo_da_Rede_Uni%C3%A3o.png/230px-Logotipo_da_Rede_Uni%C3%A3o.png" group-title="(Felps)",REDE UNIÃO HD
+http://198.27.80.131/tvu/tvu/playlist.m3u8?wowzasessionid=2099627828
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BSL65JksujQ/WNe7bbL5nYI/AAAAAAAAGDI/zsydCuuEH0oKMXDsCtjL0OQaUPV0FyEyACLcB/s1600/tttt.png" group-title="(Felps)",YEAAH!TV HD
+https://livebr2.evoplay.com.br/hls/live/gvt-yeeah.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvonlinehd.org/img/canais/27903e1f36cc5ef9005e624682721cc8.png" group-title="(Felps)",TV NOVA PARAÍBA
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBxGM4HQKYuYjCoPjThZDz0P0s2TMz0pzB4YA=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",LBCTV
+https://v7.ciclano.io:1443/lbctv/_definst_/lbctv/chunklist_w1088215313.m3u8  
+
+#EXTINF:-1 tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-square.jpg" group-title="(Felps)",FOX NEWS 23
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXyOt2Mfc-L011I7GgIeRsfGuAlhK1bkkAScQFUZ5-_rZAdIJ" group-title="(Felps)",TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1095719885873840129/lQ9fISO5_400x400.jpg" group-title="(Felps)",CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RJJnm14YiN1kRsEDIhwpz5Ra5CK20Ic1mfajAaTBQjFftCFKjLryt9xubuQrBEvaPw" group-title="(Felps)",TV MOÇAMBIQUE
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/logotvambiental1.png" group-title="(Felps)",TV AMBIENTAL
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_InterTV.png/200px-Logotipo_da_InterTV.png" group-title="(Felps)",INTER TV ALTO LITORAL
+http://tv.factoryiptv.com:80/live/WWZ44ZGs5/controliptv/37361.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TV_Escola.png/235px-TV_Escola.png" group-title="(Felps)",TV ESCOLA HD
+https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8?sts=st=1559537176~exp=1559543776~acl=/*~hmac=09e6e6b3ee34c3b83426fcd2eec4bced7f51add2ce0053eb65373ddbcabefde3
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78S1P640dClm6BTa65hyfSB_aol1GcV6smjGg=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",TV METRÓPOLE
+http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8?wowzasessionid=1405072117
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/55/Logotipo_da_TV_O_Povo.png/200px-Logotipo_da_TV_O_Povo.png" group-title="(Felps)",TV O POVO
+https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w735649382.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2011%2F10%2F25%2F15%2FWDL-Logo-8534_25813_041615942_2022323939.jpg" group-title="(Felps)",TV GUARANY
+https://5cc00ac6defaf.streamlock.net:1443/rtguarany/_definst_/rtguarany/chunklist_w846072363.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtvm.tv/wp-content/uploads/2018/03/icon_rtvm.png" group-title="(Felps)",RTVM
+http://stmv6.srvstm.com/rtvmonline/rtvmonline/playlist.m3u8?wowzasessionid=1609689074
+
+#EXTINF:-1 tvg-logo="http://fratevi.org.br/img/noticias/noticia35/300x225.jpg" group-title="(Felps)",TV VIÇOSA
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/chunklist_w38773543.m3u8
+
+#EXTINF:-1 tvg-logo="http://gvnews.tv.br/wp-content/uploads/2015/03/logo.png" group-title="(Felps)",GV NEWS
+https://59f1cbe63db89.streamlock.net:1443/gvnews/_definst_/gvnews/chunklist_w1279673071.m3u8
+
+#EXTINF:-1 tvg-logo="https://webtvuai.com.br/wp-content/uploads/2017/08/20160809-Web-TV-UAI-Logo.png" group-title="(Felps)",TV UAI
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-oQ-WEj4Nv0ImdYSrHbzmNkEV9h5NJwDC8Pw=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",TV SANTANA
+http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Logotipo_da_TV_Fronteira.png" group-title="(Felps)",TV FRONTEIRA
+http://stmv4.euroti.com.br:1935/aguiberto6360/aguiberto6360/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/E2mptqP8jaIumh_6x0cBgR4MitlI6Q7PGXL-PmxlT4HmrVvDPO9JR9BLpeOpddOLdg" group-title="(Felps)",TV TUBÁ
+http://caikron.com.br:8081/rcr_radiotuba/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www12.senado.leg.br/radio/1/noticia/tv-senado-estreia-em-roraima-no-canal-57/tv-senado-estreia-em-roraima-no-canal-57/@@images/306ba6e7-7a2f-4b0e-bef7-8ad4356ad19d.jpeg" group-title="(Felps)",TV SENADO
+http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-eYtVB-EPmTc/TY1eoUUIf4I/AAAAAAAACPY/x3pQSMIIkp8/s400/sbt_oficial1.jpg" group-title="(Felps)",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hDS11vptZv4/U53rGw-RKeI/AAAAAAAAGH8/9aRJ11esDU8/s1600/BAND+HD.jpg" group-title="(Felps)",BAND HD SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/6d/b6/056db67331cccd6d5a42d6d7f6f69448.jpg" group-title="(Felps)",TV ÁGUA BOA
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://comercial.recordtv.com.br/files/2016/12/VITORIA_ES.png" group-title="(Felps)",TV VITÓRIA
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QGUGlqk.png" group-title="(Felps)",RETRO TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-vtJhGcjx9C7ot_wNtOI7gwCPkhZwXUdNCfg=s900-mo-c-c0xffffffff-rj-k-no" group-title="(Felps)",TV INES
+https://slbps-sambatech.akamaized.net/live/348%2C1651%2Ce37b831f59f42c649056321149991c7e%3Bbase64np%3BzDdrADxYcjubiM0%21/amlst%3AzDeTGSETdzqEyEG2/chunklist_b884736.m3u8?sts=st=1555523218~exp=1555529818~acl=/*~hmac=afc0a653007e9d4409a39a2fc7d59be2abb8461b34817b2c466a2262619ad303
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wp5_Us7JwnAj3lO_pOzb4jmb-w8zJGtNE9yXzEXzatXlOgcml8GfRb73xK_xm8IiXhmu" group-title="(Felps)",1001 NOITES
+https://cdn.jmvstream.com/live/hls/lv_7020_transcoder/LV7020_aQ7Azy6etO_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/bastidoresdainformacao.com.br/wp-content/uploads/2015/03/tv-aparecida.jpg?resize=600%2C425" group-title="(Felps)",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.odiarioonline.com.br/midia/noticias/3f621bcdc4e035b03122ceb39ecfcb1a.jpg" group-title="(Felps)",REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-NgAD4yMdykw/UgAteahLYgI/AAAAAAAAA8o/EgBsMmHAOT8/cbn+tv+logo.jpg" group-title="(Felps)",CBN TV
+https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mkLWw73jPLU/maxresdefault.jpg" group-title="(Felps)",DESENHOS 24 HORAS
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=945618119
+
+#EXTINF:-1 tvg-logo="https://rederc.com.br/wp-content/uploads/2019/05/logorederc-300x169.jpg" group-title="(Felps)",REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gp4HryC.jpg" group-title="(Felps)",REDE BRASIL OESTE
+https://cdn.jmvstream.com/live/hls/lv_623/LV623_BvxLE6l1S8.m3u8
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/34/e3/7d/34e37d49-17ec-1478-3696-6b2cf810c178/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" group-title="(Felps)",ESPORTE INTERATIVO PLUS
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="https://sky.vteximg.com.br/arquivos/ids/156064/globo-hd.png?v=636446273131270000" group-title="(Felps)",GLOBO HD
+http://tv.factoryiptv.com:80/live/WWZ44ZGs5/controliptv/37361.ts
+
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/03/31153448/facebook.jpg" group-title="(Felps)",DISCOVERY CHANNEL
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36985.ts
+
+#EXTINF:-1 tvg-logo="https://www.sp2multi.com.br/img/canais/animal-planet.png" group-title="(Felps)",ANIMAL PLANET
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36992.ts
