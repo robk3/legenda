@@ -1,0 +1,1005 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="none" tvg-name="i-Sat" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", i-Sat
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=503&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Zoomoo HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Zoomoo HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=502&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Woohoo HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Woohoo HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=501&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Woohoo" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Woohoo
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=500&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Warner Channel HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Warner Channel HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=499&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Warner Channel HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Warner Channel HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=498&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Warner Channel FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Warner Channel FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=497&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Warner Channel" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Warner Channel
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=496&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Viva HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Viva HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=495&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Viva HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Viva HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=494&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Viva" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Viva
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=493&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Venus HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Venus HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=492&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Venus" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Venus
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=491&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="VH1 Megahits" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", VH1 Megahits
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=490&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="VH1 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", VH1 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=489&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="VH1 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", VH1 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=488&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="VH1" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", VH1
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=487&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Universal Channel HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Universal Channel HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=486&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Universal Channel HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Universal Channel HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=485&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Universal Channel FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Universal Channel FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=484&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Universal Channel" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Universal Channel
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=483&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Trutv HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Trutv HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=482&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Trutv" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Trutv
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=481&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Tooncast HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Tooncast HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=480&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Tooncast HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Tooncast HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=479&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Tooncast" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Tooncast
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=478&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Terra Viva" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Terra Viva
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=477&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Touch HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Touch HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=476&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Touch HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Touch HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=475&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Touch FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Touch FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=474&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Touch" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Touch
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=473&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Premium HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Premium HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=472&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Premium FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Premium FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=471&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Premium" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Premium
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=470&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Pipoca HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Pipoca HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=469&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Pipoca HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Pipoca HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=468&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Pipoca FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Pipoca FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=467&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Pipoca" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Pipoca
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=466&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Fun HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Fun HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=465&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Fun HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Fun HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=464&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Fun FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Fun FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=463&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Fun" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Fun
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=462&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Cult HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Cult HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=461&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Cult HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Cult HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=460&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Cult FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Cult FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=459&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Cult" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Cult
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=458&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Action HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Action HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=457&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Action HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Action HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=456&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Action FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Action FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=455&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Telecine Action" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Telecine Action
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=454&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TVE" tvg-logo="noimg.jpg" group-title="Live-Tv: Internacional ", TVE
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=453&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Ratimbum HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", TV Ratimbum HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=452&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Ratimbum" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", TV Ratimbum
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=451&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Justica" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", TV Justica
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=450&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Jornal Caruaru" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", TV Jornal Caruaru
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=449&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Espanha" tvg-logo="noimg.jpg" group-title="Live-Tv: Internacional ", TV Espanha
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=448&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Escola" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", TV Escola
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=447&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Centro America" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", TV Centro America
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=446&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Brasil" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", TV Brasil
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=445&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TV Aparecida" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", TV Aparecida
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=444&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TNT Series HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TNT Series HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=443&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TNT Series HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TNT Series HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=442&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TNT Series FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TNT Series FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=441&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TNT Series" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TNT Series
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=440&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TNT HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TNT HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=439&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TNT HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TNT HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=438&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TNT FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TNT FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=437&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TNT" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TNT
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=436&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TLC HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", TLC HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=435&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TLC HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", TLC HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=434&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TLC" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", TLC
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=433&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TCM HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TCM HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=432&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TCM" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TCM
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=431&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TBS HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TBS HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=430&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TBS HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TBS HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=429&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="TBS" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", TBS
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=428&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Syfy HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Syfy HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=427&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Syfy HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Syfy HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=426&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Syfy FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Syfy FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=425&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Syfy" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Syfy
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=424&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Studio Universal HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Studio Universal HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=423&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Studio Universal HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Studio Universal HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=422&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Studio Universal FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Studio Universal FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=421&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Studio Universal" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Studio Universal
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=420&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=419&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=418&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=417&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV 3 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV 3 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=416&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV 3 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV 3 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=415&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV 3 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV 3 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=414&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV 3" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV 3
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=413&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV 2 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV 2 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=412&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV 2 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=411&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV 2 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=410&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV 2" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV 2
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=409&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SporTV" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", SporTV
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=408&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Space HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Space HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=407&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Space HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Space HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=406&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Space FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Space FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=405&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Space" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Space
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=404&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Sony HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Sony HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=403&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Sony" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Sony
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=402&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Sexy Hot HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Sexy Hot HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=401&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Sexy Hot" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Sexy Hot
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=400&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Sextreme" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Sextreme
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=399&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SIC Internacional" tvg-logo="noimg.jpg" group-title="Live-Tv: Internacional ", SIC Internacional
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=398&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SBT Tv Cidade Verde" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", SBT Tv Cidade Verde
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=397&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SBT TV Jornal HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", SBT TV Jornal HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=396&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SBT HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", SBT HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=395&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SBT HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", SBT HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=394&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="SBT" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", SBT
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=393&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="RedeTV! HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", RedeTV! HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=392&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="RedeTV!" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", RedeTV!
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=391&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Rede Vida" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Rede Vida
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=390&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Rede Seculo 21" tvg-logo="noimg.jpg" group-title="Live-Tv: Religioso ", Rede Seculo 21
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=389&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Rede CNT" tvg-logo="noimg.jpg" group-title="Live-Tv: Religioso ", Rede CNT
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=388&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Rede Brasil" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Rede Brasil
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=387&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record SP HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record SP HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=386&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record SP" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record SP
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=385&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record RS HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record RS HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=384&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record RJ HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record RJ HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=383&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record News HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", Record News HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=382&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record News" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", Record News
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=381&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record MG HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record MG HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=380&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=379&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=378&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=377&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record DF HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record DF HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=376&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record BA HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record BA HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=375&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Record" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Record
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=374&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="RIT" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", RIT
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=373&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="RBI" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", RBI
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=372&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Private HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Private HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=371&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Primebox Brasil" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Primebox Brasil
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=370&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere Clubes HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere Clubes HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=369&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere Clubes HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere Clubes HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=368&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere Clubes FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere Clubes FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=367&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere Clubes" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere Clubes
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=366&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 8" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 8
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=365&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 7 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 7 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=364&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 7 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 7 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=363&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 7 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 7 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=362&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 7" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 7
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=361&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 6 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 6 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=360&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 6 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 6 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=359&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 6 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 6 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=358&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 6" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 6
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=357&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 5 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 5 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=356&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 5 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 5 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=355&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 5 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 5 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=354&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 5" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 5
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=353&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 4 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 4 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=352&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 4 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 4 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=351&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 4 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 4 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=350&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 4" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 4
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=349&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 3 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 3 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=348&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 3 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 3 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=347&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 3 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 3 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=346&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 3" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 3
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=345&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 2 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 2 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=344&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 2 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=343&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 2 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=342&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Premiere 2" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Premiere 2
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=341&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Playboy TV HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Playboy TV HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=340&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Playboy TV" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Playboy TV
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=339&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Play TV" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", Play TV
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=338&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Penthouse HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Penthouse HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=337&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Paramount HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Paramount HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=336&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Paramount HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Paramount HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=335&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Paramount FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Paramount FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=334&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Paramount" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Paramount
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=333&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Off HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Off HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=332&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Off HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Off HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=331&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Off" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Off
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=330&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Novo Tempo" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Novo Tempo
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=329&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Nickelodeon HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Nickelodeon HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=328&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Nickelodeon" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Nickelodeon
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=327&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Nick Jr. HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Nick Jr. HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=326&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Nick Jr. HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Nick Jr. HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=325&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Nick Jr. FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Nick Jr. FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=324&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Nick Jr." tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Nick Jr.
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=323&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="National Geographic HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", National Geographic HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=322&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="National Geographic HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", National Geographic HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=321&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="National Geographic FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", National Geographic FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=320&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="National Geographic" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", National Geographic
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=319&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Natgeo Wild HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Natgeo Wild HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=318&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Natgeo Wild HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Natgeo Wild HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=317&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Natgeo Wild FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Natgeo Wild FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=316&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Natgeo Wild" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Natgeo Wild
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=315&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="NatGeo Kids HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", NatGeo Kids HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=314&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="NatGeo Kids HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", NatGeo Kids HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=313&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="NatGeo Kids FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", NatGeo Kids FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=312&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="NatGeo Kids" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", NatGeo Kids
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=311&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="NHK" tvg-logo="noimg.jpg" group-title="Live-Tv: Internacional ", NHK
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=310&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="NBR" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", NBR
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=309&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Music Box Brazil" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", Music Box Brazil
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=308&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Multishow HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", Multishow HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=307&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Multishow HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", Multishow HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=306&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Multishow FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", Multishow FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=305&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Multishow" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", Multishow
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=304&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Megapix HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Megapix HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=303&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Megapix HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Megapix HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=302&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Megapix FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Megapix FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=301&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Megapix" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Megapix
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=300&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max UP HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max UP HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=299&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max UP HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max UP HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=298&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max UP FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max UP FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=297&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max UP" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max UP
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=296&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max Prime*e HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max Prime*e HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=295&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max Prime*e" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max Prime*e
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=294&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max Prime HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max Prime HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=293&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max Prime HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max Prime HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=292&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max Prime FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max Prime FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=291&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max Prime" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max Prime
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=290&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=289&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=288&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=287&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Max" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Max
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=286&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Mais Globosat HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Mais Globosat HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=285&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Mais Globosat HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Mais Globosat HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=284&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Mais Globosat" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Mais Globosat
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=283&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="MTV HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", MTV HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=282&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="MTV HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", MTV HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=281&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="MTV FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", MTV FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=280&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="MTV" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", MTV
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=279&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Lifetime HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Lifetime HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=278&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Lifetime HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Lifetime HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=277&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Lifetime FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Lifetime FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=276&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Lifetime" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Lifetime
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=275&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Ideal TV" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Ideal TV
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=274&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ID HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", ID HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=273&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ID HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", ID HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=272&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ID FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", ID FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=271&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ID" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", ID
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=270&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="History HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", History HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=269&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="History HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", History HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=268&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="History FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", History FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=267&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="History 2 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", History 2 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=266&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="History 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", History 2 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=265&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="History 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", History 2 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=264&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="History 2" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", History 2
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=263&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="History" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", History
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=262&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Signature HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Signature HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=261&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Signature HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Signature HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=260&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Signature FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Signature FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=259&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Signature" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Signature
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=258&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Plus*e" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Plus*e
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=257&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Plus HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Plus HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=256&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Plus HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Plus HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=255&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Plus FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Plus FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=254&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Plus" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Plus
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=253&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=252&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=251&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Family HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Family HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=250&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Family HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Family HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=249&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Family FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Family FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=248&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO Family" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO Family
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=247&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=246&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO 2 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO 2 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=245&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO 2 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=244&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO 2 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=243&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO 2" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO 2
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=242&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="HBO" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", HBO
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=241&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Gloobinho HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Gloobinho HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=240&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Gloobinho FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Gloobinho FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=239&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Gloobinho" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Gloobinho
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=238&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Gloob HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Gloob HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=237&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Gloob HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Gloob HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=236&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Gloob" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Gloob
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=235&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="GloboNews HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", GloboNews HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=234&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="GloboNews HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", GloboNews HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=233&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="GloboNews FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", GloboNews FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=232&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="GloboNews" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", GloboNews
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=231&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Verdes Mares [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Verdes Mares [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=230&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Verdes Mares" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Verdes Mares
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=229&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Vanguarda Taubate" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Vanguarda Taubate
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=228&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Vanguarda SJC" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Vanguarda SJC
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=227&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Tribuna Santos" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Tribuna Santos
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=226&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Tem Itapetininga" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Tem Itapetininga
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=225&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV TEM SOROCABA" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV TEM SOROCABA
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=224&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV TEM S. J. DO RIO PRETO" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV TEM S. J. DO RIO PRETO
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=223&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV TEM BAURU HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV TEM BAURU HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=222&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV TEM BAURU" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV TEM BAURU
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=221&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Sudoeste" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Sudoeste
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=220&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Sergipe HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Sergipe HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=219&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Sergipe" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Sergipe
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=218&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Santa Cruz" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Santa Cruz
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=217&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Rio Sul" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Rio Sul
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=216&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Liberal Belem" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Liberal Belem
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=215&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Integracao" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Integracao
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=214&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Fronteira" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Fronteira
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=213&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Centro America Cuiaba" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Centro America Cuiaba
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=212&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Bahia" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Bahia
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=211&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Asa Branca" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Asa Branca
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=210&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo TV Anhanguera Goiania" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo TV Anhanguera Goiania
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=209&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo SP HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo SP HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=208&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo SP HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo SP HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=207&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo SP FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo SP FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=206&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo SP" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo SP
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=205&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Rio HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Rio HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=204&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Rio FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Rio FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=203&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Rio" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Rio
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=202&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Rede Amazonica" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Rede Amazonica
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=201&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo RPC Curitiba HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo RPC Curitiba HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=200&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo RPC Curitiba" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo RPC Curitiba
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=199&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo RN" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo RN
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=198&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo RBS Porto Alegre" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo RBS Porto Alegre
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=197&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo RBS POA HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo RBS POA HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=196&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo RBS POA FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo RBS POA FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=195&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Nordeste HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Nordeste HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=194&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Nordeste" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Nordeste
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=193&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo NSC Joinville" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo NSC Joinville
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=192&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo NSC Blumenau" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo NSC Blumenau
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=191&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Minas HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Minas HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=190&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Minas FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Minas FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=189&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Minas" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Minas
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=188&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo InterTV Serra Mar" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo InterTV Serra Mar
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=187&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo InterTV Grande Minas" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo InterTV Grande Minas
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=186&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo InterTV Alto Litoral" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo InterTV Alto Litoral
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=185&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Inter TV Cabugi" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Inter TV Cabugi
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=184&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Gazeta HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Gazeta HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=183&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo EPTV Sul Minas" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo EPTV Sul Minas
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=182&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo EPTV Sao Carlos" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo EPTV Sao Carlos
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=181&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo EPTV Ribeirão Preto HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=180&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo EPTV Ribeirão Preto" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo EPTV Ribeirão Preto
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=179&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo EPTV Central" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo EPTV Central
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=178&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo EPTV Campinas HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo EPTV Campinas HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=177&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo EPTV Campinas" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo EPTV Campinas
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=176&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Brasilia HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Brasilia HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=175&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Globo Brasilia" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Globo Brasilia
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=174&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="GNT HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", GNT HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=173&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="GNT HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", GNT HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=172&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="GNT" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", GNT
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=171&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Futura HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Futura HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=170&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Futura" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Futura
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=169&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Sports HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Fox Sports HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=168&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Sports HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Fox Sports HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=167&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Sports FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Fox Sports FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=166&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Sports 2 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Fox Sports 2 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=165&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Sports 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Fox Sports 2 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=164&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Sports 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Fox Sports 2 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=163&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Sports 2" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Fox Sports 2
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=162&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Sports" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Fox Sports
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=161&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Premium 2 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Fox Premium 2 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=160&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Premium 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Fox Premium 2 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=159&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Premium 1 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Fox Premium 1 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=158&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Premium 1 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Fox Premium 1 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=157&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Life HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Fox Life HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=156&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Life HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Fox Life HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=155&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Life FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento ", Fox Life FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=154&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox Life" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Fox Life
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=153&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Fox HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=152&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Fox HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=151&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Fox FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=150&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fox" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Fox
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=149&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Food Network HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Food Network HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=148&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Food Network HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Food Network HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=147&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Food Network FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Food Network FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=146&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Food Network" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Food Network
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=145&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fish TV HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Fish TV HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=144&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Fish TV" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Fish TV
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=143&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="FX HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", FX HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=142&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="FX HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", FX HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=141&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="FX FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", FX FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=140&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="FX" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", FX
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=139&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Esporte interativo 2 [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Esporte interativo 2 [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=138&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Esporte interativo 1 [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Esporte interativo 1 [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=137&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Esporte Interativo 2" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Esporte Interativo 2
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=136&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Esporte Interativo 1" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Esporte Interativo 1
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=135&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Espn HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Espn HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=134&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Espn HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Espn HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=133&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Espn FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Espn FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=132&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Espn Extra HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Espn Extra HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=131&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Espn Extra" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Espn Extra
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=130&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Espn Brasil HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Espn Brasil HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=129&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Espn Brasil HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Espn Brasil HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=128&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Espn Brasil FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Espn Brasil FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=127&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Erotic 7" tvg-logo="noimg.jpg" group-title="Live-Tv: Adulto ", Erotic 7
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=126&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ESPN Brasil" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", ESPN Brasil
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=125&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ESPN 2 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", ESPN 2 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=124&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ESPN 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", ESPN 2 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=123&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ESPN 2 FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", ESPN 2 FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=122&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ESPN 2" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", ESPN 2
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=121&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="ESPN" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", ESPN
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=120&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="E! HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", E! HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=119&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="E! HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", E! HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=118&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="E!" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", E!
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=117&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney XD HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney XD HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=116&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney XD HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney XD HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=115&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney XD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney XD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=114&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney JR HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney JR HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=113&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney JR HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney JR HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=112&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney JR FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney JR FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=111&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney JR" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney JR
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=110&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney Channel HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney Channel HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=109&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney Channel HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney Channel HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=108&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney Channel FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney Channel FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=107&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Disney Channel" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Disney Channel
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=106&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery World HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery World HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=105&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery World HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery World HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=104&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery World FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery World FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=103&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery World" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery World
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=102&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Turbo HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Turbo HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=101&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Turbo HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Turbo HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=100&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Turbo FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Turbo FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=99&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Turbo" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Turbo
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=98&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Theater HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Theater HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=97&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Theater HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Theater HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=96&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Theater FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Theater FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=95&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Theater" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Theater
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=94&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Science HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Science HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=93&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Science HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Science HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=92&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Science FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Science FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=91&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Science" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Science
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=90&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Kids HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Discovery Kids HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=89&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Kids HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Discovery Kids HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=88&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Kids FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Discovery Kids FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=87&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Kids" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Discovery Kids
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=86&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Home & Health HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Discovery Home & Health HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=85&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Home & Health HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Discovery Home & Health HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=84&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Home & Health FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Discovery Home & Health FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=83&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Home & Health" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Discovery Home & Health
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=82&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Civilization HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Civilization HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=81&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Civilization HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Civilization HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=80&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Civilization FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Civilization FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=79&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Channel HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Channel HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=78&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Channel HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Channel HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=77&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Channel FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Channel FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=76&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Discovery Channel" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Discovery Channel
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=75&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="DAZN 2 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", DAZN 2 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=74&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="DAZN 1 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", DAZN 1 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=73&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Curta! HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade e Musica ", Curta! HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=72&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Curta!" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Curta!
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=71&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cultura HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Cultura HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=70&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cultura" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Cultura
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=69&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Comedy Central HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade e Musica ", Comedy Central HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=68&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Comedy Central HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade e Musica ", Comedy Central HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=67&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Comedy Central FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento ", Comedy Central FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=66&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Comedy Central" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Comedy Central
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=65&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Combate HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Combate HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=64&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Combate HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Combate HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=63&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Combate FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Combate FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=62&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Combate" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Combate
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=61&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cinemax HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Cinemax HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=60&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cinemax HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Cinemax HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=59&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cinemax FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Cinemax FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=58&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cinemax" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Cinemax
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=57&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cartoon Network HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Cartoon Network HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=56&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cartoon Network HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Cartoon Network HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=55&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cartoon Network FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Cartoon Network FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=54&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cartoon Network" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Cartoon Network
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=53&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Cancao nova" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Cancao nova
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=52&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Canal Rural" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Canal Rural
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=51&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Canal Brasil HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Canal Brasil HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=50&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Canal Brasil HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Canal Brasil HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=49&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Canal Brasil" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", Canal Brasil
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=48&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="CNN International" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", CNN International
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=47&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Boomerang HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Boomerang HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=46&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Boomerang HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Boomerang HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=45&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Boomerang FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Boomerang FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=44&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Boomerang" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Boomerang
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=43&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band Sports HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Band Sports HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=42&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band Sports HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Band Sports HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=41&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band Sports FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Band Sports FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=40&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band Sports" tvg-logo="noimg.jpg" group-title="Live-Tv: Esporte ", Band Sports
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=39&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band Ribeirao Preto HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Band Ribeirao Preto HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=38&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band Nordeste HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Band Nordeste HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=37&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band News HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", Band News HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=36&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band News HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", Band News HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=35&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band News FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", Band News FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=34&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band News" tvg-logo="noimg.jpg" group-title="Live-Tv: Notícia ", Band News
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=33&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band Minas HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Band Minas HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=32&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Band HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=31&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Band HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=30&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band Campinas HD" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Band Campinas HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=29&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Band" tvg-logo="noimg.jpg" group-title="Live-Tv: TV Aberta ", Band
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=28&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Baby TV HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Baby TV HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=27&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Baby TV" tvg-logo="noimg.jpg" group-title="Live-Tv: Infantil ", Baby TV
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=26&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="BIS HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", BIS HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=25&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="BIS HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", BIS HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=24&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="BIS FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", BIS FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=23&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="BIS" tvg-logo="noimg.jpg" group-title="Live-Tv: Entretenimento e Musica ", BIS
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=22&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Arte 1 HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade e Musica ", Arte 1 HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=21&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Arte 1 HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade e Musica ", Arte 1 HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=20&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Arte 1" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", Arte 1
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=19&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Animal Planet HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Animal Planet HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=18&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Animal Planet HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Animal Planet HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=17&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Animal Planet FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Animal Planet FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=16&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="Animal Planet" tvg-logo="noimg.jpg" group-title="Live-Tv: Documentario ", Animal Planet
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=15&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="AXN HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", AXN HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=14&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="AXN HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", AXN HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=13&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="AXN FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", AXN FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=12&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="AXN" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", AXN
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=11&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="AMC HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", AMC HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=10&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="AMC HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", AMC HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=9&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="AMC FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", AMC FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=8&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="AMC" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", AMC
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=7&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="A&E HD [Alter]" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", A&E HD [Alter]
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=6&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="A&E HD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", A&E HD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=5&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="A&E FHD" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", A&E FHD
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=4&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="A&E" tvg-logo="noimg.jpg" group-title="Live-Tv: Filme e Serie ", A&E
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=3&line=fonte.m3u&user=cinehouse&pass=123456
+#EXTINF:-1 tvg-id="none" tvg-name="A Fazenda 11" tvg-logo="noimg.jpg" group-title="Live-Tv: Variedade ", A Fazenda 11
+http://iptv-cine-movie.ml/stream-live.php/video.m3u8?url=2&line=fonte.m3u&user=cinehouse&pass=123456
