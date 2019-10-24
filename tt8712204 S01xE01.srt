@@ -4,13 +4,11 @@
 
 2
 00:00:01,570 --> 00:00:03,544
-<b>Legenda:
-LarissaPereus | Josa | chereguedel</b>
+
 
 3
 00:00:03,545 --> 00:00:05,518
-<b>SilneiS | MaLorencini
-LuColorada | He2</b>
+
 
 4
 00:00:05,519 --> 00:00:07,409
@@ -19,13 +17,11 @@ LuColorada | He2</b>
 
 5
 00:00:07,410 --> 00:00:08,928
-<b>Revisão:
-Time Pink</b>
+
 
 6
 00:00:08,929 --> 00:00:10,430
-<b>UNITED
-Quality Is Everything</b>
+
 
 7
 00:00:11,276 --> 00:00:14,844
