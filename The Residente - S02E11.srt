@@ -1,46 +1,46 @@
 1
 00:00:00,900 --> 00:00:03,700
 <i>-Anteriormente...</i>
--Porque a válvula QuoVadis?
+-Porque a vÃ¡lvula QuoVadis?
 
 2
 00:00:03,701 --> 00:00:06,800
-É preciso um produto excelente
+Ã‰ preciso um produto excelente
 para me fazer mudar de ideia.
 
 3
 00:00:06,801 --> 00:00:09,700
 <i>O VNS funcionou perfeitamente.
-As convulsões já pararam.</i>
+As convulsÃµes jÃ¡ pararam.</i>
 
 4
 00:00:09,701 --> 00:00:11,900
-<i>-Bradley fará troca de válvula.</i>
--Saúde.
+<i>-Bradley farÃ¡ troca de vÃ¡lvula.</i>
+-SaÃºde.
 
 5
 00:00:11,901 --> 00:00:14,400
 O site diz que o Chastain
-só usa QuoVadis.
+sÃ³ usa QuoVadis.
 
 6
 00:00:14,401 --> 00:00:18,400
-Não pode tomar decisões surpresa
+NÃ£o pode tomar decisÃµes surpresa
 sobre nossos pacientes.
 
 7
 00:00:18,401 --> 00:00:21,400
--Quando segurar a válvula...
--Essa válvula é muito grande.
+-Quando segurar a vÃ¡lvula...
+-Essa vÃ¡lvula Ã© muito grande.
 
 8
 00:00:21,401 --> 00:00:22,900
-Está de cabeça para baixo,
+EstÃ¡ de cabeÃ§a para baixo,
 
 9
 00:00:22,901 --> 00:00:25,500
-<i>é o que a Julian
-está tentando dizer.</i>
+<i>Ã© o que a Julian
+estÃ¡ tentando dizer.</i>
 
 10
 00:00:25,501 --> 00:00:27,000
@@ -49,12 +49,12 @@ Ajudarei a diminuir a fila
 11
 00:00:27,001 --> 00:00:29,500
 <i>se me der dicas de como
-administrar nossa clínica.</i>
+administrar nossa clÃ­nica.</i>
 
 12
 00:00:29,501 --> 00:00:32,300
--Dr. Shaw, você começa amanhã.
--Eu começo agora.
+-Dr. Shaw, vocÃª comeÃ§a amanhÃ£.
+-Eu comeÃ§o agora.
 
 13
 00:00:32,301 --> 00:00:33,801
@@ -62,41 +62,41 @@ Estou indo.
 
 14
 00:00:43,000 --> 00:00:44,300
-Isso te salvará
-até amanhã.
+Isso te salvarÃ¡
+atÃ© amanhÃ£.
 
 15
 00:00:44,301 --> 00:00:46,400
 Ainda bem que o Chastain
-é aqui na frente.
+Ã© aqui na frente.
 
 16
 00:00:46,401 --> 00:00:48,400
-Não creio que os suprimentos
+NÃ£o creio que os suprimentos
 atrasaram.
 
 17
 00:00:48,401 --> 00:00:50,600
--Eu acredito. Como está seu pai?
+-Eu acredito. Como estÃ¡ seu pai?
 -Ranzinza.
 
 18
 00:00:50,601 --> 00:00:53,700
-O que acho ótimo, pois significa
-que ele está melhorando.
+O que acho Ã³timo, pois significa
+que ele estÃ¡ melhorando.
 
 19
 00:00:53,701 --> 00:00:55,500
-Então, veja esse lugar.
+EntÃ£o, veja esse lugar.
 
 20
 00:00:55,501 --> 00:00:57,700
-Irreconhecível.
-Está maravilhoso.
+IrreconhecÃ­vel.
+EstÃ¡ maravilhoso.
 
 21
 00:00:57,701 --> 00:01:01,500
-Pura força de vontade.
+Pura forÃ§a de vontade.
 Estamos esquecendo de algo?
 
 22
@@ -106,37 +106,37 @@ Onde eu pus a...
 
 23
 00:01:04,700 --> 00:01:06,300
-Aqui está.
+Aqui estÃ¡.
 
 24
 00:01:09,500 --> 00:01:12,400
-Sim, uma cerimônia
-de inauguração.
+Sim, uma cerimÃ´nia
+de inauguraÃ§Ã£o.
 
 25
 00:01:12,900 --> 00:01:15,300
 <i>Estamos aqui
-na grande inauguração</i>
+na grande inauguraÃ§Ã£o</i>
 
 26
 00:01:15,301 --> 00:01:18,200
-<i>da clínica comunitária
+<i>da clÃ­nica comunitÃ¡ria
 Chastain Park Memorial,</i>
 
 27
 00:01:18,201 --> 00:01:20,200
 <i>onde pacientes pobres
-ou sem convênio</i>
+ou sem convÃªnio</i>
 
 28
 00:01:20,201 --> 00:01:23,000
-<i>-recebem a ajuda necessária.</i>
--Então, estamos abertos.
+<i>-recebem a ajuda necessÃ¡ria.</i>
+-EntÃ£o, estamos abertos.
 
 29
 00:01:23,600 --> 00:01:25,500
-<i>Esta inauguração marca
-um novo começo</i>
+<i>Esta inauguraÃ§Ã£o marca
+um novo comeÃ§o</i>
 
 30
 00:01:25,501 --> 00:01:27,900
@@ -151,27 +151,27 @@ usava quimioterapia</i>
 32
 00:01:32,001 --> 00:01:34,000
 <i>em pacientes
-que não tinham câncer.</i>
+que nÃ£o tinham cÃ¢ncer.</i>
 
 33
 00:01:34,001 --> 00:01:36,800
-<i>Numa reviravolta dramática,
+<i>Numa reviravolta dramÃ¡tica,
 Hunter foi encontrada morta</i>
 
 34
 00:01:36,801 --> 00:01:39,900
 <i>num quarto de hotel em Atlanta,
-onde recebeu vários tiros.</i>
+onde recebeu vÃ¡rios tiros.</i>
 
 35
 00:01:39,901 --> 00:01:43,000
-<i>Esta manhã, os investigadores
+<i>Esta manhÃ£, os investigadores
 identificaram o suspeito</i>
 
 36
 00:01:43,001 --> 00:01:46,400
 <i>como Roger Stanley,
-irmão de uma ex-paciente...</i>
+irmÃ£o de uma ex-paciente...</i>
 
 37
 00:01:47,000 --> 00:01:49,300
@@ -180,13 +180,13 @@ por me ajudar, cara.
 
 38
 00:01:49,301 --> 00:01:51,200
-Juro que não sou daqueles
-que só liga
+Juro que nÃ£o sou daqueles
+que sÃ³ liga
 
 39
 00:01:51,201 --> 00:01:54,000
 -quando precisa de algo.
--É a sua grande apresentação.
+-Ã‰ a sua grande apresentaÃ§Ã£o.
 
 40
 00:01:54,001 --> 00:01:56,600
@@ -195,32 +195,32 @@ virar cliente da sua empresa,
 
 41
 00:01:56,601 --> 00:01:59,500
-você será o consultor top
-de <i>marketing</i> médico de Atlanta.
+vocÃª serÃ¡ o consultor top
+de <i>marketing</i> mÃ©dico de Atlanta.
 
 42
 00:01:59,501 --> 00:02:02,000
 Sim. Trabalhei muito
-para conseguir essa reunião
+para conseguir essa reuniÃ£o
 
 43
 00:02:02,001 --> 00:02:03,900
 desde a cirurgia.
-Não estragarei tudo.
+NÃ£o estragarei tudo.
 
 44
 00:02:03,901 --> 00:02:07,400
 Mesmo que a ideia de palestrar
-para o Bell me dê calafrios.
+para o Bell me dÃª calafrios.
 
 45
 00:02:07,800 --> 00:02:10,700
-Ouça, só seja você mesmo,
+OuÃ§a, sÃ³ seja vocÃª mesmo,
 certo?
 
 46
 00:02:11,200 --> 00:02:12,600
-Você é um vendedor nato.
+VocÃª Ã© um vendedor nato.
 
 47
 00:02:12,601 --> 00:02:14,600
@@ -230,16 +230,16 @@ Diga, por favor,
 48
 00:02:14,601 --> 00:02:17,300
 que pode consertar?
-Não será bom sem o <i>slideshow</i>.
+NÃ£o serÃ¡ bom sem o <i>slideshow</i>.
 
 49
 00:02:18,800 --> 00:02:20,900
-É só um cabo ruim.
+Ã‰ sÃ³ um cabo ruim.
 Tem um extra?
 
 50
 00:02:20,901 --> 00:02:22,700
-Por que alguém
+Por que alguÃ©m
 teria dois desses?
 
 51
@@ -249,15 +249,15 @@ Acontece que eu tenho.
 52
 00:02:24,701 --> 00:02:26,300
 -Espere.
--Sério?
+-SÃ©rio?
 
 53
 00:02:26,301 --> 00:02:28,600
-Você arrasa, eu não.
+VocÃª arrasa, eu nÃ£o.
 
 54
 00:02:28,601 --> 00:02:31,500
-Certo, hoje à noite
+Certo, hoje Ã  noite
 a gente vai sair.
 
 55
@@ -272,7 +272,7 @@ que nisso eu sou o melhor.
 
 57
 00:02:37,801 --> 00:02:40,500
-Não vou aceitar não
+NÃ£o vou aceitar nÃ£o
 como resposta, cara.
 
 58
@@ -282,8 +282,8 @@ nunca.
 
 59
 00:02:43,701 --> 00:02:45,600
--Isso é essencial.
--Egoísta, viu?
+-Isso Ã© essencial.
+-EgoÃ­sta, viu?
 
 60
 00:02:45,601 --> 00:02:48,000
@@ -297,7 +297,7 @@ preciso ir.
 
 62
 00:02:49,601 --> 00:02:51,000
-Apareça na hora que der.
+ApareÃ§a na hora que der.
 
 63
 00:02:51,001 --> 00:02:53,500
@@ -320,7 +320,7 @@ Eu quero esse terno.
 67
 00:03:05,300 --> 00:03:07,900
 Pague US$ 5 mil ao meu alfaiate
-em Londres e terá um.
+em Londres e terÃ¡ um.
 
 68
 00:03:07,901 --> 00:03:09,201
@@ -328,12 +328,12 @@ Aceito.
 
 69
 00:03:12,100 --> 00:03:14,000
-Reuniões com empresas
+ReuniÃµes com empresas
 de <i>marketing.</i>
 
 70
 00:03:14,001 --> 00:03:15,301
-Isso será interessante.
+Isso serÃ¡ interessante.
 
 71
 00:03:15,302 --> 00:03:17,500
@@ -342,8 +342,8 @@ uma campanha vencedora
 
 72
 00:03:17,501 --> 00:03:20,200
-que enaltecerá o nome QuoVadis
-e só precisaremos de...
+que enaltecerÃ¡ o nome QuoVadis
+e sÃ³ precisaremos de...
 
 73
 00:03:20,201 --> 00:03:22,500
@@ -353,22 +353,22 @@ para esconder o dinheiro.
 74
 00:03:25,500 --> 00:03:28,000
 O novo site da QuoVadis
-não é só propaganda.
+nÃ£o Ã© sÃ³ propaganda.
 
 75
 00:03:28,001 --> 00:03:30,300
-É um mundo interativo
-construído para atrair
+Ã‰ um mundo interativo
+construÃ­do para atrair
 
 76
 00:03:30,301 --> 00:03:32,300
 os que precisam
-de dispositivos médicos.
+de dispositivos mÃ©dicos.
 
 77
 00:03:32,301 --> 00:03:34,600
-Com uma combinação
-de informações técnicas
+Com uma combinaÃ§Ã£o
+de informaÃ§Ãµes tÃ©cnicas
 
 78
 00:03:35,700 --> 00:03:39,000
@@ -378,7 +378,7 @@ de pacientes QuoVadis reais.
 79
 00:03:39,400 --> 00:03:42,500
 Uma visita ao site da empresa,
-e futuros clientes pedirão
+e futuros clientes pedirÃ£o
 
 80
 00:03:42,501 --> 00:03:45,200
@@ -392,32 +392,32 @@ e <i>marketing,</i>
 
 82
 00:03:48,900 --> 00:03:52,300
-nossos anúncios e materiais
-educativos dominarão...
+nossos anÃºncios e materiais
+educativos dominarÃ£o...
 
 83
 00:03:53,200 --> 00:03:55,600
 com um grande impulso
-das mídias sociais.
+das mÃ­dias sociais.
 
 84
 00:03:56,700 --> 00:04:00,100
-Minha única pergunta.
-Quando estará disponível?
+Minha Ãºnica pergunta.
+Quando estarÃ¡ disponÃ­vel?
 
 85
 00:04:01,200 --> 00:04:05,400
 Desculpe, eu. Eu...
-não estou me sentindo bem.
+nÃ£o estou me sentindo bem.
 
 86
 00:04:07,500 --> 00:04:09,000
-Ligue para a emergência.
+Ligue para a emergÃªncia.
 
 87
 00:04:11,700 --> 00:04:14,400
 -Sem pulso.
-<i>-Sim, temos uma emergência.</i>
+<i>-Sim, temos uma emergÃªncia.</i>
 
 88
 00:04:15,100 --> 00:04:16,500
@@ -425,21 +425,21 @@ Vamos.
 
 89
 00:04:16,501 --> 00:04:18,200
-<i>No prédio da QuoVadis.</i>
+<i>No prÃ©dio da QuoVadis.</i>
 
 90
 00:04:29,800 --> 00:04:32,200
--Dr. Bell, por que está aí?
--É o Bradley.
+-Dr. Bell, por que estÃ¡ aÃ­?
+-Ã‰ o Bradley.
 
 91
 00:04:37,800 --> 00:04:40,300
 Homem, 32 anos,
-parada cardíaca.
+parada cardÃ­aca.
 
 92
 00:04:40,301 --> 00:04:43,500
-Histórico de troca de válvula
+HistÃ³rico de troca de vÃ¡lvula
 e hipertrofia ventricular.
 
 93
@@ -449,7 +449,7 @@ mas parou de novo.
 
 94
 00:04:45,301 --> 00:04:48,700
--Última epi há 2 minutos.
+-Ãšltima epi hÃ¡ 2 minutos.
 -Certo. Outro acesso calibroso.
 
 95
@@ -462,7 +462,7 @@ Vamos.
 
 97
 00:05:06,501 --> 00:05:09,200
-Ainda em assístole.
+Ainda em assÃ­stole.
 20 minutos desde que teve pulso.
 
 98
@@ -480,7 +480,7 @@ Checando pulso e ritmo.
 101
 00:05:27,500 --> 00:05:30,800
 -Outra dose de bicarbonato.
--É o Bradley!
+-Ã‰ o Bradley!
 
 102
 00:05:31,800 --> 00:05:33,300
@@ -497,7 +497,7 @@ Vamos! Vamos!
 
 105
 00:05:40,400 --> 00:05:41,700
-Rápido!
+RÃ¡pido!
 
 106
 00:05:50,100 --> 00:05:51,400
@@ -510,17 +510,17 @@ Checando pulso e ritmo.
 
 108
 00:06:06,400 --> 00:06:07,900
-Vamos lá...
+Vamos lÃ¡...
 
 109
 00:06:11,200 --> 00:06:14,200
--Há quanto tempo está assim?
+-HÃ¡ quanto tempo estÃ¡ assim?
 -30 minutos.
 
 110
 00:06:16,700 --> 00:06:18,800
 Preciso
-de um ultrassom portátil.
+de um ultrassom portÃ¡til.
 
 111
 00:06:18,801 --> 00:06:20,101
@@ -528,7 +528,7 @@ Vamos!
 
 112
 00:06:22,100 --> 00:06:23,400
-Vamos lá.
+Vamos lÃ¡.
 
 113
 00:06:24,000 --> 00:06:25,400
@@ -536,11 +536,11 @@ Vamos!
 
 114
 00:06:34,700 --> 00:06:36,500
-Pare as compressões.
+Pare as compressÃµes.
 
 115
 00:06:52,500 --> 00:06:55,400
-Não há atividade cardíaca.
+NÃ£o hÃ¡ atividade cardÃ­aca.
 
 116
 00:07:28,450 --> 00:07:31,450
@@ -600,21 +600,21 @@ Lynne</b>
 127
 00:08:03,600 --> 00:08:05,500
 Resultados preliminares
-da autópsia.
+da autÃ³psia.
 
 128
 00:08:05,501 --> 00:08:07,900
-Só preciso preencher
-o atestado de óbito.
+SÃ³ preciso preencher
+o atestado de Ã³bito.
 
 129
 00:08:12,600 --> 00:08:14,100
-Não faça nada ainda.
+NÃ£o faÃ§a nada ainda.
 
 130
 00:08:14,101 --> 00:08:17,100
-Só quero certificar
-que essa conclusão é garantida.
+SÃ³ quero certificar
+que essa conclusÃ£o Ã© garantida.
 
 131
 00:08:18,300 --> 00:08:19,600
@@ -622,7 +622,7 @@ Tudo bem.
 
 132
 00:08:23,200 --> 00:08:24,900
-<i>As válvulas não falharam.</i>
+<i>As vÃ¡lvulas nÃ£o falharam.</i>
 
 133
 00:08:25,600 --> 00:08:27,400
@@ -631,49 +631,49 @@ Sem chance.
 134
 00:08:27,401 --> 00:08:30,500
 Foi implantada centenas de vezes
-ano passado sem complicações.
+ano passado sem complicaÃ§Ãµes.
 
 135
 00:08:30,501 --> 00:08:32,201
-Está dizendo
+EstÃ¡ dizendo
 que nenhum paciente...
 
 136
 00:08:32,202 --> 00:08:34,400
-Pessoas com corações ruins
-têm problemas.
+Pessoas com coraÃ§Ãµes ruins
+tÃªm problemas.
 
 137
 00:08:34,401 --> 00:08:36,300
 Nenhum deles causados
-pela válvula.
+pela vÃ¡lvula.
 
 138
 00:08:36,301 --> 00:08:37,900
-Veja. Isso é...
+Veja. Isso Ã©...
 
 139
 00:08:37,901 --> 00:08:40,000
 Digo,
-é prova irrefutável.
+Ã© prova irrefutÃ¡vel.
 
 140
 00:08:40,001 --> 00:08:42,800
-O suporte na válvula...
+O suporte na vÃ¡lvula...
 
 141
 00:08:44,300 --> 00:08:45,700
-está destruído.
+estÃ¡ destruÃ­do.
 
 142
 00:08:45,701 --> 00:08:48,200
-Você tem que se perguntar
-por que está destruído.
+VocÃª tem que se perguntar
+por que estÃ¡ destruÃ­do.
 
 143
 00:08:48,201 --> 00:08:51,000
-Está apenas supondo
-que foi um erro de fabricação
+EstÃ¡ apenas supondo
+que foi um erro de fabricaÃ§Ã£o
 
 144
 00:08:51,001 --> 00:08:55,000
@@ -682,8 +682,8 @@ na cirurgia pelo dr. Austin.
 
 145
 00:08:56,100 --> 00:09:00,300
-Está dizendo que meu cirurgião
-quebrou a válvula na SO?
+EstÃ¡ dizendo que meu cirurgiÃ£o
+quebrou a vÃ¡lvula na SO?
 
 146
 00:09:00,701 --> 00:09:02,200
@@ -700,15 +700,15 @@ de Bradley Jenkins...
 
 149
 00:09:09,000 --> 00:09:11,100
-é erro do cirurgião.
+Ã© erro do cirurgiÃ£o.
 
 150
 00:09:15,600 --> 00:09:17,700
-Não parece real.
+NÃ£o parece real.
 
 151
 00:09:19,000 --> 00:09:21,700
-Bradley parecia estar tão bem
+Bradley parecia estar tÃ£o bem
 depois da cirurgia dele.
 
 152
@@ -718,21 +718,21 @@ Ele estava... feliz.
 153
 00:09:25,101 --> 00:09:28,800
 Mortalidade precoce por troca
-de válvula tem muitas causas.
+de vÃ¡lvula tem muitas causas.
 
 154
 00:09:28,801 --> 00:09:31,000
-Embolia, insuficiência cardíaca
+Embolia, insuficiÃªncia cardÃ­aca
 congestiva.
 
 155
 00:09:31,001 --> 00:09:33,500
-Uma válvula cardíaca
+Uma vÃ¡lvula cardÃ­aca
 com defeito.
 
 156
 00:09:34,300 --> 00:09:37,400
-Acha que a válvula que o Raptor
+Acha que a vÃ¡lvula que o Raptor
 implantou teria matado Bradley?
 
 157
@@ -741,8 +741,8 @@ Talvez.
 
 158
 00:09:38,702 --> 00:09:41,200
-Apresentarão a autópsia dele
-no M&M dessa manhã.
+ApresentarÃ£o a autÃ³psia dele
+no M&M dessa manhÃ£.
 
 159
 00:09:41,201 --> 00:09:43,100
@@ -751,11 +751,11 @@ Teremos respostas depois.
 160
 00:09:43,800 --> 00:09:48,400
 O caso do sr. Greenspan
-é um infeliz exemplo
+Ã© um infeliz exemplo
 
 161
 00:09:48,401 --> 00:09:51,400
-da importância
+da importÃ¢ncia
 da rotulagem clara.
 
 162
@@ -766,12 +766,12 @@ recebeu 25mg
 163
 00:09:55,001 --> 00:09:58,100
 <i>-de Olanzapina em vez de 2.5...</i>
--Como você está?
+-Como vocÃª estÃ¡?
 
 164
 00:09:58,101 --> 00:10:01,000
 -Um pouco nervoso.
--Você e todo mundo.
+-VocÃª e todo mundo.
 
 165
 00:10:01,001 --> 00:10:02,823
@@ -780,21 +780,21 @@ para prevenir...</i>
 
 166
 00:10:02,824 --> 00:10:04,124
-Como está a clínica?
+Como estÃ¡ a clÃ­nica?
 
 167
 00:10:04,524 --> 00:10:07,682
 Atendemos mais de 60 pacientes,
-e é apenas o 3º dia.
+e Ã© apenas o 3Âº dia.
 
 168
 00:10:07,683 --> 00:10:10,993
 <i>Podemos prevenir
-erros de rótulos.</i>
+erros de rÃ³tulos.</i>
 
 169
 00:10:10,994 --> 00:10:13,179
-A seguir, nós temos...
+A seguir, nÃ³s temos...
 
 170
 00:10:13,180 --> 00:10:15,199
@@ -803,7 +803,7 @@ o caso Jenkins.
 171
 00:10:15,880 --> 00:10:19,597
 O caso Jenkins
-não será apresentado hoje.
+nÃ£o serÃ¡ apresentado hoje.
 
 172
 00:10:19,598 --> 00:10:21,566
@@ -816,7 +816,7 @@ Obrigado.
 
 174
 00:10:24,616 --> 00:10:26,416
-Ele está tramando algo.
+Ele estÃ¡ tramando algo.
 
 175
 00:10:26,417 --> 00:10:27,717
@@ -832,16 +832,16 @@ Claramente.
 
 178
 00:10:40,469 --> 00:10:42,269
-Está me vigiando?
+EstÃ¡ me vigiando?
 
 179
 00:10:42,270 --> 00:10:45,095
-Não. Quando meu pai
+NÃ£o. Quando meu pai
 ainda estava em estado delicado,
 
 180
 00:10:45,096 --> 00:10:46,937
-você me deu um caso
+vocÃª me deu um caso
 para resolver.
 
 181
@@ -850,7 +850,7 @@ Estou retribuindo o favor.
 
 182
 00:10:48,445 --> 00:10:52,030
--Estou bem. Não preciso...
+-Estou bem. NÃ£o preciso...
 -Pode agradecer depois.
 
 183
@@ -861,7 +861,7 @@ Sou o dr. Pravesh.
 184
 00:11:02,213 --> 00:11:04,349
 Fico feliz
-por alguém ter um bom dia.
+por alguÃ©m ter um bom dia.
 
 185
 00:11:04,749 --> 00:11:07,616
@@ -879,7 +879,7 @@ E claro, meu casamento.
 188
 00:11:11,733 --> 00:11:14,419
 Bem, isso
-é o que chamo de dor forte.
+Ã© o que chamo de dor forte.
 
 189
 00:11:14,420 --> 00:11:16,542
@@ -892,8 +892,8 @@ Estamos no mesmo barco.
 
 191
 00:11:18,337 --> 00:11:21,823
--Quando começou essa dor?
--Cerca de 6 horas atrás.
+-Quando comeÃ§ou essa dor?
+-Cerca de 6 horas atrÃ¡s.
 
 192
 00:11:22,438 --> 00:11:25,338
@@ -906,7 +906,7 @@ Amadora.
 
 194
 00:11:26,742 --> 00:11:29,369
--Não cheguei no corredor.
+-NÃ£o cheguei no corredor.
 -Vamos ver...
 
 195
@@ -921,21 +921,21 @@ tentado consertar as coisas.
 
 197
 00:11:34,680 --> 00:11:37,155
-Tive uma gravidez ectópica,
-meu ovário direito...
+Tive uma gravidez ectÃ³pica,
+meu ovÃ¡rio direito...
 
 198
 00:11:37,156 --> 00:11:38,627
-já era.
+jÃ¡ era.
 
 199
 00:11:39,040 --> 00:11:41,388
-Quando fiquei grávida
+Quando fiquei grÃ¡vida
 novamente,
 
 200
 00:11:41,389 --> 00:11:43,982
-tive problemas na cesárea.
+tive problemas na cesÃ¡rea.
 
 201
 00:11:44,640 --> 00:11:47,817
@@ -948,18 +948,18 @@ Sinto muito por sua perda.
 
 203
 00:11:52,144 --> 00:11:54,584
-A dor começou
-logo após isso.
+A dor comeÃ§ou
+logo apÃ³s isso.
 
 204
 00:11:54,585 --> 00:11:56,722
-E também começaram
+E tambÃ©m comeÃ§aram
 os problemas conjugais.
 
 205
 00:11:56,723 --> 00:11:59,067
--Passou em algum médico?
--Vários.
+-Passou em algum mÃ©dico?
+-VÃ¡rios.
 
 206
 00:11:59,707 --> 00:12:01,852
@@ -967,26 +967,26 @@ Nenhum deles me escutava.
 
 207
 00:12:02,252 --> 00:12:04,693
-Preciso de um médico
+Preciso de um mÃ©dico
 que acredite em mim.
 
 208
 00:12:06,494 --> 00:12:08,194
-Acredito em você.
+Acredito em vocÃª.
 
 209
 00:12:08,876 --> 00:12:10,845
 E descobrirei
-o que está acontecendo
+o que estÃ¡ acontecendo
 
 210
 00:12:15,575 --> 00:12:17,175
-Floyd, como está?
+Floyd, como estÃ¡?
 
 211
 00:12:17,176 --> 00:12:20,216
-O sol está brilhando,
-está um lindo dia.
+O sol estÃ¡ brilhando,
+estÃ¡ um lindo dia.
 
 212
 00:12:20,217 --> 00:12:21,684
@@ -994,26 +994,26 @@ Estou me sentindo bem.
 
 213
 00:12:25,392 --> 00:12:27,192
-Isso não parece nada bom.
+Isso nÃ£o parece nada bom.
 
 214
 00:12:27,593 --> 00:12:29,861
 Dr. Shaw,
-conheça Floyd Washington.
+conheÃ§a Floyd Washington.
 
 215
 00:12:29,862 --> 00:12:32,181
 Carteiro aposentado,
-veterano do Vietnã
+veterano do VietnÃ£
 
 216
 00:12:32,182 --> 00:12:35,141
--e um avô incrível.
+-e um avÃ´ incrÃ­vel.
 -Como vai, doutor?
 
 217
 00:12:35,142 --> 00:12:36,856
-Prazer em conhecê-lo,
+Prazer em conhecÃª-lo,
 Floyd.
 
 218
@@ -1022,13 +1022,13 @@ Qual seu nome, garota?
 
 219
 00:12:39,691 --> 00:12:42,527
-Não ligue para a Aubrey.
-Ela odeia atenção.
+NÃ£o ligue para a Aubrey.
+Ela odeia atenÃ§Ã£o.
 
 220
 00:12:42,528 --> 00:12:45,728
 Mesmo o cabelo e os piercings
-dizendo o contrário.
+dizendo o contrÃ¡rio.
 
 221
 00:12:45,729 --> 00:12:47,641
@@ -1041,12 +1041,12 @@ Respire fundo.
 
 223
 00:12:52,704 --> 00:12:55,202
-Se não for anime
+Se nÃ£o for anime
 
 224
 00:12:55,203 --> 00:12:58,983
 ou tatuagens
-ou biologia avançada,
+ou biologia avanÃ§ada,
 
 225
 00:12:58,984 --> 00:13:01,333
@@ -1060,7 +1060,7 @@ sente alguma dor na perna?
 
 227
 00:13:06,042 --> 00:13:08,489
-Não, não, apenas a tosse.
+NÃ£o, nÃ£o, apenas a tosse.
 
 228
 00:13:11,118 --> 00:13:13,185
@@ -1088,7 +1088,7 @@ quando Aubrey se mudou.
 233
 00:13:22,818 --> 00:13:26,292
 -Fumo passivo pode matar.
--Já o ativo não?
+-JÃ¡ o ativo nÃ£o?
 
 234
 00:13:27,521 --> 00:13:30,826
@@ -1102,7 +1102,7 @@ minha neta consegue falar.
 236
 00:13:33,436 --> 00:13:35,482
 Certo,
-mas depois do raio-x torácico.
+mas depois do raio-x torÃ¡cico.
 
 237
 00:13:35,483 --> 00:13:36,783
@@ -1123,11 +1123,11 @@ conselheiro geral do Chastain.
 
 241
 00:13:47,200 --> 00:13:48,500
-Prazer conhecê-lo.
+Prazer conhecÃª-lo.
 
 242
 00:13:48,900 --> 00:13:52,400
-A família Jenkins quer processar
+A famÃ­lia Jenkins quer processar
 devido a morte do filho.
 
 243
@@ -1137,13 +1137,13 @@ devido a morte do filho.
 
 244
 00:13:55,345 --> 00:13:58,599
--não foi determinada.
--Não. Não oficialmente, mas...
+-nÃ£o foi determinada.
+-NÃ£o. NÃ£o oficialmente, mas...
 
 245
 00:13:58,600 --> 00:14:01,000
 Ela acredita
-que a válvula cardíaca estourou.
+que a vÃ¡lvula cardÃ­aca estourou.
 
 246
 00:14:01,001 --> 00:14:03,873
@@ -1153,22 +1153,22 @@ seria "porque" isso ocorreu.
 247
 00:14:03,874 --> 00:14:05,624
 O conselho
-não aprovará a narrativa.
+nÃ£o aprovarÃ¡ a narrativa.
 
 248
 00:14:05,625 --> 00:14:08,940
-Coloca em risco o cirurgião,
-deixa o Chastain vulnerável.
+Coloca em risco o cirurgiÃ£o,
+deixa o Chastain vulnerÃ¡vel.
 
 249
 00:14:08,941 --> 00:14:11,043
-Devemos evitar erros médicos
+Devemos evitar erros mÃ©dicos
 a todo custo
 
 250
 00:14:11,044 --> 00:14:13,829
 e seu trabalho
-é fazer isso acontecer.
+Ã© fazer isso acontecer.
 
 251
 00:14:13,830 --> 00:14:15,130
@@ -1176,7 +1176,7 @@ Depressa.
 
 252
 00:14:15,131 --> 00:14:16,631
-Faça
+FaÃ§a
 o que tiver que fazer.
 
 253
@@ -1185,13 +1185,13 @@ Claro.
 
 254
 00:14:26,036 --> 00:14:29,054
--Qual o resultado da autópsia?
+-Qual o resultado da autÃ³psia?
 -Bradley era nosso amigo.
 
 255
 00:14:29,055 --> 00:14:32,148
 -Precisamos saber o que houve.
--Sei o quão importante ele era
+-Sei o quÃ£o importante ele era
 
 256
 00:14:32,149 --> 00:14:34,463
@@ -1201,21 +1201,21 @@ Claro.
 257
 00:14:34,464 --> 00:14:37,164
 Estamos conduzindo
-uma investigação para descobrir.
+uma investigaÃ§Ã£o para descobrir.
 
 258
 00:14:37,165 --> 00:14:39,715
-Estava lá quando ele morreu.
+Estava lÃ¡ quando ele morreu.
 Eu deveria fazer parte.
 
 259
 00:14:39,716 --> 00:14:42,001
 Auxiliei o dr. Austin
-na cirurgia de válvula.
+na cirurgia de vÃ¡lvula.
 
 260
 00:14:42,002 --> 00:14:44,773
-A investigação
+A investigaÃ§Ã£o
 deveria ser transparente.
 
 261
@@ -1229,7 +1229,7 @@ proteger o dr. Austin.
 
 263
 00:14:50,938 --> 00:14:54,241
-Está dizendo que Bradley morreu
+EstÃ¡ dizendo que Bradley morreu
 porque o dr. Austin
 
 264
@@ -1239,7 +1239,7 @@ porque o dr. Austin
 
 265
 00:14:56,843 --> 00:14:59,213
-que se não quiserem
+que se nÃ£o quiserem
 arruinar a carreira dele,
 
 266
@@ -1249,18 +1249,18 @@ e me deixem fazer meu trabalho.
 
 267
 00:15:13,600 --> 00:15:15,500
-Há alguma possibilidade
+HÃ¡ alguma possibilidade
 do Raptor...
 
 268
 00:15:15,501 --> 00:15:16,801
--Não.
--Não.
+-NÃ£o.
+-NÃ£o.
 
 269
 00:15:16,802 --> 00:15:18,900
 -Todos podem cometer erros.
--Não assim.
+-NÃ£o assim.
 
 270
 00:15:18,901 --> 00:15:21,700
@@ -1269,34 +1269,34 @@ para ele preparar a defesa.
 
 271
 00:15:21,701 --> 00:15:23,200
-Ele não ficará contente.
+Ele nÃ£o ficarÃ¡ contente.
 
 272
 00:15:23,201 --> 00:15:25,701
-Vejo vocês depois,
+Vejo vocÃªs depois,
 tenho consulta com a Marisol.
 
 273
 00:15:25,702 --> 00:15:27,100
-Não confio no Bell.
+NÃ£o confio no Bell.
 
 274
 00:15:27,101 --> 00:15:29,800
-Não importa o que diz,
-protegerá Chastain, não Austin.
+NÃ£o importa o que diz,
+protegerÃ¡ Chastain, nÃ£o Austin.
 
 275
 00:15:29,801 --> 00:15:33,400
-Acho que a válvula QuoVadis era
-ruim, então resolveram culpá-lo.
+Acho que a vÃ¡lvula QuoVadis era
+ruim, entÃ£o resolveram culpÃ¡-lo.
 
 276
 00:15:34,400 --> 00:15:36,300
-Está me dizendo...
+EstÃ¡ me dizendo...
 
 277
 00:15:36,301 --> 00:15:39,600
-Bell acha que essas mãos mataram
+Bell acha que essas mÃ£os mataram
 Bradley Jenkins?
 
 278
@@ -1324,43 +1324,43 @@ um culpado.
 
 283
 00:16:14,201 --> 00:16:16,700
-Então, obtive uma cópia
-do relatório de autópsia
+EntÃ£o, obtive uma cÃ³pia
+do relatÃ³rio de autÃ³psia
 
 284
 00:16:16,701 --> 00:16:19,400
-que claramente expõe
-que sua válvula,
+que claramente expÃµe
+que sua vÃ¡lvula,
 
 285
 00:16:19,401 --> 00:16:21,700
 a qual Chastain
-forçou-me a usar na SO,
+forÃ§ou-me a usar na SO,
 
 286
 00:16:21,701 --> 00:16:24,400
-devido ao seu negócio
+devido ao seu negÃ³cio
 paralelo, falhou.
 
 287
 00:16:24,401 --> 00:16:26,800
-Por que você a inseriu
+Por que vocÃª a inseriu
 de forma errada.
 
 288
 00:16:26,801 --> 00:16:28,700
-Muito pelo contrário,
-Satanás.
+Muito pelo contrÃ¡rio,
+SatanÃ¡s.
 
 289
 00:16:29,100 --> 00:16:30,700
-Você deve
+VocÃª deve
 ser o dr. Austin.
 
 290
 00:16:30,701 --> 00:16:33,900
--Sua arrogância o precede.
--Isso não foi culpa minha, cara.
+-Sua arrogÃ¢ncia o precede.
+-Isso nÃ£o foi culpa minha, cara.
 
 291
 00:16:34,300 --> 00:16:36,200
@@ -1369,33 +1369,33 @@ defeituoso,
 
 292
 00:16:36,201 --> 00:16:38,500
-que não deveria
+que nÃ£o deveria
 ser usado no Chastain.
 
 293
 00:16:38,501 --> 00:16:40,800
 Seu mentor, Abe Benedict,
-ama nossas válvulas
+ama nossas vÃ¡lvulas
 
 294
 00:16:40,801 --> 00:16:42,700
 e todos os pacientes
-dele estão vivos.
+dele estÃ£o vivos.
 
 295
 00:16:42,701 --> 00:16:44,900
-É mesmo? Prove,
-mostre-me as estatísticas.
+Ã‰ mesmo? Prove,
+mostre-me as estatÃ­sticas.
 
 296
 00:16:45,500 --> 00:16:49,600
-Suponho que ninguém acompanha
+Suponho que ninguÃ©m acompanha
 resultados a longo prazo.
 
 297
 00:16:49,601 --> 00:16:52,800
 Meus dispositivos,
-cada um deles, são como arte.
+cada um deles, sÃ£o como arte.
 
 298
 00:16:52,801 --> 00:16:55,200
@@ -1414,12 +1414,12 @@ com respeito.
 
 301
 00:16:58,901 --> 00:17:02,400
-Respeitou minha válvula
+Respeitou minha vÃ¡lvula
 durante o implante, dr. Austin?
 
 302
 00:17:02,401 --> 00:17:04,500
-Revisei minhas anotações
+Revisei minhas anotaÃ§Ãµes
 sobre a cirurgia.
 
 303
@@ -1429,18 +1429,18 @@ ocorreu sem incidentes.
 
 304
 00:17:08,500 --> 00:17:11,900
-Creio que suas anotações
+Creio que suas anotaÃ§Ãµes
 omitiram detalhes importantes.
 
 305
 00:17:11,901 --> 00:17:14,800
-Impossível, sou um defensor
-da transparência em tudo,
+ImpossÃ­vel, sou um defensor
+da transparÃªncia em tudo,
 
 306
 00:17:14,801 --> 00:17:16,500
 especialmente
-nos meus relatórios.
+nos meus relatÃ³rios.
 
 307
 00:17:16,501 --> 00:17:18,400
@@ -1454,22 +1454,22 @@ e documentou tudo.
 
 309
 00:17:20,801 --> 00:17:23,700
-As anotações dela contam
-uma história diferente.
+As anotaÃ§Ãµes dela contam
+uma histÃ³ria diferente.
 
 310
 00:17:23,701 --> 00:17:27,300
 Contam que tentou implantar
-o dispositivo ao contrário.
+o dispositivo ao contrÃ¡rio.
 
 311
 00:17:29,400 --> 00:17:31,900
 Desculpe-me, AJ,
-é o que o relatório diz.
+Ã© o que o relatÃ³rio diz.
 
 312
 00:17:34,400 --> 00:17:36,200
-Eu manuseei ao contrário,
+Eu manuseei ao contrÃ¡rio,
 
 313
 00:17:36,201 --> 00:17:39,200
@@ -1478,35 +1478,35 @@ corretamente em seguida.
 
 314
 00:17:39,201 --> 00:17:41,200
--Não foi nada de mais...
+-NÃ£o foi nada de mais...
 -Pare de falar.
 
 315
 00:17:41,201 --> 00:17:42,900
-Então,
-está admitindo o erro.
+EntÃ£o,
+estÃ¡ admitindo o erro.
 
 316
 00:17:43,300 --> 00:17:45,000
-Não estou.
+NÃ£o estou.
 
 317
 00:17:50,200 --> 00:17:51,900
-Isso ainda não acabou.
+Isso ainda nÃ£o acabou.
 
 318
 00:17:56,100 --> 00:17:58,900
 Falei com as enfermeiras,
-aparentemente ele é um terror.
+aparentemente ele Ã© um terror.
 
 319
 00:17:58,901 --> 00:18:00,500
-Isso será fácil.
+Isso serÃ¡ fÃ¡cil.
 
 320
 00:18:01,000 --> 00:18:05,600
-AJ Austin é praticamente
-um mágico na sala de operações
+AJ Austin Ã© praticamente
+um mÃ¡gico na sala de operaÃ§Ãµes
 
 321
 00:18:05,601 --> 00:18:07,100
@@ -1515,12 +1515,12 @@ de cirurgia,
 
 322
 00:18:07,101 --> 00:18:09,500
-ele seria o médico
+ele seria o mÃ©dico
 que eu solicitaria.
 
 323
 00:18:09,501 --> 00:18:13,300
-Então, antes de sujar o nome
+EntÃ£o, antes de sujar o nome
 desse homem, olhe bem
 
 324
@@ -1530,7 +1530,7 @@ que foram salvas por ele.
 
 325
 00:18:17,700 --> 00:18:19,900
-Parece que está torcendo
+Parece que estÃ¡ torcendo
 para o time errado.
 
 326
@@ -1539,22 +1539,22 @@ Sou seu parceiro.
 
 327
 00:18:21,701 --> 00:18:24,300
-Também sou o CEO
+TambÃ©m sou o CEO
 desse hospital
 
 328
 00:18:24,301 --> 00:18:27,900
 e minha diretoria
-não quer ser culpada
+nÃ£o quer ser culpada
 
 329
 00:18:27,901 --> 00:18:29,201
-tanto quanto você
-não quer.
+tanto quanto vocÃª
+nÃ£o quer.
 
 330
 00:18:29,202 --> 00:18:31,800
-Você tem o poder
+VocÃª tem o poder
 de influenciar a diretoria.
 
 331
@@ -1572,7 +1572,7 @@ de um de seus empregados...
 
 334
 00:18:41,900 --> 00:18:44,200
-não será o suficiente.
+nÃ£o serÃ¡ o suficiente.
 
 335
 00:18:44,201 --> 00:18:47,500
@@ -1581,7 +1581,7 @@ Julian e Austin
 
 336
 00:18:47,501 --> 00:18:49,500
-não eram os únicos
+nÃ£o eram os Ãºnicos
 naquela sala.
 
 337
@@ -1590,12 +1590,12 @@ Seremos meticulosos.
 
 338
 00:18:55,900 --> 00:18:58,400
-Ótimo,
-boas notícias Floyd.
+Ã“timo,
+boas notÃ­cias Floyd.
 
 339
 00:18:58,401 --> 00:19:02,200
-Os pulmões estão bem, mas Nevin
+Os pulmÃµes estÃ£o bem, mas Nevin
 e eu olharemos sua perna.
 
 340
@@ -1605,12 +1605,12 @@ apenas pela tosse.
 
 341
 00:19:04,301 --> 00:19:06,600
-Não significa que não olharemos
+NÃ£o significa que nÃ£o olharemos
 seu tornozelo.
 
 342
 00:19:07,000 --> 00:19:08,800
-Vô.
+VÃ´.
 
 343
 00:19:12,400 --> 00:19:14,800
@@ -1619,18 +1619,18 @@ o que temos aqui.
 
 344
 00:19:21,200 --> 00:19:23,600
-O que está errado
-com meu vô?
+O que estÃ¡ errado
+com meu vÃ´?
 
 345
 00:19:24,600 --> 00:19:28,300
 Faremos alguns exames, mas creio
-que após anos de tabagismo
+que apÃ³s anos de tabagismo
 
 346
 00:19:28,301 --> 00:19:30,700
 ele tem a chamada
-doença vascular periférica.
+doenÃ§a vascular perifÃ©rica.
 
 347
 00:19:30,701 --> 00:19:32,700
@@ -1639,7 +1639,7 @@ O que isso... quer dizer?
 348
 00:19:33,600 --> 00:19:36,800
 Significa que fez bem
-em trazer seu vô aqui hoje.
+em trazer seu vÃ´ aqui hoje.
 
 349
 00:19:41,000 --> 00:19:42,900
@@ -1648,17 +1648,17 @@ com a Aubrey?
 
 350
 00:19:43,300 --> 00:19:46,000
-Ela tem o quê, 17, 18 anos?
-Provavelmente está chapada.
+Ela tem o quÃª, 17, 18 anos?
+Provavelmente estÃ¡ chapada.
 
 351
 00:19:46,001 --> 00:19:47,700
-Não, creio que não.
+NÃ£o, creio que nÃ£o.
 
 352
 00:19:47,701 --> 00:19:50,651
-Bom, claramente você não sabe
-como é um adolescente chapado.
+Bom, claramente vocÃª nÃ£o sabe
+como Ã© um adolescente chapado.
 
 353
 00:19:50,652 --> 00:19:52,200
@@ -1676,22 +1676,22 @@ de trabalhar em equipe.
 
 356
 00:19:58,901 --> 00:20:02,476
-Bom. Então, continuarei
+Bom. EntÃ£o, continuarei
 a te ensinar novos truques.
 
 357
 00:20:02,477 --> 00:20:04,711
 Com sorte,
-você aprende rápido.
+vocÃª aprende rÃ¡pido.
 
 358
 00:20:12,193 --> 00:20:14,100
 <i>Conrad, ele tem uma surpresa
-para você.</i>
+para vocÃª.</i>
 
 359
 00:20:14,101 --> 00:20:16,870
-Então, pensamos em vir.
+EntÃ£o, pensamos em vir.
 Vamos, Henry.
 
 360
@@ -1701,7 +1701,7 @@ preciso te mostrar.
 
 361
 00:20:18,999 --> 00:20:20,543
-Mostrar o quê?
+Mostrar o quÃª?
 
 362
 00:20:25,770 --> 00:20:27,458
@@ -1710,12 +1710,12 @@ JMV?
 363
 00:20:31,493 --> 00:20:34,081
 Cara,
-este é um troféu grande.
+este Ã© um trofÃ©u grande.
 
 364
 00:20:34,702 --> 00:20:37,069
--É importante.
--É para guardar.
+-Ã‰ importante.
+-Ã‰ para guardar.
 
 365
 00:20:37,070 --> 00:20:39,093
@@ -1724,7 +1724,7 @@ depois do jogo.
 
 366
 00:20:39,094 --> 00:20:42,940
-Ele me chamou na 1º base
+Ele me chamou na 1Âº base
 na frente de todos.
 
 367
@@ -1734,39 +1734,39 @@ ganharia.
 
 368
 00:20:45,822 --> 00:20:48,600
-Daniel é bom,
+Daniel Ã© bom,
 mas o jogador mais valioso...
 
 369
 00:20:48,601 --> 00:20:50,451
-é você.
+Ã© vocÃª.
 
 370
 00:20:50,452 --> 00:20:52,071
-Parabéns, cara.
+ParabÃ©ns, cara.
 
 371
 00:20:54,903 --> 00:20:56,244
-Está bem, amigão?
+EstÃ¡ bem, amigÃ£o?
 
 372
 00:20:57,387 --> 00:21:01,266
 Querido, olhe para mim.
-Por que está fazendo isso?
+Por que estÃ¡ fazendo isso?
 
 373
 00:21:01,267 --> 00:21:02,888
-Fazendo o quê?
+Fazendo o quÃª?
 
 374
 00:21:03,589 --> 00:21:06,116
-O que fez com a cabeça.
-Por que está fazendo isso?
+O que fez com a cabeÃ§a.
+Por que estÃ¡ fazendo isso?
 
 375
 00:21:06,117 --> 00:21:09,358
-Não sei.
-Mas não foi uma convulsão.
+NÃ£o sei.
+Mas nÃ£o foi uma convulsÃ£o.
 
 376
 00:21:09,359 --> 00:21:11,310
@@ -1780,7 +1780,7 @@ mais guardanapos?
 
 378
 00:21:22,174 --> 00:21:23,945
-Já o viu fazer isso antes?
+JÃ¡ o viu fazer isso antes?
 
 379
 00:21:23,946 --> 00:21:27,579
@@ -1795,11 +1795,11 @@ mas...
 381
 00:21:29,527 --> 00:21:32,608
 Certo,
-você parece preocupada.
+vocÃª parece preocupada.
 
 382
 00:21:34,388 --> 00:21:37,364
-Vamos até a Neurologia,
+Vamos atÃ© a Neurologia,
 garantir que esteja tudo bem.
 
 383
@@ -1809,7 +1809,7 @@ Melhor prevenir que remediar.
 
 384
 00:21:51,795 --> 00:21:53,752
-Como está a Marisol?
+Como estÃ¡ a Marisol?
 
 385
 00:21:53,753 --> 00:21:55,202
@@ -1818,7 +1818,7 @@ Essa pobre mulher tem sido
 386
 00:21:55,203 --> 00:21:57,414
 ignorada e dispensada
-pelos médicos.
+pelos mÃ©dicos.
 
 387
 00:21:57,814 --> 00:22:00,197
@@ -1832,33 +1832,33 @@ Sozinha.
 389
 00:22:02,601 --> 00:22:05,058
 Mas agora,
-ela é sua paciente
+ela Ã© sua paciente
 
 390
 00:22:05,059 --> 00:22:06,871
-e você a está ajudando.
+e vocÃª a estÃ¡ ajudando.
 
 391
 00:22:06,872 --> 00:22:08,941
-Ela não está mais sozinha.
+Ela nÃ£o estÃ¡ mais sozinha.
 
 392
 00:22:11,191 --> 00:22:13,082
-E você não está sozinho
-também.
+E vocÃª nÃ£o estÃ¡ sozinho
+tambÃ©m.
 
 393
 00:22:21,535 --> 00:22:25,322
-Ali. No ovário esquerdo dela.
-Aquilo é um cisto?
+Ali. No ovÃ¡rio esquerdo dela.
+Aquilo Ã© um cisto?
 
 394
 00:22:25,323 --> 00:22:26,651
-Não.
+NÃ£o.
 
 395
 00:22:26,652 --> 00:22:29,043
-É uma massa espessa
+Ã‰ uma massa espessa
 com fluido denso no anexo.
 
 396
@@ -1868,38 +1868,38 @@ um abscesso no tubo ovariano.
 
 397
 00:22:31,256 --> 00:22:34,066
-Darei antibióticos por IV
-e pedirei aspiração.
+Darei antibiÃ³ticos por IV
+e pedirei aspiraÃ§Ã£o.
 
 398
 00:22:34,067 --> 00:22:36,831
-É, pouco invasiva
-e mostrará com o que lidamos.
+Ã‰, pouco invasiva
+e mostrarÃ¡ com o que lidamos.
 
 399
 00:22:36,832 --> 00:22:39,362
 Avise-me se precisar de algo,
-mas sei que não vai.
+mas sei que nÃ£o vai.
 
 400
 00:22:47,129 --> 00:22:50,410
-Não, tudo que queremos saber é:
+NÃ£o, tudo que queremos saber Ã©:
 o dr. Austin inseriu
 
 401
 00:22:50,411 --> 00:22:52,165
 o dispositivo
-de cabeça para baixo?
+de cabeÃ§a para baixo?
 
 402
 00:22:52,166 --> 00:22:55,072
 O dr. Bell o colocou
-em uma posição impossível.
+em uma posiÃ§Ã£o impossÃ­vel.
 
 403
 00:22:55,073 --> 00:22:57,514
-Ele não tinha experiência
-com a válvula
+Ele nÃ£o tinha experiÃªncia
+com a vÃ¡lvula
 
 404
 00:22:57,515 --> 00:22:59,000
@@ -1907,12 +1907,12 @@ e teve que inseri-la.
 
 405
 00:22:59,789 --> 00:23:02,552
-E é por isso que a srt.ª Booth
+E Ã© por isso que a srt.Âª Booth
 estava na SO,
 
 406
 00:23:02,553 --> 00:23:05,741
-para guiá-lo
+para guiÃ¡-lo
 e prevenir um erro.
 
 407
@@ -1926,13 +1926,13 @@ o que aconteceu,
 
 409
 00:23:10,099 --> 00:23:13,297
-dr.ª Okafor,
+dr.Âª Okafor,
 sem julgamento.
 
 410
 00:23:13,298 --> 00:23:15,779
 Os fatos.
-Eu sei que é difícil,
+Eu sei que Ã© difÃ­cil,
 
 411
 00:23:15,780 --> 00:23:17,636
@@ -1941,52 +1941,52 @@ porque trabalham juntos.
 412
 00:23:20,202 --> 00:23:24,919
 O dr. Austin quase inseriu
-a válvula de cabeça para baixo.
+a vÃ¡lvula de cabeÃ§a para baixo.
 
 413
 00:23:25,319 --> 00:23:28,209
 Ele, rapidamente, corrigiu.
-Não foi um evento.
+NÃ£o foi um evento.
 
 414
 00:23:28,210 --> 00:23:30,922
-Não entendo. Enquanto
-a srt.ª Booth estava lá,
+NÃ£o entendo. Enquanto
+a srt.Âª Booth estava lÃ¡,
 
 415
 00:23:30,923 --> 00:23:34,029
-ela não tentou instruí-lo
-como inserir a válvula?
+ela nÃ£o tentou instruÃ­-lo
+como inserir a vÃ¡lvula?
 
 416
 00:23:34,030 --> 00:23:36,291
 -Sim.
--Então, ele não a ouviu.
+-EntÃ£o, ele nÃ£o a ouviu.
 
 417
 00:23:36,292 --> 00:23:39,067
-Não é incomum para ele.
-É como ele é.
+NÃ£o Ã© incomum para ele.
+Ã‰ como ele Ã©.
 
 418
 00:23:39,068 --> 00:23:42,007
 Desculpe,
-não é incomum ao dr. Austin
+nÃ£o Ã© incomum ao dr. Austin
 
 419
 00:23:42,008 --> 00:23:45,517
-ignorar instruções de peritos
+ignorar instruÃ§Ãµes de peritos
 em um novo dispositivo?
 
 420
 00:23:53,028 --> 00:23:55,280
-Erros cirúrgicos caem
+Erros cirÃºrgicos caem
 drasticamente
 
 421
 00:23:55,281 --> 00:23:57,600
 quando a equipe
-é encorajada a falar
+Ã© encorajada a falar
 
 422
 00:23:57,601 --> 00:23:59,148
@@ -1995,7 +1995,7 @@ se veem um problema.
 423
 00:23:59,149 --> 00:24:01,178
 Concordo
-com esse princípio,
+com esse princÃ­pio,
 
 424
 00:24:01,179 --> 00:24:04,038
@@ -2004,11 +2004,11 @@ o que faz.
 
 425
 00:24:04,438 --> 00:24:05,915
-Ele é uma rara exceção.
+Ele Ã© uma rara exceÃ§Ã£o.
 
 426
 00:24:05,916 --> 00:24:08,313
-Então,
+EntÃ£o,
 durante a cirurgia do Bradley,
 
 427
@@ -2018,12 +2018,12 @@ tudo corretamente?
 
 428
 00:24:15,900 --> 00:24:17,200
-Não.
+NÃ£o.
 
 429
 00:24:18,115 --> 00:24:22,017
 Porque ele se recusou
-a ouvir a instrução
+a ouvir a instruÃ§Ã£o
 
 430
 00:24:23,407 --> 00:24:26,347
@@ -2042,26 +2042,26 @@ Sim.
 433
 00:24:44,616 --> 00:24:47,220
 Em um minuto,
-a sedação fará efeito.
+a sedaÃ§Ã£o farÃ¡ efeito.
 
 434
 00:24:47,221 --> 00:24:48,666
-Você se sentirá sonolenta.
+VocÃª se sentirÃ¡ sonolenta.
 
 435
 00:24:48,667 --> 00:24:50,968
 Vamos aspirar o fluido
-e partir daí, certo?
+e partir daÃ­, certo?
 
 436
 00:24:50,969 --> 00:24:53,744
-Aquele acidente na cesárea
+Aquele acidente na cesÃ¡rea
 e perder nosso filho,
 
 437
 00:24:53,745 --> 00:24:56,836
 foi a pior coisa
-que já me aconteceu
+que jÃ¡ me aconteceu
 
 438
 00:24:56,837 --> 00:25:01,194
@@ -2070,20 +2070,20 @@ tentar de novo
 
 439
 00:25:02,012 --> 00:25:03,562
-ser uma mãe.
+ser uma mÃ£e.
 
 440
 00:25:03,563 --> 00:25:06,700
-Por favor, garanta que não tirem
-o ovário bom.
+Por favor, garanta que nÃ£o tirem
+o ovÃ¡rio bom.
 
 441
 00:25:06,701 --> 00:25:09,401
-É a minha última chance.
+Ã‰ a minha Ãºltima chance.
 
 442
 00:25:10,101 --> 00:25:11,951
-Vou estar lá o tempo todo.
+Vou estar lÃ¡ o tempo todo.
 
 443
 00:25:11,952 --> 00:25:14,352
@@ -2098,22 +2098,22 @@ sua vontade, tudo bem?
 445
 00:25:20,503 --> 00:25:24,003
 -Ela apagou, estamos prontos.
--Agulha de aspiração.
+-Agulha de aspiraÃ§Ã£o.
 
 446
 00:25:24,004 --> 00:25:26,754
-Tenha um dreno percutâneo
+Tenha um dreno percutÃ¢neo
 preparado.
 
 447
 00:25:30,554 --> 00:25:32,050
--Mais sedação.
--Não posso.
+-Mais sedaÃ§Ã£o.
+-NÃ£o posso.
 
 448
 00:25:32,051 --> 00:25:33,743
-A pressão baixou,
-está 80x50 mmHg.
+A pressÃ£o baixou,
+estÃ¡ 80x50 mmHg.
 
 449
 00:25:33,744 --> 00:25:35,150
@@ -2126,26 +2126,26 @@ Vamos!
 
 451
 00:25:36,851 --> 00:25:38,151
-Rápido.
+RÃ¡pido.
 
 452
 00:25:44,451 --> 00:25:46,651
-Não há fluxo sanguíneo
-no ovário esquerdo.
+NÃ£o hÃ¡ fluxo sanguÃ­neo
+no ovÃ¡rio esquerdo.
 
 453
 00:25:46,652 --> 00:25:48,502
-O ovário está torcido.
+O ovÃ¡rio estÃ¡ torcido.
 
 454
 00:25:48,503 --> 00:25:50,403
-Se eu não operá-la,
-ela irá perdê-lo.
+Se eu nÃ£o operÃ¡-la,
+ela irÃ¡ perdÃª-lo.
 
 455
 00:25:50,404 --> 00:25:52,654
 Avise a ginecologia
-para ir para lá agora.
+para ir para lÃ¡ agora.
 
 456
 00:25:54,394 --> 00:25:55,694
@@ -2172,7 +2172,7 @@ Eu?
 
 461
 00:26:05,996 --> 00:26:07,900
-Não, não é necessário.
+NÃ£o, nÃ£o Ã© necessÃ¡rio.
 
 462
 00:26:07,901 --> 00:26:10,001
@@ -2181,8 +2181,8 @@ eu dou conta.
 
 463
 00:26:10,002 --> 00:26:11,650
-Sim, Floyd está certo.
-Isso é...
+Sim, Floyd estÃ¡ certo.
+Isso Ã©...
 
 464
 00:26:11,651 --> 00:26:13,801
@@ -2196,8 +2196,8 @@ mas a Aubrey pode fazer isso.
 
 466
 00:26:17,151 --> 00:26:19,750
-É uma infecção por estafilococos
-e se não cuidar
+Ã‰ uma infecÃ§Ã£o por estafilococos
+e se nÃ£o cuidar
 
 467
 00:26:19,751 --> 00:26:21,601
@@ -2210,13 +2210,13 @@ ele pode perder a perna.
 
 469
 00:26:23,203 --> 00:26:25,950
-Se a Aubrey puder ajudá-lo
-com a infecção,
+Se a Aubrey puder ajudÃ¡-lo
+com a infecÃ§Ã£o,
 
 470
 00:26:25,951 --> 00:26:28,301
 podemos prevenir
-e mantê-lo longe do hospital.
+e mantÃª-lo longe do hospital.
 
 471
 00:26:31,901 --> 00:26:34,151
@@ -2238,8 +2238,8 @@ Pronto.
 
 475
 00:26:53,881 --> 00:26:57,231
-Você vê que quando eu puxo
-a gaze, não se move?
+VocÃª vÃª que quando eu puxo
+a gaze, nÃ£o se move?
 
 476
 00:26:59,631 --> 00:27:02,031
@@ -2268,31 +2268,31 @@ Torta intocada?
 
 482
 00:27:29,984 --> 00:27:31,784
-Você não é assim.
+VocÃª nÃ£o Ã© assim.
 
 483
 00:27:32,684 --> 00:27:35,200
 Obrigado por me encontrar
-de última hora, Abe.
+de Ãºltima hora, Abe.
 
 484
 00:27:35,201 --> 00:27:37,501
-Não dispenso a melhor torta
+NÃ£o dispenso a melhor torta
 da cidade.
 
 485
 00:27:37,502 --> 00:27:39,752
-Além disso,
+AlÃ©m disso,
 pareceu urgente.
 
 486
 00:27:43,452 --> 00:27:45,652
-O que você sabe
+O que vocÃª sabe
 sobre Gordon Page?
 
 487
 00:27:46,052 --> 00:27:48,602
-Ambicioso, dinâmico,
+Ambicioso, dinÃ¢mico,
 
 488
 00:27:48,603 --> 00:27:50,403
@@ -2304,32 +2304,32 @@ Obrigado.
 
 490
 00:27:52,254 --> 00:27:55,204
-É muito elogio
-vindo de você.
+Ã‰ muito elogio
+vindo de vocÃª.
 
 491
 00:27:55,205 --> 00:27:56,550
-Qual a razão disso?
+Qual a razÃ£o disso?
 
 492
 00:27:57,850 --> 00:27:59,950
 Um paciente novo morreu
-não muito depois
+nÃ£o muito depois
 
 493
 00:27:59,951 --> 00:28:02,700
-de ter a válvula QuoVadis
+de ter a vÃ¡lvula QuoVadis
 colocada.
 
 494
 00:28:02,701 --> 00:28:05,250
--A que você recomendou.
+-A que vocÃª recomendou.
 -Sinto muito.
 
 495
 00:28:05,251 --> 00:28:07,751
 E, agora, Gordon Page
-está me acusando.
+estÃ¡ me acusando.
 
 496
 00:28:07,752 --> 00:28:11,002
@@ -2343,16 +2343,16 @@ acho isso absurdo.
 
 498
 00:28:13,454 --> 00:28:16,004
-Já viveu algo assim?
+JÃ¡ viveu algo assim?
 
 499
 00:28:16,005 --> 00:28:19,455
-Não, mas suponho
+NÃ£o, mas suponho
 que poderia ter vivido.
 
 500
 00:28:19,456 --> 00:28:22,100
-Se não tivesse
+Se nÃ£o tivesse
 uma representante na SO
 
 501
@@ -2367,11 +2367,11 @@ Assim como eu.
 503
 00:28:26,592 --> 00:28:28,542
 Eu apenas
-não dei ouvidos a ela.
+nÃ£o dei ouvidos a ela.
 
 504
 00:28:32,892 --> 00:28:35,100
-Não sei o que dizer,
+NÃ£o sei o que dizer,
 Austin. Eu...
 
 505
@@ -2381,12 +2381,12 @@ mais cedo ou mais tarde.
 
 506
 00:28:37,302 --> 00:28:38,952
-Você é ótimo.
+VocÃª Ã© Ã³timo.
 
 507
 00:28:38,953 --> 00:28:41,653
-Mas não é invencível.
-Ninguém é.
+Mas nÃ£o Ã© invencÃ­vel.
+NinguÃ©m Ã©.
 
 508
 00:28:41,654 --> 00:28:42,964
@@ -2416,12 +2416,12 @@ assuma.
 
 514
 00:28:56,874 --> 00:28:58,924
-Fará de você
-um médico melhor.
+FarÃ¡ de vocÃª
+um mÃ©dico melhor.
 
 515
 00:29:05,984 --> 00:29:08,154
-O fluxo sanguíneo
+O fluxo sanguÃ­neo
 foi interrompido.
 
 516
@@ -2430,35 +2430,35 @@ Para remover a massa,
 
 517
 00:29:10,591 --> 00:29:12,441
-precisamos tirar o ovário.
+precisamos tirar o ovÃ¡rio.
 
 518
 00:29:13,221 --> 00:29:14,990
-Não consegue soltar
+NÃ£o consegue soltar
 a parte envolta?
 
 519
 00:29:14,991 --> 00:29:17,659
-Está aderido à parte posterior
-e à lateral.
+EstÃ¡ aderido Ã  parte posterior
+e Ã  lateral.
 
 520
 00:29:17,660 --> 00:29:21,160
 Estou tentando dissecar,
-mas algo bloqueia minha visão.
+mas algo bloqueia minha visÃ£o.
 
 521
 00:29:21,161 --> 00:29:22,891
 Poderia ver
-se a abríssemos?
+se a abrÃ­ssemos?
 
 522
 00:29:22,892 --> 00:29:24,442
-Talvez sim, talvez não.
+Talvez sim, talvez nÃ£o.
 
 523
 00:29:24,443 --> 00:29:26,143
-Ainda há uma chance.
+Ainda hÃ¡ uma chance.
 
 524
 00:29:26,144 --> 00:29:27,544
@@ -2466,12 +2466,12 @@ Temos que tentar.
 
 525
 00:29:27,545 --> 00:29:30,145
-Não posso ampliar a cirurgia
-sem razão alguma.
+NÃ£o posso ampliar a cirurgia
+sem razÃ£o alguma.
 
 526
 00:29:30,146 --> 00:29:31,469
-Temos uma razão.
+Temos uma razÃ£o.
 
 527
 00:29:31,470 --> 00:29:33,120
@@ -2479,7 +2479,7 @@ Ela quer ter filhos.
 
 528
 00:29:33,121 --> 00:29:35,271
-Como médicos,
+Como mÃ©dicos,
 temos que honrar sua vontade.
 
 529
@@ -2503,28 +2503,28 @@ para cirurgia aberta.
 
 533
 00:30:06,046 --> 00:30:08,837
-Aqui, o ovário está livre.
+Aqui, o ovÃ¡rio estÃ¡ livre.
 Vamos remover a massa.
 
 534
 00:30:08,838 --> 00:30:10,139
-Pinça Metz.
+PinÃ§a Metz.
 
 535
 00:30:14,622 --> 00:30:17,406
-Espera. O que é isso?
+Espera. O que Ã© isso?
 
 536
 00:30:17,885 --> 00:30:19,676
-É... azul.
+Ã‰... azul.
 
 537
 00:30:19,677 --> 00:30:21,655
-Que tipo de tumor é azul?
+Que tipo de tumor Ã© azul?
 
 538
 00:30:22,067 --> 00:30:23,497
-Não é um tumor.
+NÃ£o Ã© um tumor.
 
 539
 00:30:24,052 --> 00:30:25,997
@@ -2532,12 +2532,12 @@ Meu Deus.
 
 540
 00:30:25,998 --> 00:30:27,981
-É uma gaze cirúrgica.
+Ã‰ uma gaze cirÃºrgica.
 
 541
 00:30:32,189 --> 00:30:34,909
 Aubrey, acho que coloquei
-você contra a parede.
+vocÃª contra a parede.
 
 542
 00:30:34,910 --> 00:30:36,740
@@ -2545,8 +2545,8 @@ Sinto muito por isso.
 
 543
 00:30:37,909 --> 00:30:41,658
-Acho que isso é algo
-que você poderia fazer.
+Acho que isso Ã© algo
+que vocÃª poderia fazer.
 
 544
 00:30:43,218 --> 00:30:44,807
@@ -2559,15 +2559,15 @@ as feridas em casa,
 
 546
 00:30:48,375 --> 00:30:50,285
-seria melhor para o seu avô
+seria melhor para o seu avÃ´
 
 547
 00:30:50,286 --> 00:30:51,879
-não estar no hospital.
+nÃ£o estar no hospital.
 
 548
 00:30:53,255 --> 00:30:54,932
-Minha mãe era enfermeira.
+Minha mÃ£e era enfermeira.
 
 549
 00:30:55,403 --> 00:30:56,812
@@ -2589,12 +2589,12 @@ Ela cuidou das pessoas.
 
 553
 00:31:09,312 --> 00:31:11,597
-E se eu não for como ela?
+E se eu nÃ£o for como ela?
 
 554
 00:31:11,598 --> 00:31:14,033
 E se eu fizer
-o vovô piorar?
+o vovÃ´ piorar?
 
 555
 00:31:15,999 --> 00:31:17,379
@@ -2602,12 +2602,12 @@ Aubrey...
 
 556
 00:31:17,877 --> 00:31:20,896
-garanto que é mais parecida
+garanto que Ã© mais parecida
 com ela do que pensa.
 
 557
 00:31:23,755 --> 00:31:25,552
-Às vezes penso
+Ã€s vezes penso
 
 558
 00:31:25,553 --> 00:31:28,429
@@ -2616,36 +2616,36 @@ ser enfermeira como ela.
 
 559
 00:31:29,442 --> 00:31:31,862
-Talvez possa começar
-com seu avô.
+Talvez possa comeÃ§ar
+com seu avÃ´.
 
 560
 00:31:45,053 --> 00:31:47,537
-A cirurgia é em uma hora,
+A cirurgia Ã© em uma hora,
 precisamos nos preparar.
 
 561
 00:31:47,538 --> 00:31:49,716
 Dr. Hoffstead
-está me substituindo.
+estÃ¡ me substituindo.
 
 562
 00:31:49,717 --> 00:31:52,587
 -Pode se preparar com ele.
--Você está doente?
+-VocÃª estÃ¡ doente?
 
 563
 00:31:52,588 --> 00:31:55,076
-Não. Estou ponderando.
+NÃ£o. Estou ponderando.
 
 564
 00:31:55,949 --> 00:31:58,819
-Certo, então pode ponderar
+Certo, entÃ£o pode ponderar
 durante o nosso caso.
 
 565
 00:32:03,363 --> 00:32:05,304
-Você não quer operar?
+VocÃª nÃ£o quer operar?
 
 566
 00:32:07,904 --> 00:32:11,150
@@ -2671,25 +2671,25 @@ e chocolate faz-me inchar,
 
 571
 00:32:21,091 --> 00:32:24,197
-então, não farei nada disso,
-não por um tempo.
+entÃ£o, nÃ£o farei nada disso,
+nÃ£o por um tempo.
 
 572
 00:32:24,651 --> 00:32:27,638
 Estou afastando-me
-de cirurgias até nova ordem.
+de cirurgias atÃ© nova ordem.
 
 573
 00:32:27,639 --> 00:32:29,661
-Certo, até para você,
+Certo, atÃ© para vocÃª,
 
 574
 00:32:29,662 --> 00:32:31,697
-isso é dramático.
+isso Ã© dramÃ¡tico.
 
 575
 00:32:32,697 --> 00:32:35,648
-Você cometeu um erro.
+VocÃª cometeu um erro.
 Todos cometemos.
 
 576
@@ -2699,7 +2699,7 @@ com a vida dele.
 
 577
 00:32:42,229 --> 00:32:45,023
-Você estava certa
+VocÃª estava certa
 o tempo todo.
 
 578
@@ -2712,12 +2712,12 @@ Claro que estava certa.
 
 580
 00:32:49,364 --> 00:32:51,900
-E parece que você
-já aprendeu a lição.
+E parece que vocÃª
+jÃ¡ aprendeu a liÃ§Ã£o.
 
 581
 00:32:52,810 --> 00:32:55,348
-Então, seja melhor, volte,
+EntÃ£o, seja melhor, volte,
 
 582
 00:32:55,349 --> 00:32:58,020
@@ -2726,22 +2726,22 @@ dentro da SO.
 
 583
 00:32:58,021 --> 00:33:01,858
-A SO é um lugar sagrado
+A SO Ã© um lugar sagrado
 e eu blasfemei.
 
 584
 00:33:01,859 --> 00:33:04,246
-Não tenho um lugar lá.
-Agora não.
+NÃ£o tenho um lugar lÃ¡.
+Agora nÃ£o.
 
 585
 00:33:04,247 --> 00:33:06,722
-E não colocarei
+E nÃ£o colocarei
 outra vida em perigo
 
 586
 00:33:06,723 --> 00:33:08,654
-até aprender
+atÃ© aprender
 a ter humildade.
 
 587
@@ -2751,46 +2751,46 @@ os mansos."
 
 588
 00:33:20,199 --> 00:33:22,636
-Já faz uma hora.
+JÃ¡ faz uma hora.
 
 589
 00:33:23,052 --> 00:33:25,765
 Quando posso tirar
-esse chapéu idiota?
+esse chapÃ©u idiota?
 
 590
 00:33:25,766 --> 00:33:27,742
-Não até você fazer
+NÃ£o atÃ© vocÃª fazer
 o movimento de novo,
 
 591
 00:33:27,743 --> 00:33:30,775
 para vermos se suas ondas
-cerebrais são normais ou não
+cerebrais sÃ£o normais ou nÃ£o
 
 592
 00:33:30,776 --> 00:33:33,440
--enquanto está fazendo.
+-enquanto estÃ¡ fazendo.
 -Tudo bem.
 
 593
 00:33:37,126 --> 00:33:39,500
-E se ele não fizer
-enquanto está na máquina?
+E se ele nÃ£o fizer
+enquanto estÃ¡ na mÃ¡quina?
 
 594
 00:33:39,501 --> 00:33:43,404
 Iremos tentar de novo.
-É a única maneira de saber
+Ã‰ a Ãºnica maneira de saber
 
 595
 00:33:43,405 --> 00:33:45,483
-se é uma manifestação
-de uma convulsão.
+se Ã© uma manifestaÃ§Ã£o
+de uma convulsÃ£o.
 
 596
 00:33:45,484 --> 00:33:48,169
-Pereço
+PereÃ§o
 com um cientista maluco?
 
 597
@@ -2801,16 +2801,16 @@ como um cientista maluco.
 598
 00:33:54,247 --> 00:33:56,735
 Como vai a Nic?
-Não a vi pelo hospital.
+NÃ£o a vi pelo hospital.
 
 599
 00:33:56,736 --> 00:33:59,731
-Ela está numa clínica gratuita
-que abriu há poucos dias.
+Ela estÃ¡ numa clÃ­nica gratuita
+que abriu hÃ¡ poucos dias.
 
 600
 00:33:59,732 --> 00:34:01,802
--Ela está ótima.
+-Ela estÃ¡ Ã³tima.
 -Deve estar orgulhoso.
 
 601
@@ -2819,7 +2819,7 @@ Estou. Ela...
 
 602
 00:34:05,050 --> 00:34:06,377
-ela é incrível.
+ela Ã© incrÃ­vel.
 
 603
 00:34:06,932 --> 00:34:08,489
@@ -2829,12 +2829,12 @@ a enfermeira Nic?
 604
 00:34:08,490 --> 00:34:10,211
 Quero mostrar
-meu troféu...
+meu trofÃ©u...
 
 605
 00:34:14,085 --> 00:34:16,020
-Está bem.
-Está fazendo de novo.
+EstÃ¡ bem.
+EstÃ¡ fazendo de novo.
 
 606
 00:34:16,021 --> 00:34:17,381
@@ -2842,7 +2842,7 @@ Por favor, Deus.
 
 607
 00:34:18,983 --> 00:34:20,616
-Isso é normal.
+Isso Ã© normal.
 
 608
 00:34:27,581 --> 00:34:29,036
@@ -2855,18 +2855,18 @@ anormal.
 
 610
 00:34:32,079 --> 00:34:34,865
-Se não é uma convulsão,
-então, por que ele faz isso?
+Se nÃ£o Ã© uma convulsÃ£o,
+entÃ£o, por que ele faz isso?
 
 611
 00:34:34,866 --> 00:34:38,958
-É um tique. Muito comum
-em crianças na idade de Henry.
+Ã‰ um tique. Muito comum
+em crianÃ§as na idade de Henry.
 
 612
 00:34:38,959 --> 00:34:42,106
 Ele faz um movimento,
-geralmente uma reação a algo
+geralmente uma reaÃ§Ã£o a algo
 
 613
 00:34:42,107 --> 00:34:45,036
@@ -2876,12 +2876,12 @@ em um ciclo.
 614
 00:34:45,037 --> 00:34:46,590
 Mas definitivamente
-não é...
+nÃ£o Ã©...
 
 615
 00:34:46,591 --> 00:34:49,717
 Definitivamente
-não é uma convulsão.
+nÃ£o Ã© uma convulsÃ£o.
 
 616
 00:34:51,501 --> 00:34:52,868
@@ -2889,12 +2889,12 @@ Eu disse.
 
 617
 00:35:00,258 --> 00:35:01,863
-O que está fazendo?
+O que estÃ¡ fazendo?
 
 618
 00:35:01,864 --> 00:35:04,347
-Escrevendo o formulário
-de admissão para o Floyd.
+Escrevendo o formulÃ¡rio
+de admissÃ£o para o Floyd.
 
 619
 00:35:04,348 --> 00:35:06,235
@@ -2903,38 +2903,38 @@ com a ferida.
 
 620
 00:35:06,236 --> 00:35:08,534
-Há risco de amputação
-se mandá-lo para casa.
+HÃ¡ risco de amputaÃ§Ã£o
+se mandÃ¡-lo para casa.
 
 621
 00:35:08,535 --> 00:35:09,994
-Doença vascular
-é crônico.
+DoenÃ§a vascular
+Ã© crÃ´nico.
 
 622
 00:35:09,995 --> 00:35:12,352
 Mesmo se curarmos
-essa úlcera, haverá outras.
+essa Ãºlcera, haverÃ¡ outras.
 
 623
 00:35:12,353 --> 00:35:15,211
 Precisa de cuidados. Hospitais
-não fazem isso, Aubrey sim.
+nÃ£o fazem isso, Aubrey sim.
 
 624
 00:35:15,212 --> 00:35:17,851
-As mãos dela tremem.
-Não olha ninguém nos olhos.
+As mÃ£os dela tremem.
+NÃ£o olha ninguÃ©m nos olhos.
 
 625
 00:35:17,852 --> 00:35:19,680
-É uma jovem
+Ã‰ uma jovem
 que pode usar drogas
 
 626
 00:35:19,681 --> 00:35:21,711
-e quer colocá-la
-cuidando dele, por quê?
+e quer colocÃ¡-la
+cuidando dele, por quÃª?
 
 627
 00:35:21,712 --> 00:35:23,216
@@ -2942,7 +2942,7 @@ Sabemos que hospitais
 
 628
 00:35:23,217 --> 00:35:25,075
-são perigosos
+sÃ£o perigosos
 para a idade dele.
 
 629
@@ -2953,17 +2953,17 @@ a noite toda
 630
 00:35:27,060 --> 00:35:29,330
 e exposto
-a infecções hospitalares.
+a infecÃ§Ãµes hospitalares.
 
 631
 00:35:29,331 --> 00:35:32,122
-Às vezes, atendimento domiciliar
-é a melhor opção.
+Ã€s vezes, atendimento domiciliar
+Ã© a melhor opÃ§Ã£o.
 
 632
 00:35:32,123 --> 00:35:33,670
 Sim, correto.
-Está pregando
+EstÃ¡ pregando
 
 633
 00:35:33,671 --> 00:35:35,055
@@ -2976,7 +2976,7 @@ Deixe-me mostrar algo.
 
 635
 00:35:36,448 --> 00:35:38,837
-Está bem?
+EstÃ¡ bem?
 Ela pode fazer isso.
 
 636
@@ -2989,22 +2989,22 @@ Nada mal mesmo.
 
 638
 00:35:52,213 --> 00:35:53,887
-Não preciso
+NÃ£o preciso
 de uma enfermeira.
 
 639
 00:35:53,888 --> 00:35:57,501
-Você tem um dom,
-igual a sua mãe.
+VocÃª tem um dom,
+igual a sua mÃ£e.
 
 640
 00:35:57,923 --> 00:36:00,057
-Parece que está indo
+Parece que estÃ¡ indo
 para casa, Floyd.
 
 641
 00:36:00,058 --> 00:36:02,300
-Tem uma ótima enfermeira
+Tem uma Ã³tima enfermeira
 aqui.
 
 642
@@ -3023,8 +3023,8 @@ uma resposta decente.
 
 645
 00:36:13,505 --> 00:36:16,200
-Mas a verdade é que um erro
-não tem desculpas
+Mas a verdade Ã© que um erro
+nÃ£o tem desculpas
 
 646
 00:36:16,201 --> 00:36:18,658
@@ -3033,23 +3033,23 @@ não tem desculpas
 
 647
 00:36:18,659 --> 00:36:21,075
-durante sua cesárea.
-É raro, mas acontece.
+durante sua cesÃ¡rea.
+Ã‰ raro, mas acontece.
 
 648
 00:36:21,076 --> 00:36:24,955
-E é o que causou sua dor,
+E Ã© o que causou sua dor,
 todos esses anos.
 
 649
 00:36:24,956 --> 00:36:28,255
 E sofreu tanto,
-por algo que era evitável.
+por algo que era evitÃ¡vel.
 
 650
 00:36:28,256 --> 00:36:30,935
 Naquele dia
-eu perdi meu bebê...
+eu perdi meu bebÃª...
 
 651
 00:36:31,817 --> 00:36:33,952
@@ -3067,7 +3067,7 @@ de que tudo era culpa minha,
 654
 00:36:40,587 --> 00:36:43,457
 que era tudo
-da minha cabeça.
+da minha cabeÃ§a.
 
 655
 00:36:43,458 --> 00:36:45,094
@@ -3084,12 +3084,12 @@ se foi.
 
 658
 00:36:55,930 --> 00:36:59,076
-Eu ainda tenho um ovário
+Eu ainda tenho um ovÃ¡rio
 e posso ter um filho algum dia.
 
 659
 00:37:00,033 --> 00:37:03,402
-Você concertou tudo,
+VocÃª concertou tudo,
 dr. Pravesh.
 
 660
@@ -3102,11 +3102,11 @@ Tudo no mesmo dia, cara.
 
 662
 00:37:12,054 --> 00:37:14,098
-Com licença.
+Com licenÃ§a.
 
 663
 00:37:19,098 --> 00:37:22,412
--Ele está bem?
+-Ele estÃ¡ bem?
 -Vai ficar.
 
 664
@@ -3116,7 +3116,7 @@ o melhor amigo hoje.
 
 665
 00:37:25,047 --> 00:37:29,069
-Você é exatamente
+VocÃª Ã© exatamente
 o que ele precisava.
 
 666
@@ -3134,17 +3134,17 @@ De nada.
 
 669
 00:37:51,721 --> 00:37:53,086
--Até breve.
+-AtÃ© breve.
 -Obrigada.
 
 670
 00:37:53,087 --> 00:37:55,334
--Até mais.
+-AtÃ© mais.
 -Certo. Obrigado.
 
 671
 00:37:59,816 --> 00:38:03,769
-Tínhamos uma adolescente tímida
+TÃ­nhamos uma adolescente tÃ­mida
 e com medo e pensei em drogas.
 
 672
@@ -3154,20 +3154,20 @@ e com medo e pensei em drogas.
 
 673
 00:38:07,820 --> 00:38:09,432
-Então...
+EntÃ£o...
 
 674
 00:38:09,433 --> 00:38:11,152
-quem é?
+quem Ã©?
 
 675
 00:38:11,562 --> 00:38:13,610
-Mais cedo, você foi rude
+Mais cedo, vocÃª foi rude
 quando falei
 
 676
 00:38:13,611 --> 00:38:15,299
-que você não sabia
+que vocÃª nÃ£o sabia
 sobre drogados.
 
 677
@@ -3177,7 +3177,7 @@ sobre drogados.
 
 678
 00:38:20,222 --> 00:38:21,608
-Minha irmã.
+Minha irmÃ£.
 
 679
 00:38:21,609 --> 00:38:23,762
@@ -3185,7 +3185,7 @@ E eu recentemente percebi
 
 680
 00:38:23,763 --> 00:38:26,698
-que eu sou o clássico
+que eu sou o clÃ¡ssico
 que sofre junto.
 
 681
@@ -3204,7 +3204,7 @@ Quer sair para jantar?
 684
 00:38:37,354 --> 00:38:39,561
 -Oi.
--Oi. Bom ver você.
+-Oi. Bom ver vocÃª.
 
 685
 00:38:39,562 --> 00:38:42,011
@@ -3218,38 +3218,38 @@ O que faz aqui?
 687
 00:38:43,702 --> 00:38:45,378
 Ele queria mostrar algo
-para você.
+para vocÃª.
 
 688
 00:38:45,379 --> 00:38:47,494
-Sério? O que é?
+SÃ©rio? O que Ã©?
 
 689
 00:38:47,495 --> 00:38:50,294
--Um troféu.
--Não brinca.
+-Um trofÃ©u.
+-NÃ£o brinca.
 
 690
 00:38:50,295 --> 00:38:52,293
-É sério?
+Ã‰ sÃ©rio?
 
 691
 00:38:52,294 --> 00:38:54,521
-Isso é incrível. Toca aqui.
+Isso Ã© incrÃ­vel. Toca aqui.
 
 692
 00:38:54,522 --> 00:38:56,959
 Parece que seu filho
-é uma estrela do beisebol.
+Ã© uma estrela do beisebol.
 
 693
 00:38:59,939 --> 00:39:02,457
-Não, não estamos...
+NÃ£o, nÃ£o estamos...
 
 694
 00:39:02,458 --> 00:39:05,037
-Conrad é...
-era o nosso médico.
+Conrad Ã©...
+era o nosso mÃ©dico.
 
 695
 00:39:05,038 --> 00:39:06,514
@@ -3261,7 +3261,7 @@ Somos amigos.
 
 697
 00:39:10,756 --> 00:39:12,952
-E eles estão juntos.
+E eles estÃ£o juntos.
 
 698
 00:39:15,930 --> 00:39:18,948
@@ -3274,7 +3274,7 @@ Boa noite.
 
 700
 00:39:23,066 --> 00:39:25,056
--Só um segundo.
+-SÃ³ um segundo.
 -Tudo bem.
 
 701
@@ -3297,60 +3297,60 @@ Tem algo para dizer?
 
 705
 00:39:51,353 --> 00:39:54,388
-Você,
+VocÃª,
 de todas as pessoas.
 
 706
 00:39:54,389 --> 00:39:58,730
-Um cirurgião que cometeu erros,
-não protegeu o dr. Austin.
+Um cirurgiÃ£o que cometeu erros,
+nÃ£o protegeu o dr. Austin.
 
 707
 00:39:58,731 --> 00:40:02,117
-Eu vou protegê-lo.
+Eu vou protegÃª-lo.
 Mesmo que seja processado.
 
 708
 00:40:02,118 --> 00:40:04,812
-Ele não vai perder o emprego
-e voltará para o SO.
+Ele nÃ£o vai perder o emprego
+e voltarÃ¡ para o SO.
 
 709
 00:40:04,813 --> 00:40:06,814
-Não pode proteger o Raptor
+NÃ£o pode proteger o Raptor
 dele mesmo.
 
 710
 00:40:06,815 --> 00:40:09,237
 Ele se fechou.
-Não irá operar.
+NÃ£o irÃ¡ operar.
 
 711
 00:40:10,528 --> 00:40:12,999
-Somos cirurgiões.
+Somos cirurgiÃµes.
 
 712
 00:40:13,000 --> 00:40:15,796
-Gordon Page não é.
+Gordon Page nÃ£o Ã©.
 
 713
 00:40:16,215 --> 00:40:19,215
-Ele não sabe o custo de abrir
-o coração de um ser humano vivo
+Ele nÃ£o sabe o custo de abrir
+o coraÃ§Ã£o de um ser humano vivo
 
 714
 00:40:19,216 --> 00:40:22,363
-e no final, curá-lo,
-não matá-lo.
+e no final, curÃ¡-lo,
+nÃ£o matÃ¡-lo.
 
 715
 00:40:22,364 --> 00:40:24,906
-Mas você é o cachorrinho dele.
-Por quê?
+Mas vocÃª Ã© o cachorrinho dele.
+Por quÃª?
 
 716
 00:40:29,472 --> 00:40:32,865
-Se não contar para mim,
+Se nÃ£o contar para mim,
 darei um jeito de descobrir.
 
 717
@@ -3359,12 +3359,12 @@ Eu prometo.
 
 718
 00:40:49,942 --> 00:40:52,504
-Talvez seja melhor não mandar
-esta para a mãe dele.
+Talvez seja melhor nÃ£o mandar
+esta para a mÃ£e dele.
 
 719
 00:40:52,505 --> 00:40:55,580
-Não é muito memorável.
+NÃ£o Ã© muito memorÃ¡vel.
 
 720
 00:40:57,872 --> 00:41:00,368
@@ -3382,7 +3382,7 @@ de internos.
 
 723
 00:41:07,796 --> 00:41:10,317
--Cara, você odeia jaleco branco.
+-Cara, vocÃª odeia jaleco branco.
 -Sim.
 
 724
@@ -3397,7 +3397,7 @@ no casamento do Devon
 
 726
 00:41:13,834 --> 00:41:15,410
-então, já está bom.
+entÃ£o, jÃ¡ estÃ¡ bom.
 
 727
 00:41:19,616 --> 00:41:21,297
@@ -3406,15 +3406,15 @@ O que achou?
 728
 00:41:32,721 --> 00:41:34,758
 A Pizza.
-Alguém pega os pratos.
+AlguÃ©m pega os pratos.
 
 729
 00:41:40,499 --> 00:41:41,871
-Olá.
+OlÃ¡.
 
 730
 00:41:41,872 --> 00:41:44,325
-Não sabia que o Henry
+NÃ£o sabia que o Henry
 tinha consulta hoje.
 
 731
@@ -3423,7 +3423,7 @@ Ele parecia bem.
 
 732
 00:41:48,471 --> 00:41:50,338
-E a Zoey também.
+E a Zoey tambÃ©m.
 
 733
 00:41:52,945 --> 00:41:56,276
@@ -3432,7 +3432,7 @@ quero ficar de olho nele.
 
 734
 00:41:56,277 --> 00:41:58,783
-Como estão as coisas na clínica,
+Como estÃ£o as coisas na clÃ­nica,
 com o Alec?
 
 735
@@ -3442,11 +3442,11 @@ com o que estamos fazendo.
 
 736
 00:42:02,431 --> 00:42:04,532
-Isso é bom.
+Isso Ã© bom.
 
 737
 00:42:05,789 --> 00:42:07,730
-Vamos lá, vamos comer.
+Vamos lÃ¡, vamos comer.
 
 738
 00:42:13,670 --> 00:42:15,042
@@ -3459,12 +3459,12 @@ nessa pizza?
 
 740
 00:42:19,581 --> 00:42:21,533
-É uma torta havaiana.
+Ã‰ uma torta havaiana.
 
 741
 00:42:22,445 --> 00:42:25,236
 Bradley sempre disse
-que tinha gosto de férias.
+que tinha gosto de fÃ©rias.
 
 742
 00:42:30,035 --> 00:42:32,367
@@ -3478,26 +3478,26 @@ Ao Bradley.
 744
 00:42:41,364 --> 00:42:43,773
 O paciente morreu
-pois sua válvula falhou
+pois sua vÃ¡lvula falhou
 
 745
 00:42:43,774 --> 00:42:46,716
 depois de ter sido mal colocada
-por seu cirurgião.
+por seu cirurgiÃ£o.
 
 746
 00:42:46,717 --> 00:42:48,947
 Quer que eu escreva:
-"válvula com defeito"
+"vÃ¡lvula com defeito"
 
 747
 00:42:48,948 --> 00:42:51,394
 ou "erro na cirurgia"
-no atestado de óbito?
+no atestado de Ã³bito?
 
 748
 00:42:52,363 --> 00:42:54,323
-ATESTADO DE ÓBITO
+ATESTADO DE Ã“BITO
 
 749
 00:42:56,709 --> 00:42:58,058
@@ -3506,12 +3506,12 @@ Nenhum dos dois.
 750
 00:42:58,059 --> 00:43:00,005
 O paciente morreu
-pela falha da válvula
+pela falha da vÃ¡lvula
 
 751
 00:43:00,006 --> 00:43:01,912
 devido
-à doença subjacente.
+Ã  doenÃ§a subjacente.
 
 752
 00:43:18,000 --> 00:43:20,000
