@@ -1,0 +1,3020 @@
+1
+00:00:00,927 --> 00:00:05,586
+<i> ♪ </i>
+
+2
+00:00:29,801 --> 00:00:32,236
+♪
+
+3
+00:01:00,866 --> 00:01:03,467
+♪
+
+4
+00:01:31,196 --> 00:01:32,930
+♪
+
+5
+00:01:52,618 --> 00:01:55,186
+♪
+
+6
+00:02:24,716 --> 00:02:26,851
+16 minutos.
+
+7
+00:02:26,885 --> 00:02:28,486
+Não é ruim.
+
+8
+00:02:48,340 --> 00:02:50,408
+<i> Eu sei o que você está pensando. </i>
+
+9
+00:02:50,442 --> 00:02:53,411
+<i> Foi um grande esforço apenas para estragar uma festa. </i>
+
+10
+00:02:53,445 --> 00:02:56,868
+<i> Mas há realmente uma boa razão pela qual eu vim dessa maneira. </i>
+
+11
+00:02:58,016 --> 00:02:59,583
+<i> E lá está ele. </i>
+
+12
+00:02:59,618 --> 00:03:01,485
+<i> Jack Candler. </i>
+
+13
+00:03:01,520 --> 00:03:03,837
+<i> Empresário de tecnologia, colecionador de arte importante </i>
+
+14
+00:03:03,871 --> 00:03:06,924
+<i> e meu último cliente. </i>
+
+15
+00:03:06,958 --> 00:03:10,828
+Eu tenho que dizer, ótima festa, Sr. Candler.
+
+16
+00:03:10,862 --> 00:03:13,898
+Sr. Magnum. Você entrou.
+
+17
+00:03:13,932 --> 00:03:15,833
+É o que você me contratou para fazer, certo?
+
+18
+00:03:15,867 --> 00:03:17,802
+Eu acho que meu sistema de segurança avançado
+
+19
+00:03:17,836 --> 00:03:19,937
+não é tão infalível como fui levado a acreditar.
+
+20
+00:03:19,971 --> 00:03:22,406
+Como você chegou aqui em cima?
+
+21
+00:03:22,441 --> 00:03:24,408
+Eu peguei o elevador.
+
+22
+00:03:24,443 --> 00:03:26,343
+Concedido, eu estava do lado de fora.
+
+23
+00:03:26,378 --> 00:03:29,507
+Me desculpe, você andou em cima do elevador?
+
+24
+00:03:29,541 --> 00:03:31,749
+Sim, mas só porque meu amigo não me deixou usar seu helicóptero
+
+25
+00:03:31,783 --> 00:03:34,819
+para que eu pudesse pular corda rapidamente no telhado. Ele não é divertido.
+
+26
+00:03:35,490 --> 00:03:37,955
+Este é James Chen. Ele dirige a casa.
+
+27
+00:03:37,989 --> 00:03:39,857
+Christophe Midi.
+
+28
+00:03:39,891 --> 00:03:41,358
+Prazer. Lily Crane.
+
+29
+00:03:41,393 --> 00:03:43,427
+- Olá. - Eu apenas os forcei a fazer
+
+30
+00:03:43,462 --> 00:03:45,596
+uma doação maciça para minha fundação de caridade hoje à noite.
+
+31
+00:03:45,630 --> 00:03:48,599
+E Thomas Magnum, meu consultor de segurança.
+
+32
+00:03:48,633 --> 00:03:49,767
+Muito prazer em conhecê-lo.
+
+33
+00:03:50,630 --> 00:03:52,703
+Sabe, se vocês nos dão licença por um momento,
+
+34
+00:03:52,738 --> 00:03:54,338
+James e eu temos alguns negócios para discutir
+
+35
+00:03:54,372 --> 00:03:55,873
+- com este belo cavalheiro. - Claro.
+
+36
+00:03:55,907 --> 00:03:57,775
+Vamos deixar você com isso, mas, uh,
+
+37
+00:03:57,809 --> 00:03:59,043
+Estou falando sério sobre os Hockney, não é?
+
+38
+00:03:59,077 --> 00:04:00,978
+- Sim. - O número é muito razoável.
+
+39
+00:04:04,983 --> 00:04:07,522
+Bem, Robin Masters disse que você era o melhor.
+
+40
+00:04:08,453 --> 00:04:10,387
+Como você fez isso?
+
+41
+00:04:10,412 --> 00:04:12,247
+Os sensores de movimento podem ser desativados
+
+42
+00:04:12,272 --> 00:04:14,240
+usando um laser infravermelho próximo.
+
+43
+00:04:14,265 --> 00:04:15,732
+Ao discar a temperatura na sala,
+
+44
+00:04:15,757 --> 00:04:17,692
+Consegui ignorar a detecção térmica.
+
+45
+00:04:17,717 --> 00:04:21,122
+Porque o sistema não conseguiu reconhecer sua assinatura de calor.
+
+46
+00:04:21,147 --> 00:04:22,767
+Exatamente. Mas a boa notícia é,
+
+47
+00:04:22,801 --> 00:04:24,722
+é que todas essas falhas são muito tratáveis.
+
+48
+00:04:24,756 --> 00:04:26,837
+Vou fazer algumas recomendações no meu relatório de segurança.
+
+49
+00:04:26,872 --> 00:04:28,005
+Você vai enviar isso amanhã?
+
+50
+00:04:28,039 --> 00:04:29,282
+Primeira coisa.
+
+51
+00:04:29,317 --> 00:04:30,474
+Posso te fazer uma pergunta?
+
+52
+00:04:30,509 --> 00:04:32,790
+Por que você escolheu esta noite para testar o sistema?
+
+53
+00:04:32,824 --> 00:04:35,312
+Teria sido mais fácil invadir um apartamento vazio, certo?
+
+54
+00:04:35,347 --> 00:04:37,982
+Sim, mas uma noite como essa é quando sua coleção é
+
+55
+00:04:38,016 --> 00:04:39,583
+mais vulnerável ao roubo, certo?
+
+56
+00:04:39,618 --> 00:04:41,160
+Você tem muitas pessoas entrando e saindo,
+
+57
+00:04:41,195 --> 00:04:44,368
+segurança, garçons, fornecedores,
+
+58
+00:04:44,403 --> 00:04:46,590
+muitas pessoas que você provavelmente nem conhece.
+
+59
+00:04:46,625 --> 00:04:49,026
+Brilhante. Brilhante.
+
+60
+00:04:49,060 --> 00:04:50,828
+James, tenha certeza e envie
+
+61
+00:04:50,862 --> 00:04:52,730
+uma garrafa de agradecimento de algo incrivelmente caro
+
+62
+00:04:52,764 --> 00:04:53,864
+para Robin dizer obrigado
+
+63
+00:04:53,899 --> 00:04:55,499
+por recomendar o Sr. Magnum, sim?
+
+64
+00:04:55,534 --> 00:04:56,934
+- Claro. Obrigado, Magnum.
+
+65
+00:04:58,136 --> 00:04:59,383
+Aí está você.
+
+66
+00:04:59,417 --> 00:05:02,072
+Senhor, estou tropeçando nos seus convidados lá fora.
+
+67
+00:05:02,107 --> 00:05:03,774
+Eles estão morrendo de vontade de ver sua coleção.
+
+68
+00:05:03,809 --> 00:05:05,349
+Justo. Bem, eles pagaram
+
+69
+00:05:05,383 --> 00:05:07,656
+uma quantia excessiva de dinheiro para minha caridade pelo privilégio.
+
+70
+00:05:07,690 --> 00:05:09,209
+Se você nos der licença por um momento.
+
+71
+00:05:14,586 --> 00:05:15,920
+Oi.
+
+72
+00:05:17,055 --> 00:05:18,348
+Tracy Hutton.
+
+73
+00:05:18,382 --> 00:05:19,890
+Eu trabalho no museu.
+
+74
+00:05:19,925 --> 00:05:22,893
+O Sr. Candler me contratou para avaliar a obra de arte como seguro.
+
+75
+00:05:22,928 --> 00:05:25,396
+É impressionante, não é?
+
+76
+00:05:25,430 --> 00:05:26,730
+Sim.
+
+77
+00:05:27,477 --> 00:05:29,533
+Sim. É ótimo.
+
+78
+00:05:33,438 --> 00:05:36,874
+Quando eu estava crescendo em Brixton,
+
+79
+00:05:37,279 --> 00:05:40,544
+havia uma galeria, não que eles nunca me deixassem entrar,
+
+80
+00:05:40,579 --> 00:05:42,140
+garoto da classe trabalhadora como eu,
+
+81
+00:05:42,175 --> 00:05:45,583
+mas eles não conseguiam me impedir de olhar pela janela.
+
+82
+00:05:45,617 --> 00:05:48,385
+E caramba, se eu não fizesse isso toda chance que eu tivesse.
+
+83
+00:05:48,420 --> 00:05:50,167
+Foi o quanto amei a arte.
+
+84
+00:05:50,922 --> 00:05:53,824
+Essas peças me inspiraram a sair para o mundo
+
+85
+00:05:53,859 --> 00:05:55,726
+e fazer algo de mim mesmo.
+
+86
+00:05:55,760 --> 00:05:58,592
+E espero que as obras que você está prestes a ver o inspirem
+
+87
+00:05:59,764 --> 00:06:01,728
+para tirar seus talões de cheques.
+
+88
+00:06:02,937 --> 00:06:06,070
+Para que juntos possamos ajudar
+
+89
+00:06:06,600 --> 00:06:08,894
+as pessoas nesta ilha que precisam.
+
+90
+00:06:11,943 --> 00:06:14,912
+Obrigado por vir e aproveite.
+
+91
+00:06:19,651 --> 00:06:22,853
+Então, qual é o seu favorito?
+
+92
+00:06:22,888 --> 00:06:25,055
+Meu favorito? Uh ...
+
+93
+00:06:26,958 --> 00:06:28,692
+Aquele. Senhora de vestido azul.
+
+94
+00:06:28,727 --> 00:06:30,703
+Realmente? Engraçado.
+
+95
+00:06:30,737 --> 00:06:33,163
+Esse é de longe o menos valioso aqui.
+
+96
+00:06:33,198 --> 00:06:34,999
+Então, o que você mais gosta?
+
+97
+00:06:35,033 --> 00:06:38,048
+São as pinceladas? É a composição?
+
+98
+00:06:38,870 --> 00:06:40,971
+Eu vou dizer a cor.
+
+99
+00:06:41,006 --> 00:06:42,106
+Você sabe, o, uh,
+
+100
+00:06:42,140 --> 00:06:44,575
+O Detroit Tigers tem o mesmo azul em seu uniforme.
+
+101
+00:06:46,978 --> 00:06:49,123
+O azul é lápis-lazúli.
+
+102
+00:06:49,157 --> 00:06:52,049
+É uma pedra preciosa rara. Foi realmente usado apenas
+
+103
+00:06:52,083 --> 00:06:54,113
+até a era vitoriana, quando isso foi pintado.
+
+104
+00:06:54,147 --> 00:06:56,787
+Depois disso, os lapis ficaram muito caros.
+
+105
+00:06:56,821 --> 00:06:59,069
+Uau, você realmente conhece suas coisas.
+
+106
+00:07:01,080 --> 00:07:02,826
+Bem, essa é a minha sugestão.
+
+107
+00:07:02,861 --> 00:07:05,896
+Obrigado pela lição de história da arte, Tracy.
+
+108
+00:07:05,931 --> 00:07:07,164
+Talvez faça isso de novo algum dia?
+
+109
+00:07:08,566 --> 00:07:10,330
+A qualquer momento.
+
+110
+00:07:11,202 --> 00:07:13,041
+- Obrigado. - Hum-hmm.
+
+111
+00:07:18,944 --> 00:07:20,911
+O que você está fazendo aqui?
+
+112
+00:07:20,946 --> 00:07:23,981
+Jules e eu nos encontramos na primavera passada no baile de caridade de Robin.
+
+113
+00:07:24,015 --> 00:07:25,182
+Ah
+
+114
+00:07:25,216 --> 00:07:26,794
+Espere, Jules. Eu tenho uma surpresa para você.
+
+115
+00:07:26,828 --> 00:07:28,223
+Pegue um açougueiro.
+
+116
+00:07:28,761 --> 00:07:29,826
+Um açougueiro?
+
+117
+00:07:29,861 --> 00:07:31,087
+- Um olhar. - Um olhar.
+
+118
+00:07:31,122 --> 00:07:32,923
+Gancho do açougueiro. Um olhar.
+
+119
+00:07:32,958 --> 00:07:35,092
+E aqui eu pensei que você falava inglês.
+
+120
+00:07:35,126 --> 00:07:36,560
+Sr. Candler. Oh.
+
+121
+00:07:37,696 --> 00:07:39,462
+Posso ter uma cópia disso?
+
+122
+00:07:39,497 --> 00:07:40,944
+Claro.
+
+123
+00:07:41,800 --> 00:07:43,000
+Um shandy?
+
+124
+00:07:43,034 --> 00:07:46,036
+Bem, você sabe, eu não tinha certeza de que alguém gostasse disso.
+
+125
+00:07:46,071 --> 00:07:47,604
+Chav como você faria.
+
+126
+00:07:47,639 --> 00:07:49,321
+Ok, agora vocês estão apenas inventando palavras.
+
+127
+00:07:49,355 --> 00:07:50,871
+Uma mistura: meia cerveja, meia limonada.
+
+128
+00:07:50,905 --> 00:07:52,064
+É uma bebida da classe trabalhadora,
+
+129
+00:07:52,098 --> 00:07:53,544
+não que ela soubesse alguma coisa sobre isso.
+
+130
+00:07:53,578 --> 00:07:54,681
+Oh.
+
+131
+00:07:54,715 --> 00:07:55,841
+Jules.
+
+132
+00:07:55,875 --> 00:07:58,248
+Receio que o dever ligue. Sr. Magnum.
+
+133
+00:07:58,283 --> 00:07:59,963
+- Obrigado novamente. Prazer.
+
+134
+00:08:00,919 --> 00:08:03,921
+Cara legal.
+
+135
+00:08:03,955 --> 00:08:08,025
+Não percebi que sua auditoria de segurança foi esta noite.
+
+136
+00:08:08,059 --> 00:08:10,615
+Estou supondo pelo seu sorriso que você teve sucesso?
+
+137
+00:08:10,649 --> 00:08:13,088
+- Milímetros. Deixe-me arriscar um palpite.
+
+138
+00:08:13,123 --> 00:08:15,265
+Elevador, e depois o túnel elétrico,
+
+139
+00:08:15,300 --> 00:08:17,067
+ou foi ... ventilação de ar?
+
+140
+00:08:17,102 --> 00:08:19,203
+Como você sabia?
+
+141
+00:08:19,237 --> 00:08:20,904
+É como eu teria feito isso.
+
+142
+00:08:23,108 --> 00:08:25,242
+OK. Boa conversa.
+
+143
+00:08:25,277 --> 00:08:27,073
+- Eu tenho que ir. - Qual é a sua pressa?
+
+144
+00:08:27,946 --> 00:08:29,339
+Os tigres estão jogando os anjos.
+
+145
+00:08:29,374 --> 00:08:31,030
+Se me apressar, posso fazer as últimas duas entradas
+
+146
+00:08:31,064 --> 00:08:32,183
+no rádio.
+
+147
+00:08:32,217 --> 00:08:34,952
+Você realmente nunca deixa de me surpreender, Magnum.
+
+148
+00:08:34,986 --> 00:08:37,654
+Quero dizer, a coleção de Jack poderia estar no Louvre.
+
+149
+00:08:37,689 --> 00:08:40,547
+E aqui você quer sair correndo e ouvir uma bola esportiva
+
+150
+00:08:40,581 --> 00:08:41,794
+no rádio.
+
+151
+00:08:41,828 --> 00:08:43,687
+Baseball. E quando se trata de arte,
+
+152
+00:08:43,721 --> 00:08:47,064
+Eu sou mais do tipo "cachorro jogando pôquer".
+
+153
+00:08:47,098 --> 00:08:49,346
+Claro que você é. Aproveite seu jogo.
+
+154
+00:08:50,035 --> 00:08:53,370
+Esperar. Esperar.
+
+155
+00:09:04,282 --> 00:09:06,116
+♪
+
+156
+00:09:14,959 --> 00:09:16,760
+Por dentro ... girou. Oh!
+
+157
+00:09:16,795 --> 00:09:18,996
+<i> Essa é a vida de um investigador particular. </i>
+
+158
+00:09:19,030 --> 00:09:20,513
+<i> Um dia, você está escondido nos arbustos </i>
+
+159
+00:09:20,547 --> 00:09:23,367
+<i> procurando pegar algum idiota traindo a esposa; </i>
+
+160
+00:09:23,401 --> 00:09:25,894
+<i> no próximo, você está invadindo a cobertura de um bilionário </i>
+
+161
+00:09:25,928 --> 00:09:28,490
+<i> e assistindo a um jogo de bola enquanto comemos cachorros-quentes. </i>
+
+162
+00:09:28,524 --> 00:09:30,512
+<i> Você não pode vencer isso. </i>
+
+163
+00:09:30,537 --> 00:09:31,877
+♪
+
+164
+00:09:31,878 --> 00:09:39,889
+Sincronizado e corrigido por -robtor- www.addic7ed.com
+
+165
+00:09:53,458 --> 00:09:55,912
+_
+
+166
+00:10:03,041 --> 00:10:05,745
+<i> Quando eu era criança, papai colocou uma máquina de remo no porão. </i>
+
+167
+00:10:05,779 --> 00:10:07,303
+<i> Ele usava todas as manhãs, </i>
+
+168
+00:10:07,338 --> 00:10:10,214
+remando em um piso frio de concreto na Virgínia.
+
+169
+00:10:10,248 --> 00:10:13,684
+Lembro que ele fechava os olhos, talvez imaginando que estivesse remando
+
+170
+00:10:13,718 --> 00:10:16,153
+<i> através de grandes rios, grandes oceanos. </i>
+
+171
+00:10:16,187 --> 00:10:18,822
+<i> Lugares que ele queria visitar um dia, mas nunca o fez. </i>
+
+172
+00:10:20,725 --> 00:10:23,193
+<i> Penso muito no papai quando estou aqui. </i>
+
+173
+00:10:23,714 --> 00:10:25,849
+<i> Junto com o torcedor dos Tigres, </i>
+
+174
+00:10:25,883 --> 00:10:28,585
+<i> é assim que eu permaneço conectado a ele. </i>
+
+175
+00:10:39,463 --> 00:10:40,597
+Magnum.
+
+176
+00:10:40,631 --> 00:10:41,898
+Detetive Katsumoto.
+
+177
+00:10:45,462 --> 00:10:46,703
+O que há de errado?
+
+178
+00:10:47,589 --> 00:10:50,740
+Jack Candler foi assassinado ontem à noite, em sua cobertura.
+
+179
+00:10:52,300 --> 00:10:56,680
+- O que? - Houve um roubo das pinturas.
+
+180
+00:10:58,449 --> 00:11:01,585
+Jack deve ter atrapalhado.
+
+181
+00:11:02,920 --> 00:11:04,588
+Ele foi baleado, contato próximo.
+
+182
+00:11:05,756 --> 00:11:07,253
+E pelo que podemos dizer,
+
+183
+00:11:07,288 --> 00:11:09,092
+o assassino entrou pelo respiradouro,
+
+184
+00:11:09,126 --> 00:11:11,962
+depois desabilitou as medidas de segurança na galeria.
+
+185
+00:11:11,996 --> 00:11:13,496
+Quão?
+
+186
+00:11:13,531 --> 00:11:16,066
+Do mesmo jeito que você fez. Mesmos métodos.
+
+187
+00:11:16,785 --> 00:11:18,953
+Agora, você sabe o que isso significa, não sabe, Magnum?
+
+188
+00:11:20,079 --> 00:11:22,547
+Alguém deve ter conseguido o meu relatório.
+
+189
+00:11:22,582 --> 00:11:25,008
+Sim. E eles apenas usaram para matar um homem,
+
+190
+00:11:25,042 --> 00:11:26,810
+roubar uma fortuna no art.
+
+191
+00:11:40,267 --> 00:11:43,489
+<i> Katsumoto parou de dizer que eu tinha sangue em minhas mãos. </i>
+
+192
+00:11:43,523 --> 00:11:45,271
+<i> Mas ele estava pensando. </i>
+
+193
+00:11:46,006 --> 00:11:47,816
+<i> Não posso dizer que o culpo. </i>
+
+194
+00:11:50,463 --> 00:11:53,038
+<i> Não posso culpar ninguém por pensar nisso. </i>
+
+195
+00:11:53,063 --> 00:11:55,798
+33º andar.
+
+196
+00:11:55,882 --> 00:11:57,492
+Você tem cinco minutos.
+
+197
+00:12:17,971 --> 00:12:19,939
+Você não precisa estar aqui.
+
+198
+00:12:19,973 --> 00:12:23,943
+Temos que descobrir quem mais teve acesso ao seu relatório, correto?
+
+199
+00:12:23,977 --> 00:12:25,436
+Sim.
+
+200
+00:12:25,461 --> 00:12:27,462
+Então vamos encontrar Chen.
+
+201
+00:12:38,325 --> 00:12:39,951
+Eu vou chamá-lo de volta.
+
+202
+00:12:40,360 --> 00:12:42,101
+Eu realmente não acho que você deveria estar aqui.
+
+203
+00:12:42,135 --> 00:12:43,863
+- Escute, eu ... - Sr. Masters assegurou a Jack
+
+204
+00:12:43,897 --> 00:12:45,865
+esse homem pode ser discreto.
+
+205
+00:12:45,899 --> 00:12:48,273
+Ele está morto agora porque Masters estava errado.
+
+206
+00:12:48,307 --> 00:12:50,102
+Olha, eu sei que você está chateada.
+
+207
+00:12:50,136 --> 00:12:52,499
+Eu também sou, mas você não deve culpar Magnum por isso.
+
+208
+00:12:52,533 --> 00:12:53,846
+O que mais eu devo pensar?
+
+209
+00:12:53,846 --> 00:12:55,713
+Que existem duas maneiras pelas quais o assassino poderia ter
+
+210
+00:12:55,747 --> 00:12:58,010
+segurar meu relatório ... de mim ou de Candler ...
+
+211
+00:12:58,045 --> 00:12:59,350
+e eu não dei a ninguém.
+
+212
+00:12:59,384 --> 00:13:01,680
+Eu também tinha o pessoal de TI do Sr. Masters
+
+213
+00:13:01,715 --> 00:13:03,867
+esfregue todos os bytes do computador que a Magnum usou
+
+214
+00:13:03,892 --> 00:13:05,225
+para carregar a análise.
+
+215
+00:13:05,260 --> 00:13:06,493
+Não houve brecha.
+
+216
+00:13:06,528 --> 00:13:09,463
+O que significa que o assassino deve ter posto os olhos na cópia de Jack.
+
+217
+00:13:09,497 --> 00:13:11,136
+Jack nem me mostrou.
+
+218
+00:13:11,170 --> 00:13:12,299
+E a companhia de seguros?
+
+219
+00:13:12,333 --> 00:13:14,334
+Eu não sei. Você deveria perguntar a eles.
+
+220
+00:13:18,339 --> 00:13:20,783
+Olha, me desculpe.
+
+221
+00:13:21,609 --> 00:13:22,709
+Isto é difícil.
+
+222
+00:13:23,119 --> 00:13:24,645
+Sim.
+
+223
+00:13:24,679 --> 00:13:26,380
+Se você me der licença,
+
+224
+00:13:26,414 --> 00:13:28,449
+Tenho arranjos de funeral para fazer.
+
+225
+00:13:37,859 --> 00:13:40,294
+Vou descobrir quem fez isso.
+
+226
+00:13:43,298 --> 00:13:45,566
+Isso é um assunto policial, Magnum.
+
+227
+00:13:45,600 --> 00:13:48,469
+O detetive Katsumoto não vai gostar da sua interferência.
+
+228
+00:13:49,062 --> 00:13:51,004
+Você está dizendo que eu deveria ficar de fora disso?
+
+229
+00:13:51,039 --> 00:13:53,407
+Estou dizendo para não ser pego.
+
+230
+00:13:53,441 --> 00:13:55,609
+E o que você precisar, eu ajudo.
+
+231
+00:13:57,879 --> 00:14:01,315
+Eu sei que Candler ... Jack ... foi especial para você, então ...
+
+232
+00:14:01,349 --> 00:14:04,243
+Deixe-me saber o que você precisa.
+
+233
+00:14:08,790 --> 00:14:11,525
+<I> O que eu preciso agora é encontrar essas pinturas. </ I>
+
+234
+00:14:11,559 --> 00:14:13,293
+<i> Encontre a arte, encontre o assassino. </i>
+
+235
+00:14:13,328 --> 00:14:16,296
+<i> Mas, para fazer isso, vou precisar de ajuda. </i>
+
+236
+00:14:18,174 --> 00:14:19,466
+<i> Ok, então ... </i>
+
+237
+00:14:19,501 --> 00:14:21,602
+aqui está o que estou pensando. Rick, converse com seus amigos.
+
+238
+00:14:21,636 --> 00:14:23,871
+Veja se você pode obter uma pista sobre as pinturas roubadas.
+
+239
+00:14:23,905 --> 00:14:25,539
+TC, eu quero que você tente descobrir
+
+240
+00:14:25,573 --> 00:14:28,630
+como alguém moveria mercadorias roubadas de luxo da ilha.
+
+241
+00:14:28,664 --> 00:14:30,010
+Enquanto isso,
+
+242
+00:14:30,044 --> 00:14:32,346
+Vou tentar descobrir quem vazou meu relatório.
+
+243
+00:14:34,565 --> 00:14:35,616
+O que?
+
+244
+00:14:35,650 --> 00:14:37,451
+Escute, Thomas,
+
+245
+00:14:37,485 --> 00:14:39,853
+Me desculpe pelo que aconteceu com esse cara do Candler,
+
+246
+00:14:39,888 --> 00:14:42,656
+- mas estou com uma reserva sólida hoje. - E eu tenho um clube para administrar.
+
+247
+00:14:43,491 --> 00:14:45,025
+Então o que você está dizendo?
+
+248
+00:14:45,059 --> 00:14:47,327
+Nem sempre podemos largar o que estamos fazendo
+
+249
+00:14:47,362 --> 00:14:48,795
+para ajudá-lo com um caso.
+
+250
+00:14:48,830 --> 00:14:50,941
+É sobre limites, Thomas.
+
+251
+00:14:50,975 --> 00:14:53,534
+Olha, eu entendi. E-e você provavelmente está certo,
+
+252
+00:14:53,568 --> 00:14:55,802
+mas Candler era amigo de Robin.
+
+253
+00:14:55,837 --> 00:14:58,098
+Ele está até voando para o funeral.
+
+254
+00:14:58,132 --> 00:15:00,574
+E Higgins também estava perto dele.
+
+255
+00:15:00,608 --> 00:15:02,042
+Uh ...
+
+256
+00:15:02,076 --> 00:15:04,011
+Por que você não começou com isso?
+
+257
+00:15:04,045 --> 00:15:05,824
+O homem não sabe contar uma história.
+
+258
+00:15:05,858 --> 00:15:07,648
+Sem brincadeiras. Você começa com isso.
+
+259
+00:15:07,682 --> 00:15:09,516
+Estamos - estamos dentro. O que você precisar.
+
+260
+00:15:09,551 --> 00:15:11,585
+- Obrigado. - Agora...
+
+261
+00:15:11,619 --> 00:15:13,554
+diga-me novamente, o que você quer que eu faça?
+
+262
+00:15:13,588 --> 00:15:14,772
+Eu não estava ouvindo antes.
+
+263
+00:15:15,904 --> 00:15:18,506
+♪
+
+264
+00:15:23,698 --> 00:15:24,998
+Então, quem é o seu contato?
+
+265
+00:15:25,033 --> 00:15:27,366
+Uh, não é meu. É amigo de um amigo.
+
+266
+00:15:27,367 --> 00:15:30,769
+Supostamente, ela é uma traficante de arte super chique.
+
+267
+00:15:30,804 --> 00:15:33,839
+A notícia na rua é que ela tem laços com o mercado negro.
+
+268
+00:15:33,873 --> 00:15:35,868
+Tenho que dizer, porém,
+
+269
+00:15:35,902 --> 00:15:38,377
+ela não pode ser tão chique se estiver trabalhando neste bairro.
+
+270
+00:15:38,411 --> 00:15:39,812
+O que você quer dizer?
+
+271
+00:15:39,846 --> 00:15:42,281
+Vamos, cara, olhe ao seu redor. Tudo o que vejo é grafite.
+
+272
+00:15:42,315 --> 00:15:44,283
+Irmão, este é Kaka'ako.
+
+273
+00:15:44,317 --> 00:15:47,453
+Place tem os melhores artistas de rua da ilha.
+
+274
+00:15:47,487 --> 00:15:50,522
+Quero dizer, murais como esse são vendidos por seis dígitos.
+
+275
+00:15:50,557 --> 00:15:51,690
+Sim, não é um bairro tão ruim.
+
+276
+00:15:51,725 --> 00:15:53,292
+Uau.
+
+277
+00:15:53,326 --> 00:15:54,562
+Isso é lindo.
+
+278
+00:15:55,813 --> 00:15:58,731
+Você vê como o espaço negativo chama a atenção?
+
+279
+00:15:59,233 --> 00:16:00,833
+E o sfumato.
+
+280
+00:16:00,867 --> 00:16:03,905
+Lembra-me dos primeiros artistas renascentistas.
+
+281
+00:16:05,272 --> 00:16:07,339
+É praticamente um ticiano.
+
+282
+00:16:07,374 --> 00:16:08,907
+Desde quando você conhece arte?
+
+283
+00:16:10,510 --> 00:16:12,411
+Eu minorei na história da arte.
+
+284
+00:16:12,445 --> 00:16:13,645
+Oh, desculpe, espere, espere.
+
+285
+00:16:13,680 --> 00:16:15,152
+Você disse que era menor na história da arte?
+
+286
+00:16:15,186 --> 00:16:16,248
+Sim então?
+
+287
+00:16:16,282 --> 00:16:18,384
+Quero dizer, eu não poderia entrar na escola de arte,
+
+288
+00:16:18,418 --> 00:16:19,885
+então eu estudei história da arte.
+
+289
+00:16:19,919 --> 00:16:22,488
+Como estou descobrindo isso agora?
+
+290
+00:16:22,522 --> 00:16:24,723
+Porque eu achei que seu pequeno cérebro não aguentava seu garoto
+
+291
+00:16:24,758 --> 00:16:26,825
+tendo toda essa cultura nele.
+
+292
+00:16:26,860 --> 00:16:29,328
+Veja, eu teria estragado sua mente.
+
+293
+00:16:29,362 --> 00:16:32,731
+Só não achei que você era um nerd de arte.
+
+294
+00:16:32,766 --> 00:16:35,834
+Quero dizer, um nerd de grandes dimensões, claro, mas, no entanto.
+
+295
+00:16:35,869 --> 00:16:37,669
+Essa é ela?
+
+296
+00:16:37,704 --> 00:16:39,338
+Uh ...
+
+297
+00:16:39,372 --> 00:16:41,507
+Madison.
+
+298
+00:16:43,576 --> 00:16:46,412
+Ei. Oi. Madison?
+
+299
+00:16:46,781 --> 00:16:48,514
+Qual de vocês é Rick?
+
+300
+00:16:48,548 --> 00:16:50,349
+Ele é, mas você pode chamá-lo de Orville.
+
+301
+00:16:50,383 --> 00:16:51,350
+Eu sou o TC.
+
+302
+00:16:51,384 --> 00:16:52,851
+- Você pode me chamar de Rick. - OK.
+
+303
+00:16:52,886 --> 00:16:54,553
+Vamos deixar uma coisa bem clara.
+
+304
+00:16:54,587 --> 00:16:56,922
+A única razão pela qual estamos conversando é porque você é um amigo de Icepick.
+
+305
+00:16:56,956 --> 00:16:58,924
+Entendido.
+
+306
+00:16:58,958 --> 00:17:00,959
+Então, você quer saber sobre algumas obras de arte
+
+307
+00:17:00,994 --> 00:17:02,628
+que foi roubado recentemente.
+
+308
+00:17:02,662 --> 00:17:04,630
+Sim. Você pode nos dizer alguma coisa?
+
+309
+00:17:05,049 --> 00:17:07,235
+Bem, ninguém se aproximou de mim, mas ouvi sussurros.
+
+310
+00:17:07,269 --> 00:17:10,035
+Dizem que há meia dúzia de peças procurando um novo lar.
+
+311
+00:17:10,070 --> 00:17:13,739
+De qualquer maneira, você pode perguntar o nome do vendedor?
+
+312
+00:17:15,685 --> 00:17:16,942
+OK.
+
+313
+00:17:16,976 --> 00:17:19,411
+Se eu descobrir alguma coisa, vou lhe dar um grito.
+
+314
+00:17:19,446 --> 00:17:20,913
+Aloha.
+
+315
+00:17:22,281 --> 00:17:24,048
+Aloha.
+
+316
+00:17:25,285 --> 00:17:27,553
+Espere, espere, espere. Eu quero voltar a essa coisa de arte.
+
+317
+00:17:27,587 --> 00:17:29,421
+- Cale-se. - Não, eu ... não, não, eu apenas,
+
+318
+00:17:29,456 --> 00:17:32,825
+h-me ouça: 18 meses e 11 dias em um campo de prisioneiros de guerra.
+
+319
+00:17:32,859 --> 00:17:34,704
+Como agora estou ouvindo sobre isso?
+
+320
+00:17:35,621 --> 00:17:38,163
+Thomas, garanto-lhe,
+
+321
+00:17:38,197 --> 00:17:40,765
+A RTX Insurance não vazou seu relatório.
+
+322
+00:17:40,800 --> 00:17:43,469
+Mas Candler lhe deu uma cópia.
+
+323
+00:17:43,503 --> 00:17:45,237
+Sim, mas apenas para mim.
+
+324
+00:17:45,271 --> 00:17:48,340
+E foi apenas no meu laptop, que é fortemente criptografado,
+
+325
+00:17:48,374 --> 00:17:51,443
+então, a menos que você pense que sou um ladrão de arte ...
+
+326
+00:17:52,278 --> 00:17:56,147
+Allie, você é muitas coisas, mas ...
+
+327
+00:17:56,382 --> 00:17:58,019
+ladrão não é um deles.
+
+328
+00:18:00,487 --> 00:18:04,423
+Eu não sei. Isso simplesmente não faz sentido.
+
+329
+00:18:04,457 --> 00:18:07,025
+Como o assassino teria acesso a ele?
+
+330
+00:18:07,060 --> 00:18:09,595
+Eu não sei. Mas eu vou te dizer uma coisa:
+
+331
+00:18:09,629 --> 00:18:11,296
+você precisa descobrir rápido.
+
+332
+00:18:11,331 --> 00:18:13,632
+Porque se as pessoas começarem a culpar você pelo que aconteceu,
+
+333
+00:18:13,666 --> 00:18:16,268
+ou pior, pense que você tinha algo a ver com isso,
+
+334
+00:18:16,746 --> 00:18:18,437
+ninguém vai te contratar.
+
+335
+00:18:20,874 --> 00:18:24,977
+♪ Oh, meninas, eles querem se divertir ... ♪
+
+336
+00:18:25,011 --> 00:18:26,305
+Ei, Rick.
+
+337
+00:18:26,339 --> 00:18:28,447
+Ei, estamos na sua casa. Onde você está?
+
+338
+00:18:28,481 --> 00:18:30,516
+É melhor ele não estar batendo no caminhão de churrasco de Kim
+
+339
+00:18:30,550 --> 00:18:31,850
+enquanto fazemos todo o trabalho.
+
+340
+00:18:31,885 --> 00:18:33,485
+Não, não estou.
+
+341
+00:18:33,520 --> 00:18:34,953
+O que você tem?
+
+342
+00:18:34,988 --> 00:18:37,389
+Bem, podemos ter uma pista para você, amigo.
+
+343
+00:18:37,423 --> 00:18:38,990
+Ainda não temos nome, mas o cara
+
+344
+00:18:39,024 --> 00:18:41,293
+quem supostamente está empurrando a arte de Candler
+
+345
+00:18:41,327 --> 00:18:44,530
+é europeu ... possivelmente francês ...
+
+346
+00:18:44,564 --> 00:18:46,859
+cabeça raspada, 40 anos.
+
+347
+00:18:49,335 --> 00:18:52,471
+Espere, espere. II vi um cara na festa de Candler
+
+348
+00:18:52,505 --> 00:18:54,873
+com a cabeça raspada ... francês.
+
+349
+00:18:54,908 --> 00:18:56,308
+Você se lembra do nome dele, Thomas?
+
+350
+00:18:56,342 --> 00:18:59,044
+Christopher ou Christophe alguma coisa.
+
+351
+00:18:59,078 --> 00:19:00,579
+Christophe Midi?
+
+352
+00:19:00,613 --> 00:19:01,880
+Sim. Sim, você o conhece?
+
+353
+00:19:01,915 --> 00:19:04,082
+Sim, e ele é definitivamente obscuro.
+
+354
+00:19:04,502 --> 00:19:06,418
+Ei, essa é Allie?
+
+355
+00:19:06,452 --> 00:19:07,653
+O que há, menina?
+
+356
+00:19:07,687 --> 00:19:09,321
+Não me chame de "garota"
+
+357
+00:19:09,355 --> 00:19:11,089
+a menos que você queira que eu te chame de "Orville".
+
+358
+00:19:11,124 --> 00:19:12,891
+Ooh, queime.
+
+359
+00:19:12,926 --> 00:19:15,158
+Ok, bom trabalho, pessoal.
+
+360
+00:19:15,193 --> 00:19:16,929
+Eu devo-te uma.
+
+361
+00:19:17,801 --> 00:19:19,064
+Orville.
+
+362
+00:19:19,098 --> 00:19:20,566
+Está bem. Ela pode me chamar assim.
+
+363
+00:19:20,600 --> 00:19:22,768
+- Ela ... está bem. Orville.
+
+364
+00:19:22,802 --> 00:19:25,003
+<i> De acordo com Allie, Christophe Midi </i>
+
+365
+00:19:25,038 --> 00:19:28,840
+é um negociante de arte respeitado cujos <i> compradores por acaso incluem </i>
+
+366
+00:19:28,875 --> 00:19:32,344
+<i> Oligarcas russos e traficantes sul-americanos. </i>
+
+367
+00:19:32,378 --> 00:19:34,413
+<i> Estou pensando em alguém que nada nessa fossa </i>
+
+368
+00:19:34,447 --> 00:19:36,826
+<i> mataria para conseguir o que eles querem. </i>
+
+369
+00:19:47,393 --> 00:19:50,028
+♪
+
+370
+00:20:10,416 --> 00:20:13,085
+<i> Uma das grandes coisas de ser um investigador particular </i>
+
+371
+00:20:13,119 --> 00:20:14,380
+<i> é que você não precisa de um mandado, </i>
+
+372
+00:20:14,415 --> 00:20:18,056
+<i> apenas um desejo firme e inflexível de pegar um assassino. </i>
+
+373
+00:20:18,091 --> 00:20:21,593
+<i> E por Robin, por Higgins, eu consegui. </i>
+
+374
+00:20:22,079 --> 00:20:24,496
+E agora, graças a Rick e TC, <i> eu também tenho </i>
+
+375
+00:20:24,530 --> 00:20:27,099
+<i> uma boa liderança na forma de Christophe Midi. </i>
+
+376
+00:20:36,542 --> 00:20:40,045
+<i> Correção: eu tinha uma boa vantagem. </i>
+
+377
+00:20:45,134 --> 00:20:48,136
+♪
+
+378
+00:21:11,074 --> 00:21:13,275
+Bloqueie um raio de dois quarteirões, comece a investigar os vizinhos,
+
+379
+00:21:13,309 --> 00:21:15,710
+e não volte até encontrar uma testemunha. Ir.
+
+380
+00:21:15,745 --> 00:21:17,345
+Sim.
+
+381
+00:21:19,082 --> 00:21:20,217
+Toque em alguma coisa?
+
+382
+00:21:20,251 --> 00:21:23,885
+- Não é minha primeira cena de crime. - Não é uma resposta.
+
+383
+00:21:23,920 --> 00:21:25,541
+Porta dos fundos, porta da frente ...
+
+384
+00:21:25,851 --> 00:21:28,256
+Ah, e a geladeira.
+
+385
+00:21:28,804 --> 00:21:29,891
+Ei.
+
+386
+00:21:29,926 --> 00:21:32,661
+Diga ao laboratório para ter um conjunto de impressões da Magnum à mão
+
+387
+00:21:32,695 --> 00:21:34,129
+para fins de eliminação.
+
+388
+00:21:36,265 --> 00:21:39,067
+Sabe, eu tenho um contato que disse esse cara Midi
+
+389
+00:21:39,102 --> 00:21:40,700
+estava tentando mudar as pinturas de Candler.
+
+390
+00:21:40,734 --> 00:21:43,238
+Agora, não tenho certeza se ele estava roubando e matando,
+
+391
+00:21:43,272 --> 00:21:45,907
+mas eu o vi na festa de Candler.
+
+392
+00:21:45,942 --> 00:21:47,365
+Estou assumindo que ele estava fazendo reconhecimento.
+
+393
+00:21:47,399 --> 00:21:50,579
+Midi não era o ladrão. Todos os convidados tinham álibis
+
+394
+00:21:50,613 --> 00:21:51,913
+a noite do assalto, incluindo ele.
+
+395
+00:21:51,948 --> 00:21:53,014
+Ok, então ele tinha um parceiro.
+
+396
+00:21:53,049 --> 00:21:56,017
+Sim, alguém que se voltou contra ele, pelo que parece.
+
+397
+00:21:56,052 --> 00:21:57,953
+- Vocês têm suspeitos? - Ainda não.
+
+398
+00:21:57,987 --> 00:22:01,137
+Mas há alguém no nosso radar.
+
+399
+00:22:03,059 --> 00:22:05,260
+Você só pode estar brincando.
+
+400
+00:22:05,294 --> 00:22:06,962
+Seu relatório foi usado para invadir.
+
+401
+00:22:06,996 --> 00:22:09,598
+Agora é você quem encontra Midi morta.
+
+402
+00:22:09,632 --> 00:22:10,932
+Eu não posso te excluir exatamente.
+
+403
+00:22:10,967 --> 00:22:13,135
+Eu estava seguindo uma pista sobre alguma arte que faltava
+
+404
+00:22:13,169 --> 00:22:15,637
+para ver quem vazou meu relatório. Isso é tudo.
+
+405
+00:22:18,154 --> 00:22:19,674
+O quê, você vai me levar?
+
+406
+00:22:21,210 --> 00:22:23,278
+Não. Você está livre para ir.
+
+407
+00:22:23,312 --> 00:22:25,380
+Mas vamos esclarecer uma coisa:
+
+408
+00:22:25,414 --> 00:22:28,316
+seu envolvimento neste caso terminou agora.
+
+409
+00:22:29,579 --> 00:22:31,647
+Mais alguma interferência, e eu cobrarei.
+
+410
+00:22:33,836 --> 00:22:35,837
+Entendido, detetive.
+
+411
+00:22:44,333 --> 00:22:46,868
+<i> Concordo com a teoria de Katsumoto. </i>
+
+412
+00:22:46,903 --> 00:22:49,404
+<i> Não é a parte de eu estar envolvido; </i>
+
+413
+00:22:49,438 --> 00:22:51,573
+<i> a parte em que Christophe Midi foi cruzada por um parceiro. </i>
+
+414
+00:22:51,607 --> 00:22:53,808
+<i> E espero que a identidade desse parceiro </i>
+
+415
+00:22:53,843 --> 00:22:55,774
+<i> está aqui no celular de Midi. </i>
+
+416
+00:22:56,679 --> 00:22:59,181
+<i> Ok, em minha defesa, levantei o telefone </i>
+
+417
+00:22:59,215 --> 00:23:02,317
+<i> antes que Katsumoto me dissesse para ficar de fora do caso. </i>
+
+418
+00:23:02,351 --> 00:23:04,853
+<i> Ótimo. </i>
+
+419
+00:23:04,887 --> 00:23:06,188
+<i> Identificação da impressão digital </i>
+
+420
+00:23:06,222 --> 00:23:08,857
+<i> Acho que não posso voltar e abrir o zíper da mala. </i>
+
+421
+00:23:08,891 --> 00:23:10,692
+<i> para obter as impressões de Midi. </i>
+
+422
+00:23:19,302 --> 00:23:22,437
+♪ Oh, meninas, eles querem se divertir ... ♪
+
+423
+00:23:22,471 --> 00:23:24,005
+Diga-me que você conseguiu alguma coisa.
+
+424
+00:23:24,040 --> 00:23:25,207
+Desculpe irmão.
+
+425
+00:23:25,241 --> 00:23:27,442
+Se alguém está tentando tirar essas pinturas da ilha,
+
+426
+00:23:27,476 --> 00:23:29,725
+- ninguém está falando. - Ótimo.
+
+427
+00:23:29,759 --> 00:23:32,013
+Há uma notícia que estou morrendo de vontade de compartilhar.
+
+428
+00:23:32,048 --> 00:23:35,016
+Nosso próprio Theodore Calvin é um louco por arte.
+
+429
+00:23:35,051 --> 00:23:36,451
+Te odeio.
+
+430
+00:23:36,485 --> 00:23:38,086
+Espera, o que?
+
+431
+00:23:38,120 --> 00:23:40,288
+Eu sei direito? Acontece que nosso garoto é minoria
+
+432
+00:23:40,323 --> 00:23:42,357
+na história da arte depois de ser rejeitado de ...
+
+433
+00:23:42,391 --> 00:23:44,192
+espere por isso ... escola de arte.
+
+434
+00:23:44,227 --> 00:23:45,449
+Ok, ok, acalme-se.
+
+435
+00:23:45,484 --> 00:23:48,063
+Escola de Artes? Vamos, TC, me diga que isso não é verdade.
+
+436
+00:23:48,097 --> 00:23:49,130
+Vamos, diga a ele.
+
+437
+00:23:49,165 --> 00:23:51,366
+- Diga à ele. - Sim.
+
+438
+00:23:51,400 --> 00:23:54,369
+É verdade. Quando eu era pequeno, havia isso
+
+439
+00:23:54,403 --> 00:23:57,272
+legal estúdio de arte na mesma rua da minha aula de dança ...
+
+440
+00:23:57,306 --> 00:23:59,140
+- Aula de dança? - ...e isso é...
+
+441
+00:23:59,175 --> 00:24:00,442
+... se tornou uma arte ...
+
+442
+00:24:00,476 --> 00:24:02,777
+Oh, meu Deus, estou tão feliz agora.
+
+443
+00:24:04,247 --> 00:24:06,481
+Oh, meu Deus, passamos 18 meses
+
+444
+00:24:06,515 --> 00:24:08,883
+e 11 dias em um campo de prisioneiros de guerra juntos.
+
+445
+00:24:08,918 --> 00:24:10,201
+Como isso nunca surgiu?
+
+446
+00:24:10,236 --> 00:24:11,349
+Direito?
+
+447
+00:24:11,383 --> 00:24:13,321
+Quero dizer, por que você não compartilha isso?
+
+448
+00:24:13,356 --> 00:24:14,956
+Sim, vamos lá, Thomas está certo, Theodore.
+
+449
+00:24:14,991 --> 00:24:16,224
+Você nos privou
+
+450
+00:24:16,259 --> 00:24:18,059
+de anos de agressão em você.
+
+451
+00:24:18,094 --> 00:24:19,427
+Isso não é legal, cara.
+
+452
+00:24:19,462 --> 00:24:21,062
+Gente, por mais que eu seja
+
+453
+00:24:21,097 --> 00:24:22,430
+apreciando completamente essa conversa inútil,
+
+454
+00:24:22,465 --> 00:24:24,499
+podemos simplesmente apresentá-lo até que o caso seja resolvido?
+
+455
+00:24:24,533 --> 00:24:27,235
+Isso é legal comigo. Eu tenho que voltar ao trabalho de qualquer maneira.
+
+456
+00:24:27,270 --> 00:24:28,403
+Imaginei que você diria isso.
+
+457
+00:24:28,437 --> 00:24:29,404
+Tchau.
+
+458
+00:24:29,438 --> 00:24:31,439
+Três, quatro, cinco.
+
+459
+00:24:31,474 --> 00:24:33,908
+Três quatro quatro.
+
+460
+00:24:33,943 --> 00:24:35,443
+Você quer que eu faça o que?
+
+461
+00:24:35,478 --> 00:24:37,512
+Quebrar o celular de Midi. Se você pode ajudar com isso,
+
+462
+00:24:37,546 --> 00:24:40,782
+então talvez possamos ter uma ideia de quem era seu parceiro.
+
+463
+00:24:40,816 --> 00:24:43,418
+Se você acha que isso ajudará a encontrar o assassino de Jack,
+
+464
+00:24:43,452 --> 00:24:45,086
+claro.
+
+465
+00:24:45,121 --> 00:24:46,844
+Obrigado.
+
+466
+00:24:53,062 --> 00:24:54,643
+Ei
+
+467
+00:24:56,065 --> 00:24:57,396
+pelo que vale a pena,
+
+468
+00:24:58,301 --> 00:24:59,944
+e não estou tentando bisbilhotar,
+
+469
+00:25:00,482 --> 00:25:02,234
+mas se você quiser conversar,
+
+470
+00:25:03,819 --> 00:25:06,474
+Eu sei como é perder alguém de quem você gosta.
+
+471
+00:25:06,509 --> 00:25:09,306
+Jack e eu não éramos amantes, Magnum.
+
+472
+00:25:09,341 --> 00:25:13,181
+Sim, mas posso dizer que havia algo especial lá, então ...
+
+473
+00:25:15,397 --> 00:25:17,124
+Ele era meu amigo.
+
+474
+00:25:20,910 --> 00:25:25,214
+E eu não tenho muitos nessa ilha.
+
+475
+00:25:28,497 --> 00:25:30,095
+Tendo um colega britânico,
+
+476
+00:25:32,435 --> 00:25:35,351
+alguém com quem eu poderia conversar, apenas ...
+
+477
+00:25:37,173 --> 00:25:40,909
+Bem, fez estar tão longe de casa
+
+478
+00:25:40,943 --> 00:25:42,544
+um pouco mais fácil.
+
+479
+00:25:47,780 --> 00:25:49,365
+Kumu.
+
+480
+00:25:52,088 --> 00:25:53,388
+Nós estaremos lá.
+
+481
+00:25:55,524 --> 00:25:56,858
+Algo está errado?
+
+482
+00:25:56,892 --> 00:25:58,893
+Você poderia dizer isso sim.
+
+483
+00:26:00,548 --> 00:26:02,230
+Primeiro, estou ligando para meu primo,
+
+484
+00:26:02,264 --> 00:26:04,099
+Capitão Gary Kawena em crimes graves,
+
+485
+00:26:04,133 --> 00:26:06,334
+então minha cunhada no conselho da cidade,
+
+486
+00:26:06,369 --> 00:26:08,236
+então vizinho do meu falecido tutu no escritório do promotor.
+
+487
+00:26:08,270 --> 00:26:09,337
+Senhora, se você não se acalmar ...
+
+488
+00:26:09,372 --> 00:26:10,939
+"Senhora"? Não me "madame".
+
+489
+00:26:10,973 --> 00:26:12,340
+Kumu.
+
+490
+00:26:12,375 --> 00:26:13,875
+A Gestapo aqui
+
+491
+00:26:13,909 --> 00:26:15,410
+diz que eles estão procurando aquela arte roubada.
+
+492
+00:26:15,444 --> 00:26:16,411
+Reivindicar que eles têm um mandado.
+
+493
+00:26:16,445 --> 00:26:18,650
+Nós temos um mandado.
+
+494
+00:26:18,684 --> 00:26:20,382
+- Sim? - Você não pode acreditar honestamente
+
+495
+00:26:20,416 --> 00:26:21,883
+que eu tenho essas pinturas.
+
+496
+00:26:21,917 --> 00:26:23,325
+O que acredito não é da sua conta.
+
+497
+00:26:23,359 --> 00:26:25,420
+O que importa é que o promotor acha que você faz.
+
+498
+00:26:25,454 --> 00:26:27,422
+- É para a casa principal também? - O juiz concordou
+
+499
+00:26:27,456 --> 00:26:29,457
+as pinturas poderiam estar em qualquer lugar do complexo.
+
+500
+00:26:29,492 --> 00:26:31,593
+Exceto que não, porque eu não os tenho.
+
+501
+00:26:31,627 --> 00:26:34,462
+Estou apenas fazendo meu trabalho, Magnum. Tudo bem, não atrapalhe.
+
+502
+00:26:34,497 --> 00:26:35,683
+Você já está sob uma nuvem.
+
+503
+00:26:35,718 --> 00:26:37,599
+Ele está certo, Magnum.
+
+504
+00:26:37,633 --> 00:26:40,435
+Apenas deixe-os fazer sua pesquisa.
+
+505
+00:26:40,469 --> 00:26:42,684
+Vamos, Thomas. Vamos.
+
+506
+00:26:47,403 --> 00:26:49,270
+Sim, Perez, o que você tem?
+
+507
+00:26:51,147 --> 00:26:53,448
+Eles destruíram os canteiros de flores.
+
+508
+00:26:53,482 --> 00:26:54,730
+Selvagens.
+
+509
+00:26:54,764 --> 00:26:56,551
+Eles vão embora em breve. Não se preocupe.
+
+510
+00:26:56,585 --> 00:26:59,888
+Isso é uma loucura. As pinturas não estão aqui.
+
+511
+00:26:59,922 --> 00:27:02,020
+Você está certo. Eles não são.
+
+512
+00:27:03,159 --> 00:27:05,093
+Acontece que eles estão em um armário de armazenamento em Wahiawa.
+
+513
+00:27:06,095 --> 00:27:08,229
+- Bem, são boas notícias. - Não para você.
+
+514
+00:27:08,264 --> 00:27:10,398
+O detetive Perez me disse que seu nome está no contrato de locação.
+
+515
+00:27:10,863 --> 00:27:13,334
+Detetive, isso é um absurdo.
+
+516
+00:27:13,369 --> 00:27:15,303
+Esta é uma configuração. Vamos.
+
+517
+00:27:15,337 --> 00:27:16,535
+Você precisa vir conosco, Magnum.
+
+518
+00:27:17,493 --> 00:27:19,027
+Coloque-o no carro.
+
+519
+00:27:52,403 --> 00:27:54,403
+Nenhum dano visível.
+
+520
+00:27:55,076 --> 00:27:56,395
+E o Chagall?
+
+521
+00:27:56,396 --> 00:27:57,362
+Está bem.
+
+522
+00:27:57,397 --> 00:27:59,364
+Tudo considerado, eles estão em ótima forma.
+
+523
+00:27:59,399 --> 00:28:00,799
+Mahalo, Sra. Hutton.
+
+524
+00:28:00,834 --> 00:28:02,701
+Mahelona, um oficial vai vê-lo.
+
+525
+00:28:03,373 --> 00:28:04,803
+Eu não acho que ele fez isso.
+
+526
+00:28:04,838 --> 00:28:06,115
+Desculpa?
+
+527
+00:28:06,150 --> 00:28:09,408
+Thomas Magnum. Eu o conheci na outra noite.
+
+528
+00:28:09,442 --> 00:28:11,743
+Um garoto de quatro anos sabe mais sobre arte do que ele.
+
+529
+00:28:13,680 --> 00:28:15,106
+Ela está certa.
+
+530
+00:28:15,140 --> 00:28:17,583
+E como você encontrou o armário de armazenamento?
+
+531
+00:28:18,639 --> 00:28:19,885
+<i> Uma dica anônima? </i>
+
+532
+00:28:19,919 --> 00:28:23,049
+Você só pode estar brincando comigo. Isso não grita "configuração"?
+
+533
+00:28:23,083 --> 00:28:24,756
+Tudo bem, então vamos falar sobre o seu álibi.
+
+534
+00:28:24,791 --> 00:28:26,959
+- Eu te disse, estava em casa. - Alguém pode verificar isso?
+
+535
+00:28:27,961 --> 00:28:30,762
+Não. Eu estava sozinho.
+
+536
+00:28:31,610 --> 00:28:32,764
+Detetive,
+
+537
+00:28:32,799 --> 00:28:35,801
+você é esperto demais para pensar que eu realmente fiz isso,
+
+538
+00:28:35,835 --> 00:28:37,836
+ou você acha que eu sou burra o suficiente
+
+539
+00:28:37,871 --> 00:28:39,826
+que eu colocaria o arrendamento em meu próprio nome?
+
+540
+00:28:43,288 --> 00:28:44,810
+Eu não te conheço, Magnum,
+
+541
+00:28:45,123 --> 00:28:46,678
+então eu não sei como você é burro.
+
+542
+00:28:46,713 --> 00:28:48,947
+O que eu sei
+
+543
+00:28:48,982 --> 00:28:52,484
+é que todo PI que eu conheci é um alimentador de fundo
+
+544
+00:28:52,518 --> 00:28:54,686
+em quem não se pode confiar.
+
+545
+00:28:54,721 --> 00:28:56,855
+Por exemplo, o telefone celular de Christophe Midi
+
+546
+00:28:56,890 --> 00:28:58,523
+estava faltando na cena do crime.
+
+547
+00:28:58,558 --> 00:29:01,098
+Você sabe alguma coisa sobre isso?
+
+548
+00:29:01,995 --> 00:29:04,997
+Ok, isso foi muito divertido, mas acho que terminei.
+
+549
+00:29:05,031 --> 00:29:06,443
+Até logo.
+
+550
+00:29:06,477 --> 00:29:09,167
+Ei, você acha que pode sair daqui?
+
+551
+00:29:09,202 --> 00:29:11,370
+Sim eu quero.
+
+552
+00:29:11,404 --> 00:29:12,901
+Você sabe porque?
+
+553
+00:29:13,640 --> 00:29:15,941
+Sem algemas. Eu não estou preso,
+
+554
+00:29:15,975 --> 00:29:18,522
+o que significa que esta é uma entrevista voluntária,
+
+555
+00:29:18,557 --> 00:29:20,779
+e sob as leis do grande estado do Havaí,
+
+556
+00:29:20,813 --> 00:29:22,137
+Estou livre para ir.
+
+557
+00:29:22,172 --> 00:29:23,782
+Acho que você roubou evidências de uma cena de crime.
+
+558
+00:29:23,816 --> 00:29:24,978
+Que tal eu te prender por isso?
+
+559
+00:29:25,012 --> 00:29:28,720
+Então eu vou advogado, e você não terá feito nada além de perder tempo.
+
+560
+00:29:28,755 --> 00:29:31,456
+Detetive, eu também não te conheço,
+
+561
+00:29:32,118 --> 00:29:33,818
+mas sendo quem era Candler,
+
+562
+00:29:33,853 --> 00:29:36,454
+Tenho certeza de que você está sob muita pressão para fazer uma prisão.
+
+563
+00:29:36,489 --> 00:29:39,124
+O problema é que acho que você não gosta de mim por isso.
+
+564
+00:29:39,158 --> 00:29:42,193
+Na verdade, eu chegaria ao ponto de dizer que você acha que estou sendo enquadrada.
+
+565
+00:29:42,228 --> 00:29:43,890
+Então você tem uma decisão a tomar,
+
+566
+00:29:43,925 --> 00:29:47,299
+me carregue ou me solte.
+
+567
+00:29:48,247 --> 00:29:49,730
+O que vai ser?
+
+568
+00:29:57,426 --> 00:29:58,493
+Higgy.
+
+569
+00:29:58,527 --> 00:30:01,529
+Obrigado por mostrar. Aprecie o apoio moral.
+
+570
+00:30:02,200 --> 00:30:04,365
+Eu tenho informações, Magnum.
+
+571
+00:30:04,399 --> 00:30:06,000
+Por favor, diga-me que você entrou no telefone de Midi.
+
+572
+00:30:06,034 --> 00:30:08,402
+Sim. Agradeça aos céus pela supercola.
+
+573
+00:30:08,437 --> 00:30:10,571
+- Supercola? - Usando a fumaça,
+
+574
+00:30:10,606 --> 00:30:12,815
+Consegui tirar a impressão digital de Midi da tela.
+
+575
+00:30:12,850 --> 00:30:14,675
+Fez uma cópia e usou isso para desbloquear o telefone.
+
+576
+00:30:14,710 --> 00:30:16,711
+Ok, um: isso é muito legal.
+
+577
+00:30:16,745 --> 00:30:18,746
+Você absolutamente vai ter que me mostrar como fazer isso.
+
+578
+00:30:18,781 --> 00:30:20,515
+E dois: você encontrou alguma coisa?
+
+579
+00:30:20,549 --> 00:30:22,650
+Possivelmente.
+
+580
+00:30:23,472 --> 00:30:25,386
+James. O que você está fazendo aqui?
+
+581
+00:30:25,420 --> 00:30:27,855
+Vim aqui para tomar posse da propriedade do Sr. Candler
+
+582
+00:30:27,890 --> 00:30:29,824
+em nome de sua propriedade.
+
+583
+00:30:29,858 --> 00:30:31,726
+Ele gostaria que sua arte fosse vista pelas massas,
+
+584
+00:30:31,760 --> 00:30:34,613
+não consignado a algum quarto escuro no porão do departamento de polícia.
+
+585
+00:30:34,648 --> 00:30:36,617
+É evidência. Policiais não vão dar a você.
+
+586
+00:30:36,652 --> 00:30:38,533
+Bem, estes são alguns dos melhores advogados da ilha,
+
+587
+00:30:38,567 --> 00:30:39,667
+então vamos ver.
+
+588
+00:30:39,701 --> 00:30:41,961
+Ei, você pode perguntar se eles lidam com defesa criminal.
+
+589
+00:30:41,995 --> 00:30:43,437
+James. Eu sei como fica
+
+590
+00:30:43,472 --> 00:30:46,186
+mas Magnum não tinha nada a ver com nada disso.
+
+591
+00:30:46,221 --> 00:30:48,910
+- Realmente? Porque aqui está a minha aparência:
+
+592
+00:30:49,373 --> 00:30:52,780
+ele fez um teste a seco, testou a segurança de Jack,
+
+593
+00:30:52,815 --> 00:30:55,516
+identificar pontos fracos e depois invadir novamente de verdade
+
+594
+00:30:55,551 --> 00:30:57,451
+antes que tivéssemos a chance de resolver os problemas.
+
+595
+00:30:57,486 --> 00:30:59,520
+Então ele se juntou a Christophe para vender a arte,
+
+596
+00:30:59,555 --> 00:31:02,007
+e posso apenas assumir que Christophe tentou te ferrar no negócio,
+
+597
+00:31:02,041 --> 00:31:04,692
+- então você o matou. - Nada disso é verdade.
+
+598
+00:31:04,726 --> 00:31:06,761
+James, Magnum é muitas coisas.
+
+599
+00:31:06,795 --> 00:31:10,531
+Ele é um homem-criança inculto, um freeloader preguiçoso, um motorista terrível,
+
+600
+00:31:10,566 --> 00:31:14,869
+mas ele não é um ladrão, e ele definitivamente não é um assassino.
+
+601
+00:31:16,004 --> 00:31:19,040
+Bem, você vai me perdoar, mas, considerando tudo o que me disseram,
+
+602
+00:31:19,074 --> 00:31:21,108
+Estou achando isso muito difícil de acreditar.
+
+603
+00:31:28,748 --> 00:31:29,784
+O que?
+
+604
+00:31:30,764 --> 00:31:33,754
+"Freeloader preguiçoso, homem-criança inculto"?
+
+605
+00:31:33,789 --> 00:31:35,656
+Eu estava te defendendo.
+
+606
+00:31:35,691 --> 00:31:36,991
+A propósito, tudo é verdade.
+
+607
+00:31:37,879 --> 00:31:39,560
+O que você achou no telefone?
+
+608
+00:31:40,138 --> 00:31:42,525
+Algo bastante curioso. Na última semana,
+
+609
+00:31:42,550 --> 00:31:44,498
+Midi estava em contato com um homem chamado Wendell Kratten.
+
+610
+00:31:44,533 --> 00:31:46,467
+OK. Então, quem é Wendell Kratten?
+
+611
+00:31:46,501 --> 00:31:47,668
+De acordo com o Bureau of Prisons da Califórnia,
+
+612
+00:31:47,703 --> 00:31:49,437
+ele era um falsário de arte condenado.
+
+613
+00:31:49,471 --> 00:31:50,404
+Falsificador de arte?
+
+614
+00:31:50,439 --> 00:31:52,607
+Encontrei uma mensagem que Midi enviou a Kratten na semana passada.
+
+615
+00:31:52,641 --> 00:31:54,141
+Ele disse que ia ser intermediário
+
+616
+00:31:54,176 --> 00:31:56,010
+uma grande venda sob a mesa e que alguém envolvido
+
+617
+00:31:56,044 --> 00:31:58,079
+perguntou se ele conhecia algum artífice.
+
+618
+00:31:58,113 --> 00:32:01,047
+Ele disse a Kratten que aquela pessoa iria procurá-lo.
+
+619
+00:32:01,081 --> 00:32:02,683
+Ok, então aquele grande acordo debaixo da mesa
+
+620
+00:32:02,718 --> 00:32:03,951
+deve ser o trabalho de Candler.
+
+621
+00:32:03,986 --> 00:32:07,355
+Acordado. Só não sei como o falsificador de arte aparece nele.
+
+622
+00:32:08,008 --> 00:32:09,742
+Vamos perguntá-lo.
+
+623
+00:32:15,917 --> 00:32:18,901
+Ótimo. Provavelmente ponha isso em mim também.
+
+624
+00:32:19,568 --> 00:32:20,701
+Ferimento na cabeça.
+
+625
+00:32:20,736 --> 00:32:22,528
+Sim, assim como Midi.
+
+626
+00:32:22,562 --> 00:32:24,639
+Provavelmente o mesmo assassino.
+
+627
+00:32:26,928 --> 00:32:28,042
+O que é isso?
+
+628
+00:32:28,076 --> 00:32:31,379
+Você vê isso - esse azul embaixo das unhas?
+
+629
+00:32:31,413 --> 00:32:34,371
+É feito de lápis-lazúli. Essa é uma pedra preciosa rara.
+
+630
+00:32:34,406 --> 00:32:36,717
+Você, você simplesmente não vê essa cor muito
+
+631
+00:32:36,752 --> 00:32:37,939
+passado a era vitoriana.
+
+632
+00:32:38,720 --> 00:32:42,598
+De repente, Thomas Magnum tem conhecimento de arte.
+
+633
+00:32:42,632 --> 00:32:44,392
+Certamente é um sinal do apocalipse.
+
+634
+00:32:44,426 --> 00:32:45,860
+Talvez eu deva orar.
+
+635
+00:32:45,894 --> 00:32:47,561
+Aí está. Você viu isso?
+
+636
+00:32:47,596 --> 00:32:49,530
+Detroit Tiger azul.
+
+637
+00:32:49,564 --> 00:32:51,732
+Lembra da pintura da dama vitoriana?
+
+638
+00:32:51,767 --> 00:32:53,663
+Tinha a mesma cor azul.
+
+639
+00:32:54,937 --> 00:32:57,805
+O parceiro de Midi deve ter mandado Kratten forjá-lo.
+
+640
+00:32:57,839 --> 00:33:01,313
+Mas se você estiver certo, isso nos faz pensar
+
+641
+00:33:01,348 --> 00:33:03,811
+se HPD tem o original ou o falso.
+
+642
+00:33:03,845 --> 00:33:05,913
+Seis pinturas roubadas,
+
+643
+00:33:05,948 --> 00:33:07,848
+seis pinturas recuperadas.
+
+644
+00:33:07,883 --> 00:33:10,818
+No meio, uma dessas pinturas foi secretamente forjada.
+
+645
+00:33:10,852 --> 00:33:13,587
+Enquanto isso, quem está por trás disso ainda tem o original.
+
+646
+00:33:13,622 --> 00:33:15,089
+Mas Jack disse que era de longe
+
+647
+00:33:15,123 --> 00:33:16,691
+o menos valioso da coleção.
+
+648
+00:33:16,725 --> 00:33:18,253
+Por que passar por esse problema?
+
+649
+00:33:18,830 --> 00:33:21,696
+Talvez seja mais valioso do que alguém imagina.
+
+650
+00:33:21,730 --> 00:33:23,831
+Quero dizer, essa é a única resposta que se encaixa.
+
+651
+00:33:23,865 --> 00:33:25,833
+Você não vai passar pelo problema de roubar algo
+
+652
+00:33:25,867 --> 00:33:26,834
+se não for valioso.
+
+653
+00:33:26,868 --> 00:33:28,069
+Mas como isso poderia ser valioso?
+
+654
+00:33:28,990 --> 00:33:30,571
+Eu não sei.
+
+655
+00:33:30,605 --> 00:33:32,077
+Mas eu sei quem saberia.
+
+656
+00:33:33,411 --> 00:33:35,009
+Avaliador de arte.
+
+657
+00:33:37,112 --> 00:33:39,180
+♪
+
+658
+00:34:01,069 --> 00:34:03,270
+Você acredita sinceramente que Tracy Hutton é capaz de matar?
+
+659
+00:34:03,305 --> 00:34:04,538
+Dois, na verdade.
+
+660
+00:34:04,573 --> 00:34:05,976
+O cara lá e Christophe Midi.
+
+661
+00:34:06,010 --> 00:34:07,208
+Ambos foram traumatismo brusco na cabeça.
+
+662
+00:34:07,242 --> 00:34:08,709
+E o Jack?
+
+663
+00:34:09,811 --> 00:34:12,101
+Não tenho certeza. Ele foi morto com uma arma.
+
+664
+00:34:12,135 --> 00:34:13,714
+É um MO diferente, o que me faz pensar
+
+665
+00:34:13,749 --> 00:34:14,982
+havia uma segunda pessoa envolvida.
+
+666
+00:34:15,017 --> 00:34:17,585
+Vou preencher Katsumoto e dizer para ele me encontrar na casa de Tracy.
+
+667
+00:34:17,619 --> 00:34:19,086
+Eu vou ficar aqui e esperar por HPD.
+
+668
+00:34:19,121 --> 00:34:21,088
+Chaves.
+
+669
+00:34:21,710 --> 00:34:23,557
+Seja cuidadoso.
+
+670
+00:34:23,592 --> 00:34:25,926
+Ela é uma avaliadora de arte. Eu acho que posso lidar com ela.
+
+671
+00:34:27,129 --> 00:34:29,796
+<i> Todo mundo está assumindo o ladrão </i>
+
+672
+00:34:29,830 --> 00:34:31,665
+<i> soube derrotar a segurança de Candler </i>
+
+673
+00:34:31,700 --> 00:34:32,833
+<i> por causa do meu relatório. </i>
+
+674
+00:34:32,868 --> 00:34:34,168
+<i> Inferno, eu até me preocupei com isso. </i>
+
+675
+00:34:34,202 --> 00:34:36,270
+<i> Mas você sabe quem mais poderia ter vencido essa segurança? </i>
+
+676
+00:34:36,304 --> 00:34:38,105
+<i> Um insider. </i>
+
+677
+00:34:44,179 --> 00:34:45,849
+<i> Parece que James Chen é aquele insider. </i>
+
+678
+00:34:46,818 --> 00:34:49,119
+<i> Eu odeio quando minha vozinha está certa. </i>
+
+679
+00:34:51,381 --> 00:34:53,883
+Espero *** Chandler ***
+
+680
+00:35:04,857 --> 00:35:06,791
+Ok, vamos lá, vamos lá!
+
+681
+00:35:13,733 --> 00:35:15,667
+Então deixe-me adivinhar. Chen está tentando te matar
+
+682
+00:35:15,701 --> 00:35:17,669
+porque você deu as pinturas para a polícia.
+
+683
+00:35:17,703 --> 00:35:19,871
+Olha, eu não sei o que você acha que está acontecendo ...
+
+684
+00:35:19,906 --> 00:35:22,707
+Vou lhe dizer o que acho que está acontecendo.
+
+685
+00:35:22,742 --> 00:35:23,708
+Eu acho que você pegou Chen
+
+686
+00:35:23,743 --> 00:35:26,246
+roubar as pinturas, mas você não contou a ele
+
+687
+00:35:26,280 --> 00:35:28,880
+que você só estava interessado em um: o vitoriano.
+
+688
+00:35:28,915 --> 00:35:29,964
+E eu não sei como,
+
+689
+00:35:29,999 --> 00:35:32,684
+mas de alguma maneira Christophe descobriu, então você o matou.
+
+690
+00:35:32,718 --> 00:35:35,283
+Então você pegou o falsificador para fechar o loop.
+
+691
+00:35:36,155 --> 00:35:39,079
+Se você mentir para mim, eu vou entregá-lo a ele.
+
+692
+00:35:42,895 --> 00:35:44,062
+Eu não tive escolha.
+
+693
+00:35:44,096 --> 00:35:47,032
+Christophe disse que iria à polícia se não conseguisse um corte.
+
+694
+00:35:48,768 --> 00:35:51,670
+Olha, o vitoriano vale uma fortuna.
+
+695
+00:35:51,704 --> 00:35:53,004
+Nós podemos dividir.
+
+696
+00:35:54,073 --> 00:35:55,707
+Não.
+
+697
+00:36:02,181 --> 00:36:03,715
+Pare.
+
+698
+00:36:04,977 --> 00:36:06,151
+Aqui.
+
+699
+00:36:34,213 --> 00:36:36,715
+Tracy te enganou, Chen.
+
+700
+00:36:37,950 --> 00:36:39,751
+Ela fez você matar um bom homem.
+
+701
+00:36:39,785 --> 00:36:41,391
+Como é isso?
+
+702
+00:36:42,755 --> 00:36:44,589
+Ele chegou em casa cedo.
+
+703
+00:36:44,624 --> 00:36:46,604
+Não foi minha culpa.
+
+704
+00:36:49,895 --> 00:36:51,696
+Realmente?
+
+705
+00:37:07,780 --> 00:37:09,881
+Você está atrasado.
+
+706
+00:37:15,087 --> 00:37:18,303
+Ok, Tracy. Hora de falar.
+
+707
+00:37:21,794 --> 00:37:23,224
+Aparentemente, eu estava certa.
+
+708
+00:37:23,703 --> 00:37:24,996
+Essa coisa vale uma hortelã.
+
+709
+00:37:25,031 --> 00:37:28,104
+Acontece que há outra pintura embaixo dela.
+
+710
+00:37:33,873 --> 00:37:35,807
+Aí está.
+
+711
+00:37:35,841 --> 00:37:37,809
+Parece um velho mestre.
+
+712
+00:37:37,843 --> 00:37:40,145
+Oh, olhe para você com seu conhecimento de arte.
+
+713
+00:37:40,179 --> 00:37:42,414
+E sim, é um Rembrandt.
+
+714
+00:37:42,786 --> 00:37:44,849
+Adivinha o cara que fez a camada superior
+
+715
+00:37:44,884 --> 00:37:47,085
+pensei que ele estava apenas reutilizando uma tela antiga.
+
+716
+00:37:47,119 --> 00:37:49,187
+Não tinha ideia de que ele estava pintando uma obra-prima.
+
+717
+00:37:49,221 --> 00:37:51,144
+- Tracy descobriu. - Sim.
+
+718
+00:37:51,179 --> 00:37:52,824
+Mas infelizmente para ela,
+
+719
+00:37:52,858 --> 00:37:54,192
+Christophe Midi também se interessou.
+
+720
+00:37:54,226 --> 00:37:56,240
+Então ela teve que sujar as mãos.
+
+721
+00:37:56,274 --> 00:37:58,213
+Sim. Depois que os corpos começaram a se acumular,
+
+722
+00:37:58,214 --> 00:38:00,482
+ela sabia que vocês precisariam de alguém para apontar o dedo.
+
+723
+00:38:00,516 --> 00:38:02,651
+Bem, ainda bem que não caí nessa.
+
+724
+00:38:02,685 --> 00:38:04,319
+Não inteiramente.
+
+725
+00:38:05,821 --> 00:38:07,322
+Este recém-descoberto Rembrandt
+
+726
+00:38:07,356 --> 00:38:10,625
+causou uma sensação no mundo da arte.
+
+727
+00:38:10,660 --> 00:38:13,261
+Os planos estão em andamento para serem exibidos permanentemente
+
+728
+00:38:13,296 --> 00:38:15,297
+no Museu de arte de Honolulu.
+
+729
+00:38:15,331 --> 00:38:18,500
+O proprietário da pintura, o falecido Jack Candler,
+
+730
+00:38:18,534 --> 00:38:21,203
+será colocado para descansar hoje mais tarde.
+
+731
+00:38:21,237 --> 00:38:22,837
+Você viu Higgins?
+
+732
+00:38:23,409 --> 00:38:25,912
+Ela esteve no escritório a manhã toda.
+
+733
+00:38:50,233 --> 00:38:52,300
+TC está fora de dois minutos.
+
+734
+00:38:54,370 --> 00:38:56,438
+Robin é sempre cedo, não é?
+
+735
+00:38:59,654 --> 00:39:04,312
+Eu sei que não é um ... um shandy, mas ...
+
+736
+00:39:06,048 --> 00:39:07,949
+Eu pensei que talvez ...
+
+737
+00:39:09,998 --> 00:39:12,287
+Obrigado, Magnum.
+
+738
+00:39:16,713 --> 00:39:18,360
+Para Jack.
+
+739
+00:39:19,238 --> 00:39:20,602
+Para Jack.
+
+740
+00:39:31,352 --> 00:39:33,642
+Ele está aqui.
+
+741
+00:39:46,956 --> 00:39:49,424
+Perdeu sua gravata, não é?
+
+742
+00:39:49,458 --> 00:39:51,026
+Engraçado.
+
+743
+00:39:51,706 --> 00:39:53,884
+Diga a Robin que levarei alguns minutos.
+
+744
+00:39:54,584 --> 00:39:56,364
+Parece extremamente otimista.
+
+745
+00:39:59,802 --> 00:40:01,436
+Isso é patético.
+
+746
+00:40:01,470 --> 00:40:02,634
+Por favor vá.
+
+747
+00:40:03,439 --> 00:40:05,345
+Já basta. Posso?
+
+748
+00:40:16,652 --> 00:40:18,386
+Você está gostando disso, não é?
+
+749
+00:40:18,421 --> 00:40:19,954
+Mais do que você sabe.
+
+750
+00:40:19,989 --> 00:40:22,822
+- Encantador. - Isso é um pouco apertado.
+
+751
+00:40:22,857 --> 00:40:24,559
+Está perfeito.
+
+752
+00:40:24,593 --> 00:40:26,909
+Toque novamente e você não receberá seu pirulito.
+
+753
+00:40:27,596 --> 00:40:29,431
+Agora venha.
+
+754
+00:40:31,434 --> 00:40:32,634
+Deixar.
+
+755
+00:40:39,594 --> 00:40:42,713
+Sincronizado e corrigido por -robtor- www.addic7ed.com
+
