@@ -1,15 +1,15 @@
 1
 00:00:23,233 --> 00:00:26,462
 Levou o romance
-para outro nível, sr. Magnum.
+para outro nÃ­vel, sr. Magnum.
 
 2
 00:00:26,463 --> 00:00:27,934
-Qual a ocasião?
+Qual a ocasiÃ£o?
 
 3
 00:00:28,936 --> 00:00:31,110
-Só quis mostrar o quanto...
+SÃ³ quis mostrar o quanto...
 
 4
 00:00:37,117 --> 00:00:38,602
@@ -17,11 +17,11 @@ O quanto...
 
 5
 00:00:40,390 --> 00:00:41,915
-Rapazes, sério?
+Rapazes, sÃ©rio?
 
 6
 00:00:43,784 --> 00:00:45,702
-Vão fazer isso
+VÃ£o fazer isso
 a noite toda mesmo?
 
 7
@@ -44,15 +44,15 @@ Sim, tem sido muito bom.
 
 11
 00:01:04,344 --> 00:01:06,593
-que só vai melhorar.
+que sÃ³ vai melhorar.
 
 12
 00:01:26,943 --> 00:01:28,343
-Onde ele está?
+Onde ele estÃ¡?
 
 13
 00:01:37,122 --> 00:01:38,796
-Você consegue, irmão.
+VocÃª consegue, irmÃ£o.
 
 14
 00:01:47,088 --> 00:01:48,778
@@ -60,7 +60,7 @@ Queria se encontrar?
 
 15
 00:01:49,643 --> 00:01:53,163
-Sim. Você está roubando
+Sim. VocÃª estÃ¡ roubando
 meus clientes, Kamekona.
 
 16
@@ -70,26 +70,26 @@ Roubando seus clientes?
 
 17
 00:01:58,152 --> 00:02:02,264
-Faço esse <i>tour</i> de helicóptero
-muito antes de você vir para cá.
+FaÃ§o esse <i>tour</i> de helicÃ³ptero
+muito antes de vocÃª vir para cÃ¡.
 
 18
 00:02:02,950 --> 00:02:05,155
 Do jeito que vejo,
-são meus clientes
+sÃ£o meus clientes
 
 19
 00:02:05,156 --> 00:02:06,731
-e você os roubou.
+e vocÃª os roubou.
 
 20
 00:02:07,284 --> 00:02:08,872
-Você está lucrando muito.
+VocÃª estÃ¡ lucrando muito.
 
 21
 00:02:09,511 --> 00:02:11,294
-Você tem
-o caminhão de camarão
+VocÃª tem
+o caminhÃ£o de camarÃ£o
 
 22
 00:02:11,625 --> 00:02:14,216
@@ -103,12 +103,12 @@ que os caras da 5-0 te venderam.
 
 24
 00:02:16,904 --> 00:02:18,899
-E você? Você tem esse bar.
+E vocÃª? VocÃª tem esse bar.
 
 25
 00:02:19,695 --> 00:02:21,834
 Fiquei sabendo
-que ficou sócio do Rick.
+que ficou sÃ³cio do Rick.
 
 26
 00:02:21,835 --> 00:02:23,898
@@ -117,7 +117,7 @@ mas estou perdendo dinheiro,
 
 27
 00:02:23,899 --> 00:02:25,498
-não estou lucrando
+nÃ£o estou lucrando
 nada aqui.
 
 28
@@ -126,7 +126,7 @@ Eu ouvi isso. Me magoou.
 
 29
 00:02:27,909 --> 00:02:29,309
-É verdade.
+Ã‰ verdade.
 
 30
 00:02:30,513 --> 00:02:33,346
@@ -140,11 +140,11 @@ talvez ajude.
 
 32
 00:02:35,242 --> 00:02:36,647
-Isso machuca também.
+Isso machuca tambÃ©m.
 
 33
 00:02:37,004 --> 00:02:39,221
-Se fosse só eu,
+Se fosse sÃ³ eu,
 
 34
 00:02:39,222 --> 00:02:40,999
@@ -157,11 +157,11 @@ para pagar.
 
 36
 00:02:44,180 --> 00:02:45,764
-Também estou pensando nele.
+TambÃ©m estou pensando nele.
 
 37
 00:02:46,322 --> 00:02:47,922
-Você é um bom amigo.
+VocÃª Ã© um bom amigo.
 
 38
 00:02:49,005 --> 00:02:50,405
@@ -174,7 +174,7 @@ Respeito isso.
 40
 00:02:53,902 --> 00:02:56,122
 Talvez possamos
-dividir o negócio.
+dividir o negÃ³cio.
 
 41
 00:02:56,123 --> 00:02:58,681
@@ -187,12 +187,12 @@ vamos deixar com o outro.
 
 43
 00:03:00,841 --> 00:03:02,666
-É disso que estou falando.
+Ã‰ disso que estou falando.
 Fechado.
 
 44
 00:03:03,070 --> 00:03:04,470
-Ainda não.
+Ainda nÃ£o.
 
 45
 00:03:07,930 --> 00:03:12,300
@@ -201,7 +201,7 @@ e pedir um favor,
 
 46
 00:03:12,732 --> 00:03:14,818
-e você não vai recusar.
+e vocÃª nÃ£o vai recusar.
 
 47
 00:03:15,430 --> 00:03:16,851
@@ -210,7 +210,7 @@ Estamos claros?
 48
 00:03:17,312 --> 00:03:20,299
 Certo.
-Não vou recusar.
+NÃ£o vou recusar.
 
 49
 00:03:25,082 --> 00:03:26,922
@@ -246,12 +246,12 @@ noite passada.
 
 56
 00:03:45,386 --> 00:03:49,872
-É um daqueles encontros
+Ã‰ um daqueles encontros
 que continuam sem parar
 
 57
 00:03:49,873 --> 00:03:51,723
-até de manhãzinha.
+atÃ© de manhÃ£zinha.
 
 58
 00:03:52,148 --> 00:03:54,002
@@ -261,7 +261,7 @@ garoto.
 59
 00:03:55,861 --> 00:03:59,290
 No meu tempo,
-guardávamos segredo.
+guardÃ¡vamos segredo.
 
 60
 00:03:59,291 --> 00:04:00,814
@@ -269,12 +269,12 @@ Era o famoso ser discreto.
 
 61
 00:04:00,815 --> 00:04:04,439
-Discrição não é
+DiscriÃ§Ã£o nÃ£o Ã©
 o forte do Magnum.
 
 62
 00:04:04,440 --> 00:04:06,731
-- Como está, Harry?
+- Como estÃ¡, Harry?
 - Bom te ver, Thomas.
 
 63
@@ -284,18 +284,18 @@ o forte do Magnum.
 
 64
 00:04:11,106 --> 00:04:13,673
-Tenho um probleminha médico
+Tenho um probleminha mÃ©dico
 que tenho que cuidar.
 
 65
 00:04:13,674 --> 00:04:15,609
-- Está tudo bem?
-- Minha próstata
+- EstÃ¡ tudo bem?
+- Minha prÃ³stata
 
 66
 00:04:15,610 --> 00:04:18,302
-está do tamanho de uma laranja,
-então acho que não.
+estÃ¡ do tamanho de uma laranja,
+entÃ£o acho que nÃ£o.
 
 67
 00:04:18,303 --> 00:04:20,294
@@ -304,12 +304,12 @@ vou para a faca.
 
 68
 00:04:20,295 --> 00:04:21,980
-Acho que vão tirar
+Acho que vÃ£o tirar
 essa coisa
 
 69
 00:04:21,981 --> 00:04:25,388
-é passando uma vareta
+Ã© passando uma vareta
 pela uretra. 48 horas.
 
 70
@@ -320,7 +320,7 @@ pela uretra. 48 horas.
 71
 00:04:26,928 --> 00:04:29,419
 - Agora compartilhou demais.
-- Você perguntou.
+- VocÃª perguntou.
 
 72
 00:04:29,420 --> 00:04:31,211
@@ -329,7 +329,7 @@ beleza?
 
 73
 00:04:31,212 --> 00:04:32,837
-Quem é o cliente
+Quem Ã© o cliente
 deste trabalho?
 
 74
@@ -345,17 +345,17 @@ Abigail Miller.
 76
 00:04:39,371 --> 00:04:41,034
 Ela e o Magnum
-estão namorando.
+estÃ£o namorando.
 
 77
 00:04:41,035 --> 00:04:43,822
-Sério?
-Bom para você, garoto.
+SÃ©rio?
+Bom para vocÃª, garoto.
 
 78
 00:04:43,823 --> 00:04:46,433
 Gal parece ter tudo:
-inteligência, beleza.
+inteligÃªncia, beleza.
 
 79
 00:04:46,434 --> 00:04:48,231
@@ -365,7 +365,7 @@ Magnum,
 80
 00:04:48,232 --> 00:04:50,993
 mas, por que a Abby
-contratou ele e não você?
+contratou ele e nÃ£o vocÃª?
 
 81
 00:04:51,705 --> 00:04:53,489
@@ -374,12 +374,12 @@ Deve ser um caso antigo.
 82
 00:04:53,490 --> 00:04:55,056
 Fui contratado
-dois dias atrás.
+dois dias atrÃ¡s.
 
 83
 00:04:55,057 --> 00:04:57,972
 Devem ter trabalhado antes.
-É lealdade.
+Ã‰ lealdade.
 
 84
 00:04:57,973 --> 00:04:59,956
@@ -387,17 +387,17 @@ Nunca tinha encontrado ela.
 
 85
 00:04:59,957 --> 00:05:01,980
-Não quero bisbilhotar
+NÃ£o quero bisbilhotar
 nem nada,
 
 86
 00:05:01,981 --> 00:05:04,431
-mas está tudo bem
-entre vocês dois?
+mas estÃ¡ tudo bem
+entre vocÃªs dois?
 
 87
 00:05:04,432 --> 00:05:05,931
-Está tudo bem.
+EstÃ¡ tudo bem.
 
 88
 00:05:05,932 --> 00:05:07,644
@@ -411,21 +411,21 @@ sua vida amorosa,
 
 90
 00:05:10,617 --> 00:05:12,848
-esse trabalho é urgente.
+esse trabalho Ã© urgente.
 
 91
 00:05:12,849 --> 00:05:15,332
-Então preciso
-que alguém assuma.
+EntÃ£o preciso
+que alguÃ©m assuma.
 
 92
 00:05:15,333 --> 00:05:17,341
-Vai aceitar ou não?
+Vai aceitar ou nÃ£o?
 
 93
 00:05:20,472 --> 00:05:22,560
 <b><i>GeekS
-malandramente apresenta…</i></b>
+malandramente apresentaâ€¦</i></b>
 
 94
 00:05:22,561 --> 00:05:26,097
@@ -455,7 +455,7 @@ dreeh</i></b>
 99
 00:05:34,102 --> 00:05:36,102
 <b><i>Parceiro:
-tgobueno²</i></b>
+tgobuenoÂ²</i></b>
 
 100
 00:05:36,103 --> 00:05:38,103
@@ -474,7 +474,7 @@ um resto de bife e ovo?
 
 103
 00:05:49,287 --> 00:05:50,687
-Parece ótimo.
+Parece Ã³timo.
 
 104
 00:05:51,250 --> 00:05:53,448
@@ -483,7 +483,7 @@ Por que pediu
 105
 00:05:53,457 --> 00:05:55,833
 para Harry Brown
-ajudar você com um caso
+ajudar vocÃª com um caso
 
 106
 00:05:55,834 --> 00:05:57,631
@@ -505,7 +505,7 @@ E?
 
 110
 00:06:08,769 --> 00:06:12,581
-Não acho uma boa ideia misturar
+NÃ£o acho uma boa ideia misturar
 o pessoal e o profissional.
 
 111
@@ -515,7 +515,7 @@ Podemos ter problemas.
 112
 00:06:14,631 --> 00:06:17,772
 E nosso relacionamento
-é importante para mim.
+Ã© importante para mim.
 
 113
 00:06:17,773 --> 00:06:21,476
@@ -529,26 +529,26 @@ em pegar o caso.
 115
 00:06:27,228 --> 00:06:29,629
 Eu queria
-que não tivessem feito isso.
+que nÃ£o tivessem feito isso.
 
 116
 00:06:30,694 --> 00:06:33,579
 Harry disse que precisava
-do trabalho resolvido rápido,
+do trabalho resolvido rÃ¡pido,
 
 117
 00:06:33,580 --> 00:06:35,558
-e quem é melhor
+e quem Ã© melhor
 para fazer isso
 
 118
 00:06:35,559 --> 00:06:39,631
-de última hora
-e com dedicação do que eu?
+de Ãºltima hora
+e com dedicaÃ§Ã£o do que eu?
 
 119
 00:06:39,632 --> 00:06:42,867
-- Ninguém.
+- NinguÃ©m.
 - Exato.
 
 120
@@ -571,12 +571,12 @@ acho que eu consigo.
 124
 00:06:54,556 --> 00:06:57,713
 Vou trocar de roupa
-e falo com vocês.
+e falo com vocÃªs.
 
 125
 00:06:59,749 --> 00:07:03,455
 Recentemente, defendi
-o professor e escritor Inglês,
+o professor e escritor InglÃªs,
 
 126
 00:07:03,456 --> 00:07:05,475
@@ -609,7 +609,7 @@ que o relacionamento deles
 
 132
 00:07:17,874 --> 00:07:20,913
-era bem próximo.
+era bem prÃ³ximo.
 
 133
 00:07:20,914 --> 00:07:23,055
@@ -618,7 +618,7 @@ juntos fora da sala,
 
 134
 00:07:23,056 --> 00:07:25,181
-- até fora do campus.
+- atÃ© fora do campus.
 - <i>E-mails</i> mostraram
 
 135
@@ -638,8 +638,8 @@ atrapalhava o trabalho dela.
 
 138
 00:07:33,636 --> 00:07:37,928
-Mas ele ter sido a última pessoa
-a ver ela viva, não ajudou.
+Mas ele ter sido a Ãºltima pessoa
+a ver ela viva, nÃ£o ajudou.
 
 139
 00:07:37,929 --> 00:07:40,334
@@ -663,7 +663,7 @@ tinha um bom caso.
 
 143
 00:07:47,339 --> 00:07:49,534
-Sim, mas foi difícil provar
+Sim, mas foi difÃ­cil provar
 
 144
 00:07:49,535 --> 00:07:51,718
@@ -672,12 +672,12 @@ o corpo da Tabitha.
 
 145
 00:07:51,719 --> 00:07:54,818
-Além disso, tiveram
+AlÃ©m disso, tiveram
 outros suspeitos com motivos
 
 146
 00:07:54,819 --> 00:07:57,431
-e formas de matá-la:
+e formas de matÃ¡-la:
 o namorado ciumento,
 
 147
@@ -688,11 +688,11 @@ assistentes ciumentos.
 148
 00:08:00,674 --> 00:08:03,717
 - Uma longa lista.
-- Por isso não teve sentença.
+- Por isso nÃ£o teve sentenÃ§a.
 
 149
 00:08:03,718 --> 00:08:07,315
-Não significa que não vão
+NÃ£o significa que nÃ£o vÃ£o
 julgar Conlan novamente,
 
 150
@@ -708,11 +708,11 @@ outro suspeito
 152
 00:08:12,320 --> 00:08:15,939
 e provar que o meu cliente
-é realmente inocente.
+Ã© realmente inocente.
 
 153
 00:08:15,940 --> 00:08:19,532
-- Então temos que achar o corpo?
+- EntÃ£o temos que achar o corpo?
 - Sim.
 
 154
@@ -722,7 +722,7 @@ tem alguma coisa errada?
 
 155
 00:08:25,632 --> 00:08:28,687
-Não, não.
+NÃ£o, nÃ£o.
 Vamos resolver com isso.
 
 156
@@ -736,18 +736,18 @@ algo acontecendo?
 
 158
 00:08:43,396 --> 00:08:45,606
-Você não é quieto
+VocÃª nÃ£o Ã© quieto
 e isso...
 
 159
 00:08:46,282 --> 00:08:48,524
 e devo dizer...
-é preocupante.
+Ã© preocupante.
 
 160
 00:08:48,525 --> 00:08:52,105
 Acho que esse trabalho
-não faz sentido.
+nÃ£o faz sentido.
 
 161
 00:08:52,106 --> 00:08:53,703
@@ -764,8 +764,8 @@ faz muito sentido.
 
 164
 00:08:57,335 --> 00:08:58,867
-Não,
-não estou falando disso.
+NÃ£o,
+nÃ£o estou falando disso.
 
 165
 00:08:58,868 --> 00:09:00,994
@@ -780,7 +780,7 @@ que foi o Conlan.
 167
 00:09:04,974 --> 00:09:07,485
 Mas a Abby
-é uma boa advogada.
+Ã© uma boa advogada.
 
 168
 00:09:07,486 --> 00:09:09,269
@@ -789,17 +789,17 @@ Por que arriscar?
 169
 00:09:09,727 --> 00:09:13,961
 Talvez ela esteja
-convencida da inocência dele.
+convencida da inocÃªncia dele.
 
 170
 00:09:19,228 --> 00:09:20,972
-Não posso falar
+NÃ£o posso falar
 do caso do Conlan.
 
 171
 00:09:20,973 --> 00:09:23,082
 Estamos com a defesa,
-então o que tem,
+entÃ£o o que tem,
 
 172
 00:09:23,083 --> 00:09:25,600
@@ -813,32 +813,32 @@ de um processo.
 
 174
 00:09:27,790 --> 00:09:29,917
-Ótimo, então precisa falar.
+Ã“timo, entÃ£o precisa falar.
 
 175
 00:09:34,061 --> 00:09:37,569
 Olha,
-não ouviu isso de mim.
+nÃ£o ouviu isso de mim.
 
 176
 00:09:38,066 --> 00:09:40,686
-Não há nada para compartilhar,
-pois não tem um caso.
+NÃ£o hÃ¡ nada para compartilhar,
+pois nÃ£o tem um caso.
 
 177
 00:09:40,687 --> 00:09:43,717
 Achei que o caso do sr. Conlan
-não teve sentença.
+nÃ£o teve sentenÃ§a.
 
 178
 00:09:43,718 --> 00:09:45,877
 Sim, mas a Promotoria
-não julgará de novo.
+nÃ£o julgarÃ¡ de novo.
 
 179
 00:09:45,878 --> 00:09:49,012
-- Alguém disse para a advogada?
-- Acho que ela estava lá
+- AlguÃ©m disse para a advogada?
+- Acho que ela estava lÃ¡
 
 180
 00:09:49,013 --> 00:09:50,455
@@ -847,12 +847,12 @@ disse isso.
 
 181
 00:09:50,456 --> 00:09:53,720
-Não acham que têm evidências
+NÃ£o acham que tÃªm evidÃªncias
 para condenarem Conlan.
 
 182
 00:09:53,721 --> 00:09:56,086
-Vão anunciar isso
+VÃ£o anunciar isso
 em um ou dois dias.
 
 183
@@ -872,7 +872,7 @@ quer encontrar corpo
 186
 00:10:07,671 --> 00:10:09,800
 para um julgamento
-que não vai acontecer?
+que nÃ£o vai acontecer?
 
 187
 00:10:09,801 --> 00:10:11,829
@@ -882,7 +882,7 @@ que tinha algo errado.
 188
 00:10:15,345 --> 00:10:18,550
 <i>Abby,</i>
-o que está acontecendo?
+o que estÃ¡ acontecendo?
 
 189
 00:10:21,927 --> 00:10:23,456
@@ -908,18 +908,18 @@ O segundo livro dele,
 
 194
 00:10:47,713 --> 00:10:50,039
-É uma estória madura sombria
+Ã‰ uma estÃ³ria madura sombria
 sobre uma mulher
 
 195
 00:10:50,040 --> 00:10:53,689
-que é estranhamente similar
-à Tabitha com detalhes íntimos
+que Ã© estranhamente similar
+Ã  Tabitha com detalhes Ã­ntimos
 
 196
 00:10:53,690 --> 00:10:57,467
-que somente alguém que teve
-uma relação pessoal saberia.
+que somente alguÃ©m que teve
+uma relaÃ§Ã£o pessoal saberia.
 
 197
 00:10:57,468 --> 00:11:01,229
@@ -928,17 +928,17 @@ que nunca foram ao Tribunal,
 
 198
 00:11:01,230 --> 00:11:04,281
-que a Promotoria nem ninguém
+que a Promotoria nem ninguÃ©m
 teve acesso.
 
 199
 00:11:04,282 --> 00:11:07,628
-- Tipo o quê?
+- Tipo o quÃª?
 - O perfume favorita da Tabitha,
 
 200
 00:11:07,629 --> 00:11:10,231
-listas de músicas,
+listas de mÃºsicas,
 roupa que ela dormiu.
 
 201
@@ -948,13 +948,13 @@ parece revelar
 
 202
 00:11:13,646 --> 00:11:16,029
-uma obsessão psicopata
+uma obsessÃ£o psicopata
 com ela.
 
 203
 00:11:16,405 --> 00:11:19,279
 Sou advogada de defesa criminal
-há muito tempo.
+hÃ¡ muito tempo.
 
 204
 00:11:19,604 --> 00:11:22,765
@@ -968,28 +968,28 @@ diz que ele matou aquela garota
 
 206
 00:11:27,051 --> 00:11:30,022
-e que o cadáver dela está por aí
-e pode não ser encontrado.
+e que o cadÃ¡ver dela estÃ¡ por aÃ­
+e pode nÃ£o ser encontrado.
 
 207
 00:11:30,023 --> 00:11:34,194
 E por minha causa,
-esse animal ficará livre.
+esse animal ficarÃ¡ livre.
 
 208
 00:11:34,195 --> 00:11:37,320
-Não quer achar Tabitha
+NÃ£o quer achar Tabitha
 para defender Conlan...
 
 209
 00:11:37,321 --> 00:11:39,763
-Você quer
+VocÃª quer
 enterrar o cretino.
 
 210
 00:11:50,454 --> 00:11:52,343
-Por que não disse a verdade
-do início?
+Por que nÃ£o disse a verdade
+do inÃ­cio?
 
 211
 00:11:52,344 --> 00:11:54,411
@@ -998,21 +998,21 @@ todo juramento
 
 212
 00:11:54,412 --> 00:11:56,427
-que já fiz como advogada.
+que jÃ¡ fiz como advogada.
 
 213
 00:11:56,428 --> 00:11:58,374
-Trair a confiança
+Trair a confianÃ§a
 do meu cliente,
 
 214
 00:11:58,642 --> 00:12:01,525
-revelar informações
+revelar informaÃ§Ãµes
 confidenciais, ser desleal.
 
 215
 00:12:01,526 --> 00:12:03,151
-Mas é o certo a fazer.
+Mas Ã© o certo a fazer.
 
 216
 00:12:03,152 --> 00:12:04,728
@@ -1020,32 +1020,32 @@ Moralmente,
 
 217
 00:12:04,729 --> 00:12:07,831
-mas não legal
+mas nÃ£o legal
 ou eticamente.
 
 218
 00:12:07,832 --> 00:12:10,114
 Posso perder
-minha licença por isso.
+minha licenÃ§a por isso.
 
 219
 00:12:10,115 --> 00:12:13,288
 E qualquer um que me ajudar
-pode também pagar o preço.
+pode tambÃ©m pagar o preÃ§o.
 
 220
 00:12:13,289 --> 00:12:15,149
 Nunca iria querer por
-você ou Higgins
+vocÃª ou Higgins
 
 221
 00:12:15,150 --> 00:12:17,008
-nesse tipo de posição
+nesse tipo de posiÃ§Ã£o
 comprometedora.
 
 222
 00:12:17,009 --> 00:12:19,012
-Não é isso que importa
+NÃ£o Ã© isso que importa
 para mim
 
 223
@@ -1055,16 +1055,16 @@ ou Higgins.
 224
 00:12:21,371 --> 00:12:24,658
 Podemos assumir isso.
-Não arriscará sua licença.
+NÃ£o arriscarÃ¡ sua licenÃ§a.
 
 225
 00:12:24,659 --> 00:12:27,563
-- Não posso te pedir isso.
-- Não está pedindo.
+- NÃ£o posso te pedir isso.
+- NÃ£o estÃ¡ pedindo.
 
 226
 00:12:28,090 --> 00:12:29,490
-Nós queremos.
+NÃ³s queremos.
 
 227
 00:12:31,003 --> 00:12:34,256
@@ -1078,7 +1078,7 @@ o acusado erroneamente.
 
 229
 00:12:38,110 --> 00:12:41,221
-Talvez só estivesse
+Talvez sÃ³ estivesse
 me convencendo
 
 230
@@ -1108,17 +1108,17 @@ e onde foi vista.
 235
 00:13:03,843 --> 00:13:05,560
 E, ainda assim,
-não acharam nada.
+nÃ£o acharam nada.
 
 236
 00:13:05,561 --> 00:13:08,257
-É possível que tenham perdido
+Ã‰ possÃ­vel que tenham perdido
 alguma coisa. Uma pista.
 
 237
 00:13:09,062 --> 00:13:12,456
-E você, Abby?
-Algo nas suas anotações?
+E vocÃª, Abby?
+Algo nas suas anotaÃ§Ãµes?
 
 238
 00:13:12,457 --> 00:13:13,957
@@ -1127,8 +1127,8 @@ com ele.
 
 239
 00:13:13,958 --> 00:13:16,507
-Não, ele foi cuidadoso
-em não prover pistas
+NÃ£o, ele foi cuidadoso
+em nÃ£o prover pistas
 
 240
 00:13:16,508 --> 00:13:17,965
@@ -1142,7 +1142,7 @@ olhando isso errado,
 
 242
 00:13:21,107 --> 00:13:22,977
-olhando relatórios
+olhando relatÃ³rios
 e notas por pistas?
 
 243
@@ -1152,21 +1152,21 @@ o corpo dela,
 
 244
 00:13:24,510 --> 00:13:26,330
-Conlan deve nos levar lá.
+Conlan deve nos levar lÃ¡.
 
 245
 00:13:26,331 --> 00:13:28,353
 Fazendo-o pensar
-que tem razão para isso.
+que tem razÃ£o para isso.
 
 246
 00:13:28,354 --> 00:13:30,619
-- Isso é brilhante.
+- Isso Ã© brilhante.
 - O que disse que sou?
 
 247
 00:13:30,620 --> 00:13:32,794
-Não disse que você é brilhante,
+NÃ£o disse que vocÃª Ã© brilhante,
 mas a ideia.
 
 248
@@ -1180,25 +1180,25 @@ Desculpe.
 
 250
 00:13:48,398 --> 00:13:50,773
-Não tinha ideia que viria.
+NÃ£o tinha ideia que viria.
 
 251
 00:13:51,251 --> 00:13:53,433
-Desculpe não ligar antes.
+Desculpe nÃ£o ligar antes.
 
 252
 00:13:54,239 --> 00:13:55,989
-Precisava vê-lo,
+Precisava vÃª-lo,
 imediatamente.
 
 253
 00:13:58,272 --> 00:14:01,116
-Olhe, a Promotoria está querendo
+Olhe, a Promotoria estÃ¡ querendo
 julgar seu caso de novo.
 
 254
 00:14:01,336 --> 00:14:02,736
-Mas disse que não o fariam.
+Mas disse que nÃ£o o fariam.
 
 255
 00:14:02,737 --> 00:14:06,655
@@ -1212,13 +1212,13 @@ que uma pista apareceu
 
 257
 00:14:09,012 --> 00:14:11,619
-e a polícia poderia estar
-perto de encontrá-la.
+e a polÃ­cia poderia estar
+perto de encontrÃ¡-la.
 
 258
 00:14:12,173 --> 00:14:15,162
-Isso é bom, não? Certo?
-Achariam evidências
+Isso Ã© bom, nÃ£o? Certo?
+Achariam evidÃªncias
 
 259
 00:14:15,163 --> 00:14:17,062
@@ -1246,7 +1246,7 @@ a melhor advogada da ilha,
 
 264
 00:14:27,447 --> 00:14:29,260
-então não estou preocupado.
+entÃ£o nÃ£o estou preocupado.
 
 265
 00:14:29,261 --> 00:14:33,106
@@ -1260,7 +1260,7 @@ Obrigado, Abby. Obrigado.
 267
 00:14:36,920 --> 00:14:39,361
 - Bom te ver.
-- Sim, você também.
+- Sim, vocÃª tambÃ©m.
 
 268
 00:14:46,631 --> 00:14:48,809
@@ -1270,7 +1270,7 @@ Obrigado, Abby. Obrigado.
 269
 00:14:49,616 --> 00:14:51,525
 Realmente acha
-que isso funcionará?
+que isso funcionarÃ¡?
 
 270
 00:14:51,526 --> 00:14:54,922
@@ -1279,13 +1279,13 @@ vai checar o local da Tabitha.
 
 271
 00:14:54,923 --> 00:14:57,781
-<i>- Certo, só não o percam.</i>
-- Não iremos.
+<i>- Certo, sÃ³ nÃ£o o percam.</i>
+- NÃ£o iremos.
 
 272
 00:14:58,081 --> 00:15:01,688
-E tente não ser descoberto.
-Está em um Lamborghini amarelo.
+E tente nÃ£o ser descoberto.
+EstÃ¡ em um Lamborghini amarelo.
 
 273
 00:15:01,689 --> 00:15:03,722
@@ -1294,47 +1294,47 @@ escolhi a SUV.
 
 274
 00:15:03,723 --> 00:15:06,111
-Certo, não se destaca
+Certo, nÃ£o se destaca
 tanto quando o esportivo,
 
 275
 00:15:06,112 --> 00:15:08,674
-mas ainda assim é notável,
+mas ainda assim Ã© notÃ¡vel,
 Magnum.
 
 276
 00:15:28,548 --> 00:15:30,693
-Este é um bom lugar
+Este Ã© um bom lugar
 para desovar um corpo.
 
 277
 00:15:35,139 --> 00:15:36,630
-O que ele está fazendo?
+O que ele estÃ¡ fazendo?
 
 278
 00:15:37,390 --> 00:15:40,304
 Se ele acha que o DPH
-está vindo para cá,
+estÃ¡ vindo para cÃ¡,
 
 279
 00:15:40,305 --> 00:15:42,620
-talvez ele trouxe uma pá
+talvez ele trouxe uma pÃ¡
 para mover o corpo.
 
 280
 00:15:45,094 --> 00:15:48,265
-A não ser que quis fazer
-um <i>tour</i> aéreo da ilha.
+A nÃ£o ser que quis fazer
+um <i>tour</i> aÃ©reo da ilha.
 
 281
 00:15:53,552 --> 00:15:56,749
-Aposto que usará o drone
+Aposto que usarÃ¡ o drone
 para ver se mexeram no local.
 
 282
 00:16:03,392 --> 00:16:05,967
-- Magnum, não podemos perdê-lo.
-- Não vou perder.
+- Magnum, nÃ£o podemos perdÃª-lo.
+- NÃ£o vou perder.
 
 283
 00:16:07,200 --> 00:16:08,632
@@ -1342,7 +1342,7 @@ Confie em mim.
 
 284
 00:16:25,862 --> 00:16:28,148
-- Vire à direita, à direita.
+- Vire Ã  direita, Ã  direita.
 - Pode deixar.
 
 285
@@ -1356,7 +1356,7 @@ Vai acabar a estrada.
 
 287
 00:16:58,973 --> 00:17:01,263
-- O que está fazendo?
+- O que estÃ¡ fazendo?
 - Chamando ajuda.
 
 288
@@ -1369,7 +1369,7 @@ Estou um pouco ocupado aqui.
 
 290
 00:17:10,004 --> 00:17:11,751
-TC, não tenho tempo
+TC, nÃ£o tenho tempo
 para explicar.
 
 291
@@ -1380,16 +1380,16 @@ nas Cataratas de Manoa.
 292
 00:17:16,517 --> 00:17:19,385
 Diga ao Thomas que estou
-trabalhando. Até mais.
+trabalhando. AtÃ© mais.
 
 293
 00:17:19,386 --> 00:17:21,832
-<i>Não, não, não. TC,</i> TC,
-é muito importante.
+<i>NÃ£o, nÃ£o, nÃ£o. TC,</i> TC,
+Ã© muito importante.
 
 294
 00:17:21,833 --> 00:17:23,890
-É sobre uma garota assassinada.
+Ã‰ sobre uma garota assassinada.
 <i>Por favor.</i>
 
 295
@@ -1398,17 +1398,17 @@ trabalhando. Até mais.
 
 296
 00:17:26,749 --> 00:17:28,222
-Já chego aí.
+JÃ¡ chego aÃ­.
 
 297
 00:17:28,969 --> 00:17:31,458
 <i>Certo, pessoal,
-mudança de planos.</i>
+mudanÃ§a de planos.</i>
 
 298
 00:17:31,789 --> 00:17:33,509
 Eu soube
-de um lindo arco-íris
+de um lindo arco-Ã­ris
 
 299
 00:17:33,510 --> 00:17:36,146
@@ -1421,7 +1421,7 @@ Certo, vire aqui.
 
 301
 00:18:09,961 --> 00:18:11,379
-Cadê o TC?
+CadÃª o TC?
 
 302
 00:18:15,340 --> 00:18:16,803
@@ -1430,15 +1430,15 @@ Ali!
 303
 00:18:18,040 --> 00:18:20,105
 TC, o drone
-está perto das Cataratas.
+estÃ¡ perto das Cataratas.
 
 304
 00:18:22,844 --> 00:18:24,450
-<i>Certo, estou quase lá.</i>
+<i>Certo, estou quase lÃ¡.</i>
 
 305
 00:18:24,451 --> 00:18:26,019
-Consegue vê-lo, TC?
+Consegue vÃª-lo, TC?
 
 306
 00:18:30,478 --> 00:18:32,128
@@ -1447,7 +1447,7 @@ Sim, estou vendo ele.
 307
 00:18:37,049 --> 00:18:40,275
 Parece estar pairando
-sobre uma clareira lá perto.
+sobre uma clareira lÃ¡ perto.
 
 308
 00:18:47,025 --> 00:18:48,588
@@ -1456,7 +1456,7 @@ onde enterrou o corpo.
 
 309
 00:18:48,589 --> 00:18:50,261
-Só há um jeito de descobrir.
+SÃ³ hÃ¡ um jeito de descobrir.
 
 310
 00:18:55,534 --> 00:18:57,731
@@ -1465,7 +1465,7 @@ que estava voando por aqui.
 
 311
 00:18:57,987 --> 00:19:00,512
-- Alguém tem Band-Aid?
+- AlguÃ©m tem Band-Aid?
 - Band-Aid?
 
 312
@@ -1475,26 +1475,26 @@ por causa dos sapatos.
 
 313
 00:19:02,837 --> 00:19:06,435
-Podiam ter avisado que iríamos
-fazer isso. Meus pés queimam.
+Podiam ter avisado que irÃ­amos
+fazer isso. Meus pÃ©s queimam.
 
 314
 00:19:06,836 --> 00:19:09,512
-Estou prestes a ter insolação.
-Você viverá.
+Estou prestes a ter insolaÃ§Ã£o.
+VocÃª viverÃ¡.
 
 315
 00:19:12,693 --> 00:19:15,804
-Vejo algumas áreas
-sem muitas árvores ou pedras.
+Vejo algumas Ã¡reas
+sem muitas Ã¡rvores ou pedras.
 
 316
 00:19:15,805 --> 00:19:17,210
-Para lá...
+Para lÃ¡...
 
 317
 00:19:19,005 --> 00:19:20,739
-e lá na relva Kali.
+e lÃ¡ na relva Kali.
 
 318
 00:19:20,740 --> 00:19:22,678
@@ -1508,12 +1508,12 @@ Cada um para um lado.
 
 320
 00:19:24,992 --> 00:19:27,863
-- TC, você vem comigo.
-- Vamos lá.
+- TC, vocÃª vem comigo.
+- Vamos lÃ¡.
 
 321
 00:19:31,682 --> 00:19:34,700
-Cara, você trouxe algo
+Cara, vocÃª trouxe algo
 para comer?
 
 322
@@ -1527,7 +1527,7 @@ Podiam mesmo.
 
 324
 00:19:41,236 --> 00:19:43,894
-Acha que alguém já morreu
+Acha que alguÃ©m jÃ¡ morreu
 por comer um sapato?
 
 325
@@ -1536,20 +1536,20 @@ Rick.
 
 326
 00:19:50,363 --> 00:19:52,178
-Rick, ouça.
+Rick, ouÃ§a.
 
 327
 00:19:57,521 --> 00:19:59,623
-É. Calma aí.
+Ã‰. Calma aÃ­.
 
 328
 00:20:00,629 --> 00:20:02,075
-É, aqui mesmo.
+Ã‰, aqui mesmo.
 
 329
 00:20:04,828 --> 00:20:07,476
-- É um barril de óleo.
-- É o que parece.
+- Ã‰ um barril de Ã³leo.
+- Ã‰ o que parece.
 
 330
 00:20:07,777 --> 00:20:09,449
@@ -1577,26 +1577,26 @@ Deus.
 
 336
 00:20:31,630 --> 00:20:33,040
-Nós também.
+NÃ³s tambÃ©m.
 
 337
 00:20:48,254 --> 00:20:51,621
 Um confirmado como Tabitha Hall,
-o outro é uma desconhecida.
+o outro Ã© uma desconhecida.
 
 338
 00:20:52,041 --> 00:20:54,753
 As digitais e o DNA dela
-não estavam no sistema.
+nÃ£o estavam no sistema.
 
 339
 00:20:54,762 --> 00:20:57,774
 Mas o legista determinou
-que ela foi morta há 5 anos.
+que ela foi morta hÃ¡ 5 anos.
 
 340
 00:20:57,995 --> 00:21:00,130
-Há algo ligando os corpos
+HÃ¡ algo ligando os corpos
 ao Conlan?
 
 341
@@ -1611,7 +1611,7 @@ a venda dos barris,
 
 343
 00:21:03,828 --> 00:21:05,796
-mas vários lugares
+mas vÃ¡rios lugares
 os vendem.
 
 344
@@ -1622,7 +1622,7 @@ nos levou aos corpos.
 345
 00:21:08,337 --> 00:21:10,167
 Deve servir
-para julgá-lo de novo.
+para julgÃ¡-lo de novo.
 
 346
 00:21:10,168 --> 00:21:11,940
@@ -1636,47 +1636,47 @@ Conlan de novo?
 
 348
 00:21:14,942 --> 00:21:16,608
-Só estávamos pensando se...
+SÃ³ estÃ¡vamos pensando se...
 
 349
 00:21:16,609 --> 00:21:19,687
 o promotor poderia
-usar os cadáveres contra ele.
+usar os cadÃ¡veres contra ele.
 
 350
 00:21:20,260 --> 00:21:23,643
-Drones voam por lá sempre,
+Drones voam por lÃ¡ sempre,
 podem explicar no Tribunal.
 
 351
 00:21:24,017 --> 00:21:26,254
 Em resumo:
-não haverá outro julgamento
+nÃ£o haverÃ¡ outro julgamento
 
 352
 00:21:26,255 --> 00:21:28,600
 sem um caso fechado,
-o que ainda não temos.
+o que ainda nÃ£o temos.
 
 353
 00:21:37,369 --> 00:21:40,322
-Você precisa comer, Juliet.
+VocÃª precisa comer, Juliet.
 E dormir.
 
 354
 00:21:40,323 --> 00:21:43,235
 Agora que o caso reabriu,
-não há necessidade de pressa.
+nÃ£o hÃ¡ necessidade de pressa.
 
 355
 00:21:43,236 --> 00:21:45,521
 Eu tentei,
-mas não pude evitar.
+mas nÃ£o pude evitar.
 
 356
 00:21:45,522 --> 00:21:48,217
 Passei a noite em claro
-fuçando o passado de Conlan.
+fuÃ§ando o passado de Conlan.
 
 357
 00:21:48,218 --> 00:21:50,684
@@ -1685,12 +1685,12 @@ da identidade da desconhecida?
 
 358
 00:21:50,685 --> 00:21:52,803
-É, procurando
+Ã‰, procurando
 nas redes sociais,
 
 359
 00:21:52,804 --> 00:21:55,597
-buscando uma conexão
+buscando uma conexÃ£o
 com alguma mulher desaparecida,
 
 360
@@ -1700,35 +1700,35 @@ equipe...
 
 361
 00:21:58,795 --> 00:22:01,955
-Se eu conseguir ligá-lo
+Se eu conseguir ligÃ¡-lo
 ao assassinato da desconhecida,
 
 362
 00:22:01,956 --> 00:22:03,839
-Eu posso ligá-lo à Tabitha.
+Eu posso ligÃ¡-lo Ã  Tabitha.
 
 363
 00:22:03,840 --> 00:22:05,303
-Você achou alguma coisa?
+VocÃª achou alguma coisa?
 
 364
 00:22:05,304 --> 00:22:08,380
-Só que Conlan foi
-de um professor de inglês
+SÃ³ que Conlan foi
+de um professor de inglÃªs
 
 365
 00:22:08,381 --> 00:22:10,785
-para um autor célebre
+para um autor cÃ©lebre
 da noite para o dia
 
 366
 00:22:10,786 --> 00:22:13,299
 com seu primeiro livro,
-"Canção da Noite".
+"CanÃ§Ã£o da Noite".
 
 367
 00:22:13,692 --> 00:22:15,793
-O livro foi tão popular
+O livro foi tÃ£o popular
 que deram a ele
 
 368
@@ -1738,7 +1738,7 @@ para escrever o segundo,
 
 369
 00:22:18,122 --> 00:22:20,715
-que é o romance
+que Ã© o romance
 que ele escreveu sobre Tabitha.
 
 370
@@ -1751,7 +1751,7 @@ Enterrada e esquecida.
 
 372
 00:22:27,184 --> 00:22:28,668
-Não foi esquecida.
+NÃ£o foi esquecida.
 
 373
 00:22:33,032 --> 00:22:34,432
@@ -1759,17 +1759,17 @@ Kumu.
 
 374
 00:22:37,254 --> 00:22:38,808
-Algo está errado
+Algo estÃ¡ errado
 com esse bacon.
 
 375
 00:22:38,809 --> 00:22:41,348
-- É vegano.
-- Mistério resolvido.
+- Ã‰ vegano.
+- MistÃ©rio resolvido.
 
 376
 00:22:42,614 --> 00:22:45,501
-Você parece cansado.
+VocÃª parece cansado.
 Ficou acordado a noite toda?
 
 377
@@ -1778,27 +1778,27 @@ Sim. Passe a noite lendo.
 
 378
 00:22:49,455 --> 00:22:50,862
-Canção da Noite.
+CanÃ§Ã£o da Noite.
 
 379
 00:22:51,412 --> 00:22:54,255
-Do começo ao fim. Pensei
+Do comeÃ§o ao fim. Pensei
 que se Conlan escreveu
 
 380
 00:22:54,256 --> 00:22:56,775
-sobre Tabitha no último livro,
+sobre Tabitha no Ãºltimo livro,
 pode ter escrito
 
 381
 00:22:56,776 --> 00:22:58,890
-sobre a primeira vítima
+sobre a primeira vÃ­tima
 no primeiro livro.
 
 382
 00:22:58,891 --> 00:23:00,673
-Que, a propósito,
-foi lançado
+Que, a propÃ³sito,
+foi lanÃ§ado
 
 383
 00:23:00,674 --> 00:23:02,909
@@ -1807,7 +1807,7 @@ foi morta.
 
 384
 00:23:03,573 --> 00:23:06,068
-É uma história sombria
+Ã‰ uma histÃ³ria sombria
 sobre essa jovem
 
 385
@@ -1818,7 +1818,7 @@ e ama o Seattle Seahawks.
 386
 00:23:10,050 --> 00:23:12,752
 Gostaria de saber se algo
-se alinha com as informações
+se alinha com as informaÃ§Ãµes
 
 387
 00:23:12,753 --> 00:23:14,598
@@ -1827,12 +1827,12 @@ sobre a desconhecida.
 
 388
 00:23:14,599 --> 00:23:16,651
-Eu não sei.
+Eu nÃ£o sei.
 Mas eu vou descobrir.
 
 389
 00:23:20,019 --> 00:23:23,109
-<i>Lamento, mas não posso dizer</i>
+<i>Lamento, mas nÃ£o posso dizer</i>
 o que descobri da desconhecida.
 
 390
@@ -1842,22 +1842,22 @@ em dobro no La Mariana?
 
 391
 00:23:29,036 --> 00:23:32,566
-Isto está escrito à mão.
+Isto estÃ¡ escrito Ã  mÃ£o.
 E escreveu "cupom" errado.
 
 392
 00:23:32,940 --> 00:23:34,340
-Não se preocupe com isso.
+NÃ£o se preocupe com isso.
 
 393
 00:23:34,341 --> 00:23:37,037
 Rick conhece minha escrita.
-Ele ainda vai honrá-lo.
+Ele ainda vai honrÃ¡-lo.
 
 394
 00:23:37,038 --> 00:23:40,870
-Sr. Magnum, como funcionária
-do Escritório do Médico-Legista,
+Sr. Magnum, como funcionÃ¡ria
+do EscritÃ³rio do MÃ©dico-Legista,
 
 395
 00:23:40,871 --> 00:23:43,657
@@ -1866,23 +1866,23 @@ de aceitar presentes.
 
 396
 00:23:43,658 --> 00:23:45,268
-Ele está atrás de mim,
-não está?
+Ele estÃ¡ atrÃ¡s de mim,
+nÃ£o estÃ¡?
 
 397
 00:23:47,223 --> 00:23:50,297
 Como descobrimos os corpos
-e reabrimos a investigação,
+e reabrimos a investigaÃ§Ã£o,
 
 398
 00:23:50,981 --> 00:23:52,691
-não compartilharemos
-nada com você.
+nÃ£o compartilharemos
+nada com vocÃª.
 
 399
 00:23:52,692 --> 00:23:54,668
 Espera.
-Nós descobrimos os corpos
+NÃ³s descobrimos os corpos
 
 400
 00:23:54,669 --> 00:23:56,069
@@ -1890,7 +1890,7 @@ e te falamos deles.
 
 401
 00:23:56,070 --> 00:23:58,333
-Nós dois estamos
+NÃ³s dois estamos
 procurando a verdade.
 
 402
@@ -1900,7 +1900,7 @@ revelou mais alguma coisa?
 
 403
 00:24:05,232 --> 00:24:09,042
-Não além da idade aproximada
+NÃ£o alÃ©m da idade aproximada
 que tinha quando foi morta,
 
 404
@@ -1918,23 +1918,23 @@ do Seattle Seahawks.
 
 407
 00:24:14,256 --> 00:24:16,566
-- É como Zoey Taylor.
+- Ã‰ como Zoey Taylor.
 - Quem?
 
 408
 00:24:16,567 --> 00:24:18,984
-É a personagem
+Ã‰ a personagem
 do primeiro livro do Conlan.
 
 409
 00:24:18,985 --> 00:24:21,182
-- Existe uma conexão?
+- Existe uma conexÃ£o?
 - Poderia ter.
 
 410
 00:24:21,183 --> 00:24:23,206
 Creio que fez
-uma reconstrução facial
+uma reconstruÃ§Ã£o facial
 
 411
 00:24:23,207 --> 00:24:24,800
@@ -1943,17 +1943,17 @@ para vermos como ela era?
 412
 00:24:27,664 --> 00:24:30,317
 Isso se baseia
-em medições craniofaciais,
+em mediÃ§Ãµes craniofaciais,
 
 413
 00:24:30,318 --> 00:24:32,342
-então não é
+entÃ£o nÃ£o Ã©
 uma imagem exata.
 
 414
 00:24:32,343 --> 00:24:35,030
 Passei pelos bancos de dados,
-mas não tive resultados.
+mas nÃ£o tive resultados.
 
 415
 00:24:36,240 --> 00:24:39,311
@@ -1962,7 +1962,7 @@ mais alguma coisa, me avise.
 
 416
 00:24:39,907 --> 00:24:41,507
-Eu não faço isso sempre?
+Eu nÃ£o faÃ§o isso sempre?
 
 417
 00:24:46,307 --> 00:24:48,105
@@ -1976,7 +1976,7 @@ onde Conlan ensina?
 
 419
 00:24:49,762 --> 00:24:52,565
-Ele está contando com isso.
+Ele estÃ¡ contando com isso.
 Se combinarmos esta imagem
 
 420
@@ -1992,17 +1992,17 @@ a desconhecida
 422
 00:24:56,062 --> 00:24:58,065
 e se ela se matriculou
-há cinco anos,
+hÃ¡ cinco anos,
 
 423
 00:24:58,066 --> 00:24:59,540
-podemos conectá-la
+podemos conectÃ¡-la
 ao Conlan.
 
 424
 00:24:59,541 --> 00:25:02,047
 Procuro estudantes
-do sexo feminino com endereços
+do sexo feminino com endereÃ§os
 
 425
 00:25:02,048 --> 00:25:04,080
@@ -2011,7 +2011,7 @@ dos Estados Unidos,
 
 426
 00:25:04,081 --> 00:25:07,508
-porque é lá que o personagem
+porque Ã© lÃ¡ que o personagem
 do primeiro livro mora.
 
 427
@@ -2021,12 +2021,12 @@ Wendy Mills, de Oregon.
 428
 00:25:12,633 --> 00:25:15,038
 Faz sentido
-se ela era fã dos Seahawks.
+se ela era fÃ£ dos Seahawks.
 
 429
 00:25:15,039 --> 00:25:19,865
-Ela se formou em inglês
-e estudou música.
+Ela se formou em inglÃªs
+e estudou mÃºsica.
 
 430
 00:25:20,311 --> 00:25:22,419
@@ -2035,13 +2035,13 @@ era o Conlan.
 
 431
 00:25:22,420 --> 00:25:24,262
-Introdução à escrita
+IntroduÃ§Ã£o Ã  escrita
 criativa.
 
 432
 00:25:24,263 --> 00:25:26,263
 Aqui diz que ela
-não voltou para a escola
+nÃ£o voltou para a escola
 
 433
 00:25:26,264 --> 00:25:27,722
@@ -2054,20 +2054,20 @@ posso descobrir mais sobre ela.
 
 435
 00:25:31,926 --> 00:25:33,326
-Página Memorial.
+PÃ¡gina Memorial.
 
 436
 00:25:35,052 --> 00:25:36,892
 As pessoas acham
-que ela está morta.
+que ela estÃ¡ morta.
 
 437
 00:25:38,047 --> 00:25:40,574
-Ela não é vista há 5 anos.
+Ela nÃ£o Ã© vista hÃ¡ 5 anos.
 
 438
 00:25:41,158 --> 00:25:44,031
-Ela é a nossa desconhecida.
+Ela Ã© a nossa desconhecida.
 
 439
 00:25:46,291 --> 00:25:48,038
@@ -2075,7 +2075,7 @@ Senhora Mills,
 
 440
 00:25:48,496 --> 00:25:50,744
-você sabe de alguma ligação
+vocÃª sabe de alguma ligaÃ§Ã£o
 
 441
 00:25:50,745 --> 00:25:54,276
@@ -2089,7 +2089,7 @@ mas...
 
 443
 00:25:57,416 --> 00:26:01,259
-minha filha não falava muito,
+minha filha nÃ£o falava muito,
 mesmo antes de sair de casa.
 
 444
@@ -2100,7 +2100,7 @@ escrevendo.
 445
 00:26:04,439 --> 00:26:07,541
 Revistas e contos.
-Até um romance.
+AtÃ© um romance.
 
 446
 00:26:08,255 --> 00:26:10,214
@@ -2108,12 +2108,12 @@ Ela era muito boa.
 
 447
 00:26:12,052 --> 00:26:15,887
-Ela deixou impressões
+Ela deixou impressÃµes
 de sua escrita
 
 448
 00:26:15,888 --> 00:26:17,894
-se vocês quiserem ver.
+se vocÃªs quiserem ver.
 
 449
 00:26:17,895 --> 00:26:19,295
@@ -2122,12 +2122,12 @@ Claro.
 450
 00:26:22,054 --> 00:26:23,811
 <i>"Eu ando
-por uma rua solitária.</i>
+por uma rua solitÃ¡ria.</i>
 
 451
 00:26:23,812 --> 00:26:26,553
 <i>Buzinas soam,
-um avião sobrevoa</i>
+um aviÃ£o sobrevoa</i>
 
 452
 00:26:26,554 --> 00:26:30,632
@@ -2140,78 +2140,78 @@ O que foi?
 
 454
 00:26:32,600 --> 00:26:35,000
-A escrita é quase idêntica
+A escrita Ã© quase idÃªntica
 
 455
 00:26:35,001 --> 00:26:36,800
-à escrita do romance
+Ã  escrita do romance
 de Conlan.
 
 456
 00:26:36,801 --> 00:26:39,900
-- O quê?
+- O quÃª?
 - Deixe-me ver.
 
 457
 00:26:43,500 --> 00:26:46,900
-Há 5 anos, Conlan passou
+HÃ¡ 5 anos, Conlan passou
 de professor para romancista
 
 458
 00:26:46,901 --> 00:26:48,860
-com uma história
+com uma histÃ³ria
 sobre amadurecimento...
 
 459
 00:26:48,861 --> 00:26:50,300
-Que ele não escreveu.
+Que ele nÃ£o escreveu.
 
 460
 00:26:50,301 --> 00:26:52,200
-Estávamos errados
+EstÃ¡vamos errados
 sobre seus motivos.
 
 461
 00:26:52,201 --> 00:26:54,400
-Não era sobre a relação dele
+NÃ£o era sobre a relaÃ§Ã£o dele
 com as garotas.
 
 462
 00:26:54,401 --> 00:26:57,400
 Ambas eram autoras desconhecidas
-com romances inéditos.
+com romances inÃ©ditos.
 
 463
 00:26:57,401 --> 00:26:59,800
 Conlan as matou
-para roubar as histórias
+para roubar as histÃ³rias
 
 464
 00:26:59,801 --> 00:27:01,300
-e publicá-las como dele.
+e publicÃ¡-las como dele.
 
 465
 00:27:09,300 --> 00:27:11,989
-<i>As semelhanças de escrita
+<i>As semelhanÃ§as de escrita
 entre Wendy e Conlan</i>
 
 466
 00:27:11,990 --> 00:27:13,519
-são significativas.
+sÃ£o significativas.
 
 467
 00:27:14,000 --> 00:27:16,200
-Mas não o suficiente
-para condená-lo.
+Mas nÃ£o o suficiente
+para condenÃ¡-lo.
 
 468
 00:27:17,400 --> 00:27:19,200
-Só tem uma amostra
+SÃ³ tem uma amostra
 do livro da Wendy.
 
 469
 00:27:19,201 --> 00:27:20,700
-Não o livro inteiro.
+NÃ£o o livro inteiro.
 
 470
 00:27:20,701 --> 00:27:23,290
@@ -2220,22 +2220,22 @@ qualquer prova que os ligasse,
 
 471
 00:27:23,291 --> 00:27:26,182
-nós só temos suposições,
+nÃ³s sÃ³ temos suposiÃ§Ãµes,
 sem provas concretas.
 
 472
 00:27:26,183 --> 00:27:28,400
-Nós? Agora quer
+NÃ³s? Agora quer
 que Conlan seja preso?
 
 473
 00:27:28,401 --> 00:27:29,900
-Não deveria defendê-lo?
+NÃ£o deveria defendÃª-lo?
 
 474
 00:27:31,000 --> 00:27:33,500
 Digamos
-que mudei de opinião.
+que mudei de opiniÃ£o.
 
 475
 00:27:33,501 --> 00:27:35,000
@@ -2243,12 +2243,12 @@ Bom ouvir isso.
 
 476
 00:27:35,001 --> 00:27:37,200
-Infelizmente, está certa.
-Não temos provas.
+Infelizmente, estÃ¡ certa.
+NÃ£o temos provas.
 
 477
 00:27:37,201 --> 00:27:39,400
-Mas Conlan não sabe disso.
+Mas Conlan nÃ£o sabe disso.
 
 478
 00:27:39,401 --> 00:27:40,873
@@ -2256,65 +2256,65 @@ E se o fizermos pensar
 
 479
 00:27:40,874 --> 00:27:42,987
-que a mãe da Wendy
-tem informações
+que a mÃ£e da Wendy
+tem informaÃ§Ãµes
 
 480
 00:27:42,988 --> 00:27:44,461
-que podem incriminá-lo?
+que podem incriminÃ¡-lo?
 
 481
 00:27:45,100 --> 00:27:48,235
-Se ele for atrás dela,
-mostrará que é o assassino.
+Se ele for atrÃ¡s dela,
+mostrarÃ¡ que Ã© o assassino.
 
 482
 00:27:48,236 --> 00:27:51,500
 Ele agiu quando Abby mentiu
-ter informações sobre o corpo,
+ter informaÃ§Ãµes sobre o corpo,
 
 483
 00:27:51,501 --> 00:27:53,600
 e sabemos que ele
-já matou antes.
+jÃ¡ matou antes.
 
 484
 00:27:53,601 --> 00:27:55,686
 Quer que o prendemos
-com uma operação
+com uma operaÃ§Ã£o
 
 485
 00:27:55,687 --> 00:27:57,598
-usando a mãe da Wendy
+usando a mÃ£e da Wendy
 como isca,
 
 486
 00:27:57,599 --> 00:27:59,475
 esperando que ele
-tente matá-la?
+tente matÃ¡-la?
 
 487
 00:28:00,600 --> 00:28:02,700
-- Esse é seu plano.
-- Não precisamos usar
+- Esse Ã© seu plano.
+- NÃ£o precisamos usar
 
 488
 00:28:02,701 --> 00:28:05,200
-a mãe dela de verdade.
+a mÃ£e dela de verdade.
 Posso fingir ser ela.
 
 489
 00:28:05,201 --> 00:28:06,700
-Agradeço a oferta.
+AgradeÃ§o a oferta.
 
 490
 00:28:06,701 --> 00:28:10,000
-Mas você é muito jovem
-para ser mãe da Wendy.
+Mas vocÃª Ã© muito jovem
+para ser mÃ£e da Wendy.
 
 491
 00:28:11,000 --> 00:28:12,400
-Então me use.
+EntÃ£o me use.
 
 492
 00:28:13,000 --> 00:28:15,700
@@ -2329,21 +2329,21 @@ os detalhes do caso.
 494
 00:28:19,201 --> 00:28:21,700
 Quantas policiais
-disfarçadas você tem
+disfarÃ§adas vocÃª tem
 
 495
 00:28:21,701 --> 00:28:23,300
 com todas
-essas características?
+essas caracterÃ­sticas?
 
 496
 00:28:23,301 --> 00:28:25,300
-Não vou usar um civil
+NÃ£o vou usar um civil
 para isso.
 
 497
 00:28:25,301 --> 00:28:26,900
-Que escolha você tem?
+Que escolha vocÃª tem?
 
 498
 00:28:27,600 --> 00:28:30,800
@@ -2352,21 +2352,21 @@ aparecerem magicamente?
 
 499
 00:28:30,801 --> 00:28:32,800
-Esse desgraçado pode
+Esse desgraÃ§ado pode
 matar novamente.
 
 500
 00:28:32,801 --> 00:28:35,300
-E conheci a mãe da Wendy.
+E conheci a mÃ£e da Wendy.
 
 501
 00:28:35,301 --> 00:28:37,400
 A dor de perder um filho
-sem justiça.
+sem justiÃ§a.
 
 502
 00:28:37,401 --> 00:28:39,700
-Temos que fazer justiça
+Temos que fazer justiÃ§a
 por essas garotas.
 
 503
@@ -2380,7 +2380,7 @@ que soube dos corpos.</i>
 
 505
 00:28:55,800 --> 00:29:00,200
-- Saiu nos noticiários.
+- Saiu nos noticiÃ¡rios.
 - Sim. Estou mal pela Tabitha
 
 506
@@ -2390,31 +2390,31 @@ a outra garota.
 
 507
 00:29:02,201 --> 00:29:04,300
-A polícia a identificou?
+A polÃ­cia a identificou?
 
 508
 00:29:04,700 --> 00:29:06,400
-Não falaram nada.
+NÃ£o falaram nada.
 
 509
 00:29:08,200 --> 00:29:10,140
-Mas recebi uma ligação
+Mas recebi uma ligaÃ§Ã£o
 de uma mulher
 
 510
 00:29:10,141 --> 00:29:12,600
-que afirma ter informações
+que afirma ter informaÃ§Ãµes
 sobre o caso.
 
 511
 00:29:12,601 --> 00:29:14,410
-O que é estranho
-é ela ser de Oregon.
+O que Ã© estranho
+Ã© ela ser de Oregon.
 
 512
 00:29:14,800 --> 00:29:17,600
 Oregon?
-Sim, isso é estranho.
+Sim, isso Ã© estranho.
 
 513
 00:29:17,601 --> 00:29:19,500
@@ -2422,21 +2422,21 @@ Ela pediu dinheiro.
 
 514
 00:29:20,000 --> 00:29:22,500
-Como você foi acusado
+Como vocÃª foi acusado
 do crime, ela...
 
 515
 00:29:22,800 --> 00:29:24,900
 inventou algo
-para se aproveitar de você.
+para se aproveitar de vocÃª.
 
 516
 00:29:24,901 --> 00:29:28,000
-O nome dela é, Claire Mills?
+O nome dela Ã©, Claire Mills?
 
 517
 00:29:30,100 --> 00:29:31,600
-Não é nada familiar.
+NÃ£o Ã© nada familiar.
 
 518
 00:29:31,601 --> 00:29:35,200
@@ -2445,16 +2445,16 @@ Deixe-me ver.
 
 519
 00:29:41,300 --> 00:29:44,900
-- Sim, eu não a conheço.
+- Sim, eu nÃ£o a conheÃ§o.
 - Sim.
 
 520
 00:29:44,901 --> 00:29:47,200
-É, eu achei que não.
+Ã‰, eu achei que nÃ£o.
 
 521
 00:29:48,700 --> 00:29:50,800
-Ela veio para cá.
+Ela veio para cÃ¡.
 Quer me encontrar hoje
 
 522
@@ -2477,12 +2477,12 @@ pessoalmente para desaparecer.
 
 526
 00:30:01,400 --> 00:30:02,900
-Por favor, faça isso.
+Por favor, faÃ§a isso.
 
 527
 00:30:10,300 --> 00:30:12,500
 - Sem sinal do Conlan?
-- Não, ainda não.
+- NÃ£o, ainda nÃ£o.
 
 528
 00:30:12,501 --> 00:30:14,191
@@ -2491,18 +2491,18 @@ que estamos vendo?
 
 529
 00:30:14,192 --> 00:30:16,174
-Tem policiais disfarçados
+Tem policiais disfarÃ§ados
 por todo lado.
 
 530
 00:30:16,177 --> 00:30:18,166
 Acredite,
-sabemos ficar invisíveis.
+sabemos ficar invisÃ­veis.
 
 531
 00:30:18,167 --> 00:30:21,300
 Pode ser que Conlan ache
-arriscado ir atrás de Claire.
+arriscado ir atrÃ¡s de Claire.
 
 532
 00:30:21,301 --> 00:30:24,200
@@ -2516,39 +2516,39 @@ ele pode tentar algo.</i>
 
 534
 00:30:26,001 --> 00:30:28,950
-Nem pensar, fique aí.
-Seu quarto está vigiado.
+Nem pensar, fique aÃ­.
+Seu quarto estÃ¡ vigiado.
 
 535
 00:30:28,951 --> 00:30:31,200
-Não vou te colocar
-em perigo desnecessário.
+NÃ£o vou te colocar
+em perigo desnecessÃ¡rio.
 
 536
 00:30:33,200 --> 00:30:35,100
-Kumu, o que está
+Kumu, o que estÃ¡
 acontecendo?
 
 537
 00:30:35,101 --> 00:30:37,800
-- É o alarme de incêndio.
+- Ã‰ o alarme de incÃªndio.
 <i>- Deixe o hotel agora.</i>
 
 538
 00:30:37,801 --> 00:30:39,400
-<i>Dirijam-se até a escada.</i>
+<i>Dirijam-se atÃ© a escada.</i>
 
 539
 00:30:39,401 --> 00:30:41,500
-<i>Não use o elevador.</i>
+<i>NÃ£o use o elevador.</i>
 
 540
 00:30:41,501 --> 00:30:43,000
-<i>Isso não é uma simulação.</i>
+<i>Isso nÃ£o Ã© uma simulaÃ§Ã£o.</i>
 
 541
 00:30:43,001 --> 00:30:45,100
-Kumu, vá para a sala segura
+Kumu, vÃ¡ para a sala segura
 ao lado.
 
 542
@@ -2559,7 +2559,7 @@ ao lado.
 543
 00:30:47,001 --> 00:30:49,300
 Garcia, Makani,
-ela está indo até vocês.
+ela estÃ¡ indo atÃ© vocÃªs.
 
 544
 00:30:50,000 --> 00:30:52,200
@@ -2568,22 +2568,22 @@ Repita.</i>
 
 545
 00:30:52,201 --> 00:30:53,700
-Eles não podem te ouvir.
+Eles nÃ£o podem te ouvir.
 
 546
 00:30:53,701 --> 00:30:55,500
 Garcia,
-ela está indo até você!
+ela estÃ¡ indo atÃ© vocÃª!
 
 547
 00:30:56,900 --> 00:30:59,710
-- Por aqui. Não é uma simulação.
+- Por aqui. NÃ£o Ã© uma simulaÃ§Ã£o.
 - Eu...
 
 548
 00:30:59,711 --> 00:31:01,277
 Precisamos evacuar
-o prédio.
+o prÃ©dio.
 
 549
 00:31:01,278 --> 00:31:03,416
@@ -2597,11 +2597,11 @@ Ela foi para a escada.
 551
 00:31:06,900 --> 00:31:08,800
 Pessoal,
-vão para o saguão agora.
+vÃ£o para o saguÃ£o agora.
 
 552
 00:31:23,500 --> 00:31:25,000
-Eu não a vejo.
+Eu nÃ£o a vejo.
 
 553
 00:31:28,400 --> 00:31:29,800
@@ -2609,7 +2609,7 @@ Higgins.
 
 554
 00:31:29,801 --> 00:31:31,600
-Estão mandando todos
+EstÃ£o mandando todos
 por aqui.
 
 555
@@ -2619,11 +2619,11 @@ Por aqui.
 556
 00:31:53,100 --> 00:31:55,700
 Conlan deve ter acionado
-o alarme para fazê-la sair.
+o alarme para fazÃª-la sair.
 
 557
 00:31:56,300 --> 00:31:57,900
-Ele está com a Kumu.
+Ele estÃ¡ com a Kumu.
 
 558
 00:32:06,400 --> 00:32:08,200
@@ -2632,37 +2632,37 @@ Ele está com a Kumu.
 
 559
 00:32:08,201 --> 00:32:10,000
-Essa área é um ponto cego.
+Essa Ã¡rea Ã© um ponto cego.
 
 560
 00:32:10,001 --> 00:32:12,900
-Vamos checar as câmeras,
+Vamos checar as cÃ¢meras,
 ver se um carro saiu do beco.
 
 561
 00:32:12,901 --> 00:32:15,100
-- Já estão verificando.
+- JÃ¡ estÃ£o verificando.
 - O fato de Conlan
 
 562
 00:32:15,101 --> 00:32:16,929
-não ter matado Kumu
+nÃ£o ter matado Kumu
 aqui no hotel,
 
 563
 00:32:16,930 --> 00:32:19,500
 significa que ele acreditou
-que ela é Claire.
+que ela Ã© Claire.
 
 564
 00:32:19,501 --> 00:32:22,700
-E precisa mantê-la viva,
+E precisa mantÃª-la viva,
 para descobrir o que ela tem.
 
 565
 00:32:22,701 --> 00:32:25,300
-- Ela não tem nada.
-- Não, Higgins está certa.
+- Ela nÃ£o tem nada.
+- NÃ£o, Higgins estÃ¡ certa.
 
 566
 00:32:25,301 --> 00:32:27,200
@@ -2671,8 +2671,8 @@ o disfarce dela
 
 567
 00:32:27,201 --> 00:32:30,100
-e fazê-lo acreditar,
-ele não vai matá-la.
+e fazÃª-lo acreditar,
+ele nÃ£o vai matÃ¡-la.
 
 568
 00:32:34,900 --> 00:32:36,390
@@ -2680,7 +2680,7 @@ Caso esteja se perguntando,
 
 569
 00:32:36,391 --> 00:32:38,800
-isso é clorofórmio
+isso Ã© clorofÃ³rmio
 perdendo o efeito, sra. Mills.
 
 570
@@ -2690,12 +2690,12 @@ minhas perguntas,
 
 571
 00:32:41,001 --> 00:32:43,700
-não vou precisar disso.
+nÃ£o vou precisar disso.
 
 572
 00:32:44,000 --> 00:32:47,200
 Agora, sei que tem algumas
-informações sobre mim
+informaÃ§Ãµes sobre mim
 
 573
 00:32:47,201 --> 00:32:49,100
@@ -2707,12 +2707,12 @@ Sim, eu tenho.
 
 575
 00:32:54,200 --> 00:32:55,800
-Então o que é?
+EntÃ£o o que Ã©?
 
 576
 00:32:58,100 --> 00:33:02,800
 Wendy escreveu cartas
-para mim sobre você.
+para mim sobre vocÃª.
 
 577
 00:33:05,300 --> 00:33:07,700
@@ -2721,7 +2721,7 @@ ela escreveu?
 
 578
 00:33:08,200 --> 00:33:10,156
-Que você
+Que vocÃª
 se interessou no livro
 
 579
@@ -2730,26 +2730,26 @@ que ela estava escrevendo.
 
 580
 00:33:13,300 --> 00:33:15,700
-Eu encontrei o esboço
+Eu encontrei o esboÃ§o
 do romance dela.
 
 581
 00:33:16,200 --> 00:33:18,400
-É igual a história
+Ã‰ igual a histÃ³ria
 do seu livro.
 
 582
 00:33:20,700 --> 00:33:23,400
-Onde estão as cartas
-e o esboço?
+Onde estÃ£o as cartas
+e o esboÃ§o?
 
 583
 00:33:25,300 --> 00:33:28,200
-Onde estão?
+Onde estÃ£o?
 
 584
 00:33:28,800 --> 00:33:30,800
-Estão com meu sobrinho Tom.
+EstÃ£o com meu sobrinho Tom.
 
 585
 00:33:30,801 --> 00:33:32,700
@@ -2757,16 +2757,16 @@ Ele veio comigo.
 
 586
 00:33:32,701 --> 00:33:35,000
-Posso fazer ele trazê-los
-para você.
+Posso fazer ele trazÃª-los
+para vocÃª.
 
 587
 00:33:35,001 --> 00:33:38,500
-Só, por favor, não atire.
+SÃ³, por favor, nÃ£o atire.
 
 588
 00:33:40,500 --> 00:33:42,900
-Não vejo Conlan
+NÃ£o vejo Conlan
 nem o carro.
 
 589
@@ -2775,17 +2775,17 @@ DESCONHECIDO
 
 590
 00:33:48,000 --> 00:33:51,500
-- Alô?
-- Tom. É a tia Claire.
+- AlÃ´?
+- Tom. Ã‰ a tia Claire.
 
 591
 00:33:51,501 --> 00:33:53,200
-<i>É a Kumu.</i>
+<i>Ã‰ a Kumu.</i>
 
 592
 00:33:53,201 --> 00:33:56,400
-Olá, tia Claire.
-Onde você está?
+OlÃ¡, tia Claire.
+Onde vocÃª estÃ¡?
 
 593
 00:33:56,401 --> 00:33:58,100
@@ -2793,7 +2793,7 @@ Wa'ahila Ridge.
 
 594
 00:33:58,101 --> 00:34:00,600
-Só precisava ficar sozinha
+SÃ³ precisava ficar sozinha
 um pouco.
 
 595
@@ -2803,12 +2803,12 @@ que Wendy escreveu?
 
 596
 00:34:05,600 --> 00:34:07,600
-E o esboço do livro também?
+E o esboÃ§o do livro tambÃ©m?
 
 597
 00:34:08,600 --> 00:34:11,800
 Sim, posso fazer isso.
-Você está bem?
+VocÃª estÃ¡ bem?
 
 598
 00:34:13,200 --> 00:34:14,600
@@ -2831,28 +2831,28 @@ as coisas para Conlan.
 
 602
 00:34:27,367 --> 00:34:28,800
-Não darei a ele
-outro refém.
+NÃ£o darei a ele
+outro refÃ©m.
 
 603
 00:34:28,801 --> 00:34:30,771
 Fui da Marinha.
-Ele é um escritor falso.
+Ele Ã© um escritor falso.
 
 604
 00:34:30,772 --> 00:34:33,358
 - Que matou duas mulheres.
-- É menos provável outra,
+- Ã‰ menos provÃ¡vel outra,
 
 605
 00:34:33,359 --> 00:34:36,720
-com Magnum lá. Se Conlan ver
-a SWAT, ele matará Kumu.
+com Magnum lÃ¡. Se Conlan ver
+a SWAT, ele matarÃ¡ Kumu.
 
 606
 00:34:36,721 --> 00:34:39,900
-Magnum pode distraí-lo
-para você posicionar a equipe.
+Magnum pode distraÃ­-lo
+para vocÃª posicionar a equipe.
 
 607
 00:34:41,000 --> 00:34:42,500
@@ -2861,13 +2861,13 @@ em Magnum.
 
 608
 00:34:42,501 --> 00:34:44,500
-Você não vai lá
-sem alguma proteção.
+VocÃª nÃ£o vai lÃ¡
+sem alguma proteÃ§Ã£o.
 
 609
 00:34:44,501 --> 00:34:47,800
 E uma escuta. Ele vai
-para prisão, de qualquer jeito.
+para prisÃ£o, de qualquer jeito.
 
 610
 00:34:47,801 --> 00:34:50,800
@@ -2876,12 +2876,12 @@ esse filho da puta confessando.
 
 611
 00:35:00,000 --> 00:35:02,800
-- Fique aí.
+- Fique aÃ­.
 - Certo.
 
 612
 00:35:03,200 --> 00:35:06,100
-Apenas vá com calma.
+Apenas vÃ¡ com calma.
 
 613
 00:35:08,400 --> 00:35:09,900
@@ -2889,27 +2889,27 @@ Eu o tenho na mira.
 
 614
 00:35:13,200 --> 00:35:14,600
-Espere, ainda não.
+Espere, ainda nÃ£o.
 
 615
 00:35:14,601 --> 00:35:16,010
 Como assim?
-Ele está na mira.
+Ele estÃ¡ na mira.
 
 616
 00:35:16,011 --> 00:35:18,400
 Espere Magnum.
-Ele fará Conlan confessar.
+Ele farÃ¡ Conlan confessar.
 
 617
 00:35:18,401 --> 00:35:20,700
 - Como sabe disso?
-- Porque eu conheço Magnum.
+- Porque eu conheÃ§o Magnum.
 
 618
 00:35:22,300 --> 00:35:25,700
 Detetive, se Juliet acredita
-em Thomas, eu também.
+em Thomas, eu tambÃ©m.
 
 619
 00:35:25,701 --> 00:35:27,500
@@ -2918,11 +2918,11 @@ Ela o conhece melhor.
 620
 00:35:31,300 --> 00:35:35,500
 - Diga para o atirador esperar.
-<i>- Não atire.</i>
+<i>- NÃ£o atire.</i>
 
 621
 00:35:39,400 --> 00:35:41,400
-Quero as cartas e o esboço.
+Quero as cartas e o esboÃ§o.
 
 622
 00:35:42,600 --> 00:35:45,400
@@ -2936,7 +2936,7 @@ o que aconteceu com Wendy.
 
 624
 00:35:50,700 --> 00:35:53,300
-Eu juro que vou matá-la.
+Eu juro que vou matÃ¡-la.
 
 625
 00:35:54,300 --> 00:35:56,300
@@ -2959,62 +2959,62 @@ Ela sofreu?
 
 629
 00:36:09,643 --> 00:36:11,043
-Não.
+NÃ£o.
 
 630
 00:36:12,642 --> 00:36:14,042
-Por que você fez?
+Por que vocÃª fez?
 
 631
 00:36:15,625 --> 00:36:17,525
 Ela tinha algo que eu queria,
-está bom?
+estÃ¡ bom?
 
 632
 00:36:24,481 --> 00:36:25,881
-Vamos lá!
+Vamos lÃ¡!
 
 633
 00:36:42,963 --> 00:36:45,363
 - O que...
-- Está na mira.
+- EstÃ¡ na mira.
 
 634
 00:36:45,625 --> 00:36:47,825
-- Vá.
+- VÃ¡.
 - Execute.
 
 635
 00:36:55,174 --> 00:36:56,774
-- Você está bem?
+- VocÃª estÃ¡ bem?
 - Sim.
 
 636
 00:37:01,489 --> 00:37:02,889
-Está bem?
+EstÃ¡ bem?
 
 637
 00:37:03,700 --> 00:37:07,000
-- Você foi muito bem, Kumu.
+- VocÃª foi muito bem, Kumu.
 - Sim, eu fui.
 
 638
 00:37:22,891 --> 00:37:24,691
-- E aí, parceiro.
+- E aÃ­, parceiro.
 - Harry.
 
 639
 00:37:25,551 --> 00:37:27,288
-Como está?
+Como estÃ¡?
 Como foi a cirurgia?
 
 640
 00:37:27,289 --> 00:37:28,952
-Disseram que foi ótima.
+Disseram que foi Ã³tima.
 
 641
 00:37:28,953 --> 00:37:31,319
-Mas ligue amanhã
+Mas ligue amanhÃ£
 e me pergunte quantas vezes
 
 642
@@ -3025,16 +3025,16 @@ no meio da noite...
 643
 00:37:34,970 --> 00:37:37,052
 Envelhecer
-não é brincadeira.
+nÃ£o Ã© brincadeira.
 
 644
 00:37:37,053 --> 00:37:38,906
-É, você não faz ideia.
+Ã‰, vocÃª nÃ£o faz ideia.
 
 645
 00:37:38,927 --> 00:37:41,827
-- E você, tem uns 40?
-- Por aí.
+- E vocÃª, tem uns 40?
+- Por aÃ­.
 
 646
 00:37:42,836 --> 00:37:44,836
@@ -3043,12 +3043,12 @@ Thomas.
 
 647
 00:37:45,217 --> 00:37:47,217
-- Ela vai embora rápido.
+- Ela vai embora rÃ¡pido.
 - Sim senhor.
 
 648
 00:37:47,218 --> 00:37:48,687
-Então, como está o caso?
+EntÃ£o, como estÃ¡ o caso?
 
 649
 00:37:48,688 --> 00:37:50,099
@@ -3060,12 +3060,12 @@ Bem, o caso foi encerrado.
 
 651
 00:37:53,867 --> 00:37:55,267
-Sério? Resultado bom?
+SÃ©rio? Resultado bom?
 
 652
 00:37:56,105 --> 00:37:58,405
 Acho que sim, considerando
-as circunstâncias,
+as circunstÃ¢ncias,
 
 653
 00:37:58,715 --> 00:38:00,915
@@ -3097,7 +3097,7 @@ me pague uma cerveja
 
 659
 00:38:20,168 --> 00:38:22,309
-<i>Amor é só o que sinto</i>
+<i>Amor Ã© sÃ³ o que sinto</i>
 
 660
 00:38:22,310 --> 00:38:24,147
@@ -3109,11 +3109,11 @@ me pague uma cerveja
 
 662
 00:38:28,278 --> 00:38:31,099
-<i>Pode me dizer é o destino</i>
+<i>Pode me dizer Ã© o destino</i>
 
 663
 00:38:31,341 --> 00:38:33,178
-<i>Que você está aqui...</i>
+<i>Que vocÃª estÃ¡ aqui...</i>
 
 664
 00:38:33,179 --> 00:38:35,579
@@ -3131,7 +3131,7 @@ tocar no palco.
 
 667
 00:38:40,630 --> 00:38:42,530
-Isso não é um favor.
+Isso nÃ£o Ã© um favor.
 Eu lhe perguntei
 
 668
@@ -3141,7 +3141,7 @@ e TC disse sim.
 
 669
 00:38:46,577 --> 00:38:49,877
-Não se preocupe, eu aviso
+NÃ£o se preocupe, eu aviso
 quando for cobrar o favor.
 
 670
@@ -3152,7 +3152,7 @@ que estou surpreso, Kame,
 671
 00:38:52,554 --> 00:38:54,967
 mas nada me surpreende
-mais com você, parceiro.
+mais com vocÃª, parceiro.
 
 672
 00:38:54,968 --> 00:38:56,368
@@ -3169,12 +3169,12 @@ Adoro.
 675
 00:39:05,792 --> 00:39:07,892
 Harry, posso pegar outro
-<i>mai tai</i> para você?
+<i>mai tai</i> para vocÃª?
 
 676
 00:39:08,327 --> 00:39:11,209
-Eu não deveria estar bebendo
-tão cedo depois da cirurgia,
+Eu nÃ£o deveria estar bebendo
+tÃ£o cedo depois da cirurgia,
 
 677
 00:39:11,210 --> 00:39:13,522
@@ -3182,7 +3182,7 @@ mas quem estou enganando?
 
 678
 00:39:13,528 --> 00:39:17,429
-Encha e não pare a não ser
+Encha e nÃ£o pare a nÃ£o ser
 que eu tente cantar no palco.
 
 679
@@ -3191,12 +3191,12 @@ Tem certeza?
 
 680
 00:39:19,292 --> 00:39:21,492
-Ouvi que você
+Ouvi que vocÃª
 canta "Toxic" muito bem.
 
 681
 00:39:27,118 --> 00:39:28,518
-Guardei um lugar para você.
+Guardei um lugar para vocÃª.
 
 682
 00:39:30,981 --> 00:39:32,381
@@ -3205,11 +3205,11 @@ O que houve?
 683
 00:39:33,575 --> 00:39:37,685
 A OAB soube o que fiz
-e revogou minha licença.
+e revogou minha licenÃ§a.
 
 684
 00:39:38,325 --> 00:39:39,725
-Por quê?
+Por quÃª?
 
 685
 00:39:39,774 --> 00:39:41,920
@@ -3219,21 +3219,21 @@ um assassino vai passar
 686
 00:39:41,921 --> 00:39:43,904
 o resto da vida
-na prisão e...
+na prisÃ£o e...
 
 687
 00:39:44,121 --> 00:39:47,214
-a família de duas vítimas
-terão um desfecho.
+a famÃ­lia de duas vÃ­timas
+terÃ£o um desfecho.
 
 688
 00:39:47,215 --> 00:39:49,061
-Não levarão isso
-em consideração.
+NÃ£o levarÃ£o isso
+em consideraÃ§Ã£o.
 
 689
 00:39:51,210 --> 00:39:52,810
-Bem, o que você vai fazer?
+Bem, o que vocÃª vai fazer?
 
 690
 00:39:52,811 --> 00:39:56,211
@@ -3247,7 +3247,7 @@ que realmente necessitam.
 
 692
 00:39:58,651 --> 00:40:00,751
-- Isso é ótimo.
+- Isso Ã© Ã³timo.
 - Mas...
 
 693
@@ -3257,31 +3257,31 @@ no continente.
 
 694
 00:40:07,068 --> 00:40:08,468
-Irá se mudar?
+IrÃ¡ se mudar?
 
 695
 00:40:09,145 --> 00:40:12,445
-Bem, não tenho escolha.
-Não posso praticar aqui.
+Bem, nÃ£o tenho escolha.
+NÃ£o posso praticar aqui.
 
 696
 00:40:13,521 --> 00:40:15,621
-Bem, está bem.
+Bem, estÃ¡ bem.
 Digo, vamos dar um jeito...
 
 697
 00:40:15,622 --> 00:40:17,022
-Não.
+NÃ£o.
 
 698
 00:40:17,622 --> 00:40:20,363
-- Não. Não podemos.
-- O que está...?
+- NÃ£o. NÃ£o podemos.
+- O que estÃ¡...?
 
 699
 00:40:20,364 --> 00:40:23,402
-Não tenho certeza se sou
-a garota para você, Thomas.
+NÃ£o tenho certeza se sou
+a garota para vocÃª, Thomas.
 
 700
 00:40:25,805 --> 00:40:27,205
@@ -3289,41 +3289,41 @@ O que quer dizer?
 
 701
 00:40:27,443 --> 00:40:29,043
-O que tivemos foi ótimo,
+O que tivemos foi Ã³timo,
 
 702
 00:40:29,070 --> 00:40:31,755
-mas não sei
+mas nÃ£o sei
 se pode ser mais que isso.
 
 703
 00:40:31,756 --> 00:40:35,248
-- Vamos lá, Abby...
-- Eu já pensei bastante nisso.
+- Vamos lÃ¡, Abby...
+- Eu jÃ¡ pensei bastante nisso.
 
 704
 00:40:36,673 --> 00:40:40,773
 E eu acho
-que pode haver alguém por ai
+que pode haver alguÃ©m por ai
 
 705
 00:40:40,774 --> 00:40:42,671
 que combinaria melhor
-com você.
+com vocÃª.
 
 706
 00:40:43,573 --> 00:40:45,773
-Alguém que te conhece
+AlguÃ©m que te conhece
 de um jeito que...
 
 707
 00:40:46,459 --> 00:40:48,059
-que ninguém jamais
-conhecerá.
+que ninguÃ©m jamais
+conhecerÃ¡.
 
 708
 00:40:50,052 --> 00:40:52,003
-Acredite. Você vai ver.
+Acredite. VocÃª vai ver.
 
 709
 00:41:01,424 --> 00:41:02,924
@@ -3331,16 +3331,16 @@ Adeus, Thomas.
 
 710
 00:41:19,191 --> 00:41:20,591
-Ela não vai ficar?
+Ela nÃ£o vai ficar?
 
 711
 00:41:20,985 --> 00:41:23,285
-Não, ele teve que ir cuidar
+NÃ£o, ele teve que ir cuidar
 de algumas coisas.
 
 712
 00:41:32,224 --> 00:41:34,324
-Então,
+EntÃ£o,
 o que estamos bebendo?
 
 713
@@ -3353,17 +3353,17 @@ Vou botar na sua conta.
 
 715
 00:41:39,403 --> 00:41:40,803
-Rum é minha bebida.
+Rum Ã© minha bebida.
 
 716
 00:41:42,669 --> 00:41:44,889
-Não posso me dar ao luxo
+NÃ£o posso me dar ao luxo
 de beber no meu bar.
 
 717
 00:41:45,525 --> 00:41:49,025
 <i><b>Aeee! Agora sai esse casal!
-Alguém me confirme aí!</b></i>
+AlguÃ©m me confirme aÃ­!</b></i>
 
 718
 00:41:50,025 --> 00:41:53,525
