@@ -5,25 +5,25 @@ EM WATCHMEN</b>
 
 2
 00:00:01,301 --> 00:00:02,601
-Quem é você?
+Quem Ã© vocÃª?
 
 3
 00:00:02,602 --> 00:00:05,502
 - Sou quem enforcou seu chefe.
-- Não é.
+- NÃ£o Ã©.
 
 4
 00:00:05,503 --> 00:00:08,903
-<i>Existe uma conspiração enorme
-e maquiavélica aqui em Tulsa.</i>
+<i>Existe uma conspiraÃ§Ã£o enorme
+e maquiavÃ©lica aqui em Tulsa.</i>
 
 5
 00:00:11,004 --> 00:00:12,604
-Você o encontrou ontem?
+VocÃª o encontrou ontem?
 
 6
 00:00:13,105 --> 00:00:15,105
-<i>- O quê?
+<i>- O quÃª?
 - O chefe.</i>
 
 7
@@ -32,13 +32,13 @@ Ele agiu de forma estranha?
 
 8
 00:00:17,107 --> 00:00:20,207
-- Está me interrogando?
+- EstÃ¡ me interrogando?
 - Por que eu faria isso?
 
 9
 00:00:20,808 --> 00:00:25,000
 <i>Nosso chefe foi assassinado
-por um de vocês.</i>
+por um de vocÃªs.</i>
 
 10
 00:00:25,001 --> 00:00:26,701
@@ -50,11 +50,11 @@ Cuidado!
 
 12
 00:00:33,403 --> 00:00:36,503
-<i>Angela Abar é sua neta.</i>
+<i>Angela Abar Ã© sua neta.</i>
 
 13
 00:00:37,604 --> 00:00:39,104
-Você está preso.
+VocÃª estÃ¡ preso.
 
 14
 00:00:48,499 --> 00:00:52,299
@@ -62,22 +62,22 @@ Você está preso.
 
 15
 00:00:54,900 --> 00:00:57,700
-<i>Devemos colocá-lo no porão
+<i>Devemos colocÃ¡-lo no porÃ£o
 com os outros, senhor?</i>
 
 16
 00:00:57,701 --> 00:01:01,901
-No porão está ótimo.
-Ele nos será útil em breve.
+No porÃ£o estÃ¡ Ã³timo.
+Ele nos serÃ¡ Ãºtil em breve.
 
 17
 00:01:02,702 --> 00:01:06,002
 - Ele parou, mestre?
-- Não, Sra. Crookshanks,
+- NÃ£o, Sra. Crookshanks,
 
 18
 00:01:06,003 --> 00:01:07,703
-acabou de começar.
+acabou de comeÃ§ar.
 
 19
 00:01:12,004 --> 00:01:15,004
@@ -95,37 +95,37 @@ HBO</b>
 
 22
 00:01:26,902 --> 00:01:28,702
-<b>Revisão:
+<b>RevisÃ£o:
 WesleyP.</b>
 
 23
 00:01:29,703 --> 00:01:31,503
-<b>Revisão:
+<b>RevisÃ£o:
 chereguedel</b>
 
 24
 00:01:35,000 --> 00:01:37,399
 <i>Obrigada. Um momento
-até ser conectado</i>
+atÃ© ser conectado</i>
 
 25
 00:01:37,400 --> 00:01:39,760
-<i>à rede Trieu
-de satélites orbitais.</i>
+<i>Ã  rede Trieu
+de satÃ©lites orbitais.</i>
 
 26
 00:01:39,761 --> 00:01:43,560
-<i>Aguarde a conexão à antena
+<i>Aguarde a conexÃ£o Ã  antena
 marciana em cinco,</i>
 
 27
 00:01:43,562 --> 00:01:46,700
-<i>quatro, três, dois...</i>
+<i>quatro, trÃªs, dois...</i>
 
 28
 00:01:46,980 --> 00:01:50,080
-<i>Conexão estabelecida.
-A transmissão foi iniciada.</i>
+<i>ConexÃ£o estabelecida.
+A transmissÃ£o foi iniciada.</i>
 
 29
 00:01:50,082 --> 00:01:53,060
@@ -135,7 +135,7 @@ a falar quando quiser.</i>
 30
 00:01:53,062 --> 00:01:55,500
 <i>O Dr. Manhattan
-está escutando.</i>
+estÃ¡ escutando.</i>
 
 31
 00:01:57,840 --> 00:01:59,300
@@ -152,35 +152,35 @@ Vou contar uma piada.
 34
 00:02:03,920 --> 00:02:06,000
 Me interrompa
-se já conhecer essa.
+se jÃ¡ conhecer essa.
 
 35
 00:02:09,760 --> 00:02:12,920
 <i>Tem esse cara,
-ele é um pedreiro.</i>
+ele Ã© um pedreiro.</i>
 
 36
 00:02:13,580 --> 00:02:15,480
-<i>E ele é muito bom.</i>
+<i>E ele Ã© muito bom.</i>
 
 37
 00:02:15,482 --> 00:02:17,500
-<i>Um mestre da sua área.</i>
+<i>Um mestre da sua Ã¡rea.</i>
 
 38
 00:02:17,502 --> 00:02:22,020
-<i>Porque ele é muito preciso.
+<i>Porque ele Ã© muito preciso.
 Cada tijolo tem o seu lugar.</i>
 
 39
 00:02:27,480 --> 00:02:30,340
 <i>Enfim, ele tem uma filha
-e quer ensiná-la sua arte</i>
+e quer ensinÃ¡-la sua arte</i>
 
 40
 00:02:30,342 --> 00:02:33,600
 <i>porque, afinal, o que importa
-para um homem é o seu legado.</i>
+para um homem Ã© o seu legado.</i>
 
 41
 00:02:35,100 --> 00:02:37,720
@@ -198,7 +198,7 @@ o que vai precisar.</i>
 
 44
 00:02:41,462 --> 00:02:44,120
-<i>E ele ensina à filha
+<i>E ele ensina Ã  filha
 como fazer tudo.</i>
 
 45
@@ -212,12 +212,12 @@ ela fica linda.</i>
 
 47
 00:02:49,221 --> 00:02:53,360
-<i>É a churrasqueira perfeita.
+<i>Ã‰ a churrasqueira perfeita.
 Exatamente como ele a projetou.</i>
 
 48
 00:02:53,840 --> 00:02:55,620
-<i>Só tem um problema.</i>
+<i>SÃ³ tem um problema.</i>
 
 49
 00:02:57,620 --> 00:03:00,140
@@ -225,7 +225,7 @@ Sobrou um tijolo.
 
 50
 00:03:01,180 --> 00:03:04,800
-<i>Um único tijolo.</i>
+<i>Um Ãºnico tijolo.</i>
 
 51
 00:03:04,802 --> 00:03:06,340
@@ -238,12 +238,12 @@ ter feito algo errado.</i>
 
 53
 00:03:08,642 --> 00:03:10,760
-<i>Ele vai ter que começar
+<i>Ele vai ter que comeÃ§ar
 tudo do zero.</i>
 
 54
 00:03:11,100 --> 00:03:13,739
-<i>Então pega uma marreta
+<i>EntÃ£o pega uma marreta
 para quebrar tudo,</i>
 
 55
@@ -257,7 +257,7 @@ para quebrar tudo,</i>
 
 57
 00:03:18,362 --> 00:03:23,300
-Ela pega o tijolo solitário,
+Ela pega o tijolo solitÃ¡rio,
 e o joga para cima.
 
 58
@@ -271,11 +271,11 @@ e o joga para cima.
 60
 00:03:28,560 --> 00:03:30,460
 Bom dia,
-em que posso ajudá-la?
+em que posso ajudÃ¡-la?
 
 61
 00:03:30,462 --> 00:03:32,560
-E então...
+E entÃ£o...
 
 62
 00:03:33,060 --> 00:03:34,360
@@ -297,7 +297,7 @@ da gaveta agora!
 
 66
 00:03:47,160 --> 00:03:49,200
-Todo mundo no chão!
+Todo mundo no chÃ£o!
 
 67
 00:03:51,780 --> 00:03:53,480
@@ -306,25 +306,25 @@ Agora, cacete!
 
 68
 00:04:12,880 --> 00:04:14,440
-Pra trás, porra!
+Pra trÃ¡s, porra!
 
 69
 00:04:15,680 --> 00:04:18,200
-Libere os reféns.
+Libere os refÃ©ns.
 Acabou.
 
 70
 00:04:18,380 --> 00:04:20,320
 Como sabia
-que estaríamos aqui?
+que estarÃ­amos aqui?
 
 71
 00:04:22,140 --> 00:04:24,080
-Foi uma denúncia anônima?
+Foi uma denÃºncia anÃ´nima?
 
 72
 00:04:24,400 --> 00:04:27,040
-- O quê?
+- O quÃª?
 - Merda.
 
 73
@@ -333,27 +333,27 @@ E se foi o FBI?
 
 74
 00:04:29,700 --> 00:04:33,600
-Porque isso que está fazendo,
-vigilantismo, é ilegal.
+Porque isso que estÃ¡ fazendo,
+vigilantismo, Ã© ilegal.
 
 75
 00:04:33,940 --> 00:04:37,040
-Então seria genial
+EntÃ£o seria genial
 se as autoridades federais
 
 76
 00:04:37,042 --> 00:04:40,240
-"avisassem" você
+"avisassem" vocÃª
 que o banco seria roubado.
 
 77
 00:04:40,460 --> 00:04:43,240
-E você não tinha como saber
+E vocÃª nÃ£o tinha como saber
 que era uma cilada,
 
 78
 00:04:43,800 --> 00:04:46,840
-senão, você não cairia
+senÃ£o, vocÃª nÃ£o cairia
 na armadilha, certo?
 
 79
@@ -362,21 +362,21 @@ Merda.
 
 80
 00:05:10,760 --> 00:05:12,140
-O quê?
+O quÃª?
 
 81
 00:05:22,740 --> 00:05:25,600
 <i>Senhoras e senhores,
-mantenham-se à distância.</i>
+mantenham-se Ã  distÃ¢ncia.</i>
 
 82
 00:05:25,760 --> 00:05:27,400
-<i>Esta é uma cena do crime.</i>
+<i>Esta Ã© uma cena do crime.</i>
 
 83
 00:05:28,260 --> 00:05:31,200
 - Bom trabalho.
-- Me dê suas algemas.
+- Me dÃª suas algemas.
 
 84
 00:05:33,760 --> 00:05:35,260
@@ -385,33 +385,33 @@ Blake.
 85
 00:05:35,261 --> 00:05:37,800
 Como sabia que o traje dele
-era à prova de balas?
+era Ã  prova de balas?
 
 86
 00:05:41,140 --> 00:05:43,720
-<i>Que palhaçada!
-Mantenham distância.</i>
+<i>Que palhaÃ§ada!
+Mantenham distÃ¢ncia.</i>
 
 87
 00:05:47,980 --> 00:05:50,640
-Por que estão prendendo o cara?
-Ele é um herói!
+Por que estÃ£o prendendo o cara?
+Ele Ã© um herÃ³i!
 
 88
 00:05:50,641 --> 00:05:53,100
-<i>Por favor! Para trás!</i>
+<i>Por favor! Para trÃ¡s!</i>
 
 89
 00:05:53,102 --> 00:05:54,640
-Ele não é um herói.
+Ele nÃ£o Ã© um herÃ³i.
 
 90
 00:05:55,680 --> 00:05:57,560
-Ele é uma piada.
+Ele Ã© uma piada.
 
 91
 00:05:57,800 --> 00:05:59,500
-Polícia de bosta!
+PolÃ­cia de bosta!
 
 92
 00:06:05,600 --> 00:06:08,960
@@ -433,30 +433,30 @@ Parar Devo.
 
 96
 00:07:00,060 --> 00:07:02,160
-Desculpe por vir até aqui.
+Desculpe por vir atÃ© aqui.
 
 97
 00:07:02,162 --> 00:07:03,880
 Deixei recados
-no seu escritório.
+no seu escritÃ³rio.
 
 98
 00:07:03,882 --> 00:07:06,740
-- Eu não fui ao escritório.
+- Eu nÃ£o fui ao escritÃ³rio.
 - Eu percebi.
 
 99
 00:07:06,742 --> 00:07:09,820
 Soube que pegou aquele
-O Revenger. Parabéns.
+O Revenger. ParabÃ©ns.
 
 100
 00:07:09,821 --> 00:07:11,660
-É só Revenger, sem "O".
+Ã‰ sÃ³ Revenger, sem "O".
 
 101
 00:07:11,662 --> 00:07:14,900
-E ele foi pego mês passado.
+E ele foi pego mÃªs passado.
 Hoje foi o Sr. Shadow.
 
 102
@@ -470,12 +470,12 @@ obrigado por livrar a cidade
 
 104
 00:07:19,720 --> 00:07:22,200
-desses ricos otários
-brincando de herói.
+desses ricos otÃ¡rios
+brincando de herÃ³i.
 
 105
 00:07:22,202 --> 00:07:23,720
-O prazer é todo meu.
+O prazer Ã© todo meu.
 
 106
 00:07:26,760 --> 00:07:28,360
@@ -492,7 +492,7 @@ Pode.
 
 109
 00:07:48,840 --> 00:07:51,380
-- Qual é o nome dele?
+- Qual Ã© o nome dele?
 - Ken.
 
 110
@@ -501,13 +501,13 @@ Da coruja.
 
 111
 00:07:53,520 --> 00:07:56,680
-Ken é o nome dele.
+Ken Ã© o nome dele.
 Pode perguntar a ele.
 
 112
 00:08:02,180 --> 00:08:05,240
-Tem alguém que cuida dele
-quando você sai da cidade?
+Tem alguÃ©m que cuida dele
+quando vocÃª sai da cidade?
 
 113
 00:08:05,242 --> 00:08:07,100
@@ -515,12 +515,12 @@ Eu vou sair da cidade, Joe?
 
 114
 00:08:07,102 --> 00:08:10,979
-Amanhã, o vice-diretor vai
-mandar você para Tulsa
+AmanhÃ£, o vice-diretor vai
+mandar vocÃª para Tulsa
 
 115
 00:08:10,980 --> 00:08:12,980
-para liderar uma investigação.
+para liderar uma investigaÃ§Ã£o.
 
 116
 00:08:12,982 --> 00:08:16,280
@@ -533,13 +533,13 @@ E o que vou investigar?
 
 118
 00:08:19,642 --> 00:08:21,260
-A enforcação do chefe
-de polícia.
+A enforcaÃ§Ã£o do chefe
+de polÃ­cia.
 
 119
 00:08:21,262 --> 00:08:23,960
 Enforcamento.
-Você o conhecia?
+VocÃª o conhecia?
 
 120
 00:08:23,962 --> 00:08:26,360
@@ -553,21 +553,21 @@ gerenciou minha campanha.
 
 122
 00:08:28,862 --> 00:08:31,240
-Estão achando que
-foi a Sétima Kavalaria.
+EstÃ£o achando que
+foi a SÃ©tima Kavalaria.
 
 123
 00:08:31,540 --> 00:08:33,000
-Mas você não acha isso.
+Mas vocÃª nÃ£o acha isso.
 
 124
 00:08:33,002 --> 00:08:35,400
-A 7ª K sempre se gaba
+A 7Âª K sempre se gaba
 ao matar um policial,
 
 125
 00:08:35,402 --> 00:08:37,240
-e não deram um pio até agora.
+e nÃ£o deram um pio atÃ© agora.
 
 126
 00:08:37,900 --> 00:08:39,500
@@ -576,7 +576,7 @@ Acha que foi um vigilante?
 127
 00:08:39,502 --> 00:08:41,700
 - Poderia muito bem ser.
-- Por quê?
+- Por quÃª?
 
 128
 00:08:42,000 --> 00:08:43,880
@@ -589,12 +589,12 @@ como inimigos,
 
 130
 00:08:46,081 --> 00:08:47,600
-e agora com as máscaras...
+e agora com as mÃ¡scaras...
 
 131
 00:08:47,602 --> 00:08:50,420
-Talvez não devesse ter dado
-máscaras à polícia, Joe.
+Talvez nÃ£o devesse ter dado
+mÃ¡scaras Ã  polÃ­cia, Joe.
 
 132
 00:08:50,422 --> 00:08:52,220
@@ -608,50 +608,50 @@ desde que aprovamos o ADP.
 134
 00:08:55,840 --> 00:08:58,140
 - E outras cidades...
-- Vocês chamaram de ADP?
+- VocÃªs chamaram de ADP?
 
 135
 00:08:58,142 --> 00:09:01,540
 Ato de Defesa Policial,
-e é uma ideia tão boa
+e Ã© uma ideia tÃ£o boa
 
 136
 00:09:01,542 --> 00:09:03,940
 que outras cidades
-querem adotá-lo.
+querem adotÃ¡-lo.
 
 137
 00:09:03,942 --> 00:09:07,000
 Atlanta, Nova Orleans,
-até a droga de Denver.
+atÃ© a droga de Denver.
 
 138
 00:09:07,002 --> 00:09:08,940
-Máscaras salvam vidas.
+MÃ¡scaras salvam vidas.
 
 139
 00:09:08,941 --> 00:09:12,720
-Minha reputação, meu nome
-está atrelado a essa ideia.
+Minha reputaÃ§Ã£o, meu nome
+estÃ¡ atrelado a essa ideia.
 
 140
 00:09:12,722 --> 00:09:15,680
-Os policiais lá conseguiram
-manter a paz por três anos.
+Os policiais lÃ¡ conseguiram
+manter a paz por trÃªs anos.
 
 141
 00:09:15,681 --> 00:09:17,660
-Agora alguém quer
-começar uma guerra,
+Agora alguÃ©m quer
+comeÃ§ar uma guerra,
 
 142
 00:09:17,662 --> 00:09:20,920
 e se conseguir,
-vai tudo por água abaixo.
+vai tudo por Ã¡gua abaixo.
 
 143
 00:09:21,380 --> 00:09:23,900
-E você não
+E vocÃª nÃ£o
 se elege presidente.
 
 144
@@ -669,7 +669,7 @@ Qualquer um.
 
 147
 00:09:33,002 --> 00:09:35,720
-Pode até tirar
+Pode atÃ© tirar
 essa sua coruja da gaiola.
 
 148
@@ -683,22 +683,22 @@ Outra piada.</i>
 
 150
 00:10:01,780 --> 00:10:05,120
-Três heróis morrem
-e chegam ao Portão do Céu.
+TrÃªs herÃ³is morrem
+e chegam ao PortÃ£o do CÃ©u.
 
 151
 00:10:05,122 --> 00:10:08,200
-Deus terá que decidir
-qual será o destino deles:
+Deus terÃ¡ que decidir
+qual serÃ¡ o destino deles:
 
 152
 00:10:08,202 --> 00:10:10,400
-Céu ou Inferno.
+CÃ©u ou Inferno.
 
 153
 00:10:11,440 --> 00:10:14,000
-<i>O primeiro herói
-está vestido de coruja.</i>
+<i>O primeiro herÃ³i
+estÃ¡ vestido de coruja.</i>
 
 154
 00:10:14,002 --> 00:10:15,320
@@ -707,7 +707,7 @@ está vestido de coruja.</i>
 155
 00:10:15,322 --> 00:10:18,520
 <i>"Eu lhe dei o dom
-de criar invenções fantásticas,</i>
+de criar invenÃ§Ãµes fantÃ¡sticas,</i>
 
 156
 00:10:18,522 --> 00:10:21,080
@@ -726,12 +726,12 @@ muito bacana,</i>
 159
 00:10:26,282 --> 00:10:31,260
 <i>e muitos trajes e armas legais
-para trazer paz à cidade."</i>
+para trazer paz Ã  cidade."</i>
 
 160
 00:10:32,140 --> 00:10:35,640
-Aí Deus pergunta:
-"E quantas pessoas você matou?"
+AÃ­ Deus pergunta:
+"E quantas pessoas vocÃª matou?"
 
 161
 00:10:36,840 --> 00:10:39,000
@@ -744,7 +744,7 @@ parece ofendido.
 
 163
 00:10:40,662 --> 00:10:42,400
-"Eu não tirei nenhuma vida."
+"Eu nÃ£o tirei nenhuma vida."
 
 164
 00:10:43,460 --> 00:10:45,080
@@ -756,8 +756,8 @@ parece ofendido.
 
 166
 00:10:47,680 --> 00:10:51,640
-<i>Você tinha boas intenções,
-mas não foi duro o bastante."</i>
+<i>VocÃª tinha boas intenÃ§Ãµes,
+mas nÃ£o foi duro o bastante."</i>
 
 167
 00:10:53,520 --> 00:10:55,600
@@ -765,29 +765,29 @@ mas não foi duro o bastante."</i>
 
 168
 00:10:58,000 --> 00:11:00,000
-E o herói vai para o Inferno.
+E o herÃ³i vai para o Inferno.
 
 169
 00:11:04,140 --> 00:11:05,780
-A Sétima Kavalaria.
+A SÃ©tima Kavalaria.
 
 170
 00:11:06,200 --> 00:11:09,480
-Parece que é uma referência
-ao Massacre de Custer, e daí?
+Parece que Ã© uma referÃªncia
+ao Massacre de Custer, e daÃ­?
 
 171
 00:11:09,482 --> 00:11:12,080
-É só a Klu Klux Klan
-com máscaras novas.
+Ã‰ sÃ³ a Klu Klux Klan
+com mÃ¡scaras novas.
 
 172
 00:11:12,420 --> 00:11:13,799
-Eles surgiram após
+Eles surgiram apÃ³s
 
 173
 00:11:13,800 --> 00:11:17,379
-o Ato de Vítimas de Violência
+o Ato de VÃ­timas de ViolÃªncia
 Racial ser aprovado.
 
 174
@@ -798,11 +798,11 @@ reivindicar seus direitos.
 175
 00:11:20,802 --> 00:11:22,960
 <i>Compraram terras,
-abriram negócios.</i>
+abriram negÃ³cios.</i>
 
 176
 00:11:22,962 --> 00:11:25,420
-E nós sabemos
+E nÃ³s sabemos
 como os brancos reagem bem
 
 177
@@ -822,12 +822,12 @@ a todos
 
 180
 00:11:33,382 --> 00:11:34,740
-e não deixaram barato.
+e nÃ£o deixaram barato.
 
 181
 00:11:34,742 --> 00:11:38,760
 <i>Identificaram todos em Tulsa
-com "tendências supremacistas,"</i>
+com "tendÃªncias supremacistas,"</i>
 
 182
 00:11:38,762 --> 00:11:41,120
@@ -836,59 +836,59 @@ tomaram suas armas,
 
 183
 00:11:41,122 --> 00:11:43,280
-até as que foram herdadas.
+atÃ© as que foram herdadas.
 
 184
 00:11:43,282 --> 00:11:45,520
-Mas, óbvio,
-não acharam todas...
+Mas, Ã³bvio,
+nÃ£o acharam todas...
 
 185
 00:11:47,880 --> 00:11:49,480
-Que droga é essa?
+Que droga Ã© essa?
 
 186
 00:11:49,900 --> 00:11:53,600
-É um pedaço
-do diário do Rorschach.
+Ã‰ um pedaÃ§o
+do diÃ¡rio do Rorschach.
 
 187
 00:11:53,602 --> 00:11:56,220
 A Kavalaria usa
-máscaras dele, senhor.
+mÃ¡scaras dele, senhor.
 
 188
 00:11:56,222 --> 00:11:59,820
 Achei que para ter
-um contexto psicológico,
+um contexto psicolÃ³gico,
 
 189
 00:11:59,822 --> 00:12:02,840
-- você gostaria de...
+- vocÃª gostaria de...
 - Estamos nos anos 80, Petey?
 
 190
 00:12:04,740 --> 00:12:06,100
-Não, senhor.
+NÃ£o, senhor.
 
 191
 00:12:06,102 --> 00:12:08,000
-Então quem liga
+EntÃ£o quem liga
 para o Rorschach?
 
 192
 00:12:08,001 --> 00:12:09,420
-<i>Próximo slide.</i>
+<i>PrÃ³ximo slide.</i>
 
 193
 00:12:10,700 --> 00:12:14,360
-Ataques coordenados simultâneos
+Ataques coordenados simultÃ¢neos
 nas casas de policiais de Tulsa.
 
 194
 00:12:14,362 --> 00:12:16,779
 Atacaram os policiais
-e suas famílias.
+e suas famÃ­lias.
 
 195
 00:12:16,780 --> 00:12:18,420
@@ -906,61 +906,61 @@ e permaneceram,</i>
 
 198
 00:12:24,002 --> 00:12:26,060
-<i>mas a maioria da polícia
+<i>mas a maioria da polÃ­cia
 se demite.</i>
 
 199
 00:12:26,061 --> 00:12:28,000
-<i>E não há como recrutar
+<i>E nÃ£o hÃ¡ como recrutar
 mais policiais,</i>
 
 200
 00:12:28,001 --> 00:12:31,240
 <i>porque quem garante que
-a Kavalaria não atacará de novo?</i>
+a Kavalaria nÃ£o atacarÃ¡ de novo?</i>
 
 201
 00:12:31,242 --> 00:12:33,980
-<i>E aí,
-chega o Senador Pocotó.</i>
+<i>E aÃ­,
+chega o Senador PocotÃ³.</i>
 
 202
 00:12:34,780 --> 00:12:36,340
-"Se é fogo contra fogo,
+"Se Ã© fogo contra fogo,
 
 203
 00:12:36,341 --> 00:12:38,640
-que seja máscara
-contra máscara!"
+que seja mÃ¡scara
+contra mÃ¡scara!"
 
 204
 00:12:39,060 --> 00:12:41,100
-Máscaras amarelo-claras.
+MÃ¡scaras amarelo-claras.
 
 205
 00:12:41,560 --> 00:12:44,260
-Então, os policiais escondiam
+EntÃ£o, os policiais escondiam
 seus rostos,
 
 206
 00:12:44,262 --> 00:12:46,600
-e os bandidos não sabiam
+e os bandidos nÃ£o sabiam
 onde eles moravam.
 
 207
 00:12:46,602 --> 00:12:49,700
-E quem não quer
+E quem nÃ£o quer
 uma identidade secreta?
 
 208
 00:12:49,702 --> 00:12:52,840
-- Não é, Blake?
+- NÃ£o Ã©, Blake?
 - Verdade, chefe.
 
 209
 00:12:53,580 --> 00:12:57,480
 <i>A paz reinou em Tulsa...
-até a semana passada.</i>
+atÃ© a semana passada.</i>
 
 210
 00:12:57,481 --> 00:13:00,300
@@ -969,7 +969,7 @@ o chefe Judd Crawford
 
 211
 00:13:00,302 --> 00:13:02,020
-pendurado em uma árvore.
+pendurado em uma Ã¡rvore.
 
 212
 00:13:02,022 --> 00:13:05,840
@@ -981,22 +981,22 @@ Luzes.
 
 214
 00:13:09,900 --> 00:13:12,820
-Blake será a líder
-O jato está na pista.
+Blake serÃ¡ a lÃ­der
+O jato estÃ¡ na pista.
 
 215
 00:13:12,821 --> 00:13:15,100
-Vão decolar em duas horas,
-então peguem...
+VÃ£o decolar em duas horas,
+entÃ£o peguem...
 
 216
 00:13:15,101 --> 00:13:16,820
-- Não, eu vou sozinha.
-- O quê?
+- NÃ£o, eu vou sozinha.
+- O quÃª?
 
 217
 00:13:16,821 --> 00:13:20,100
-A polícia de Tulsa não vai
+A polÃ­cia de Tulsa nÃ£o vai
 cooperar se aparecermos juntos.
 
 218
@@ -1006,12 +1006,12 @@ cooperar se aparecermos juntos.
 
 219
 00:13:23,441 --> 00:13:25,340
-Não pode ir até lá sozinha.
+NÃ£o pode ir atÃ© lÃ¡ sozinha.
 
 220
 00:13:26,340 --> 00:13:28,640
 Tudo bem.
-Então vou levar...
+EntÃ£o vou levar...
 
 221
 00:13:30,360 --> 00:13:31,760
@@ -1029,7 +1029,7 @@ afivelem os cintos.</i>
 
 224
 00:14:06,280 --> 00:14:07,840
-Eu trouxe uma também.
+Eu trouxe uma tambÃ©m.
 
 225
 00:14:11,900 --> 00:14:13,340
@@ -1037,34 +1037,34 @@ A sua tem buracos.
 
 226
 00:14:13,342 --> 00:14:15,480
-<i>Não é para dormir.</i>
+<i>NÃ£o Ã© para dormir.</i>
 
 227
 00:14:15,482 --> 00:14:17,960
-Na apresentação,
+Na apresentaÃ§Ã£o,
 o Diretor Farragut disse...
 
 228
 00:14:19,540 --> 00:14:22,680
-Já que os policiais lá usam,
+JÃ¡ que os policiais lÃ¡ usam,
 eu pensei...
 
 229
 00:14:22,682 --> 00:14:24,520
 "Quando em Roma..."
-Não é?
+NÃ£o Ã©?
 
 230
 00:14:24,940 --> 00:14:26,640
-Tulsa não é Roma.
+Tulsa nÃ£o Ã© Roma.
 
 231
 00:14:27,300 --> 00:14:29,160
-E você é um agente federal.
+E vocÃª Ã© um agente federal.
 
 232
 00:14:29,161 --> 00:14:31,000
-E não a porra do Zorro.
+E nÃ£o a porra do Zorro.
 
 233
 00:14:33,760 --> 00:14:37,140
@@ -1073,30 +1073,30 @@ Certo. Saquei.
 234
 00:14:37,860 --> 00:14:41,680
 <i>Se olharem pela janela,
-terão uma visão panorâmica</i>
+terÃ£o uma visÃ£o panorÃ¢mica</i>
 
 235
 00:14:41,682 --> 00:14:43,740
-<i>do Relógio do Milênio.</i>
+<i>do RelÃ³gio do MilÃªnio.</i>
 
 236
 00:14:56,700 --> 00:15:00,080
 "Contemplem minhas obras,
-ó poderosos, e desesperem-se!"
+Ã³ poderosos, e desesperem-se!"
 
 237
 00:15:00,700 --> 00:15:02,100
-O quê?
+O quÃª?
 
 238
 00:15:02,500 --> 00:15:06,240
 Foi o que a Sra. Trieu disse
-na inauguração do relógio.
+na inauguraÃ§Ã£o do relÃ³gio.
 
 239
 00:15:07,000 --> 00:15:11,840
 Um "salve" ao Adrian Veidt
-após comprar a empresa dele.
+apÃ³s comprar a empresa dele.
 
 240
 00:15:13,480 --> 00:15:15,560
@@ -1110,16 +1110,16 @@ na central da Argentina</i>
 242
 00:15:18,582 --> 00:15:20,920
 <i>diz que Veidt fez
-cirurgia plástica</i>
+cirurgia plÃ¡stica</i>
 
 243
 00:15:20,921 --> 00:15:23,020
-<i>e está vivendo incógnito
-por lá.</i>
+<i>e estÃ¡ vivendo incÃ³gnito
+por lÃ¡.</i>
 
 244
 00:15:23,940 --> 00:15:25,280
-Você o conheceu, não?
+VocÃª o conheceu, nÃ£o?
 
 245
 00:15:25,282 --> 00:15:28,300
@@ -1128,15 +1128,15 @@ quando ele era o Ozymandias?
 
 246
 00:15:30,220 --> 00:15:31,880
-Quer o meu autógrafo?
+Quer o meu autÃ³grafo?
 
 247
 00:15:32,220 --> 00:15:33,530
-O quê?
+O quÃª?
 
 248
 00:15:33,532 --> 00:15:36,520
-Dá pra ver que tem uma tara
+DÃ¡ pra ver que tem uma tara
 por coisas do passado.
 
 249
@@ -1146,11 +1146,11 @@ Onde quer que eu assine?
 250
 00:15:39,660 --> 00:15:44,060
 Fiz meu TCC sobre
-a Greve da Polícia de 1977,
+a Greve da PolÃ­cia de 1977,
 
 251
 00:15:44,062 --> 00:15:46,740
-quando você e seu ex
+quando vocÃª e seu ex
 estavam em DC.
 
 252
@@ -1165,8 +1165,8 @@ existente.
 
 254
 00:15:54,860 --> 00:15:57,640
-Me desculpe por não fingir
-que não sei quem você é,
+Me desculpe por nÃ£o fingir
+que nÃ£o sei quem vocÃª Ã©,
 
 255
 00:15:57,642 --> 00:16:00,440
@@ -1175,7 +1175,7 @@ celebridades em paz", mas,
 
 256
 00:16:00,442 --> 00:16:04,040
-foi você quem me trouxe,
+foi vocÃª quem me trouxe,
 Agente Blake.
 
 257
@@ -1186,28 +1186,28 @@ pelo FBI para mexer no projetor,
 258
 00:16:08,642 --> 00:16:10,720
 eu me tornei PhD
-em História.
+em HistÃ³ria.
 
 259
 00:16:11,360 --> 00:16:12,960
-Então,
+EntÃ£o,
 
 260
 00:16:13,960 --> 00:16:16,680
-por favor, não me trate
+por favor, nÃ£o me trate
 como se eu fosse um...
 
 261
 00:16:17,960 --> 00:16:19,380
-fã.
+fÃ£.
 
 262
 00:16:25,360 --> 00:16:27,560
-É, eu conheci Adrian Veidt.
+Ã‰, eu conheci Adrian Veidt.
 
 263
 00:16:30,760 --> 00:16:32,800
-Também não sou muito fã.
+TambÃ©m nÃ£o sou muito fÃ£.
 
 264
 00:16:41,180 --> 00:16:42,640
@@ -1219,8 +1219,8 @@ Lembrei. Lembrei.
 
 266
 00:16:47,080 --> 00:16:50,180
-No Portão do Véu,
-com o próximo herói na fila
+No PortÃ£o do VÃ©u,
+com o prÃ³ximo herÃ³i na fila
 
 267
 00:16:50,182 --> 00:16:52,240
@@ -1229,13 +1229,13 @@ o julgamento divino.
 
 268
 00:16:53,260 --> 00:16:55,800
-<i>O herói número dois
-está confiante que vai entrar</i>
+<i>O herÃ³i nÃºmero dois
+estÃ¡ confiante que vai entrar</i>
 
 269
 00:16:55,802 --> 00:16:59,680
-<i>porque o seu dom é justamente
-a inteligência.</i>
+<i>porque o seu dom Ã© justamente
+a inteligÃªncia.</i>
 
 270
 00:17:00,820 --> 00:17:03,820
@@ -1244,7 +1244,7 @@ mais inteligente do mundo.</i>
 
 271
 00:17:04,700 --> 00:17:08,100
-<i>"O que fez com esse cérebro
+<i>"O que fez com esse cÃ©rebro
 enorme que lhe dei?", diz Deus.</i>
 
 272
@@ -1259,7 +1259,7 @@ Deus pergunta.</i>
 
 274
 00:17:16,780 --> 00:17:21,400
-<i>"Eu joguei uma lula alienígena
+<i>"Eu joguei uma lula alienÃ­gena
 gigante em Nova York,</i>
 
 275
@@ -1279,7 +1279,7 @@ uns aos outros."</i>
 278
 00:17:32,940 --> 00:17:34,840
 <i>"Quantas pessoas
-você matou?"</i>
+vocÃª matou?"</i>
 
 279
 00:17:34,842 --> 00:17:36,680
@@ -1287,12 +1287,12 @@ você matou?"</i>
 
 280
 00:17:36,980 --> 00:17:39,579
-"Três milhões,
+"TrÃªs milhÃµes,
 mais ou menos.
 
 281
 00:17:39,580 --> 00:17:42,400
-<i>Não se faz um omelete
+<i>NÃ£o se faz um omelete
 sem quebrar alguns ovos."</i>
 
 282
@@ -1301,11 +1301,11 @@ sem quebrar alguns ovos."</i>
 
 283
 00:17:45,900 --> 00:17:48,000
-<i>"Você é um monstro."</i>
+<i>"VocÃª Ã© um monstro."</i>
 
 284
 00:17:49,140 --> 00:17:51,560
-"Não sou não",
+"NÃ£o sou nÃ£o",
 diz o Sabe-Tudo.
 
 285
@@ -1314,25 +1314,25 @@ Deus estala seus dedos.
 
 286
 00:17:55,380 --> 00:17:57,200
-<i>O herói vai para o Inferno.</i>
+<i>O herÃ³i vai para o Inferno.</i>
 
 287
 00:18:07,840 --> 00:18:10,480
 Talvez seja
-o depósito errado?
+o depÃ³sito errado?
 
 288
 00:18:11,420 --> 00:18:12,720
-É?
+Ã‰?
 
 289
 00:18:12,722 --> 00:18:14,960
-Seu PhD em História
-está dizendo isso?
+Seu PhD em HistÃ³ria
+estÃ¡ dizendo isso?
 
 290
 00:18:19,580 --> 00:18:21,320
-Tome. Não coma.
+Tome. NÃ£o coma.
 
 291
 00:18:22,760 --> 00:18:24,160
@@ -1340,8 +1340,8 @@ Espere aqui.
 
 292
 00:18:24,760 --> 00:18:26,680
-Está bem.
-Mas eu não deveria...
+EstÃ¡ bem.
+Mas eu nÃ£o deveria...
 
 293
 00:18:30,140 --> 00:18:32,160
@@ -1350,15 +1350,15 @@ DE PRISIONEIROS
 
 294
 00:18:47,280 --> 00:18:48,740
-Olá!
+OlÃ¡!
 
 295
 00:18:50,520 --> 00:18:52,200
-O que estão aprontando?
+O que estÃ£o aprontando?
 
 296
 00:18:52,900 --> 00:18:54,620
-Quem é você, porra?
+Quem Ã© vocÃª, porra?
 
 297
 00:18:54,622 --> 00:18:56,560
@@ -1367,7 +1367,7 @@ Laurie Blake.
 
 298
 00:18:56,980 --> 00:18:58,700
-E quem são vocês, porra?
+E quem sÃ£o vocÃªs, porra?
 
 299
 00:19:00,660 --> 00:19:02,060
@@ -1389,7 +1389,7 @@ eu sou do FBI.
 303
 00:19:08,862 --> 00:19:10,880
 Seus direitos
-estão sendo violados?
+estÃ£o sendo violados?
 
 304
 00:19:10,882 --> 00:19:12,200
@@ -1398,17 +1398,17 @@ Sim, senhora.
 305
 00:19:12,202 --> 00:19:15,260
 Eles invadiram meu local
-de negócios e me agarraram.
+de negÃ³cios e me agarraram.
 
 306
 00:19:15,261 --> 00:19:17,180
-- Não leram meus direitos...
-- Perdão.
+- NÃ£o leram meus direitos...
+- PerdÃ£o.
 
 307
 00:19:17,182 --> 00:19:19,260
 Estava brincando,
-eu não ligo.
+eu nÃ£o ligo.
 
 308
 00:19:19,261 --> 00:19:22,040
@@ -1417,7 +1417,7 @@ um tal de Looking Glass.
 
 309
 00:19:22,880 --> 00:19:24,280
-Ele está lá dentro?
+Ele estÃ¡ lÃ¡ dentro?
 
 310
 00:20:04,860 --> 00:20:06,380
@@ -1425,16 +1425,16 @@ Abre a boca.
 
 311
 00:20:09,340 --> 00:20:12,600
-O Looking Glass está na câmara.
-Ele sabe que está vindo?
+O Looking Glass estÃ¡ na cÃ¢mara.
+Ele sabe que estÃ¡ vindo?
 
 312
 00:20:13,540 --> 00:20:15,160
-Eu espero que não.
+Eu espero que nÃ£o.
 
 313
 00:20:22,620 --> 00:20:24,460
-Pela segurança dos policiais,
+Pela seguranÃ§a dos policiais,
 
 314
 00:20:24,462 --> 00:20:26,560
@@ -1443,27 +1443,27 @@ de novo
 
 315
 00:20:26,561 --> 00:20:28,560
-antes de levarmos você
+antes de levarmos vocÃª
 de volta.
 
 316
 00:20:30,440 --> 00:20:33,240
-Ele está liberado.
+Ele estÃ¡ liberado.
 Pode tirar do quadro.
 
 317
 00:20:38,740 --> 00:20:41,780
 Sei que tem uma fila,
-mas posso ser a próxima?
+mas posso ser a prÃ³xima?
 
 318
 00:20:49,080 --> 00:20:51,720
-- Por favor, não pegue...
+- Por favor, nÃ£o pegue...
 - Como isso funciona?
 
 319
 00:20:52,120 --> 00:20:53,880
-É meio complicado.
+Ã‰ meio complicado.
 
 320
 00:20:55,500 --> 00:20:56,900
@@ -1471,40 +1471,40 @@ Tente explicar.
 
 321
 00:20:57,260 --> 00:21:00,920
-Ele encontra e expõe
+Ele encontra e expÃµe
 preconceitos culturais negativos
 
 322
 00:21:00,921 --> 00:21:03,600
 que o suspeito possa
-não admitir.
+nÃ£o admitir.
 
 323
 00:21:03,601 --> 00:21:05,420
-É um detector de racistas?
+Ã‰ um detector de racistas?
 
 324
 00:21:05,421 --> 00:21:07,440
-É uma simplificação
+Ã‰ uma simplificaÃ§Ã£o
 exagerada.
 
 325
 00:21:08,500 --> 00:21:10,380
-Imagino que vocês suspeitam
+Imagino que vocÃªs suspeitam
 
 326
 00:21:10,381 --> 00:21:13,420
 que todas essas pessoas vendadas
-são da Sétima Kavalaria.
+sÃ£o da SÃ©tima Kavalaria.
 
 327
 00:21:13,421 --> 00:21:15,920
-Algum deles já confessou
+Algum deles jÃ¡ confessou
 ter matado seu chefe?
 
 328
 00:21:15,921 --> 00:21:18,080
-Até esse momento, não.
+AtÃ© esse momento, nÃ£o.
 
 329
 00:21:24,020 --> 00:21:27,460
@@ -1514,12 +1514,12 @@ com uma semente presa bem aqui.
 330
 00:21:28,000 --> 00:21:31,000
 Se vestir um espelho na cara,
-as pessoas vão usá-lo.
+as pessoas vÃ£o usÃ¡-lo.
 
 331
 00:21:31,440 --> 00:21:35,360
-Ou então poderia tirar
-essa máscara boba, Wade.
+Ou entÃ£o poderia tirar
+essa mÃ¡scara boba, Wade.
 
 332
 00:21:38,200 --> 00:21:40,400
@@ -1536,12 +1536,12 @@ por favor?
 
 335
 00:21:59,900 --> 00:22:02,200
-Em que posso ajudá-la,
+Em que posso ajudÃ¡-la,
 agente Blake?
 
 336
 00:22:02,900 --> 00:22:05,125
-Fale-me da autópsia
+Fale-me da autÃ³psia
 do seu chefe.
 
 337
@@ -1551,95 +1551,95 @@ hemorragia petequial,
 
 338
 00:22:07,826 --> 00:22:10,775
-além de asfixia
-e congestão passiva.
+alÃ©m de asfixia
+e congestÃ£o passiva.
 
 339
 00:22:10,776 --> 00:22:13,525
-Não há dúvidas
+NÃ£o hÃ¡ dÃºvidas
 de que foi enforcado.
 
 340
 00:22:13,526 --> 00:22:15,150
 Fizeram
-um exame toxicológico?
+um exame toxicolÃ³gico?
 
 341
 00:22:15,151 --> 00:22:18,625
-Deve ter lido o relatório,
-então sabe que não rolou.
+Deve ter lido o relatÃ³rio,
+entÃ£o sabe que nÃ£o rolou.
 
 342
 00:22:18,626 --> 00:22:20,200
-E por que não "rolou"?
+E por que nÃ£o "rolou"?
 
 343
 00:22:20,201 --> 00:22:23,250
-Não há necessidade.
-A causa da morte é óbvia.
+NÃ£o hÃ¡ necessidade.
+A causa da morte Ã© Ã³bvia.
 
 344
 00:22:24,000 --> 00:22:26,325
-Verdade, é mesmo.
+Verdade, Ã© mesmo.
 
 345
 00:22:26,326 --> 00:22:29,300
-E quanto à batida
+E quanto Ã  batida
 no rancho de gado?
 
 346
 00:22:29,301 --> 00:22:31,900
-- Eu não estava lá.
-- Pois é, eu sei.
+- Eu nÃ£o estava lÃ¡.
+- Pois Ã©, eu sei.
 
 347
 00:22:31,901 --> 00:22:35,125
-Mas o relatório diz que você
-obteu a localização dum suspeito
+Mas o relatÃ³rio diz que vocÃª
+obteu a localizaÃ§Ã£o dum suspeito
 
 348
 00:22:35,126 --> 00:22:37,650
 - aqui no detector de racistas.
-- Não é um de...
+- NÃ£o Ã© um de...
 
 349
 00:22:40,400 --> 00:22:43,350
-Se você leu o relatório,
+Se vocÃª leu o relatÃ³rio,
 viu as filmagens.
 
 350
 00:22:43,351 --> 00:22:46,650
 E se viu as filmagens,
-sabe que ele não disse nada.
+sabe que ele nÃ£o disse nada.
 
 351
 00:22:46,651 --> 00:22:48,525
-Você é esperto, Wade.
+VocÃª Ã© esperto, Wade.
 
 352
 00:22:48,526 --> 00:22:50,675
-Então para quem ele deu
-a informação?
+EntÃ£o para quem ele deu
+a informaÃ§Ã£o?
 
 353
 00:22:50,676 --> 00:22:52,875
 A Sister Night conseguiu
-a informação
+a informaÃ§Ã£o
 
 354
 00:22:52,876 --> 00:22:54,975
-em um interrogatório
-secundário.
+em um interrogatÃ³rio
+secundÃ¡rio.
 
 355
 00:22:54,976 --> 00:22:56,725
-Isso é "enfiar a porrada"
+Isso Ã© "enfiar a porrada"
 em Tulsa?
 
 356
 00:22:56,726 --> 00:23:00,975
-Eu não presenciei o uso
-de violência contra o suspeito.
+Eu nÃ£o presenciei o uso
+de violÃªncia contra o suspeito.
 
 357
 00:23:00,976 --> 00:23:05,250
@@ -1652,7 +1652,7 @@ Seria sim.
 
 359
 00:23:21,400 --> 00:23:22,800
-Ela está aqui?
+Ela estÃ¡ aqui?
 
 360
 00:23:24,500 --> 00:23:29,500
@@ -1669,7 +1669,7 @@ Daqui a algumas horas.
 
 363
 00:23:40,000 --> 00:23:42,950
-Então é melhor eu ir
+EntÃ£o Ã© melhor eu ir
 vestir algo mais escuro.
 
 364
@@ -1679,34 +1679,34 @@ da piada agora.</i>
 
 365
 00:23:57,650 --> 00:23:59,350
-<i>Só mais um herói.</i>
+<i>SÃ³ mais um herÃ³i.</i>
 
 366
 00:23:59,850 --> 00:24:01,250
-<i>Deus estala a mão,</i>
+<i>Deus estala a mÃ£o,</i>
 
 367
 00:24:01,251 --> 00:24:04,800
 <i>pronto para tomar
-a sua última decisão.</i>
+a sua Ãºltima decisÃ£o.</i>
 
 368
 00:24:06,300 --> 00:24:09,700
-Só que o herói número três
-é praticamente um deus também.
+SÃ³ que o herÃ³i nÃºmero trÃªs
+Ã© praticamente um deus tambÃ©m.
 
 369
 00:24:09,701 --> 00:24:12,050
-Então,
+EntÃ£o,
 para diferenciar os dois:
 
 370
 00:24:12,400 --> 00:24:14,100
-Ele é azul
+Ele Ã© azul
 
 371
 00:24:14,450 --> 00:24:17,500
-e gosta de andar por aí
+e gosta de andar por aÃ­
 com o pinto de fora.
 
 372
@@ -1742,7 +1742,7 @@ por outra mulher.</i>
 378
 00:24:39,051 --> 00:24:41,450
 <i>Eu ganhei
-a Guerra do Vietnã.</i>
+a Guerra do VietnÃ£.</i>
 
 379
 00:24:43,550 --> 00:24:46,900
@@ -1755,8 +1755,8 @@ a cagar para a humanidade."
 
 381
 00:24:52,850 --> 00:24:56,400
-<i>"Será que devo perguntar
-quantas pessoas você matou?"</i>
+<i>"SerÃ¡ que devo perguntar
+quantas pessoas vocÃª matou?"</i>
 
 382
 00:24:58,100 --> 00:25:00,050
@@ -1765,16 +1765,16 @@ encolhe os ombros.</i>
 
 383
 00:25:00,600 --> 00:25:03,450
-<i>"Corpos vivos e mortos têm
-o mesmo número de partículas,</i>
+<i>"Corpos vivos e mortos tÃªm
+o mesmo nÃºmero de partÃ­culas,</i>
 
 384
 00:25:03,451 --> 00:25:04,851
-<i>então não importa.</i>
+<i>entÃ£o nÃ£o importa.</i>
 
 385
 00:25:06,450 --> 00:25:09,350
-<i>E minhas respostas não importam,
+<i>E minhas respostas nÃ£o importam,
 porque...</i>
 
 386
@@ -1798,22 +1798,22 @@ ao responder calmamente:</i>
 
 390
 00:25:20,300 --> 00:25:22,250
-<i>"Porque eu já estou lá."</i>
+<i>"Porque eu jÃ¡ estou lÃ¡."</i>
 
 391
 00:25:24,500 --> 00:25:26,750
-E então,
+E entÃ£o,
 como uma mera engrenagem
 
 392
 00:25:26,751 --> 00:25:29,100
-na inevitável máquina
-do tempo e do espaço,
+na inevitÃ¡vel mÃ¡quina
+do tempo e do espaÃ§o,
 
 393
 00:25:29,101 --> 00:25:31,850
 Deus faz o que fez
-e o que fará.
+e o que farÃ¡.
 
 394
 00:25:32,150 --> 00:25:34,750
@@ -1821,7 +1821,7 @@ e o que fará.
 
 395
 00:25:37,000 --> 00:25:39,450
-<i>E o herói vai
+<i>E o herÃ³i vai
 para o inferno.</i>
 
 396
@@ -1853,17 +1853,17 @@ Cal. Oi.
 
 402
 00:26:52,550 --> 00:26:55,225
-- Eu conheço você?
-- Não, não conhece.
+- Eu conheÃ§o vocÃª?
+- NÃ£o, nÃ£o conhece.
 
 403
 00:26:55,226 --> 00:26:57,450
-Perdão,
-nós nunca nos conhecemos.
+PerdÃ£o,
+nÃ³s nunca nos conhecemos.
 
 404
 00:26:57,451 --> 00:27:00,075
-Soube que são próximos
+Soube que sÃ£o prÃ³ximos
 dos Crawfords,
 
 405
@@ -1873,18 +1873,18 @@ para ajudar.
 
 406
 00:27:01,850 --> 00:27:04,575
-Gostaria de tomar um café
-e conversar com você,
+Gostaria de tomar um cafÃ©
+e conversar com vocÃª,
 
 407
 00:27:04,576 --> 00:27:08,425
 - uma hora dessas.
-- Não sou mais policial.
+- NÃ£o sou mais policial.
 
 408
 00:27:08,426 --> 00:27:10,925
 Eu me aposentei
-há três anos.
+hÃ¡ trÃªs anos.
 
 409
 00:27:10,926 --> 00:27:13,375
@@ -1893,17 +1893,17 @@ e entendo completamente.
 
 410
 00:27:13,376 --> 00:27:16,300
-Você tem uma família
-e é muito perigoso.
+VocÃª tem uma famÃ­lia
+e Ã© muito perigoso.
 
 411
 00:27:18,550 --> 00:27:22,150
 Tome,
-fique com o meu cartão.
+fique com o meu cartÃ£o.
 
 412
 00:27:22,550 --> 00:27:24,250
-Tem o número do meu pager.
+Tem o nÃºmero do meu pager.
 
 413
 00:27:24,251 --> 00:27:26,650
@@ -1912,17 +1912,17 @@ quando quiserem.
 
 414
 00:27:27,150 --> 00:27:29,950
-"Força-Tarefa
+"ForÃ§a-Tarefa
 Antivigilante."
 
 415
 00:27:30,700 --> 00:27:34,150
-Sabe a diferença entre policiais
-de máscara e vigilantes?
+Sabe a diferenÃ§a entre policiais
+de mÃ¡scara e vigilantes?
 
 416
 00:27:35,550 --> 00:27:36,950
-Não.
+NÃ£o.
 
 417
 00:27:37,450 --> 00:27:38,850
@@ -1931,7 +1931,7 @@ Nem eu.
 418
 00:27:40,950 --> 00:27:44,350
 E mais uma vez,
-meus pêsames.
+meus pÃªsames.
 
 419
 00:27:48,450 --> 00:27:51,100
@@ -1961,7 +1961,7 @@ Ele amava seu trabalho,
 
 425
 00:28:18,300 --> 00:28:22,850
-mas amava todos vocês
+mas amava todos vocÃªs
 ainda mais.
 
 426
@@ -1970,7 +1970,7 @@ Angela.
 
 427
 00:28:26,950 --> 00:28:29,100
-Não consigo pensar
+NÃ£o consigo pensar
 em uma pessoa melhor
 
 428
@@ -1980,7 +1980,7 @@ antes de nos despedirmos dele.
 
 429
 00:28:44,250 --> 00:28:47,700
-Muitos de vocês sabem
+Muitos de vocÃªs sabem
 que o chefe e "mim"...
 
 430
@@ -2003,17 +2003,17 @@ morreram.</i>
 
 434
 00:28:59,800 --> 00:29:03,700
-<i>Sabíamos que nem sempre
-teríamos tanta sorte,</i>
+<i>SabÃ­amos que nem sempre
+terÃ­amos tanta sorte,</i>
 
 435
 00:29:04,450 --> 00:29:06,400
-e que precisávamos
+e que precisÃ¡vamos
 estar prontos.
 
 436
 00:29:08,100 --> 00:29:09,975
-Então fizemos um pacto.
+EntÃ£o fizemos um pacto.
 
 437
 00:29:09,976 --> 00:29:14,450
@@ -2031,8 +2031,8 @@ Todo mundo parado!
 
 440
 00:30:37,476 --> 00:30:41,600
-A bomba está ligada ao coração.
-Se ele parar, vocês morrem!
+A bomba estÃ¡ ligada ao coraÃ§Ã£o.
+Se ele parar, vocÃªs morrem!
 
 441
 00:30:44,000 --> 00:30:46,200
@@ -2040,12 +2040,12 @@ Senador Joseph Keene Jr.,
 
 442
 00:30:46,201 --> 00:30:48,525
-você é um traidor da raça
+vocÃª Ã© um traidor da raÃ§a
 
 443
 00:30:48,526 --> 00:30:51,275
 e declarou guerra
-contra a Sétima Kavalaria.
+contra a SÃ©tima Kavalaria.
 
 444
 00:30:51,276 --> 00:30:54,450
@@ -2059,7 +2059,7 @@ ou todo mundo morre!
 
 446
 00:30:59,750 --> 00:31:01,250
-Eu faço o que você mandar.
+Eu faÃ§o o que vocÃª mandar.
 
 447
 00:31:03,350 --> 00:31:05,250
@@ -2071,7 +2071,7 @@ Estou indo.
 
 449
 00:31:14,300 --> 00:31:15,750
-Não tentem seguir...
+NÃ£o tentem seguir...
 
 450
 00:31:24,950 --> 00:31:26,350
@@ -2096,18 +2096,18 @@ mestre.
 
 455
 00:33:58,500 --> 00:34:03,250
-Porque você, Sr. Phillips,
-é incapaz de sentir dúvida.
+Porque vocÃª, Sr. Phillips,
+Ã© incapaz de sentir dÃºvida.
 
 456
 00:34:06,650 --> 00:34:09,700
 Mas ainda assim,
-eu agradeço a intenção.
+eu agradeÃ§o a intenÃ§Ã£o.
 
 457
 00:34:20,300 --> 00:34:23,500
-Está pronto para se aventurar
-no Grande Além?
+EstÃ¡ pronto para se aventurar
+no Grande AlÃ©m?
 
 458
 00:34:24,250 --> 00:34:26,000
@@ -2115,11 +2115,11 @@ Estou sim, senhor.
 
 459
 00:35:11,300 --> 00:35:12,700
-Maldição.
+MaldiÃ§Ã£o.
 
 460
 00:35:17,550 --> 00:35:20,425
-Maldição.
+MaldiÃ§Ã£o.
 
 461
 00:35:20,426 --> 00:35:23,000
@@ -2153,12 +2153,12 @@ de uma pele mais grossa.
 
 468
 00:37:11,100 --> 00:37:15,500
-<i>Ele é um bom companheiro
-Ele é um bom...</i>
+<i>Ele Ã© um bom companheiro
+Ele Ã© um bom...</i>
 
 469
 00:37:36,050 --> 00:37:38,600
-Lamento perturbá-lo,
+Lamento perturbÃ¡-lo,
 mestre,
 
 470
@@ -2176,7 +2176,7 @@ Leia para mim.
 473
 00:37:49,650 --> 00:37:53,500
 Vamos ver o que
-nosso adversário tem a dizer.
+nosso adversÃ¡rio tem a dizer.
 
 474
 00:37:58,300 --> 00:38:02,125
@@ -2185,23 +2185,23 @@ nosso adversário tem a dizer.
 
 475
 00:38:02,126 --> 00:38:04,600
-- Vá direto ao ponto.
+- VÃ¡ direto ao ponto.
 - "Lamento, senhor,
 
 476
 00:38:04,601 --> 00:38:07,150
-mas quando você chegou aqui,
+mas quando vocÃª chegou aqui,
 fizemos um acordo
 
 477
 00:38:07,151 --> 00:38:09,475
-sobre as condições
+sobre as condiÃ§Ãµes
 do seu cativeiro.
 
 478
 00:38:09,476 --> 00:38:12,125
 Seu comportamento recente
-sugere uma intenção
+sugere uma intenÃ§Ã£o
 
 479
 00:38:12,126 --> 00:38:13,975
@@ -2214,27 +2214,27 @@ se tal comportamento continuar,
 
 481
 00:38:16,976 --> 00:38:20,300
-você vai arcar
-com as sérias consequências."
+vocÃª vai arcar
+com as sÃ©rias consequÃªncias."
 
 482
 00:38:23,400 --> 00:38:25,600
 Ele sublinhou
-"consequências".
+"consequÃªncias".
 
 483
 00:38:26,600 --> 00:38:29,200
-"Saiba que da próxima vez
+"Saiba que da prÃ³xima vez
 que eu atirar, senhor,
 
 484
 00:38:29,201 --> 00:38:30,825
-não será em seus pés.
+nÃ£o serÃ¡ em seus pÃ©s.
 
 485
 00:38:30,826 --> 00:38:34,025
 Considere este seu primeiro
-e único aviso.
+e Ãºnico aviso.
 
 486
 00:38:34,026 --> 00:38:37,225
@@ -2248,13 +2248,13 @@ o Guarda-Florestal."
 
 488
 00:38:43,450 --> 00:38:45,550
-À máquina de escrever,
+Ã€ mÃ¡quina de escrever,
 Crookshanks!
 
 489
 00:38:50,650 --> 00:38:54,750
-Veremos do que esse cão
-traiçoeiro é capaz, que tal?
+Veremos do que esse cÃ£o
+traiÃ§oeiro Ã© capaz, que tal?
 
 490
 00:38:55,100 --> 00:38:57,400
@@ -2263,7 +2263,7 @@ Sim, veremos, mestre!
 491
 00:38:58,000 --> 00:39:01,850
 "Honrado Guarda-Florestal,
-peço perdão, senhor,
+peÃ§o perdÃ£o, senhor,
 
 492
 00:39:02,300 --> 00:39:05,550
@@ -2273,22 +2273,22 @@ que cometi atividades criminais,
 493
 00:39:05,551 --> 00:39:09,800
 como se eu fosse
-um temível bandido da floresta,
+um temÃ­vel bandido da floresta,
 
 494
 00:39:09,801 --> 00:39:14,550
-ou algo pior, um tipo de vilão
+ou algo pior, um tipo de vilÃ£o
 de carreira republicano.
 
 495
 00:39:15,350 --> 00:39:18,050
-Não sou nenhum desses,
+NÃ£o sou nenhum desses,
 senhor, e garanto
 
 496
 00:39:18,600 --> 00:39:22,500
 que minhas atividades
-são puramente...
+sÃ£o puramente...
 
 497
 00:39:23,100 --> 00:39:25,700
@@ -2296,7 +2296,7 @@ de natureza recreacional.
 
 498
 00:39:26,300 --> 00:39:29,250
-Além disso,
+AlÃ©m disso,
 eu jamais sequer imaginaria
 
 499
@@ -2315,8 +2315,8 @@ a discutir mais sobre o assunto
 
 502
 00:39:41,026 --> 00:39:44,300
-caso queira repetir as acusações
-ridículas pessoalmente.
+caso queira repetir as acusaÃ§Ãµes
+ridÃ­culas pessoalmente.
 
 503
 00:39:46,200 --> 00:39:48,925
@@ -2326,7 +2326,7 @@ gostado dos tomates.
 504
 00:39:48,926 --> 00:39:53,850
 Com os melhores cumprimentos
-e até a próxima,
+e atÃ© a prÃ³xima,
 
 505
 00:39:55,050 --> 00:39:57,850
@@ -2354,31 +2354,31 @@ arrumar meu arco
 
 510
 00:40:12,676 --> 00:40:14,450
-e selar o Bucéfalo.
+e selar o BucÃ©falo.
 
 511
 00:40:15,400 --> 00:40:17,950
-Caçarei novamente
-à meia-noite!
+CaÃ§arei novamente
+Ã  meia-noite!
 
 512
 00:40:48,550 --> 00:40:50,550
-<i>O herói aqui não sou eu.</i>
+<i>O herÃ³i aqui nÃ£o sou eu.</i>
 
 513
 00:40:51,750 --> 00:40:54,950
-Só estou aqui agora
-falando com vocês
+SÃ³ estou aqui agora
+falando com vocÃªs
 
 514
 00:40:54,951 --> 00:40:58,850
-graças ao trabalho corajoso
-e efetivo da polícia.
+graÃ§as ao trabalho corajoso
+e efetivo da polÃ­cia.
 
 515
 00:40:58,851 --> 00:41:02,150
-Eles são os heróis.
-Eles garantiram minha segurança.
+Eles sÃ£o os herÃ³is.
+Eles garantiram minha seguranÃ§a.
 
 516
 00:41:02,151 --> 00:41:05,450
@@ -2397,13 +2397,13 @@ um terrorista
 
 519
 00:41:11,801 --> 00:41:13,700
-quanto alguém
-que não tem medo deles.
+quanto alguÃ©m
+que nÃ£o tem medo deles.
 
 520
 00:41:13,701 --> 00:41:16,225
 Pode falar do reator
-de campo intrínseco russo?
+de campo intrÃ­nseco russo?
 
 521
 00:41:16,226 --> 00:41:19,775
@@ -2413,7 +2413,7 @@ prometi que nos defenderia
 522
 00:41:19,776 --> 00:41:21,950
 de inimigos estrangeiros
-e domésticos.
+e domÃ©sticos.
 
 523
 00:41:22,250 --> 00:41:26,300
@@ -2422,28 +2422,28 @@ do grande estado de Oklahoma
 
 524
 00:41:26,301 --> 00:41:28,500
-e os russos não são
+e os russos nÃ£o sÃ£o
 problema meu.
 
 525
 00:41:28,501 --> 00:41:31,150
 A maldita
-Sétima Kavalaria é.
+SÃ©tima Kavalaria Ã©.
 
 526
 00:41:31,550 --> 00:41:34,100
-É aqui onde a guerra
-está acontecendo agora
+Ã‰ aqui onde a guerra
+estÃ¡ acontecendo agora
 
 527
 00:41:34,101 --> 00:41:36,300
-e eu não vou embora
-até que vençamos.
+e eu nÃ£o vou embora
+atÃ© que venÃ§amos.
 
 528
 00:41:37,300 --> 00:41:39,500
 Boa noite
-e Deus os abençoe.
+e Deus os abenÃ§oe.
 
 529
 00:41:45,750 --> 00:41:47,600
@@ -2451,26 +2451,26 @@ Ele conseguiu meu voto.
 
 530
 00:41:48,050 --> 00:41:50,200
-Você tem idade para votar?
+VocÃª tem idade para votar?
 
 531
 00:41:51,800 --> 00:41:54,600
-Vai me dar seu autógrafo
+Vai me dar seu autÃ³grafo
 agora, ou...?
 
 532
 00:41:56,000 --> 00:41:57,950
-Foi quase engraçado,
+Foi quase engraÃ§ado,
 Petey.
 
 533
 00:41:59,000 --> 00:42:02,000
-- Já bebeu desse café?
-- Não, por quê?
+- JÃ¡ bebeu desse cafÃ©?
+- NÃ£o, por quÃª?
 
 534
 00:42:47,500 --> 00:42:49,000
-Que tal aquele café agora?
+Que tal aquele cafÃ© agora?
 
 535
 00:42:52,800 --> 00:42:54,250
@@ -2478,13 +2478,13 @@ Para onde ele leva?
 
 536
 00:42:56,100 --> 00:43:00,700
-Até o outro lado da cerca.
+AtÃ© o outro lado da cerca.
 Deve ter uns 300 m.
 
 537
 00:43:00,701 --> 00:43:03,675
 Devem ter usado uma escavadeira
-para terminarem tão rápido.
+para terminarem tÃ£o rÃ¡pido.
 
 538
 00:43:03,676 --> 00:43:05,950
@@ -2496,7 +2496,7 @@ E os seus filhos?
 
 540
 00:43:13,300 --> 00:43:14,900
-Estão seguros.
+EstÃ£o seguros.
 
 541
 00:43:16,450 --> 00:43:18,050
@@ -2505,58 +2505,58 @@ Achei que fosse um blefe.
 542
 00:43:18,750 --> 00:43:21,125
 Eles sempre dizem
-que ligaram a bomba ao coração
+que ligaram a bomba ao coraÃ§Ã£o
 
 543
 00:43:21,126 --> 00:43:23,150
 mas nunca
-se dão ao trabalho.
+se dÃ£o ao trabalho.
 
 544
 00:43:24,600 --> 00:43:26,900
-Você nos salvou. Obrigada.
+VocÃª nos salvou. Obrigada.
 
 545
 00:43:27,350 --> 00:43:30,125
 Foi o Crawford quem pulou
-na granada, eu só...
+na granada, eu sÃ³...
 
 546
 00:43:30,126 --> 00:43:32,050
-dei um empurrãozinho.
+dei um empurrÃ£ozinho.
 
 547
 00:43:33,450 --> 00:43:34,850
-Pois é...
+Pois Ã©...
 
 548
 00:43:35,350 --> 00:43:37,550
-Agora é que eu não vou conseguir
-exumá-lo.
+Agora Ã© que eu nÃ£o vou conseguir
+exumÃ¡-lo.
 
 549
 00:43:38,450 --> 00:43:39,950
-Isso não tem graça.
+Isso nÃ£o tem graÃ§a.
 
 550
 00:43:40,650 --> 00:43:42,700
 Desculpe,
-não era uma piada.
+nÃ£o era uma piada.
 
 551
 00:43:43,000 --> 00:43:46,050
-É que vocês marcaram o funeral
-tão rápido, o que é estranho,
+Ã‰ que vocÃªs marcaram o funeral
+tÃ£o rÃ¡pido, o que Ã© estranho,
 
 552
 00:43:46,051 --> 00:43:50,150
-já que o assassinato
-ainda está sendo investigado,
+jÃ¡ que o assassinato
+ainda estÃ¡ sendo investigado,
 
 553
 00:43:50,151 --> 00:43:52,575
-mas nós íamos
-desenterrá-lo amanhã.
+mas nÃ³s Ã­amos
+desenterrÃ¡-lo amanhÃ£.
 
 554
 00:43:52,576 --> 00:43:54,700
@@ -2564,17 +2564,17 @@ Discretamente, claro.
 
 555
 00:43:55,550 --> 00:43:56,950
-Por quê?
+Por quÃª?
 
 556
 00:43:59,750 --> 00:44:02,225
 Seu chefe foi morto
-pela Sétima Kavalaria.
+pela SÃ©tima Kavalaria.
 
 557
 00:44:02,226 --> 00:44:04,150
 Eu entendo,
-têm uma rixa histórica.
+tÃªm uma rixa histÃ³rica.
 
 558
 00:44:04,900 --> 00:44:09,200
@@ -2583,38 +2583,38 @@ outras possibilidades, certo?
 
 559
 00:44:09,750 --> 00:44:12,900
-Por exemplo, fui à cena do crime
+Por exemplo, fui Ã  cena do crime
 e sabe o que vi?
 
 560
 00:44:12,901 --> 00:44:15,000
 Rastros de roda,
-embaixo da árvore.
+embaixo da Ã¡rvore.
 
 561
 00:44:16,800 --> 00:44:19,500
-- De que tipo de veículo?
-- Desculpe, eu disse veículo?
+- De que tipo de veÃ­culo?
+- Desculpe, eu disse veÃ­culo?
 
 562
 00:44:19,501 --> 00:44:22,750
-Não, não, não.
+NÃ£o, nÃ£o, nÃ£o.
 Era de uma cadeira de rodas.
 
 563
 00:44:25,700 --> 00:44:27,425
 Entendo
-que não tenham visto.
+que nÃ£o tenham visto.
 
 564
 00:44:27,426 --> 00:44:30,100
 Ele era seu chefe,
-era amigo de vocês.
+era amigo de vocÃªs.
 
 565
 00:44:30,500 --> 00:44:34,000
-É difícil fazer bem seu trabalho
-quando é alguém tão próximo.
+Ã‰ difÃ­cil fazer bem seu trabalho
+quando Ã© alguÃ©m tÃ£o prÃ³ximo.
 
 566
 00:44:34,001 --> 00:44:35,450
@@ -2627,22 +2627,22 @@ um compartimento secreto
 
 568
 00:44:38,376 --> 00:44:39,950
-no armário dele?
+no armÃ¡rio dele?
 
 569
 00:44:39,951 --> 00:44:42,875
-- O quê?
+- O quÃª?
 - Fui falar com a esposa dele
 
 570
 00:44:42,876 --> 00:44:46,700
-e aí encontrei o compartimento.
-Que loucura, não?
+e aÃ­ encontrei o compartimento.
+Que loucura, nÃ£o?
 
 571
 00:44:46,701 --> 00:44:48,575
 Por que estava olhando
-no armário?
+no armÃ¡rio?
 
 572
 00:44:48,576 --> 00:44:50,950
@@ -2652,11 +2652,11 @@ foi morto,
 573
 00:44:51,400 --> 00:44:54,650
 encontraram um compartimento
-secreto no armário dele.
+secreto no armÃ¡rio dele.
 
 574
 00:44:54,651 --> 00:44:56,051
-Então, sabe...
+EntÃ£o, sabe...
 
 575
 00:44:56,850 --> 00:44:58,300
@@ -2665,16 +2665,16 @@ Eu sempre confiro.
 576
 00:44:58,900 --> 00:45:00,800
 De vez em quando,
-dá em alguma coisa.
+dÃ¡ em alguma coisa.
 
 577
 00:45:04,800 --> 00:45:06,200
-O que tinha lá dentro?
+O que tinha lÃ¡ dentro?
 
 578
 00:45:08,800 --> 00:45:11,350
-Diga-me você.
-O que tinha lá?
+Diga-me vocÃª.
+O que tinha lÃ¡?
 
 579
 00:45:12,600 --> 00:45:14,350
@@ -2682,8 +2682,8 @@ Como vou saber, porra?
 
 580
 00:45:16,200 --> 00:45:19,400
-A mulher dele disse que você
-foi a única a entrar lá
+A mulher dele disse que vocÃª
+foi a Ãºnica a entrar lÃ¡
 
 581
 00:45:19,401 --> 00:45:20,801
@@ -2695,12 +2695,12 @@ E sinceramente, Angela,
 
 583
 00:45:25,600 --> 00:45:28,450
-você não me parece ser
+vocÃª nÃ£o me parece ser
 do tipo que desmaia.
 
 584
 00:45:33,150 --> 00:45:35,800
-Está bem.
+EstÃ¡ bem.
 Eu vou dizer o que fez.
 
 585
@@ -2710,17 +2710,17 @@ Um grande tiro no escuro.
 
 586
 00:45:39,401 --> 00:45:44,050
-Só isso. No entanto,
+SÃ³ isso. No entanto,
 acho que encontrou alguma coisa.
 
 587
 00:45:44,051 --> 00:45:46,450
-Sei lá, seu amigo Judd
+Sei lÃ¡, seu amigo Judd
 pode ter pedido
 
 588
 00:45:46,451 --> 00:45:48,875
-para tirar algo de lá
+para tirar algo de lÃ¡
 caso ele morresse, ou...
 
 589
@@ -2731,90 +2731,90 @@ tendo um caso,
 590
 00:45:51,126 --> 00:45:54,150
 o que nem faria sentido,
-porque seu marido é muito gato.
+porque seu marido Ã© muito gato.
 
 591
 00:45:54,750 --> 00:45:58,150
-Seja lá o que for,
-só sei de uma coisa:
+Seja lÃ¡ o que for,
+sÃ³ sei de uma coisa:
 
 592
 00:46:00,000 --> 00:46:02,150
 Homens que acabam
-enforcados em árvores
+enforcados em Ã¡rvores
 
 593
 00:46:02,151 --> 00:46:04,475
 com compartimentos
-secretos no armário
+secretos no armÃ¡rio
 
 594
 00:46:04,476 --> 00:46:07,100
 costumam achar
-que são os mocinhos.
+que sÃ£o os mocinhos.
 
 595
 00:46:08,300 --> 00:46:12,750
 E aqueles que os protegem
-se acham os mocinhos também.
+se acham os mocinhos tambÃ©m.
 
 596
 00:46:13,900 --> 00:46:16,800
-O que você precisa saber
+O que vocÃª precisa saber
 sobre mim, Sister Night,
 
 597
 00:46:19,100 --> 00:46:21,600
-é que eu devoro
+Ã© que eu devoro
 os mocinhos.
 
 598
 00:46:57,550 --> 00:47:00,025
-<i>Então foi um dia bem longo
-no Portão do Céu.</i>
+<i>EntÃ£o foi um dia bem longo
+no PortÃ£o do CÃ©u.</i>
 
 599
 00:47:00,026 --> 00:47:01,950
-<i>Todos os heróis
+<i>Todos os herÃ³is
 tinham ido pro inferno.</i>
 
 600
 00:47:02,500 --> 00:47:05,600
 <i>Com Seu trabalho feito,
-Deus já ia para casa.</i>
+Deus jÃ¡ ia para casa.</i>
 
 601
 00:47:06,300 --> 00:47:08,400
-<i>Mas Ele vê
-alguém esperando.</i>
+<i>Mas Ele vÃª
+alguÃ©m esperando.</i>
 
 602
 00:47:10,000 --> 00:47:12,500
-<i>E não é um herói,
-é só uma mulher.</i>
+<i>E nÃ£o Ã© um herÃ³i,
+Ã© sÃ³ uma mulher.</i>
 
 603
 00:47:13,400 --> 00:47:15,850
-<i>"De onde você veio?",
+<i>"De onde vocÃª veio?",
 perguntou Deus.</i>
 
 604
 00:47:16,250 --> 00:47:19,650
-<i>"Eu estava bem atrás
+<i>"Eu estava bem atrÃ¡s
 daqueles outros caras,</i>
 
 605
 00:47:20,650 --> 00:47:22,400
-<i>só que você não me viu."</i>
+<i>sÃ³ que vocÃª nÃ£o me viu."</i>
 
 606
 00:47:25,700 --> 00:47:28,500
-<i>"Eu dei um dom para você?",
+<i>"Eu dei um dom para vocÃª?",
 Deus pergunta.</i>
 
 607
 00:47:29,700 --> 00:47:31,100
-<i>"Não."</i>
+<i>"NÃ£o."</i>
 
 608
 00:47:31,850 --> 00:47:34,400
@@ -2832,7 +2832,7 @@ por um bom tempo.</i>
 
 611
 00:47:46,450 --> 00:47:49,500
-<i>Estou até com vergonha,
+<i>Estou atÃ© com vergonha,
 de verdade.</i>
 
 612
@@ -2842,11 +2842,11 @@ mas...</i>
 
 613
 00:47:54,100 --> 00:47:56,150
-<i>eu não sei quem é você".</i>
+<i>eu nÃ£o sei quem Ã© vocÃª".</i>
 
 614
 00:47:57,450 --> 00:48:02,250
-<i>Então a mulher olha para Deus
+<i>EntÃ£o a mulher olha para Deus
 e diz bem baixinho:</i>
 
 615
@@ -2857,16 +2857,16 @@ que jogou o tijolo pra cima."
 616
 00:48:14,200 --> 00:48:17,750
 Ele ouve um som vindo de cima.
-Algo está caindo.
+Algo estÃ¡ caindo.
 
 617
 00:48:18,100 --> 00:48:19,700
-É o tijolo.
+Ã‰ o tijolo.
 
 618
 00:48:20,100 --> 00:48:22,850
 Deus olha para cima,
-mas é tarde demais.
+mas Ã© tarde demais.
 
 619
 00:48:22,851 --> 00:48:24,500
@@ -2874,13 +2874,13 @@ Ele nem imaginava.
 
 620
 00:48:24,850 --> 00:48:28,500
-O tijolo O acerta tão forte
-que Seu cérebro sai pelo nariz.
+O tijolo O acerta tÃ£o forte
+que Seu cÃ©rebro sai pelo nariz.
 
 621
 00:48:29,600 --> 00:48:32,800
 Fim de jogo.
-Ele está morto.
+Ele estÃ¡ morto.
 
 622
 00:48:34,800 --> 00:48:37,550
@@ -2906,25 +2906,25 @@ Boa piada.
 627
 00:48:51,350 --> 00:48:53,725
 <i>Desculpe,
-seu tempo está acabando.</i>
+seu tempo estÃ¡ acabando.</i>
 
 628
 00:48:53,726 --> 00:48:57,550
-<i>Você tem 55 segundos
-para terminar sua transmissão.</i>
+<i>VocÃª tem 55 segundos
+para terminar sua transmissÃ£o.</i>
 
 629
 00:49:01,900 --> 00:49:04,725
-Não sei por que insisto
+NÃ£o sei por que insisto
 em vir a essas cabines
 
 630
 00:49:04,726 --> 00:49:06,500
-contar piadas para você.
+contar piadas para vocÃª.
 
 631
 00:49:08,950 --> 00:49:11,250
-Você nunca teve
+VocÃª nunca teve
 senso de humor.
 
 632
@@ -2934,45 +2934,45 @@ provavelmente.
 
 633
 00:49:18,900 --> 00:49:21,600
-Mas às vezes, sabe,
-é legal...
+Mas Ã s vezes, sabe,
+Ã© legal...
 
 634
 00:49:25,050 --> 00:49:27,150
-Às vezes é legal
+Ã€s vezes Ã© legal
 fingir que vai ouvir.
 
 635
 00:49:29,400 --> 00:49:32,500
-Os otários aqui embaixo
+Os otÃ¡rios aqui embaixo
 ainda acham que se importa,
 
 636
 00:49:34,450 --> 00:49:37,100
-apesar de você morar
+apesar de vocÃª morar
 na porra de outro planeta
 
 637
 00:49:37,101 --> 00:49:39,250
-há 30 anos.
+hÃ¡ 30 anos.
 
 638
 00:49:49,450 --> 00:49:52,275
-Mas nós não merecemos
-que você se importe, não é?
+Mas nÃ³s nÃ£o merecemos
+que vocÃª se importe, nÃ£o Ã©?
 
 639
 00:49:52,276 --> 00:49:53,750
-<i>Gravação encerrada.</i>
+<i>GravaÃ§Ã£o encerrada.</i>
 
 640
 00:49:53,751 --> 00:49:56,600
-<i>Obrigada por ser Usuário Platina
+<i>Obrigada por ser UsuÃ¡rio Platina
 da rede Cabine Azul.</i>
 
 641
 00:49:56,601 --> 00:50:00,525
-<i>Sua mensagem chegará em Marte
+<i>Sua mensagem chegarÃ¡ em Marte
 em cerca de 40 segundos.</i>
 
 642
@@ -2986,4 +2986,4 @@ Boa noite, Jon.
 
 644
 00:50:53,600 --> 00:50:55,100
-Mas o quê...?
+Mas o quÃª...?
