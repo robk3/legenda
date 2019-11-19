@@ -1,0 +1,3657 @@
+1
+00:00:01,468 --> 00:00:03,872
+Estive sem assistente,
+e preciso de alguém
+
+2
+00:00:03,874 --> 00:00:08,177
+mantendo as coisas funcionando
+no hospital mais duro do país.
+
+3
+00:00:08,179 --> 00:00:10,736
+Eu me especializei
+em logística em organizações
+
+4
+00:00:10,738 --> 00:00:13,412
+sem fins lucrativos
+com mais de 100 mil clientes.
+
+5
+00:00:13,930 --> 00:00:15,876
+Supervisionava
+orçamento operacional
+
+6
+00:00:15,878 --> 00:00:19,246
+nos melhores hospitais públicos
+de Boston e da Filadélfia.
+
+7
+00:00:19,248 --> 00:00:22,627
+Boston e Filadélfia...
+Você precisa ser proficiente
+
+8
+00:00:22,629 --> 00:00:25,740
+em um sistema chato,
+porém bem complicado,
+
+9
+00:00:25,742 --> 00:00:27,753
+que, francamente,
+eu não sei usar.
+
+10
+00:00:27,755 --> 00:00:31,274
+Tenho 4 anos de experiência
+em código EHR de última geração.
+
+11
+00:00:31,276 --> 00:00:34,672
+Tive autorizações para instalar
+registros eletrônicos
+
+12
+00:00:34,674 --> 00:00:37,836
+- em hospitais rurais.
+- É um gráfico em pizza?
+
+13
+00:00:38,054 --> 00:00:40,066
+É bem detalhado.
+
+14
+00:00:40,548 --> 00:00:42,210
+Eu não tenho computador.
+
+15
+00:00:44,306 --> 00:00:46,141
+Você não...
+
+16
+00:00:46,835 --> 00:00:49,690
+Alguma experiência
+no setor médico, ou...
+
+17
+00:00:49,973 --> 00:00:53,587
+- Não, senhor.
+- Não? É...
+
+18
+00:00:53,589 --> 00:00:56,622
+- Todd Benson.
+- Todd Benson, sim...
+
+19
+00:00:56,624 --> 00:00:59,068
+Perguntinha, amigão.
+Não quero soar rude,
+
+20
+00:00:59,070 --> 00:01:00,673
+mas está
+na entrevista certa?
+
+21
+00:01:00,675 --> 00:01:02,221
+Sim, senhor...
+
+22
+00:01:02,223 --> 00:01:05,104
+Tive pequenos problemas
+saindo do último emprego.
+
+23
+00:01:05,106 --> 00:01:07,132
+Qual foi, exatamente?
+
+24
+00:01:07,134 --> 00:01:09,913
+Em determinado dia,
+organizava fluxo de informações
+
+25
+00:01:09,915 --> 00:01:12,372
+entre britânicos,
+franceses, afegãos
+
+26
+00:01:12,374 --> 00:01:14,664
+e 90 helicópteros Chinook.
+
+27
+00:01:15,525 --> 00:01:18,684
+- Você é um veterano.
+- Sim, senhor. Exército, 4 idas.
+
+28
+00:01:18,686 --> 00:01:21,424
+- Isso está no seu currículo?
+- Não, senhor.
+
+29
+00:01:21,426 --> 00:01:24,409
+Eu descobri que isso
+assusta algumas pessoas.
+
+30
+00:01:24,528 --> 00:01:25,928
+Certo...
+
+31
+00:01:25,931 --> 00:01:29,962
+Bem, Todd...
+Sinto muito em dizer isso,
+
+32
+00:01:29,964 --> 00:01:32,863
+mas não sei se você
+é a escolha mais apropriada.
+
+33
+00:01:32,865 --> 00:01:36,067
+Por mais que eu esteja
+em dívida com seus serviços.
+
+34
+00:01:37,191 --> 00:01:40,124
+Preciso desse trabalho,
+dr. Goodwin.
+
+35
+00:01:40,446 --> 00:01:42,717
+Meu seguro
+não cobre o buraco do dente,
+
+36
+00:01:42,719 --> 00:01:45,321
+e mais do que isso, eu...
+
+37
+00:01:45,323 --> 00:01:47,435
+Preciso ser útil
+em um lugar novamente.
+
+38
+00:01:49,398 --> 00:01:50,798
+Bem, que tal isso...
+
+39
+00:01:50,800 --> 00:01:54,730
+Vou pedir para o RH te manter
+no banco para algo que...
+
+40
+00:01:54,732 --> 00:01:56,344
+se adeque
+às suas habilidades.
+
+41
+00:01:56,346 --> 00:01:58,952
+Eu passei 6 anos
+no Oriente Médio,
+
+42
+00:01:58,954 --> 00:02:03,214
+coordenando 4 línguas,
+US$ 3 bilhões em armamento,
+
+43
+00:02:03,216 --> 00:02:05,605
+e as vidas dos meus amigos.
+
+44
+00:02:05,890 --> 00:02:07,918
+Posso não conhecer
+computadores,
+
+45
+00:02:08,032 --> 00:02:11,713
+mas se há algo que meu leque
+de habilidades tem,
+
+46
+00:02:11,715 --> 00:02:14,322
+é saber como fazer os trens
+andarem na hora.
+
+47
+00:02:15,214 --> 00:02:17,585
+Tudo o que peço é
+que me dê uma chance.
+
+48
+00:02:19,000 --> 00:02:22,000
+<b>| ManiacS |
+Haters Gonna Hate!</b>
+
+49
+00:02:25,843 --> 00:02:27,261
+Bem-vindo ao...
+
+50
+00:02:27,300 --> 00:02:30,628
+<b>New Amsterdam - 2.03
+Replacement</b>
+
+51
+00:02:30,867 --> 00:02:34,037
+Sinto muito, mas para o teste
+toxicológico ser válido
+
+52
+00:02:34,089 --> 00:02:36,534
+eu preciso... assistir.
+
+53
+00:02:36,536 --> 00:02:38,871
+Já urinei na sua frente
+um milhão de vezes.
+
+54
+00:02:38,873 --> 00:02:41,213
+Você só não era
+a Diretora-adjunta na época
+
+55
+00:02:41,215 --> 00:02:44,272
+e meu emprego não dependia
+dos resultados, e quer saber?
+
+56
+00:02:44,274 --> 00:02:46,946
+Queria não estar usando
+uma calcinha tão picante.
+
+57
+00:02:48,066 --> 00:02:51,573
+Que tal mudarmos de assunto?
+Estou pensando em adotar...
+
+58
+00:02:51,575 --> 00:02:53,999
+Estou transando
+com meu fisioterapeuta.
+
+59
+00:02:54,595 --> 00:02:57,441
+O quê? Não!
+Zach Ligon?
+
+60
+00:02:57,443 --> 00:02:59,249
+Eu sei, eu sei.
+Ele é péssimo.
+
+61
+00:02:59,251 --> 00:03:01,869
+Ele é presunçoso,
+superficial, e...
+
+62
+00:03:01,871 --> 00:03:03,641
+Precisava de distração,
+certo?
+
+63
+00:03:03,643 --> 00:03:05,755
+- Ele é seu médico!
+- Ele é meu colega,
+
+64
+00:03:05,757 --> 00:03:08,568
+que tragicamente virou
+meu médico, mas quer saber?
+
+65
+00:03:08,570 --> 00:03:11,185
+Eu já superei
+e nunca mais vai acontecer.
+
+66
+00:03:11,775 --> 00:03:13,800
+Eu não deveria julgar.
+
+67
+00:03:13,994 --> 00:03:16,829
+Isso é o máximo de intimidade
+que cheguei com alguém
+
+68
+00:03:16,831 --> 00:03:18,387
+desde que terminei
+com Akash.
+
+69
+00:03:18,575 --> 00:03:21,294
+Então fico feliz por usar
+uma calcinha picante.
+
+70
+00:03:23,381 --> 00:03:25,875
+Não sei...
+
+71
+00:03:25,907 --> 00:03:28,866
+Antes do acidente,
+achei que tinha tudo resolvido.
+
+72
+00:03:29,808 --> 00:03:32,004
+Não só com ele,
+mas como médica.
+
+73
+00:03:32,006 --> 00:03:33,529
+Não faça isso.
+
+74
+00:03:33,531 --> 00:03:36,032
+Não deu certo com o cara
+que estava namorando.
+
+75
+00:03:36,034 --> 00:03:38,629
+Bem-vinda ao clube.
+Está arrasando como médica.
+
+76
+00:03:38,631 --> 00:03:41,269
+Veja o quanto arrecadou
+para a terapia-alvo.
+
+77
+00:03:41,271 --> 00:03:43,828
+Drª Helen arrecadou o dinheiro,
+não drª Sharpe.
+
+78
+00:03:43,830 --> 00:03:48,288
+Deus, não vá correndo
+descredibilizar sua fama.
+
+79
+00:03:48,484 --> 00:03:52,151
+Porque a vida
+é igual a um teste toxicológico.
+
+80
+00:03:52,502 --> 00:03:55,851
+Conta mais...
+quando as pessoas assistem.
+
+81
+00:03:58,832 --> 00:04:01,222
+Está parecendo alguém
+sem dívidas escolares.
+
+82
+00:04:01,224 --> 00:04:03,489
+Evie volta
+de São Francisco amanhã.
+
+83
+00:04:03,491 --> 00:04:06,021
+Já se passaram 6 semanas?
+Essa foi rápida.
+
+84
+00:04:06,023 --> 00:04:09,076
+Para você, estou planejando
+um casamento sozinho.
+
+85
+00:04:09,491 --> 00:04:11,463
+Não aguento
+pessoas apaixonadas.
+
+86
+00:04:14,134 --> 00:04:17,462
+Renée. Renée, Renée...
+
+87
+00:04:17,731 --> 00:04:19,579
+Não fale, dr. Reynolds.
+
+88
+00:04:19,581 --> 00:04:23,341
+Passaram-se duas semanas
+desde a cirurgia do by-pass?
+
+89
+00:04:23,343 --> 00:04:26,418
+Parece que reabriu a veia
+no local da extração.
+
+90
+00:04:26,568 --> 00:04:29,732
+- Eu caí.
+- Foi uma queda e tanto, Renée.
+
+91
+00:04:29,883 --> 00:04:33,953
+A queda não foi tão grave,
+mas eu não consegui me levantar.
+
+92
+00:04:34,394 --> 00:04:37,535
+- Passou quanto tempo caída?
+- 14 horas.
+
+93
+00:04:38,805 --> 00:04:42,257
+- Renée...
+- Eu sei, eu sei.
+
+94
+00:04:42,541 --> 00:04:46,562
+Desde que o Patrick faleceu,
+eu estou sozinha.
+
+95
+00:04:46,940 --> 00:04:50,155
+- Quem te encontrou?
+- O rapaz das entregas.
+
+96
+00:04:50,157 --> 00:04:52,592
+Ele bateu
+na minha porta por engano.
+
+97
+00:04:52,594 --> 00:04:54,665
+Estava procurando
+um vizinho.
+
+98
+00:04:54,742 --> 00:04:57,215
+Foi tão humilhante...
+
+99
+00:04:57,588 --> 00:05:00,197
+Não, vamos...
+
+100
+00:05:01,095 --> 00:05:02,522
+Eu estou aqui.
+
+101
+00:05:02,973 --> 00:05:06,199
+Eu vou cuidar de você,
+certo?
+
+102
+00:05:06,377 --> 00:05:08,129
+Vince Martinelli, 47.
+
+103
+00:05:08,131 --> 00:05:11,017
+Pressão 80 por 40,
+taquicardia, 130 bpm.
+
+104
+00:05:11,019 --> 00:05:13,036
+Diaforético
+e sinais de desidratação.
+
+105
+00:05:13,038 --> 00:05:14,896
+Encontrei caído
+em uma construção.
+
+106
+00:05:14,898 --> 00:05:18,129
+Obrigada, assumimos daqui.
+Sr. Martinelli? Sou a drª Bloom.
+
+107
+00:05:18,131 --> 00:05:19,687
+- Vou morrer?
+- Não deixarei.
+
+108
+00:05:19,689 --> 00:05:22,426
+Um litro de PlasmaLyte.
+Faremos outro ECG
+
+109
+00:05:22,428 --> 00:05:24,092
+para saber
+o que há de errado.
+
+110
+00:05:24,094 --> 00:05:27,131
+- Isso já aconteceu antes?
+- Não, nunca.
+
+111
+00:05:27,133 --> 00:05:30,513
+Passei a semana achando que ia
+gripar e então isso acontece.
+
+112
+00:05:30,515 --> 00:05:32,516
+A boa notícia:
+Não é ataque cardíaco.
+
+113
+00:05:32,518 --> 00:05:35,019
+- Posso voltar ao trabalho?
+- Vamos com calma.
+
+114
+00:05:35,021 --> 00:05:38,453
+- Tempo é dinheiro, doutora.
+- Eu sei, mas há algo de errado.
+
+115
+00:05:38,485 --> 00:05:42,009
+- Notou algo mais recentemente?
+- Notei, bem...
+
+116
+00:05:45,704 --> 00:05:47,273
+Meu xixi...
+
+117
+00:05:47,402 --> 00:05:49,470
+Vi sangue nele também.
+
+118
+00:05:49,984 --> 00:05:51,428
+Isso é ruim, não é?
+
+119
+00:05:59,700 --> 00:06:01,850
+Todd,
+sei que seu serviço militar
+
+120
+00:06:01,852 --> 00:06:04,631
+provocou em você um profundo
+respeito pela patente,
+
+121
+00:06:04,633 --> 00:06:06,850
+mas se vai substituir
+minha assistente,
+
+122
+00:06:06,852 --> 00:06:08,750
+preciso que seja
+menos respeitoso.
+
+123
+00:06:08,785 --> 00:06:11,975
+- Sim, senhor.
+- Não! Não há senhor aqui.
+
+124
+00:06:11,977 --> 00:06:14,075
+Se solte,
+fale o que pensa, sabe?
+
+125
+00:06:14,110 --> 00:06:15,510
+Fala, Max, espera aí.
+
+126
+00:06:15,545 --> 00:06:18,125
+O dr. Reynolds é
+um exemplo perfeito
+
+127
+00:06:18,127 --> 00:06:21,300
+- do clima informal e relaxado.
+- Permissão para falar?
+
+128
+00:06:21,302 --> 00:06:22,775
+- Concedido.
+- Todd...
+
+129
+00:06:22,777 --> 00:06:25,550
+Uma paciente pós-operatório
+voltou após cair.
+
+130
+00:06:25,552 --> 00:06:27,775
+Tenho de costurar
+o enxerto dela de novo.
+
+131
+00:06:27,777 --> 00:06:29,500
+- O seguro cobrirá.
+- Deveriam.
+
+132
+00:06:29,502 --> 00:06:31,280
+Mas não cobrem
+os exames em casa
+
+133
+00:06:31,287 --> 00:06:33,625
+que ela precisa
+para não voltar mais.
+
+134
+00:06:33,627 --> 00:06:36,350
+- Enfermeira domiciliar?
+- Não, Max, só exames.
+
+135
+00:06:36,352 --> 00:06:38,300
+Não é a primeira vez
+que acontece.
+
+136
+00:06:38,302 --> 00:06:40,325
+Se fizermos algo,
+será a última.
+
+137
+00:06:40,327 --> 00:06:43,000
+Vou cuidar disso.
+Levarei ao conselho esta manhã.
+
+138
+00:06:43,002 --> 00:06:45,100
+- Sim, senhor.
+- Não comece com isso.
+
+139
+00:06:45,102 --> 00:06:47,200
+- Sim, senhor.
+- Não estou brincando!
+
+140
+00:06:53,650 --> 00:06:55,325
+Será que erramos o dia?
+
+141
+00:06:55,327 --> 00:06:58,200
+Ou... hora ou lugar?
+
+142
+00:06:58,202 --> 00:07:00,870
+- É a sala certa?
+- Está cinco minutos adiantado.
+
+143
+00:07:01,600 --> 00:07:04,425
+- Como fez isso?
+- Pontualidade mostra rigor.
+
+144
+00:07:04,427 --> 00:07:06,050
+Se uma pessoa
+não é pontual,
+
+145
+00:07:06,052 --> 00:07:08,050
+como confiará nele
+para mais algo?
+
+146
+00:07:09,450 --> 00:07:13,050
+Acho que acabamos de...
+meio que boiar, Todd.
+
+147
+00:07:13,052 --> 00:07:15,650
+<i>Exames de Vince Martinelli,
+acabaram de sair.</i>
+
+148
+00:07:17,200 --> 00:07:20,550
+Normal, normal, normal,
+dentro dos parâmetros...
+
+149
+00:07:20,552 --> 00:07:24,400
+Espera. Seu valor sérico
+de cobalto é de 60 mg por litro?
+
+150
+00:07:24,402 --> 00:07:26,225
+Intoxicação por cobalto.
+Como?
+
+151
+00:07:26,227 --> 00:07:29,500
+Certo, chame a Sharpe
+e ligue para a Saúde Pública.
+
+152
+00:07:29,502 --> 00:07:31,950
+Talvez tenhamos
+que parar as obras.
+
+153
+00:07:34,238 --> 00:07:36,775
+Resolvemos renovar a parceria
+com Le Bernardin
+
+154
+00:07:36,777 --> 00:07:39,475
+para a festa do ano que vem.
+Alguém apoia?
+
+155
+00:07:39,510 --> 00:07:41,600
+A moção prossegue.
+Todos a favor?
+
+156
+00:07:42,200 --> 00:07:44,750
+Então <i>très bien</i>
+para Le Bernardin.
+
+157
+00:07:45,350 --> 00:07:48,450
+Próximo item,
+o tema da festa.
+
+158
+00:07:48,485 --> 00:07:49,975
+Andei pensando...
+
+159
+00:07:50,010 --> 00:07:51,725
+em um baile de máscaras.
+
+160
+00:07:51,760 --> 00:07:53,850
+Ponto de ordem...
+
+161
+00:07:53,885 --> 00:07:56,150
+Perdão, disse certo?
+É ponto de ordem?
+
+162
+00:07:56,152 --> 00:07:58,475
+É uma coisa
+que você pode dizer.
+
+163
+00:07:58,477 --> 00:08:01,325
+Ótimo, ponto de ordem.
+Isso é uma perda de tempo.
+
+164
+00:08:01,327 --> 00:08:04,625
+Baile mascarado ou sem máscaras.
+Não interessa.
+
+165
+00:08:04,627 --> 00:08:06,300
+Quero falar
+sobre René Hamrick.
+
+166
+00:08:06,302 --> 00:08:08,150
+Max, temos uma agenda...
+
+167
+00:08:08,152 --> 00:08:10,550
+René Hamrick fez
+uma cirurgia cardíaca aqui
+
+168
+00:08:10,552 --> 00:08:12,175
+há três semanas
+e sobreviveu.
+
+169
+00:08:12,177 --> 00:08:14,150
+Mas como não temos
+pós-operatórios,
+
+170
+00:08:14,152 --> 00:08:16,875
+ela voltou
+ao nosso hospital hoje
+
+171
+00:08:16,877 --> 00:08:19,625
+para fazer tudo de novo.
+
+172
+00:08:19,660 --> 00:08:21,125
+Então, gostaria de propor
+
+173
+00:08:21,127 --> 00:08:24,125
+a Agência de Enfermagem
+Domiciliar de New Amsterdam.
+
+174
+00:08:24,127 --> 00:08:26,475
+Enviaremos enfermeiras
+à casa dos pacientes
+
+175
+00:08:26,477 --> 00:08:29,275
+para realizar exames
+e na festa deste ano,
+
+176
+00:08:29,277 --> 00:08:30,677
+poderemos fazer
+um brinde,
+
+177
+00:08:30,679 --> 00:08:34,675
+sabendo que o que aconteceu
+com ela, nunca mais acontecerá.
+
+178
+00:08:34,710 --> 00:08:36,200
+Todos a favor?
+
+179
+00:08:36,500 --> 00:08:38,400
+Alguém precisa apoiar.
+
+180
+00:08:38,850 --> 00:08:40,450
+Alguém para apoiar?
+
+181
+00:08:40,800 --> 00:08:42,500
+Alguém para apoiar?
+
+182
+00:08:42,950 --> 00:08:44,625
+Nada de apoio.
+
+183
+00:08:44,660 --> 00:08:47,875
+A proposta do dr. Goodwin,
+caracteristicamente animadora,
+
+184
+00:08:47,877 --> 00:08:50,350
+mas com preços exorbitantes,
+foi rejeitada.
+
+185
+00:08:50,352 --> 00:08:53,325
+Próximo tópico: Selecionar
+o novo membro do conselho.
+
+186
+00:08:53,327 --> 00:08:55,200
+- É isso?
+- As pastas à frente
+
+187
+00:08:55,202 --> 00:08:57,125
+tem uma bio
+de Lamont Hallstrom.
+
+188
+00:08:57,127 --> 00:08:59,575
+Um dos melhores
+do fundo de cobertura da AQP
+
+189
+00:08:59,577 --> 00:09:01,075
+e está ansioso
+para servir.
+
+190
+00:09:01,077 --> 00:09:03,525
+Votaremos amanhã de manhã,
+às 10h30 em ponto.
+
+191
+00:09:03,527 --> 00:09:05,083
+Mas é o único candidato...
+
+192
+00:09:05,085 --> 00:09:08,975
+Ele não é o único candidato,
+e me corrija se estiver errado,
+
+193
+00:09:08,977 --> 00:09:11,700
+nosso estatuto diz que,
+podemos nomear candidatos,
+
+194
+00:09:11,702 --> 00:09:13,600
+então como posso nomear...
+
+195
+00:09:14,100 --> 00:09:16,550
+Tenho o candidato perfeito
+em mente.
+
+196
+00:09:18,300 --> 00:09:20,825
+<i>Então,</i>
+quem é seu candidato perfeito?
+
+197
+00:09:20,827 --> 00:09:23,675
+Não sei, Todd, mas tenho
+24 horas para descobrir.
+
+198
+00:09:23,677 --> 00:09:25,850
+Então mentiu
+para seu superior?
+
+199
+00:09:28,800 --> 00:09:32,050
+O Conselho é o que você ganha
+quando o poder está com ricos
+
+200
+00:09:32,052 --> 00:09:33,452
+com amigos ricos também
+
+201
+00:09:33,454 --> 00:09:35,399
+que não ligam
+para pessoas como nós.
+
+202
+00:09:35,401 --> 00:09:38,150
+- Mas você é rico.
+- Eu? Não, nem de longe.
+
+203
+00:09:38,152 --> 00:09:40,625
+Não tem dívidas
+e ganha seis dígitos por ano?
+
+204
+00:09:40,627 --> 00:09:42,200
+- Bem...
+- Então você é rico.
+
+205
+00:09:42,202 --> 00:09:44,275
+Sim, mas não, tipo,
+bilionário.
+
+206
+00:09:44,277 --> 00:09:46,675
+A maioria dos seus amigos são
+médicos?
+
+207
+00:09:46,677 --> 00:09:48,900
+- Mais ou menos.
+- Seus amigos são ricos.
+
+208
+00:09:48,902 --> 00:09:51,950
+- Onde quer chegar, Todd?
+- Você parece com o Conselho.
+
+209
+00:09:51,952 --> 00:09:55,000
+Parecido com aqueles caras? Não.
+Eles são do Conselho.
+
+210
+00:09:55,002 --> 00:09:56,850
+- Eram da Harvard.
+- De onde era?
+
+211
+00:09:56,852 --> 00:09:59,350
+Brown, mas era da Ivy.
+É bem diferente.
+
+212
+00:09:59,352 --> 00:10:01,800
+- Certo.
+- Sabe, Todd? Está dispensado.
+
+213
+00:10:06,050 --> 00:10:07,700
+Rohan Beta!
+
+214
+00:10:08,300 --> 00:10:11,300
+Há jogo hoje à noite?
+Esqueci de pôr no calendário?
+
+215
+00:10:11,302 --> 00:10:13,250
+Não, não tínhamos planos.
+
+216
+00:10:14,100 --> 00:10:16,075
+- Tenho umas novidades.
+- Novidades?
+
+217
+00:10:16,077 --> 00:10:17,477
+Venha, sente-se.
+
+218
+00:10:17,479 --> 00:10:19,600
+Quais são
+as suas novidades?
+
+219
+00:10:20,850 --> 00:10:23,500
+Minha banda...
+
+220
+00:10:23,502 --> 00:10:25,275
+Uma coisa legal está
+rolando.
+
+221
+00:10:25,277 --> 00:10:29,000
+- Que coisa legal?
+- Uma turnê, uma grande turnê.
+
+222
+00:10:29,035 --> 00:10:32,200
+Enorme, na verdade.
+Ficaremos na estrada por meses.
+
+223
+00:10:32,202 --> 00:10:34,300
+- Sei que não aprova...
+- Não.
+
+224
+00:10:34,302 --> 00:10:36,100
+Está seguindo seus sonhos.
+
+225
+00:10:36,750 --> 00:10:38,950
+Estou muito orgulhoso
+de você, Beta.
+
+226
+00:10:39,400 --> 00:10:40,800
+Gostaria de ajudar.
+
+227
+00:10:40,802 --> 00:10:43,225
+Quer uma grana
+enquanto estiver na estrada?
+
+228
+00:10:43,227 --> 00:10:45,200
+Não é assim que chama?
+Na estrada?
+
+229
+00:10:45,202 --> 00:10:48,600
+É. Mas não,
+preciso fazer isso sozinho.
+
+230
+00:10:49,150 --> 00:10:51,300
+Há uma coisa
+que poderia fazer por mim.
+
+231
+00:10:51,900 --> 00:10:53,550
+Tudo o que precisar.
+
+232
+00:10:53,950 --> 00:10:55,800
+Cuide da Ella para mim.
+
+233
+00:10:56,600 --> 00:10:58,650
+Não quero que ela
+se sinta sozinha.
+
+234
+00:10:59,050 --> 00:11:00,550
+Claro que sim.
+
+235
+00:11:11,700 --> 00:11:14,650
+Vocês são tão irritantes,
+de verdade!
+
+236
+00:11:14,652 --> 00:11:16,700
+<i>Vamos recomeçar.
+Ele não disse nada.</i>
+
+237
+00:11:16,702 --> 00:11:19,450
+<i>- Não importa!
+- Importa, é o objetivo do jogo.</i>
+
+238
+00:11:19,900 --> 00:11:21,550
+<i>Diga alguma coisa!</i>
+
+239
+00:11:22,700 --> 00:11:24,825
+- Certo.
+- É sempre ela...
+
+240
+00:11:24,827 --> 00:11:27,650
+- Se só ela tivesse problemas.
+- Certo, Shoshanna.
+
+241
+00:11:27,652 --> 00:11:29,650
+É bom ter emoções aqui.
+
+242
+00:11:29,652 --> 00:11:32,325
+Obviamente, esse é o ponto,
+mas tentem lembrar:
+
+243
+00:11:32,327 --> 00:11:34,600
+Intenção contra impacto,
+tudo bem?
+
+244
+00:11:34,602 --> 00:11:36,950
+Emily, o que foi?
+
+245
+00:11:36,952 --> 00:11:39,900
+- O que está rolando com você?
+- Sinto-me sozinha.
+
+246
+00:11:40,200 --> 00:11:43,350
+Por que acha isso?
+Vamos, volte ao círculo ali.
+
+247
+00:11:43,352 --> 00:11:45,750
+Ninguém se importa
+com o que penso.
+
+248
+00:11:46,500 --> 00:11:49,200
+- Não importo para ninguém.
+- É verdade.
+
+249
+00:11:49,202 --> 00:11:50,925
+Shoshanna, por favor.
+
+250
+00:11:50,927 --> 00:11:53,175
+Não há problema
+em se sentir sozinho.
+
+251
+00:11:53,177 --> 00:11:56,025
+Sentimo-nos assim às vezes.
+Até quando não estamos.
+
+252
+00:11:56,027 --> 00:11:58,025
+E você, Daniel?
+Como se sente?
+
+253
+00:11:58,071 --> 00:12:00,865
+Acho que também
+me sinto só, às vezes.
+
+254
+00:12:00,944 --> 00:12:02,360
+E eu...
+
+255
+00:12:02,363 --> 00:12:03,821
+Eu só...
+
+256
+00:12:04,723 --> 00:12:07,115
+Espera. Emily?
+Você está bem?
+
+257
+00:12:07,525 --> 00:12:11,688
+Alguma...
+há algo cheirando mal aqui.
+
+258
+00:12:12,424 --> 00:12:14,357
+Cheiro de ovo podre.
+
+259
+00:12:15,559 --> 00:12:18,465
+Tudo bem, eu...
+Não estou sentindo nada...
+
+260
+00:12:18,467 --> 00:12:22,299
+Também sinto.
+Cheiro de ovo muito podre.
+
+261
+00:12:22,523 --> 00:12:25,713
+Todos estão sentindo?
+Certo, vamos ser precavidos.
+
+262
+00:12:25,720 --> 00:12:27,954
+Todos, levantem-se.
+De pé e fora da sala.
+
+263
+00:12:27,959 --> 00:12:30,644
+Vamos para um lugar
+menos fedido.
+
+264
+00:12:30,647 --> 00:12:32,424
+- Vamos.
+- Vamos, tudo bem.
+
+265
+00:12:33,763 --> 00:12:36,186
+Todos para baixo.
+Vocês sabem aonde ir.
+
+266
+00:12:36,403 --> 00:12:39,053
+- Algo errado?
+- Talvez.
+
+267
+00:12:39,082 --> 00:12:41,592
+Pode chamar alguém?
+Possível vazamento de gás.
+
+268
+00:12:45,843 --> 00:12:47,579
+Boa notícia
+para Renée Hamrick.
+
+269
+00:12:47,592 --> 00:12:50,424
+- Aprovaram as visitas?
+- Ainda não, passou longe.
+
+270
+00:12:50,426 --> 00:12:53,205
+Mas quando meu candidato entrar,
+acredito que irão.
+
+271
+00:12:53,207 --> 00:12:56,574
+Isso é ótimo. Qual o maluco
+que vai aceitar a posição?
+
+272
+00:12:59,178 --> 00:13:01,912
+- Não, não.
+- Sim.
+
+273
+00:13:03,019 --> 00:13:05,786
+Só me ouve,
+porque preciso de um aliado lá,
+
+274
+00:13:05,788 --> 00:13:07,561
+um de nós,
+que vai garantir que
+
+275
+00:13:07,563 --> 00:13:10,079
+quando problemas
+como o das visitas surjam,
+
+276
+00:13:10,083 --> 00:13:11,997
+Brantley não pode...
+só ignorar.
+
+277
+00:13:12,010 --> 00:13:14,306
+- Horário das reuniões?
+- Quarta, 10h30.
+
+278
+00:13:14,612 --> 00:13:16,778
+<i>Olha, Max,
+eu adoraria ajudar,</i>
+
+279
+00:13:16,780 --> 00:13:20,737
+mas eles se reúnem às 10h30
+porque não têm outro trabalho.
+
+280
+00:13:20,773 --> 00:13:23,356
+- Eu tenho cirurgia.
+- E seria péssimo perder,
+
+281
+00:13:23,358 --> 00:13:25,744
+mas poderia significar
+que a próxima Renée
+
+282
+00:13:25,751 --> 00:13:28,286
+não precisaria
+de mais cirurgias.
+
+283
+00:13:28,303 --> 00:13:31,626
+Pense nisso.
+Vamos, cara, o que me diz?
+
+284
+00:13:31,630 --> 00:13:34,019
+Eu e você,
+bagunçando as coisas.
+
+285
+00:13:37,211 --> 00:13:39,928
+- Certo, estou dentro.
+- Isso, isso! Obrigado.
+
+286
+00:13:41,006 --> 00:13:43,644
+- Dr. Reynolds? Não.
+- Não?
+
+287
+00:13:43,646 --> 00:13:45,393
+- US$ 4.75.
+- Pode ficar.
+
+288
+00:13:45,408 --> 00:13:47,730
+- Obrigada.
+- Não. Ela é sabotadora.
+
+289
+00:13:47,734 --> 00:13:50,003
+Ninguém está sabotando,
+Max.
+
+290
+00:13:50,102 --> 00:13:53,895
+É a realidade, que ninguém diz,
+mas acho que virou minha função.
+
+291
+00:13:53,930 --> 00:13:55,711
+Dr. Reynolds é
+bem-sucedido.
+
+292
+00:13:55,713 --> 00:13:58,919
+Ele é dinâmico, ele conhece
+esse hospital de cabo a rabo.
+
+293
+00:13:58,924 --> 00:14:01,237
+O dr. Reynolds pode
+aumentar dígitos? Não.
+
+294
+00:14:01,248 --> 00:14:04,195
+Ele mesmo pode doar? Não.
+Logo, ele está fora.
+
+295
+00:14:04,209 --> 00:14:08,500
+É o dinheiro que nos traz fundo
+para coisas como as visitas.
+
+296
+00:14:08,504 --> 00:14:09,908
+Se quer entrar no jogo,
+
+297
+00:14:09,912 --> 00:14:12,714
+arranje um candidato
+que o Conselho posso usar.
+
+298
+00:14:12,758 --> 00:14:16,925
+- Outro bajulador rico?
+- CEO, empresário, celebridade.
+
+299
+00:14:16,932 --> 00:14:20,419
+Melhor ainda, três em um.
+Boa caçada!
+
+300
+00:14:28,654 --> 00:14:31,829
+- A Emily vai ficar bem?
+- Estou cuidando disso, Daniel.
+
+301
+00:14:31,833 --> 00:14:34,899
+- Não respondeu a pergunta.
+- Querem saber? Já chega.
+
+302
+00:14:34,906 --> 00:14:38,985
+Vão para a sala, todos.
+Obrigado, chego já lá. Obrigado.
+
+303
+00:14:39,000 --> 00:14:41,045
+Aqui, venha. Sente-se.
+
+304
+00:14:43,202 --> 00:14:44,913
+Nada de melhora, não é?
+
+305
+00:14:45,504 --> 00:14:48,653
+Minha cabeça dói
+e estou vendo pontos pretos.
+
+306
+00:14:48,657 --> 00:14:51,940
+É, gás natural pode comprometer
+o oxigênio no nosso corpo
+
+307
+00:14:51,942 --> 00:14:54,253
+e pode causar
+todos esse sintomas chatos.
+
+308
+00:14:54,283 --> 00:14:55,706
+Chamamos de Hipóxia.
+
+309
+00:14:55,881 --> 00:14:57,286
+Nada de vazamento de gás.
+
+310
+00:14:57,683 --> 00:15:00,299
+Desculpa, como?
+Nenhum vazamento?
+
+311
+00:15:00,328 --> 00:15:03,564
+Volto já. Continue respirando.
+O que está dizendo?
+
+312
+00:15:03,566 --> 00:15:05,860
+Emily está pondo
+as tripas para fora.
+
+313
+00:15:05,870 --> 00:15:08,678
+Técnicos checaram o andar todo,
+duas vezes.
+
+314
+00:15:13,836 --> 00:15:15,243
+Certo, chame o Kapoor.
+
+315
+00:15:15,934 --> 00:15:17,376
+Obrigado.
+
+316
+00:15:18,081 --> 00:15:19,944
+Não quero problemas.
+
+317
+00:15:19,955 --> 00:15:23,019
+Eu entendo, sr. Martinelli,
+mas precisamos que nos conte
+
+318
+00:15:23,021 --> 00:15:24,775
+o que viu onde trabalha.
+
+319
+00:15:24,781 --> 00:15:28,479
+Algum sinal de cobalto
+ou qualquer outro metal pesado?
+
+320
+00:15:28,505 --> 00:15:31,093
+- Não, nada disso.
+- E isolamentos antigos?
+
+321
+00:15:31,109 --> 00:15:33,748
+Eles estão limpos, eu juro,
+e estão do meu lado,
+
+322
+00:15:33,750 --> 00:15:35,926
+ainda mais depois
+que sofri um acidente.
+
+323
+00:15:35,936 --> 00:15:39,117
+- Que acidente?
+- Eu estava soldando a viga,
+
+324
+00:15:39,120 --> 00:15:41,456
+quando caí de 3 metros
+e quebrei o quadril.
+
+325
+00:15:41,458 --> 00:15:43,423
+Meu Deus,
+sorte sua que foi só isso.
+
+326
+00:15:43,430 --> 00:15:45,070
+E fiquei fora por um tempo.
+
+327
+00:15:45,120 --> 00:15:47,984
+Mas o mestre de obras,
+depois de colocado a prótese,
+
+328
+00:15:47,986 --> 00:15:49,499
+me colocou no transporte.
+
+329
+00:15:50,406 --> 00:15:52,002
+Não precisava
+ter feito isso.
+
+330
+00:15:52,604 --> 00:15:56,798
+- O que fazia no transporte?
+- Levava o lixo para fora.
+
+331
+00:15:56,800 --> 00:15:59,366
+Era o trabalho mais fácil
+para ter uma grana.
+
+332
+00:15:59,371 --> 00:16:02,083
+Sr. Martinelli,
+tudo bem se conferirmos algo?
+
+333
+00:16:03,213 --> 00:16:04,616
+Com isso?
+
+334
+00:16:04,621 --> 00:16:07,889
+Só vai sentir uma espetada
+e um pouco de pressão.
+
+335
+00:16:24,047 --> 00:16:27,074
+Bloom, isso não é sangue.
+
+336
+00:16:33,166 --> 00:16:34,571
+Que diabos?
+
+337
+00:16:34,579 --> 00:16:38,210
+Sr. Martinelli, você foi
+envenenado pela sua prótese.
+
+338
+00:16:39,013 --> 00:16:41,554
+Os sintomas da Emily podem
+ser qualquer coisa.
+
+339
+00:16:41,556 --> 00:16:44,098
+- Preciso de exames.
+- Não me venha com essa.
+
+340
+00:16:44,100 --> 00:16:46,762
+- Essa mente já tem diagnóstico.
+- Não.
+
+341
+00:16:47,298 --> 00:16:49,005
+Tenho uma hipótese.
+
+342
+00:16:49,194 --> 00:16:52,846
+Suspeito que ela esteja sofrendo
+de uma enxaqueca complexa.
+
+343
+00:16:52,848 --> 00:16:54,249
+- Uma enxaqueca?
+- Iggy!
+
+344
+00:16:54,499 --> 00:16:57,344
+- Venha rápido, há algo errado.
+- O quê?
+
+345
+00:17:05,185 --> 00:17:08,024
+Talvez precise rever
+essa hipótese.
+
+346
+00:17:08,704 --> 00:17:12,220
+Renée está aqui para incisão e
+drenagem no fechamento primário
+
+347
+00:17:12,222 --> 00:17:14,499
+do enxerto da safena
+da perna esquerda,
+
+348
+00:17:14,504 --> 00:17:16,375
+e a posição parece boa
+para mim.
+
+349
+00:17:16,377 --> 00:17:18,015
+Prontos para proceder.
+
+350
+00:17:18,730 --> 00:17:20,808
+Alicia, comece
+a anestesia geral.
+
+351
+00:17:20,810 --> 00:17:23,432
+E tenho ótimas notícias
+para você.
+
+352
+00:17:23,555 --> 00:17:28,023
+Normalmente você espera
+a cirurgia acabar.
+
+353
+00:17:28,028 --> 00:17:30,202
+Acabaram de me fazer
+membro do Conselho.
+
+354
+00:17:30,217 --> 00:17:31,862
+E para minha primeira ação,
+
+355
+00:17:31,864 --> 00:17:36,257
+pretendo garantir que tenha
+acompanhamento pós operatório.
+
+356
+00:17:36,263 --> 00:17:38,667
+- Pode fazer isso?
+- Claro que sim.
+
+357
+00:17:38,810 --> 00:17:40,383
+Vejo você quando acordar.
+
+358
+00:17:41,395 --> 00:17:42,804
+Dr. Reynolds!
+
+359
+00:17:44,482 --> 00:17:47,363
+- Estou no meio de algo.
+- Eu tenho más notícias,
+
+360
+00:17:47,365 --> 00:17:49,394
+então serei breve:
+não é do Conselho.
+
+361
+00:17:49,406 --> 00:17:51,024
+O quê? Quem foi aceito?
+
+362
+00:17:51,029 --> 00:17:53,970
+Ninguém. Eles só, você sabe,
+não querem você.
+
+363
+00:17:54,884 --> 00:17:57,770
+Max, acabei de prometer
+a essa mulher
+
+364
+00:17:57,772 --> 00:17:59,871
+que tomaríamos conta dela
+dessa vez.
+
+365
+00:18:00,058 --> 00:18:02,707
+- E manteremos a promessa.
+- Como, exatamente?
+
+366
+00:18:03,122 --> 00:18:04,569
+Acho que sei como.
+
+367
+00:18:07,608 --> 00:18:11,720
+Sabe o quão difícil é fazer FDA
+responder uma simples pergunta?
+
+368
+00:18:11,725 --> 00:18:14,941
+- Qual a pergunta?
+- Este quadril, em algum corpo,
+
+369
+00:18:14,945 --> 00:18:17,169
+- pode matar alguém?
+- Essa é a pergunta?
+
+370
+00:18:17,171 --> 00:18:20,103
+A FDA parou de aprovar
+os quadris de metal em 2016
+
+371
+00:18:20,105 --> 00:18:22,956
+por ter riscos,
+mas como ajudar 3 mil pacientes
+
+372
+00:18:22,958 --> 00:18:25,341
+que colocaram essa prótese
+antes de 2016?
+
+373
+00:18:25,346 --> 00:18:27,918
+Fico feliz que tenha perguntado,
+porque esse é
+
+374
+00:18:27,920 --> 00:18:32,078
+o tipo de problema que resolverá
+quando for do Conselho.
+
+375
+00:18:32,953 --> 00:18:35,150
+- Do Conselho?
+- É minha primeira opção.
+
+376
+00:18:35,182 --> 00:18:37,579
+Não quer a drª Sharpe,
+quer a drª Helen.
+
+377
+00:18:37,583 --> 00:18:39,539
+É verdade,
+Brantley quer um famoso.
+
+378
+00:18:39,541 --> 00:18:42,394
+Logo que chegou, me pediu
+para reduzir a publicidade
+
+379
+00:18:42,396 --> 00:18:43,869
+e voltar à prática médica,
+
+380
+00:18:43,873 --> 00:18:46,104
+o que me deu propósito,
+uma nova visão,
+
+381
+00:18:46,106 --> 00:18:48,412
+algo que precisarei muito
+agora.
+
+382
+00:18:48,414 --> 00:18:51,705
+Eu sei, mas realmente preciso
+de um de nós para fazer algo,
+
+383
+00:18:51,707 --> 00:18:54,999
+Alguém que nos represente,
+e Brantley já excluiu Reynolds.
+
+384
+00:18:55,005 --> 00:18:56,526
+Achei que fosse a primeira.
+
+385
+00:18:56,528 --> 00:18:58,668
+É a primeira...
+no meu coração.
+
+386
+00:18:58,723 --> 00:19:01,601
+Max, adoraria ajudar
+você e o hospital,
+
+387
+00:19:01,603 --> 00:19:04,848
+mas nunca irão me aceitar,
+famosa ou não,
+
+388
+00:19:04,850 --> 00:19:08,341
+porque o conselho só aprova
+quem concorda com eles,
+
+389
+00:19:08,343 --> 00:19:10,691
+e definitivamente,
+não somos nós.
+
+390
+00:19:12,990 --> 00:19:14,391
+Tudo bem.
+
+391
+00:19:21,422 --> 00:19:22,823
+Dr. Goodwin.
+
+392
+00:19:22,828 --> 00:19:25,386
+- Não é uma operação, Todd.
+- Precisa de algo?
+
+393
+00:19:25,388 --> 00:19:27,839
+Estou ótimo,
+e isso não significa algo bom,
+
+394
+00:19:27,841 --> 00:19:31,652
+mas se tiver tempo livre,
+sinta-se livre para ir ao VA.
+
+395
+00:19:31,660 --> 00:19:35,264
+Nem 6 semanas de folga fariam
+eu conseguir atendimento no VA.
+
+396
+00:19:35,266 --> 00:19:36,770
+Tenho contato.
+Posso ajudar.
+
+397
+00:19:36,774 --> 00:19:38,814
+Não, obrigado.
+Não quero regalias.
+
+398
+00:19:38,816 --> 00:19:40,744
+Isso é
+a medicina socializada.
+
+399
+00:19:40,762 --> 00:19:42,585
+E você não é
+fã dessa medicina.
+
+400
+00:19:42,600 --> 00:19:44,296
+- É antiamericano.
+- Como é?
+
+401
+00:19:44,307 --> 00:19:48,033
+O que poderia ser mais americano
+que ajudar pessoas?
+
+402
+00:19:48,058 --> 00:19:50,240
+Um sistema que abrace
+a competitividade
+
+403
+00:19:50,242 --> 00:19:53,075
+ao invés de depender
+de pacientes aprisionados.
+
+404
+00:19:53,084 --> 00:19:56,498
+Estamos em um hospital público,
+e como a pessoa que coordena,
+
+405
+00:19:56,500 --> 00:19:57,903
+com medicina socializada,
+
+406
+00:19:57,905 --> 00:20:00,984
+eu posso afirmar que estamos
+fazendo um bom trabalho.
+
+407
+00:20:01,690 --> 00:20:05,441
+Nesse mercado, não há incentivo
+para o hospital melhorar.
+
+408
+00:20:05,452 --> 00:20:07,296
+Este hospital tem
+1.000 leitos,
+
+409
+00:20:07,298 --> 00:20:10,261
+cuida de mais
+de 100 mil emergências por ano.
+
+410
+00:20:10,263 --> 00:20:13,956
+- Nós não...
+- Max! Max! Oi! Nós... Oi.
+
+411
+00:20:13,969 --> 00:20:17,020
+Sentimo-nos obrigados a avisar
+sobre um possível surto
+
+412
+00:20:17,022 --> 00:20:19,072
+de Doença dos Legionários aqui.
+
+413
+00:20:19,144 --> 00:20:21,507
+Mas está tudo bem.
+Está tudo sob controle.
+
+414
+00:20:21,511 --> 00:20:24,328
+Não está.
+Ainda não, mas estará.
+
+415
+00:20:24,334 --> 00:20:26,786
+É algo com o sistema de água
+ou climatização.
+
+416
+00:20:26,788 --> 00:20:28,484
+Era só questão de tempo.
+
+417
+00:20:28,739 --> 00:20:30,641
+Certo, entendeu?
+
+418
+00:20:31,645 --> 00:20:34,262
+O que dizia?
+Sobre o hospital?
+
+419
+00:20:36,506 --> 00:20:39,459
+Certo, essa máquina vai
+filtrar o seu sangue
+
+420
+00:20:39,462 --> 00:20:41,852
+e ajudará a salvar
+o que restou dos rins.
+
+421
+00:20:42,149 --> 00:20:43,974
+Como isso está acontecendo?
+
+422
+00:20:43,979 --> 00:20:47,124
+A articulação esférica
+e o encaixe da sua prótese
+
+423
+00:20:47,126 --> 00:20:48,589
+são uma mistura de metais.
+
+424
+00:20:48,605 --> 00:20:50,229
+Os metais estão em atrito
+
+425
+00:20:50,231 --> 00:20:53,779
+e isso causa a penetração
+do cobalto no seu sangue.
+
+426
+00:20:53,781 --> 00:20:55,267
+Como vai consertar isso?
+
+427
+00:20:58,224 --> 00:21:01,156
+Vamos ter que substituir
+seu quadril, Vince.
+
+428
+00:21:01,184 --> 00:21:03,379
+Não.
+
+429
+00:21:05,065 --> 00:21:07,798
+E como sabemos
+que não vai acontecer de novo?
+
+430
+00:21:07,805 --> 00:21:11,757
+Wedlow Medical, a empresa,
+fala que solucionou o problema.
+
+431
+00:21:11,759 --> 00:21:14,810
+Eles afirmam que solucionaram?
+Este é meu corpo!
+
+432
+00:21:15,232 --> 00:21:16,808
+Quem pagará pela cirurgia?
+
+433
+00:21:16,810 --> 00:21:19,652
+Como fica o trabalho?
+Última vez, levei 8 semanas.
+
+434
+00:21:19,654 --> 00:21:22,927
+Acha que a empresa pagará
+tudo de novo? Sem chance.
+
+435
+00:21:23,029 --> 00:21:24,705
+Não,
+vai custar tudo que tenho.
+
+436
+00:21:25,997 --> 00:21:27,578
+Ouça, sr. Martinelli.
+
+437
+00:21:27,581 --> 00:21:29,829
+Prometo que cuidarei
+de tudo isso.
+
+438
+00:21:29,840 --> 00:21:33,453
+- E quem diabos vai pagar?
+- Eles vão.
+
+439
+00:21:38,462 --> 00:21:41,898
+Os antibióticos não funcionam.
+Os sintomas só pioram.
+
+440
+00:21:42,036 --> 00:21:44,106
+- Para qual paciente?
+- Todos.
+
+441
+00:21:44,605 --> 00:21:48,199
+Febre acima de 37,
+Daniel piorou do vômito,
+
+442
+00:21:48,201 --> 00:21:51,611
+- a falta de ar da Shoshanna...
+- Onde está a Shoshanna?
+
+443
+00:22:01,388 --> 00:22:03,509
+Shoshanna, o que faz aqui?
+
+444
+00:22:03,989 --> 00:22:06,058
+"Sala de baixo estímulo."
+
+445
+00:22:06,065 --> 00:22:07,728
+Não estava mais aguentando
+
+446
+00:22:07,730 --> 00:22:11,129
+os choros e os vômitos
+e "Emily ficará bem?"
+
+447
+00:22:11,131 --> 00:22:12,538
+Como se sente?
+
+448
+00:22:12,557 --> 00:22:14,457
+- Bem.
+- Bem?
+
+449
+00:22:15,785 --> 00:22:17,188
+Posso?
+
+450
+00:22:19,643 --> 00:22:21,051
+Respire fundo, por favor.
+
+451
+00:22:22,977 --> 00:22:24,384
+Mais uma vez.
+
+452
+00:22:26,581 --> 00:22:28,397
+Sem broncoconstrição.
+
+453
+00:22:28,798 --> 00:22:30,994
+- Enjoos?
+- Não.
+
+454
+00:22:33,393 --> 00:22:34,793
+Normal.
+
+455
+00:22:35,151 --> 00:22:37,544
+Shoshanna.
+Há quanto tempo está aqui?
+
+456
+00:22:37,549 --> 00:22:40,513
+Não muito, só queria um lugar
+quieto para escrever.
+
+457
+00:22:40,524 --> 00:22:42,269
+Como é que só ela melhorou?
+
+458
+00:22:43,476 --> 00:22:45,055
+Continue escrevendo, tá?
+
+459
+00:22:51,105 --> 00:22:53,465
+Isso não é hora
+para comer por estresse.
+
+460
+00:22:53,475 --> 00:22:55,940
+Não, não vou comer nada,
+Vijay.
+
+461
+00:22:55,943 --> 00:22:58,363
+- Acho que tenho uma solução.
+- Qual?
+
+462
+00:23:01,697 --> 00:23:03,111
+Isso.
+
+463
+00:23:04,797 --> 00:23:06,819
+Acha mesmo
+que isso vai funcionar?
+
+464
+00:23:06,831 --> 00:23:09,490
+Sabe o que dizem
+sobre uma colher de açúcar.
+
+465
+00:23:09,852 --> 00:23:11,901
+- Tudo bem.
+- Certo.
+
+466
+00:23:12,577 --> 00:23:16,059
+Você tem algo chamado DPM,
+mas isso fará com que melhore.
+
+467
+00:23:16,280 --> 00:23:19,152
+- Quando?
+- Quase instantaneamente.
+
+468
+00:23:21,980 --> 00:23:25,098
+- Isso é bala?
+- Não, é remédio de ação rápida.
+
+469
+00:23:25,105 --> 00:23:27,175
+- Só um comprimido?
+- Só um.
+
+470
+00:23:27,177 --> 00:23:29,005
+- Posso mastigar?
+- Não.
+
+471
+00:23:32,374 --> 00:23:33,775
+Engula.
+
+472
+00:23:39,299 --> 00:23:42,456
+- Tem certeza que não é bala?
+- Tenho.
+
+473
+00:23:51,211 --> 00:23:54,270
+Devo tomar também?
+Posso ter sido exposta.
+
+474
+00:23:54,272 --> 00:23:56,440
+Não, não,
+é muito velha para contrair.
+
+475
+00:23:56,728 --> 00:23:58,279
+Muito velha?
+
+476
+00:23:58,917 --> 00:24:02,352
+Sim, DPM significa
+"Doença Psicogênica de Massa",
+
+477
+00:24:02,387 --> 00:24:06,056
+Comportamento Obsessivo Coletivo
+ou também...
+
+478
+00:24:06,090 --> 00:24:08,331
+- Histeria em massa?
+- Bingo.
+
+479
+00:24:08,365 --> 00:24:09,960
+Sim, DPM tende a surgir
+
+480
+00:24:09,994 --> 00:24:12,029
+em grupos
+de jovens pressurizados,
+
+481
+00:24:12,063 --> 00:24:14,231
+bem parecido
+com escolas particulares...
+
+482
+00:24:14,265 --> 00:24:16,627
+- Nossa ala psiquiátrica...
+- Ou Salem.
+
+483
+00:24:16,662 --> 00:24:19,369
+Quando começa, é transmitida
+por linha de visão,
+
+484
+00:24:19,404 --> 00:24:20,892
+como um vírus real.
+
+485
+00:24:20,926 --> 00:24:23,595
+Por isso Shoshanna melhorou
+quando ficou isolada.
+
+486
+00:24:23,641 --> 00:24:26,960
+Espere, depois disso tudo,
+ninguém estava doente?
+
+487
+00:24:26,995 --> 00:24:29,718
+Eu não diria isso.
+E os sintomas são reais, claro.
+
+488
+00:24:29,720 --> 00:24:32,616
+Mas um problema psicológico
+requer...
+
+489
+00:24:32,650 --> 00:24:34,559
+uma cura psicológica.
+
+490
+00:24:36,135 --> 00:24:38,043
+De preferência
+com sabor cereja.
+
+491
+00:24:47,632 --> 00:24:50,011
+Oi... Desculpe.
+Você está bem?
+
+492
+00:24:50,247 --> 00:24:53,315
+- Estou dando um jeito.
+- Ótimo, tenho problemas.
+
+493
+00:24:53,320 --> 00:24:56,974
+Preciso de ajuda
+para a vaga no Conselho.
+
+494
+00:24:57,008 --> 00:24:58,742
+Eu aceito. Obrigada.
+
+495
+00:24:58,776 --> 00:25:01,445
+Quer saber? Fico melhor
+quando estou ocupada.
+
+496
+00:25:01,479 --> 00:25:05,980
+Na verdade, eu queria
+chamar sua mãe.
+
+497
+00:25:06,684 --> 00:25:08,711
+- Minha mãe?
+- Escute.
+
+498
+00:25:08,746 --> 00:25:12,051
+Você disse que ela anda
+com pessoas ricas, certo?
+
+499
+00:25:12,086 --> 00:25:15,081
+E é ótimo, Brantley vai achar
+que ela é uma deles.
+
+500
+00:25:15,116 --> 00:25:17,963
+Mas então
+o plano fica muito bom...
+
+501
+00:25:17,997 --> 00:25:20,029
+Ela trabalhará para nós
+secretamente.
+
+502
+00:25:20,031 --> 00:25:22,616
+Nossa infiltrada.
+Pode dizer a ela como votar,
+
+503
+00:25:22,651 --> 00:25:26,425
+- o que apoiar, o que falar...
+- Tipo uma marionete?
+
+504
+00:25:26,817 --> 00:25:29,548
+Mais tipo um cavalo de troia,
+mas para os vilões.
+
+505
+00:25:29,553 --> 00:25:32,922
+Max. Ela não é confiável.
+
+506
+00:25:33,056 --> 00:25:35,224
+Tudo bem.
+Mesmo que ela não vá todas...
+
+507
+00:25:35,258 --> 00:25:39,695
+Não. Ela não é confiável
+para aparecer em nenhum lugar.
+
+508
+00:25:39,729 --> 00:25:41,163
+Exceto talvez para o bar.
+
+509
+00:25:41,197 --> 00:25:43,532
+E mesmo que a programássemos,
+ainda votaria
+
+510
+00:25:43,566 --> 00:25:46,111
+para quem estivesse
+chacoalhando e servindo.
+
+511
+00:25:46,281 --> 00:25:49,648
+Entendi.
+Eu não sabia, sinto muito.
+
+512
+00:25:49,659 --> 00:25:51,073
+Não, não sinta.
+
+513
+00:25:51,107 --> 00:25:54,328
+Gosto de ser lembrada que sou
+geneticamente pré-disposta.
+
+514
+00:25:54,911 --> 00:25:56,945
+Acho que teremos
+que usar o plano B.
+
+515
+00:25:56,980 --> 00:26:01,335
+O plano B falhou...
+vários planos atrás.
+
+516
+00:26:34,551 --> 00:26:36,613
+<i>Chamando dr. Goodwin.</i>
+
+517
+00:26:43,927 --> 00:26:46,464
+- Chame quando ela acordar.
+- Pode deixar.
+
+518
+00:26:49,766 --> 00:26:51,734
+<i>- Evie.
+- Oi querido, como está?</i>
+
+519
+00:26:51,769 --> 00:26:54,270
+Precisei refazer
+uma cirurgia
+
+520
+00:26:54,304 --> 00:26:57,472
+porque o sistema de saúde
+só se compromete quando importa.
+
+521
+00:26:57,474 --> 00:27:00,309
+<i>- Parece frustrante.
+- E é.</i>
+
+522
+00:27:00,343 --> 00:27:02,271
+Mas ficarei bem.
+Sabe por quê?
+
+523
+00:27:02,306 --> 00:27:05,814
+<i>Porque você virá embora
+amanhã.</i>
+
+524
+00:27:07,403 --> 00:27:08,803
+Evie?
+
+525
+00:27:09,752 --> 00:27:13,021
+Não surte,
+são boas notícias.
+
+526
+00:27:13,532 --> 00:27:15,860
+HHC gostou do meu trabalho
+
+527
+00:27:15,895 --> 00:27:18,226
+e pediram para eu ficar
+mais duas semanas.
+
+528
+00:27:20,263 --> 00:27:21,730
+Mais duas semanas?
+
+529
+00:27:21,764 --> 00:27:25,167
+<i>Eu sei, mas preciso
+completar o trabalho.</i>
+
+530
+00:27:25,201 --> 00:27:28,672
+Por que me comprometer
+apenas quando importa, certo?
+
+531
+00:27:32,175 --> 00:27:35,495
+- Preciso ir.
+- <i>Floyd, espere, eu...</i>
+
+532
+00:27:43,820 --> 00:27:46,162
+- Vijay?
+- Ella?
+
+533
+00:27:46,189 --> 00:27:47,756
+Você viu Rohan?
+
+534
+00:27:47,791 --> 00:27:49,958
+Íamos nos encontrar aqui
+há duas horas.
+
+535
+00:27:49,993 --> 00:27:53,739
+Eu vi. Ele veio se despedir
+antes de ir para a turnê.
+
+536
+00:27:54,431 --> 00:27:55,831
+Que turnê?
+
+537
+00:27:57,069 --> 00:28:00,245
+A turnê dele...
+com a banda?
+
+538
+00:28:01,037 --> 00:28:03,606
+Meu Deus.
+Pelas últimas duas horas,
+
+539
+00:28:03,640 --> 00:28:06,942
+tentei me convencer
+que isso não estava acontecendo.
+
+540
+00:28:07,757 --> 00:28:09,891
+Deveria saber
+que ele não daria conta.
+
+541
+00:28:09,916 --> 00:28:12,150
+Mas sumir como um covarde?
+
+542
+00:28:12,282 --> 00:28:16,178
+- Não entendi.
+- Não há turnê. Ele mentiu.
+
+543
+00:28:16,639 --> 00:28:18,039
+Ele amarelou.
+
+544
+00:28:19,442 --> 00:28:20,942
+Por que ele faria isso?
+
+545
+00:28:24,260 --> 00:28:26,046
+Estou grávida.
+
+546
+00:28:37,373 --> 00:28:39,841
+Dr. Kapoor. Dr. Kapoor!
+
+547
+00:28:41,918 --> 00:28:43,952
+Pegue Ativan, agora.
+
+548
+00:28:45,916 --> 00:28:48,684
+- 1 mL de Ativan.
+- Achei que estivessem melhores.
+
+549
+00:28:48,718 --> 00:28:52,087
+Estavam.
+Todos estão, só... Emily...
+
+550
+00:28:52,121 --> 00:28:54,523
+60 litros por minuto,
+fluxo intenso 02.
+
+551
+00:28:54,557 --> 00:28:56,725
+- Oximetria em 95.
+- O que ela tem?
+
+552
+00:28:56,760 --> 00:28:58,345
+Não sei!
+
+553
+00:28:58,662 --> 00:29:00,099
+Está estabilizando.
+
+554
+00:29:02,581 --> 00:29:04,257
+Desculpe.
+
+555
+00:29:17,772 --> 00:29:19,948
+Por ter nos avisado
+pessoalmente,
+
+556
+00:29:19,983 --> 00:29:22,084
+a Wedlow Medical está
+disposta a pagar
+
+557
+00:29:22,118 --> 00:29:24,204
+a substituição
+do novo quadril.
+
+558
+00:29:24,988 --> 00:29:26,388
+E?
+
+559
+00:29:27,023 --> 00:29:31,211
+Também pagaremos a reabilitação
+e os salários perdidos.
+
+560
+00:29:33,530 --> 00:29:36,265
+Não vai funcionar
+para a gente.
+
+561
+00:29:36,499 --> 00:29:40,169
+Porque descobri que quando a FDA
+baniu quadris metal-metal,
+
+562
+00:29:40,203 --> 00:29:44,754
+sua empresa simplesmente
+revestiu os quadris defeituosos.
+
+563
+00:29:45,141 --> 00:29:50,103
+O sr. Martinelli gostaria
+do quadril de 100% cerâmica.
+
+564
+00:29:50,180 --> 00:29:52,621
+O que não vai me envenenar.
+
+565
+00:29:53,233 --> 00:29:55,798
+- Estes custam o triplo.
+- Eu não terminei.
+
+566
+00:29:55,833 --> 00:29:57,923
+Também gostaríamos
+que providenciassem
+
+567
+00:29:57,958 --> 00:30:00,322
+o quadril de cerâmica
+sem custos
+
+568
+00:30:00,356 --> 00:30:01,989
+para todo novo paciente
+
+569
+00:30:02,024 --> 00:30:05,961
+que sofrer com seus dispositivos
+revestidos.
+
+570
+00:30:05,995 --> 00:30:09,298
+Drª Sharpe,
+não temos que oferecer nada.
+
+571
+00:30:09,332 --> 00:30:11,666
+Estamos de acordo com a FDA,
+em fato,
+
+572
+00:30:11,668 --> 00:30:13,734
+só estamos aqui porque,
+francamente,
+
+573
+00:30:13,736 --> 00:30:15,804
+somos grandes fãs
+da drª Helen.
+
+574
+00:30:20,376 --> 00:30:22,211
+Brilhante.
+
+575
+00:30:22,545 --> 00:30:25,413
+Então drª Helen irá na TV
+e falará para o mundo
+
+576
+00:30:25,415 --> 00:30:29,484
+como a Wedlow Medical prejudica
+os pacientes.
+
+577
+00:30:31,073 --> 00:30:36,043
+E talvez eu leve isso para...
+provar que não estou mentindo.
+
+578
+00:30:37,260 --> 00:30:39,027
+É líquido das articulações.
+
+579
+00:30:39,029 --> 00:30:42,030
+Achamos dentro
+do sr. Martinelli.
+
+580
+00:30:43,466 --> 00:30:46,500
+Faça isso e vamos te encher
+de processos por difamação,
+
+581
+00:30:46,502 --> 00:30:48,538
+que nunca mais praticará
+medicina.
+
+582
+00:30:49,205 --> 00:30:51,333
+Gostaria de vê-los tentar.
+
+583
+00:30:52,408 --> 00:30:53,908
+<i>Vão acabar com você.</i>
+
+584
+00:30:53,910 --> 00:30:56,677
+Eles têm muito dinheiro
+e vários advogados
+
+585
+00:30:56,679 --> 00:30:59,280
+e acabarão com tudo
+que já trabalhou.
+
+586
+00:30:59,282 --> 00:31:01,949
+Eles só me veem como drª Helen,
+a famosa,
+
+587
+00:31:01,951 --> 00:31:03,918
+então usarei a fama
+a meu favor.
+
+588
+00:31:03,920 --> 00:31:07,054
+- E a drª Sharpe?
+- Está lutando pelo paciente,
+
+589
+00:31:07,056 --> 00:31:08,723
+algo que faz todo dia
+e ainda,
+
+590
+00:31:08,725 --> 00:31:11,092
+pede para eu parar.
+Por que faz isso?
+
+591
+00:31:11,094 --> 00:31:15,290
+Porque acabará com sua carreira
+e não posso fazer isso sem você.
+
+592
+00:31:20,136 --> 00:31:21,536
+Eu não estou...
+
+593
+00:31:22,372 --> 00:31:23,773
+Totalmente...
+
+594
+00:31:23,940 --> 00:31:25,450
+Aqui.
+
+595
+00:31:29,212 --> 00:31:31,072
+Parte de mim ainda está...
+
+596
+00:31:32,475 --> 00:31:34,292
+Naquela ambulância.
+
+597
+00:31:38,454 --> 00:31:42,934
+Você me afastou
+e agora espera que eu entenda.
+
+598
+00:31:43,651 --> 00:31:45,459
+E então precisa de mim?
+
+599
+00:31:45,461 --> 00:31:47,295
+E usa o que sente
+como vantagem.
+
+600
+00:31:47,297 --> 00:31:49,363
+Acha que uso a Georgia
+para manipular?
+
+601
+00:31:49,365 --> 00:31:52,308
+- Não sei porque não fala.
+- Não posso falar.
+
+602
+00:31:52,310 --> 00:31:55,004
+- Por quê?
+- Porque tento poupar você.
+
+603
+00:31:56,452 --> 00:31:58,641
+Não quero que você sinta...
+
+604
+00:31:59,709 --> 00:32:01,111
+Isto.
+
+605
+00:32:01,710 --> 00:32:03,911
+Não quero
+que tenha a experiência...
+
+606
+00:32:03,980 --> 00:32:05,423
+Disto...
+
+607
+00:32:08,651 --> 00:32:10,470
+Não é justo.
+
+608
+00:32:12,255 --> 00:32:13,740
+Eu sei.
+
+609
+00:32:14,490 --> 00:32:16,293
+Nada disso é justo.
+
+610
+00:32:16,759 --> 00:32:19,160
+Podemos jogar
+a justiça pela janela.
+
+611
+00:32:21,683 --> 00:32:25,853
+Max, quando precisar,
+estarei aqui por você.
+
+612
+00:32:28,671 --> 00:32:30,265
+Por tudo.
+
+613
+00:32:32,467 --> 00:32:34,810
+Mas não à custa
+do meu paciente.
+
+614
+00:32:39,586 --> 00:32:41,318
+Por mais terrível
+que pareça,
+
+615
+00:32:41,320 --> 00:32:44,012
+sobre as grandes empresas
+de coisas hospitalares,
+
+616
+00:32:44,014 --> 00:32:46,987
+nos tornamos cobaias
+para os produtos deles.
+
+617
+00:32:46,989 --> 00:32:50,399
+<i>Não é como se fosse micro-ondas
+que pode devolver.</i>
+
+618
+00:32:50,401 --> 00:32:52,534
+<i>Exato. Falamos de produtos</i>
+
+619
+00:32:52,536 --> 00:32:54,548
+<i>que são implantados
+por cirurgia.</i>
+
+620
+00:32:54,582 --> 00:32:58,810
+Na sua coluna, coração,
+quadril.
+
+621
+00:32:58,999 --> 00:33:01,333
+E se esse produto falhar,
+você adoece.
+
+622
+00:33:01,335 --> 00:33:04,049
+Ou pior, você morre.
+
+623
+00:33:04,572 --> 00:33:08,674
+<i>Tenho um corajoso paciente
+que teve a vida revirada</i>
+
+624
+00:33:08,676 --> 00:33:10,076
+<i>por um desses produtos.</i>
+
+625
+00:33:10,078 --> 00:33:12,178
+<i>Chegou a hora
+de se pronunciar.</i>
+
+626
+00:33:12,513 --> 00:33:16,255
+<i>Ao voltar, drª Helen contará
+quais empresas evitar</i>
+
+627
+00:33:16,257 --> 00:33:17,750
+e o porquê.
+
+628
+00:33:20,329 --> 00:33:21,788
+<i>E estamos</i> fora do ar!
+
+629
+00:33:29,074 --> 00:33:33,044
+WEDLOW MEDICAL CEDEU!
+EM TUDO QUE VOCÊ PEDIU!
+
+630
+00:33:41,688 --> 00:33:44,857
+<i>Voltamos em</i> 3, 2...
+
+631
+00:33:44,882 --> 00:33:47,351
+<i>Bem-vindo
+ao</i> "Turno da Noite".
+
+632
+00:33:47,376 --> 00:33:50,234
+Estou com a drª Helen,
+que está aqui para nos avisar
+
+633
+00:33:50,236 --> 00:33:53,071
+sobre a empresa
+que prejudicou o paciente dela.
+
+634
+00:33:54,247 --> 00:33:55,714
+<i>Drª Helen?</i>
+
+635
+00:34:01,862 --> 00:34:03,463
+<i>Eu...</i>
+
+636
+00:34:03,597 --> 00:34:05,932
+<i>Na verdade não estou aqui</i>
+
+637
+00:34:05,966 --> 00:34:09,030
+<i>para falar
+de um empresa em particular,</i>
+
+638
+00:34:09,503 --> 00:34:13,973
+<i>porque na verdade,
+são todos cúmplices da FDA</i>
+
+639
+00:34:14,007 --> 00:34:16,174
+e é onde está
+a verdadeira culpa.
+
+640
+00:34:16,176 --> 00:34:18,696
+Então você fala
+que a culpa é da FDA?
+
+641
+00:34:18,698 --> 00:34:20,458
+Parece que sim, não é?
+
+642
+00:34:20,881 --> 00:34:24,916
+<i>A FDA precisa aprovar leis
+para dispositivos hospitalares</i>
+
+643
+00:34:24,918 --> 00:34:27,919
+<i>que protegem os pacientes,
+não para lucro coorporativo.</i>
+
+644
+00:34:27,921 --> 00:34:32,023
+Precisamos testar antes de pôr
+metais pesados no nosso corpo.
+
+645
+00:34:32,025 --> 00:34:34,827
+Precisamos de supervisão.
+Merecemos isso.
+
+646
+00:34:34,962 --> 00:34:38,229
+<i>O que nossos telespectadores
+em casa podem fazer?</i>
+
+647
+00:34:38,231 --> 00:34:40,732
+<i>Liguem para os representantes
+e exijam.</i>
+
+648
+00:34:40,734 --> 00:34:44,303
+<i>Se queremos mudança,
+precisamos dar o primeiro passo.</i>
+
+649
+00:34:58,469 --> 00:34:59,990
+DR. ZACH LINGON
+FISIOTERAPIA
+
+650
+00:35:06,994 --> 00:35:09,361
+Drª Bloom,
+não temos sessão hoje.
+
+651
+00:35:09,363 --> 00:35:12,198
+Temos sim.
+Pelos próximos sete minutos.
+
+652
+00:35:15,969 --> 00:35:18,171
+<i>Lembre-se de ficar parada,
+Emily.</i>
+
+653
+00:35:22,676 --> 00:35:26,831
+LIGUE QUANDO PUDER.
+ROHAN. ONDE VOCÊ ESTÁ?
+
+654
+00:35:28,415 --> 00:35:30,750
+Dr. Kapoor,
+saíram os resultados.
+
+655
+00:35:35,235 --> 00:35:38,061
+<i>Você tem
+algo chamado meningioma.<i>
+
+656
+00:35:38,626 --> 00:35:41,164
+<i>Um tumor na superfície
+do seu cérebro.</i>
+
+657
+00:35:41,995 --> 00:35:44,797
+Está causando todos
+os seus sintomas.
+
+658
+00:35:45,399 --> 00:35:47,693
+Parece muito pior do que é.
+
+659
+00:35:47,695 --> 00:35:49,501
+Muitos meningiomas são
+benignos.
+
+660
+00:35:49,503 --> 00:35:52,537
+Uma vez removido,
+você voltará ao normal.
+
+661
+00:35:52,539 --> 00:35:55,173
+Todo mundo teve
+um desses tumores também?
+
+662
+00:35:55,175 --> 00:35:57,910
+Não, não tiveram.
+Eles te viram ficar doente
+
+663
+00:35:57,945 --> 00:36:00,813
+e acreditaram estar
+doentes também.
+
+664
+00:36:00,848 --> 00:36:03,082
+Então eu fiz isso com eles?
+
+665
+00:36:03,090 --> 00:36:04,516
+Não.
+
+666
+00:36:04,550 --> 00:36:06,520
+Emily, você não fez nada.
+
+667
+00:36:06,920 --> 00:36:09,716
+Eles te viram
+e foram afetados por você.
+
+668
+00:36:09,750 --> 00:36:11,150
+Sabe o que significa?
+
+669
+00:36:12,075 --> 00:36:14,141
+- Que agora todos me odeiam?
+- Não.
+
+670
+00:36:14,175 --> 00:36:15,973
+Que você não está sozinha.
+
+671
+00:36:22,575 --> 00:36:23,975
+MELHORAS, EMILY
+
+672
+00:36:25,761 --> 00:36:27,611
+MELHORAS, EMILY
+
+673
+00:36:29,810 --> 00:36:31,466
+Que todos estamos
+conectados.
+
+674
+00:36:31,500 --> 00:36:33,400
+MELHORAS, EMILY
+
+675
+00:36:46,050 --> 00:36:47,450
+<i>Main hoon na.</i>
+
+676
+00:36:47,761 --> 00:36:49,791
+- Oi?
+- Nos filmes Bollywood,
+
+677
+00:36:49,825 --> 00:36:52,259
+eles dizem "<i>main hoon na."</i>
+
+678
+00:36:52,659 --> 00:36:55,168
+Vijay, veio inventar
+desculpas pelo seu filho?
+
+679
+00:36:55,202 --> 00:36:57,152
+É melhor você ir
+antes que eu surte.
+
+680
+00:36:57,186 --> 00:36:59,366
+Fui ao apartamento
+do Rohan,
+
+681
+00:36:59,400 --> 00:37:00,876
+ao escritório dele,
+
+682
+00:37:01,300 --> 00:37:03,129
+liguei para o patrocinador...
+
+683
+00:37:03,529 --> 00:37:06,691
+Não consegui achá-lo.
+Meu filho desapareceu.
+
+684
+00:37:06,725 --> 00:37:08,366
+Bom...
+
+685
+00:37:08,400 --> 00:37:11,117
+Quando a vida
+o sobrecarrega,
+
+686
+00:37:11,151 --> 00:37:12,645
+ele sempre foge.
+
+687
+00:37:14,190 --> 00:37:15,590
+Mas eu, não.
+
+688
+00:37:16,375 --> 00:37:18,180
+Quero que você saiba disso.
+
+689
+00:37:21,375 --> 00:37:22,775
+Vijay?
+
+690
+00:37:26,400 --> 00:37:27,800
+<i>Main hoon na?</i>
+
+691
+00:37:28,201 --> 00:37:29,646
+O que isso significa?
+
+692
+00:37:33,925 --> 00:37:35,374
+"Estou aqui por você."
+
+693
+00:37:52,050 --> 00:37:53,616
+Hora da reunião
+do Conselho.
+
+694
+00:37:53,650 --> 00:37:55,666
+Prometemos ajuda
+e fracassamos.
+
+695
+00:37:55,700 --> 00:37:58,766
+Não tenho votos para o projeto
+de visita de enfermeiras.
+
+696
+00:37:59,750 --> 00:38:01,541
+Bom,
+
+697
+00:38:01,575 --> 00:38:04,687
+algo tão dependente do governo
+não daria certo mesmo.
+
+698
+00:38:06,700 --> 00:38:10,016
+Sei que temos
+opiniões políticas diferentes,
+
+699
+00:38:10,050 --> 00:38:13,141
+mas a mulher precisa de ajuda,
+e precisa agora.
+
+700
+00:38:13,175 --> 00:38:16,341
+Eu entendo. E a autonomia é
+chave para uma boa vida,
+
+701
+00:38:16,375 --> 00:38:19,241
+- e não usa imposto...
+- Tudo bem, mas pense comigo.
+
+702
+00:38:19,275 --> 00:38:22,841
+E se você parar
+de discordar de mim
+
+703
+00:38:22,875 --> 00:38:24,666
+e ajudá-la?
+
+704
+00:38:24,700 --> 00:38:28,561
+Diga uma solução autônoma
+que ajude a Renée Hamrick.
+
+705
+00:38:30,200 --> 00:38:31,680
+Dê um cachorro para ela.
+
+706
+00:38:33,233 --> 00:38:36,091
+Dê um cachorro para ela...
+
+707
+00:38:36,125 --> 00:38:38,204
+Adote um cachorro
+para ela
+
+708
+00:38:38,238 --> 00:38:40,840
+e contrate um passeador
+para vir diariamente.
+
+709
+00:38:43,250 --> 00:38:45,041
+Para saber como ela está.
+
+710
+00:38:45,075 --> 00:38:47,791
+Duas vezes.
+Ao sair e voltar com o cão.
+
+711
+00:38:47,825 --> 00:38:50,750
+Quanto custaria, por dia,
+essa agência de enfermeira?
+
+712
+00:38:50,784 --> 00:38:52,841
+Cerca de US$ 200.
+
+713
+00:38:52,875 --> 00:38:55,038
+Aposto
+que o passeador será US$ 20.
+
+714
+00:38:56,924 --> 00:38:58,324
+Todd,
+
+715
+00:38:59,393 --> 00:39:01,521
+já pensou em participar
+de um conselho?
+
+716
+00:39:02,300 --> 00:39:05,966
+Um CEO, celebridade
+ou um gestor de fundos.
+
+717
+00:39:06,000 --> 00:39:09,836
+Você disse isso, não é?
+O conselho precisa de um líder.
+
+718
+00:39:09,870 --> 00:39:13,543
+Alguém aclamado ou rico.
+
+719
+00:39:14,335 --> 00:39:16,866
+O sargento Todd Benson
+é um líder.
+
+720
+00:39:16,870 --> 00:39:20,065
+Onde ele pediu por lealdade
+é mais intenso que o Conselho,
+
+721
+00:39:20,069 --> 00:39:23,066
+e ele a conseguiu.
+E, aclamação?
+
+722
+00:39:23,100 --> 00:39:26,266
+Um veterano com Coração Púrpura
+e outras condecorações.
+
+723
+00:39:26,300 --> 00:39:27,700
+Você não mencionou algo.
+
+724
+00:39:27,734 --> 00:39:30,166
+Respeitamos o seu serviço,
+sargento,
+
+725
+00:39:30,200 --> 00:39:32,859
+mas a categoria que Max pulou,
+convenientemente,
+
+726
+00:39:32,893 --> 00:39:34,591
+é a mais importante: dinheiro.
+
+727
+00:39:34,625 --> 00:39:36,791
+Ter, doar, angariar.
+
+728
+00:39:36,825 --> 00:39:39,216
+É isso
+o que um membro de conselho faz.
+
+729
+00:39:39,250 --> 00:39:41,666
+E é por isso
+que vocês precisam do Todd.
+
+730
+00:39:41,700 --> 00:39:44,303
+Todd fez algo
+que vocês achariam impossível.
+
+731
+00:39:44,337 --> 00:39:46,041
+Ele me fez mudar de ideia.
+
+732
+00:39:46,500 --> 00:39:49,141
+E ele fez isso usando
+a visão que se ganha
+
+733
+00:39:49,175 --> 00:39:52,913
+ao passar toda a vida
+fazendo mais com menos.
+
+734
+00:39:53,450 --> 00:39:55,412
+A diversidade econômica
+pode levar
+
+735
+00:39:55,446 --> 00:39:58,651
+soluções inovadoras
+aos problemas monetários.
+
+736
+00:39:58,685 --> 00:40:00,666
+Dinheiro,
+é disso que precisamos.
+
+737
+00:40:00,700 --> 00:40:05,325
+Por isso precisamos de alguém
+que sabe o que é não tê-lo.
+
+738
+00:40:05,359 --> 00:40:08,655
+Como saberemos se ele não votará
+no que você pedir?
+
+739
+00:40:09,429 --> 00:40:11,766
+Ele? Não.
+Ele votará com vocês.
+
+740
+00:40:11,800 --> 00:40:14,866
+Mais do que comigo.
+Mal concordamos em...
+
+741
+00:40:14,900 --> 00:40:16,591
+Literalmente
+qualquer coisa.
+
+742
+00:40:16,625 --> 00:40:19,141
+Mas concordamos em algo:
+
+743
+00:40:19,175 --> 00:40:22,015
+ambos queremos ajudar.
+
+744
+00:40:22,550 --> 00:40:25,111
+Ele ajuda de um jeito
+diferente de nós,
+
+745
+00:40:25,145 --> 00:40:29,299
+parecido com as pessoas
+que New Amsterdam tenta servir.
+
+746
+00:40:34,454 --> 00:40:36,766
+Antes de votarmos
+sobre Lamont Hallstrom,
+
+747
+00:40:36,800 --> 00:40:38,557
+temos a nomeação
+de Todd Benson
+
+748
+00:40:38,591 --> 00:40:41,016
+ao conselho
+do Hospital New Amsterdam.
+
+749
+00:40:41,050 --> 00:40:42,450
+Alguém apoia?
+
+750
+00:40:45,900 --> 00:40:48,381
+A proposta prossegue.
+Todos a favor?
+
+751
+00:40:55,430 --> 00:40:56,830
+Aprovado pelos votos.
+
+752
+00:40:56,864 --> 00:41:00,279
+Bem-vindo, sargento Todd Benson,
+o novo membro do conselho.
+
+753
+00:41:02,291 --> 00:41:03,691
+Parabéns.
+
+754
+00:41:03,725 --> 00:41:06,716
+E ser membro é
+um cargo sem remuneração,
+
+755
+00:41:06,750 --> 00:41:09,141
+então acho que pode haver
+uma exceção.
+
+756
+00:41:09,175 --> 00:41:12,066
+Salário igual ao que seria
+como meu assistente.
+
+757
+00:41:12,100 --> 00:41:14,376
+Alguém apoia?
+
+758
+00:41:18,115 --> 00:41:19,784
+Isso aí.
+
+759
+00:41:22,000 --> 00:41:25,388
+<i>Evie, antes de você falar,
+tenho que me desculpar.</i>
+
+760
+00:41:25,422 --> 00:41:27,816
+<i>É que estou com saudades.</i>
+
+761
+00:41:27,850 --> 00:41:29,392
+Também estou.
+
+762
+00:41:31,281 --> 00:41:34,566
+E tenho muita sorte
+de estar casando com um homem
+
+763
+00:41:34,600 --> 00:41:37,923
+que está animado
+em planejar nosso casamento
+
+764
+00:41:38,713 --> 00:41:40,113
+enquanto estou aqui.
+
+765
+00:41:41,000 --> 00:41:42,505
+É que...
+
+766
+00:41:44,375 --> 00:41:46,236
+Eu me sinto tão distante...
+
+767
+00:41:46,827 --> 00:41:48,227
+Sabe?
+
+768
+00:41:49,025 --> 00:41:51,297
+<i>Deve ter algo
+que possamos fazer.</i>
+
+769
+00:41:55,250 --> 00:41:56,650
+Só um minuto.
+
+770
+00:42:03,775 --> 00:42:06,025
+O bufê precisa de uma decisão
+até amanhã.
+
+771
+00:42:06,200 --> 00:42:09,200
+<b>Frank | chere | BrunoE</b>
+
+772
+00:42:09,500 --> 00:42:12,500
+<b>Vinícius | vikyor1 | alineana</b>
+
+773
+00:42:13,000 --> 00:42:16,000
+<b>Legende conosco!
+www.maniacsubs.ga</b>
+
