@@ -20,7 +20,7 @@ LuColorada | He2</b>
 
 5
 00:00:07,410 --> 00:00:08,928
-<b>Revis„o:
+<b>Revis√£o:
 Time Pink</b>
 
 6
@@ -30,17 +30,17 @@ Quality Is Everything</b>
 
 7
 00:00:11,276 --> 00:00:14,844
-<i>Acredite, essa n„o È a histÛria
+<i>Acredite, essa n√£o √© a hist√≥ria
 que eu esperava contar,</i>
 
 8
 00:00:16,240 --> 00:00:18,056
-<i>mas vocÍ sabe
-t„o bem quanto eu</i>
+<i>mas voc√™ sabe
+t√£o bem quanto eu</i>
 
 9
 00:00:18,058 --> 00:00:19,458
-<i>que histÛrias,</i>
+<i>que hist√≥rias,</i>
 
 10
 00:00:19,459 --> 00:00:21,861
@@ -49,7 +49,7 @@ as pessoas que as contam,</i>
 
 11
 00:00:21,862 --> 00:00:24,002
-<i>nem sempre s„o o que parece.</i>
+<i>nem sempre s√£o o que parece.</i>
 
 12
 00:00:59,524 --> 00:01:00,974
@@ -58,44 +58,44 @@ Beth.</i>
 
 13
 00:01:07,232 --> 00:01:09,396
-<i>M„e! Acorde! N„o, m„e!</i>
+<i>M√£e! Acorde! N√£o, m√£e!</i>
 
 14
 00:01:11,953 --> 00:01:14,847
-<i>O Batman est· aqui.
+<i>O Batman est√° aqui.
 Ele vai nos salvar.</i>
 
 15
 00:01:26,526 --> 00:01:29,378
-<i>Batman, aonde est· indo?
+<i>Batman, aonde est√° indo?
 Espere!</i>
 
 16
 00:01:29,381 --> 00:01:30,946
-<i>VocÍ vai
+<i>Voc√™ vai
 nos deixar morrer!</i>
 
 17
 00:01:30,948 --> 00:01:32,348
-<i>Beth, pegue a minha m„o!</i>
+<i>Beth, pegue a minha m√£o!</i>
 
 18
 00:01:33,376 --> 00:01:35,170
-<i>Pegue a minha m„o!</i>
+<i>Pegue a minha m√£o!</i>
 
 19
 00:01:35,173 --> 00:01:39,671
 <i>- Kate!
-- M„e! Beth! N„o!</i>
+- M√£e! Beth! N√£o!</i>
 
 20
 00:01:53,830 --> 00:01:56,727
 - Devagar demais.
-- VocÍ cobriu o maldito buraco.
+- Voc√™ cobriu o maldito buraco.
 
 21
 00:01:58,900 --> 00:02:00,300
-E vocÍ achou um caminho,
+E voc√™ achou um caminho,
 
 22
 00:02:00,301 --> 00:02:01,701
@@ -103,20 +103,20 @@ seu caminho.
 
 23
 00:02:01,702 --> 00:02:03,102
-Amanh„
+Amanh√£
 
 24
 00:02:03,103 --> 00:02:04,503
-ache mais r·pido.
+ache mais r√°pido.
 
 25
 00:02:10,495 --> 00:02:13,963
-<i>Acho que tenho que comeÁar
+<i>Acho que tenho que come√ßar
 aqui em Gotham.</i>
 
 26
 00:02:13,965 --> 00:02:17,008
-<i>H· trÍs anos quando
+<i>H√° tr√™s anos quando
 o Batman sumiu misteriosamente,</i>
 
 27
@@ -130,7 +130,7 @@ o Batman sumiu misteriosamente,</i>
 29
 00:02:20,103 --> 00:02:21,860
 <i>outros acham
-que ele est· morto.</i>
+que ele est√° morto.</i>
 
 30
 00:02:21,862 --> 00:02:24,569
@@ -139,38 +139,38 @@ Gotham pelo mesmo motivo</i>
 
 31
 00:02:24,572 --> 00:02:26,613
-<i>ele abandonou minha famÌlia.</i>
+<i>ele abandonou minha fam√≠lia.</i>
 
 32
 00:02:26,768 --> 00:02:28,926
-<i>Porque n„o se importava.</i>
+<i>Porque n√£o se importava.</i>
 
 33
 00:02:54,912 --> 00:02:57,437
-Qu„o fofa È essa crianÁa?
+Qu√£o fofa √© essa crian√ßa?
 
 34
 00:02:57,439 --> 00:02:59,660
-Mary, est· me envergonhando.
+Mary, est√° me envergonhando.
 
 35
 00:03:07,124 --> 00:03:08,948
-LicenÁa, senhora.
+Licen√ßa, senhora.
 
 36
 00:03:08,950 --> 00:03:12,013
-Isso n„o est· abaixo
-de vocÍ, comandante?
+Isso n√£o est√° abaixo
+de voc√™, comandante?
 
 37
 00:03:12,016 --> 00:03:16,340
-… a ˙nica desculpa
+√â a √∫nica desculpa
 que tenho para ver minha esposa.
 
 38
 00:03:17,108 --> 00:03:19,108
-<i>Temendo que a polÌcia
-n„o conseguisse</i>
+<i>Temendo que a pol√≠cia
+n√£o conseguisse</i>
 
 39
 00:03:19,109 --> 00:03:20,943
@@ -180,7 +180,7 @@ sem o Batman,</i>
 40
 00:03:20,944 --> 00:03:22,790
 <i>meu pai iniciou
-a Corvos SeguranÁa,</i>
+a Corvos Seguran√ßa,</i>
 
 41
 00:03:22,791 --> 00:03:24,625
@@ -190,7 +190,7 @@ que protege as pessoas</i>
 42
 00:03:24,626 --> 00:03:27,276
 <i>que o Cavaleiro das Trevas
-deixou para tr·s.</i>
+deixou para tr√°s.</i>
 
 43
 00:03:27,278 --> 00:03:29,946
@@ -203,11 +203,11 @@ Como estamos na frente?
 
 45
 00:03:31,379 --> 00:03:32,921
-O perÌmetro parece bom.
+O per√≠metro parece bom.
 
 46
 00:03:32,924 --> 00:03:34,766
-Como est· aÌ, Vasquez?
+Como est√° a√≠, Vasquez?
 
 47
 00:03:34,768 --> 00:03:36,748
@@ -225,8 +225,8 @@ Quanto?
 
 50
 00:03:42,664 --> 00:03:45,567
-10 mil dÛlares o prato
-sÛ para ver uma luz apagar.
+10 mil d√≥lares o prato
+s√≥ para ver uma luz apagar.
 
 51
 00:03:45,755 --> 00:03:47,155
@@ -234,7 +234,7 @@ Deve ser legal.
 
 52
 00:03:52,119 --> 00:03:54,855
-LideranÁa operacional
+Lideran√ßa operacional
 no seu melhor, Agente Moore.
 
 53
@@ -243,25 +243,25 @@ Acabamos por hoje.
 
 54
 00:03:56,319 --> 00:03:57,719
-O prazer È meu, senhor.
+O prazer √© meu, senhor.
 
 55
 00:03:58,775 --> 00:04:02,477
 Senhoras e senhores,
-hoje È sobre a realidade.
+hoje √© sobre a realidade.
 
 56
 00:04:02,480 --> 00:04:04,963
-Batman desistiu de nÛs.
+Batman desistiu de n√≥s.
 
 57
 00:04:04,965 --> 00:04:07,057
-J· se passaram 3 anos,
+J√° se passaram 3 anos,
 Gotham.
 
 58
 00:04:07,059 --> 00:04:09,559
-O morcego n„o vai voltar.
+O morcego n√£o vai voltar.
 
 59
 00:04:09,561 --> 00:04:12,007
@@ -270,12 +270,12 @@ a dizer adeus
 
 60
 00:04:12,010 --> 00:04:13,971
-‡ tradiÁ„o obsoleta
+√† tradi√ß√£o obsoleta
 de Gotham.
 
 61
 00:04:13,974 --> 00:04:16,845
-… hora de desligar o sinal.
+√â hora de desligar o sinal.
 
 62
 00:04:23,819 --> 00:04:26,646
@@ -289,7 +289,7 @@ Agora eu o desligarei?
 64
 00:04:28,363 --> 00:04:33,118
 Juntos os convido para apreciar
-o bat-sinal uma ˙ltima vez.
+o bat-sinal uma √∫ltima vez.
 
 65
 00:04:35,873 --> 00:04:37,273
@@ -297,12 +297,12 @@ Comandante Kane,
 
 66
 00:04:37,274 --> 00:04:39,997
-<i>- perdi vis„o da cidade.</i>
-- E a transmiss„o do telhado?
+<i>- perdi vis√£o da cidade.</i>
+- E a transmiss√£o do telhado?
 
 67
 00:04:39,998 --> 00:04:41,398
-Senhor, estamos ‡s cegas.
+Senhor, estamos √†s cegas.
 
 68
 00:04:41,399 --> 00:04:42,799
@@ -314,7 +314,7 @@ Vigiem tudo.
 
 70
 00:04:45,836 --> 00:04:47,618
-ComeÁaremos a contagem,
+Come√ßaremos a contagem,
 policial.
 
 71
@@ -343,7 +343,7 @@ cinco, quatro...
 
 77
 00:04:58,634 --> 00:05:01,927
-trÍs, dois, um.
+tr√™s, dois, um.
 
 78
 00:05:08,737 --> 00:05:10,586
@@ -352,48 +352,48 @@ rapazes.
 
 79
 00:05:11,188 --> 00:05:12,588
-O que est· acontecendo?
+O que est√° acontecendo?
 
 80
 00:05:18,377 --> 00:05:20,162
-<i>"Ol·." disse Alice.</i>
+<i>"Ol√°." disse Alice.</i>
 
 81
 00:05:20,165 --> 00:05:22,956
 <i>Devemos acreditar
-que os Corvos nos proteger„o?</i>
+que os Corvos nos proteger√£o?</i>
 
 82
 00:05:23,619 --> 00:05:25,786
 <i>Acredito em 6 coisas
-impossÌveis</i>
+imposs√≠veis</i>
 
 83
 00:05:25,787 --> 00:05:27,411
-antes do cafÈ da manh„.
+antes do caf√© da manh√£.
 
 84
 00:05:27,414 --> 00:05:30,328
-<i>Sentem-se seguros atr·s
-dessas grades de seguranÁa?</i>
+<i>Sentem-se seguros atr√°s
+dessas grades de seguran√ßa?</i>
 
 85
 00:05:31,281 --> 00:05:33,913
-Pois um de vocÍs
-n„o voltar· para casa hoje.
+Pois um de voc√™s
+n√£o voltar√° para casa hoje.
 
 86
 00:05:33,914 --> 00:05:39,131
-Os Corvos n„o s„o os herÛis
-dessa histÛria, Gotham.
+Os Corvos n√£o s√£o os her√≥is
+dessa hist√≥ria, Gotham.
 
 87
 00:05:39,134 --> 00:05:41,464
-Batman n„o pÙde salv·-los
+Batman n√£o p√¥de salv√°-los
 
 88
 00:05:42,564 --> 00:05:45,833
-e nem eles ir„o.
+e nem eles ir√£o.
 
 89
 00:05:49,894 --> 00:05:51,653
@@ -406,11 +406,11 @@ Vamos, vamos.
 
 91
 00:05:53,330 --> 00:05:54,730
-M„e?
+M√£e?
 
 92
 00:05:54,731 --> 00:05:56,131
-Jacob, o que est· havendo?
+Jacob, o que est√° havendo?
 
 93
 00:05:56,132 --> 00:05:57,532
@@ -431,7 +431,7 @@ Pegamos ela.
 
 97
 00:07:14,394 --> 00:07:15,917
-Telefone para vocÍ.
+Telefone para voc√™.
 
 98
 00:07:16,124 --> 00:07:17,965
@@ -439,22 +439,22 @@ Uma garota que fala muito.
 
 99
 00:07:26,386 --> 00:07:28,806
-- AlÙ?
-<i>- Kate, È a Mary.</i>
+- Al√¥?
+<i>- Kate, √© a Mary.</i>
 
 100
 00:07:29,862 --> 00:07:32,212
-- Sua meia irm„.
-- Mary, nossos pais est„o
+- Sua meia irm√£.
+- Mary, nossos pais est√£o
 
 101
 00:07:32,213 --> 00:07:34,844
 casados por mais de 10 anos,
-eu sei quem vocÍ È.
+eu sei quem voc√™ √©.
 
 102
 00:07:34,845 --> 00:07:37,717
-Certo. Tem que jurar n„o contar
+Certo. Tem que jurar n√£o contar
 o que te digo.
 
 103
@@ -463,13 +463,13 @@ Mary, o que aconteceu?
 
 104
 00:07:40,570 --> 00:07:43,756
-Sophie est· desaparecida.
-<i>Acham que alguÈm a sequestrou.</i>
+Sophie est√° desaparecida.
+<i>Acham que algu√©m a sequestrou.</i>
 
 105
 00:07:44,488 --> 00:07:47,447
 <i>Eu achei
-que vocÍ deveria saber.</i>
+que voc√™ deveria saber.</i>
 
 106
 00:07:59,079 --> 00:08:01,308
@@ -479,7 +479,7 @@ treinando</i>
 107
 00:08:01,309 --> 00:08:03,589
 <i>com especialistas em combate
-e sobrevivÍncia</i>
+e sobreviv√™ncia</i>
 
 108
 00:08:03,590 --> 00:08:05,311
@@ -488,12 +488,12 @@ aos Corvos.</i>
 
 109
 00:08:05,312 --> 00:08:07,794
-<i>O sumiÁo de Sophie
+<i>O sumi√ßo de Sophie
 me fez voltar para casa.</i>
 
 110
 00:08:07,795 --> 00:08:10,945
-<i>Eu tinha que ach·-la,
+<i>Eu tinha que ach√°-la,
 mas antes tinha que convencer</i>
 
 111
@@ -504,7 +504,7 @@ estava pronta.</i>
 112
 00:08:12,516 --> 00:08:15,639
 <i>Os Corvos representam ordem,
-seguranÁa, proteÁ„o.</i>
+seguran√ßa, prote√ß√£o.</i>
 
 113
 00:08:15,640 --> 00:08:18,577
@@ -514,12 +514,12 @@ dos velhos tempos
 114
 00:08:18,578 --> 00:08:20,382
 quando gangues
-n„o eram pegas.
+n√£o eram pegas.
 
 115
 00:08:20,383 --> 00:08:23,006
 Espalhavam medo dizendo,
-"Olhe para nÛs."
+"Olhe para n√≥s."
 
 116
 00:08:23,426 --> 00:08:26,315
@@ -528,20 +528,20 @@ sua esposa, seu filho."
 
 117
 00:08:27,166 --> 00:08:28,606
-Como estamos de vigil‚ncia?
+Como estamos de vigil√¢ncia?
 
 118
 00:08:28,607 --> 00:08:30,307
-Temo que n„o exista, senhor.
+Temo que n√£o exista, senhor.
 
 119
 00:08:30,308 --> 00:08:32,649
-Se fosse com um de vocÍs,
+Se fosse com um de voc√™s,
 a Agente Moore
 
 120
 00:08:32,650 --> 00:08:35,309
-nem dormiria atÈ
+nem dormiria at√©
 que fossem encontrados.
 
 121
@@ -550,7 +550,7 @@ Faremos o mesmo por ela.
 
 122
 00:08:38,244 --> 00:08:39,657
-Vamos trazÍ-la para casa.
+Vamos traz√™-la para casa.
 
 123
 00:08:50,059 --> 00:08:52,678
@@ -559,11 +559,11 @@ Vamos trazÍ-la para casa.
 
 124
 00:08:56,561 --> 00:08:57,982
-Venha c·, menina.
+Venha c√°, menina.
 
 125
 00:09:06,193 --> 00:09:09,340
-Eu n„o botei creme,
+Eu n√£o botei creme,
 mas, por favor, me diga
 
 126
@@ -578,33 +578,33 @@ me ligado.
 
 128
 00:09:13,553 --> 00:09:15,560
-- Vamos ach·-la.
+- Vamos ach√°-la.
 - Deixe-me ajudar.
 
 129
 00:09:15,561 --> 00:09:17,052
-Tatuagem no pescoÁo.
-… nova.
+Tatuagem no pesco√ßo.
+√â nova.
 
 130
 00:09:17,053 --> 00:09:19,731
 Estou pronta para vir
-e trabalhar para vocÍ.
+e trabalhar para voc√™.
 
 131
 00:09:19,732 --> 00:09:21,707
 Senhor, o prefeito
-est· na linha dois.
+est√° na linha dois.
 
 132
 00:09:21,708 --> 00:09:24,010
-Est· falando em cancelar
+Est√° falando em cancelar
 o filme no parque.
 
 133
 00:09:24,500 --> 00:09:26,095
 Diga a ele
-que j· chego l·.
+que j√° chego l√°.
 
 134
 00:09:29,297 --> 00:09:30,821
@@ -612,8 +612,8 @@ Sabe quem a sequestrou?
 
 135
 00:09:30,822 --> 00:09:33,700
-ManÌacos cruÈis e covardes
-que n„o tem chance
+Man√≠acos cru√©is e covardes
+que n√£o tem chance
 
 136
 00:09:33,701 --> 00:09:36,916
@@ -623,17 +623,17 @@ da Marinha e Boinas Verdes.
 137
 00:09:36,917 --> 00:09:39,672
 - E eu?
-- VocÍ parece seu primo.
+- Voc√™ parece seu primo.
 
 138
 00:09:39,673 --> 00:09:41,720
-… a vers„o feminina
+√â a vers√£o feminina
 do Bruce Wayne,
 
 139
 00:09:41,721 --> 00:09:43,639
 mas diferente dele,
-vocÍ tem chance
+voc√™ tem chance
 
 140
 00:09:43,640 --> 00:09:45,296
@@ -642,12 +642,12 @@ com sua vida.
 
 141
 00:09:45,297 --> 00:09:47,791
-Bruce foi o ˙nico
+Bruce foi o √∫nico
 que realmente me ajudou
 
 142
 00:09:47,792 --> 00:09:49,626
-depois que a m„e
+depois que a m√£e
 e Beth morreram.
 
 143
@@ -657,12 +657,12 @@ a acharem a Sophie.
 
 144
 00:09:53,204 --> 00:09:56,275
-… bom te ver, mas tenho
+√â bom te ver, mas tenho
 que atender a esse telefonema.
 
 145
 00:10:06,587 --> 00:10:10,254
-Que tal n„o sermos expulsas
+Que tal n√£o sermos expulsas
 uma semana antes da formatura?
 
 146
@@ -672,7 +672,7 @@ Sobre isso.
 147
 00:10:12,874 --> 00:10:16,391
 Que tal, depois de nos formarmos,
-eu te levar ‡s ilhas gregas
+eu te levar √†s ilhas gregas
 
 148
 00:10:16,392 --> 00:10:18,517
@@ -694,7 +694,7 @@ Obviamente.
 152
 00:10:28,983 --> 00:10:31,649
 Com cabana,
-coisas que vocÍ j· viu.
+coisas que voc√™ j√° viu.
 
 153
 00:10:32,983 --> 00:10:35,149
@@ -702,7 +702,7 @@ Danificar propriedade escolar.
 
 154
 00:10:36,716 --> 00:10:40,264
-Por que n„o?
+Por que n√£o?
 Me fez quebrar todas as regras.
 
 155
@@ -713,22 +713,22 @@ Corajoso.
 156
 00:10:57,488 --> 00:11:00,643
 Cadete Katherine Kane,
-existe algo que vocÍ quer dizer
+existe algo que voc√™ quer dizer
 
 157
 00:11:00,644 --> 00:11:03,059
-- ao seu esquadr„o?
-- N„o que eu saiba, senhor!
+- ao seu esquadr√£o?
+- N√£o que eu saiba, senhor!
 
 158
 00:11:03,060 --> 00:11:06,225
-Talvez vocÍ n„o conheÁa
-o cÛdigo de conduta da Academia
+Talvez voc√™ n√£o conhe√ßa
+o c√≥digo de conduta da Academia
 
 159
 00:11:07,082 --> 00:11:10,505
-<i>Tinha que encontr·-la,
-ent„o precisei ir ao ˙nico lugar</i>
+<i>Tinha que encontr√°-la,
+ent√£o precisei ir ao √∫nico lugar</i>
 
 160
 00:11:10,506 --> 00:11:12,991
@@ -736,7 +736,7 @@ ent„o precisei ir ao ˙nico lugar</i>
 
 161
 00:11:12,992 --> 00:11:14,539
-<i>Ao coraÁ„o de Gotham.</i>
+<i>Ao cora√ß√£o de Gotham.</i>
 
 162
 00:11:14,540 --> 00:11:17,563
@@ -749,21 +749,21 @@ FIQUE LONGE
 
 164
 00:11:29,594 --> 00:11:30,978
-WAYNE IND⁄STRIAS
+WAYNE IND√öSTRIAS
 
 165
 00:11:54,602 --> 00:11:56,729
-<i>Bruce n„o est·
-no escritÛrio. Venha.</i>
+<i>Bruce n√£o est√°
+no escrit√≥rio. Venha.</i>
 
 166
 00:11:56,730 --> 00:11:58,729
-<i>Kate, n„o devÌamos
+<i>Kate, n√£o dev√≠amos
 estar aqui.</i>
 
 167
 00:12:08,818 --> 00:12:12,168
-<i>O que È isso? Por que Bruce
+<i>O que √© isso? Por que Bruce
 tem o colar de menina?</i>
 
 168
@@ -772,7 +772,7 @@ tem o colar de menina?</i>
 
 169
 00:12:16,642 --> 00:12:18,995
-<i>N„o acho que devÌamos
+<i>N√£o acho que dev√≠amos
 mexer nisso.</i>
 
 170
@@ -786,11 +786,11 @@ Saia!
 
 172
 00:12:30,014 --> 00:12:31,514
-SeguranÁa Wayne.
+Seguran√ßa Wayne.
 
 173
 00:12:32,014 --> 00:12:35,214
-N„o vim dizer como fazer
+N√£o vim dizer como fazer
 seu trabalho, senhor...
 
 174
@@ -801,11 +801,11 @@ seu trabalho, senhor...
 175
 00:12:37,115 --> 00:12:39,064
 Mas seu chefe
-È meu primo.
+√© meu primo.
 
 176
 00:12:39,714 --> 00:12:42,381
-Acha que È a primeira
+Acha que √© a primeira
 aparentada ao Bruce Wayne?
 
 177
@@ -820,13 +820,13 @@ Praticamente cresci aqui
 
 179
 00:12:46,190 --> 00:12:49,789
-e Bruce era como meu irm„o
-mais divertido e irrespons·vel.
+e Bruce era como meu irm√£o
+mais divertido e irrespons√°vel.
 
 180
 00:12:49,790 --> 00:12:52,439
 Certo.
-Quando È o anivers·rio dele?
+Quando √© o anivers√°rio dele?
 
 181
 00:12:52,440 --> 00:12:54,114
@@ -835,7 +835,7 @@ Quando È o anivers·rio dele?
 182
 00:12:54,914 --> 00:12:57,289
 - Nome do meio?
-- Pegadinha. Ele n„o tem.
+- Pegadinha. Ele n√£o tem.
 
 183
 00:12:57,290 --> 00:12:58,690
@@ -843,48 +843,48 @@ Sopa favorita?
 
 184
 00:12:58,914 --> 00:13:00,764
-… estranho
-que vocÍ saiba isso?
+√â estranho
+que voc√™ saiba isso?
 
 185
 00:13:02,364 --> 00:13:04,039
-Se vocÍ È a prima
+Se voc√™ √© a prima
 do Bruce,
 
 186
 00:13:04,040 --> 00:13:07,314
-saberia que ninguÈm sabe dele
-h· quase trÍs anos.
+saberia que ningu√©m sabe dele
+h√° quase tr√™s anos.
 
 187
 00:13:16,414 --> 00:13:18,239
-AlÙ.
+Al√¥.
 Luke Fox aqui da Wayne.
 
 188
 00:13:18,240 --> 00:13:19,914
 Tenho outra invasora
-para vocÍ.
+para voc√™.
 
 189
 00:13:22,564 --> 00:13:25,014
 Bruce me deu
-um Ûtimo conselho uma vez.
+um √≥timo conselho uma vez.
 
 190
 00:13:25,714 --> 00:13:27,864
 Ser a pessoa que precisava
-na inf‚ncia.
+na inf√¢ncia.
 
 191
 00:13:27,865 --> 00:13:29,514
-”timo.
-A polÌcia est· vindo.
+√ìtimo.
+A pol√≠cia est√° vindo.
 
 192
 00:13:29,515 --> 00:13:32,714
 Acontece que a pessoa que eu
-precisava ser na inf‚ncia,
+precisava ser na inf√¢ncia,
 
 193
 00:13:32,715 --> 00:13:34,115
@@ -897,12 +897,12 @@ agora.
 
 195
 00:13:42,764 --> 00:13:44,614
-A senha ainda È "Alfred"?
+A senha ainda √© "Alfred"?
 
 196
 00:13:45,764 --> 00:13:49,164
-- Talvez devesse mud·-la.
-- Espere. VocÍ n„o pode...
+- Talvez devesse mud√°-la.
+- Espere. Voc√™ n√£o pode...
 
 197
 00:13:50,264 --> 00:13:52,714
@@ -911,8 +911,8 @@ do computador, por favor?
 
 198
 00:13:54,214 --> 00:13:57,914
-- O que est· fazendo?
-- O que os Corvos n„o conseguem.
+- O que est√° fazendo?
+- O que os Corvos n√£o conseguem.
 
 199
 00:13:57,915 --> 00:13:59,664
@@ -920,7 +920,7 @@ Tire essa coisa de mim.
 
 200
 00:14:04,564 --> 00:14:05,964
-VocÍ n„o pode sÛ...
+Voc√™ n√£o pode s√≥...
 
 201
 00:14:10,314 --> 00:14:11,864
@@ -941,11 +941,11 @@ Pai, acho que encontrei algo.
 205
 00:14:23,193 --> 00:14:25,643
 - Surpresa!
-- EST¡VAMOS COM SAUDADES, KATE!
+- EST√ÅVAMOS COM SAUDADES, KATE!
 
 206
 00:14:26,393 --> 00:14:28,468
-Por que n„o nos fez
+Por que n√£o nos fez
 esperar?
 
 207
@@ -955,11 +955,11 @@ esperar?
 
 208
 00:14:30,993 --> 00:14:32,768
-CadÍ o meu pai?
+Cad√™ o meu pai?
 
 209
 00:14:32,769 --> 00:14:37,443
-N„o faÁo ideia, porque vocÍ e eu
+N√£o fa√ßo ideia, porque voc√™ e eu
 mandamos aqui agora. Beleza?
 
 210
@@ -969,12 +969,12 @@ Alice querendo matar todo mundo
 
 211
 00:14:41,094 --> 00:14:43,983
-e a primeira coisa que penso È:
+e a primeira coisa que penso √©:
 "Meu Deus, que chato.
 
 212
 00:14:43,984 --> 00:14:46,543
-N„o lerei aos meus filhos
+N√£o lerei aos meus filhos
 o livro da Alice."
 
 213
@@ -984,12 +984,12 @@ Mas eu fiquei tipo:
 
 214
 00:14:49,623 --> 00:14:52,068
-com medo, È assim
+com medo, √© assim
 que os terroristas vencem."
 
 215
 00:14:52,069 --> 00:14:53,493
-Por que vocÍ me ligou?
+Por que voc√™ me ligou?
 
 216
 00:14:53,494 --> 00:14:55,568
@@ -999,11 +999,11 @@ umas fotos suas
 217
 00:14:55,569 --> 00:14:57,518
 - quando emprestava...
-- N„o ligo.
+- N√£o ligo.
 
 218
 00:14:57,519 --> 00:14:59,068
-N„o conheÁo seu drama,
+N√£o conhe√ßo seu drama,
 
 219
 00:14:59,069 --> 00:15:01,293
@@ -1021,36 +1021,36 @@ Bem-vinda de volta, Katie.
 
 222
 00:15:06,193 --> 00:15:09,543
-Espero n„o se importar de ser
-o centro das atenÁıes hoje.
+Espero n√£o se importar de ser
+o centro das aten√ß√µes hoje.
 
 223
 00:15:09,544 --> 00:15:11,393
-N„o h· lugar melhor
+N√£o h√° lugar melhor
 para se estar.
 
 224
 00:15:11,394 --> 00:15:14,994
-Ent„o vamos postar fotos felizes
+Ent√£o vamos postar fotos felizes
 nas redes sociais.
 
 225
 00:15:14,995 --> 00:15:17,268
-Porque essa festa n„o tem
+Porque essa festa n√£o tem
 uma agenda?
 
 226
 00:15:17,269 --> 00:15:20,381
 Se nos sentirmos seguros,
-nossos clientes tambÈm sentir„o.
+nossos clientes tamb√©m sentir√£o.
 
 227
 00:15:20,382 --> 00:15:21,782
-O filme no parque È sexta
+O filme no parque √© sexta
 
 228
 00:15:21,783 --> 00:15:24,395
-e ser· o primeiro evento p˙blico
+e ser√° o primeiro evento p√∫blico
 aqui em 3 anos.
 
 229
@@ -1060,21 +1060,21 @@ gostaria de uma foto, Mary.
 
 230
 00:15:28,243 --> 00:15:29,693
-DÍ-nos licenÁa.
+D√™-nos licen√ßa.
 
 231
 00:15:38,843 --> 00:15:43,143
-"Eu nego a alegaÁ„o a seguir
+"Eu nego a alega√ß√£o a seguir
 de conduta homossexual."
 
 232
 00:15:43,144 --> 00:15:46,793
-Bl·, bl·, bl·.
-V· se ferrar.
+Bl√°, bl√°, bl√°.
+V√° se ferrar.
 
 233
 00:15:47,943 --> 00:15:49,493
-Acho que È isso ent„o.
+Acho que √© isso ent√£o.
 
 234
 00:15:49,494 --> 00:15:51,293
@@ -1084,11 +1084,11 @@ de queimarmos isso
 235
 00:15:51,294 --> 00:15:53,943
 e espalharmos as cinzas
-pelo Mediterr‚neo?
+pelo Mediterr√¢neo?
 
 236
 00:15:58,793 --> 00:16:00,243
-N„o posso.
+N√£o posso.
 
 237
 00:16:01,243 --> 00:16:02,643
@@ -1096,7 +1096,7 @@ Vou ficar.
 
 238
 00:16:06,193 --> 00:16:07,793
-VocÍ assinou isso.
+Voc√™ assinou isso.
 
 239
 00:16:09,243 --> 00:16:11,393
@@ -1105,7 +1105,7 @@ o que queriam ouvir.
 
 240
 00:16:12,143 --> 00:16:13,543
-VocÍ mentiu.
+Voc√™ mentiu.
 
 241
 00:16:13,544 --> 00:16:15,018
@@ -1114,21 +1114,21 @@ Preciso dessa escola.
 242
 00:16:15,019 --> 00:16:17,843
 - Quero estar aqui.
-- Mas eles n„o querem vocÍ.
+- Mas eles n√£o querem voc√™.
 
 243
 00:16:18,093 --> 00:16:21,993
-Infelizmente, n„o posso me dar
+Infelizmente, n√£o posso me dar
 ao luxo de me ofender com isso.
 
 244
 00:16:26,543 --> 00:16:29,643
-E talvez seja melhor se vocÍ
+E talvez seja melhor se voc√™
 ficar longe de mim agora.
 
 245
 00:16:35,993 --> 00:16:37,943
-Eu sei que vocÍ me ama.
+Eu sei que voc√™ me ama.
 
 246
 00:16:39,893 --> 00:16:41,793
@@ -1142,7 +1142,7 @@ da sua vida.
 
 248
 00:16:46,193 --> 00:16:47,843
-VocÍ est· errada, Kate.
+Voc√™ est√° errada, Kate.
 
 249
 00:16:51,193 --> 00:16:52,743
@@ -1158,25 +1158,25 @@ Onde conseguiu isso?
 
 252
 00:17:09,591 --> 00:17:12,538
-As c‚meras do Wayne
-n„o est· na rede dos Corvos.
+As c√¢meras do Wayne
+n√£o est√° na rede dos Corvos.
 
 253
 00:17:12,539 --> 00:17:13,995
-Wayne est· extinto.
+Wayne est√° extinto.
 
 254
 00:17:13,996 --> 00:17:17,016
 Reconhecimento facial
-n„o vai ajudar nesse caso.
+n√£o vai ajudar nesse caso.
 
 255
 00:17:17,017 --> 00:17:18,519
-Est„o usando m·scaras.
+Est√£o usando m√°scaras.
 
 256
 00:17:21,787 --> 00:17:24,255
-Espere. O que est· escrito
+Espere. O que est√° escrito
 nesse remo?
 
 257
@@ -1186,7 +1186,7 @@ nesse remo?
 
 258
 00:17:31,203 --> 00:17:34,314
-"N„o È para a crianÁa pura
+"N√£o √© para a crian√ßa pura
 e bem comportada."
 
 259
@@ -1201,8 +1201,8 @@ assustador deles.
 
 261
 00:17:39,191 --> 00:17:41,648
-Beth e eu costum·vamos invadir
-com a t·bua ouija
+Beth e eu costum√°vamos invadir
+com a t√°bua ouija
 
 262
 00:17:41,649 --> 00:17:43,049
@@ -1210,8 +1210,8 @@ e assustarmos uma a outra.
 
 263
 00:17:43,050 --> 00:17:45,300
-- Est„o l·.
-- Taylor, pegue um satÈlite.
+- Est√£o l√°.
+- Taylor, pegue um sat√©lite.
 
 264
 00:17:45,301 --> 00:17:46,730
@@ -1246,7 +1246,7 @@ mandada embora,
 
 271
 00:19:54,655 --> 00:19:57,961
-mas agora vocÍ parece estar
+mas agora voc√™ parece estar
 aqui.
 
 272
@@ -1255,15 +1255,15 @@ Como me conhece?
 
 273
 00:20:14,206 --> 00:20:16,115
-Agora est· melhor.
+Agora est√° melhor.
 
 274
 00:20:18,651 --> 00:20:20,359
-Onde a Sophie est·?
+Onde a Sophie est√°?
 
 275
 00:20:20,360 --> 00:20:22,954
-Est· longe
+Est√° longe
 e bem a tempo,
 
 276
@@ -1277,12 +1277,12 @@ Garota esperta.
 
 278
 00:20:28,998 --> 00:20:31,918
-Se n„o quisesse uma audiÍncia,
+Se n√£o quisesse uma audi√™ncia,
 eu estaria morta.
 
 279
 00:20:32,721 --> 00:20:34,904
-Ent„o, o que vocÍ quer?
+Ent√£o, o que voc√™ quer?
 
 280
 00:20:34,905 --> 00:20:37,676
@@ -1291,13 +1291,13 @@ ao seu pai.
 
 281
 00:20:37,677 --> 00:20:40,766
-Acha que È o cavaleiro branco
+Acha que √© o cavaleiro branco
 de Gotham,
 
 282
 00:20:40,767 --> 00:20:43,167
-mas È um valent„o
-cujo prÛprio exÈrcito forÁa
+mas √© um valent√£o
+cujo pr√≥prio ex√©rcito for√ßa
 
 283
 00:20:43,168 --> 00:20:44,596
@@ -1310,7 +1310,7 @@ que o mundo saiba
 
 285
 00:20:46,558 --> 00:20:49,345
-que ele n„o me assusta.
+que ele n√£o me assusta.
 
 286
 00:20:50,975 --> 00:20:54,703
@@ -1318,12 +1318,12 @@ Quero tirar o poder dele.
 
 287
 00:20:54,704 --> 00:20:58,022
-Ent„o fique comigo
+Ent√£o fique comigo
 e deixe Sophie ir.
 
 288
 00:20:58,419 --> 00:21:02,956
-Querida. Isso È
+Querida. Isso √©
 muito triste, na verdade.
 
 289
@@ -1332,7 +1332,7 @@ Coitadinha.
 
 290
 00:21:07,471 --> 00:21:09,521
-VocÍ ainda n„o percebeu.
+Voc√™ ainda n√£o percebeu.
 
 291
 00:21:09,522 --> 00:21:11,165
@@ -1341,16 +1341,16 @@ Eu peguei a Sophie
 292
 00:21:11,166 --> 00:21:14,082
 porque ela vai chamar
-a atenÁ„o dele.
+a aten√ß√£o dele.
 
 293
 00:21:14,083 --> 00:21:17,237
-Seu pai n„o te quer, Kate.
+Seu pai n√£o te quer, Kate.
 
 294
 00:21:17,238 --> 00:21:19,732
 Ele te mandou embora
-e vocÍ apareceu
+e voc√™ apareceu
 
 295
 00:21:19,733 --> 00:21:21,561
@@ -1358,34 +1358,34 @@ sem o porte apropriado.
 
 296
 00:21:23,554 --> 00:21:25,705
-Pensei que vocÍ soubesse,
+Pensei que voc√™ soubesse,
 
 297
 00:21:26,608 --> 00:21:29,774
 mas, novamente,
-vocÍ tem estado t„o ocupada
+voc√™ tem estado t√£o ocupada
 
 298
 00:21:29,775 --> 00:21:32,085
-tentando convencÍ-lo
+tentando convenc√™-lo
 a te amar,
 
 299
 00:21:32,086 --> 00:21:36,097
-garota doce e patÈtica.
+garota doce e pat√©tica.
 
 300
 00:21:38,401 --> 00:21:43,115
-Sophie È a filha
+Sophie √© a filha
 que seu pai sempre quis.
 
 301
 00:21:43,826 --> 00:21:47,905
-VocÍ n„o, querida.
+Voc√™ n√£o, querida.
 
 302
 00:21:47,906 --> 00:21:49,567
-Quem diabos È vocÍ?
+Quem diabos √© voc√™?
 
 303
 00:21:50,370 --> 00:21:51,920
@@ -1393,7 +1393,7 @@ Certo.
 
 304
 00:21:52,321 --> 00:21:55,483
-Meu nome È Alice.
+Meu nome √© Alice.
 Como vai?
 
 305
@@ -1429,16 +1429,16 @@ Onde estou?
 
 312
 00:22:17,630 --> 00:22:20,678
-Oi, e n„o me mate.
+Oi, e n√£o me mate.
 
 313
 00:22:27,192 --> 00:22:28,644
-Que lugar È esse?
+Que lugar √© esse?
 
 314
 00:22:28,645 --> 00:22:33,223
-Esta È minha pequena
-e humilde clÌnica ilegal.
+Esta √© minha pequena
+e humilde cl√≠nica ilegal.
 
 315
 00:22:33,224 --> 00:22:35,467
@@ -1483,21 +1483,21 @@ Eu estava no meio do ponto.
 324
 00:22:54,650 --> 00:22:57,047
 - Como me achou?
-- AlguÈm te largou na porta.
+- Algu√©m te largou na porta.
 
 325
 00:22:57,048 --> 00:22:58,897
 Um dos meus caras
-trouxe vocÍ.
+trouxe voc√™.
 
 326
 00:22:58,898 --> 00:23:00,701
-VocÍs tem caras?
+Voc√™s tem caras?
 
 327
 00:23:01,904 --> 00:23:05,564
-Juro que isso comeÁou comigo
-oferecendo ·gua e curativos
+Juro que isso come√ßou comigo
+oferecendo √°gua e curativos
 
 328
 00:23:05,565 --> 00:23:07,054
@@ -1520,8 +1520,8 @@ uma pessoa ruim.
 
 332
 00:23:12,940 --> 00:23:16,432
-N„o faz.
-Na verdade, faz de vocÍ
+N√£o faz.
+Na verdade, faz de voc√™
 
 333
 00:23:16,433 --> 00:23:18,140
@@ -1549,12 +1549,12 @@ Sim.
 338
 00:23:31,438 --> 00:23:33,726
 <i>Eu estava certa.
-Alice estava l·,</i>
+Alice estava l√°,</i>
 
 339
 00:23:33,727 --> 00:23:36,493
 <i>e aonde quer que foram,
-provavelmente n„o È longe.</i>
+provavelmente n√£o √© longe.</i>
 
 340
 00:23:36,494 --> 00:23:39,571
@@ -1568,22 +1568,22 @@ te procurando.
 
 342
 00:23:41,474 --> 00:23:44,343
-Digo que a vinganÁa dela
-n„o È contra Gotham,
+Digo que a vingan√ßa dela
+n√£o √© contra Gotham,
 
 343
 00:23:44,344 --> 00:23:47,074
-n„o È contra os Corvos,
-mas contra vocÍ.
+n√£o √© contra os Corvos,
+mas contra voc√™.
 
 344
 00:23:47,075 --> 00:23:49,101
-- Por quÍ?
-- N„o est· ouvindo.
+- Por qu√™?
+- N√£o est√° ouvindo.
 
 345
 00:23:49,102 --> 00:23:51,659
-Foi atÈ uma cÈlula terrorista
+Foi at√© uma c√©lula terrorista
 sem apoio.
 
 346
@@ -1593,12 +1593,12 @@ eu teria apoio.
 
 347
 00:23:53,690 --> 00:23:56,407
-SÛ que vocÍ n„o È
+S√≥ que voc√™ n√£o √©
 todo mundo.
 
 348
 00:23:57,489 --> 00:23:59,748
-N„o, n„o sou.
+N√£o, n√£o sou.
 
 349
 00:24:00,841 --> 00:24:02,803
@@ -1606,12 +1606,12 @@ Nunca serei,
 
 350
 00:24:03,207 --> 00:24:06,612
-porque n„o importa o quanto
+porque n√£o importa o quanto
 eu tente provar meu valor,
 
 351
 00:24:07,296 --> 00:24:08,929
-vocÍ n„o me quer.
+voc√™ n√£o me quer.
 
 352
 00:24:11,138 --> 00:24:14,908
@@ -1620,7 +1620,7 @@ expulsa da Academia?
 
 353
 00:24:15,151 --> 00:24:18,219
-Kate, eu te amo. N„o iria
+Kate, eu te amo. N√£o iria
 te querer de outro jeito.
 
 354
@@ -1631,12 +1631,12 @@ de me mandar
 355
 00:24:21,071 --> 00:24:22,969
 treinar para algo
-que n„o me daria.
+que n√£o me daria.
 
 356
 00:24:22,970 --> 00:24:26,268
 - Eu te dei uma segunda chance!
-- VocÍ se livrou de mim!
+- Voc√™ se livrou de mim!
 
 357
 00:24:27,781 --> 00:24:29,982
@@ -1645,22 +1645,22 @@ para mim,
 
 358
 00:24:29,983 --> 00:24:33,332
-vÍ Beth e ao ver Beth,
-vocÍ vÍ a m„e,
+v√™ Beth e ao ver Beth,
+voc√™ v√™ a m√£e,
 
 359
 00:24:33,333 --> 00:24:35,280
-e ao invÈs de lidar
+e ao inv√©s de lidar
 com isso,
 
 360
 00:24:35,281 --> 00:24:38,207
-passou os ˙ltimos 15 anos
+passou os √∫ltimos 15 anos
 me afastando!
 
 361
 00:24:40,462 --> 00:24:41,940
-VocÍ ganhou, pai.
+Voc√™ ganhou, pai.
 
 362
 00:24:43,108 --> 00:24:44,508
@@ -1672,17 +1672,17 @@ Kate.
 
 364
 00:24:54,376 --> 00:24:56,951
-- Como vocÍ...
-- Quero saber onde est· o Bruce.
+- Como voc√™...
+- Quero saber onde est√° o Bruce.
 
 365
 00:24:56,952 --> 00:24:58,681
 Ligue e diga
-que procuro alguÈm.
+que procuro algu√©m.
 
 366
 00:24:58,682 --> 00:25:01,382
-- N„o sei onde ele est·.
+- N√£o sei onde ele est√°.
 - Perguntei gentilmente.
 
 367
@@ -1696,11 +1696,11 @@ Certo.
 
 369
 00:25:12,000 --> 00:25:13,738
-AlguÈm moveu aquilo.
+Algu√©m moveu aquilo.
 
 370
 00:25:14,228 --> 00:25:15,772
-Como vocÍ saberia?
+Como voc√™ saberia?
 
 371
 00:25:18,507 --> 00:25:20,030
@@ -1721,7 +1721,7 @@ aqui.
 
 375
 00:25:39,583 --> 00:25:41,803
-N„o quer fazer isso.
+N√£o quer fazer isso.
 
 376
 00:25:41,804 --> 00:25:43,432
@@ -1734,8 +1734,8 @@ se ainda funcionar.
 
 378
 00:25:52,259 --> 00:25:54,663
-VocÍ n„o deve mesmo saber
-o que tem l·.
+Voc√™ n√£o deve mesmo saber
+o que tem l√°.
 
 379
 00:25:54,664 --> 00:25:56,615
@@ -1744,11 +1744,11 @@ com regras.
 
 380
 00:26:10,819 --> 00:26:13,519
-#N„oDeixeOLTVMorrer
+#N√£oDeixeOLTVMorrer
 
 381
 00:27:17,325 --> 00:27:19,748
-Bruce Wayne È o Batman?
+Bruce Wayne √© o Batman?
 
 382
 00:27:21,888 --> 00:27:24,650
@@ -1774,12 +1774,12 @@ os escondia de mim.</i>
 
 387
 00:27:35,503 --> 00:27:38,003
-TRAG…DIA COM FAMÕLIA KANE.
-M√E E FILHA VÕTIMAS
+TRAG√âDIA COM FAM√çLIA KANE.
+M√ÉE E FILHA V√çTIMAS
 
 388
 00:27:38,004 --> 00:27:39,404
-DE PERSEGUI«√O EM PONTE.
+DE PERSEGUI√á√ÉO EM PONTE.
 
 389
 00:27:47,612 --> 00:27:49,122
@@ -1799,16 +1799,16 @@ Xis!</i>
 392
 00:27:56,277 --> 00:27:57,971
 <i>O que esse cara
-est· fazendo?</i>
+est√° fazendo?</i>
 
 393
 00:28:01,493 --> 00:28:04,117
-<i>Beth, vocÍ est· bem?
+<i>Beth, voc√™ est√° bem?
 Vamos virar!</i>
 
 394
 00:28:04,118 --> 00:28:06,611
-<i>O Batman est· aqui.
+<i>O Batman est√° aqui.
 Ele vai nos salvar!</i>
 
 395
@@ -1828,7 +1828,7 @@ uma tonelada.</i>
 
 398
 00:28:19,653 --> 00:28:21,836
-<i>O peso, o ‚ngulo...</i>
+<i>O peso, o √¢ngulo...</i>
 
 399
 00:28:21,837 --> 00:28:24,067
@@ -1837,23 +1837,23 @@ que havia prendido.</i>
 
 400
 00:28:24,068 --> 00:28:26,299
-<i>V·, Kate!
-R·pido! Saia!</i>
+<i>V√°, Kate!
+R√°pido! Saia!</i>
 
 401
 00:28:27,302 --> 00:28:29,875
-<i>Batman, aonde est· indo?
+<i>Batman, aonde est√° indo?
 Espere!</i>
 
 402
 00:28:29,876 --> 00:28:32,955
 <i>Acorde agora!
-M„e, por favor!</i>
+M√£e, por favor!</i>
 
 403
 00:28:32,956 --> 00:28:37,087
 <i>Beth, precisa pegar
-agora a minha m„o!</i>
+agora a minha m√£o!</i>
 
 404
 00:28:37,088 --> 00:28:38,553
@@ -1861,23 +1861,23 @@ agora a minha m„o!</i>
 
 405
 00:28:38,554 --> 00:28:39,954
-<i>Pegue a minha m„o!</i>
+<i>Pegue a minha m√£o!</i>
 
 406
 00:28:41,672 --> 00:28:43,072
-<i>N„o!</i>
+<i>N√£o!</i>
 
 407
 00:28:43,073 --> 00:28:46,736
-<i>Beth! N„o!</i>
+<i>Beth! N√£o!</i>
 
 408
 00:28:48,573 --> 00:28:51,424
-<i>M„e! Beth!</i>
+<i>M√£e! Beth!</i>
 
 409
 00:28:52,492 --> 00:28:55,100
-O aÁo do porta-malas
+O a√ßo do porta-malas
 foi arrancado.
 
 410
@@ -1887,8 +1887,8 @@ de merda.
 
 411
 00:28:56,646 --> 00:28:59,042
-Foi o ˙nico c·lculo
-que ele n„o fez.
+Foi o √∫nico c√°lculo
+que ele n√£o fez.
 
 412
 00:28:59,043 --> 00:29:01,603
@@ -1907,21 +1907,21 @@ de pessoas inocentes.
 
 415
 00:29:05,911 --> 00:29:07,311
-N„o. Ele se importava.
+N√£o. Ele se importava.
 
 416
 00:29:08,613 --> 00:29:10,636
-Ele salvou 34 crianÁas
+Ele salvou 34 crian√ßas
 aquele dia.
 
 417
 00:29:10,637 --> 00:29:13,108
 Achou que tivesse salvado
-sua m„e e irm„.
+sua m√£e e irm√£.
 
 418
 00:29:18,618 --> 00:29:21,970
-A ˙nica famÌlia viva dele
+A √∫nica fam√≠lia viva dele
 e ele errou.
 
 419
@@ -1930,31 +1930,31 @@ Isso o assombrou demais.
 
 420
 00:29:28,962 --> 00:29:30,441
-…, n„o aperte isso.
+√â, n√£o aperte isso.
 
 421
 00:29:41,774 --> 00:29:43,203
-N„o.
+N√£o.
 
 422
 00:29:44,515 --> 00:29:47,300
-N„o quero ser demitido
-duas vezes por Batman, ent„o...
+N√£o quero ser demitido
+duas vezes por Batman, ent√£o...
 
 423
 00:29:54,671 --> 00:29:56,659
 Encontre
-o seu prÛprio caminho.
+o seu pr√≥prio caminho.
 
 424
 00:29:57,973 --> 00:30:00,714
-- O quÍ?
+- O qu√™?
 - Por isso ele se tornou Batman,
 
 425
 00:30:01,081 --> 00:30:02,897
 para ter
-suas prÛprias regras.
+suas pr√≥prias regras.
 
 426
 00:30:02,898 --> 00:30:05,888
@@ -1969,12 +1969,12 @@ e colegas de trabalho.
 428
 00:30:07,723 --> 00:30:10,716
 - Precisamos ir.
-- As pessoas n„o tÍm mais medo.
+- As pessoas n√£o t√™m mais medo.
 
 429
 00:30:11,358 --> 00:30:13,371
-Um exÈrcito
-pode n„o assust·-los,
+Um ex√©rcito
+pode n√£o assust√°-los,
 
 430
 00:30:14,994 --> 00:30:16,437
@@ -1982,17 +1982,17 @@ mas isso vai.
 
 431
 00:30:17,914 --> 00:30:20,226
-Eu preciso que vocÍ arrume
+Eu preciso que voc√™ arrume
 o traje dele.
 
 432
 00:30:20,831 --> 00:30:22,909
 O traje
-È literalmente perfeito.
+√© literalmente perfeito.
 
 433
 00:30:23,712 --> 00:30:25,143
-Ser·.
+Ser√°.
 
 434
 00:30:25,634 --> 00:30:27,401
@@ -2027,11 +2027,11 @@ FILME NO PARQUE
 
 441
 00:31:10,100 --> 00:31:12,064
-Eu n„o gosto desse prÈdio.
+Eu n√£o gosto desse pr√©dio.
 
 442
 00:31:12,065 --> 00:31:14,694
-- Quem est· cobrindo?
+- Quem est√° cobrindo?
 - Seria Dodgson, senhor.
 
 443
@@ -2048,15 +2048,15 @@ Divirta-se.
 
 446
 00:31:34,025 --> 00:31:35,446
-VocÍ tambÈm.
+Voc√™ tamb√©m.
 
 447
 00:31:36,363 --> 00:31:38,371
-Traidor! N„o!
+Traidor! N√£o!
 
 448
 00:31:38,692 --> 00:31:40,117
-N„o!
+N√£o!
 
 449
 00:31:51,047 --> 00:31:52,464
@@ -2068,7 +2068,7 @@ Ouso dizer que Gotham
 
 451
 00:31:54,450 --> 00:31:56,271
-est· como nos bons
+est√° como nos bons
 e velhos tempos.
 
 452
@@ -2077,8 +2077,8 @@ Desculpe ter duvidado.
 
 453
 00:31:57,674 --> 00:32:00,091
-A cidade confia em nÛs
-por uma raz„o, prefeito.
+A cidade confia em n√≥s
+por uma raz√£o, prefeito.
 
 454
 00:32:00,092 --> 00:32:02,113
@@ -2088,11 +2088,11 @@ Desculpe.
 455
 00:32:02,114 --> 00:32:05,273
 - Kane.
-- N„o perdi o show, n„o È?
+- N√£o perdi o show, n√£o √©?
 
 456
 00:32:08,078 --> 00:32:11,830
-Diga onde vocÍ est·
+Diga onde voc√™ est√°
 e a jogarei em Arkham.
 
 457
@@ -2103,15 +2103,15 @@ comandante.
 458
 00:32:14,062 --> 00:32:15,622
 Estou louca,
-vocÍ est· louco.
+voc√™ est√° louco.
 
 459
 00:32:15,623 --> 00:32:18,964
-Sanidade È t„o pedestre.
+Sanidade √© t√£o pedestre.
 
 460
 00:32:18,965 --> 00:32:20,972
-Eu quero ser memor·vel,
+Eu quero ser memor√°vel,
 
 461
 00:32:20,973 --> 00:32:23,494
@@ -2120,16 +2120,16 @@ que nunca deixa os pensamentos,
 
 462
 00:32:23,495 --> 00:32:25,250
-ent„o me responsabilizei
+ent√£o me responsabilizei
 
 463
 00:32:25,251 --> 00:32:28,472
-por encher um caminh„o
-com miosÛtis.
+por encher um caminh√£o
+com mios√≥tis.
 
 464
 00:32:33,689 --> 00:32:35,453
-CORVOS SEGURAN«A
+CORVOS SEGURAN√áA
 
 465
 00:32:45,415 --> 00:32:48,005
@@ -2138,12 +2138,12 @@ Disse o gato.
 
 466
 00:32:48,006 --> 00:32:51,118
-S„o famÌlias, crianÁas.
+S√£o fam√≠lias, crian√ßas.
 
 467
 00:32:51,119 --> 00:32:54,132
 Mantenha a boca fechada
-e todos permanecer„o vivos
+e todos permanecer√£o vivos
 
 468
 00:32:54,133 --> 00:32:56,384
@@ -2161,13 +2161,13 @@ Olhe para cima.
 
 471
 00:33:01,417 --> 00:33:04,967
-VocÍ nunca esqueceria de Sophie,
+Voc√™ nunca esqueceria de Sophie,
 comandante,
 
 472
 00:33:04,968 --> 00:33:07,579
 seu passarinho favorito
-no cÈu a estar,
+no c√©u a estar,
 
 473
 00:33:07,580 --> 00:33:10,649
@@ -2177,11 +2177,11 @@ pode seu passarinho voar?
 474
 00:33:10,650 --> 00:33:12,926
 Pois se ela se mover
-um centÌmetro,
+um cent√≠metro,
 
 475
 00:33:12,927 --> 00:33:14,520
-ela morrer·.
+ela morrer√°.
 
 476
 00:33:14,521 --> 00:33:15,968
@@ -2193,26 +2193,26 @@ Sophie ou Gotham.
 
 478
 00:33:20,409 --> 00:33:22,208
-Por que vocÍ
-est· fazendo isso?
+Por que voc√™
+est√° fazendo isso?
 
 479
 00:33:22,209 --> 00:33:24,339
 Por que um corvo
-È como uma escrivaninha?
+√© como uma escrivaninha?
 
 480
 00:33:30,618 --> 00:33:32,053
-Quem est· aÌ?
+Quem est√° a√≠?
 
 481
 00:33:42,193 --> 00:33:44,107
 Eu pensei
-que vocÍ estava morto.
+que voc√™ estava morto.
 
 482
 00:33:51,169 --> 00:33:54,024
-Matem·tica simples.
+Matem√°tica simples.
 Barril pesa 200 quilos.
 
 483
@@ -2226,23 +2226,23 @@ pesar menos que o passarinho...
 
 485
 00:34:34,730 --> 00:34:36,144
-N„o!
+N√£o!
 
 486
 00:34:56,697 --> 00:34:58,122
-VocÍ...
+Voc√™...
 
 487
 00:34:59,096 --> 00:35:00,575
-N„o È ele.
+N√£o √© ele.
 
 488
 00:35:43,218 --> 00:35:45,310
-Mam„e, olha!
+Mam√£e, olha!
 
 489
 00:35:45,685 --> 00:35:47,539
-… o Batman!
+√â o Batman!
 
 490
 00:35:52,477 --> 00:35:54,528
@@ -2255,7 +2255,7 @@ Vesper Fairchild aqui.</i>
 
 492
 00:35:56,482 --> 00:35:58,501
-<i>Ent„o eu estava sonhando,</i>
+<i>Ent√£o eu estava sonhando,</i>
 
 493
 00:35:58,611 --> 00:36:00,567
@@ -2263,57 +2263,57 @@ Vesper Fairchild aqui.</i>
 
 494
 00:36:00,568 --> 00:36:03,181
-BATMAN EST¡ VIVO?
-<i>- Se sim, as coisas melhorar„o.</i>
+BATMAN EST√Å VIVO?
+<i>- Se sim, as coisas melhorar√£o.</i>
 
 495
 00:36:03,182 --> 00:36:06,584
-<i>Caso contr·rio, revelei demais
+<i>Caso contr√°rio, revelei demais
 os meus sonhos.</i>
 
 496
 00:36:06,585 --> 00:36:09,575
 <i>Fale comigo, Gotham.
-Est„o animados com o sr. alto</i>
+Est√£o animados com o sr. alto</i>
 
 497
 00:36:09,576 --> 00:36:12,684
 ELE VOLTOU?
-<i>- e indisponÌvel assim como eu?</i>
+<i>- e indispon√≠vel assim como eu?</i>
 
 498
 00:36:12,685 --> 00:36:16,479
 <i>Foi maneiro!</i>
-O Batman voou para o cÈu
+O Batman voou para o c√©u
 
 499
 00:36:16,480 --> 00:36:18,932
-e ficou balanÁando
-nos prÈdios.
+e ficou balan√ßando
+nos pr√©dios.
 
 500
 00:36:18,933 --> 00:36:21,622
-Viu sÛ?
+Viu s√≥?
 Eu disse que ele voltaria.
 
 501
 00:36:21,623 --> 00:36:24,657
-Dodgson e Alice s„o prioridade
+Dodgson e Alice s√£o prioridade
 para a Corvos.
 
 502
 00:36:24,658 --> 00:36:27,332
 - E o morcego, senhor?
-- Qual È!
+- Qual √©!
 
 503
 00:36:27,333 --> 00:36:30,559
-J· vi performances assim antes.
+J√° vi performances assim antes.
 Deixa a cidade incomodada,
 
 504
 00:36:30,560 --> 00:36:32,520
-mas graÁas ‡ falta
+mas gra√ßas √† falta
 de habilidade,
 
 505
@@ -2342,13 +2342,13 @@ Vamos encontrar aqueles dois.
 
 510
 00:37:01,821 --> 00:37:03,779
-N„o beberia isso
-se eu fosse vocÍ.
+N√£o beberia isso
+se eu fosse voc√™.
 
 511
 00:37:04,751 --> 00:37:08,256
-… tÛxico. Presente de Natal
-da polÌcia de Gotham.
+√â t√≥xico. Presente de Natal
+da pol√≠cia de Gotham.
 
 512
 00:37:09,777 --> 00:37:11,177
@@ -2356,13 +2356,13 @@ Bom saber.
 
 513
 00:37:11,927 --> 00:37:14,781
-- Oi, a propÛsito.
+- Oi, a prop√≥sito.
 - Oi.
 
 514
 00:37:14,782 --> 00:37:16,604
 Ouvi dizer
-que vocÍ voltou por mim.
+que voc√™ voltou por mim.
 
 515
 00:37:16,605 --> 00:37:18,070
@@ -2370,8 +2370,8 @@ Obrigada.
 
 516
 00:37:18,071 --> 00:37:19,895
-Achei vocÍ.
-TÌnhamos combinado
+Achei voc√™.
+T√≠nhamos combinado
 
 517
 00:37:19,896 --> 00:37:22,012
@@ -2381,11 +2381,11 @@ longe de mim de novo.
 518
 00:37:22,013 --> 00:37:25,994
 Eu estou bem.
-SÈrio, eu estou bem.
+S√©rio, eu estou bem.
 
 519
 00:37:25,995 --> 00:37:27,676
-Tyler, essa È a Kate.
+Tyler, essa √© a Kate.
 
 520
 00:37:27,677 --> 00:37:30,862
@@ -2404,7 +2404,7 @@ no marido superprotetor.
 
 523
 00:37:37,879 --> 00:37:39,313
-VocÍ È casada.
+Voc√™ √© casada.
 
 524
 00:37:42,664 --> 00:37:44,064
@@ -2412,11 +2412,11 @@ Sou.
 
 525
 00:37:45,079 --> 00:37:46,634
-ParabÈns.
+Parab√©ns.
 
 526
 00:37:47,584 --> 00:37:49,603
-Prazer em conhecÍ-lo,
+Prazer em conhec√™-lo,
 Tyler.
 
 527
@@ -2425,11 +2425,11 @@ Devo ir embora.
 
 528
 00:37:54,724 --> 00:37:56,523
-AtÈ mais, Sophie.
+At√© mais, Sophie.
 
 529
 00:38:14,453 --> 00:38:16,588
-Achei que tivesse saÌdo
+Achei que tivesse sa√≠do
 da cidade.
 
 530
@@ -2443,18 +2443,18 @@ uma Corvo.
 
 532
 00:38:29,499 --> 00:38:33,646
-VocÍ est· certa.
-Nunca quis isso de vocÍ.
+Voc√™ est√° certa.
+Nunca quis isso de voc√™.
 
 533
 00:38:39,727 --> 00:38:42,595
-O exÈrcito era meu sonho
-para vocÍ.
+O ex√©rcito era meu sonho
+para voc√™.
 
 534
 00:38:42,755 --> 00:38:45,286
 Cobraria um favor,
-te arranjaria um escritÛrio,
+te arranjaria um escrit√≥rio,
 
 535
 00:38:45,287 --> 00:38:47,201
@@ -2468,22 +2468,22 @@ jamais visto.
 
 537
 00:38:49,781 --> 00:38:53,060
-- N„o era o meu sonho.
-- N„o.
+- N√£o era o meu sonho.
+- N√£o.
 
 538
 00:38:53,291 --> 00:38:56,023
-VocÍ queria estar
-em aÁ„o.
+Voc√™ queria estar
+em a√ß√£o.
 
 539
 00:38:56,809 --> 00:38:59,434
-Por isso n„o queria
+Por isso n√£o queria
 que entrasse na Corvo.
 
 540
 00:38:59,435 --> 00:39:01,798
-Porque eu sou egoÌsta
+Porque eu sou ego√≠sta
 
 541
 00:39:01,799 --> 00:39:04,331
@@ -2495,12 +2495,12 @@ e estou apavorado,
 
 543
 00:39:07,805 --> 00:39:11,576
-porque vocÍ È tudo
+porque voc√™ √© tudo
 o que me resta, Kate.
 
 544
 00:39:12,140 --> 00:39:14,610
-N„o quero te perder tambÈm.
+N√£o quero te perder tamb√©m.
 
 545
 00:39:18,693 --> 00:39:23,553
@@ -2509,11 +2509,11 @@ que se quiser entrar na equipe,
 
 546
 00:39:24,825 --> 00:39:26,225
-vocÍ est· dentro.
+voc√™ est√° dentro.
 
 547
 00:39:31,552 --> 00:39:33,679
-N”S BAT-ACREDITAMOS
+N√ìS BAT-ACREDITAMOS
 
 548
 00:39:35,935 --> 00:39:38,398
@@ -2522,17 +2522,17 @@ da dor,</i>
 
 549
 00:39:38,399 --> 00:39:42,617
-<i>mas eu tambÈm fugia
-de tudo o que n„o me queria.</i>
+<i>mas eu tamb√©m fugia
+de tudo o que n√£o me queria.</i>
 
 550
 00:39:42,618 --> 00:39:46,207
 <i>Uma academia militar,
-um exÈrcito privado,</i>
+um ex√©rcito privado,</i>
 
 551
 00:39:46,208 --> 00:39:47,883
-<i>meu prÛprio pai.</i>
+<i>meu pr√≥prio pai.</i>
 
 552
 00:39:48,638 --> 00:39:52,916
@@ -2547,7 +2547,7 @@ o encontrei.</i>
 554
 00:39:55,251 --> 00:39:58,178
 <i>Alguns veem medo,
-outros esperanÁa.</i>
+outros esperan√ßa.</i>
 
 555
 00:39:58,179 --> 00:40:00,739
@@ -2556,11 +2556,11 @@ de ser eu mesma,</i>
 
 556
 00:40:00,740 --> 00:40:03,458
-<i>jogar pelas regras prÛprias.</i>
+<i>jogar pelas regras pr√≥prias.</i>
 
 557
 00:40:04,035 --> 00:40:06,673
-<i>Sei que vocÍ voltar·
+<i>Sei que voc√™ voltar√°
 para casa um dia, Bruce,</i>
 
 558
@@ -2574,12 +2574,12 @@ por pegar emprestado</i>
 
 560
 00:40:10,244 --> 00:40:12,388
-<i>quero que vocÍ leia
-a minha histÛria</i>
+<i>quero que voc√™ leia
+a minha hist√≥ria</i>
 
 561
 00:40:12,643 --> 00:40:15,066
-<i>porque est· apenas comeÁando.</i>
+<i>porque est√° apenas come√ßando.</i>
 
 562
 00:40:15,067 --> 00:40:18,044
@@ -2602,12 +2602,12 @@ Se serve de consolo,
 566
 00:40:33,269 --> 00:40:37,265
 Bruce nunca parou de procurar
-pelo corpo da sua irm„.
+pelo corpo da sua irm√£.
 
 567
 00:40:37,650 --> 00:40:40,131
 Serve mais
-do que vocÍ pensa.
+do que voc√™ pensa.
 
 568
 00:40:42,384 --> 00:40:45,711
@@ -2617,7 +2617,7 @@ do planeta.
 569
 00:40:46,099 --> 00:40:48,451
 Por que ele
-n„o a encontrou?
+n√£o a encontrou?
 
 570
 00:41:13,066 --> 00:41:15,209
@@ -2630,12 +2630,12 @@ Beth.
 
 572
 00:41:27,693 --> 00:41:30,884
-Eu vou reconquistar vocÍ,
-minha querida irm„.
+Eu vou reconquistar voc√™,
+minha querida irm√£.
 
 573
 00:41:31,524 --> 00:41:35,422
-<i>NÛs duas
+<i>N√≥s duas
 vamos governar Gotham</i>
 
 574
@@ -2644,7 +2644,7 @@ juntas.
 
 575
 00:41:38,022 --> 00:41:41,027
-#N„oDeixeOLTVMorrer
+#N√£oDeixeOLTVMorrer
 
 576
 00:41:41,028 --> 00:41:43,752
