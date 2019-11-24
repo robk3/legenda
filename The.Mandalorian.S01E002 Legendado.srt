@@ -5,8 +5,8 @@ EM MANDALORIAN</b>
 
 2
 00:00:01,713 --> 00:00:04,378
-- Qual È a sua maior recompensa?
-- H· um trabalho.
+- Qual √© a sua maior recompensa?
+- H√° um trabalho.
 
 3
 00:00:04,379 --> 00:00:06,619
@@ -15,7 +15,7 @@ EM MANDALORIAN</b>
 
 4
 00:00:06,620 --> 00:00:10,007
-Greef Karga disse que vocÍ
+Greef Karga disse que voc√™
 era o melhor neste parsec.
 
 5
@@ -25,25 +25,25 @@ de Beskar
 
 6
 00:00:12,602 --> 00:00:15,802
-esperando por vocÍ
-apÛs a entrega da encomenda.
+esperando por voc√™
+ap√≥s a entrega da encomenda.
 
 7
 00:00:18,268 --> 00:00:20,338
-VocÍ È um mandaloriano!
+Voc√™ √© um mandaloriano!
 
 8
 00:00:20,339 --> 00:00:22,167
-<i>Vou ajud·-lo.</i>
+<i>Vou ajud√°-lo.</i>
 
 9
 00:00:22,168 --> 00:00:24,724
-Muitos j· passaram por aqui.
+Muitos j√° passaram por aqui.
 
 10
 00:00:24,725 --> 00:00:26,966
 <i>Perseguem o mesmo
-que vocÍ.</i>
+que voc√™.</i>
 
 11
 00:00:26,967 --> 00:00:29,060
@@ -52,20 +52,20 @@ Cessar fogo.
 
 12
 00:00:29,580 --> 00:00:31,040
-… membro da Guilda?
+√â membro da Guilda?
 
 13
 00:00:31,042 --> 00:00:33,143
-Uma sugest„o.
+Uma sugest√£o.
 Dividir a recompensa.
 
 14
 00:00:33,144 --> 00:00:34,815
-Isto È aceit·vel.
+Isto √© aceit√°vel.
 
 15
 00:00:37,196 --> 00:00:41,415
-O rastreio ainda est· ativo.
+O rastreio ainda est√° ativo.
 Forma de vida presente.
 
 16
@@ -84,13 +84,13 @@ Disney+</b>
 
 19
 00:03:41,519 --> 00:03:43,319
-<b>Revis„o:
+<b>Revis√£o:
 WesleyP.</b>
 
 20
 00:03:44,020 --> 00:03:46,620
-<b>CAPÕTULO 2
-A CRIAN«A</b>
+<b>CAP√çTULO 2
+A CRIAN√áA</b>
 
 21
 00:11:07,868 --> 00:11:10,098
@@ -98,60 +98,60 @@ Achei que estivesse morto.
 
 22
 00:11:28,097 --> 00:11:31,067
-… isto que estava causando
-o alvoroÁo?
+√â isto que estava causando
+o alvoro√ßo?
 
 23
 00:11:31,642 --> 00:11:33,692
-Acho que È uma crianÁa.
+Acho que √© uma crian√ßa.
 
 24
 00:11:33,693 --> 00:11:36,577
-Ent„o acho melhor
-entreg·-la viva.
+Ent√£o acho melhor
+entreg√°-la viva.
 
 25
 00:11:36,578 --> 00:11:39,827
-Minha nave foi destruÌda.
+Minha nave foi destru√≠da.
 Estou preso aqui.
 
 26
 00:11:39,828 --> 00:11:42,688
 Depenada.
-N„o destruÌda.
+N√£o destru√≠da.
 
 27
 00:11:43,045 --> 00:11:47,475
 Os Jawas roubam.
-Eles n„o destroem.
+Eles n√£o destroem.
 
 28
 00:11:47,476 --> 00:11:50,556
-Roubada ou destruÌda,
-n„o faz diferenÁa nenhuma.
+Roubada ou destru√≠da,
+n√£o faz diferen√ßa nenhuma.
 
 29
 00:11:53,080 --> 00:11:55,670
-Est„o protegidos
+Est√£o protegidos
 pela fortaleza rastejante.
 
 30
 00:11:55,671 --> 00:11:58,197
-N„o h· como recuperar
-as peÁas.
+N√£o h√° como recuperar
+as pe√ßas.
 
 31
 00:11:58,198 --> 00:11:59,845
-VocÍ pode negociar.
+Voc√™ pode negociar.
 
 32
 00:11:59,846 --> 00:12:02,288
 Com os Jawas?
-VocÍ enlouqueceu?
+Voc√™ enlouqueceu?
 
 33
 00:12:02,289 --> 00:12:03,932
-Vou lev·-lo atÈ eles.
+Vou lev√°-lo at√© eles.
 
 34
 00:12:04,383 --> 00:12:05,933
@@ -163,12 +163,12 @@ Ei! Cuspa isso.
 
 36
 00:12:52,431 --> 00:12:54,821
-SaudaÁıes!
+Sauda√ß√µes!
 
 37
 00:13:04,026 --> 00:13:07,156
 Por algum motivo,
-eles n„o v„o com a sua cara.
+eles n√£o v√£o com a sua cara.
 
 38
 00:13:07,880 --> 00:13:10,240
@@ -181,12 +181,12 @@ Vai precisar abaixar sua arma.
 40
 00:13:19,322 --> 00:13:22,588
 Sou mandaloriano.
-N„o vivo sem armas.
+N√£o vivo sem armas.
 
 41
 00:13:22,589 --> 00:13:25,248
-Ent„o n„o ter·
-suas peÁas de volta.
+Ent√£o n√£o ter√°
+suas pe√ßas de volta.
 
 42
 00:13:28,359 --> 00:13:29,859
@@ -203,13 +203,13 @@ E o blaster.
 
 45
 00:14:12,887 --> 00:14:15,707
-V„o negociar todas
-as peÁas pelo Beskar.
+V√£o negociar todas
+as pe√ßas pelo Beskar.
 
 46
 00:14:15,708 --> 00:14:18,049
-N„o vou negociar nada.
-S„o minhas peÁas.
+N√£o vou negociar nada.
+S√£o minhas pe√ßas.
 
 47
 00:14:18,050 --> 00:14:19,933
@@ -222,16 +222,16 @@ pertencem... a mim!
 
 49
 00:14:25,124 --> 00:14:26,664
-O JawÍs È terrÌvel.
+O Jaw√™s √© terr√≠vel.
 
 50
 00:14:26,665 --> 00:14:28,543
-VocÍ fala como um Wookie.
+Voc√™ fala como um Wookie.
 
 51
 00:14:28,544 --> 00:14:30,269
 - Entendem isto?
-- N„o!
+- N√£o!
 
 52
 00:14:31,688 --> 00:14:33,308
@@ -239,7 +239,7 @@ Calma.
 
 53
 00:14:36,677 --> 00:14:39,587
-Ele È mandaloriano. N„o pode
+Ele √© mandaloriano. N√£o pode
 dar a armadura de Beskar.
 
 54
@@ -248,7 +248,7 @@ Pelo que mais ele pode trocar?
 
 55
 00:14:44,251 --> 00:14:45,851
-Saiam j· daÌ!
+Saiam j√° da√≠!
 
 56
 00:14:47,763 --> 00:14:50,383
@@ -256,7 +256,7 @@ Deve haver outra coisa.
 
 57
 00:14:57,097 --> 00:15:00,577
-NÛs desejamos o Ovo.
+N√≥s desejamos o Ovo.
 Traga-nos o Ovo.
 
 58
@@ -278,12 +278,12 @@ O Ovo!
 
 62
 00:21:47,483 --> 00:21:49,933
-SÛ um pouquinho mais.
+S√≥ um pouquinho mais.
 
 63
 00:21:51,320 --> 00:21:53,640
-Est· bem.
-V„o sem mim.
+Est√° bem.
+V√£o sem mim.
 
 64
 00:22:09,672 --> 00:22:11,322
@@ -308,7 +308,7 @@ que demorou tanto.
 
 69
 00:23:30,794 --> 00:23:33,324
-Ainda est· dormindo?
+Ainda est√° dormindo?
 
 70
 00:23:35,799 --> 00:23:37,369
@@ -320,8 +320,8 @@ Foi ferido?
 
 72
 00:23:43,132 --> 00:23:46,845
-Acho que n„o.
-Fisicamente, n„o.
+Acho que n√£o.
+Fisicamente, n√£o.
 
 73
 00:23:47,353 --> 00:23:49,837
@@ -330,12 +330,12 @@ para mim novamente.</i>
 
 74
 00:23:49,838 --> 00:23:53,048
-<i>Ainda n„o compreendo
+<i>Ainda n√£o compreendo
 o que houve.</i>
 
 75
 00:23:54,001 --> 00:23:55,801
-Eu tambÈm n„o.
+Eu tamb√©m n√£o.
 
 76
 00:24:03,018 --> 00:24:04,719
@@ -345,7 +345,7 @@ de fazer isto funcionar
 77
 00:24:04,720 --> 00:24:06,920
 sem um centro
-de manutenÁ„o completo.
+de manuten√ß√£o completo.
 
 78
 00:24:07,122 --> 00:24:09,352
@@ -355,34 +355,34 @@ para arrumar.
 79
 00:24:09,353 --> 00:24:12,325
 Se puder ajudar,
-pode ser mais r·pido.
+pode ser mais r√°pido.
 
 80
 00:24:15,364 --> 00:24:17,774
-H· muito trabalho para fazer.
+H√° muito trabalho para fazer.
 
 81
 00:25:26,035 --> 00:25:27,945
-N„o sei como agradecÍ-lo.
+N√£o sei como agradec√™-lo.
 
 82
 00:25:27,946 --> 00:25:30,498
 Por favor,
-aceite uma parte do prÍmio.
+aceite uma parte do pr√™mio.
 
 83
 00:25:30,873 --> 00:25:32,890
-N„o posso aceitar.
+N√£o posso aceitar.
 
 84
 00:25:32,891 --> 00:25:37,201
-VocÍ È meu convidado e,
+Voc√™ √© meu convidado e,
 portanto, estou a seu dispor.
 
 85
 00:25:40,858 --> 00:25:43,459
-AlguÈm com suas habilidades
-me seria ˙til
+Algu√©m com suas habilidades
+me seria √∫til
 
 86
 00:25:43,460 --> 00:25:45,460
@@ -395,7 +395,7 @@ Sinto-me honrado,
 88
 00:25:47,762 --> 00:25:52,120
 mas trabalhei a vida toda
-para ser livre da servid„o.
+para ser livre da servid√£o.
 
 89
 00:25:52,122 --> 00:25:53,422
@@ -403,12 +403,12 @@ Entendo.
 
 90
 00:25:53,423 --> 00:25:55,903
-Ent„o, sÛ o que tenho
-a oferecer È o meu obrigado.
+Ent√£o, s√≥ o que tenho
+a oferecer √© o meu obrigado.
 
 91
 00:25:55,904 --> 00:25:57,698
-E eu ofereÁo o meu.
+E eu ofere√ßo o meu.
 
 92
 00:25:57,700 --> 00:26:00,995
@@ -417,7 +417,7 @@ ao meu vale.
 
 93
 00:26:15,709 --> 00:26:18,369
-E boa sorte com A CrianÁa.
+E boa sorte com A Crian√ßa.
 
 94
 00:26:18,370 --> 00:26:21,953
