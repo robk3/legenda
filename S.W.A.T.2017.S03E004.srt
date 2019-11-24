@@ -24,46 +24,46 @@ Sou sua amiga, comandante.
 6
 00:00:09,641 --> 00:00:11,495
 <i>-Bonnie.
--Quem È Bonnie?</i>
+-Quem √© Bonnie?</i>
 
 7
 00:00:11,496 --> 00:00:15,461
 <i>Minha namorada. Falei dela.</i>
-Mora comigo. Ficamos sÈrios.
+Mora comigo. Ficamos s√©rios.
 
 8
 00:00:15,462 --> 00:00:18,236
--Sabe que quero ficar com vocÍ?
+-Sabe que quero ficar com voc√™?
 -Eu sei.
 
 9
 00:00:18,237 --> 00:00:21,368
-<i>N„o pode viver sozinho</i>
-e sua famÌlia est· em LA.
+<i>N√£o pode viver sozinho</i>
+e sua fam√≠lia est√° em LA.
 
 10
 00:00:21,369 --> 00:00:23,871
 Eu tenho cuidado dele
-h· mais de um ano.
+h√° mais de um ano.
 
 11
 00:00:23,872 --> 00:00:26,287
-<i>Eu sei e agradeÁo.</i>
-H· quanto tempo est· aqui?
+<i>Eu sei e agrade√ßo.</i>
+H√° quanto tempo est√° aqui?
 
 12
 00:00:26,288 --> 00:00:27,910
 -Umas 3 semanas.
--Mam„e e eu
+-Mam√£e e eu
 
 13
 00:00:27,911 --> 00:00:30,505
 tentamos criar um ambiente
-est·vel <i>para Darryl,</i>
+est√°vel <i>para Darryl,</i>
 
 14
 00:00:30,506 --> 00:00:33,096
-<i>vocÍ n„o pode se enfiar</i>
+<i>voc√™ n√£o pode se enfiar</i>
 na vida do garoto,
 
 15
@@ -73,7 +73,7 @@ permanecer nela.
 
 16
 00:00:34,899 --> 00:00:38,669
--N„o deixe ele te enganar.
+-N√£o deixe ele te enganar.
 -Sim, senhora.
 
 17
@@ -88,7 +88,7 @@ que te causei,
 
 19
 00:00:43,496 --> 00:00:46,097
-mas n„o posso voltar atr·s
+mas n√£o posso voltar atr√°s
 e mudar isso.
 
 20
@@ -98,7 +98,7 @@ mudam um homem, filho.</i>
 
 21
 00:01:05,124 --> 00:01:07,791
-Nem ouvi vocÍ chegar
+Nem ouvi voc√™ chegar
 noite passada.
 
 22
@@ -112,16 +112,16 @@ Bom dia.
 24
 00:01:12,507 --> 00:01:15,500
 Sim, cheguei tarde
-apÛs um turno longo.
+ap√≥s um turno longo.
 
 25
 00:01:15,501 --> 00:01:18,027
 Melhor sono que tive em meses.
-Dormi como um bebÍ.
+Dormi como um beb√™.
 
 26
 00:01:18,028 --> 00:01:20,401
-Eu tambÈm.
+Eu tamb√©m.
 Mas eu culpo o vinho.
 
 27
@@ -132,20 +132,20 @@ um pouco demais.
 28
 00:01:23,814 --> 00:01:26,814
 Desculpe por deixar
-essa bagunÁa.
+essa bagun√ßa.
 
 29
 00:01:26,815 --> 00:01:29,201
-SÛ n„o quis lidar com isso
-ontem ‡ noite.
+S√≥ n√£o quis lidar com isso
+ontem √† noite.
 
 30
 00:01:29,202 --> 00:01:30,502
-N„o se preocupe com isso.
+N√£o se preocupe com isso.
 
 31
 00:01:32,680 --> 00:01:34,697
-N„o È de se estranhar
+N√£o √© de se estranhar
 que dormiu bem.
 
 32
@@ -156,17 +156,17 @@ da Calissa.
 33
 00:01:36,858 --> 00:01:39,201
 Ela trouxe,
-mas n„o chegamos a comÍ-las.
+mas n√£o chegamos a com√™-las.
 
 34
 00:01:39,202 --> 00:01:40,780
 Espere,
-aquilo È de maconha?
+aquilo √© de maconha?
 
 35
 00:01:40,781 --> 00:01:43,015
 -Balas de maconha?
--Sim, mas s„o legais.
+-Sim, mas s√£o legais.
 
 36
 00:01:43,016 --> 00:01:44,809
@@ -176,12 +176,12 @@ a sair do sistema.
 37
 00:01:44,810 --> 00:01:47,524
 -Testam para drogas no trabalho.
--SÈrio?
+-S√©rio?
 
 38
 00:01:47,525 --> 00:01:49,382
 -Regularmente?
--… aleatÛrio,
+-√â aleat√≥rio,
 
 39
 00:01:49,383 --> 00:01:52,148
@@ -205,17 +205,17 @@ Eu sinto muito mesmo.
 43
 00:01:58,799 --> 00:02:00,719
 Direi ao seu chefe
-que n„o teve culpa.
+que n√£o teve culpa.
 
 44
 00:02:00,720 --> 00:02:03,901
--Pode me culpar. N„o ligo.
--N„o È culpa sua. … minha.
+-Pode me culpar. N√£o ligo.
+-N√£o √© culpa sua. √â minha.
 
 45
 00:02:03,902 --> 00:02:06,235
 -Vou reportar antes.
--Por quÍ?
+-Por qu√™?
 
 46
 00:02:06,236 --> 00:02:08,589
@@ -224,21 +224,21 @@ de outro jeito me demitem.
 
 47
 00:02:08,590 --> 00:02:10,114
-VocÍ ia preferir isso?
+Voc√™ ia preferir isso?
 
 48
 00:02:15,460 --> 00:02:17,690
-N„o pode ter medo
+N√£o pode ter medo
 de se sujar, Darryl.
 
 49
 00:02:17,691 --> 00:02:19,591
-Est· tudo bem.
+Est√° tudo bem.
 Estou de luvas.
 
 50
 00:02:21,665 --> 00:02:24,254
--VocÍ est· bem?
+-Voc√™ est√° bem?
 -Sim, estou bem.
 
 51
@@ -247,61 +247,61 @@ Droga, pai.
 
 52
 00:02:27,199 --> 00:02:28,808
-N„o achei
-que comeÁarÌamos cedo.
+N√£o achei
+que come√ßar√≠amos cedo.
 
 53
 00:02:28,809 --> 00:02:31,545
-Sim, quando terminar seu cafÈ,
+Sim, quando terminar seu caf√©,
 teremos terminado.
 
 54
 00:02:31,546 --> 00:02:33,437
-Darryl est· pegando
-r·pido as coisas.
+Darryl est√° pegando
+r√°pido as coisas.
 
 55
 00:02:33,438 --> 00:02:35,211
 Beleza,
-apertei a depÛsito do Ûleo.
+apertei a dep√≥sito do √≥leo.
 
 56
 00:02:35,212 --> 00:02:37,769
--Com sorte, parar· o vazamento.
+-Com sorte, parar√° o vazamento.
 -Venha aqui, garoto.
 
 57
 00:02:38,814 --> 00:02:42,244
-Qual È, n„o diga que meu pai
-te colocou a trabalhar de graÁa.
+Qual √©, n√£o diga que meu pai
+te colocou a trabalhar de gra√ßa.
 
 58
 00:02:42,245 --> 00:02:45,055
-De graÁa?
-Estou ensinando liÁıes valiosas.
+De gra√ßa?
+Estou ensinando li√ß√µes valiosas.
 
 59
 00:02:45,056 --> 00:02:46,412
-Habilidades negoci·veis.
+Habilidades negoci√°veis.
 
 60
 00:02:46,413 --> 00:02:49,052
-E se eu acabar atÈ meio-dia,
-almoÁamos no Apple Pan.
+E se eu acabar at√© meio-dia,
+almo√ßamos no Apple Pan.
 
 61
 00:02:49,053 --> 00:02:52,117
 Falei, se aprender a consertar
-coisas, nunca passar· fome.
+coisas, nunca passar√° fome.
 
 62
 00:02:52,118 --> 00:02:54,670
-A press„o nos pneus
-È com vocÍ, atrasadinho.
+A press√£o nos pneus
+√© com voc√™, atrasadinho.
 
 63
 00:02:54,671 --> 00:02:58,089
-SÛ para constar, fui o ˙nico
+S√≥ para constar, fui o √∫nico
 a trabalhar 18h ontem, pai.
 
 64
@@ -315,35 +315,35 @@ Senhor, sim, senhor.
 
 66
 00:03:04,372 --> 00:03:05,680
-Assim È melhor.
+Assim √© melhor.
 
 67
 00:03:05,681 --> 00:03:08,696
-ApÛs perder para o Marcus
+Ap√≥s perder para o Marcus
 e aquele Ford Coupe brega dele,
 
 68
 00:03:08,697 --> 00:03:11,114
 temos que ganhar
-na prÛxima competiÁ„o.
+na pr√≥xima competi√ß√£o.
 
 69
 00:03:12,286 --> 00:03:14,812
-Pai, est· se sentindo bem?
+Pai, est√° se sentindo bem?
 
 70
 00:03:14,813 --> 00:03:17,198
 Ficarei, assim que terminar
-meu bebÍ.
+meu beb√™.
 
 71
 00:03:20,529 --> 00:03:23,076
-Parece que vocÍ e meu pai
-est„o se dando bem.
+Parece que voc√™ e meu pai
+est√£o se dando bem.
 
 72
 00:03:23,077 --> 00:03:24,661
-Est· aprendendo
+Est√° aprendendo
 algo mesmo?
 
 73
@@ -352,7 +352,7 @@ Sim, todo dia.
 
 74
 00:03:31,874 --> 00:03:34,756
-O que est„o olhando?
+O que est√£o olhando?
 Voltem ao trabalho.
 
 75
@@ -366,17 +366,17 @@ Meu Deus.
 
 77
 00:03:56,660 --> 00:03:59,728
--N„o, devolva.
--De orquÌdeas?
+-N√£o, devolva.
+-De orqu√≠deas?
 
 78
 00:03:59,729 --> 00:04:02,303
-Alguns lÌrios,
-talvez algumas zÌnias?
+Alguns l√≠rios,
+talvez algumas z√≠nias?
 
 79
 00:04:02,304 --> 00:04:04,145
-J· pagamos o empreiteiro,
+J√° pagamos o empreiteiro,
 
 80
 00:04:04,146 --> 00:04:05,711
@@ -385,8 +385,8 @@ que dar presentes?
 
 81
 00:04:05,712 --> 00:04:07,963
-S„o os 50 anos da esposa dele.
-… importante.
+S√£o os 50 anos da esposa dele.
+√â importante.
 
 82
 00:04:07,964 --> 00:04:10,183
@@ -395,17 +395,17 @@ somados de faculdade.
 
 83
 00:04:10,184 --> 00:04:12,226
-Diz o cara com um cafÈ
+Diz o cara com um caf√©
 de US$ 5.
 
 84
 00:04:12,227 --> 00:04:15,575
 Se me amasse,
-n„o apontaria minha hipocrisia.
+n√£o apontaria minha hipocrisia.
 
 85
 00:04:15,576 --> 00:04:18,074
-Bem, vocÍ merece
+Bem, voc√™ merece
 seu agrado semanal.
 
 86
@@ -420,13 +420,13 @@ seu agrado semanal.
 
 88
 00:04:24,550 --> 00:04:26,557
--Qual vocÍ quer?
+-Qual voc√™ quer?
 -Todas elas.
 
 89
 00:04:26,558 --> 00:04:29,626
 -Todas?
--Aqui est·. Eu sei.
+-Aqui est√°. Eu sei.
 
 90
 00:04:29,627 --> 00:04:31,469
@@ -434,31 +434,31 @@ Eu sei.
 
 91
 00:04:31,470 --> 00:04:33,055
-Diga-me quais vocÍ quer.
+Diga-me quais voc√™ quer.
 
 92
 00:04:39,904 --> 00:04:41,379
-V·. Annie, v·.
+V√°. Annie, v√°.
 
 93
 00:04:44,003 --> 00:04:46,552
-CrianÁas, abaixem-se.
-Fiquem com a m„e de vocÍs.
+Crian√ßas, abaixem-se.
+Fiquem com a m√£e de voc√™s.
 
 94
 00:04:52,255 --> 00:04:54,130
 Annie,
-ligue para a emergÍncia.
+ligue para a emerg√™ncia.
 
 95
 00:04:55,594 --> 00:04:57,577
-<i>-Abaixem-se. N„o se movam!</i>
+<i>-Abaixem-se. N√£o se movam!</i>
 -Papai!
 
 96
 00:04:57,578 --> 00:04:59,469
-Est· tudo bem, querida.
-J· volto.
+Est√° tudo bem, querida.
+J√° volto.
 
 97
 00:05:06,949 --> 00:05:08,789
@@ -466,18 +466,18 @@ DPLA! Pare!
 
 98
 00:05:31,950 --> 00:05:35,865
-30-David, fora de serviÁo, 10-71
+30-David, fora de servi√ßo, 10-71
 no marcado de flores do Centro.
 
 99
 00:05:35,866 --> 00:05:38,267
 Pessoas feridas.
-Preciso de reforÁo e ambul‚ncia.
+Preciso de refor√ßo e ambul√¢ncia.
 
 100
 00:05:38,268 --> 00:05:42,000
-Um suspeito sob custÛdia.
-Dois est„o ‡ solta.
+Um suspeito sob cust√≥dia.
+Dois est√£o √† solta.
 
 101
 00:05:42,001 --> 00:05:43,899
@@ -485,12 +485,12 @@ Preciso de um 1-1-4 aqui.
 
 102
 00:05:47,199 --> 00:05:49,542
-Mande a SWAT. C‚mbio.
+Mande a SWAT. C√¢mbio.
 
 103
 00:05:50,400 --> 00:05:53,400
 <b>Queens Of The Lab
-- Diabolicamente Volunt·rias -</b>
+- Diabolicamente Volunt√°rias -</b>
 
 104
 00:05:53,401 --> 00:05:57,101
@@ -552,12 +552,12 @@ Sem sinal dos atiradores.
 
 116
 00:06:30,512 --> 00:06:33,560
-Foi r·pido. Est„o dizendo
+Foi r√°pido. Est√£o dizendo
 ter sido terrorismo.
 
 117
 00:06:33,561 --> 00:06:36,082
-N„o, n„o foi.
+N√£o, n√£o foi.
 Eles eram treinados.
 
 118
@@ -567,7 +567,7 @@ Tem que ter um motivo.
 
 119
 00:06:38,677 --> 00:06:40,680
-Vamos pegar as gravaÁıes
+Vamos pegar as grava√ß√µes
 
 120
 00:06:40,681 --> 00:06:42,888
@@ -582,7 +582,7 @@ junto com o suspeito.
 122
 00:06:45,482 --> 00:06:47,732
 -Fez o que podia.
--Feliz que est· bem, cara.
+-Feliz que est√° bem, cara.
 
 123
 00:06:47,733 --> 00:06:50,848
@@ -591,27 +591,27 @@ junto com o suspeito.
 
 124
 00:06:50,849 --> 00:06:54,286
-Ouvi no r·dio.
-E corri para c·.
+Ouvi no r√°dio.
+E corri para c√°.
 
 125
 00:06:54,287 --> 00:06:57,407
--Est· bem?
+-Est√° bem?
 -Sim, mas 4 mortos e 6 feridos.
 
 126
 00:06:57,408 --> 00:06:59,305
--Annie e as crianÁas?
+-Annie e as crian√ßas?
 -Com a equipe.
 
 127
 00:06:59,306 --> 00:07:01,198
-Annie È forte,
+Annie √© forte,
 mas eles se assustaram.
 
 128
 00:07:01,199 --> 00:07:02,507
-N„o imagino o que pensam.
+N√£o imagino o que pensam.
 
 129
 00:07:02,508 --> 00:07:05,737
@@ -620,8 +620,8 @@ arrasou e os salvou.
 
 130
 00:07:08,513 --> 00:07:10,746
-SÛ queria um dia em paz
-em famÌlia.
+S√≥ queria um dia em paz
+em fam√≠lia.
 
 131
 00:07:15,183 --> 00:07:17,287
@@ -630,17 +630,17 @@ Papai.
 132
 00:07:17,288 --> 00:07:19,464
 Lila.
-Desculpe deix·-los esperando.
+Desculpe deix√°-los esperando.
 
 133
 00:07:20,381 --> 00:07:23,183
--A m„e comprou flores?
--N„o, eu comprei.
+-A m√£e comprou flores?
+-N√£o, eu comprei.
 
 134
 00:07:23,184 --> 00:07:25,092
--SÈrio?
--Para vocÍ.
+-S√©rio?
+-Para voc√™.
 
 135
 00:07:25,093 --> 00:07:27,240
@@ -658,7 +658,7 @@ soube do Deacon e da Annie?
 138
 00:07:47,001 --> 00:07:48,649
 Sim, os atiradores
-est„o por aÌ.
+est√£o por a√≠.
 
 139
 00:07:48,650 --> 00:07:50,947
@@ -667,7 +667,7 @@ Eles devem estar assustados.
 
 140
 00:07:50,948 --> 00:07:52,436
-Annie È forte.
+Annie √© forte.
 Conhecendo-a,
 
 141
@@ -678,17 +678,17 @@ protegido os pequenos.
 142
 00:07:55,247 --> 00:07:57,457
 Independente disso,
-foram atr·s de um de nÛs.
+foram atr√°s de um de n√≥s.
 
 143
 00:07:57,458 --> 00:07:59,843
-Todo esforÁo
-atÈ pegarmos
+Todo esfor√ßo
+at√© pegarmos
 
 144
 00:07:59,844 --> 00:08:02,865
-quem for respons·vel.
-E eu n„o vou esperar.
+quem for respons√°vel.
+E eu n√£o vou esperar.
 
 145
 00:08:02,866 --> 00:08:04,556
@@ -703,35 +703,35 @@ o cara que Deacon trouxe.
 147
 00:08:07,110 --> 00:08:09,757
 <i>Quem contratou
-vocÍ e seus amigos?</i>
+voc√™ e seus amigos?</i>
 
 148
 00:08:11,174 --> 00:08:13,670
 <i>Escute,</i>
-se acha que silÍncio
+se acha que sil√™ncio
 
 149
 00:08:13,671 --> 00:08:15,606
-e se fingir de dur„o
+e se fingir de dur√£o
 vai ajudar,
 
 150
 00:08:16,597 --> 00:08:18,432
-est· enganado.
+est√° enganado.
 
 151
 00:08:18,433 --> 00:08:22,429
-SÛ tem um jeito de te ajudarmos,
-e È se vocÍ comeÁar a falar.
+S√≥ tem um jeito de te ajudarmos,
+e √© se voc√™ come√ßar a falar.
 
 152
 00:08:22,430 --> 00:08:25,839
-<i>Para comeÁar,
+<i>Para come√ßar,
 pode falar sobre seus amigos.</i>
 
 153
 00:08:26,239 --> 00:08:30,459
-<i>Claro que n„o foi</i>
+<i>Claro que n√£o foi</i>
 um passeio ou uma volta.
 
 154
@@ -741,46 +741,46 @@ no mercado de flores?
 
 155
 00:08:32,397 --> 00:08:34,215
-AlguÈm mandou vocÍs,
-n„o mandou?
+Algu√©m mandou voc√™s,
+n√£o mandou?
 
 156
 00:08:35,983 --> 00:08:38,305
-Se est· com medo
+Se est√° com medo
 de seu chefe
 
 157
 00:08:38,306 --> 00:08:40,447
--pegar vocÍ...
--N„o tenho medo de ninguÈm.
+-pegar voc√™...
+-N√£o tenho medo de ningu√©m.
 
 158
 00:08:42,797 --> 00:08:45,570
 <i>Mas tem medo
-da pris„o, certo?</i>
+da pris√£o, certo?</i>
 
 159
 00:08:46,281 --> 00:08:49,181
-<i>N„o ter· muitos amigos
+<i>N√£o ter√° muitos amigos
 sendo colombiano.</i>
 
 160
 00:08:49,182 --> 00:08:51,077
-<i>Olhe, est· sozinho.</i>
+<i>Olhe, est√° sozinho.</i>
 
 161
 00:08:51,078 --> 00:08:52,719
-<i>Goste ou n„o,</i>
+<i>Goste ou n√£o,</i>
 
 162
 00:08:52,720 --> 00:08:54,727
 <i>-somos os...</i>
--Est„o conseguindo algo?
+-Est√£o conseguindo algo?
 
 163
 00:08:54,728 --> 00:08:57,426
-N„o, ele n„o est· falando.
-Mas n„o estou surpreso.
+N√£o, ele n√£o est√° falando.
+Mas n√£o estou surpreso.
 
 164
 00:08:57,427 --> 00:09:01,258
@@ -789,7 +789,7 @@ agiram, sem hesitar...
 
 165
 00:09:02,489 --> 00:09:03,789
-S„o profissionais.
+S√£o profissionais.
 
 166
 00:09:03,790 --> 00:09:07,216
@@ -798,12 +798,12 @@ que vemos todos os dias...
 
 167
 00:09:08,073 --> 00:09:10,979
-È diferente
+√© diferente
 quando atinge quem amamos.
 
 168
 00:09:10,980 --> 00:09:12,517
-… que...
+√â que...
 
 169
 00:09:12,518 --> 00:09:14,556
@@ -812,32 +812,32 @@ chegou perto.
 170
 00:09:15,827 --> 00:09:18,390
 Sou eu quem devia
-estar em perigo, n„o eles.
+estar em perigo, n√£o eles.
 
 171
 00:09:18,391 --> 00:09:21,515
-Deacon, o importante È
-que eles est„o seguros.
+Deacon, o importante √©
+que eles est√£o seguros.
 
 172
 00:09:21,516 --> 00:09:24,266
 E muitas outras pessoas
-tambÈm.
+tamb√©m.
 
 173
 00:09:29,335 --> 00:09:32,114
-Vamos l·. Ele tinha
-tatuagem da ColÙmbia, certo?
+Vamos l√°. Ele tinha
+tatuagem da Col√¥mbia, certo?
 
 174
 00:09:32,115 --> 00:09:35,178
 Procurei no banco de dados
-da AmÈrica do Sul.
+da Am√©rica do Sul.
 
 175
 00:09:35,179 --> 00:09:37,846
 -Alguma sorte?
--Ele È colombiano nacionalista.
+-Ele √© colombiano nacionalista.
 
 176
 00:09:37,847 --> 00:09:39,785
@@ -850,7 +850,7 @@ Yerry Chara.
 
 178
 00:09:42,035 --> 00:09:44,478
-… membro de um grupo
+√â membro de um grupo
 rebelde, "FARC."
 
 179
@@ -861,7 +861,7 @@ rebelde, "FARC."
 180
 00:09:47,084 --> 00:09:48,820
 Costumavam traficar
-cocaÌna.
+coca√≠na.
 
 181
 00:09:48,821 --> 00:09:52,513
@@ -870,7 +870,7 @@ depois do que aconteceu em 2016.
 
 182
 00:09:52,514 --> 00:09:55,557
-Por que est„o em LA
+Por que est√£o em LA
 em um mercado de flores.
 
 183
@@ -884,8 +884,8 @@ que chegam aos EUA
 
 185
 00:10:00,018 --> 00:10:01,870
-vem da ColÙmbia.
-Aviıes todo dia.
+vem da Col√¥mbia.
+Avi√µes todo dia.
 
 186
 00:10:01,871 --> 00:10:03,671
@@ -900,17 +900,17 @@ dado o estilo.
 188
 00:10:05,190 --> 00:10:06,901
 As motos,
-armas autom·ticas.
+armas autom√°ticas.
 
 189
 00:10:06,902 --> 00:10:09,578
-S„o remanescentes
+S√£o remanescentes
 dos grupos sul-americanos.
 
 190
 00:10:09,579 --> 00:10:12,339
 Desde que o cartel mexicano
-tomou o tr·fico de cocaÌna,
+tomou o tr√°fico de coca√≠na,
 
 191
 00:10:12,340 --> 00:10:14,036
@@ -919,22 +919,22 @@ tentam voltar.
 
 192
 00:10:14,037 --> 00:10:15,797
-Espere aÌ... Luca,
+Espere a√≠... Luca,
 esse cara aqui.
 
 193
 00:10:15,798 --> 00:10:17,721
-Estava l· de manh„.
+Estava l√° de manh√£.
 
 194
 00:10:18,132 --> 00:10:19,586
 -Certeza?
--100%. Estava l·.
+-100%. Estava l√°.
 
 195
 00:10:19,587 --> 00:10:21,367
 Estava olhando
-quando tudo comeÁou.
+quando tudo come√ßou.
 
 196
 00:10:21,368 --> 00:10:22,767
@@ -943,13 +943,13 @@ de general,
 
 197
 00:10:22,768 --> 00:10:24,168
-mas n„o tem nome
+mas n√£o tem nome
 no uniforme.
 
 198
 00:10:24,169 --> 00:10:26,347
 Vamos descobrir
-quem ele È.
+quem ele √©.
 
 199
 00:10:27,957 --> 00:10:30,289
@@ -957,7 +957,7 @@ Cara, o que foi?
 
 200
 00:10:30,290 --> 00:10:33,150
-VocÍ n„o È de se atrasar,
+Voc√™ n√£o √© de se atrasar,
 principalmente em dia cheio.
 
 201
@@ -967,12 +967,12 @@ de Conduta no caminho.
 
 202
 00:10:36,805 --> 00:10:38,561
-Por quÍ?
+Por qu√™?
 O que aconteceu?
 
 203
 00:10:38,562 --> 00:10:41,156
-Ontem ‡ noite, sem querer
+Ontem √† noite, sem querer
 comi balinhas de maconha.
 
 204
@@ -982,32 +982,32 @@ Na verdade, da amiga dela.
 
 205
 00:10:43,448 --> 00:10:45,519
-N„o sabia o que eram
-atÈ que j· era tarde.
+N√£o sabia o que eram
+at√© que j√° era tarde.
 
 206
 00:10:45,520 --> 00:10:47,822
-N„o fiquei chapado.
-SÛ dormi demais.
+N√£o fiquei chapado.
+S√≥ dormi demais.
 
 207
 00:10:47,823 --> 00:10:50,077
--J· contou ao Hondo?
+-J√° contou ao Hondo?
 -Para ele e para o Hicks.
 
 208
 00:10:50,078 --> 00:10:52,027
-Foram t„o de boa,
+Foram t√£o de boa,
 quanto poderiam,
 
 209
 00:10:52,028 --> 00:10:53,546
-dada as circunst‚ncias.
+dada as circunst√¢ncias.
 
 210
 00:10:53,547 --> 00:10:55,681
-Agora vocÍ est·
-sob investigaÁ„o?
+Agora voc√™ est√°
+sob investiga√ß√£o?
 
 211
 00:10:55,682 --> 00:10:58,801
@@ -1016,7 +1016,7 @@ amostra de urina, sangue, tudo.
 
 212
 00:10:58,802 --> 00:11:00,266
-Agora ir„o mandar alguÈm.
+Agora ir√£o mandar algu√©m.
 
 213
 00:11:00,267 --> 00:11:01,916
@@ -1025,16 +1025,16 @@ uma entrevista.
 
 214
 00:11:02,426 --> 00:11:05,813
--Sabe que perguntas eles far„o?
+-Sabe que perguntas eles far√£o?
 -Por que todo mundo acha
 
 215
 00:11:05,814 --> 00:11:07,383
-que estou sempre por l·?
+que estou sempre por l√°?
 
 216
 00:11:07,384 --> 00:11:08,830
-SÛ me diga o que sabe.
+S√≥ me diga o que sabe.
 
 217
 00:11:09,530 --> 00:11:11,454
@@ -1042,22 +1042,22 @@ Pelo que eu ouvi...
 
 218
 00:11:11,455 --> 00:11:14,425
-e È pura fofoca,
+e √© pura fofoca,
 eles atacam o lado pessoal.
 
 219
 00:11:14,426 --> 00:11:16,763
-VocÍ ficar· bem
-se n„o levar por esse lado.
+Voc√™ ficar√° bem
+se n√£o levar por esse lado.
 
 220
 00:11:16,764 --> 00:11:19,731
 Certo.
-N„o sei como me sinto.
+N√£o sei como me sinto.
 
 221
 00:11:19,732 --> 00:11:22,452
-O problema È,
+O problema √©,
 eu amo a Bonnie, mas...
 
 222
@@ -1067,41 +1067,41 @@ o que ela estava pensando?
 
 223
 00:11:24,332 --> 00:11:25,651
-Escute de alguÈm
+Escute de algu√©m
 
 224
 00:11:25,652 --> 00:11:28,399
-cujo julgamento È questionado
+cujo julgamento √© questionado
 ocasionalmente.
 
 225
 00:11:28,400 --> 00:11:30,476
 -Pegue leve com ela.
--N„o sei.
+-N√£o sei.
 
 226
 00:11:30,477 --> 00:11:32,321
-N„o a apresentei
-para minha m„e,
+N√£o a apresentei
+para minha m√£e,
 
 227
 00:11:32,322 --> 00:11:34,120
-ou para a famÌlia.
+ou para a fam√≠lia.
 
 228
 00:11:34,121 --> 00:11:36,601
-Talvez tenha uma raz„o
+Talvez tenha uma raz√£o
 para isso.
 
 229
 00:11:45,395 --> 00:11:48,046
--Posso falar com vocÍ?
--J· falei com a polÌcia.
+-Posso falar com voc√™?
+-J√° falei com a pol√≠cia.
 
 230
 00:11:48,047 --> 00:11:50,920
 Tenho certeza que o policial
-n„o te perguntou sobre ele.
+n√£o te perguntou sobre ele.
 
 231
 00:11:51,483 --> 00:11:53,374
@@ -1110,12 +1110,12 @@ antes do tiroteio.
 
 232
 00:11:53,375 --> 00:11:55,458
--VocÍ o conhece?
--N„o posso ajud·-los.
+-Voc√™ o conhece?
+-N√£o posso ajud√°-los.
 
 233
 00:11:55,459 --> 00:11:56,881
-N„o quero usar essa carta,
+N√£o quero usar essa carta,
 
 234
 00:11:56,882 --> 00:11:58,541
@@ -1124,26 +1124,26 @@ que te salvei hoje.
 
 235
 00:11:59,661 --> 00:12:01,064
-Quem È esse cara?
+Quem √© esse cara?
 
 236
 00:12:02,152 --> 00:12:04,221
-O nome dele È
+O nome dele √©
 Emiliano Murido.
 
 237
 00:12:04,222 --> 00:12:06,676
-Ele faz vocÍs importarem drogas
-nas flores, n„o È?
+Ele faz voc√™s importarem drogas
+nas flores, n√£o √©?
 
 238
 00:12:06,677 --> 00:12:07,986
-N„o temos escolha.
+N√£o temos escolha.
 
 239
 00:12:07,987 --> 00:12:09,697
 Ele pode
-machucar nossas famÌlias.
+machucar nossas fam√≠lias.
 
 240
 00:12:09,698 --> 00:12:11,449
@@ -1152,23 +1152,23 @@ o tiroteio?
 
 241
 00:12:11,450 --> 00:12:13,806
-Sim. NinguÈm quer se envolver
+Sim. Ningu√©m quer se envolver
 com as drogas.
 
 242
 00:12:13,807 --> 00:12:16,438
-SÛ queremos vender as flores.
+S√≥ queremos vender as flores.
 Deve ter descoberto
 
 243
 00:12:16,439 --> 00:12:18,314
-que alguns est„o falando
+que alguns est√£o falando
 em denunciar.
 
 244
 00:12:18,315 --> 00:12:20,461
-Essa È a forma do Murido
-mantÍ-los quietos?
+Essa √© a forma do Murido
+mant√™-los quietos?
 
 245
 00:12:20,462 --> 00:12:23,338
@@ -1177,8 +1177,8 @@ mantÍ-los quietos?
 
 246
 00:12:23,339 --> 00:12:25,605
-Por isso viemos para c·,
-n„o para isso.
+Por isso viemos para c√°,
+n√£o para isso.
 
 247
 00:12:25,606 --> 00:12:27,247
@@ -1187,13 +1187,13 @@ pode dizer sobre ele?
 
 248
 00:12:30,180 --> 00:12:32,677
-Cheguei em casa apÛs o turno
+Cheguei em casa ap√≥s o turno
 por volta das 2h.
 
 249
 00:12:32,678 --> 00:12:34,945
-As balinhas em quest„o
-estavam no balc„o.
+As balinhas em quest√£o
+estavam no balc√£o.
 
 250
 00:12:34,946 --> 00:12:36,792
@@ -1205,7 +1205,7 @@ E fui dormir.
 
 252
 00:12:38,852 --> 00:12:41,559
-SÛ hoje de manh„,
+S√≥ hoje de manh√£,
 depois que acordei,
 
 253
@@ -1238,17 +1238,17 @@ Bonnie. Bonnie Lonsdale.
 
 259
 00:12:54,950 --> 00:12:57,669
-N„o È culpa dela.
+N√£o √© culpa dela.
 Ela deveria ter jogado fora,
 
 260
 00:12:57,670 --> 00:12:59,591
 mas tinha bebido
-ontem ‡ noite.
+ontem √† noite.
 
 261
 00:13:01,472 --> 00:13:03,258
-N„o que ela costume
+N√£o que ela costume
 beber muito.
 
 262
@@ -1257,22 +1257,22 @@ Mas uma amiga a visitou,
 
 263
 00:13:05,247 --> 00:13:06,675
-n„o se viam
-h· muito tempo.
+n√£o se viam
+h√° muito tempo.
 
 264
 00:13:06,676 --> 00:13:08,943
-Como È o relacionamento
+Como √© o relacionamento
 com a srta. Lonsdale?
 
 265
 00:13:08,944 --> 00:13:10,385
-… sÈrio?
+√â s√©rio?
 
 266
 00:13:10,386 --> 00:13:12,447
-Isso È necess·rio
-para a investigaÁ„o?
+Isso √© necess√°rio
+para a investiga√ß√£o?
 
 267
 00:13:12,448 --> 00:13:14,462
@@ -1281,7 +1281,7 @@ e agente da SWAT,
 
 268
 00:13:14,463 --> 00:13:17,014
-È tomar decisıes certas,
+√© tomar decis√µes certas,
 dentro e fora do trabalho.
 
 269
@@ -1291,13 +1291,13 @@ se apresente
 
 270
 00:13:19,141 --> 00:13:21,757
--e dÍ uma declaraÁ„o.
--Ela pode n„o gostar disso.
+-e d√™ uma declara√ß√£o.
+-Ela pode n√£o gostar disso.
 
 271
 00:13:21,758 --> 00:13:24,374
 Ela gostaria
-que concluÌssemos a investigaÁ„o
+que conclu√≠ssemos a investiga√ß√£o
 
 272
 00:13:24,375 --> 00:13:26,181
@@ -1311,17 +1311,17 @@ ficar comigo na faculdade
 
 274
 00:13:32,074 --> 00:13:34,711
-agora È da NarcÛticos,
-as vezes pesco informaÁ„o,
+agora √© da Narc√≥ticos,
+as vezes pesco informa√ß√£o,
 
 275
 00:13:34,712 --> 00:13:36,684
 e aparentemente
-ainda n„o resiste a mim.
+ainda n√£o resiste a mim.
 
 276
 00:13:36,685 --> 00:13:38,293
-Deu informaÁıes
+Deu informa√ß√µes
 sobre nosso cara.
 
 277
@@ -1330,12 +1330,12 @@ General Emiliano Murido.
 
 278
 00:13:40,935 --> 00:13:43,704
-Era lÌder das FARC
-atÈ assinarem o tratado de paz
+Era l√≠der das FARC
+at√© assinarem o tratado de paz
 
 279
 00:13:43,705 --> 00:13:45,765
-com o governo da ColÙmbia
+com o governo da Col√¥mbia
 em 2016.
 
 280
@@ -1345,13 +1345,13 @@ mas pelo visto,
 
 281
 00:13:47,887 --> 00:13:50,158
-ele È respons·vel
+ele √© respons√°vel
 por dezenas de mortes.
 
 282
 00:13:50,159 --> 00:13:53,021
 Acontece que ele era ruim,
-respons·vel por extorsıes,
+respons√°vel por extors√µes,
 
 283
 00:13:53,022 --> 00:13:54,887
@@ -1360,7 +1360,7 @@ respons·vel por extorsıes,
 
 284
 00:13:54,888 --> 00:13:57,619
-na operaÁ„o de tr·fico
+na opera√ß√£o de tr√°fico
 que financia tudo.
 
 285
@@ -1370,8 +1370,8 @@ depois do tratado de paz.
 
 286
 00:13:59,912 --> 00:14:02,721
-Estamos com a HomicÌdios
-e a NarcÛticos procurando a rede
+Estamos com a Homic√≠dios
+e a Narc√≥ticos procurando a rede
 
 287
 00:14:02,722 --> 00:14:04,023
@@ -1385,15 +1385,15 @@ no Bentley que ele dirige.
 289
 00:14:06,851 --> 00:14:09,474
 Foi visto agora
-em um cafÈ em Larchmont.
+em um caf√© em Larchmont.
 
 290
 00:14:09,475 --> 00:14:11,473
-FaÁam uma visita para ele.
+Fa√ßam uma visita para ele.
 
 291
 00:14:11,474 --> 00:14:14,321
-Sabemos que ele È perigoso.
+Sabemos que ele √© perigoso.
 Tomem cuidado.
 
 292
@@ -1403,7 +1403,7 @@ Senhora interessante.
 293
 00:14:16,903 --> 00:14:18,597
 Ela fala tudo
-o que vem na cabeÁa.
+o que vem na cabe√ßa.
 
 294
 00:14:18,598 --> 00:14:20,351
@@ -1430,7 +1430,7 @@ Estou muito ocupado.
 
 299
 00:14:46,371 --> 00:14:48,349
-Vi vocÍ l·
+Vi voc√™ l√°
 antes dos atiradores.
 
 300
@@ -1448,21 +1448,21 @@ De algum jeito, eu duvido.
 
 303
 00:14:57,827 --> 00:14:59,833
-Vir· conosco,
+Vir√° conosco,
 de um jeito ou de outro.
 
 304
 00:15:01,717 --> 00:15:04,640
-Se n„o se importarem,
-liguem para esse n˙mero antes.
+Se n√£o se importarem,
+liguem para esse n√∫mero antes.
 
 305
 00:15:07,400 --> 00:15:09,000
-Quem atender·?
+Quem atender√°?
 
 306
 00:15:09,400 --> 00:15:11,600
-H· apenas uma maneira
+H√° apenas uma maneira
 de descobrir.
 
 307
@@ -1471,8 +1471,8 @@ Tenho uma ideia melhor.
 
 308
 00:15:14,700 --> 00:15:16,700
-Por que vocÍ
-n„o faz essa ligaÁ„o
+Por que voc√™
+n√£o faz essa liga√ß√£o
 
 309
 00:15:16,701 --> 00:15:19,000
@@ -1482,7 +1482,7 @@ Levante-se.
 310
 00:15:37,600 --> 00:15:40,100
 Hondo, Deacon,
-esse È o agente Devereaux,
+esse √© o agente Devereaux,
 
 311
 00:15:40,101 --> 00:15:41,401
@@ -1491,7 +1491,7 @@ esse È o agente Devereaux,
 
 312
 00:15:41,402 --> 00:15:43,200
-Qual È o envolvimento
+Qual √© o envolvimento
 da CIA?
 
 313
@@ -1501,18 +1501,18 @@ o general Murido.
 
 314
 00:15:45,002 --> 00:15:46,600
--O quÍ, tenente?
--VocÍ escutou.
+-O qu√™, tenente?
+-Voc√™ escutou.
 
 315
 00:15:46,601 --> 00:15:49,600
-N„o precisam gostar,
-mas devem liber·-lo.
+N√£o precisam gostar,
+mas devem liber√°-lo.
 
 316
 00:16:02,200 --> 00:16:05,500
 Acreditamos que Murido
-trafica cocaÌna para LA.
+trafica coca√≠na para LA.
 
 317
 00:16:05,501 --> 00:16:07,501
@@ -1532,7 +1532,7 @@ do envolvimento de Murido?
 320
 00:16:11,201 --> 00:16:13,801
 Falei com um vendedor
-forÁado a traficar pelo Murido.
+for√ßado a traficar pelo Murido.
 
 321
 00:16:13,802 --> 00:16:15,800
@@ -1541,55 +1541,55 @@ organizou o tiroteio
 
 322
 00:16:15,801 --> 00:16:17,401
-como ameaÁa
-para n„o denunciarem.
+como amea√ßa
+para n√£o denunciarem.
 
 323
 00:16:17,402 --> 00:16:18,900
-Bom, isso È especulaÁ„o.
+Bom, isso √© especula√ß√£o.
 
 324
 00:16:18,901 --> 00:16:20,700
--AlguÈm confirmou?
--Ele estava l·.
+-Algu√©m confirmou?
+-Ele estava l√°.
 
 325
 00:16:20,701 --> 00:16:22,300
-Foi filmado l·,
+Foi filmado l√°,
 antes do ataque.
 
 326
 00:16:22,301 --> 00:16:25,000
-Ent„o vocÍ tem imagens dele
+Ent√£o voc√™ tem imagens dele
 comprando flores.
 
 327
 00:16:25,001 --> 00:16:27,400
 Vamos, realmente acha
-que foi coincidÍncia?
+que foi coincid√™ncia?
 
 328
 00:16:27,401 --> 00:16:29,700
-O que ele lhe d· em troca
-dessa proteÁ„o?
+O que ele lhe d√° em troca
+dessa prote√ß√£o?
 
 329
 00:16:29,701 --> 00:16:31,200
-… informaÁ„o confidencial.
+√â informa√ß√£o confidencial.
 
 330
 00:16:31,201 --> 00:16:33,700
-Olhem, Murido n„o È um anjo,
+Olhem, Murido n√£o √© um anjo,
 sabemos disso.
 
 331
 00:16:33,701 --> 00:16:36,351
 Por conta do passado,
-nos d· informaÁıes da fronteira
+nos d√° informa√ß√µes da fronteira
 
 332
 00:16:36,352 --> 00:16:38,100
-entre ColÙmbia e Venezuela,
+entre Col√¥mbia e Venezuela,
 
 333
 00:16:38,101 --> 00:16:39,700
@@ -1609,22 +1609,22 @@ certo grau de imunidade
 336
 00:16:45,363 --> 00:16:47,900
 e provemos o tratamento
-de uma condiÁ„o viral dele.
+de uma condi√ß√£o viral dele.
 
 337
 00:16:47,901 --> 00:16:49,900
 Mas existem limites,
-È claro.
+√© claro.
 
 338
 00:16:49,901 --> 00:16:52,500
 Falarei com ele, garantir
-que est· sob meu controle.
+que est√° sob meu controle.
 
 339
 00:16:52,501 --> 00:16:54,700
-Far· vista grossa
-para o tr·fico de drogas?
+Far√° vista grossa
+para o tr√°fico de drogas?
 
 340
 00:16:54,701 --> 00:16:56,551
@@ -1639,11 +1639,11 @@ antes de abandonar o bem maior.
 342
 00:16:59,301 --> 00:17:02,600
 Bem maior?
-N„o viu aquelas pessoas mortas.
+N√£o viu aquelas pessoas mortas.
 
 343
 00:17:02,601 --> 00:17:05,700
-Suas prioridades est„o a mais
+Suas prioridades est√£o a mais
 de 6000km, em outro continente.
 
 344
@@ -1653,17 +1653,17 @@ aqui em Los Angeles.
 
 345
 00:17:10,000 --> 00:17:12,500
-Murido n„o pode ser preso,
+Murido n√£o pode ser preso,
 entenderam?
 
 346
 00:17:17,200 --> 00:17:21,100
-Prendam-no novamente e sofrer·
-consequÍncias, tenente Lynch.
+Prendam-no novamente e sofrer√°
+consequ√™ncias, tenente Lynch.
 
 347
 00:17:29,600 --> 00:17:31,900
-N„o È uma luta
+N√£o √© uma luta
 que possamos ganhar.
 
 348
@@ -1695,13 +1695,13 @@ o novo carburador.
 
 354
 00:17:48,901 --> 00:17:51,800
-Pensei em dirigir atÈ aqui,
-que n„o È t„o longe.
+Pensei em dirigir at√© aqui,
+que n√£o √© t√£o longe.
 
 355
 00:17:51,801 --> 00:17:54,700
 Espere, meu pai deixou
-vocÍ dirigir o 64?
+voc√™ dirigir o 64?
 
 356
 00:17:54,701 --> 00:17:57,700
@@ -1716,17 +1716,17 @@ que ele confia em mim.
 358
 00:18:02,100 --> 00:18:03,900
 O que realmente
-est· acontecendo?
+est√° acontecendo?
 
 359
 00:18:06,200 --> 00:18:09,600
 Eu ia contar antes, mas seu pai
-pediu para eu n„o falar nada.
+pediu para eu n√£o falar nada.
 
 360
 00:18:10,100 --> 00:18:12,000
 Sendo direto,
-acho que ele est· doente.
+acho que ele est√° doente.
 
 361
 00:18:12,001 --> 00:18:14,900
@@ -1735,13 +1735,13 @@ Eu o vi tossindo sangue.
 
 362
 00:18:14,901 --> 00:18:17,800
--Espere um minuto, o quÍ?
--J· vi acontecer duas vezes.
+-Espere um minuto, o qu√™?
+-J√° vi acontecer duas vezes.
 
 363
 00:18:17,801 --> 00:18:20,900
 Na primeira vez, disse sentir
-uma queimaÁ„o, e n„o entendi.
+uma queima√ß√£o, e n√£o entendi.
 
 364
 00:18:20,901 --> 00:18:23,500
@@ -1751,12 +1751,12 @@ um jeito antigo de falar 'azia'.
 365
 00:18:23,501 --> 00:18:25,200
 Mas sabia
-que n„o era isso.
+que n√£o era isso.
 
 366
 00:18:25,201 --> 00:18:27,600
 Na segunda vez,
-eu ia acionar a emergÍncia,
+eu ia acionar a emerg√™ncia,
 
 367
 00:18:27,601 --> 00:18:29,451
@@ -1766,7 +1766,7 @@ que ia lidar com aquilo.
 368
 00:18:30,200 --> 00:18:31,900
 Certo, Darryl,
-est· tudo bem.
+est√° tudo bem.
 
 369
 00:18:31,901 --> 00:18:33,600
@@ -1779,8 +1779,8 @@ Obrigado por me contar.
 
 371
 00:18:38,200 --> 00:18:41,000
-Por favor, n„o seja dura
-com o Victor, ele n„o sabia.
+Por favor, n√£o seja dura
+com o Victor, ele n√£o sabia.
 
 372
 00:18:41,001 --> 00:18:43,300
@@ -1789,21 +1789,21 @@ eu sinto muito.
 
 373
 00:18:43,301 --> 00:18:45,600
-Ent„o as balas de maconha
-pertencem a vocÍ?
+Ent√£o as balas de maconha
+pertencem a voc√™?
 
 374
 00:18:45,601 --> 00:18:47,900
-N„o, uma amiga os trouxe.
+N√£o, uma amiga os trouxe.
 
 375
 00:18:47,901 --> 00:18:50,200
 Por favor,
-nos dÍ o nome da sua amiga.
+nos d√™ o nome da sua amiga.
 
 376
 00:18:51,200 --> 00:18:52,700
-… necess·rio?
+√â necess√°rio?
 
 377
 00:18:52,701 --> 00:18:55,000
@@ -1816,17 +1816,17 @@ Creio que sim.
 
 379
 00:18:57,400 --> 00:19:00,000
-Diga-me que ela n„o
-se encrencar· por isso, tambÈm.
+Diga-me que ela n√£o
+se encrencar√° por isso, tamb√©m.
 
 380
 00:19:00,001 --> 00:19:02,000
-N„o, apenas
+N√£o, apenas
 quero avaliar os fatos.
 
 381
 00:19:02,400 --> 00:19:04,900
-Com que frequÍncia
+Com que frequ√™ncia
 consome derivados de maconha?
 
 382
@@ -1836,13 +1836,13 @@ uma vez por semana.
 
 383
 00:19:11,300 --> 00:19:14,624
-Foi um erro terrÌvel.
+Foi um erro terr√≠vel.
 Eu amo o Victor,
 
 384
 00:19:14,625 --> 00:19:16,443
-e n„o quero
-coloc·-lo em encrenca
+e n√£o quero
+coloc√°-lo em encrenca
 
 385
 00:19:16,444 --> 00:19:18,850
@@ -1856,18 +1856,18 @@ precisa de algo mais?
 
 387
 00:19:21,101 --> 00:19:23,100
-Apenas paciÍncia
+Apenas paci√™ncia
 enquanto deliberamos.
 
 388
 00:19:30,500 --> 00:19:32,900
 Tudo o que eu disse
-È verdade.
+√© verdade.
 
 389
 00:19:33,300 --> 00:19:35,400
 Sei o quanto a SWAT
-È importante para vocÍ.
+√© importante para voc√™.
 
 390
 00:19:35,401 --> 00:19:37,300
@@ -1881,7 +1881,7 @@ impedindo isso de acontecer.
 
 392
 00:19:40,202 --> 00:19:43,300
-Obrigada, mas est· tentando
+Obrigada, mas est√° tentando
 assumir a responsabilidade,
 
 393
@@ -1901,77 +1901,77 @@ pensado melhor.
 
 396
 00:19:52,100 --> 00:19:55,800
-Se ficarmos juntos, o que vocÍ
-fizer, me afetar·, e vice-versa.
+Se ficarmos juntos, o que voc√™
+fizer, me afetar√°, e vice-versa.
 
 397
 00:19:55,801 --> 00:19:58,600
-H· coisas que n„o posso fazer
+H√° coisas que n√£o posso fazer
 por causa desse trabalho.
 
 398
 00:19:59,000 --> 00:20:00,750
-Mas tambÈm sei
-que n„o È justo pedir
+Mas tamb√©m sei
+que n√£o √© justo pedir
 
 399
 00:20:00,751 --> 00:20:03,700
-que vocÍ seja diferente
-do que vocÍ È, ent„o eu n„o sei.
+que voc√™ seja diferente
+do que voc√™ √©, ent√£o eu n√£o sei.
 
 400
 00:20:04,724 --> 00:20:06,704
-VocÍ est· me assustando
+Voc√™ est√° me assustando
 agora.
 
 401
 00:20:06,705 --> 00:20:09,415
--VocÍ est· dizendo que...
--N„o sei o que estou dizendo.
+-Voc√™ est√° dizendo que...
+-N√£o sei o que estou dizendo.
 
 402
 00:20:11,510 --> 00:20:13,773
-Volto j·.
-Eu sÛ vou usar o banheiro.
+Volto j√°.
+Eu s√≥ vou usar o banheiro.
 
 403
 00:20:16,950 --> 00:20:19,796
-Deacon achou um pseudÙnimo
-do Murido usado na ColÙmbia.
+Deacon achou um pseud√¥nimo
+do Murido usado na Col√¥mbia.
 
 404
 00:20:19,797 --> 00:20:21,688
 Cruzamos os registros
-do CartÛrio
+do Cart√≥rio
 
 405
 00:20:21,689 --> 00:20:23,445
 e foi usado
-para obter uma licenÁa.
+para obter uma licen√ßa.
 
 406
 00:20:23,446 --> 00:20:25,295
-… um armazÈm de flores
+√â um armaz√©m de flores
 em South Gate,
 
 407
 00:20:25,296 --> 00:20:27,647
 onde os fornecedores do Murido
-v„o semanalmente.
+v√£o semanalmente.
 
 408
 00:20:27,648 --> 00:20:29,298
 Provavelmente
-buscam as drogas l·.
+buscam as drogas l√°.
 
 409
 00:20:29,299 --> 00:20:30,947
 Esperem.
-VocÍs ouviram a CIA.
+Voc√™s ouviram a CIA.
 
 410
 00:20:30,948 --> 00:20:32,366
-Murido È intoc·vel.
+Murido √© intoc√°vel.
 
 411
 00:20:32,367 --> 00:20:34,017
@@ -1979,7 +1979,7 @@ Ele pode ser.
 
 412
 00:20:34,647 --> 00:20:37,989
-Mas eu ouvi que eles n„o fariam
+Mas eu ouvi que eles n√£o fariam
 nada sem mais provas.
 
 413
@@ -1989,8 +1989,8 @@ respeito,
 
 414
 00:20:39,447 --> 00:20:41,340
-esse negÛcio de drogas
-È jogo limpo.
+esse neg√≥cio de drogas
+√© jogo limpo.
 
 415
 00:20:41,341 --> 00:20:44,691
@@ -1999,12 +1999,12 @@ que assim seja.
 
 416
 00:20:45,091 --> 00:20:46,891
-Vamos contar ‡ Lynch
+Vamos contar √† Lynch
 sobre isso?
 
 417
 00:20:47,291 --> 00:20:48,591
-N„o.
+N√£o.
 
 418
 00:20:49,063 --> 00:20:50,363
@@ -2017,7 +2017,7 @@ Vamos prosseguir.
 420
 00:20:59,125 --> 00:21:01,545
 Hondo, nosso infiltrado
-est· no armazÈm.
+est√° no armaz√©m.
 
 421
 00:21:09,495 --> 00:21:11,445
@@ -2026,7 +2026,7 @@ do Tan, sabe?
 
 422
 00:21:11,446 --> 00:21:13,726
-Acha que as relaÁıes
+Acha que as rela√ß√µes
 atrapalham esse trabalho?
 
 423
@@ -2036,12 +2036,12 @@ atrapalhou meus relacionamentos.
 
 424
 00:21:24,573 --> 00:21:27,473
-Certo, confirmaÁ„o visual
+Certo, confirma√ß√£o visual
 das drogas.
 
 425
 00:21:30,355 --> 00:21:33,203
-H· 6 guardas armados...
+H√° 6 guardas armados...
 dois ao norte e ao sul.
 
 426
@@ -2056,22 +2056,22 @@ pelo corredor central.
 
 428
 00:21:57,108 --> 00:21:58,944
--No ch„o!
--No ch„o agora!
+-No ch√£o!
+-No ch√£o agora!
 
 429
 00:21:58,945 --> 00:22:01,292
 -DPLA!
--No ch„o!
+-No ch√£o!
 
 430
 00:22:01,293 --> 00:22:04,243
--M„os nas costas!
+-M√£os nas costas!
 -DPLA. Saiam agora. DPLA!
 
 431
 00:22:07,885 --> 00:22:09,485
-M„os nas costas!
+M√£os nas costas!
 
 432
 00:22:13,119 --> 00:22:14,719
@@ -2080,7 +2080,7 @@ Veja isso.
 433
 00:22:17,214 --> 00:22:19,741
 -Querem adivinhar o valor?
--Chame a NarcÛticos.
+-Chame a Narc√≥ticos.
 
 434
 00:22:19,742 --> 00:22:23,077
@@ -2103,7 +2103,7 @@ pular para a briga?
 
 438
 00:22:40,157 --> 00:22:41,991
-Por que n„o vai
+Por que n√£o vai
 direto ao assunto?
 
 439
@@ -2119,26 +2119,26 @@ descontentamento da CIA.
 441
 00:22:46,197 --> 00:22:48,509
 Fiz de tudo para ele
-n„o ligar para a prefeita.
+n√£o ligar para a prefeita.
 
 442
 00:22:48,510 --> 00:22:49,815
-Crise evitada, ent„o.
+Crise evitada, ent√£o.
 
 443
 00:22:49,816 --> 00:22:51,823
--VocÍ agiu escondido.
+-Voc√™ agiu escondido.
 -Sinto muito.
 
 444
 00:22:51,824 --> 00:22:53,532
-N„o estou operando
+N√£o estou operando
 sob a premissa
 
 445
 00:22:53,533 --> 00:22:55,767
 de ter que te informar
-as aÁıes da SWAT.
+as a√ß√µes da SWAT.
 
 446
 00:22:55,768 --> 00:22:58,171
@@ -2147,26 +2147,26 @@ totalmente fora dos limites.
 
 447
 00:22:58,172 --> 00:23:00,077
-Murido n„o era o alvo.
+Murido n√£o era o alvo.
 
 448
 00:23:00,078 --> 00:23:03,619
-Mas interrompemos uma operaÁ„o
-de contrabando de cocaÌna,
+Mas interrompemos uma opera√ß√£o
+de contrabando de coca√≠na,
 
 449
 00:23:03,620 --> 00:23:06,427
-e tenho certeza que est·
-dentro da nossa funÁ„o.
+e tenho certeza que est√°
+dentro da nossa fun√ß√£o.
 
 450
 00:23:06,827 --> 00:23:08,487
-Isso È muito inteligente.
+Isso √© muito inteligente.
 
 451
 00:23:11,183 --> 00:23:12,710
 Aposto
-que vocÍ est· orgulhoso
+que voc√™ est√° orgulhoso
 
 452
 00:23:12,711 --> 00:23:14,545
@@ -2175,22 +2175,22 @@ de conseguir aqui,
 
 453
 00:23:14,546 --> 00:23:16,449
-mas est· correndo um risco,
+mas est√° correndo um risco,
 comandante.
 
 454
 00:23:16,450 --> 00:23:17,805
 E espero
-que dÍ certo,
+que d√™ certo,
 
 455
 00:23:17,806 --> 00:23:20,776
-mas se n„o der,
-n„o te protegerei.
+mas se n√£o der,
+n√£o te protegerei.
 
 456
 00:23:21,376 --> 00:23:23,076
-N„o pensei
+N√£o pensei
 que protegeria.
 
 457
@@ -2199,7 +2199,7 @@ Certo.
 
 458
 00:23:35,250 --> 00:23:37,374
-VocÍ est· com seu celular?
+Voc√™ est√° com seu celular?
 
 459
 00:23:37,375 --> 00:23:39,876
@@ -2208,12 +2208,12 @@ para trabalhar no meu carro.
 
 460
 00:23:39,877 --> 00:23:41,295
-N„o gosto de distraÁıes.
+N√£o gosto de distra√ß√µes.
 
 461
 00:23:41,296 --> 00:23:44,180
-Meu bebÍ merece
-esse tipo de dedicaÁ„o.
+Meu beb√™ merece
+esse tipo de dedica√ß√£o.
 
 462
 00:23:45,230 --> 00:23:46,830
@@ -2226,7 +2226,7 @@ Tudo certo?
 
 464
 00:23:48,749 --> 00:23:50,049
-Diga vocÍ.
+Diga voc√™.
 
 465
 00:23:51,363 --> 00:23:53,075
@@ -2235,12 +2235,12 @@ Diga vocÍ.
 
 466
 00:23:53,076 --> 00:23:55,439
-Ouvi dizer que est·
+Ouvi dizer que est√°
 tossindo sangue.
 
 467
 00:23:55,440 --> 00:23:57,365
-”timo trabalho
+√ìtimo trabalho
 escondendo isso de mim.
 
 468
@@ -2251,25 +2251,25 @@ fosse um dedo duro.
 469
 00:23:59,748 --> 00:24:02,307
 -Tem que cuidar da vida dele.
--N„o È sobre o Darryl.
+-N√£o √© sobre o Darryl.
 
 470
 00:24:02,308 --> 00:24:03,849
-… sobre sua sa˙de, cara.
+√â sobre sua sa√∫de, cara.
 
 471
 00:24:04,249 --> 00:24:07,725
 Vi seus ataques de tosse
-e eles est„o piorando.
+e eles est√£o piorando.
 
 472
 00:24:07,726 --> 00:24:09,740
-Tosse nunca matou ninguÈm.
+Tosse nunca matou ningu√©m.
 
 473
 00:24:09,741 --> 00:24:11,988
 -Pai? Pai?
--O quÍ?
+-O qu√™?
 
 474
 00:24:11,989 --> 00:24:14,282
@@ -2278,12 +2278,12 @@ de algo mais perigoso?
 
 475
 00:24:14,283 --> 00:24:16,548
-VocÍ n„o sabe cuidar
-da prÛpria vida?
+Voc√™ n√£o sabe cuidar
+da pr√≥pria vida?
 
 476
 00:24:16,549 --> 00:24:18,849
-VocÍ est· sempre tentando
+Voc√™ est√° sempre tentando
 salvar a todos.
 
 477
@@ -2298,7 +2298,7 @@ filho.
 
 479
 00:24:23,312 --> 00:24:25,272
-N„o. N„o tente colocar
+N√£o. N√£o tente colocar
 o foco em mim.
 
 480
@@ -2307,21 +2307,21 @@ Olhe, sou um homem velho.
 
 481
 00:24:26,634 --> 00:24:28,790
-E um dia vocÍ vai entender
+E um dia voc√™ vai entender
 
 482
 00:24:28,791 --> 00:24:31,675
 que o futuro
-nem sempre È brilhante.
+nem sempre √© brilhante.
 
 483
 00:24:32,448 --> 00:24:35,132
-Foi por isso que vocÍ decidiu
+Foi por isso que voc√™ decidiu
 voltar para casa?
 
 484
 00:24:35,133 --> 00:24:37,232
-VocÍ queria tentar
+Voc√™ queria tentar
 consertar o passado,
 
 485
@@ -2336,12 +2336,12 @@ com tudo isso.
 
 487
 00:24:41,036 --> 00:24:42,936
-Bem, alguns de nÛs
-n„o est„o.
+Bem, alguns de n√≥s
+n√£o est√£o.
 
 488
 00:24:45,308 --> 00:24:47,508
-VocÍ quer tranquilizar
+Voc√™ quer tranquilizar
 sua mente?
 
 489
@@ -2350,23 +2350,23 @@ Veio ao lugar errado.
 
 490
 00:25:08,519 --> 00:25:10,720
-Espero que as crianÁas
+Espero que as crian√ßas
 consigam dormir hoje.
 
 491
 00:25:10,721 --> 00:25:15,025
-N„o que eu tenha algo
+N√£o que eu tenha algo
 parecido para comparar...
 
 492
 00:25:16,685 --> 00:25:19,799
-mas acho que est„o lidando
-muito bem com a situaÁ„o,
+mas acho que est√£o lidando
+muito bem com a situa√ß√£o,
 
 493
 00:25:19,800 --> 00:25:22,101
 considerando
-as circunst‚ncias.
+as circunst√¢ncias.
 
 494
 00:25:22,603 --> 00:25:25,008
@@ -2380,13 +2380,13 @@ e pegando o bandido.
 
 496
 00:25:27,945 --> 00:25:29,649
-N„o deviam ter visto
+N√£o deviam ter visto
 nada disso.
 
 497
 00:25:30,840 --> 00:25:33,646
 Samuel disse ao amigo
-que n„o ficou com medo,
+que n√£o ficou com medo,
 
 498
 00:25:34,054 --> 00:25:36,255
@@ -2395,16 +2395,16 @@ salvaria o dia.
 
 499
 00:25:37,880 --> 00:25:39,184
-O que vocÍ pensou?
+O que voc√™ pensou?
 
 500
 00:25:40,294 --> 00:25:42,699
-Que vocÍ manteria a promessa
+Que voc√™ manteria a promessa
 que me fez.
 
 501
 00:25:46,862 --> 00:25:49,363
-Posso dormir com vocÍs?
+Posso dormir com voc√™s?
 
 502
 00:25:50,025 --> 00:25:51,932
@@ -2417,8 +2417,8 @@ Venha aqui.
 
 504
 00:25:54,869 --> 00:25:57,176
-Dormiremos eu, vocÍ,
-a mam„e...
+Dormiremos eu, voc√™,
+a mam√£e...
 
 505
 00:25:57,177 --> 00:25:59,059
@@ -2427,7 +2427,7 @@ que faz cosquinha!
 
 506
 00:25:59,060 --> 00:26:01,067
-Peguei vocÍ!
+Peguei voc√™!
 
 507
 00:26:06,421 --> 00:26:07,724
@@ -2436,7 +2436,7 @@ David?
 508
 00:26:16,651 --> 00:26:19,152
 Fiquem abaixadas
-e faÁam o que eu disser.
+e fa√ßam o que eu disser.
 
 509
 00:26:22,677 --> 00:26:24,279
@@ -2444,11 +2444,11 @@ Meninos, fiquem abaixados.
 
 510
 00:27:01,074 --> 00:27:02,574
-<i>VocÍ que desenhou isso?</i>
+<i>Voc√™ que desenhou isso?</i>
 
 511
 00:27:04,651 --> 00:27:05,953
-Ei, crianÁas!
+Ei, crian√ßas!
 
 512
 00:27:05,954 --> 00:27:09,414
@@ -2457,37 +2457,37 @@ eu trouxe <i>shucos</i> e <i>tepache</i>.
 
 513
 00:27:09,415 --> 00:27:12,219
-Cara, isso È muito gostoso!
-VocÍs v„o adorar!
+Cara, isso √© muito gostoso!
+Voc√™s v√£o adorar!
 
 514
 00:27:12,220 --> 00:27:15,423
-Trouxe sanduÌches e aperitivos
-para vocÍ e as crianÁas.
+Trouxe sandu√≠ches e aperitivos
+para voc√™ e as crian√ßas.
 
 515
 00:27:17,569 --> 00:27:20,170
-AgradeÁo por virem
-durante a folga de vocÍs.
+Agrade√ßo por virem
+durante a folga de voc√™s.
 
 516
 00:27:20,171 --> 00:27:22,693
--N„o precisavam fazer isso.
--Est· brincando, Deac?
+-N√£o precisavam fazer isso.
+-Est√° brincando, Deac?
 
 517
 00:27:22,694 --> 00:27:25,005
-Um ataque a um de nÛs,
-È um ataque a todos.
+Um ataque a um de n√≥s,
+√© um ataque a todos.
 
 518
 00:27:25,006 --> 00:27:27,130
 O que precisar.
-FamÌlia È isso.
+Fam√≠lia √© isso.
 
 519
 00:27:27,131 --> 00:27:28,435
-… isso aÌ.
+√â isso a√≠.
 
 520
 00:27:31,351 --> 00:27:32,758
@@ -2495,21 +2495,21 @@ Essas fofuras!
 
 521
 00:27:40,050 --> 00:27:42,952
--Como vocÍ est·?
+-Como voc√™ est√°?
 -Nada bem desta vez.
 
 522
 00:27:42,953 --> 00:27:45,506
 Murido ordenou isso
-por causa da batida. VocÍ sabe.
+por causa da batida. Voc√™ sabe.
 
 523
 00:27:45,507 --> 00:27:47,100
-Sei, e vamos peg·-lo.
+Sei, e vamos peg√°-lo.
 
 524
 00:27:47,101 --> 00:27:48,756
-N„o se a Lynch
+N√£o se a Lynch
 ficar atrapalhando.
 
 525
@@ -2519,7 +2519,7 @@ continuar protegendo-o?
 
 526
 00:27:53,400 --> 00:27:56,000
-Escolha bem suas prÛximas
+Escolha bem suas pr√≥ximas
 palavras, Devereaux.
 
 527
@@ -2530,55 +2530,55 @@ em sua casa.
 528
 00:27:58,161 --> 00:27:59,965
 Nem imagino
-o que vocÍ est· passando.
+o que voc√™ est√° passando.
 
 529
 00:27:59,966 --> 00:28:02,887
--Bom que ninguÈm saiu ferido.
+-Bom que ningu√©m saiu ferido.
 -Eram capangas do Murido.
 
 530
 00:28:02,888 --> 00:28:05,090
 Usaram minha esposa e filhos
-como vinganÁa.
+como vingan√ßa.
 
 531
 00:28:05,091 --> 00:28:07,113
-Sei que est· irritado.
-Eu tambÈm estaria.
+Sei que est√° irritado.
+Eu tamb√©m estaria.
 
 532
 00:28:07,114 --> 00:28:08,871
-Mas se È uma vinganÁa
-como vocÍ diz,
+Mas se √© uma vingan√ßa
+como voc√™ diz,
 
 533
 00:28:08,872 --> 00:28:10,973
-n„o foi porque mexeu
+n√£o foi porque mexeu
 com o chefe deles,
 
 534
 00:28:10,974 --> 00:28:12,481
-mesmo com nossa proibiÁ„o?
+mesmo com nossa proibi√ß√£o?
 
 535
 00:28:12,482 --> 00:28:14,333
-Isso n„o parece
+Isso n√£o parece
 um pedido de desculpa.
 
 536
 00:28:14,334 --> 00:28:16,435
-N„o sei pelo que
+N√£o sei pelo que
 eu pediria desculpas.
 
 537
 00:28:16,436 --> 00:28:18,388
-NÛs demos uma ordem,
-vocÍ a ignorou
+N√≥s demos uma ordem,
+voc√™ a ignorou
 
 538
 00:28:18,389 --> 00:28:20,094
--e sofreu as consequÍncias.
+-e sofreu as consequ√™ncias.
 -Deac!
 
 539
@@ -2588,17 +2588,17 @@ vocÍ a ignorou
 
 540
 00:28:22,317 --> 00:28:24,418
-J· chega! J· chega, cara!
+J√° chega! J√° chega, cara!
 
 541
 00:28:25,627 --> 00:28:27,533
-Murido atacou a famÌlia
+Murido atacou a fam√≠lia
 do Deacon.
 
 542
 00:28:27,534 --> 00:28:29,385
 Quero que explique
-como arrumar· isso.
+como arrumar√° isso.
 
 543
 00:28:29,386 --> 00:28:30,792
@@ -2610,22 +2610,22 @@ Agente Devereaux,
 
 545
 00:28:32,862 --> 00:28:35,064
-por que n„o conversamos
-em meu escritÛrio?
+por que n√£o conversamos
+em meu escrit√≥rio?
 
 546
 00:28:35,065 --> 00:28:37,906
 De onde venho, policiais
-n„o encostam em agentes.
+n√£o encostam em agentes.
 
 547
 00:28:37,907 --> 00:28:41,408
 De onde venho, agentes da lei
-n„o protegem assassinos.
+n√£o protegem assassinos.
 
 548
 00:28:50,757 --> 00:28:53,460
-Ent„o isso vai ficar
+Ent√£o isso vai ficar
 entre a Lynch e a CIA?
 
 549
@@ -2635,7 +2635,7 @@ Que maravilha.
 550
 00:28:59,111 --> 00:29:02,513
 Meu sargento e os filhos dele
-passar„o a noite aqui conosco.
+passar√£o a noite aqui conosco.
 
 551
 00:29:02,514 --> 00:29:03,896
@@ -2650,12 +2650,12 @@ com o seu ativo
 553
 00:29:05,630 --> 00:29:08,482
 ter atacado um policial
-e a famÌlia na prÛpria casa.
+e a fam√≠lia na pr√≥pria casa.
 
 554
 00:29:08,483 --> 00:29:10,538
--N„o temos provas disso.
--Se vocÍ tivesse,
+-N√£o temos provas disso.
+-Se voc√™ tivesse,
 
 555
 00:29:10,539 --> 00:29:13,351
@@ -2669,7 +2669,7 @@ nossos interesses opostos.
 
 557
 00:29:16,055 --> 00:29:17,930
-Gostaria que saÌsse algo
+Gostaria que sa√≠sse algo
 no LA Times
 
 558
@@ -2679,7 +2679,7 @@ com um traficante sul-americano?
 
 559
 00:29:20,808 --> 00:29:23,758
-N„o seria a primeira vez
+N√£o seria a primeira vez
 que tentaram suas jogadas aqui.
 
 560
@@ -2689,22 +2689,22 @@ o Iran Contra...
 
 561
 00:29:25,694 --> 00:29:27,795
-Acha que os repÛrteres
+Acha que os rep√≥rteres
 se interessariam?
 
 562
 00:29:27,796 --> 00:29:30,600
--N„o posso entregar Murido.
--Ent„o nos dÍ outra coisa.
+-N√£o posso entregar Murido.
+-Ent√£o nos d√™ outra coisa.
 
 563
 00:29:37,762 --> 00:29:40,169
-Seus filhos s„o corajosos.
-VocÍ os ensinou bem.
+Seus filhos s√£o corajosos.
+Voc√™ os ensinou bem.
 
 564
 00:29:40,170 --> 00:29:42,575
-N„o. Annie que ensinou.
+N√£o. Annie que ensinou.
 
 565
 00:29:44,074 --> 00:29:46,779
@@ -2714,12 +2714,12 @@ que sempre nos manteria seguros.
 566
 00:29:47,351 --> 00:29:49,659
 Para que eu sirvo
-se n„o cumprir essa promessa?
+se n√£o cumprir essa promessa?
 
 567
 00:29:49,660 --> 00:29:51,561
-Na minha opini„o,
-vocÍ cumpriu.
+Na minha opini√£o,
+voc√™ cumpriu.
 
 568
 00:29:55,447 --> 00:29:56,747
@@ -2735,7 +2735,7 @@ Eu soube o que aconteceu.
 
 571
 00:30:02,317 --> 00:30:04,099
-N„o consigo acreditar.
+N√£o consigo acreditar.
 
 572
 00:30:04,100 --> 00:30:06,165
@@ -2749,8 +2749,8 @@ por todos estarem bem.
 
 574
 00:30:08,513 --> 00:30:10,474
-Ouvi sobre o porquÍ
-de vocÍ estar aqui.
+Ouvi sobre o porqu√™
+de voc√™ estar aqui.
 
 575
 00:30:10,475 --> 00:30:12,366
@@ -2759,7 +2759,7 @@ estraguei tudo.
 
 576
 00:30:12,367 --> 00:30:13,841
-N„o È f·cil.
+N√£o √© f√°cil.
 
 577
 00:30:13,842 --> 00:30:16,501
@@ -2773,7 +2773,7 @@ nunca cheguem perto do David.
 
 579
 00:30:19,425 --> 00:30:21,997
-N„o pode testar positivo
+N√£o pode testar positivo
 para opioides.
 
 580
@@ -2784,27 +2784,27 @@ estar com um policial,
 581
 00:30:23,458 --> 00:30:28,115
 especialmente um oficial
-da SWAT... … sÛ diferente.
+da SWAT... √â s√≥ diferente.
 
 582
 00:30:28,116 --> 00:30:30,417
-Eu invejo o que vocÍ
-e Deacon tÍm.
+Eu invejo o que voc√™
+e Deacon t√™m.
 
 583
 00:30:30,418 --> 00:30:32,984
-VocÍ tem que saber
-no que vocÍ est· se metendo.
+Voc√™ tem que saber
+no que voc√™ est√° se metendo.
 
 584
 00:30:32,985 --> 00:30:35,222
-Mas se vocÍ est·
+Mas se voc√™ est√°
 com um homem que ama,
 
 585
 00:30:35,223 --> 00:30:39,100
-n„o h· recompensa maior
-do que uma famÌlia SWAT.
+n√£o h√° recompensa maior
+do que uma fam√≠lia SWAT.
 
 586
 00:30:39,995 --> 00:30:41,474
@@ -2822,26 +2822,26 @@ para ser esposa de policial.
 
 589
 00:30:45,233 --> 00:30:46,977
-N„o. N„o no comeÁo.
+N√£o. N√£o no come√ßo.
 
 590
 00:30:46,978 --> 00:30:50,625
-N„o, levou tempo e convencimento
+N√£o, levou tempo e convencimento
 de que valia apostar em mim,
 
 591
 00:30:50,626 --> 00:30:53,343
 e que as noites em claro
-e a preocupaÁ„o valiam a pena.
+e a preocupa√ß√£o valiam a pena.
 
 592
 00:30:53,835 --> 00:30:56,210
-SÛ espero que ainda valha
+S√≥ espero que ainda valha
 para ela.
 
 593
 00:30:56,610 --> 00:30:58,545
-N„o tinha pensado
+N√£o tinha pensado
 dessa forma antes.
 
 594
@@ -2851,26 +2851,26 @@ Pedimos muito delas.
 595
 00:31:07,155 --> 00:31:09,155
 Pai, estou tentando
-falar com vocÍ, cara,
+falar com voc√™, cara,
 
 596
 00:31:09,156 --> 00:31:11,458
-mas, ouÁa, h· algo
-com Deacon e a famÌlia dele
+mas, ou√ßa, h√° algo
+com Deacon e a fam√≠lia dele
 
 597
 00:31:11,459 --> 00:31:14,109
 que preciso olhar, mas esta
-È minha terceira mensagem.
+√© minha terceira mensagem.
 
 598
 00:31:14,110 --> 00:31:16,060
-Sei que est· me evitando.
+Sei que est√° me evitando.
 Pare com isso.
 
 599
 00:31:16,061 --> 00:31:17,511
--SÛ me ligue de volta.
+-S√≥ me ligue de volta.
 -Hondo.
 
 600
@@ -2880,22 +2880,22 @@ Pai, precisamos conversar.
 601
 00:31:19,769 --> 00:31:22,169
 Diga que temos luz verde
-para ir atr·s de Murido.
+para ir atr√°s de Murido.
 
 602
 00:31:22,170 --> 00:31:24,270
--A CIA vai entreg·-lo?
--N„o exatamente.
+-A CIA vai entreg√°-lo?
+-N√£o exatamente.
 
 603
 00:31:24,271 --> 00:31:26,071
--… t„o errado.
--Comandante, n„o temos
+-√â t√£o errado.
+-Comandante, n√£o temos
 
 604
 00:31:26,072 --> 00:31:28,372
-que trabalhar para a AgÍncia,
-n„o com tiroteio
+que trabalhar para a Ag√™ncia,
+n√£o com tiroteio
 
 605
 00:31:28,373 --> 00:31:31,422
@@ -2904,28 +2904,28 @@ n„o com tiroteio
 
 606
 00:31:31,423 --> 00:31:33,590
-N„o v„o entregar o Murido
-porque n„o podem.
+N√£o v√£o entregar o Murido
+porque n√£o podem.
 
 607
 00:31:33,591 --> 00:31:36,123
 Mas conseguimos a chave
-do negÛcio de drogas dele.
+do neg√≥cio de drogas dele.
 
 608
 00:31:36,124 --> 00:31:38,002
 Murido tem um cara dentro
-da alf‚ndega
+da alf√¢ndega
 
 609
 00:31:38,003 --> 00:31:40,481
-que deixa sua cocaÌna passar.
+que deixa sua coca√≠na passar.
 Com ele ajudando,
 
 610
 00:31:40,482 --> 00:31:42,787
 podemos acabar
-com a operaÁ„o dele para sempre.
+com a opera√ß√£o dele para sempre.
 
 611
 00:31:42,788 --> 00:31:45,359
@@ -2934,41 +2934,41 @@ pegamos nosso cara.
 
 612
 00:31:45,894 --> 00:31:47,985
-O nome È Howard McReady.
+O nome √© Howard McReady.
 
 613
 00:31:47,986 --> 00:31:49,474
-Vamos trazÍ-lo.
+Vamos traz√™-lo.
 
 614
 00:31:53,863 --> 00:31:55,830
-Eu n„o quero
-ir para a pris„o.
+Eu n√£o quero
+ir para a pris√£o.
 
 615
 00:31:55,831 --> 00:31:58,316
-Murido ameaÁou
-matar a mim e minha famÌlia.
+Murido amea√ßou
+matar a mim e minha fam√≠lia.
 
 616
 00:31:58,317 --> 00:32:00,400
 -Que escolha ele me deu?
--Foi mais f·cil
+-Foi mais f√°cil
 
 617
 00:32:00,401 --> 00:32:02,143
 receber os pagamentos.
-Mal negÛcio.
+Mal neg√≥cio.
 
 618
 00:32:02,144 --> 00:32:04,291
-Se tivesse vindo a nÛs,
-farÌamos um melhor.
+Se tivesse vindo a n√≥s,
+far√≠amos um melhor.
 
 619
 00:32:04,292 --> 00:32:07,070
-VocÍs tÍm armas e distintivos.
-VocÍs podem se proteger.
+Voc√™s t√™m armas e distintivos.
+Voc√™s podem se proteger.
 
 620
 00:32:07,071 --> 00:32:08,975
@@ -2977,42 +2977,42 @@ contra um cara assim?
 
 621
 00:32:08,976 --> 00:32:11,538
-Bem, podemos mantÍ-lo seguro
+Bem, podemos mant√™-lo seguro
 a partir de agora,
 
 622
 00:32:12,020 --> 00:32:14,388
-mas vocÍ vai nos contar
+mas voc√™ vai nos contar
 sobre cada remessa
 
 623
 00:32:14,389 --> 00:32:16,846
 que deixar passar
-pela alf‚ndega para ele.
+pela alf√¢ndega para ele.
 
 624
 00:32:22,089 --> 00:32:24,423
-E a que vem hoje ‡ noite?
+E a que vem hoje √† noite?
 
 625
 00:32:25,546 --> 00:32:28,271
-… a maior entrega de Murido
-de Bogot·.
+√â a maior entrega de Murido
+de Bogot√°.
 
 626
 00:32:28,272 --> 00:32:30,386
 -Que horas vai ser?
--Nas prÛximas horas.
+-Nas pr√≥ximas horas.
 
 627
 00:32:30,387 --> 00:32:32,832
-Ouvi que o armazÈm
+Ouvi que o armaz√©m
 em South Gate foi invadido.
 
 628
 00:32:32,833 --> 00:32:34,597
-N„o posso
-levar o suprimento atÈ l·.
+N√£o posso
+levar o suprimento at√© l√°.
 
 629
 00:32:34,598 --> 00:32:36,955
@@ -3021,13 +3021,13 @@ levar o suprimento atÈ l·.
 
 630
 00:32:36,956 --> 00:32:38,540
-SÛ saberei na alf‚ndega
-‡ noite,
+S√≥ saberei na alf√¢ndega
+√† noite,
 
 631
 00:32:38,541 --> 00:32:40,686
-se eu n„o for l·,
-ele saber· que h· algo
+se eu n√£o for l√°,
+ele saber√° que h√° algo
 
 632
 00:32:40,687 --> 00:32:42,527
@@ -3041,37 +3041,37 @@ para ele.
 
 634
 00:32:46,554 --> 00:32:49,521
-VocÍ vai trabalhar hoje,
-para nÛs.
+Voc√™ vai trabalhar hoje,
+para n√≥s.
 
 635
 00:32:59,263 --> 00:33:01,764
 -Acho que te verei em casa.
--….
+-√â.
 
 636
 00:33:02,490 --> 00:33:04,078
-Pego algo para vocÍ
+Pego algo para voc√™
 no caminho?
 
 637
 00:33:04,079 --> 00:33:06,322
--N„o estou com muita fome.
+-N√£o estou com muita fome.
 -Olhe...
 
 638
 00:33:06,722 --> 00:33:08,317
-se ficar com vocÍ,
+se ficar com voc√™,
 significa
 
 639
 00:33:08,318 --> 00:33:10,857
 parar com os derivados
-de maconha, est· feito.
+de maconha, est√° feito.
 
 640
 00:33:10,858 --> 00:33:13,226
-VocÍ È mais importante
+Voc√™ √© mais importante
 para mim do que eles
 
 641
@@ -3081,17 +3081,17 @@ para mim do que eles
 
 642
 00:33:16,775 --> 00:33:19,094
-TambÈm cabe a mim
-garantir que somos sÛlidos
+Tamb√©m cabe a mim
+garantir que somos s√≥lidos
 
 643
 00:33:19,095 --> 00:33:21,868
-como Deacon e Annie s„o.
+como Deacon e Annie s√£o.
 Sei que podemos ser.
 
 644
 00:33:21,869 --> 00:33:24,303
-N„o. NÛs seremos.
+N√£o. N√≥s seremos.
 
 645
 00:33:25,587 --> 00:33:27,660
@@ -3099,66 +3099,66 @@ N„o. NÛs seremos.
 
 646
 00:33:27,661 --> 00:33:28,961
-Desculpe, o quÍ?
+Desculpe, o qu√™?
 
 647
 00:33:28,962 --> 00:33:31,998
 O comprador deve ter cuidado
-quando os produtos s„o ruins.
+quando os produtos s√£o ruins.
 
 648
 00:33:31,999 --> 00:33:34,847
 Chegou o resultado das balas
-de maconha. Ela È bem ruim.
+de maconha. Ela √© bem ruim.
 
 649
 00:33:34,848 --> 00:33:37,118
--Quase sem potÍncia.
--S„o boas notÌcias.
+-Quase sem pot√™ncia.
+-S√£o boas not√≠cias.
 
 650
 00:33:37,119 --> 00:33:39,639
-TraÁos insignificantes.
+Tra√ßos insignificantes.
 O Departamento de Condutas
 
 651
 00:33:39,640 --> 00:33:42,390
-n„o achou impropriedade
-ou intenÁ„o. VocÍ fez tudo certo
+n√£o achou impropriedade
+ou inten√ß√£o. Voc√™ fez tudo certo
 
 652
 00:33:42,391 --> 00:33:44,534
 e eles levaram isso
-em consideraÁ„o tambÈm.
+em considera√ß√£o tamb√©m.
 
 653
 00:33:44,535 --> 00:33:46,562
-TambÈm apreciaram
-vocÍ vir hoje,
+Tamb√©m apreciaram
+voc√™ vir hoje,
 
 654
 00:33:46,563 --> 00:33:50,236
-defendendo Victor, ent„o vocÍ
+defendendo Victor, ent√£o voc√™
 foi oficialmente exonerado.
 
 655
 00:33:50,237 --> 00:33:52,802
 -Sim!
--A equipe est· se preparando.
+-A equipe est√° se preparando.
 
 656
 00:33:52,803 --> 00:33:54,103
-Estou de volta ‡ ativa?
+Estou de volta √† ativa?
 
 657
 00:33:54,104 --> 00:33:56,662
-Apresse-se e pegar· o esquadr„o
-antes de saÌrem.
+Apresse-se e pegar√° o esquadr√£o
+antes de sa√≠rem.
 
 658
 00:33:57,447 --> 00:34:00,425
--V·. E tenha cuidado.
--VocÍ ouviu a senhorita.
+-V√°. E tenha cuidado.
+-Voc√™ ouviu a senhorita.
 
 659
 00:34:00,426 --> 00:34:01,815
@@ -3171,18 +3171,18 @@ mostra 114 a caminho do local.
 
 661
 00:34:14,070 --> 00:34:16,246
--Bom ter vocÍ de volta, Tan.
+-Bom ter voc√™ de volta, Tan.
 -Obrigado.
 
 662
 00:34:16,247 --> 00:34:18,519
-Achei que n„o veria
+Achei que n√£o veria
 o banco da frente de novo.
 
 663
 00:34:18,520 --> 00:34:20,532
-AgradeÁa ao Street
-por mantÍ-lo quente.
+Agrade√ßa ao Street
+por mant√™-lo quente.
 
 664
 00:34:20,533 --> 00:34:21,861
@@ -3190,8 +3190,8 @@ Quer mesmo entrar nessa?
 
 665
 00:34:21,862 --> 00:34:24,539
-Vamos invadir uma operaÁ„o
-de coca, n„o uma plantaÁ„o.
+Vamos invadir uma opera√ß√£o
+de coca, n√£o uma planta√ß√£o.
 
 666
 00:34:24,540 --> 00:34:26,322
@@ -3201,7 +3201,7 @@ que veria como foi
 667
 00:34:26,323 --> 00:34:29,128
 ser expulso da SWAT,
-mas desisti no ˙ltimo minuto.
+mas desisti no √∫ltimo minuto.
 
 668
 00:34:29,129 --> 00:34:30,870
@@ -3210,8 +3210,8 @@ Street.
 
 669
 00:34:30,871 --> 00:34:34,301
-Em 10 minutos chega a cocaÌna
-no aeroporto. O contato avisar·
+Em 10 minutos chega a coca√≠na
+no aeroporto. O contato avisar√°
 
 670
 00:34:34,302 --> 00:34:36,299
@@ -3220,18 +3220,18 @@ estiver carregado.
 
 671
 00:34:36,300 --> 00:34:38,850
-Pegamos as drogas na alf‚ndega
+Pegamos as drogas na alf√¢ndega
 antes de irem embora.
 
 672
 00:34:38,851 --> 00:34:40,701
-A operaÁ„o de Murido acaba
+A opera√ß√£o de Murido acaba
 para valer.
 
 673
 00:34:40,702 --> 00:34:43,849
-E se o grandalh„o
-estiver l·, melhor.
+E se o grandalh√£o
+estiver l√°, melhor.
 
 674
 00:34:53,622 --> 00:34:54,988
@@ -3239,22 +3239,22 @@ Obrigado.
 
 675
 00:35:02,652 --> 00:35:05,153
-DPLA! V· para o ch„o!
+DPLA! V√° para o ch√£o!
 Agora!
 
 676
 00:35:06,273 --> 00:35:08,326
 Soltem suas armas!
-No ch„o!
+No ch√£o!
 
 677
 00:35:08,327 --> 00:35:11,210
 DPLA! DPLA!
-FaÁam isso agora!
+Fa√ßam isso agora!
 
 678
 00:35:20,007 --> 00:35:22,909
-M„os atr·s das costas!
+M√£os atr√°s das costas!
 Vamos!
 
 679
@@ -3271,11 +3271,11 @@ Fique abaixado.
 
 682
 00:35:50,183 --> 00:35:53,154
-PolÌcia. Pare aÌ mesmo.
+Pol√≠cia. Pare a√≠ mesmo.
 
 683
 00:35:57,388 --> 00:35:59,595
-Eu n„o tenho
+Eu n√£o tenho
 que te obedecer.
 
 684
@@ -3290,21 +3290,21 @@ virem te buscar.
 
 686
 00:36:03,765 --> 00:36:06,575
-Ent„o, atÈ l·, vocÍ fica.
+Ent√£o, at√© l√°, voc√™ fica.
 
 687
 00:36:20,881 --> 00:36:23,082
 Avise se estiver
-muito apertada para vocÍ.
+muito apertada para voc√™.
 
 688
 00:36:27,377 --> 00:36:30,004
 Adivinha quem encontramos
-na apreens„o de drogas.
+na apreens√£o de drogas.
 
 689
 00:36:30,892 --> 00:36:33,516
-PeÁa para tirarem
+Pe√ßa para tirarem
 as algemas, por favor.
 
 690
@@ -3314,28 +3314,28 @@ Os dois atiradores dele falaram.
 
 691
 00:36:36,619 --> 00:36:38,976
-Testemunhar„o
+Testemunhar√£o
 que Murido ordenou o tiroteio
 
 692
 00:36:38,977 --> 00:36:41,701
--e o ataque ‡ casa de Deacon.
--S„o v·rios homicÌdios.
+-e o ataque √† casa de Deacon.
+-S√£o v√°rios homic√≠dios.
 
 693
 00:36:41,702 --> 00:36:44,461
-Acho que atende ao critÈrio
+Acho que atende ao crit√©rio
 de provas, agente Devereaux.
 
 694
 00:36:44,462 --> 00:36:46,648
-Dei toda a operaÁ„o.
-TÌnhamos um acordo.
+Dei toda a opera√ß√£o.
+T√≠nhamos um acordo.
 
 695
 00:36:46,649 --> 00:36:49,132
 Ainda temos, contanto
-que vocÍ cumpra os termos.
+que voc√™ cumpra os termos.
 
 696
 00:36:49,133 --> 00:36:50,904
@@ -3349,56 +3349,56 @@ de Estado.
 
 698
 00:36:52,441 --> 00:36:53,761
-Leve-o para a ColÙmbia.
+Leve-o para a Col√¥mbia.
 
 699
 00:36:53,762 --> 00:36:55,784
-Dar· as informaÁıes
-que precisam de l·,
+Dar√° as informa√ß√µes
+que precisam de l√°,
 
 700
 00:36:55,785 --> 00:36:57,435
-e n„o por· os pÈs
+e n√£o por√° os p√©s
 nos EUA de novo.
 
 701
 00:36:57,436 --> 00:36:59,798
 -E seus medicamentos?
--N„o È problema nosso.
+-N√£o √© problema nosso.
 
 702
 00:36:59,799 --> 00:37:01,847
 Pense que mandar
-os remÈdios para ele
+os rem√©dios para ele
 
 703
 00:37:01,848 --> 00:37:04,256
 tem que ser mais barato
-do que voar todo mÍs.
+do que voar todo m√™s.
 
 704
 00:37:06,326 --> 00:37:07,976
-Acho que n„o tenho escolha,
+Acho que n√£o tenho escolha,
 tenho?
 
 705
 00:37:07,977 --> 00:37:09,277
-N„o, vocÍ n„o tem.
+N√£o, voc√™ n√£o tem.
 
 706
 00:37:09,278 --> 00:37:11,778
 A menos que queira ler
-sobre isso no jornal amanh„.
+sobre isso no jornal amanh√£.
 
 707
 00:37:17,552 --> 00:37:19,171
-NÛs conseguimos
-o que querÌamos.
+N√≥s conseguimos
+o que quer√≠amos.
 
 708
 00:37:19,172 --> 00:37:21,822
-Murido se foi e sua cocaÌna
-est· fora de nossas ruas.
+Murido se foi e sua coca√≠na
+est√° fora de nossas ruas.
 
 709
 00:37:21,823 --> 00:37:23,195
@@ -3421,31 +3421,31 @@ em breve,
 
 713
 00:37:30,805 --> 00:37:33,085
-vocÍ ter·
-que tomar uma decis„o.
+voc√™ ter√°
+que tomar uma decis√£o.
 
 714
 00:37:33,086 --> 00:37:34,887
-Que decis„o È essa?
+Que decis√£o √© essa?
 
 715
 00:37:34,888 --> 00:37:37,196
-Se vocÍ È uma de nÛs
-ou n„o.
+Se voc√™ √© uma de n√≥s
+ou n√£o.
 
 716
 00:37:38,448 --> 00:37:40,323
-Quando eu disse a vocÍs
+Quando eu disse a voc√™s
 que Murido
 
 717
 00:37:40,324 --> 00:37:42,724
-n„o estava ao alcance,
-sabia que iria atr·s dele.
+n√£o estava ao alcance,
+sabia que iria atr√°s dele.
 
 718
 00:37:42,725 --> 00:37:45,799
-VocÍ pegou seu homem
+Voc√™ pegou seu homem
 e preservei meu relacionamento
 
 719
@@ -3455,26 +3455,26 @@ com os federais.
 
 720
 00:37:47,801 --> 00:37:49,292
-NÛs dois vencemos.
+N√≥s dois vencemos.
 
 721
 00:37:49,803 --> 00:37:52,109
 E a resposta para sua pergunta,
-comandante, È:
+comandante, √©:
 
 722
 00:37:52,110 --> 00:37:54,715
-estou com vocÍs quando preciso
-e quando n„o, n„o.
+estou com voc√™s quando preciso
+e quando n√£o, n√£o.
 
 723
 00:37:54,716 --> 00:37:59,204
--Qu„o conveniente.
+-Qu√£o conveniente.
 -Vamos descobrir caso a caso.
 
 724
 00:37:59,205 --> 00:38:00,635
-Vejo vocÍ amanh„.
+Vejo voc√™ amanh√£.
 
 725
 00:38:05,156 --> 00:38:06,539
@@ -3482,22 +3482,22 @@ Venha aqui.
 
 726
 00:38:09,222 --> 00:38:12,461
-Minha irm„ disse
+Minha irm√£ disse
 que podemos ficar na casa dela.
 
 727
 00:38:21,244 --> 00:38:23,969
-Papai, vocÍ tem certeza
-de que È seguro agora?
+Papai, voc√™ tem certeza
+de que √© seguro agora?
 
 728
 00:38:23,970 --> 00:38:25,838
 Sim, querida,
-È muito seguro.
+√© muito seguro.
 
 729
 00:38:25,839 --> 00:38:27,272
-VocÍ promete?
+Voc√™ promete?
 
 730
 00:38:27,273 --> 00:38:28,573
@@ -3509,7 +3509,7 @@ Lila, eu prometo.
 
 732
 00:38:32,539 --> 00:38:34,253
-VocÍ sempre
+Voc√™ sempre
 pode confiar em mim.
 
 733
@@ -3519,12 +3519,12 @@ pode confiar em mim.
 
 734
 00:38:50,737 --> 00:38:52,647
-Qual È o problema, pai?
+Qual √© o problema, pai?
 
 735
 00:38:54,234 --> 00:38:57,236
-Fale comigo. N„o È legal
-vocÍ me ignorar assim.
+Fale comigo. N√£o √© legal
+voc√™ me ignorar assim.
 
 736
 00:38:57,237 --> 00:38:58,859
@@ -3534,16 +3534,16 @@ de voz.
 737
 00:38:58,860 --> 00:39:01,610
 Sabia que voltaria para casa
-em seguranÁa. Sempre volta.
+em seguran√ßa. Sempre volta.
 
 738
 00:39:01,611 --> 00:39:02,911
-Como est· o Deacon?
+Como est√° o Deacon?
 
 739
 00:39:04,110 --> 00:39:07,116
 Deacon vai ficar bem.
-A famÌlia dele tambÈm.
+A fam√≠lia dele tamb√©m.
 
 740
 00:39:07,516 --> 00:39:08,881
@@ -3555,18 +3555,18 @@ Outro longo dia?
 
 742
 00:39:12,848 --> 00:39:14,987
-Isso n„o È importante agora,
+Isso n√£o √© importante agora,
 pai.
 
 743
 00:39:15,920 --> 00:39:18,604
 Preciso que venha comigo.
-Preciso lev·-lo ao mÈdico.
+Preciso lev√°-lo ao m√©dico.
 
 744
 00:39:18,605 --> 00:39:21,005
--N„o quero nenhum mÈdico.
--Pai, vocÍ est· doente.
+-N√£o quero nenhum m√©dico.
+-Pai, voc√™ est√° doente.
 
 745
 00:39:21,006 --> 00:39:22,654
@@ -3574,22 +3574,22 @@ Eu sei que estou doente!
 
 746
 00:39:22,655 --> 00:39:25,470
-N„o preciso de mÈdico
-para dizer o que eu j· sei!
+N√£o preciso de m√©dico
+para dizer o que eu j√° sei!
 
 747
 00:39:25,471 --> 00:39:28,667
-VocÍ est· falando sÈrio?
+Voc√™ est√° falando s√©rio?
 Isso pode ser grave.
 
 748
 00:39:28,668 --> 00:39:31,967
-Olhe, n„o sei quanto tempo
-me resta, est· bem?
+Olhe, n√£o sei quanto tempo
+me resta, est√° bem?
 
 749
 00:39:32,562 --> 00:39:36,842
-Mas n„o quero pass·-lo
+Mas n√£o quero pass√°-lo
 sendo cutucado e monitorado,
 
 750
@@ -3599,42 +3599,42 @@ sentindo pena de mim.
 
 751
 00:39:46,853 --> 00:39:50,248
-Olhe, n„o estive com vocÍ
+Olhe, n√£o estive com voc√™
 quando precisou de mim,
 
 752
 00:39:50,249 --> 00:39:53,498
--vocÍ n„o me deve nada.
--N„o se trata de dever.
+-voc√™ n√£o me deve nada.
+-N√£o se trata de dever.
 
 753
 00:39:54,375 --> 00:39:57,896
 Sou seu filho, e se houver
-algo errado com vocÍ,
+algo errado com voc√™,
 
 754
 00:39:57,897 --> 00:39:59,719
-vou ajud·-lo
+vou ajud√°-lo
 a passar por isso.
 
 755
 00:40:00,646 --> 00:40:03,951
-Est· brincando?
-Eu n„o mereÁo sua ajuda.
+Est√° brincando?
+Eu n√£o mere√ßo sua ajuda.
 
 756
 00:40:05,872 --> 00:40:08,092
 Quer saber?
-Talvez vocÍ n„o mereÁa,
+Talvez voc√™ n√£o mere√ßa,
 
 757
 00:40:08,764 --> 00:40:11,076
-mas vocÍ com certeza
+mas voc√™ com certeza
 vai ter.
 
 758
 00:40:19,032 --> 00:40:20,823
-Ent„o, vai ser assim?
+Ent√£o, vai ser assim?
 
 759
 00:40:21,223 --> 00:40:23,112
@@ -3642,7 +3642,7 @@ Vai ser assim.
 
 760
 00:40:26,866 --> 00:40:28,493
-Est· bem, ent„o.
+Est√° bem, ent√£o.
 
 761
 00:40:28,994 --> 00:40:32,294
