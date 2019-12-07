@@ -1,10 +1,10 @@
 1
 00:00:38,400 --> 00:00:40,480
-Onde é que está?
+Onde Ã© que estÃ¡?
 
 2
 00:00:42,440 --> 00:00:44,360
-Não o consigo ver.
+NÃ£o o consigo ver.
 
 3
 00:00:52,440 --> 00:00:54,360
@@ -12,11 +12,11 @@ Merda!
 
 4
 00:00:59,840 --> 00:01:03,920
-Está a vir. Está a vir. Está a vir.
+EstÃ¡ a vir. EstÃ¡ a vir. EstÃ¡ a vir.
 
 5
 00:01:17,800 --> 00:01:20,000
-Onde é que está?
+Onde Ã© que estÃ¡?
 
 6
 00:01:59,880 --> 00:02:02,040
@@ -38,7 +38,7 @@ Sabe o que disseram?
 
 10
 00:03:53,120 --> 00:03:54,960
-Que não era rápido que chegue.
+Que nÃ£o era rÃ¡pido que chegue.
 
 11
 00:04:02,520 --> 00:04:06,320
@@ -47,8 +47,8 @@ Vamos embora.
 
 12
 00:04:06,440 --> 00:04:10,800
-Quer continuar? Não deveríamos
-regressar ao Observatório?
+Quer continuar? NÃ£o deverÃ­amos
+regressar ao ObservatÃ³rio?
 
 13
 00:04:10,920 --> 00:04:12,760
@@ -74,27 +74,27 @@ O que foi?
 
 18
 00:05:02,920 --> 00:05:04,600
-- Não dispare!
-- Que porra é essa?
+- NÃ£o dispare!
+- Que porra Ã© essa?
 
 19
 00:05:04,720 --> 00:05:07,160
-Está tudo bem, está morto.
+EstÃ¡ tudo bem, estÃ¡ morto.
 A milha mulher deu-lhe um tiro.
 
 20
 00:05:08,560 --> 00:05:12,120
-- É melhor entrarmos.
+- Ã‰ melhor entrarmos.
 - Vamos. Entrem.
 
 21
 00:05:23,360 --> 00:05:26,920
-- Para onde vão?
-- O meu laboratório na universidade.
+- Para onde vÃ£o?
+- O meu laboratÃ³rio na universidade.
 
 22
 00:05:27,040 --> 00:05:29,480
-Estou à procura de uma maneira
+Estou Ã  procura de uma maneira
 de matar estas coisas.
 
 23
@@ -112,21 +112,21 @@ Deviam vir connosco.
 
 26
 00:06:39,200 --> 00:06:42,480
-- Há café na cozinha.
+- HÃ¡ cafÃ© na cozinha.
 - Obrigada.
 
 27
 00:06:56,360 --> 00:06:58,280
-O Noah gosta muito de vocês.
+O Noah gosta muito de vocÃªs.
 
 28
 00:06:59,800 --> 00:07:03,720
 - Porque diz isso?
-- Depois do ataque, ele só pensava
+- Depois do ataque, ele sÃ³ pensava
 
 29
 00:07:03,840 --> 00:07:06,480
-em encontrá-la a si e ao Sacha.
+em encontrÃ¡-la a si e ao Sacha.
 
 30
 00:07:08,160 --> 00:07:10,680
@@ -139,7 +139,7 @@ para ter cancro?
 
 32
 00:07:18,800 --> 00:07:21,280
-Estou grávida.
+Estou grÃ¡vida.
 
 33
 00:07:22,920 --> 00:07:25,540
@@ -148,12 +148,12 @@ Estou grávida.
 
 34
 00:07:26,020 --> 00:07:28,040
-Tenho um péssimo
+Tenho um pÃ©ssimo
 sentido de oportunidade.
 
 35
 00:07:32,560 --> 00:07:35,000
-Onde está o pai?
+Onde estÃ¡ o pai?
 
 36
 00:07:38,440 --> 00:07:42,240
@@ -162,20 +162,20 @@ Onde está o pai?
 
 37
 00:08:19,000 --> 00:08:20,560
-Mãe?
+MÃ£e?
 
 38
 00:08:22,000 --> 00:08:23,560
-Mãe!
+MÃ£e!
 
 39
 00:08:29,000 --> 00:08:31,960
-O que é? Tom?
+O que Ã©? Tom?
 
 40
 00:08:33,120 --> 00:08:36,400
 - Meu Deus!
-- Está tudo bem, está morto.
+- EstÃ¡ tudo bem, estÃ¡ morto.
 
 41
 00:08:36,520 --> 00:08:40,640
@@ -184,7 +184,7 @@ O que é? Tom?
 
 42
 00:08:41,020 --> 00:08:43,040
-Olá.
+OlÃ¡.
 
 43
 00:08:51,840 --> 00:08:53,440
@@ -192,7 +192,7 @@ Tenho de ir.
 
 44
 00:08:55,920 --> 00:08:59,080
-Fica mais segura com o seu irmão
+Fica mais segura com o seu irmÃ£o
 do que em qualquer lado.
 
 45
@@ -201,11 +201,11 @@ Acha que estou segura?
 
 46
 00:09:03,680 --> 00:09:06,400
-Espero que encontre a sua família.
+Espero que encontre a sua famÃ­lia.
 
 47
 00:09:08,360 --> 00:09:10,360
-Despeça-se do Sacha por mim.
+DespeÃ§a-se do Sacha por mim.
 
 48
 00:09:10,960 --> 00:09:13,960
@@ -224,22 +224,22 @@ Despeça-se do Sacha por mim.
 
 51
 00:09:43,440 --> 00:09:46,060
-Há uma cama de casal se a senhora
+HÃ¡ uma cama de casal se a senhora
 e o seu marido quiserem trocar.
 
 52
 00:09:46,060 --> 00:09:48,560
-É ex-marido.
+Ã‰ ex-marido.
 Ficamos bem aqui.
 
 53
 00:09:48,560 --> 00:09:50,560
-Certo. Peço desculpa.
+Certo. PeÃ§o desculpa.
 
 54
 00:09:55,640 --> 00:09:59,160
 - Viram mais pessoas?
-- Só uma.
+- SÃ³ uma.
 
 55
 00:09:59,280 --> 00:10:02,200
@@ -252,26 +252,26 @@ Certo. Peço desculpa.
 
 57
 00:10:13,040 --> 00:10:17,240
-Ainda bem que estão aqui.
-Vou deixá-la acomodar-se.
+Ainda bem que estÃ£o aqui.
+Vou deixÃ¡-la acomodar-se.
 
 58
 00:10:33,200 --> 00:10:35,960
-Isso é o cérebro dele?
+Isso Ã© o cÃ©rebro dele?
 
 59
 00:10:37,200 --> 00:10:40,920
-Vês quão unidos
-estão os compartimentos neuronais?
+VÃªs quÃ£o unidos
+estÃ£o os compartimentos neuronais?
 
 60
 00:10:41,040 --> 00:10:43,620
-Há uma grande correlação entre
-a densidade de neurónios 
+HÃ¡ uma grande correlaÃ§Ã£o entre
+a densidade de neurÃ³nios 
 
 61
 00:10:43,620 --> 00:10:45,120
-e a intelligência.
+e a intelligÃªncia.
 
 62
 00:10:45,240 --> 00:10:47,320
@@ -280,16 +280,16 @@ O que significa isso?
 63
 00:10:49,600 --> 00:10:53,600
 Um animal maior como um elefante
-tem um cérebro maior,
+tem um cÃ©rebro maior,
 
 64
 00:10:53,720 --> 00:10:56,160
-mas menor densidade de neurónios.
+mas menor densidade de neurÃ³nios.
 
 65
 00:10:56,280 --> 00:10:58,780
-Enquanto que um pássaro,
-com um cérebro mais pequeno
+Enquanto que um pÃ¡ssaro,
+com um cÃ©rebro mais pequeno
 
 66
 00:10:58,780 --> 00:11:01,240
@@ -297,8 +297,8 @@ tem maior densidade.
 
 67
 00:11:02,440 --> 00:11:06,240
-Acho que significa que é
-mas provável ser-se inteligente
+Acho que significa que Ã©
+mas provÃ¡vel ser-se inteligente
 
 68
 00:11:06,240 --> 00:11:07,760
@@ -306,68 +306,68 @@ quando somos densos.
 
 69
 00:11:07,880 --> 00:11:10,240
-- Isso é uma piada?
+- Isso Ã© uma piada?
 - Mais ou menos.
 
 70
 00:11:10,360 --> 00:11:12,920
-Eles têm cérebros
-como os dos pássaros?
+Eles tÃªm cÃ©rebros
+como os dos pÃ¡ssaros?
 
 71
 00:11:13,040 --> 00:11:17,240
-Não. É uma estrutura neuronal
+NÃ£o. Ã‰ uma estrutura neuronal
 totalmente diferente.
 
 72
 00:11:18,360 --> 00:11:20,080
-Acho que é apenas uma simples
-máquina de matar. 
+Acho que Ã© apenas uma simples
+mÃ¡quina de matar. 
 
 73
 00:11:20,080 --> 00:11:25,080
-Acho que não é capaz de desenvolver
+Acho que nÃ£o Ã© capaz de desenvolver
 tecnologia sofisticada.
 
 74
 00:11:26,200 --> 00:11:29,160
-Então... o que significa isto?
+EntÃ£o... o que significa isto?
 
 75
 00:11:29,280 --> 00:11:33,600
-Significa que isto é o fantoche,
-não o bonecreiro.
+Significa que isto Ã© o fantoche,
+nÃ£o o bonecreiro.
 
 76
 00:12:16,200 --> 00:12:18,560
-Assim, faz menos impressão.
+Assim, faz menos impressÃ£o.
 
 77
 00:12:32,440 --> 00:12:35,540
-É uma espécie de espelho.
+Ã‰ uma espÃ©cie de espelho.
 Pode ser um visualizador.
 
 78
 00:12:35,540 --> 00:12:36,880
-É um olho?
+Ã‰ um olho?
 
 79
 00:12:36,880 --> 00:12:40,120
-Não tem nervo óptico.
-Se não está ligado ao cérebro
+NÃ£o tem nervo Ã³ptico.
+Se nÃ£o estÃ¡ ligado ao cÃ©rebro
 
 80
 00:12:40,240 --> 00:12:44,480
-- como é que vê?                
-- É cego?
+- como Ã© que vÃª?                
+- Ã‰ cego?
 
 81
 00:12:45,560 --> 00:12:48,000
-Então, para que serve o espelho?
+EntÃ£o, para que serve o espelho?
 
 82
 00:12:50,400 --> 00:12:52,800
-A minha irmã é cega.
+A minha irmÃ£ Ã© cega.
 
 83
 00:12:52,920 --> 00:12:57,480
@@ -379,33 +379,33 @@ Como assim?
 
 85
 00:13:02,040 --> 00:13:07,440
-Ela consegue ver, mas não 
-como antes. Diz que é diferente
+Ela consegue ver, mas nÃ£o 
+como antes. Diz que Ã© diferente
 
 86
 00:13:08,640 --> 00:13:12,880
 - Em que sentido.
-- Terá de lhe perguntar.
+- TerÃ¡ de lhe perguntar.
 
 87
 00:13:18,240 --> 00:13:23,480
-E se usar uma espécie de sonar?
+E se usar uma espÃ©cie de sonar?
 Como os morcegos?
 
 88
 00:13:23,600 --> 00:13:26,320
 Talvez.
-É uma boa questão.
+Ã‰ uma boa questÃ£o.
 
 89
 00:13:26,440 --> 00:13:30,640
-Sabes qual a descooberta científica
-mais importante? A ignorância.
+Sabes qual a descooberta cientÃ­fica
+mais importante? A ignorÃ¢ncia.
 
 90
 00:13:30,760 --> 00:13:32,320
 Quando percebemos o pouco 
-que sabíamos
+que sabÃ­amos
 
 91
 00:13:32,320 --> 00:13:35,320
@@ -413,16 +413,16 @@ tivemos de procurar respostas.
 
 92
 00:13:36,800 --> 00:13:40,680
-Não queria interromper.
+NÃ£o queria interromper.
 Vou deixar-vos continuar.
 
 93
 00:13:45,560 --> 00:13:47,700
-Ela está bem?
+Ela estÃ¡ bem?
 
 94
 00:13:49,560 --> 00:13:54,160
-Nós... tínhamos um filho.
+NÃ³s... tÃ­nhamos um filho.
 
 95
 00:13:55,480 --> 00:13:57,560
@@ -434,7 +434,7 @@ Eles... mataram-no?
 
 97
 00:14:19,760 --> 00:14:22,640
-- O que estás a ler?
+- O que estÃ¡s a ler?
 - Um livro.
 
 98
@@ -444,11 +444,11 @@ Eles... mataram-no?
 
 99
 00:14:32,440 --> 00:14:34,080
-Porquê?
+PorquÃª?
 
 100
 00:14:36,560 --> 00:14:38,440
-Não sei.
+NÃ£o sei.
 
 101
 00:14:39,720 --> 00:14:42,080
@@ -456,7 +456,7 @@ Acho que ele gosta.
 
 102
 00:14:47,720 --> 00:14:52,600
-É isso que gostas de ler?
+Ã‰ isso que gostas de ler?
 
 103
 00:14:52,720 --> 00:14:54,720
@@ -464,12 +464,12 @@ Nem por isso.
 
 104
 00:14:55,200 --> 00:14:57,280
-Não gosto de ler.
+NÃ£o gosto de ler.
 
 105
 00:15:02,480 --> 00:15:07,160
 Como te sentes? 
-Estás bem?
+EstÃ¡s bem?
 
 106
 00:15:09,600 --> 00:15:11,840
@@ -477,8 +477,8 @@ E tu?
 
 107
 00:15:15,040 --> 00:15:17,560
-- Queres tomar o pequeno-almoço?
-- Não.
+- Queres tomar o pequeno-almoÃ§o?
+- NÃ£o.
 
 108
 00:15:24,400 --> 00:15:26,680
@@ -487,11 +487,11 @@ Bom... talvez mais tarde.
 109
 00:15:50,920 --> 00:15:56,840
 Que se passa com o Sacha?
-Está estranho comigo.
+EstÃ¡ estranho comigo.
 
 110
 00:15:58,000 --> 00:16:00,560
-Talvez não goste de ti.
+Talvez nÃ£o goste de ti.
 
 111
 00:16:02,760 --> 00:16:05,600
@@ -500,16 +500,16 @@ antes de chegares.
 
 112
 00:16:06,480 --> 00:16:10,840
-Provavelmente, é das hormonas.
-A adolescência.
+Provavelmente, Ã© das hormonas.
+A adolescÃªncia.
 
 113
 00:16:19,520 --> 00:16:21,760
-Ainda não fizeste café?
+Ainda nÃ£o fizeste cafÃ©?
 
 114
 00:16:23,320 --> 00:16:26,240
-Sempre foste preguiçosa.
+Sempre foste preguiÃ§osa.
 
 115
 00:16:26,360 --> 00:16:31,520
@@ -519,17 +519,17 @@ acordar-te para ires para a escola.
 116
 00:16:31,640 --> 00:16:36,400
 Era um inferno. 
-A mãe dava em doida.
+A mÃ£e dava em doida.
 
 117
 00:16:45,160 --> 00:16:52,160
 O teu namorado vai morrer.
-É um idiota.
+Ã‰ um idiota.
 
 118
 00:16:53,680 --> 00:16:56,520
-- A família dele está morta.
-- Não sabes.
+- A famÃ­lia dele estÃ¡ morta.
+- NÃ£o sabes.
 
 119
 00:17:00,800 --> 00:17:04,960
@@ -537,7 +537,7 @@ Pensaste ir com ele?
 
 120
 00:17:05,080 --> 00:17:07,560
-Isso não teria sido
+Isso nÃ£o teria sido
 muito inteligente.
 
 121
@@ -547,34 +547,34 @@ Os idiotas acabam por morrer.
 122
 00:17:16,520 --> 00:17:21,160
 O melhor que ele pode esperar
-é uma morte rápida.
+Ã© uma morte rÃ¡pida.
 
 123
 00:17:21,280 --> 00:17:24,880
-- É o que desejo para ti
-- Não digas isso.
+- Ã‰ o que desejo para ti
+- NÃ£o digas isso.
 
 124
 00:17:25,000 --> 00:17:27,360
-Não digas isso, está bem?
+NÃ£o digas isso, estÃ¡ bem?
 
 125
 00:17:41,920 --> 00:17:43,440
-Olá.
+OlÃ¡.
 
 126
 00:17:43,440 --> 00:17:46,040
-- Olá. Voltaram.
-- Olá.
+- OlÃ¡. Voltaram.
+- OlÃ¡.
 
 127
 00:17:47,040 --> 00:17:48,520
-Olá.
+OlÃ¡.
 
 128
 00:17:48,520 --> 00:17:51,960
 - Tenho uma coisa para ti.
-- O que é?
+- O que Ã©?
 
 129
 00:17:52,080 --> 00:17:56,600
@@ -596,21 +596,21 @@ Vou ver o que se arranja.
 
 133
 00:18:14,200 --> 00:18:16,640
-Engatatão, vamos.
+EngatatÃ£o, vamos.
 
 134
 00:18:21,400 --> 00:18:26,360
-Olá, querida. Tens fome?
-Há barras de cereais
+OlÃ¡, querida. Tens fome?
+HÃ¡ barras de cereais
 
 135
 00:18:26,480 --> 00:18:28,800
-e o Ash encontrou um fogão 
+e o Ash encontrou um fogÃ£o 
 de campismo.
 
 136
 00:18:28,800 --> 00:18:30,800
-Posso preparar-te feijão e ovos.
+Posso preparar-te feijÃ£o e ovos.
 
 137
 00:18:36,040 --> 00:18:38,040
@@ -618,16 +618,16 @@ Emily, que se passa?
 
 138
 00:18:39,040 --> 00:18:41,120
-Está qualquer coisa ali.
+EstÃ¡ qualquer coisa ali.
 
 139
 00:18:41,240 --> 00:18:45,520
-É uma daquelas coisas.
-Está morta.
+Ã‰ uma daquelas coisas.
+EstÃ¡ morta.
 
 140
 00:18:45,640 --> 00:18:49,840
-- Como sabias que estava aí?
+- Como sabias que estava aÃ­?
 - Consigo senti-la.
 
 141
@@ -646,12 +646,12 @@ o Bill e a Helen.
 
 144
 00:18:56,920 --> 00:18:58,920
-Ele está a tentar descobrir 
-como matá-los.
+Ele estÃ¡ a tentar descobrir 
+como matÃ¡-los.
 
 145
 00:18:58,920 --> 00:19:01,040
-Acho que não devias fazer isso.
+Acho que nÃ£o devias fazer isso.
 
 146
 00:19:01,160 --> 00:19:03,600
@@ -663,7 +663,7 @@ Deves ser a Emily.
 
 148
 00:19:09,600 --> 00:19:11,320
-Como é que morreu?
+Como Ã© que morreu?
 
 149
 00:19:12,720 --> 00:19:16,760
@@ -684,7 +684,7 @@ Emily?
 
 153
 00:19:36,640 --> 00:19:39,120
-Não sei o que se passa com ela.
+NÃ£o sei o que se passa com ela.
 
 154
 00:19:44,000 --> 00:19:48,560
@@ -694,44 +694,44 @@ depois do ataque.
 155
 00:19:48,680 --> 00:19:52,800
 - Vai e vem, segundo ela.
-- Não acredita nela?
+- NÃ£o acredita nela?
 
 156
 00:19:52,920 --> 00:19:56,200
-Os médicos disseram
+Os mÃ©dicos disseram
 que ela nunca mais voltaria a ver.
 
 157
 00:19:56,320 --> 00:19:59,400
-Ela teve Doença de Stargardt
+Ela teve DoenÃ§a de Stargardt
 aos 13 anos.
 
 158
 00:19:59,520 --> 00:20:01,520
-Já tinha acontecido
+JÃ¡ tinha acontecido
 alguma coisa parecida?
 
 159
 00:20:01,640 --> 00:20:05,040
-Ela tinha alucinações. Os médicos
+Ela tinha alucinaÃ§Ãµes. Os mÃ©dicos
 disseram que podia acontecer.
 
 160
 00:20:05,160 --> 00:20:08,400
-Mas não era assim.
+Mas nÃ£o era assim.
 
 161
 00:20:10,400 --> 00:20:13,160
-Ela também tem ouvido coisas.
+Ela tambÃ©m tem ouvido coisas.
 
 162
 00:20:13,280 --> 00:20:17,600
 - Que tipo de coisas?
-- Ela diz que é um som pulsante.
+- Ela diz que Ã© um som pulsante.
 
 163
 00:20:18,560 --> 00:20:21,040
-Mais ninguém ouviu.
+Mais ninguÃ©m ouviu.
 
 164
 00:20:45,320 --> 00:20:47,600
@@ -739,12 +739,12 @@ Que pivete.
 
 165
 00:20:51,360 --> 00:20:54,200
-Parece que já esteve aqui alguém.
+Parece que jÃ¡ esteve aqui alguÃ©m.
 
 166
 00:21:00,560 --> 00:21:05,240
-- Planeias avançar em breve?
-- Avançar?
+- Planeias avanÃ§ar em breve?
+- AvanÃ§ar?
 
 167
 00:21:05,360 --> 00:21:07,040
@@ -756,27 +756,27 @@ Achas que ela gosta de mim?
 
 169
 00:21:10,320 --> 00:21:13,800
-Se não vês isso
-és mais cego que ela.
+Se nÃ£o vÃªs isso
+Ã©s mais cego que ela.
 
 170
 00:21:13,920 --> 00:21:16,960
 - Achaste massa enlatada?
-- Não. 
+- NÃ£o. 
 
 171
 00:21:16,960 --> 00:21:18,760
 As pessoas chiques
-não comem enlatados.
+nÃ£o comem enlatados.
 
 172
 00:21:18,880 --> 00:21:23,600
-É tudo fresco e biológico.
-Agora estão lixados, não é?
+Ã‰ tudo fresco e biolÃ³gico.
+Agora estÃ£o lixados, nÃ£o Ã©?
 
 173
 00:21:32,320 --> 00:21:34,320
-Deve ter-se escondido aí
+Deve ter-se escondido aÃ­
 durante o ataque.
 
 174
@@ -799,11 +799,11 @@ Podes desaparecer?
 
 178
 00:25:11,080 --> 00:25:13,520
-Para que são os comprimidos?
+Para que sÃ£o os comprimidos?
 
 179
 00:25:14,520 --> 00:25:17,360
-Tens as mãos a tremer. 
+Tens as mÃ£os a tremer. 
 O que se passa contigo?
 
 180
@@ -816,7 +816,7 @@ Distrofia muscular.
 
 182
 00:25:50,040 --> 00:25:53,000
-É hereditário?
+Ã‰ hereditÃ¡rio?
 
 183
 00:25:53,120 --> 00:25:56,120
@@ -828,11 +828,11 @@ Lamento muito.
 
 185
 00:26:06,600 --> 00:26:09,200
-Eles vêm aí.
+Eles vÃªm aÃ­.
 
 186
 00:26:09,320 --> 00:26:10,640
-Não podemos ficar aqui.
+NÃ£o podemos ficar aqui.
 
 187
 00:26:11,840 --> 00:26:13,680
@@ -840,7 +840,7 @@ Este som.
 
 188
 00:26:13,800 --> 00:26:16,880
-- Também o ouves?
+- TambÃ©m o ouves?
 - Vamos.
 
 189
@@ -849,17 +849,17 @@ Despachem-se!
 
 190
 00:26:19,680 --> 00:26:22,280
-- Quantos viste? Estão longe?
+- Quantos viste? EstÃ£o longe?
 - A 300 metros.
 
 191
 00:26:22,400 --> 00:26:24,680
 - Quantos?
-- Um. Mas virão mais.
+- Um. Mas virÃ£o mais.
 
 192
 00:26:24,800 --> 00:26:27,200
-Façam exactamente o que vos disser.
+FaÃ§am exactamente o que vos disser.
 
 193
 00:26:27,320 --> 00:26:29,800
@@ -893,7 +893,7 @@ Noah, vamos!
 
 200
 00:27:05,840 --> 00:27:08,020
-Fujam! Não parem! Fujam!
+Fujam! NÃ£o parem! Fujam!
 
 201
 00:27:09,920 --> 00:27:12,320
@@ -926,23 +926,23 @@ Corre, vamos!
 
 208
 00:28:20,060 --> 00:28:22,560
-- Anda cá!
+- Anda cÃ¡!
 - Sacha!
 
 209
 00:28:22,760 --> 00:28:28,360
-Não vais conseguir! Dá a volta!
-Encontramo-nos na fábrica! Vai!
+NÃ£o vais conseguir! DÃ¡ a volta!
+Encontramo-nos na fÃ¡brica! Vai!
 
 210
 00:30:14,120 --> 00:30:18,000
-Sacha, a porta está trancada!
+Sacha, a porta estÃ¡ trancada!
 Sacha? Sacha?
 
 211
 00:30:18,000 --> 00:30:21,400
 - Abre a porta!
-- Não devias ter magoado a minha mãe.
+- NÃ£o devias ter magoado a minha mÃ£e.
 
 212
 00:30:21,520 --> 00:30:23,880
@@ -951,16 +951,16 @@ Abre a porta! Abre a porta!
 213
 00:30:24,000 --> 00:30:27,240
 Abre a merda da porta, Sacha!
-Abre a porta! Que estás a fazer?
+Abre a porta! Que estÃ¡s a fazer?
 
 214
 00:30:28,000 --> 00:30:31,560
 - Sacha?
-- Não devias ter magoado a minha mãe!
+- NÃ£o devias ter magoado a minha mÃ£e!
 
 215
 00:30:31,560 --> 00:30:34,560
-Não devias ter magoado a minha mãe!
+NÃ£o devias ter magoado a minha mÃ£e!
 
 216
 00:30:55,060 --> 00:30:56,560
@@ -969,7 +969,7 @@ Sacha!
 217
 00:32:18,440 --> 00:32:21,520
 Deve ser a origem do sinal
-que procurávamos.
+que procurÃ¡vamos.
 
 218
 00:32:25,720 --> 00:32:27,920
@@ -990,19 +990,19 @@ Acha que foi abatido?
 222
 00:32:47,240 --> 00:32:50,920
 Se houvesse unidades militares
-na área já as teríamos contactado.
+na Ã¡rea jÃ¡ as terÃ­amos contactado.
 
 223
 00:33:14,060 --> 00:33:16,060
-Mãe?
+MÃ£e?
 
 224
 00:33:28,760 --> 00:33:30,760
-Onde está o Noah
+Onde estÃ¡ o Noah
 
 225
 00:33:34,440 --> 00:33:36,800
-Tentei ajudá-lo.
+Tentei ajudÃ¡-lo.
 
 226
 00:33:38,520 --> 00:33:40,440
@@ -1010,7 +1010,7 @@ Juro.
 
 227
 00:33:49,000 --> 00:33:51,240
-A culpa não é tua.
+A culpa nÃ£o Ã© tua.
 
 228
 00:33:56,800 --> 00:33:59,440
@@ -1018,17 +1018,17 @@ Voltou?
 
 229
 00:34:00,200 --> 00:34:03,120
-Devíamos sair da estrada. 
+DevÃ­amos sair da estrada. 
 Vamos.
 
 230
 00:34:58,040 --> 00:35:03,480
-- O que é isso?
-- Parece matéria orgânica.
+- O que Ã© isso?
+- Parece matÃ©ria orgÃ¢nica.
 
 231
 00:36:08,680 --> 00:36:11,520
-Está tudo bem?
+EstÃ¡ tudo bem?
 Que se passa?
 
 232
@@ -1038,7 +1038,7 @@ acabou de passar por mim.
 
 233
 00:37:28,560 --> 00:37:30,840
-Parece que não nos vêem.
+Parece que nÃ£o nos vÃªem.
 
 234
 00:37:30,960 --> 00:37:34,080
@@ -1047,38 +1047,38 @@ na queda.
 
 235
 00:37:35,320 --> 00:37:38,160
-Não parecem danificados.
+NÃ£o parecem danificados.
 
 236
 00:37:43,760 --> 00:37:45,720
-Ninguém se mexe.
+NinguÃ©m se mexe.
 
 237
 00:38:20,640 --> 00:38:23,080
-- O que é?
-- Não faço ideia.
+- O que Ã©?
+- NÃ£o faÃ§o ideia.
 
 238
 00:38:33,760 --> 00:38:36,320
-Acha que são eles?
+Acha que sÃ£o eles?
 
 239
 00:38:38,200 --> 00:38:40,360
-É este o aspecto que têm?
+Ã‰ este o aspecto que tÃªm?
 
 240
 00:38:41,720 --> 00:38:45,280
-Está tão queimado
-que é difícil saber o que é.
+EstÃ¡ tÃ£o queimado
+que Ã© difÃ­cil saber o que Ã©.
 
 241
 00:39:19,320 --> 00:39:24,200
 - Como vai isso?
-- Ainda estou a começar.
+- Ainda estou a comeÃ§ar.
 
 242
 00:39:27,400 --> 00:39:31,120
-Eles levaram uns bebés
+Eles levaram uns bebÃ©s
 que estavam no hospital.
 
 243
@@ -1088,7 +1088,7 @@ Como assim?
 244
 00:39:35,160 --> 00:39:39,640
 Mataram toda a gente.
-Mas os bebés desapareceram.
+Mas os bebÃ©s desapareceram.
 
 245
 00:39:39,760 --> 00:39:42,040
@@ -1096,7 +1096,7 @@ Porque fariam isso?
 
 246
 00:39:57,320 --> 00:40:00,720
-É o Kariem. Posso entrar?
+Ã‰ o Kariem. Posso entrar?
 
 247
 00:40:04,520 --> 00:40:06,020
@@ -1108,7 +1108,7 @@ Quero mostrar-te uma coisa.
 
 249
 00:40:14,760 --> 00:40:16,760
-Não estou com disposição
+NÃ£o estou com disposiÃ§Ã£o
 para supresas.
 
 250
@@ -1126,7 +1126,7 @@ Camas de solteiro.
 
 253
 00:41:57,440 --> 00:42:03,000
-Lembra-me de quando ficávamos
+Lembra-me de quando ficÃ¡vamos
 em casa dos teus pais. Lembras-te?
 
 254
@@ -1135,12 +1135,12 @@ Estavam sempre a aparecer.
 
 255
 00:42:08,000 --> 00:42:12,440
-Não queriam que a sua boa
-filha católica ardesse no inferno.
+NÃ£o queriam que a sua boa
+filha catÃ³lica ardesse no inferno.
 
 256
 00:42:12,560 --> 00:42:16,200
-Já não iam a tempo.
+JÃ¡ nÃ£o iam a tempo.
 
 257
 00:42:36,120 --> 00:42:38,320
@@ -1148,23 +1148,23 @@ O que tocaste?
 
 258
 00:42:39,920 --> 00:42:41,880
-Não sei.
+NÃ£o sei.
 
 259
 00:42:43,560 --> 00:42:46,120
-Não me lembro como é que sei.
+NÃ£o me lembro como Ã© que sei.
 
 260
 00:42:50,760 --> 00:42:52,680
-A tua mão.
+A tua mÃ£o.
 
 261
 00:43:06,880 --> 00:43:09,480
-É tão embaraçoso.
+Ã‰ tÃ£o embaraÃ§oso.
 
 262
 00:43:09,600 --> 00:43:11,200
-O quê?
+O quÃª?
 
 263
 00:43:13,280 --> 00:43:17,240
@@ -1176,7 +1176,7 @@ Fiz chichi em cima de ti.
 
 265
 00:43:19,600 --> 00:43:22,640
-O mundo acabou e estás preocupada
+O mundo acabou e estÃ¡s preocupada
 por me teres feito chichi em cima?
 
 266
@@ -1195,12 +1195,12 @@ Estava assustado.
 
 269
 00:43:39,040 --> 00:43:43,960
-Achas que é demasiado cedo,
+Achas que Ã© demasiado cedo,
 tendo em conta o que aconteceu?
 
 270
 00:43:44,080 --> 00:43:48,000
-- Demasiado cedo para quê?
+- Demasiado cedo para quÃª?
 - Para fazer sexo.
 
 271
@@ -1217,7 +1217,7 @@ O que significa?
 
 274
 00:46:18,120 --> 00:46:22,000
-Não sei.
+NÃ£o sei.
 Foi uma amiga que escolheu.
 
 275
@@ -1226,5 +1226,5 @@ A marca da tua tribo?
 
 276
 00:46:30,120 --> 00:46:32,160
-Algo desse género.
+Algo desse gÃ©nero.
 
