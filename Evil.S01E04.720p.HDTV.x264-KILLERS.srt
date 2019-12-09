@@ -1,0 +1,3422 @@
+﻿1
+00:00:05,100 --> 00:00:07,100
+<font color="#ff0000">Você tem dezessete anos ou mais?</font>
+
+2
+00:00:07,100 --> 00:00:09,600
+<font color="#ff0000">Sim.</font>
+
+3
+00:00:11,100 --> 00:00:13,100
+<font color="#ff0000">AVISO: você está grávida
+ou tem problema cardíaco?</font>
+
+4
+00:00:13,400 --> 00:00:15,400
+<font color="#ff0000">Não.</font>
+
+5
+00:00:19,900 --> 00:00:23,900
+<font color="#ff0000">Apague as luzes</font>
+
+6
+00:00:36,285 --> 00:00:37,443
+<i>Bora meninas,
+vamos.</i>
+
+7
+00:00:37,444 --> 00:00:39,312
+<i>Meu Deus,</i>
+
+8
+00:00:39,313 --> 00:00:41,181
+Estou sendo precipitado agora.
+
+9
+00:00:41,182 --> 00:00:43,683
+<i>Esta casa é muito parecida
+com a que eu cresci.</i>
+
+10
+00:00:43,684 --> 00:00:46,805
+Minha mãe me fazia fazer o teste
+da chave de fenda toda semana.
+
+11
+00:00:46,806 --> 00:00:48,488
+- O quê?
+<i>- Teste de chave de fenda.</i>
+
+12
+00:00:48,489 --> 00:00:50,990
+<i>Se você não consegue empurrar uma chave
+de fenda de seis polegadas no gramado,</i>
+
+13
+00:00:50,991 --> 00:00:52,825
+<i>você não regou o suficiente.</i>
+
+14
+00:00:52,826 --> 00:00:54,260
+Então, o que estamos olhando?
+
+15
+00:00:54,261 --> 00:00:56,329
+Uma avaliação psicológica.
+
+16
+00:00:56,330 --> 00:00:57,864
+E espiritual.
+
+17
+00:00:57,865 --> 00:01:00,366
+Ver se é possível
+lidar com a terapia.
+
+18
+00:01:00,367 --> 00:01:01,926
+<i>- Oi.</i>
+- Oi.
+
+19
+00:01:01,927 --> 00:01:04,236
+<i>- Seus pais estão em casa?</i>
+- Você está aqui pelo meu irmão?
+
+20
+00:01:04,237 --> 00:01:06,973
+- Estamos.
+- Mãe, pai!
+
+21
+00:01:06,974 --> 00:01:09,342
+Oi. Muito obrigado por ter vindo.
+
+22
+00:01:09,343 --> 00:01:11,878
+Sou Tom McCrystal.
+Essa é Olive.
+
+23
+00:01:11,879 --> 00:01:14,380
+- Ei, Olive.
+<i>- Entrem, por favor.</i>
+
+24
+00:01:14,381 --> 00:01:15,900
+Posso pegar algo para vocês?
+
+25
+00:01:15,901 --> 00:01:18,318
+Água? Café?
+Lanche de frutas?
+
+26
+00:01:18,319 --> 00:01:19,953
+Estamos bastante bem abastecidos.
+
+27
+00:01:19,954 --> 00:01:21,454
+<i>Que tipo de lanches de frutas?</i>
+
+28
+00:01:21,455 --> 00:01:22,889
+Estamos bem, obrigado.
+
+29
+00:01:22,890 --> 00:01:24,791
+Mas adoraríamos conhecer
+Eric, se estiver tudo bem.
+
+30
+00:01:24,792 --> 00:01:26,793
+Por aqui.
+
+31
+00:01:35,202 --> 00:01:38,638
+Tá certo.
+
+32
+00:01:40,541 --> 00:01:44,410
+<i>Então, às vezes precisamos
+dormir no mesmo quarto</i>
+
+33
+00:01:44,411 --> 00:01:47,213
+para podermos trancar
+a porta.
+
+34
+00:01:47,214 --> 00:01:49,215
+- Entendo.
+- Isso.
+
+35
+00:01:56,257 --> 00:01:58,258
+Eric?
+
+36
+00:02:02,396 --> 00:02:03,830
+Eric.
+
+37
+00:02:03,831 --> 00:02:05,665
+Oi?
+
+38
+00:02:05,666 --> 00:02:07,392
+<i>Está na hora da consulta</i>
+
+39
+00:02:07,393 --> 00:02:09,502
+que nós conversamos ontem.
+
+40
+00:02:19,113 --> 00:02:21,748
+Vamos ficar aqui fora.
+
+41
+00:02:22,716 --> 00:02:24,541
+<i>Ele fica um pouco agitado</i>
+
+42
+00:02:24,542 --> 00:02:26,576
+quando ele vê o bebê.
+
+43
+00:02:51,445 --> 00:02:54,213
+Então vocês estão aqui para
+me avaliar?
+
+44
+00:02:55,249 --> 00:02:57,617
+Bem, estamos aqui para conversar.
+
+45
+00:02:57,618 --> 00:02:59,452
+Sou David Acosta.
+
+46
+00:02:59,453 --> 00:03:01,254
+Sou Kristen Bouchard. Oi.
+
+47
+00:03:01,255 --> 00:03:03,956
+Olá, sou o Ben.
+
+48
+00:03:03,957 --> 00:03:06,993
+Não tenho cadeiras,
+mas podemos sentar no chão.
+
+49
+00:03:10,798 --> 00:03:13,633
+Você sabe por que seus pais
+nos chamaram aqui, Eric?
+
+50
+00:03:13,634 --> 00:03:15,401
+Sim.
+
+51
+00:03:15,402 --> 00:03:17,603
+<i>Pode nos contar o que aconteceu
+com sua irmã mais velha?</i>
+
+52
+00:03:17,604 --> 00:03:20,006
+Eu a mordi.
+
+53
+00:03:20,007 --> 00:03:21,774
+Com força.
+
+54
+00:03:21,775 --> 00:03:24,110
+Ela estava sangrando muito.
+
+55
+00:03:24,111 --> 00:03:26,245
+E ela chorou.
+
+56
+00:03:26,246 --> 00:03:28,915
+<i>E por que você mordeu sua irmã?</i>
+
+57
+00:03:28,916 --> 00:03:31,484
+Porque eu queria.
+
+58
+00:03:31,485 --> 00:03:34,620
+Aconteceu algo que
+fez você querer?
+
+59
+00:03:36,357 --> 00:03:37,623
+Você pode nos dizer?
+
+60
+00:03:40,861 --> 00:03:43,096
+Estávamos assistindo
+Steven Universe
+
+61
+00:03:43,097 --> 00:03:46,699
+e ela continuou rindo e
+eu queria que ela parasse.
+
+62
+00:03:46,700 --> 00:03:48,701
+<i>Estava muito alto.</i>
+
+63
+00:03:48,702 --> 00:03:51,137
+Eu disse a ela para
+parar, mas ela não parou.
+
+64
+00:03:51,138 --> 00:03:53,539
+Mas você não ri quando
+se machuca.
+
+65
+00:03:53,540 --> 00:03:56,916
+Então você sabia que estava
+machucando-a quando mordeu?
+
+66
+00:03:56,917 --> 00:03:59,276
+<i>E como você se sentiu</i>
+
+67
+00:03:59,277 --> 00:04:01,347
+quando você estava fazendo
+isso com sua irmã?
+
+68
+00:04:02,950 --> 00:04:04,951
+<i>Você...</i>
+
+69
+00:04:04,952 --> 00:04:07,320
+gostou de machucá-la?
+
+70
+00:04:10,691 --> 00:04:13,226
+<i>Eric, olhe para mim.</i>
+
+71
+00:04:13,227 --> 00:04:17,296
+Você gostou de machucá-la?
+
+72
+00:04:20,742 --> 00:04:24,311
+<i>E o que você gostou
+em machucá-la?</i>
+
+73
+00:04:25,691 --> 00:04:27,549
+Eu não sei.
+
+74
+00:04:27,550 --> 00:04:30,704
+É como assistir a uma
+história que eu mesmo fiz.
+
+75
+00:04:30,705 --> 00:04:32,629
+<i>Como na escola,</i>
+
+76
+00:04:32,630 --> 00:04:36,416
+<i>tem esse garoto na minha turma
+que sempre estou do lado dele.</i>
+
+77
+00:04:36,417 --> 00:04:38,912
+<i>Porque meu sobrenome é McCrystal,</i>
+
+78
+00:04:38,913 --> 00:04:41,320
+<i>e seu sobrenome é McCray.</i>
+
+79
+00:04:41,321 --> 00:04:44,312
+<i>Então, em nossa última viagem
+de campo à Grand Central,</i>
+
+80
+00:04:44,313 --> 00:04:46,071
+nós jogamos
+Verdade ou Consequência.
+
+81
+00:04:46,072 --> 00:04:48,298
+E eu o fiz pular
+nos trilhos do trem
+
+82
+00:04:48,299 --> 00:04:50,599
+e contar até 42 antes que ele
+pudesse se levantar.
+
+83
+00:04:52,332 --> 00:04:54,033
+<i>Mas então um dos
+nossos professores</i>
+
+84
+00:04:54,034 --> 00:04:55,902
+o agarrou antes do trem chegar.
+
+85
+00:04:55,903 --> 00:04:58,504
+Você queria que ele fosse
+atropelado pelo trem?
+
+86
+00:04:59,873 --> 00:05:01,707
+<i>Mesmo que isso pudesse ter</i>
+
+87
+00:05:01,708 --> 00:05:05,278
+machucado muito ele
+ou até matá-lo?
+
+88
+00:05:05,279 --> 00:05:06,946
+Eu acho.
+
+89
+00:05:18,125 --> 00:05:21,394
+Você tem bom gosto
+para quadrinhos.
+
+90
+00:05:21,395 --> 00:05:23,896
+Você já leu alguma
+da coleção Ochre 7?
+
+91
+00:05:23,897 --> 00:05:27,099
+- Não.
+<i>- É uma história sobre crianças imortais</i>
+
+92
+00:05:27,100 --> 00:05:29,869
+que brincam de esconde-esconde
+através do tempo.
+
+93
+00:05:29,870 --> 00:05:32,305
+<i>Estou surpreso que você
+não tenha lido nada disso.</i>
+
+94
+00:05:32,306 --> 00:05:35,575
+No volume quatro, Simona
+desafia Patrick a pular para
+
+95
+00:05:35,576 --> 00:05:38,911
+os trilhos da ferrovia e contar
+até 42 antes que ele possa sair.
+
+96
+00:05:41,081 --> 00:05:44,217
+Talvez eu tenha lido
+esse e esqueci.
+
+97
+00:05:44,218 --> 00:05:46,919
+Eric era...
+
+98
+00:05:46,920 --> 00:05:49,189
+amoroso e carinhoso.
+
+99
+00:05:49,190 --> 00:05:50,723
+Ele era totalmente diferente.
+
+100
+00:05:50,724 --> 00:05:52,124
+E então...
+
+101
+00:05:52,125 --> 00:05:53,793
+Quando ele mudou?
+
+102
+00:05:53,794 --> 00:05:55,394
+Dois anos atrás.
+
+103
+00:05:55,395 --> 00:05:59,078
+<i>Isso nos pegou de surpresa.
+Uma birra aqui, uma mentira ali.</i>
+
+104
+00:05:59,079 --> 00:06:00,746
+- <i>Você é mãe?</i>
+- Sim.
+
+105
+00:06:00,747 --> 00:06:03,545
+<i>Sabe como descrever
+isso como coisa de criança.</i>
+
+106
+00:06:03,546 --> 00:06:06,138
+Então acumula, e agora
+
+107
+00:06:06,139 --> 00:06:08,741
+é uma luta lembrar quem ele era.
+
+108
+00:06:08,742 --> 00:06:11,965
+E as fechaduras dos
+armários e da geladeira?
+
+109
+00:06:11,966 --> 00:06:13,980
+Ele tentou nos envenenar.
+
+110
+00:06:13,981 --> 00:06:16,340
+- Por quê?
+<i>- Ele disse que estava fazendo</i>
+
+111
+00:06:16,341 --> 00:06:19,585
+um experimento, e ele queria
+ver quanto tempo levaria
+
+112
+00:06:19,586 --> 00:06:22,288
+para nós sentirmos alvejante
+líquido no leite.
+
+113
+00:06:24,070 --> 00:06:26,592
+<i>Felizmente, temos uma câmera
+de babá que viu o que ele fez.</i>
+
+114
+00:06:26,593 --> 00:06:28,694
+Você já o avaliou
+psicologicamente?
+
+115
+00:06:28,695 --> 00:06:31,264
+12 vezes.
+
+116
+00:06:31,265 --> 00:06:33,571
+Mas os psicólogos
+não entram em acordo.
+
+117
+00:06:33,572 --> 00:06:35,362
+Algum medicamento?
+
+118
+00:06:35,363 --> 00:06:37,770
+<i>Antidepressivos,
+Transtorno de Déficit de Atençã,</i>
+
+119
+00:06:37,771 --> 00:06:39,076
+<i>Mirtazapina.</i>
+
+120
+00:06:39,077 --> 00:06:41,068
+<i>- 23 protocolos separados.
+- Sim,</i>
+
+121
+00:06:41,069 --> 00:06:44,326
+e alguns funcionaram por um
+tempo, mas depois pararam.
+
+122
+00:06:44,327 --> 00:06:46,479
+Ele foi internado duas vezes.
+
+123
+00:06:46,480 --> 00:06:49,382
+<i>E a polícia foi enviada
+para sua escola três vezes.</i>
+
+124
+00:06:49,383 --> 00:06:50,613
+Estes são os relatórios policiais.
+
+125
+00:06:50,617 --> 00:06:51,891
+Odeio sugerir isso,
+
+126
+00:06:51,892 --> 00:06:54,053
+<i>- mas existem programas federais.</i>
+
+127
+00:06:54,054 --> 00:06:57,123
+Sim, e eles levaram
+Eric por uma semana
+
+128
+00:06:57,124 --> 00:06:58,958
+antes que eles nos
+pedissem para buscá-lo.
+
+129
+00:06:58,959 --> 00:07:00,560
+Eles deveriam levar todo mundo,
+
+130
+00:07:00,561 --> 00:07:02,194
+<i>mas eles não vão levar Eric.</i>
+
+131
+00:07:02,195 --> 00:07:04,897
+Quero dizer,
+estamos nisso há dois anos.
+
+132
+00:07:04,898 --> 00:07:06,899
+E nós apenas...
+
+133
+00:07:09,202 --> 00:07:11,837
+Deus, eu não queria fazer isso.
+
+134
+00:07:11,838 --> 00:07:15,474
+Só precisamos de alguém
+para nos ajudar.
+
+135
+00:07:15,475 --> 00:07:18,311
+Nós não somos muito
+bons católicos.
+
+136
+00:07:18,312 --> 00:07:21,914
+Mas Eric tem algo dentro dele.
+
+137
+00:07:21,915 --> 00:07:24,167
+Um demônio.
+
+138
+00:07:24,168 --> 00:07:26,026
+Nunca pensei que diria isso.
+
+139
+00:07:26,027 --> 00:07:28,821
+Mas acredito nisso agora.
+
+140
+00:07:28,822 --> 00:07:33,893
+Algo mudou Eric há dois
+anos e quer nos matar.
+
+141
+00:07:33,894 --> 00:07:37,530
+E é por isso que precisamos
+da sua ajuda.
+
+142
+00:07:41,501 --> 00:07:44,270
+Isso é um pesadelo.
+
+143
+00:07:44,271 --> 00:07:45,872
+Temos que fazer nossa
+própria avaliação psicológica
+
+144
+00:07:45,873 --> 00:07:47,573
+antes que eu possa solicitar
+qualquer ação da Igreja.
+
+145
+00:07:47,574 --> 00:07:48,983
+Sim, vou fazer nisso.
+
+146
+00:07:48,984 --> 00:07:51,944
+Gente, há uma chance
+de isso ser ambiental.
+
+147
+00:07:51,945 --> 00:07:54,748
+Tá bom? A filha mais velha, ela tinha
+um tom esverdeado no cabelo.
+
+148
+00:07:54,748 --> 00:07:56,349
+Isso é de acidez.
+
+149
+00:07:56,350 --> 00:07:58,607
+<i>Há partículas de metal
+oxidadas na água.</i>
+
+150
+00:07:58,608 --> 00:08:01,087
+Isso é como uma tubulação
+de cobre.
+
+151
+00:08:01,088 --> 00:08:03,389
+Certo? E eles se mudaram para
+cá há dois anos.
+
+152
+00:08:03,390 --> 00:08:06,090
+Foi quando a criança começou
+a agir de maneira diferente.
+
+153
+00:08:06,860 --> 00:08:08,761
+É possível.
+
+154
+00:08:08,762 --> 00:08:11,597
+A superexposição ao cobre pode
+causar sintomas psiquiátricos.
+
+155
+00:08:11,598 --> 00:08:13,867
+Se você investigar, teremos nossa
+própria avaliação psicológica com Eric.
+
+156
+00:08:13,867 --> 00:08:16,569
+- Ótimo.
+- Ben.
+
+157
+00:08:16,570 --> 00:08:19,705
+Você poderia verificar minha
+casa quanto à corrosão do metal?
+
+158
+00:08:19,706 --> 00:08:21,107
+Sim, seus filhos são psicopatas?
+
+159
+00:08:21,883 --> 00:08:22,907
+Mãe, estamos em casa.
+
+160
+00:08:22,908 --> 00:08:24,377
+- Mãe, estou com tanta fome.
+- Mamãe!
+
+161
+00:08:24,378 --> 00:08:26,278
+Meu estômago está literalmente
+me matando.
+
+162
+00:08:26,279 --> 00:08:27,713
+- Mãe, estamos em casa!
+- Mãe, cadê você ?!
+
+163
+00:08:27,714 --> 00:08:29,548
+- Onde está a mamãe?
+Ei, quietas. Não...
+
+164
+00:08:29,549 --> 00:08:31,083
+Ei, ei, ei.
+Calma, quietas.
+
+165
+00:08:31,084 --> 00:08:32,485
+O que é isso?
+
+166
+00:08:34,121 --> 00:08:35,621
+Beleza, tenho sua atenção.
+
+167
+00:08:35,622 --> 00:08:37,456
+Tá certo,
+agora ouçam com muito cuidado.
+
+168
+00:08:37,457 --> 00:08:40,726
+Sua mãe ainda está no trabalho,
+e eu tenho um par de oito. Viu?
+
+169
+00:08:40,727 --> 00:08:42,581
+<i>- Há tortas na cozinha.</i>
+
+170
+00:08:42,582 --> 00:08:46,165
+E já que não me lembro de nenhum
+dos seus aniversários, isso.
+
+171
+00:08:46,166 --> 00:08:47,967
+- Meu Deus!
+- Não, deixa pra lá!
+
+172
+00:08:47,968 --> 00:08:49,468
+Meu aniversário é o mais próximo!
+
+173
+00:08:49,469 --> 00:08:51,904
+Beleza... não, não...
+Não, não me agradeça.
+
+174
+00:08:51,905 --> 00:08:53,739
+Muito obrigado, vovó. Abra.
+
+175
+00:08:53,740 --> 00:08:55,908
+Agora, escute, se vocês não podem
+ficar quietas, vou levar embora.
+
+176
+00:08:55,909 --> 00:08:57,234
+Eu quero segurá-lo.
+
+177
+00:08:57,235 --> 00:08:59,078
+Meu Deus, eu sei o que são.
+
+178
+00:08:59,079 --> 00:09:00,346
+Óculos de realidade aumentada.
+
+179
+00:09:00,347 --> 00:09:01,981
+Há uma garota na escola que tem.
+
+180
+00:09:01,982 --> 00:09:03,516
+- Vovó, isso é ótimo.
+- Eu sei.
+
+181
+00:09:03,517 --> 00:09:06,152
+Agora, pessoal, beijem-me na
+bochecha e depois vão brincar.
+
+182
+00:09:06,153 --> 00:09:08,030
+Certo?
+Mas por favor não mate ninguém.
+
+183
+00:09:08,031 --> 00:09:09,506
+- Sem matança.
+
+184
+00:09:15,429 --> 00:09:17,496
+<i>- Tá bom,
+podemos tentar a World Trip,</i>
+
+185
+00:09:17,497 --> 00:09:19,265
+<i>- Bloqueie os blocos,</i>
+
+186
+00:09:19,266 --> 00:09:21,000
+<i>- Bunny Hopp...
+- A garota assombrada.</i>
+
+187
+00:09:21,001 --> 00:09:23,325
+A menina assombrada!
+A menina assombrada!
+
+188
+00:09:25,305 --> 00:09:26,972
+<i>- Deixe-nos ver.
+- Queremos ver.</i>
+
+189
+00:09:26,973 --> 00:09:29,208
+Acabamos de colocá-los,
+estamos todos compartilhando.
+
+190
+00:09:29,209 --> 00:09:30,441
+- Pare com isso!
+- Por que compartilhar significa
+
+191
+00:09:30,442 --> 00:09:31,697
+vocês vão primeiro?
+
+192
+00:09:31,698 --> 00:09:33,312
+Porque somos os mais velhas.
+
+193
+00:09:33,313 --> 00:09:36,039
+- O que fazemos agora?
+
+194
+00:09:36,040 --> 00:09:37,498
+<i>- Vovó disse que estava tudo bem</i>
+
+195
+00:09:37,499 --> 00:09:39,090
+- em usá-los,
+então eu acho que está tudo bem.
+
+196
+00:09:39,091 --> 00:09:40,208
+- O que diz isso?
+
+197
+00:09:40,209 --> 00:09:42,468
+- Nada, apenas se
+tivermos idade suficiente.
+
+198
+00:09:42,469 --> 00:09:43,960
+- O que diz agora?
+
+199
+00:09:43,961 --> 00:09:45,391
+- Está perguntando se estamos grávidas.
+
+200
+00:09:45,392 --> 00:09:49,351
+- O que?
+- Bem, não estamos, então...
+
+201
+00:09:51,064 --> 00:09:53,199
+<i>Nossa.</i>
+
+202
+00:09:53,200 --> 00:09:54,800
+<i>Meu Deus.</i>
+
+203
+00:09:54,801 --> 00:09:56,635
+- O que é isso?
+- Deixe-me ficar com isso.
+
+204
+00:09:56,636 --> 00:09:57,670
+Isso é tão estranho.
+
+205
+00:09:57,671 --> 00:09:59,474
+É apenas o nosso quarto,
+mas há teias de aranha
+
+206
+00:09:59,475 --> 00:10:01,474
+e... e aranhas!
+Existem aranhas.
+
+207
+00:10:01,475 --> 00:10:02,532
+<i>O que? Onde?</i>
+
+208
+00:10:02,533 --> 00:10:04,210
+- Queremos ver.
+- Não, apenas espere, espere.
+
+209
+00:10:04,211 --> 00:10:06,312
+<i>Meu Deus.</i>
+
+210
+00:10:06,313 --> 00:10:08,864
+É a nossa vez,
+já faz cinco minutos! Vamos!
+
+211
+00:10:08,865 --> 00:10:11,767
+- Deixa-nos tentar.
+- Espera, não, não.
+
+212
+00:10:13,011 --> 00:10:15,670
+- Espere, deveríamos?
+- Sim.
+
+213
+00:10:15,671 --> 00:10:17,605
+- O que?
+- Quer que apague as luzes.
+
+214
+00:10:23,764 --> 00:10:25,064
+<i>Meu Deus!</i>
+
+215
+00:10:25,065 --> 00:10:26,665
+<i>- O que é isso?
+- Uma aranha,</i>
+
+216
+00:10:26,666 --> 00:10:28,234
+<i>- no corredor. Gigante.</i>
+
+217
+00:10:28,235 --> 00:10:30,026
+- Enorme.
+Acho que é a minha vez.
+
+218
+00:10:30,027 --> 00:10:31,437
+- É a nossa vez!
+- Espere, espere, espere.
+
+219
+00:10:31,438 --> 00:10:33,072
+- Pare, pare, Laura.
+- Posso pegar?
+
+220
+00:10:33,073 --> 00:10:34,764
+- Pare com isso agora.
+- Pare, pare....
+
+221
+00:10:34,765 --> 00:10:36,942
+- pare, pare, pare, pare, pare.
+- Isso é uma loucura.
+
+222
+00:10:36,943 --> 00:10:40,079
+<i>É tão real, tão real.</i>
+
+223
+00:10:40,080 --> 00:10:41,280
+<i>Tão real.</i>
+
+224
+00:10:43,016 --> 00:10:45,050
+- ABRA ESSA PORTA!
+- Nós deveríamos?
+
+225
+00:10:45,051 --> 00:10:47,219
+É apenas o nosso banheiro.
+
+226
+00:10:49,288 --> 00:10:51,012
+Feche-o!
+
+227
+00:10:51,013 --> 00:10:53,272
+- Meu Deus! Eca!
+- Ele está vindo...
+
+228
+00:10:53,273 --> 00:10:55,193
+- Feche rápido!
+- Ele está vindo...
+
+229
+00:10:56,120 --> 00:10:57,866
+- Feche, feche! Feche-o!
+- Ele está vindo, ele está vindo,
+
+230
+00:10:57,867 --> 00:10:59,198
+- Ele está vindo.
+- Feche-o!
+
+231
+00:10:59,199 --> 00:11:02,368
+O que?
+
+232
+00:11:02,369 --> 00:11:04,136
+- É a nossa vez agora.
+- Pega isso.
+
+233
+00:11:04,137 --> 00:11:06,494
+Vou te ajudar. Certo. Apenas
+saiba que nada disso é real.
+
+234
+00:11:06,495 --> 00:11:09,150
+Então é um jogo, ou o quê?
+O que eu faço?
+
+235
+00:11:09,151 --> 00:11:11,176
+Eu não sei.
+Não chegamos longe o suficiente.
+
+236
+00:11:11,177 --> 00:11:13,870
+Só não se assuste.
+
+237
+00:11:13,871 --> 00:11:16,897
+<i>Isso não é assustador.
+Eu não vejo nada.</i>
+
+238
+00:11:16,898 --> 00:11:18,422
+- Abra a porta do banheiro.
+
+239
+00:11:18,423 --> 00:11:19,447
+Apenas saiba que não é real.
+
+240
+00:11:19,448 --> 00:11:21,106
+- Não fique assustada.
+- Continue.
+
+241
+00:11:21,107 --> 00:11:23,366
+Tudo bem, Laura,
+você pode fazer.
+
+242
+00:11:23,367 --> 00:11:26,002
+Vamos.
+
+243
+00:11:31,898 --> 00:11:33,732
+O que? É apenas o nosso banheiro.
+
+244
+00:11:33,733 --> 00:11:35,501
+Você não ta vendo?
+O cara com a faca de açougueiro?
+
+245
+00:11:35,502 --> 00:11:37,236
+- Ele estava ali.
+- Sim.
+
+246
+00:11:37,237 --> 00:11:39,138
+- Não.
+- Ele estava lá um segundo atrás.
+
+247
+00:11:39,139 --> 00:11:41,398
+- Não. Não há nada.
+- Sério?
+
+248
+00:11:41,399 --> 00:11:43,976
+- Vocês estavam inventando tudo!
+- Não, não estávamos.
+
+249
+00:11:43,977 --> 00:11:46,278
+- Foi logo ali!
+- Sim você estava!
+
+250
+00:11:48,615 --> 00:11:50,482
+- Você acha que mentiríamos
+sobre essas coisas? - Veja!
+
+251
+00:11:50,483 --> 00:11:51,851
+Não há nada aqui!
+
+252
+00:11:51,852 --> 00:11:54,420
+Sim. Acho que estes estão
+quebrados. Eles não funcionam.
+
+253
+00:11:54,421 --> 00:11:55,754
+Eles não estão quebrados,
+apenas espere um segundo.
+
+254
+00:11:55,755 --> 00:11:58,090
+- Basta olhar em volta...
+- O que devemos ver?
+
+255
+00:11:58,091 --> 00:11:59,325
+Algo assustador.
+
+256
+00:12:00,427 --> 00:12:01,694
+O que?
+Você ouviu alguma coisa?
+
+257
+00:12:01,695 --> 00:12:02,995
+O que é isso?
+
+258
+00:12:08,034 --> 00:12:09,435
+Você vê alguma coisa?
+
+259
+00:12:12,955 --> 00:12:14,355
+O que é isso?
+
+260
+00:12:14,356 --> 00:12:16,390
+O que é isso?
+O que você vê?
+
+261
+00:12:16,391 --> 00:12:17,391
+- O que você vê?
+- O que é isso?
+
+262
+00:12:17,392 --> 00:12:19,193
+<i>Lexis, você está bem!
+Lexis, você está bem!</i>
+
+263
+00:12:22,564 --> 00:12:23,631
+O que é isso?
+
+264
+00:12:23,632 --> 00:12:26,267
+<i>Lexis, Lexis, Lexis, Lexis,
+você está bem.</i>
+
+265
+00:12:26,268 --> 00:12:27,293
+O que você vê?
+
+266
+00:12:28,786 --> 00:12:31,072
+Laura, não tem nada, tá bom?
+Não tem nada.
+
+267
+00:12:31,073 --> 00:12:33,024
+É tudo falso, ta bom?
+Não tem nada aqui.
+
+268
+00:12:33,025 --> 00:12:34,041
+Laura, não tem nada.
+
+269
+00:12:34,042 --> 00:12:36,077
+Laura, onde você está indo?
+
+270
+00:12:36,078 --> 00:12:38,746
+Laura, onde você está indo?
+Laura!
+
+271
+00:12:52,060 --> 00:12:53,861
+<i>O que está acontecendo?</i>
+
+272
+00:12:53,862 --> 00:12:55,530
+O que é isso?
+Onde você os conseguiu?
+
+273
+00:12:56,216 --> 00:12:57,884
+Querida, você está bem?
+
+274
+00:12:59,165 --> 00:13:01,290
+Eu as recebi como um
+presente coletivo.
+
+275
+00:13:01,291 --> 00:13:03,783
+- Pensei que elas gostariam deles.
+- Mude para Bunny Hopp.
+
+276
+00:13:03,784 --> 00:13:05,408
+Eles são legais.
+Você deveria experimentá-los.
+
+277
+00:13:05,409 --> 00:13:07,575
+Sim, olhe, mãe. Dê uma olhada.
+- Eles são super legais.
+
+278
+00:13:07,576 --> 00:13:08,834
+Querida, qual é o problema?
+
+279
+00:13:08,835 --> 00:13:10,369
+Viu,
+é como se fosse o Pokémon Go.
+
+280
+00:13:10,370 --> 00:13:12,079
+- Você apenas caça coelhos.
+- Sim, eles são divertidos.
+
+281
+00:13:12,080 --> 00:13:13,080
+Viu?
+
+282
+00:13:14,616 --> 00:13:16,217
+Então,
+por que sua irmã estava gritando?
+
+283
+00:13:16,218 --> 00:13:18,710
+- Ela é um bebezinho.
+- Cala boca!
+
+284
+00:13:18,711 --> 00:13:20,684
+Porque ela não gosta
+de bater em coelhos
+
+285
+00:13:20,685 --> 00:13:23,124
+- na cabeça.
+- Tá certo, aqui está o acordo.
+
+286
+00:13:23,125 --> 00:13:25,063
+Você pode brincar com
+isso, mas não na escada
+
+287
+00:13:25,064 --> 00:13:26,861
+e só depois de fazer
+sua lição de casa, certo?
+
+288
+00:13:26,862 --> 00:13:28,596
+- Certo, vamos começar
+nossa lição de casa agora.
+
+289
+00:13:28,597 --> 00:13:30,410
+- Eu não estou mais com medo.
+- Que bom.
+
+290
+00:13:30,411 --> 00:13:33,134
+- Tudo bem, jantar. Vamos.
+- Boa amor. Vamos. Jantar.
+
+291
+00:13:33,135 --> 00:13:36,971
+- Mãe, o que tem para o jantar?
+- Nós vamos ter...
+
+292
+00:13:36,972 --> 00:13:38,940
+<i>É especial da vovó.</i>
+
+293
+00:13:49,500 --> 00:13:54,523
+<font color="#ffff00">Legenda e sincronia por</font>
+Zinho_1976
+
+294
+00:13:57,500 --> 00:14:00,500
+Evil 1x04 - <font color="#ffff00">Rose390</font>
+
+295
+00:14:03,773 --> 00:14:04,906
+Cansado.
+
+296
+00:14:04,907 --> 00:14:06,908
+Boa.
+
+297
+00:14:08,443 --> 00:14:10,611
+Surpreso.
+
+298
+00:14:10,612 --> 00:14:13,080
+Boa.
+
+299
+00:14:13,081 --> 00:14:15,416
+Tenho que fazer isso mais?
+
+300
+00:14:15,417 --> 00:14:16,617
+<i>Sim você terá.</i>
+
+301
+00:14:16,618 --> 00:14:17,819
+Eles são estúpidos.
+
+302
+00:14:20,413 --> 00:14:22,247
+Eric, por favor, sente-se.
+
+303
+00:14:22,248 --> 00:14:25,317
+Que outros quadrinhos você gosta?
+
+304
+00:14:25,318 --> 00:14:26,835
+<i>Podemos discutir todos os</i>
+
+305
+00:14:26,836 --> 00:14:29,287
+romance gráfico que já foi escrito
+
+306
+00:14:29,288 --> 00:14:31,890
+assim que você terminar com Kristen.
+
+307
+00:14:34,093 --> 00:14:36,094
+Ei, bem vindo de volta.
+
+308
+00:14:40,400 --> 00:14:42,401
+Eu não sei.
+
+309
+00:14:42,402 --> 00:14:43,502
+Sério?
+
+310
+00:14:43,503 --> 00:14:45,604
+Você quer dar outra olhada?
+
+311
+00:14:45,605 --> 00:14:48,640
+Então você não sente
+nenhuma mudança?
+
+312
+00:14:49,842 --> 00:14:53,278
+Algo em você?
+Algo influenciando você?
+
+313
+00:14:53,279 --> 00:14:54,780
+Não.
+
+314
+00:15:01,020 --> 00:15:03,188
+Reconhece isso?
+
+315
+00:15:03,189 --> 00:15:05,490
+O que é isso?
+
+316
+00:15:05,491 --> 00:15:07,659
+<i>Rosário abençoado.</i>
+
+317
+00:15:10,596 --> 00:15:12,030
+Por que você não pega?
+
+318
+00:15:12,031 --> 00:15:14,631
+Não.
+
+319
+00:15:14,632 --> 00:15:16,535
+Tudo bem se você não quiser.
+
+320
+00:15:16,536 --> 00:15:18,603
+Posso entender você esta assustado.
+
+321
+00:15:20,807 --> 00:15:22,708
+Não estou assustado.
+
+322
+00:15:24,777 --> 00:15:27,312
+Por que você não pega?
+
+323
+00:15:41,835 --> 00:15:44,170
+"Eu gosto de estar onde coisas
+emocionantes acontecem."
+
+324
+00:15:46,499 --> 00:15:49,367
+"Eu não me importo se eu
+tiver problemas na escola."
+
+325
+00:15:50,737 --> 00:15:52,137
+Venha o teu reino...
+
+326
+00:15:52,138 --> 00:15:55,540
+Seja feita a tua vontade,
+
+327
+00:15:55,541 --> 00:15:58,350
+assim na terra como no céu.
+
+328
+00:15:58,351 --> 00:15:59,745
+Por que estamos na igreja?
+
+329
+00:15:59,746 --> 00:16:01,146
+É aqui que eu trabalho.
+
+330
+00:16:01,147 --> 00:16:02,581
+Não gosto daqui.
+
+331
+00:16:02,582 --> 00:16:04,716
+Por quê?
+
+332
+00:16:04,717 --> 00:16:06,351
+É escuro.
+
+333
+00:16:06,352 --> 00:16:09,354
+Que pena.
+Repita as palavras.
+
+334
+00:16:09,355 --> 00:16:11,723
+Você gosta de mim?
+
+335
+00:16:14,227 --> 00:16:16,194
+Eu não acho que decidi.
+
+336
+00:16:16,195 --> 00:16:18,430
+Você acha que eu tenho um demônio em mim?
+
+337
+00:16:22,235 --> 00:16:24,836
+Acho que não decidi.
+
+338
+00:16:24,837 --> 00:16:26,671
+<i>Se eu tenho um demônio em mim,</i>
+
+339
+00:16:26,672 --> 00:16:29,407
+existe algo que você possa fazer?
+
+340
+00:16:30,443 --> 00:16:32,778
+Posso tentar.
+
+341
+00:16:32,779 --> 00:16:34,780
+Você quer isso?
+
+342
+00:16:34,781 --> 00:16:36,915
+Eu não sei.
+
+343
+00:16:40,219 --> 00:16:41,620
+Ele pontuou alto na
+
+344
+00:16:41,621 --> 00:16:44,189
+avaliação de traços de insensibilidade:
+53 de 80.
+
+345
+00:16:44,190 --> 00:16:47,859
+O fator de manipulação:
+41 de 60.
+
+346
+00:16:47,860 --> 00:16:50,061
+Alguma possibilidade de tratamento?
+
+347
+00:16:50,062 --> 00:16:53,532
+Bem, é difícil, mas você tenta
+ensinar à criança o que falta:
+
+348
+00:16:53,533 --> 00:16:56,368
+- remorso e empatia.
+- Como você faz isso?
+
+349
+00:16:56,369 --> 00:16:58,236
+Você mostra a eles como
+é o remorso nos outros
+
+350
+00:16:58,237 --> 00:17:00,768
+e explica que é mais vantajoso
+
+351
+00:17:00,769 --> 00:17:02,026
+se eles imitarem.
+
+352
+00:17:02,027 --> 00:17:04,075
+Então, no final, eles
+realmente não sentem remorso,
+
+353
+00:17:04,076 --> 00:17:05,977
+eles estão apenas fingindo?
+
+354
+00:17:05,978 --> 00:17:07,879
+Sim, mas espero que
+comece como imitação
+
+355
+00:17:07,880 --> 00:17:09,381
+tornando-se comportamento
+aprendido.
+
+356
+00:17:09,382 --> 00:17:12,117
+"Fingindo até conseguir"?
+
+357
+00:17:12,118 --> 00:17:13,885
+Isso.
+
+358
+00:17:13,886 --> 00:17:16,421
+E você?
+
+359
+00:17:16,422 --> 00:17:18,590
+- Alguma esperança no final?
+- Pode haver alguma
+
+360
+00:17:18,591 --> 00:17:20,458
+opressão demoníaca.
+
+361
+00:17:20,459 --> 00:17:21,660
+Não posso ter certeza.
+
+362
+00:17:21,661 --> 00:17:23,228
+É difícil dizer com uma criança
+de nove anos.
+
+363
+00:17:23,229 --> 00:17:25,630
+Esta família não quer
+ouvir mais sobre terapia.
+
+364
+00:17:25,631 --> 00:17:27,165
+Eles querem ouvir que
+é sobrenatural.
+
+365
+00:17:27,166 --> 00:17:29,801
+Eu sei.
+
+366
+00:17:32,305 --> 00:17:33,839
+Você acha que Deus poderia criar
+
+367
+00:17:33,840 --> 00:17:35,807
+um psicopata de nove anos?
+
+368
+00:17:37,476 --> 00:17:40,345
+Não.
+
+369
+00:17:40,346 --> 00:17:42,981
+Então sempre deve haver esperança?
+
+370
+00:17:44,016 --> 00:17:47,512
+Sim, em redenção.
+
+371
+00:17:47,513 --> 00:17:49,821
+E como você ensina uma
+criança a querer redenção?
+
+372
+00:17:51,858 --> 00:17:54,326
+"Finja até conseguir."
+
+373
+00:18:03,636 --> 00:18:05,704
+Tenho uma pergunta pra você.
+
+374
+00:18:05,705 --> 00:18:08,106
+Tenho uma pergunta para você.
+
+375
+00:18:08,107 --> 00:18:10,175
+Faça.
+
+376
+00:18:10,176 --> 00:18:12,444
+Por que você é amigo dela?
+
+377
+00:18:12,445 --> 00:18:14,312
+Kristen?
+
+378
+00:18:14,313 --> 00:18:16,815
+Eu não confio nela.
+
+379
+00:18:16,816 --> 00:18:19,451
+Acho que você confiaria
+nela se a conhecesse.
+
+380
+00:18:25,157 --> 00:18:28,493
+O que você acha que quer
+ser quando envelhecer?
+
+381
+00:18:28,494 --> 00:18:30,195
+Quando você for adulto.
+
+382
+00:18:30,196 --> 00:18:32,864
+- Artista de quadrinhos.
+- Isso?
+
+383
+00:18:35,401 --> 00:18:36,635
+Também queria quando criança.
+
+384
+00:18:36,636 --> 00:18:38,870
+- Sério?
+<i>- Sim.</i>
+
+385
+00:18:38,871 --> 00:18:41,206
+Bem, se é isso que você quer,
+
+386
+00:18:41,207 --> 00:18:43,541
+você sabe que precisa jogar
+de acordo com as regras.
+
+387
+00:18:43,542 --> 00:18:45,810
+Foi o que eu fiz.
+
+388
+00:18:45,811 --> 00:18:48,079
+E sei que você não se sente assim
+
+389
+00:18:48,080 --> 00:18:49,748
+quando outras pessoas querem
+que você sinta.
+
+390
+00:18:49,749 --> 00:18:53,151
+Eu entendo, mas é por isso
+que você tem que fingir,
+
+391
+00:18:53,152 --> 00:18:56,554
+<i>pelo menos algumas vezes.</i>
+
+392
+00:18:56,555 --> 00:18:58,390
+Como assim, fingir?
+
+393
+00:18:58,391 --> 00:19:02,093
+Quando você vê alguém chorando,
+
+394
+00:19:02,094 --> 00:19:03,929
+chore com eles.
+
+395
+00:19:03,930 --> 00:19:07,232
+Quando você vê alguém
+rir, ria com eles.
+
+396
+00:19:07,233 --> 00:19:11,336
+<i>Veja o que as outras pessoas fazem,
+observe o que elas fazem,</i>
+
+397
+00:19:11,337 --> 00:19:12,737
+<i>e depois faça isso.</i>
+
+398
+00:19:12,738 --> 00:19:15,440
+Porque você trabalho com outras
+pessoas para desenhar quadrinhos,
+
+399
+00:19:15,441 --> 00:19:19,177
+mas eles não vão querer trabalhar com
+você, a menos que você siga as regras.
+
+400
+00:19:19,178 --> 00:19:24,115
+<i>E talvez você acabe como eu,
+sem se importar com as regras.</i>
+
+401
+00:19:24,116 --> 00:19:26,084
+Eles não parecerão
+mais tanto diferentes
+
+402
+00:19:26,085 --> 00:19:28,420
+porque você estará junto deles,
+
+403
+00:19:28,421 --> 00:19:30,355
+não do lado de fora.
+
+404
+00:19:30,356 --> 00:19:33,692
+<i>E eu sei que tudo isso parece</i>
+
+405
+00:19:33,693 --> 00:19:35,427
+ser bem difícil,
+
+406
+00:19:35,428 --> 00:19:38,229
+mas sabe o que me
+ajuda a seguir as regras?
+
+407
+00:19:38,230 --> 00:19:40,932
+Mesmo nos dias
+em que eu não quero?
+
+408
+00:19:43,069 --> 00:19:45,270
+Isso.
+
+409
+00:19:45,271 --> 00:19:48,306
+Eu sei, mas funciona.
+
+410
+00:19:48,307 --> 00:19:49,808
+Rezar?
+
+411
+00:19:49,809 --> 00:19:52,877
+Não chame isso de oração.
+
+412
+00:19:52,878 --> 00:19:56,047
+Apenas diga a Deus
+o que você quer.
+
+413
+00:19:56,048 --> 00:19:58,883
+E ele vai me dar?
+
+414
+00:19:58,884 --> 00:20:02,320
+Ele vai dar a você
+se você tiver fé
+
+415
+00:20:02,321 --> 00:20:04,422
+e agir de acordo com isso.
+
+416
+00:20:17,169 --> 00:20:18,685
+Ei, não surtem
+
+417
+00:20:18,686 --> 00:20:20,472
+quando virem um homem
+estranho no seu banheiro.
+
+418
+00:20:20,473 --> 00:20:22,890
+Sua mãe me pediu
+para vir ver os canos
+
+419
+00:20:22,891 --> 00:20:24,976
+e sua avó me deixou entrar.
+
+420
+00:20:24,977 --> 00:20:27,412
+- Ei.
+- Então, o chuveiro está quebrado?
+
+421
+00:20:27,413 --> 00:20:30,415
+Não, não,
+sua mãe está preocupada
+
+422
+00:20:30,416 --> 00:20:32,016
+que vocês possam se transformar
+em psicopatas.
+
+423
+00:20:35,721 --> 00:20:37,422
+<i>Ei, ei, ei, ei,</i>
+
+424
+00:20:37,423 --> 00:20:39,190
+Ei, whoa... Parem.
+
+425
+00:20:39,191 --> 00:20:40,992
+<i>Dá um tempo,
+Dá um tempo.</i>
+
+426
+00:20:40,993 --> 00:20:43,428
+Vocês já repararam que
+
+427
+00:20:43,429 --> 00:20:46,929
+quando todas vocês falam ao mesmo
+tempo, ninguém pode entender vocês?
+
+428
+00:20:49,201 --> 00:20:50,635
+Qual é o seu nome?
+
+429
+00:20:50,636 --> 00:20:52,937
+Ben, o Magnífico.
+Qual são os seus?
+
+430
+00:20:52,938 --> 00:20:54,439
+- Laura. Lynn.
+- Léxis. Lila.
+
+431
+00:20:54,440 --> 00:20:57,149
+Certo, bem, isso esclareceu as coisas.
+
+432
+00:20:57,150 --> 00:21:00,352
+- Esse é mesmo o seu nome?
+<i>- Sim.</i>
+
+433
+00:21:04,710 --> 00:21:07,112
+Sabe, eu gosto dessas estrelas.
+
+434
+00:21:07,113 --> 00:21:08,713
+Sim. Quem fez isso?
+
+435
+00:21:08,714 --> 00:21:10,282
+- Eu fiz.
+- Não, você não fez.
+
+436
+00:21:10,283 --> 00:21:11,683
+- Você acabou de pendurá-las.
+- Eu cortei elas.
+
+437
+00:21:11,684 --> 00:21:13,051
+- Bem, eu as cortei.
+- Você não...
+
+438
+00:21:15,121 --> 00:21:17,174
+Tá bom, ja deu.
+Certo!
+
+439
+00:21:17,175 --> 00:21:20,076
+Tudo bem, parem...
+
+440
+00:21:20,077 --> 00:21:22,848
+Tá bem, isso é suficiente. Eu
+realmente tenho que fazer isso,
+
+441
+00:21:22,849 --> 00:21:24,038
+e vocês provavelmente têm...
+
+442
+00:21:24,039 --> 00:21:26,064
+- Sim, todas nós temos dever
+de casa.... fazer coisas.
+
+443
+00:21:26,065 --> 00:21:27,317
+Isso.
+
+444
+00:21:27,318 --> 00:21:30,086
+Apenas... lição de casa.
+
+445
+00:21:30,087 --> 00:21:31,821
+<i>Deixe-me tentar de novo.</i>
+
+446
+00:21:31,822 --> 00:21:33,957
+<i>Laura,
+aterrorizou você da última vez.</i>
+
+447
+00:21:33,958 --> 00:21:36,193
+- Não, agora eu sei como usá-los.
+- Bem,
+
+448
+00:21:36,194 --> 00:21:39,029
+primeiro vamos ver se
+há algo assustador.
+
+449
+00:21:39,030 --> 00:21:40,416
+Existe algo assustador?
+
+450
+00:21:40,417 --> 00:21:42,132
+Você não me deixou colocar.
+
+451
+00:21:42,133 --> 00:21:43,667
+- Agora tem alguma coisa?
+
+452
+00:21:43,668 --> 00:21:44,935
+- Um segundo.
+
+453
+00:21:49,106 --> 00:21:50,473
+Vou pegá-lo com a bola de fogo.
+
+454
+00:21:50,474 --> 00:21:54,110
+- Que bola de fogo?
+<i>- Eu olhei online como jogar.</i>
+
+455
+00:21:54,111 --> 00:21:55,946
+- Impressionante.
+- Isso é tão legal.
+
+456
+00:21:55,947 --> 00:21:57,696
+Isso é tão legal.
+
+457
+00:21:59,050 --> 00:22:00,306
+Espere, olhe.
+
+458
+00:22:00,330 --> 00:22:02,330
+<font color="#ff0000">Você está conectada à Internet.</font>
+
+459
+00:22:02,354 --> 00:22:02,986
+<font color="#ff0000"><b><u>Rose390</u></b> quer para entrar no jogo
+Você aceita?</font>
+
+460
+00:22:02,987 --> 00:22:05,689
+- Quem é Rose390?
+
+461
+00:22:05,690 --> 00:22:07,958
+- Eu não sei. Talvez ela saiba mais.
+- Espere, talvez não devêssemos.
+
+462
+00:22:07,959 --> 00:22:09,659
+- Não deveria o que? Há mais
+alguém nele? - Quem é essa?
+
+463
+00:22:09,660 --> 00:22:12,018
+- O que é isso?
+- Sempre podemos desligá-lo.
+
+464
+00:22:14,444 --> 00:22:16,445
+<i>Olá.</i>
+
+465
+00:22:22,139 --> 00:22:24,307
+Oi?
+
+466
+00:22:24,308 --> 00:22:26,309
+Eu sou Lila.
+
+467
+00:22:26,310 --> 00:22:28,511
+<i>Eu sou Rose.</i>
+
+468
+00:22:28,512 --> 00:22:29,879
+<i>Você quer jogar?</i>
+
+469
+00:22:29,880 --> 00:22:32,515
+-Nós apenas começamos.
+Nós não sabemos como.
+
+470
+00:22:32,516 --> 00:22:34,551
+<i>Você viu o taboleiro?</i>
+
+471
+00:22:34,552 --> 00:22:37,721
+Qual taboleiro?
+
+472
+00:22:37,722 --> 00:22:41,224
+<i>Provavelmente está ai.
+Vá em frente e abra-o.</i>
+
+473
+00:22:41,225 --> 00:22:43,226
+<i>Não posso tocar em nada
+na sua casa.</i>
+
+474
+00:22:43,227 --> 00:22:45,362
+<i>Só posso ver.</i>
+
+475
+00:23:11,389 --> 00:23:13,356
+<i>Aí está.</i>
+
+476
+00:23:13,357 --> 00:23:14,557
+<i>No canto.</i>
+
+477
+00:23:23,467 --> 00:23:26,236
+O que se faz com isso?
+
+478
+00:23:26,237 --> 00:23:28,416
+<i>Abra como se estivesse abrindo
+um livro.</i>
+
+479
+00:23:28,417 --> 00:23:29,618
+E o que isso fará?
+
+480
+00:23:33,811 --> 00:23:36,446
+- Nossa.
+- Viu?
+
+481
+00:23:36,447 --> 00:23:38,782
+<i>- É assim que você chega
+ao próximo nível.</i>
+
+482
+00:23:38,783 --> 00:23:41,551
+- Qual é o próximo nível?
+<i>- Tudo.</i>
+
+483
+00:23:41,552 --> 00:23:45,255
+<i>Isso é tão divertido. Coloque
+as mãos no ponteiro, assim.</i>
+
+484
+00:23:45,256 --> 00:23:47,924
+<i>Vou colocar minhas mãos
+deste lado.</i>
+
+485
+00:23:47,925 --> 00:23:50,260
+Não acho que elas deveriam
+fazer isso.
+
+486
+00:23:50,261 --> 00:23:51,995
+Eu também.
+
+487
+00:23:51,996 --> 00:23:55,632
+Deslize-o para que caia no "olá".
+
+488
+00:24:10,147 --> 00:24:11,948
+Certo, e agora?
+
+489
+00:24:11,949 --> 00:24:15,952
+<i>Dizemos "Saudações, Saudações,
+Saudações" três vezes,</i>
+
+490
+00:24:15,953 --> 00:24:17,854
+mas temos que dizê-lo juntas.
+
+491
+00:24:17,855 --> 00:24:20,290
+- Tá certo?
+- Quem é Você?
+
+492
+00:24:20,291 --> 00:24:23,360
+<i>Apenas uma garota normal
+brincando como você.</i>
+
+493
+00:24:27,098 --> 00:24:28,598
+E o que ele faz?
+
+494
+00:24:28,599 --> 00:24:30,834
+<i>Olha, eu vou começar.</i>
+
+495
+00:24:30,835 --> 00:24:32,035
+<i>Saudações, saudações...</i>
+
+496
+00:24:32,036 --> 00:24:34,871
+Saudações, Saudações, Saudações.
+
+497
+00:24:34,872 --> 00:24:36,473
+<i>Bom, aqui vem ele.</i>
+
+498
+00:24:37,708 --> 00:24:39,943
+<i>Aqui vem ele.
+Aqui vem ele.</i>
+
+499
+00:24:39,944 --> 00:24:41,945
+Agora podemos realmente jogar.
+
+500
+00:24:47,981 --> 00:24:50,432
+<i>Saudações, saudações,
+Saudações, aqui vem ele.</i>
+
+501
+00:24:50,433 --> 00:24:53,382
+<i>Saudações, saudações,
+saudações, aqui vem ele.</i>
+
+502
+00:24:53,383 --> 00:24:56,585
+<i>Saudações, saudações,
+saudações, aqui vem ele.</i>
+
+503
+00:24:56,586 --> 00:25:00,188
+<i>Saudações, saudações,
+saudações, aqui vem ele.</i>
+
+504
+00:25:00,189 --> 00:25:01,623
+<i>Saudações, Saudações,Saudações,</i>
+
+505
+00:25:01,624 --> 00:25:03,025
+<i>- Aqui vem ele.</i>
+- Ei.
+
+506
+00:25:03,026 --> 00:25:05,727
+<i>- Saudações... Aqui vem ele.</i>
+- Ei.
+
+507
+00:25:05,728 --> 00:25:07,719
+<i>Saudações...</i>
+
+508
+00:25:07,720 --> 00:25:09,264
+<i>aqui vem ele.</i>
+
+509
+00:25:09,265 --> 00:25:11,400
+<i>Saudações... Aqui está ele...</i>
+
+510
+00:25:11,401 --> 00:25:13,302
+Ei. O que vocês estão fazendo?
+
+511
+00:25:13,303 --> 00:25:16,071
+- Nada.
+- Nós estávamos apenas brincando.
+
+512
+00:25:16,072 --> 00:25:17,739
+É? Do que você está brincando?
+
+513
+00:25:17,740 --> 00:25:19,574
+Apenas um jogo.
+
+514
+00:25:20,610 --> 00:25:22,144
+Posso ver?
+
+515
+00:25:27,941 --> 00:25:30,112
+Tudo bem.
+
+516
+00:25:30,113 --> 00:25:32,490
+Não sou sua mãe,
+
+517
+00:25:32,491 --> 00:25:36,261
+mas este não é um jogo
+apropriado para crianças.
+
+518
+00:25:37,260 --> 00:25:39,061
+Isto é,
+
+519
+00:25:39,062 --> 00:25:41,129
+- um jogo de M.A.
+- Nós terminamos de jogar mesmo.
+
+520
+00:25:41,130 --> 00:25:42,409
+- Sério?
+- Sim.
+
+521
+00:25:42,410 --> 00:25:43,797
+- Filhas!
+- Tudo bem, eu acho...
+
+522
+00:25:43,798 --> 00:25:45,024
+Mamãe!
+
+523
+00:25:51,574 --> 00:25:53,408
+Não esperava que você estivesse em
+casa tão cedo. - Não é normal...
+
+524
+00:25:53,409 --> 00:25:55,036
+Por que você está em casa tão cedo?
+
+525
+00:25:55,037 --> 00:25:56,178
+Seu amigo está lá em cima.
+
+526
+00:25:56,179 --> 00:25:58,030
+- Que bom, Ben está aqui.
+Ben, o Magnífico.
+
+527
+00:25:58,031 --> 00:25:59,342
+Ele está consertando o chuveiro.
+
+528
+00:25:59,343 --> 00:26:01,650
+Ben, o Magnífico, não é?
+Vocês foram legal com ele?
+
+529
+00:26:01,651 --> 00:26:02,784
+- Sim.
+
+530
+00:26:02,785 --> 00:26:05,921
+Estávamos jogando um jogo
+que não deveríamos ter jogado.
+
+531
+00:26:05,922 --> 00:26:09,024
+- Um jogo adulto.
+- Lynn...
+
+532
+00:26:09,025 --> 00:26:11,333
+<i>Eu não joguei.
+Eu não consegui jogar.</i>
+
+533
+00:26:11,334 --> 00:26:12,661
+- Sim, você jogou.
+- Não...
+
+534
+00:26:12,662 --> 00:26:14,788
+Olha, 
+você estava segurando os controladores.
+
+535
+00:26:14,789 --> 00:26:16,090
+<i>- Essa é prova.
+- Só porque eu estva segurando</i>
+
+536
+00:26:16,091 --> 00:26:17,791
+<i>- não significa...
+- eu não consegui jogar.</i>
+
+537
+00:26:22,413 --> 00:26:24,281
+<i>Chama-se A Garota Assombrada.</i>
+
+538
+00:26:24,282 --> 00:26:26,112
+Então é um jogo adulto?
+
+539
+00:26:26,113 --> 00:26:27,827
+Bem, é um jogo de M.A.
+
+540
+00:26:27,828 --> 00:26:29,753
+<i>Realmente não é tão assustador.</i>
+
+541
+00:26:29,754 --> 00:26:31,154
+<i>Sim, mas eles mentiram para mim.</i>
+
+542
+00:26:31,155 --> 00:26:34,174
+Não, elas acabaram de dizer
+a verdade, e isso não foi
+
+543
+00:26:34,175 --> 00:26:36,742
+- a coisa mais fácil para elas fazerem. 
+- Elas só falaram a verdade
+
+544
+00:26:36,743 --> 00:26:38,529
+porque ela tinha medo
+que você me dissesse.
+
+545
+00:26:38,530 --> 00:26:40,264
+- Bem...
+- Foi como com a mãe do Eric.
+
+546
+00:26:40,265 --> 00:26:43,024
+- Começa com uma pequena lorota.
+Olha, se você quer
+
+547
+00:26:43,025 --> 00:26:45,014
+tornar essas coisas
+protegidas para as crianças, eu bloqueio.
+
+548
+00:26:45,015 --> 00:26:47,304
+E então tudo o que elas podem
+fazer é jogar o jogo do coelho.
+
+549
+00:26:47,305 --> 00:26:49,306
+- Ou eu apenas jogo fora.
+<i>- Sim.</i>
+
+550
+00:26:49,307 --> 00:26:51,008
+Quero dizer, meus pais
+jogaram fora meus videogames
+
+551
+00:26:51,009 --> 00:26:52,543
+e eu fui na casa do meu amigo.
+
+552
+00:26:54,479 --> 00:26:57,481
+Certo, bem, se você não se
+importa, por favor, proteja-os.
+
+553
+00:26:57,482 --> 00:26:58,882
+Ta bom.
+
+554
+00:26:58,883 --> 00:27:00,817
+<i>Alguma coisa em nossos canos?</i>
+
+555
+00:27:00,818 --> 00:27:03,620
+- Você está bem. 
+Sem cobre.
+
+556
+00:27:03,621 --> 00:27:05,022
+Sério?
+
+557
+00:27:05,023 --> 00:27:06,323
+Sem toxicidade?
+
+558
+00:27:06,324 --> 00:27:08,659
+Não. Suas filhas são felizes
+
+559
+00:27:08,660 --> 00:27:11,161
+e saudáveis,
+e você é uma boa mãe.
+
+560
+00:27:11,162 --> 00:27:12,629
+Bem, 
+não tenho tanta certeza disso.
+
+561
+00:27:12,630 --> 00:27:15,232
+Quero dizer,
+eles apenas mentiram para mim.
+
+562
+00:27:15,233 --> 00:27:17,234
+E os canos na casa de Eric?
+
+563
+00:27:17,235 --> 00:27:19,169
+Ainda não sei.
+Eu ainda estou olhando.
+
+564
+00:27:19,170 --> 00:27:21,004
+Tá bom.
+
+565
+00:27:21,005 --> 00:27:23,840
+Obrigado, Ben, o Magnífico.
+
+566
+00:27:34,385 --> 00:27:35,852
+<i>O que você está fazendo?</i>
+
+567
+00:27:35,853 --> 00:27:37,721
+Quem é você?
+
+568
+00:27:37,722 --> 00:27:41,158
+<i>Não é da sua conta.
+O que você está fazendo?</i>
+
+569
+00:27:41,159 --> 00:27:43,694
+Estou me livrando de você, 
+Rose390.
+
+570
+00:27:43,695 --> 00:27:45,929
+<i>Isso não vai funcionar.</i>
+
+571
+00:27:45,930 --> 00:27:47,564
+Sim vai.
+
+572
+00:27:47,565 --> 00:27:49,706
+Você é um pedófilo com
+um modificador de voz.
+
+573
+00:27:49,707 --> 00:27:51,735
+E se você tentar
+entrar aqui novamente,
+
+574
+00:27:51,736 --> 00:27:54,227
+Vou mandar você para
+o próximo século.
+
+575
+00:28:43,788 --> 00:28:46,323
+Você perguntou a ele?
+
+576
+00:28:46,324 --> 00:28:48,112
+Não.
+
+577
+00:28:48,113 --> 00:28:50,114
+O que está acontecendo?
+
+578
+00:28:52,930 --> 00:28:55,899
+Ontem à noite eu o vi rezando.
+
+579
+00:28:55,900 --> 00:28:57,567
+O que? Por quê?
+
+580
+00:28:57,568 --> 00:28:59,569
+Eu não sei.
+
+581
+00:29:02,440 --> 00:29:05,075
+Você vai corrigir o meu trabalho, 
+mãe?
+
+582
+00:29:09,981 --> 00:29:13,183
+Você foi bem, Eric.
+
+583
+00:29:13,184 --> 00:29:15,686
+Eu gosto do David.
+
+584
+00:29:15,687 --> 00:29:17,921
+O homem que estave aqui?
+
+585
+00:29:17,922 --> 00:29:19,456
+Sim.
+
+586
+00:29:19,457 --> 00:29:24,094
+Ele disse que se eu quisesse
+algo, eu deveria falar com Deus.
+
+587
+00:29:24,095 --> 00:29:26,930
+E o que você quer?
+
+588
+00:29:26,931 --> 00:29:31,702
+Um tutor que me mostrará
+como desenhar quadrinhos.
+
+589
+00:29:33,137 --> 00:29:35,138
+Vou ver o que eu posso fazer.
+
+590
+00:29:37,608 --> 00:29:40,210
+Essa é uma ótima notícia.
+
+591
+00:29:40,211 --> 00:29:43,814
+Eu posso ajudar se você quiser.
+
+592
+00:29:43,815 --> 00:29:45,849
+Sei algumas das noções básicas,
+
+593
+00:29:45,850 --> 00:29:47,851
+<i>e eu conheço alguns artistas 
+de quadrinhos.</i>
+
+594
+00:29:47,852 --> 00:29:50,954
+Isso é tão bom de ouvir.
+
+595
+00:29:50,955 --> 00:29:53,190
+<i>Ele gosta de você, David.</i>
+
+596
+00:29:53,191 --> 00:29:56,193
+<i>E eu sinto como se ele tivesse 
+escutado algo que você disse.</i>
+
+597
+00:29:56,194 --> 00:29:58,729
+O que é isso?
+
+598
+00:29:58,730 --> 00:30:01,798
+Pedindo a Deus algo que ele queira.
+
+599
+00:30:01,799 --> 00:30:05,091
+Certo. Vou continuar
+com meus desenhos,
+
+600
+00:30:05,092 --> 00:30:07,070
+e eu vou começar com ele 
+no básico.
+
+601
+00:30:07,071 --> 00:30:08,205
+Muito obrigada.
+
+602
+00:30:08,206 --> 00:30:09,372
+<i>Vejo você em breve.</i>
+
+603
+00:30:27,425 --> 00:30:29,059
+David.
+
+604
+00:30:29,060 --> 00:30:30,927
+Não me deixe interromper.
+
+605
+00:30:30,928 --> 00:30:33,396
+Não, eu terminei.
+
+606
+00:30:33,397 --> 00:30:34,571
+Estou feliz que você veio.
+
+607
+00:30:34,572 --> 00:30:36,700
+Eu pensei que poderíamos 
+fazer um pequeno tutorial.
+
+608
+00:30:36,701 --> 00:30:38,935
+- Quer entrar?
+<i>- Não.</i>
+
+609
+00:30:38,936 --> 00:30:41,004
+Aqui fora esta bom.
+
+610
+00:30:42,540 --> 00:30:45,375
+Está um pouco claro.
+
+611
+00:30:48,412 --> 00:30:50,514
+O que está acontecendo, Eric?
+
+612
+00:30:50,515 --> 00:30:52,382
+Nada.
+
+613
+00:30:54,519 --> 00:30:56,119
+Por que você estava orando?
+
+614
+00:30:56,120 --> 00:30:58,121
+Você disse que não 
+estava rezando.
+
+615
+00:30:58,122 --> 00:31:00,423
+Foi apenas pedindo a Deus algo.
+
+616
+00:31:02,811 --> 00:31:04,245
+O que você estava pedindo...?
+
+617
+00:31:46,304 --> 00:31:48,972
+Não, não....
+Meu Deus, não.
+
+618
+00:31:48,973 --> 00:31:50,273
+Não, não....
+
+619
+00:31:50,274 --> 00:31:51,675
+Deus não...
+
+620
+00:31:51,676 --> 00:31:53,543
+Venha aqui, 
+venha aqui, bebê...
+
+621
+00:31:53,544 --> 00:31:56,179
+Oi...
+
+622
+00:31:56,180 --> 00:31:59,082
+Houve um afogamento 
+no número 9023 Broxton.
+
+623
+00:31:59,083 --> 00:32:01,186
+<i>Precisamos de paramédicos 
+imediatamente!</i>
+
+624
+00:32:07,491 --> 00:32:09,092
+O que você estava fazendo?!
+
+625
+00:32:09,093 --> 00:32:13,530
+Você me disse que se eu
+tivesse fé e agisse de acordo,
+
+626
+00:32:13,531 --> 00:32:15,165
+Deus me ouviria.
+
+627
+00:32:15,166 --> 00:32:16,600
+Te ouvir por quê?
+
+628
+00:32:18,636 --> 00:32:20,971
+Eu estava pedindo para 
+levá-la embora.
+
+629
+00:32:32,016 --> 00:32:34,347
+Você está procurando um 
+exorcismo de emergência?
+
+630
+00:32:34,348 --> 00:32:36,629
+A criança tentou matar
+sua irmãzinha afogando-a.
+
+631
+00:32:38,214 --> 00:32:39,938
+Sob compulsão?
+
+632
+00:32:39,939 --> 00:32:42,608
+Eu não acho que ele estava
+fazendo isso por vontade própria.
+
+633
+00:32:42,609 --> 00:32:45,544
+E o que você acha,
+senhora Bouchard?
+
+634
+00:32:49,449 --> 00:32:52,251
+Acho que ele mostra 
+comportamentos psicopáticos,
+
+635
+00:32:52,252 --> 00:32:56,172
+mas, no final das contas, acho que
+nunca consigirei explicar por que
+
+636
+00:32:56,173 --> 00:32:58,715
+<i>- ele foi levado a matar.</i>
+<i>- Bem, eu só tenho permissão</i>
+
+637
+00:32:58,716 --> 00:33:01,560
+avançar se isso for um
+distúrbio espiritual
+
+638
+00:33:01,561 --> 00:33:02,753
+e não psicológico.
+
+639
+00:33:02,754 --> 00:33:07,266
+Os pais querem um exorcismo.
+Eles tentaram de tudo.
+
+640
+00:33:07,267 --> 00:33:09,276
+Eles acham que há um 
+demônio dentro dele.
+
+641
+00:33:09,277 --> 00:33:11,737
+E você acha que a psicologia não
+tem mais nada a oferecer a ele?
+
+642
+00:33:13,506 --> 00:33:15,774
+Olha, se eu for
+honesta com você, pai...
+
+643
+00:33:15,775 --> 00:33:17,109
+Por favor.
+
+644
+00:33:17,110 --> 00:33:19,778
+A psicologia sempre pensa
+que há mais a fazer,
+
+645
+00:33:19,779 --> 00:33:23,348
+mas essa família será assassinada
+antes de encontrarmos resultados.
+
+646
+00:33:23,349 --> 00:33:24,407
+<i>Tudo bem então,</i>
+
+647
+00:33:24,408 --> 00:33:27,176
+Diga-lhes para estarem preparados
+para amanhã. Eu estarei lá.
+
+648
+00:33:29,689 --> 00:33:31,089
+Obrigado.
+
+649
+00:33:32,458 --> 00:33:35,327
+Bem, não há nada que eu
+falei que não acredite.
+
+650
+00:33:40,433 --> 00:33:42,601
+Acho que deveríamos tomar 
+uma bebida algum dia.
+
+651
+00:33:44,804 --> 00:33:47,005
+Gostaria disso.
+
+652
+00:34:22,408 --> 00:34:24,676
+<i>O que você está fazendo?</i>
+
+653
+00:34:24,677 --> 00:34:27,312
+Eu estava dormindo.
+
+654
+00:34:27,313 --> 00:34:29,815
+<i>Você não quer terminar o jogo?</i>
+
+655
+00:34:29,816 --> 00:34:30,983
+Que jogo?
+
+656
+00:34:32,018 --> 00:34:34,019
+Com quem você está falando?
+
+657
+00:34:34,020 --> 00:34:35,679
+Ninguém. 
+Apenas volte a dormir.
+
+658
+00:34:35,680 --> 00:34:38,724
+- Por que você colocou de volta? 
+- Não. Não é nada.
+
+659
+00:34:40,493 --> 00:34:43,195
+- Ei, é ela.
+<i>- Sou eu.</i>
+
+660
+00:34:43,196 --> 00:34:46,164
+<i>- O jogo ainda não acabou. Venha.</i>
+- Nós não podemos.
+
+661
+00:34:46,165 --> 00:34:47,566
+Só podemos brincar com coelhos.
+
+662
+00:34:47,567 --> 00:34:50,068
+<i>Eu vou lhe mostrar como
+tirar o bloqueio infantil.</i>
+
+663
+00:34:50,069 --> 00:34:52,337
+Nós não devemos.
+
+664
+00:34:52,338 --> 00:34:55,073
+<i>- Eu tenho más notícias.</i>
+- O que?
+
+665
+00:34:55,074 --> 00:34:56,742
+É sobre o seu pai.
+
+666
+00:34:56,743 --> 00:34:57,800
+O que tem ele?
+
+667
+00:34:57,801 --> 00:34:59,378
+<i>Você não quer saber 
+onde ele está?</i>
+
+668
+00:34:59,379 --> 00:35:01,280
+Ele está no Everest, 
+escalando.
+
+669
+00:35:01,281 --> 00:35:03,749
+<i>Você tem certeza?</i>
+
+670
+00:35:03,750 --> 00:35:06,018
+Acho que deveríamos tirar isso.
+<i>- Primeiro,</i>
+
+671
+00:35:06,019 --> 00:35:09,021
+<i>- Você deve verificar o taboleiro.</i>
+- Qual taboleiro?
+
+672
+00:35:13,927 --> 00:35:17,763
+<i>Vamos lá, você não quer perguntar
+o que aconteceu com seu pai?</i>
+
+673
+00:35:17,764 --> 00:35:20,339
+<i>Continue.</i>
+
+674
+00:35:20,340 --> 00:35:22,213
+<i>Pergunte onde está seu pai.</i>
+
+675
+00:35:25,305 --> 00:35:26,939
+Cadê meu pai?
+
+676
+00:35:35,648 --> 00:35:37,749
+"No Céu"?
+
+677
+00:35:37,750 --> 00:35:40,953
+<i>Você vai gostar de ser órfã.</i>
+
+678
+00:35:44,958 --> 00:35:47,493
+- Papai está bem.
+- Como você sabe?
+
+679
+00:35:47,494 --> 00:35:49,829
+Bem, porque ele me manda 
+mensagens todos os dias.
+
+680
+00:35:49,830 --> 00:35:51,797
+Como você sabe que é ele?
+
+681
+00:35:51,798 --> 00:35:54,634
+Talvez seja outra pessoa do
+grupo escrevendo por ele.
+
+682
+00:35:54,635 --> 00:35:57,303
+Ou talvez tenha sido feito antes.
+
+683
+00:35:57,304 --> 00:36:01,073
+Certo, de onde isso tá vindo?
+
+684
+00:36:01,074 --> 00:36:03,076
+A garota do jogo.
+
+685
+00:36:03,077 --> 00:36:06,136
+O jogo assombrado? Pensei que eu
+disse que vocês não poderiam jogar?
+
+686
+00:36:06,137 --> 00:36:08,881
+Nós não jogamos.
+A garota entrou no Bunny Hopp.
+
+687
+00:36:08,882 --> 00:36:10,516
+Ela nos encontrou.
+
+688
+00:36:10,517 --> 00:36:12,818
+Certo, Lila, quero que você
+pegue esses óculos agora.
+
+689
+00:36:12,819 --> 00:36:14,487
+- Mas...
+- Não, agora, por favor.
+
+690
+00:36:19,192 --> 00:36:21,527
+Você sabe que não vai
+mais brincar com eles, certo?
+
+691
+00:36:21,528 --> 00:36:23,996
+Eu sei.
+
+692
+00:36:23,997 --> 00:36:26,999
+Certo, tenho uma ideia. Por que não
+enviamos uma mensagem para o papai?
+
+693
+00:36:27,000 --> 00:36:28,834
+Para que ele saiba que estamos
+pensando nele, tá bom?
+
+694
+00:36:28,835 --> 00:36:30,569
+Podemos enviar uma 
+mensagem de vídeo para ele?
+
+695
+00:36:30,570 --> 00:36:32,872
+Isso é ainda melhor.
+Vamos fazer isso.
+
+696
+00:36:32,873 --> 00:36:36,942
+Vamos todos apertar.
+E... nós estamos.
+
+697
+00:36:36,943 --> 00:36:39,011
+Ei, pai, estamos sussurrando
+
+698
+00:36:39,012 --> 00:36:41,047
+porque não queremos
+acordar Lexis e Laura.
+
+699
+00:36:41,048 --> 00:36:43,783
+Nós te amamos e estamos 
+preocupadas com você.
+
+700
+00:36:43,784 --> 00:36:46,686
+Não caia de uma montanha.
+
+701
+00:36:46,687 --> 00:36:49,522
+Certo, 
+mamãe quer falar algumas coisas.
+
+702
+00:36:49,523 --> 00:36:52,124
+Por favor, ligue-nos quando
+puder. Nós todos te amamos.
+
+703
+00:36:56,697 --> 00:36:58,597
+Você ama papai?
+
+704
+00:36:59,733 --> 00:37:01,801
+Claro que eu amo.
+
+705
+00:37:01,802 --> 00:37:04,236
+Você acha que ele te ama?
+
+706
+00:37:04,237 --> 00:37:06,238
+Sim.
+
+707
+00:37:06,239 --> 00:37:08,741
+Então por que ele não 
+está em casa?
+
+708
+00:37:08,742 --> 00:37:12,645
+Bem, ele está ganhando dinheiro para nós.
+Ele está guiando as pessoas no Everest.
+
+709
+00:37:12,646 --> 00:37:14,780
+Você não pode ganhar o dinheiro?
+
+710
+00:37:14,781 --> 00:37:17,583
+Sim, mas é o que papai faz.
+
+711
+00:37:17,584 --> 00:37:20,453
+Eu faço coisas aqui,
+e ele faz coisas lá.
+
+712
+00:37:20,454 --> 00:37:24,490
+Quando ele volta para casa?
+
+713
+00:37:24,491 --> 00:37:26,125
+Em poucas semanas.
+
+714
+00:37:26,126 --> 00:37:28,461
+Agora, 
+por que você simplesmente não dorme?
+
+715
+00:37:28,462 --> 00:37:32,098
+Papai está bem.
+Ele te ama e está bem.
+
+716
+00:37:56,656 --> 00:37:59,651
+Então, 
+você já esteve em um exorcismo antes?
+
+717
+00:37:59,652 --> 00:38:02,495
+- Nunca. 
+- Bem, não é o que você esperaria.
+
+718
+00:38:02,496 --> 00:38:04,597
+Longos trechos de tédio
+
+719
+00:38:04,598 --> 00:38:07,666
+interrompido por segundos 
+de puro terror.
+
+720
+00:38:23,784 --> 00:38:25,384
+Como ela está?
+- Bem.
+
+721
+00:38:25,385 --> 00:38:27,486
+Ela é uma guerreira.
+
+722
+00:38:27,487 --> 00:38:29,555
+Espero que ela não se
+lembre do que aconteceu.
+
+723
+00:38:29,556 --> 00:38:31,414
+Os policiais estavam aqui ontem?
+
+724
+00:38:31,415 --> 00:38:34,193
+Não, não, tivemos um incidente.
+
+725
+00:38:34,194 --> 00:38:37,730
+Este é o padre Amara.
+Ele está aqui para o rito,
+
+726
+00:38:37,731 --> 00:38:39,625
+- O exorcismo. 
+- Boa tarde.
+
+727
+00:38:39,626 --> 00:38:41,914
+Pensei que você estava
+falando alguma coisa nos canos.
+
+728
+00:38:41,915 --> 00:38:46,818
+Houve alguma corrosão, mas não
+o suficiente para preocupação.
+
+729
+00:38:46,819 --> 00:38:49,144
+Então a Igreja concordou com
+o seu pedido de exorcismo.
+
+730
+00:38:49,145 --> 00:38:52,647
+A polícia está aqui porque
+Eric está desaparecido.
+
+731
+00:38:52,648 --> 00:38:54,074
+<i>Ele fugiu.</i>
+
+732
+00:38:54,075 --> 00:38:55,532
+<i>Se este não é o sangue dele,</i>
+
+733
+00:38:55,533 --> 00:38:57,892
+<i>- de quem é isso?</i> 
+- Não tivemos nada a ver com isso.
+
+734
+00:38:57,893 --> 00:38:59,151
+<i>Esse não é o sangue dele.</i>
+
+735
+00:38:59,152 --> 00:39:00,810
+<i>Precisamos lidar com isso agora,</i>
+
+736
+00:39:00,811 --> 00:39:02,720
+<i>então, obrigado pela sua ajuda.</i>
+
+737
+00:39:02,721 --> 00:39:06,548
+Nós, talvez precisemos
+que você conte à polícia
+
+738
+00:39:06,549 --> 00:39:08,216
+que Eric tentou afogar Olive.
+
+739
+00:39:09,278 --> 00:39:11,212
+Tá certo.
+
+740
+00:39:16,829 --> 00:39:19,164
+Eu amo todos os meus filhos 
+igualmente,
+
+741
+00:39:19,165 --> 00:39:21,800
+mas quando um deles está em perigo,
+
+742
+00:39:21,801 --> 00:39:24,670
+Eu tenho que agir.
+
+743
+00:39:31,544 --> 00:39:35,914
+Eric disse para lhe dar isso.
+
+744
+00:39:35,915 --> 00:39:38,483
+Ore por Eric.
+
+745
+00:39:41,072 --> 00:39:43,073
+Ore por nós.
+
+746
+00:39:54,701 --> 00:39:56,902
+Eles o mataram.
+
+747
+00:40:09,582 --> 00:40:11,616
+Orem por nós pecadores agora
+
+748
+00:40:11,617 --> 00:40:13,485
+e na hora da nossa morte.
+
+749
+00:40:13,486 --> 00:40:14,486
+Amém.
+
+750
+00:40:17,523 --> 00:40:20,459
+Por favor, perdoe-os.
+
+751
+00:40:21,527 --> 00:40:24,096
+Por favor, perdoe Eric.
+
+752
+00:40:54,293 --> 00:40:57,763
+<i>Estou no jogo há mais tempo
+do que você, e consigo.</i>
+
+753
+00:40:57,764 --> 00:40:59,264
+<i>Não é o mesmo.</i>
+
+754
+00:40:59,265 --> 00:41:00,766
+<i>Amigos são amigos.</i>
+
+755
+00:41:00,767 --> 00:41:01,857
+<i>É diferente.</i>
+
+756
+00:41:01,858 --> 00:41:03,750
+<i>- Como?
+- Você realmente quer saber?</i>
+
+757
+00:41:03,751 --> 00:41:05,780
+Ei, mãe, eu ouvi na escola
+
+758
+00:41:05,781 --> 00:41:07,383
+que você tem que voltar ao jogo
+
+759
+00:41:07,384 --> 00:41:09,761
+para dizer adeus na 
+Junta Espiritual,
+
+760
+00:41:09,762 --> 00:41:11,787
+ou então continuará 
+nos assombrando.
+
+761
+00:41:11,788 --> 00:41:13,922
+Podemos obter os óculos 
+de volta para fazer isso?
+
+762
+00:41:15,948 --> 00:41:18,350
+Eu vou pensar sobre isso.
+
+763
+00:41:40,740 --> 00:41:44,740
+<b><font color="#ffff00">Esse capitulo foi pesado </font></b>
+<u><b><font color="#ff0000">DEMAIS!!!!</font></b></u>
+
+764
+00:41:52,500 --> 00:41:56,568
+<font color="#ffff00">Legenda e sincronia por</font>
+<font color="#ff0000">Zinho_1976</font>
+
