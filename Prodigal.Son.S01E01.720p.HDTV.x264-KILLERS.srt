@@ -1,0 +1,3418 @@
+﻿1
+00:00:04,603 --> 00:00:06,022
+Malcom?
+
+2
+00:00:07,220 --> 00:00:09,121
+Malcom, escute-me.
+
+3
+00:00:10,195 --> 00:00:12,898
+Quero que lembre de uma coisa,
+está bem?
+
+4
+00:00:14,995 --> 00:00:16,595
+Você é...
+
+5
+00:00:16,596 --> 00:00:18,352
+Você é meu filho.
+
+6
+00:00:20,135 --> 00:00:21,938
+E eu amo você.
+
+7
+00:00:21,939 --> 00:00:23,942
+Sempre o amarei.
+
+8
+00:00:24,656 --> 00:00:26,656
+Porque somos o mesmo.
+
+9
+00:00:27,108 --> 00:00:29,107
+Apenas tire-o daqui.
+
+10
+00:00:44,567 --> 00:00:47,253
+<i>Hoje o assassino em série
+conhecido por "O Cirurgião",</i>
+
+11
+00:00:47,254 --> 00:00:49,489
+<i>pode, finalmente,
+estar atrás das grades.</i>
+
+12
+00:00:49,490 --> 00:00:51,940
+A polícia de Nova York
+prendeu o Dr. Martin Whitly
+
+13
+00:00:51,941 --> 00:00:54,555
+<i>por ligação com, no mínimo,
+23 homicídios.</i>
+
+14
+00:00:54,556 --> 00:00:57,268
+<i>Vizinhos dizem que o alívio
+está misturado com choque</i>
+
+15
+00:00:57,269 --> 00:00:59,694
+<i>que uma das famílias
+mais importantes de NY,</i>
+
+16
+00:00:59,695 --> 00:01:02,133
+<i>possa ter criado
+um monstro.</i>
+
+17
+00:01:16,464 --> 00:01:19,099
+Nosso suspeito está lá,
+Agente Especial.
+
+18
+00:01:20,957 --> 00:01:22,488
+Elas são incríveis.
+
+19
+00:01:23,441 --> 00:01:24,871
+As cigarras.
+
+20
+00:01:26,115 --> 00:01:28,184
+Esse barulho as protege.
+
+21
+00:01:28,185 --> 00:01:30,483
+Imita o som
+do próprio predador.
+
+22
+00:01:30,484 --> 00:01:32,747
+Nosso assassino se sente seguro
+ao ouvi-lo.
+
+23
+00:01:32,748 --> 00:01:36,017
+Agente Especial,
+Claude Springer está lá.
+
+24
+00:01:36,018 --> 00:01:37,817
+Ele tem reféns.
+
+25
+00:01:37,818 --> 00:01:39,561
+Ótimo.
+Vamos pegá-lo.
+
+26
+00:01:40,027 --> 00:01:41,905
+<b>Legenda:
+Lu Colorada | SilneiS</b>
+
+27
+00:01:43,107 --> 00:01:45,523
+<b>Legenda:
+Julie | MaLorencini</b>
+
+28
+00:01:47,202 --> 00:01:49,707
+<b>Legenda:
+LarissaPereus | ToBe_AFM</b>
+
+29
+00:01:50,699 --> 00:01:52,891
+<b>Legenda:
+Fabio7d0 | He2</b>
+
+30
+00:01:54,136 --> 00:01:56,344
+<b>Revisão:
+SilneiS</b>
+
+31
+00:02:04,842 --> 00:02:06,242
+<i>Limpo!</i>
+
+32
+00:02:43,975 --> 00:02:45,375
+Pai...
+
+33
+00:02:45,732 --> 00:02:47,894
+posso te perguntar
+uma coisa?
+
+34
+00:02:47,895 --> 00:02:49,762
+Sim, claro, Malcom.
+
+35
+00:02:51,000 --> 00:02:53,529
+Por que o senhor matou
+todas aquelas pessoas?
+
+36
+00:02:57,115 --> 00:02:58,515
+Isso...
+
+37
+00:02:59,138 --> 00:03:00,538
+Bem...
+
+38
+00:03:04,532 --> 00:03:06,706
+Não tenho certeza
+se sei a resposta.
+
+39
+00:03:07,386 --> 00:03:09,114
+Se ao menos existe uma.
+
+40
+00:03:11,432 --> 00:03:12,832
+Mas...
+
+41
+00:03:14,447 --> 00:03:16,845
+Tenho algum tempo.
+
+42
+00:03:17,469 --> 00:03:19,538
+Talvez possamos descobrir.
+
+43
+00:03:20,701 --> 00:03:22,101
+Juntos.
+
+44
+00:03:24,209 --> 00:03:26,350
+Eles te chamam
+de "monstro".
+
+45
+00:03:27,170 --> 00:03:30,268
+Na TV,
+as crianças na escola.
+
+46
+00:03:32,646 --> 00:03:36,422
+- Você é?
+- Não, meu garoto.
+
+47
+00:03:37,503 --> 00:03:40,420
+Monstros não existem.
+
+48
+00:04:02,212 --> 00:04:04,177
+<i>Agente Bright,
+qual sua localização?</i>
+
+49
+00:04:04,178 --> 00:04:05,641
+Aqui é o Bright.
+
+50
+00:04:05,642 --> 00:04:07,877
+Encontrei os reféns.
+Eles estão vivos.
+
+51
+00:04:09,231 --> 00:04:11,469
+- Claude.
+- Como me encontrou?
+
+52
+00:04:11,472 --> 00:04:12,885
+Versão reduzida?
+
+53
+00:04:13,788 --> 00:04:16,710
+Suas vítimas, a pele delas.
+
+54
+00:04:17,303 --> 00:04:20,119
+Eram macias,
+intocadas, idênticas.
+
+55
+00:04:20,469 --> 00:04:22,037
+Então eu percebi.
+
+56
+00:04:22,038 --> 00:04:24,240
+Você as escolhia
+igual a um açougueiro...
+
+57
+00:04:24,580 --> 00:04:27,625
+alguém que foi criado
+em um matadouro.
+
+58
+00:04:27,626 --> 00:04:29,960
+Foi enviado para cá
+quando tinha uns 11 anos?
+
+59
+00:04:29,961 --> 00:04:31,490
+Estava sob a guarda
+do Estado?
+
+60
+00:04:33,462 --> 00:04:35,390
+Foi aqui que você
+foi feito.
+
+61
+00:04:35,899 --> 00:04:37,856
+Fui "feito?
+
+62
+00:04:37,857 --> 00:04:39,809
+Ninguém nasce quebrado.
+
+63
+00:04:40,656 --> 00:04:42,432
+Alguém nos quebra.
+
+64
+00:04:43,784 --> 00:04:45,184
+Como?
+
+65
+00:04:45,821 --> 00:04:48,739
+Abaixe a arma,
+posso te contar.
+
+66
+00:04:51,915 --> 00:04:53,315
+Isso é bom.
+
+67
+00:04:57,600 --> 00:04:59,000
+Consegui.
+
+68
+00:04:59,570 --> 00:05:01,500
+Matei ele!
+
+69
+00:05:01,893 --> 00:05:04,214
+- Ele largou a arma!
+- Não, não.
+
+70
+00:05:04,215 --> 00:05:05,615
+Ele não largou.
+
+71
+00:05:06,511 --> 00:05:09,283
+- Você o assassinou.
+- Matei um assassino em série.
+
+72
+00:05:09,284 --> 00:05:11,129
+Sou um maldito herói!
+
+73
+00:05:11,130 --> 00:05:13,057
+Um herói com sangue frio.
+
+74
+00:05:13,093 --> 00:05:14,992
+Não se confunda.
+
+75
+00:05:15,616 --> 00:05:17,669
+Acabei de salvar sua vida,
+filho.
+
+76
+00:05:20,599 --> 00:05:23,132
+Não sou seu filho.
+
+77
+00:05:23,133 --> 00:05:24,622
+<b>SilneiS
+Apresenta:</b>
+
+78
+00:05:24,623 --> 00:05:27,513
+<b>Prodigal Son S01E01
+"Designer Complicity"</b>
+
+79
+00:05:28,876 --> 00:05:30,279
+Eu entendo.
+
+80
+00:05:30,280 --> 00:05:31,845
+Não se dá um soco
+em um Xerife.
+
+81
+00:05:31,846 --> 00:05:33,512
+Mesmo não sendo
+uma regra oficial,
+
+82
+00:05:33,513 --> 00:05:35,124
+definitivamente
+é uma implícita.
+
+83
+00:05:36,806 --> 00:05:39,003
+- São as duas.
+- Agente Especial Bright,
+
+84
+00:05:39,004 --> 00:05:42,012
+este relatório é danoso.
+Ignorou protocolo,
+
+85
+00:05:42,013 --> 00:05:44,013
+intimidou todos
+que disseram "não" a você
+
+86
+00:05:44,014 --> 00:05:46,587
+e irritou cada policial
+daqui ao Tennessee.
+
+87
+00:05:46,588 --> 00:05:49,498
+Todos seriam o que,
+4 bons policiais, então...
+
+88
+00:05:50,180 --> 00:05:53,828
+O Dep. de Justiça autorizou.
+Está demitido.
+
+89
+00:05:55,259 --> 00:05:56,659
+O quê?
+
+90
+00:05:58,355 --> 00:06:01,129
+Espere,
+eu achei Claude Springer.
+
+91
+00:06:01,130 --> 00:06:04,091
+- Eu salvei aquelas pessoas.
+- Sinto muito, Bright.
+
+92
+00:06:04,142 --> 00:06:07,863
+Achamos que sofre de uma certa
+inclinação psicótica,
+
+93
+00:06:07,864 --> 00:06:09,751
+não diferente do seu pai.
+
+94
+00:06:10,175 --> 00:06:11,969
+Seu complexo de TEPT,
+
+95
+00:06:11,970 --> 00:06:14,216
+as tendências narcisistas.
+
+96
+00:06:14,217 --> 00:06:18,039
+Entrou naquele matadouro,
+sem respeito à sua segurança.
+
+97
+00:06:18,466 --> 00:06:19,906
+Só para você saber,
+
+98
+00:06:19,907 --> 00:06:21,968
+"O Cirurgião"
+não é um psicopata.
+
+99
+00:06:21,969 --> 00:06:24,029
+Ele é um predador
+sociopata.
+
+100
+00:06:24,030 --> 00:06:26,822
+Não que saiba diferenciar.
+É só o seu trabalho!
+
+101
+00:06:27,568 --> 00:06:29,718
+Na próxima vez
+que chamar alguém de louco...
+
+102
+00:06:30,084 --> 00:06:32,181
+peça a arma dele antes.
+
+103
+00:06:34,481 --> 00:06:37,181
+HOSPITAL PSIQUIÁTRICO CLAREMONT
+- Dahmer, Gein, Kemper.
+
+104
+00:06:37,182 --> 00:06:39,036
+Continuo voltando
+para o pensamento:
+
+105
+00:06:39,037 --> 00:06:41,471
+E se a psicopatia
+não for uma doença?
+
+106
+00:06:41,472 --> 00:06:44,811
+E se for uma espécie
+de genialidade?
+
+107
+00:06:44,812 --> 00:06:46,473
+Genialidade?
+
+108
+00:06:46,694 --> 00:06:49,176
+Fala sério.
+Dahmer não era tão esperto.
+
+109
+00:06:49,177 --> 00:06:51,541
+A geladeira estava tão cheia
+de partes de corpos
+
+110
+00:06:51,542 --> 00:06:53,730
+que nem sequer tinha espaço
+para compras.
+
+111
+00:06:53,731 --> 00:06:55,372
+Aquelas eram as compras.
+
+112
+00:07:04,154 --> 00:07:05,604
+Eu deveria ir.
+
+113
+00:07:07,238 --> 00:07:11,468
+É muito divertido
+conversar sobre compras.
+
+114
+00:07:12,720 --> 00:07:15,209
+Sabe, gosto muito
+dessas nossas sessões.
+
+115
+00:07:15,210 --> 00:07:17,060
+Estou intrigado
+com a mente criminosa.
+
+116
+00:07:17,061 --> 00:07:18,671
+Falamos sobre assassinato
+
+117
+00:07:18,672 --> 00:07:20,608
+como as pessoas falam
+sobre esportes.
+
+118
+00:07:20,609 --> 00:07:22,285
+É mais do que isso.
+
+119
+00:07:27,325 --> 00:07:29,092
+Vejo que os tremores
+estão de volta.
+
+120
+00:07:29,736 --> 00:07:33,662
+- Não é nada.
+- Eu já tive um paciente
+
+121
+00:07:33,663 --> 00:07:35,403
+que teve um tremor
+psicogênico.
+
+122
+00:07:40,064 --> 00:07:41,984
+O que você tem
+para me dizer?
+
+123
+00:07:42,941 --> 00:07:44,977
+Eu me inscrevi
+para o Quantico.
+
+124
+00:07:46,649 --> 00:07:48,851
+O FBI?
+
+125
+00:07:50,100 --> 00:07:52,483
+Você acha que vão confiar
+em você?
+
+126
+00:07:53,917 --> 00:07:56,501
+"Seu pai é um serial killer."
+
+127
+00:07:57,813 --> 00:07:59,882
+O que estou dizendo é...
+
+128
+00:08:01,391 --> 00:08:03,373
+isso acabou.
+
+129
+00:08:04,646 --> 00:08:06,305
+"Acabou?"
+
+130
+00:08:09,272 --> 00:08:10,720
+Não.
+
+131
+00:08:11,653 --> 00:08:13,350
+Não, eu preciso de você.
+
+132
+00:08:13,351 --> 00:08:15,721
+Você é minha única conexão
+com o mundo lá fora.
+
+133
+00:08:15,722 --> 00:08:17,306
+Eu vou ser cortado.
+
+134
+00:08:17,307 --> 00:08:20,270
+Por favor, Malcolm.
+Não faça isso.
+
+135
+00:08:20,271 --> 00:08:23,362
+- Não é isso que eu quero!
+- Talvez seja uma coisa boa.
+
+136
+00:08:34,475 --> 00:08:35,994
+Você não pode me deixar.
+
+137
+00:08:39,215 --> 00:08:41,150
+Isto está errado.
+
+138
+00:08:42,339 --> 00:08:44,315
+Eu não te vejo
+há dez anos.
+
+139
+00:08:46,818 --> 00:08:48,759
+Isso não é real.
+
+140
+00:08:48,760 --> 00:08:51,496
+Eu te deixei.
+Eu saí daqui.
+
+141
+00:08:51,497 --> 00:08:53,176
+Eu não vou deixar você ir.
+
+142
+00:08:53,508 --> 00:08:57,532
+Lembre-se:
+Somos iguais.
+
+143
+00:09:14,880 --> 00:09:17,636
+Bom dia, luz do sol.
+Dormiu bem?
+
+144
+00:09:26,483 --> 00:09:29,397
+"Estou disposto a superar
+e confiar em mim."
+
+145
+00:09:30,082 --> 00:09:33,277
+Estou disposto a superar
+e confiar em mim.
+
+146
+00:09:33,278 --> 00:09:34,862
+Certo, ótimo.
+
+147
+00:09:36,005 --> 00:09:38,724
+<i>Eles te demitiram?
+Por causa do papai?</i>
+
+148
+00:09:38,725 --> 00:09:42,293
+Não é justo.
+Você não o vê há anos.
+
+149
+00:09:42,294 --> 00:09:45,467
+Eu estou bem, sério.
+
+150
+00:09:46,458 --> 00:09:47,900
+Está tendo pesadelos?
+
+151
+00:09:49,994 --> 00:09:52,915
+Sabe, eu tenho sorte.
+
+152
+00:09:53,358 --> 00:09:56,779
+Eu tinha apenas cinco anos
+quando papai foi preso.
+
+153
+00:09:56,780 --> 00:09:58,259
+Eu não me lembro.
+
+154
+00:09:58,260 --> 00:10:02,050
+Mas... eu lembro de você,
+
+155
+00:10:02,051 --> 00:10:03,673
+me dizendo
+que tudo ficaria bem,
+
+156
+00:10:03,674 --> 00:10:05,581
+mesmo quando sabia
+que não iria.
+
+157
+00:10:07,576 --> 00:10:09,587
+Isto é uma coisa boa.
+
+158
+00:10:09,697 --> 00:10:11,420
+Um novo começo, sabe?
+
+159
+00:10:11,421 --> 00:10:15,916
+Esqueça o FBI
+e todos esses serial killers.
+
+160
+00:10:15,917 --> 00:10:17,669
+Certo.
+
+161
+00:10:17,670 --> 00:10:20,829
+Está dizendo que eu deveria
+dar um tempo do assassinato?
+
+162
+00:10:20,830 --> 00:10:22,979
+Sim, exatamente.
+
+163
+00:10:22,980 --> 00:10:24,999
+Aqui, segure isso.
+
+164
+00:10:25,000 --> 00:10:29,002
+Provavelmente é apenas trabalho.
+Tenho um relatório sobre algo.
+
+165
+00:10:29,003 --> 00:10:31,184
+Outra exclusividade
+de Ainsley Whitly?
+
+166
+00:10:31,185 --> 00:10:34,381
+Não. Apenas uma porcaria
+de colarinho branco.
+
+167
+00:10:35,330 --> 00:10:39,102
+Lembre-se:
+Você está dando um tempo.
+
+168
+00:10:40,541 --> 00:10:42,185
+Obrigado, Ains.
+
+169
+00:10:47,264 --> 00:10:48,740
+Bright.
+
+170
+00:10:49,245 --> 00:10:50,902
+Gil?
+
+171
+00:10:51,346 --> 00:10:53,009
+O que está fazendo aqui?
+
+172
+00:10:53,010 --> 00:10:55,446
+Ouvi dizer que estava de volta,
+garoto da cidade.
+
+173
+00:10:55,447 --> 00:10:58,119
+Não é bom sair de casa
+e não contar a seus amigos.
+
+174
+00:10:58,120 --> 00:10:59,611
+Tenho amigos?
+
+175
+00:11:00,393 --> 00:11:02,432
+Também senti sua falta,
+garoto.
+
+176
+00:11:05,413 --> 00:11:08,579
+Qual é o problema?
+Está com uma cara assustada.
+
+177
+00:11:09,586 --> 00:11:11,109
+Não.
+
+178
+00:11:11,110 --> 00:11:12,760
+Uma porcaria
+de colarinho branco.
+
+179
+00:11:12,761 --> 00:11:14,178
+Minha irmã mentiu para mim.
+
+180
+00:11:14,179 --> 00:11:16,479
+Suas narrativas autonômicas
+sempre a denunciam.
+
+181
+00:11:16,480 --> 00:11:18,230
+Uma repórter mentindo?
+Não acredito.
+
+182
+00:11:18,231 --> 00:11:20,881
+Não queria que soubesse
+que está cobrindo assassinato.
+
+183
+00:11:20,882 --> 00:11:22,882
+Que, se ela tem
+um assassinato importante
+
+184
+00:11:22,883 --> 00:11:24,656
+- para cobrir...
+- Tem um importante
+
+185
+00:11:24,657 --> 00:11:26,341
+para levar sua bunda louca.
+
+186
+00:11:27,552 --> 00:11:29,836
+Eu preciso de um <i>Profiler</i>.
+
+187
+00:11:30,821 --> 00:11:32,836
+Vamos.
+
+188
+00:11:32,837 --> 00:11:34,942
+Sabia que o FBI me demitiu,
+certo?
+
+189
+00:11:34,943 --> 00:11:36,793
+Ainda bem
+que eu sou da Polícia de NY.
+
+190
+00:11:36,794 --> 00:11:38,394
+Eu disse
+que você não era do FBI.
+
+191
+00:11:38,395 --> 00:11:40,145
+Quando você vai aprender
+a me ouvir?
+
+192
+00:11:40,146 --> 00:11:43,103
+Vamos apenas
+não mencionar...
+
+193
+00:11:43,104 --> 00:11:44,865
+Que seu pai
+é um serial killer?
+
+194
+00:11:45,836 --> 00:11:48,553
+Não se preocupe,
+meus lábios estão fechados.
+
+195
+00:11:54,323 --> 00:11:55,923
+O nome da vítima
+é Vanessa Hobbs.
+
+196
+00:11:55,924 --> 00:11:57,674
+O gabinete do prefeito
+está em cima.
+
+197
+00:11:57,675 --> 00:11:59,567
+- É um C.M.I.
+- "C.M.I"?
+
+198
+00:11:59,568 --> 00:12:01,157
+"Cadáver muito importante."
+
+199
+00:12:01,816 --> 00:12:04,631
+O legista passou por aqui.
+Eis o que tenho.
+
+200
+00:12:04,632 --> 00:12:06,373
+- Eu fico com isso.
+- Obrigado.
+
+201
+00:12:06,374 --> 00:12:08,358
+Dani Powell,
+este é Malcolm Bright.
+
+202
+00:12:08,359 --> 00:12:12,035
+Psicólogo,<i> Profiler</i>,
+gosto apurado.
+
+203
+00:12:13,923 --> 00:12:17,596
+Gil, a empregada
+achou o corpo de manhã.
+
+204
+00:12:17,597 --> 00:12:21,894
+Vanessa Hobbs, 43 anos.
+Solteira e rica. Bem o meu tipo.
+
+205
+00:12:21,895 --> 00:12:23,524
+- Você é necrófilo?
+- O quê?
+
+206
+00:12:23,525 --> 00:12:25,915
+Não.
+Quem é esse cara?
+
+207
+00:12:25,916 --> 00:12:29,486
+JT, Bright. Bright, JT.
+Não gostarão um do outro.
+
+208
+00:12:29,487 --> 00:12:31,563
+Bom saber.
+Com licença.
+
+209
+00:12:35,983 --> 00:12:37,464
+Então você é um <i>Profiler</i>?
+
+210
+00:12:37,465 --> 00:12:40,017
+Parece que nossa vítima
+fez o próprio perfil.
+
+211
+00:12:40,018 --> 00:12:42,249
+- Ela queria dar uma trepada.
+- "Trepada"?
+
+212
+00:12:42,250 --> 00:12:44,697
+Você sempre associa sexo
+com violência?
+
+213
+00:12:45,444 --> 00:12:47,321
+Você é quem
+estou associando...
+
+214
+00:12:47,322 --> 00:12:48,722
+Deixe-o trabalhar.
+
+215
+00:12:57,402 --> 00:12:58,895
+Qual o problema?
+
+216
+00:12:58,896 --> 00:13:01,034
+Nenhum.
+É uma coisa que eu faço.
+
+217
+00:13:01,035 --> 00:13:03,490
+Imagino o crime
+do ponto de vista do assassino.
+
+218
+00:13:03,491 --> 00:13:05,491
+Para entender
+o estado de espírito dele.
+
+219
+00:13:05,492 --> 00:13:07,007
+Você pensa
+como o assassino?
+
+220
+00:13:07,525 --> 00:13:08,925
+É um dom.
+
+221
+00:13:09,960 --> 00:13:12,456
+Bom, você estava certo,
+Jeffy.
+
+222
+00:13:12,457 --> 00:13:13,857
+É "JT".
+
+223
+00:13:13,858 --> 00:13:16,210
+Nossa vítima
+esperava alguém especial.
+
+224
+00:13:16,211 --> 00:13:17,645
+Um amante.
+
+225
+00:13:17,646 --> 00:13:19,500
+Infelizmente,
+o homem errado apareceu.
+
+226
+00:13:23,989 --> 00:13:26,276
+Ela derrubou a taça
+no momento em que o viu.
+
+227
+00:13:26,277 --> 00:13:28,299
+Ela não esperava por ele.
+
+228
+00:13:28,300 --> 00:13:31,967
+A luta foi contida,
+ele a subjugou rápido.
+
+229
+00:13:31,968 --> 00:13:33,576
+Mas como ele fez isso?
+
+230
+00:13:40,444 --> 00:13:42,109
+Ela mordeu a língua.
+
+231
+00:13:42,846 --> 00:13:44,724
+<i>Ele injetou
+alguma coisa nela.</i>
+
+232
+00:13:44,725 --> 00:13:46,765
+Provavelmente
+uma droga paralisante...
+
+233
+00:13:46,766 --> 00:13:49,436
+a fez prisioneira
+no próprio corpo.
+
+234
+00:13:49,437 --> 00:13:52,259
+Ela tinha
+que sentir tudo.
+
+235
+00:13:52,260 --> 00:13:55,190
+Induzir paralisia
+é mil vezes mais difícil
+
+236
+00:13:55,191 --> 00:13:56,599
+do que derrubar alguém.
+
+237
+00:13:58,946 --> 00:14:00,646
+É necessário prática...
+
+238
+00:14:01,625 --> 00:14:03,133
+equipamentos...
+
+239
+00:14:05,044 --> 00:14:06,768
+habilidades médicas.
+
+240
+00:14:07,286 --> 00:14:08,686
+O que foi?
+
+241
+00:14:09,705 --> 00:14:11,356
+Eu já vi isso antes.
+
+242
+00:14:19,852 --> 00:14:22,291
+Terá uma marca de agulha
+na crista ilíaca
+
+243
+00:14:22,292 --> 00:14:24,083
+e uma perto do coração.
+
+244
+00:14:25,648 --> 00:14:27,407
+Como diabos
+você sabe disso?
+
+245
+00:14:29,371 --> 00:14:31,279
+Nosso assassino
+é um imitador.
+
+246
+00:14:33,122 --> 00:14:35,298
+Ele está copiando
+outro assassino em série.
+
+247
+00:14:37,698 --> 00:14:39,098
+Dr. Martin Whitly.
+
+248
+00:14:39,953 --> 00:14:41,362
+O cirurgião.
+
+249
+00:14:42,172 --> 00:14:45,428
+Mesmo? E você sabe tudo
+sobre esse tal Cirurgião?
+
+250
+00:14:46,926 --> 00:14:49,100
+Quase como
+se ele fosse da família.
+
+251
+00:14:55,910 --> 00:14:57,555
+<i>Bright, está bem?</i>
+
+252
+00:14:58,636 --> 00:15:00,537
+Eu estava preocupado
+em chamar você.
+
+253
+00:15:01,484 --> 00:15:03,133
+Não queria
+acordar seus demônios,
+
+254
+00:15:03,134 --> 00:15:05,609
+mas precisava ter certeza
+que ele copiava seu pai.
+
+255
+00:15:05,610 --> 00:15:08,330
+Não se preocupe,
+meus demônios não dormem.
+
+256
+00:15:08,331 --> 00:15:10,808
+Só posso imaginar
+o que você está sentindo.
+
+257
+00:15:10,809 --> 00:15:12,817
+O assassino está copiando
+"O Quarteto".
+
+258
+00:15:12,818 --> 00:15:15,343
+Série de 4 homicídios
+que meu pai cometeu em 92.
+
+259
+00:15:15,344 --> 00:15:16,866
+Só tivemos três.
+
+260
+00:15:16,867 --> 00:15:18,537
+O assassino
+ainda não terminou.
+
+261
+00:15:24,583 --> 00:15:28,036
+- Tem falado com ele?
+- Não.
+
+262
+00:15:28,037 --> 00:15:29,927
+Não em 10 anos.
+
+263
+00:15:29,928 --> 00:15:32,833
+E não posso voltar lá, Gil.
+Não posso voltar para ele.
+
+264
+00:15:32,834 --> 00:15:34,985
+Não era uma relação
+saudável.
+
+265
+00:15:34,986 --> 00:15:36,388
+Não estou pedindo isso...
+
+266
+00:15:37,310 --> 00:15:39,111
+mas há um assassino em série
+aqui
+
+267
+00:15:39,112 --> 00:15:40,956
+e você me diz
+que ele não terminou.
+
+268
+00:15:45,035 --> 00:15:48,185
+Tudo bem,
+vou começar o perfil.
+
+269
+00:15:59,975 --> 00:16:01,375
+Olá?
+
+270
+00:16:14,521 --> 00:16:17,724
+- Oi, mãe.
+- Malcolm.
+
+271
+00:16:17,725 --> 00:16:19,678
+Desculpa não ter ligado.
+Eu...
+
+272
+00:16:19,679 --> 00:16:22,451
+Ainsley disse que foi demitido.
+Aleluia!
+
+273
+00:16:22,452 --> 00:16:26,022
+Pode parar com essa bobagem
+de análise comportamental.
+
+274
+00:16:26,023 --> 00:16:27,825
+Claro,
+não vou mais arrastar
+
+275
+00:16:27,826 --> 00:16:29,813
+o bom nome da nossa família
+pela lama.
+
+276
+00:16:29,814 --> 00:16:31,651
+Pode parar, Bright.
+
+277
+00:16:31,652 --> 00:16:33,490
+Que pseudônimo
+mais ridículo.
+
+278
+00:16:33,491 --> 00:16:35,849
+Escolhi ter a decência de beber
+na nossa ruína
+
+279
+00:16:35,850 --> 00:16:38,312
+- e não me esconder dela.
+- Isso é impossível.
+
+280
+00:16:38,313 --> 00:16:40,592
+Então... seu apartamento.
+
+281
+00:16:40,593 --> 00:16:43,622
+Pedi à Luisa para trocar
+os lençóis e limpar tudo.
+
+282
+00:16:43,623 --> 00:16:45,568
+E liguei para seu terapeuta,
+doutor...
+
+283
+00:16:45,569 --> 00:16:49,488
+Mãe, é bom ver você,
+mas tenho coisas para fazer e...
+
+284
+00:16:49,489 --> 00:16:51,062
+Eu sei
+que não está dormindo.
+
+285
+00:17:00,379 --> 00:17:02,316
+Camomila deve ajudar.
+
+286
+00:17:02,317 --> 00:17:05,793
+E se não ajudar,
+tenho pílulas.
+
+287
+00:17:05,794 --> 00:17:07,953
+Relaxa,
+elas são praticamente legais.
+
+288
+00:17:07,954 --> 00:17:11,442
+Eu tenho remédios para ansiedade
+e estabilizadores de humor.
+
+289
+00:17:11,443 --> 00:17:13,801
+Até alguns Quaaludes,
+que guardei dos anos 80.
+
+290
+00:17:14,233 --> 00:17:15,808
+Embora prefira
+não compartilhar,
+
+291
+00:17:15,809 --> 00:17:17,661
+a menos que seja mesmo
+uma emergência,
+
+292
+00:17:17,662 --> 00:17:20,121
+- ou uma festa muito boa.
+- Receio que pílulas
+
+293
+00:17:20,122 --> 00:17:22,277
+não consertarão
+o que está errado conosco.
+
+294
+00:17:22,278 --> 00:17:24,239
+Se você tomar o suficiente,
+consertam.
+
+295
+00:17:25,036 --> 00:17:26,953
+Como senti falta
+de nossas conversas.
+
+296
+00:17:26,954 --> 00:17:29,886
+Sua irmã vem em casa amanhã
+à noite para uma reunião,
+
+297
+00:17:29,887 --> 00:17:31,293
+seja legal e venha.
+
+298
+00:17:31,294 --> 00:17:33,957
+Imagino que não entre
+na casa de Ainsley assim?
+
+299
+00:17:33,958 --> 00:17:37,663
+Deus, não. Ela é perfeita.
+Você é minha única preocupação.
+
+300
+00:17:38,166 --> 00:17:40,127
+Experimente o chá.
+Isso vai ajudar.
+
+301
+00:17:40,128 --> 00:17:42,173
+É mesmo?
+Do que é feito?
+
+302
+00:17:42,986 --> 00:17:44,470
+Amor.
+
+303
+00:17:48,030 --> 00:17:50,809
+Certo, vamos ao trabalho.
+
+304
+00:18:28,726 --> 00:18:30,137
+Edrisa?
+
+305
+00:18:30,138 --> 00:18:32,022
+Obrigado por se apressar
+nisso.
+
+306
+00:18:32,023 --> 00:18:34,982
+- Sei que os homicídios foram...
+- Incríveis. Quero dizer...
+
+307
+00:18:34,983 --> 00:18:37,374
+Só li sobre os métodos
+do Cirurgião nos livros.
+
+308
+00:18:37,375 --> 00:18:39,434
+Vê-los realizados
+é uma verdadeira emoção.
+
+309
+00:18:39,435 --> 00:18:41,973
+Três vítimas.
+Com base no exame toxicológico,
+
+310
+00:18:41,974 --> 00:18:43,988
+foram injetadas
+com um coquetel diferente
+
+311
+00:18:43,989 --> 00:18:45,918
+de drogas
+que paralisam o corpo,
+
+312
+00:18:45,919 --> 00:18:47,598
+um sistema de cada vez.
+
+313
+00:18:47,599 --> 00:18:49,793
+- Deve ter sido agoniante.
+- Foi.
+
+314
+00:18:51,616 --> 00:18:53,247
+Eu imagino.
+
+315
+00:18:53,880 --> 00:18:55,958
+Eu tenho um perfil
+preliminar.
+
+316
+00:18:55,959 --> 00:18:57,973
+Porra, Bright, você dorme?
+
+317
+00:18:57,974 --> 00:19:00,308
+Dormi seis horas,
+três noites atrás,
+
+318
+00:19:00,309 --> 00:19:02,520
+então... sim, eu estou bem.
+
+319
+00:19:02,521 --> 00:19:05,044
+Ele é o assassino, certo?
+Nós concordamos?
+
+320
+00:19:05,739 --> 00:19:07,747
+Este trabalho de sutura
+é incrível.
+
+321
+00:19:08,053 --> 00:19:09,997
+Essas incisões em Y.
+
+322
+00:19:09,998 --> 00:19:12,389
+Você é como Picasso
+com formaldeído.
+
+323
+00:19:12,966 --> 00:19:14,411
+Obrigada.
+
+324
+00:19:14,412 --> 00:19:17,848
+E você é... muito esbelto.
+
+325
+00:19:17,849 --> 00:19:19,824
+A maioria das comidas
+me faz mal.
+
+326
+00:19:19,825 --> 00:19:21,231
+O que está acontecendo?
+
+327
+00:19:21,232 --> 00:19:22,962
+Seu perfil
+tem uma manchete?
+
+328
+00:19:23,442 --> 00:19:26,089
+Nosso suspeito
+é fã de um serial killer.
+
+329
+00:19:26,090 --> 00:19:27,698
+Provavelmente branco.
+
+330
+00:19:27,699 --> 00:19:30,042
+Grande surpresa.
+Ele se mistura.
+
+331
+00:19:30,043 --> 00:19:33,511
+Tamanho médio,
+altura média e inteligente.
+
+332
+00:19:33,512 --> 00:19:35,928
+Ele é um psicopata
+de alto funcionamento.
+
+333
+00:19:35,929 --> 00:19:38,358
+- Parece o meu ex.
+- Também é inadequado.
+
+334
+00:19:38,359 --> 00:19:40,909
+- Definitivamente o Khalil.
+- Não cria assassinatos,
+
+335
+00:19:40,910 --> 00:19:42,654
+então imita o Cirurgião.
+
+336
+00:19:42,655 --> 00:19:45,717
+Suas vítimas são brancas,
+têm mais de 40 anos e são ricas.
+
+337
+00:19:45,718 --> 00:19:48,037
+Também são estranhos.
+Nada os conecta.
+
+338
+00:19:48,038 --> 00:19:49,632
+Exceto por isso.
+
+339
+00:19:50,389 --> 00:19:53,960
+Todas as três vítimas tiveram
+o mesmo hematoma nos pulsos.
+
+340
+00:19:53,961 --> 00:19:56,523
+Isso não corresponde aos métodos
+do Cirurgião.
+
+341
+00:19:56,524 --> 00:19:58,274
+Talvez ele tenha algemado
+a Vanessa?
+
+342
+00:19:58,275 --> 00:19:59,992
+Isso não é de metal.
+
+343
+00:19:59,993 --> 00:20:01,718
+Meu palpite é
+
+344
+00:20:01,719 --> 00:20:04,623
+é uma corda bondage de estilo
+japonês de 15 centímetros.
+
+345
+00:20:04,624 --> 00:20:07,075
+- Simples, mas efetivo.
+- Exatamente.
+
+346
+00:20:07,076 --> 00:20:10,193
+Quero dizer, eu concordo
+com a corda e sua eficácia,
+
+347
+00:20:10,194 --> 00:20:11,978
+e tudo o mais
+que você disse.
+
+348
+00:20:11,979 --> 00:20:14,830
+Além disso, os hematomas
+não incidem com a hora da morte.
+
+349
+00:20:14,831 --> 00:20:16,391
+São de antes.
+Pelo menos 3 dias.
+
+350
+00:20:16,392 --> 00:20:19,149
+Então foram contidas, mas não
+na noite que foram mortas.
+
+351
+00:20:19,150 --> 00:20:21,695
+Curtiam uma coisa 50 Tons,
+eu entendi.
+
+352
+00:20:21,696 --> 00:20:24,817
+Então, temos três vítimas,
+todas exibindo hematomas
+
+353
+00:20:24,818 --> 00:20:26,223
+consistente com o BDSM.
+
+354
+00:20:26,224 --> 00:20:28,699
+E se o homem que Vanessa
+esperava fosse dominador?
+
+355
+00:20:28,700 --> 00:20:30,474
+Um dominador profissional.
+
+356
+00:20:30,475 --> 00:20:32,433
+- Ele estava vendo as três.
+- Certo.
+
+357
+00:20:32,434 --> 00:20:34,000
+Se é profissional,
+elas pagaram.
+
+358
+00:20:34,001 --> 00:20:35,944
+Vou rastrear
+os registros bancários.
+
+359
+00:20:36,245 --> 00:20:38,522
+<i>Nico Stavros.
+Ele mora no apartamento 5J.</i>
+
+360
+00:20:38,523 --> 00:20:41,007
+<i>Cada vítima enviou
+um pagamento no último mês.</i>
+
+361
+00:20:41,008 --> 00:20:42,814
+Polícia de Nova York!
+
+362
+00:20:43,846 --> 00:20:45,384
+As luzes estão apagadas.
+
+363
+00:20:45,385 --> 00:20:47,846
+Gil disse para esperar.
+Está arrumando um mandado.
+
+364
+00:20:48,635 --> 00:20:51,321
+- Você está ligando para o Gil?
+-Não. Nico.
+
+365
+00:20:51,322 --> 00:20:53,134
+O número dele
+estava no arquivo.
+
+366
+00:20:53,135 --> 00:20:55,697
+Talvez ele esteja disponível
+para uma sessão rápida.
+
+367
+00:21:00,962 --> 00:21:02,660
+Eu acho
+que ele está em casa.
+
+368
+00:21:03,748 --> 00:21:05,271
+Polícia de Nova York!
+
+369
+00:21:08,205 --> 00:21:09,625
+Limpo.
+
+370
+00:21:09,961 --> 00:21:11,390
+Limpo!
+
+371
+00:21:14,955 --> 00:21:16,479
+Limpo.
+
+372
+00:21:19,459 --> 00:21:21,090
+O que é isso?
+
+373
+00:21:21,091 --> 00:21:23,658
+Que diabos, cara?
+
+374
+00:21:24,739 --> 00:21:27,227
+Ele está construindo
+eletrônicos.
+
+375
+00:21:27,228 --> 00:21:29,487
+Combinando
+suas próprias drogas.
+
+376
+00:21:29,488 --> 00:21:31,406
+Ele é mais
+do que um imitador.
+
+377
+00:21:33,293 --> 00:21:34,947
+Meu perfil está errado.
+
+378
+00:21:48,096 --> 00:21:50,071
+Polícia de Nova York.
+Não se preocupe.
+
+379
+00:21:50,072 --> 00:21:51,481
+Você está bem.
+
+380
+00:21:52,610 --> 00:21:54,087
+Ele está aqui?
+
+381
+00:21:55,624 --> 00:21:57,069
+Polícia de Nova York...
+
+382
+00:21:57,969 --> 00:21:59,444
+Tiros!
+
+383
+00:22:01,253 --> 00:22:03,503
+- Estamos bem?
+- Sim, estamos.
+
+384
+00:22:03,746 --> 00:22:05,336
+Fique com o Bright!
+Eu pego ele!
+
+385
+00:22:13,979 --> 00:22:16,229
+Por que Nico fez isso?
+É um dos clientes dele?
+
+386
+00:22:16,230 --> 00:22:18,500
+Não sou um cliente, cara.
+Eu sou o Nico.
+
+387
+00:22:18,501 --> 00:22:21,001
+Ele me fez ligar para eles,
+marcar os compromissos.
+
+388
+00:22:21,002 --> 00:22:22,487
+Ele é um psicopata, cara.
+
+389
+00:22:22,488 --> 00:22:24,501
+Tenho um 10-13
+em Riverside, 1091.
+
+390
+00:22:24,502 --> 00:22:26,038
+Estou em perseguição.
+
+391
+00:22:26,652 --> 00:22:28,070
+- Pare!
+- Quem fez isso?
+
+392
+00:22:28,071 --> 00:22:29,518
+Eu não vi o rosto dele.
+
+393
+00:22:29,519 --> 00:22:31,796
+Estou nesta cadeira há dias.
+Tire-me daqui!
+
+394
+00:22:35,387 --> 00:22:39,827
+- Ele está trancado.
+- Temos um problema aqui.
+
+395
+00:22:41,132 --> 00:22:42,985
+Cara, isso não é bom.
+
+396
+00:22:55,146 --> 00:22:56,558
+- Bright, está vendo?
+- Sim.
+
+397
+00:22:56,559 --> 00:22:58,247
+É uma bomba,
+ele está preso a ela
+
+398
+00:22:58,248 --> 00:22:59,998
+- e a cadeira está travada.
+- O quê?
+
+399
+00:22:59,999 --> 00:23:01,763
+Não, não!
+
+400
+00:23:01,764 --> 00:23:03,344
+Ele não precisava
+ouvir isso.
+
+401
+00:23:03,345 --> 00:23:06,410
+Ele descobriria
+em 72 segundos.
+
+402
+00:23:06,431 --> 00:23:08,768
+Precisamos liberar
+um braço.
+
+403
+00:23:08,769 --> 00:23:11,205
+Encontre uma chave.
+Eu posso quebrar a fechadura.
+
+404
+00:23:11,206 --> 00:23:12,737
+Não há tempo suficiente.
+
+405
+00:23:14,722 --> 00:23:17,269
+JT, cozinha.
+
+406
+00:23:17,270 --> 00:23:19,595
+Pegue gelo.
+Muito gelo.
+
+407
+00:23:19,596 --> 00:23:22,456
+- O que está acontecendo?
+- Eu vou cortar sua mão.
+
+408
+00:23:22,457 --> 00:23:24,027
+O quê?
+
+409
+00:23:28,949 --> 00:23:30,624
+Não há outro jeito.
+
+410
+00:23:31,573 --> 00:23:34,549
+A cirurgia de recolocação
+evoluiu muito, então...
+
+411
+00:23:34,550 --> 00:23:36,282
+respire fundo.
+
+412
+00:23:36,283 --> 00:23:37,788
+- Não, não.
+- Respire fundo!
+
+413
+00:23:37,789 --> 00:23:39,189
+Quanto tempo temos,
+Bright?
+
+414
+00:23:43,585 --> 00:23:46,529
+Estou disposto a superar
+e confie em mim.
+
+415
+00:23:46,530 --> 00:23:48,401
+Cara, não faça isso...
+
+416
+00:23:49,113 --> 00:23:50,575
+- Gil.
+- Fale comigo.
+
+417
+00:23:50,576 --> 00:23:52,046
+Graças a Deus.
+Eu o perdi.
+
+418
+00:23:52,047 --> 00:23:54,131
+JT e Bright
+ainda estão lá dentro.
+
+419
+00:23:58,787 --> 00:24:00,993
+<i>O que aconteceu?</i>
+
+420
+00:24:02,400 --> 00:24:04,397
+Meu Deus.
+
+421
+00:24:11,065 --> 00:24:13,524
+Bright!
+
+422
+00:24:13,525 --> 00:24:15,239
+Bright, Bright.
+
+423
+00:24:16,227 --> 00:24:18,920
+Bright!
+Você está bem?
+
+424
+00:24:18,921 --> 00:24:20,323
+Você está bem?
+
+425
+00:24:21,476 --> 00:24:23,871
+- Olá?
+- Sim, claro.
+
+426
+00:24:25,245 --> 00:24:27,664
+Eu tenho que dar uma mão
+a eles.
+
+427
+00:24:46,546 --> 00:24:48,818
+O motivo do nosso assassino
+é a vingança.
+
+428
+00:24:48,819 --> 00:24:51,603
+Quer infligir o máximo de dor
+humanamente possível.
+
+429
+00:24:51,604 --> 00:24:53,523
+Por isso que está usando
+"O Quarteto".
+
+430
+00:24:53,524 --> 00:24:55,124
+Foi um experimento
+para encontrar
+
+431
+00:24:55,125 --> 00:24:56,725
+a maneira mais dolorosa
+de matar.
+
+432
+00:24:56,726 --> 00:24:59,995
+- Isso é motivo. O que mais?
+- É branco, tem 40 ou 50 anos.
+
+433
+00:24:59,996 --> 00:25:03,495
+Rico, provavelmente careca
+e romântico.
+
+434
+00:25:04,163 --> 00:25:05,835
+Espere.
+
+435
+00:25:06,137 --> 00:25:09,288
+- Como sabe que ele é careca?
+- Bem, eu não sei.
+
+436
+00:25:09,289 --> 00:25:11,992
+A psicologia dele
+implica em dismorfia.
+
+437
+00:25:11,993 --> 00:25:13,466
+Ele odeia o próprio corpo.
+
+438
+00:25:13,467 --> 00:25:16,605
+Vimos um homem imponente
+na casa de Nico,
+
+439
+00:25:16,606 --> 00:25:18,776
+então estou pensando
+em careca.
+
+440
+00:25:20,830 --> 00:25:23,069
+PRECISO DE VOCÊ NA MÃE
+
+441
+00:25:28,297 --> 00:25:29,911
+Malcolm, eu almocei
+
+442
+00:25:29,912 --> 00:25:31,862
+com o embaixador egípcio
+semana passada.
+
+443
+00:25:31,863 --> 00:25:34,121
+Ele tem uma filha adorável.
+
+444
+00:25:34,122 --> 00:25:36,665
+Um pouco acima do peso,
+mas aceitável.
+
+445
+00:25:36,666 --> 00:25:39,072
+Talvez você possa convidá-la
+para sair.
+
+446
+00:25:39,073 --> 00:25:41,352
+ONDE VOCÊ ESTÁ?
+- Estou atrapalhando, querido?
+
+447
+00:25:41,353 --> 00:25:43,304
+Não, não.
+Nada importante.
+
+448
+00:25:44,005 --> 00:25:47,853
+Você estava falando sobre...
+Egito?
+
+449
+00:25:48,112 --> 00:25:50,545
+O que não está me dizendo?
+
+450
+00:25:52,259 --> 00:25:54,287
+Ainsley, fale.
+
+451
+00:25:54,288 --> 00:25:56,102
+Está trabalhando
+com a polícia
+
+452
+00:25:56,103 --> 00:25:58,114
+na investigação
+do serial killer.
+
+453
+00:25:58,115 --> 00:26:00,539
+- O quê?
+- Você não me assiste?
+
+454
+00:26:00,540 --> 00:26:02,012
+Não com o som ligado.
+
+455
+00:26:02,013 --> 00:26:04,916
+Pensei que tivesse abandonado
+essa vida.
+
+456
+00:26:04,917 --> 00:26:08,157
+Eu superei o seu pai.
+Por que você não supera?
+
+457
+00:26:09,706 --> 00:26:11,791
+Porque...
+
+458
+00:26:11,792 --> 00:26:14,748
+este novo assassino está...
+
+459
+00:26:18,085 --> 00:26:20,009
+copiando o Cirurgião.
+
+460
+00:26:25,668 --> 00:26:28,370
+Ótima maneira
+de estragar o jantar.
+
+461
+00:26:28,371 --> 00:26:30,855
+O papai é uma pessoa
+de interesse? Existem outros?
+
+462
+00:26:30,856 --> 00:26:32,578
+Talvez.
+Eu não sei.
+
+463
+00:26:32,579 --> 00:26:34,729
+Ains, não pode cobrir isso.
+Causaria pânico.
+
+464
+00:26:34,730 --> 00:26:37,801
+Deveria.
+Como está copiando-o?
+
+465
+00:26:40,678 --> 00:26:43,990
+O Quarteto.
+Os três primeiros...
+
+466
+00:26:43,991 --> 00:26:47,030
+Alexis Scott, Sharice Baker
+e Lyla Thompson.
+
+467
+00:26:50,453 --> 00:26:52,781
+Ele tirou a vida deles,
+roubou-os da família,
+
+468
+00:26:52,782 --> 00:26:55,032
+e depois de sua jaula,
+ele tentou roubar você.
+
+469
+00:26:55,033 --> 00:26:56,533
+Prometi que nunca mais
+o veria.
+
+470
+00:26:56,534 --> 00:27:00,093
+Cuidado, Malcolm.
+Seu pai amaria tudo isso.
+
+471
+00:27:00,094 --> 00:27:02,606
+Você tentando resolver
+os assassinatos dele.
+
+472
+00:27:02,734 --> 00:27:04,566
+Não faça isso.
+
+473
+00:27:04,567 --> 00:27:07,530
+Não o procure,
+ele é um câncer,
+
+474
+00:27:07,531 --> 00:27:09,311
+ele te destruirá.
+
+475
+00:27:09,554 --> 00:27:11,473
+- Acredite.
+- Mãe...
+
+476
+00:27:11,474 --> 00:27:13,036
+Boa noite.
+
+477
+00:27:28,821 --> 00:27:32,094
+O nervo mediano
+viaja do plexo braquial
+
+478
+00:27:32,095 --> 00:27:35,937
+e percorre
+até as pontas dos dedos
+
+479
+00:27:35,938 --> 00:27:38,635
+e é assim
+que sentimos as coisas.
+
+480
+00:27:38,636 --> 00:27:41,738
+Chamam de "a visão da mão".
+
+481
+00:27:41,739 --> 00:27:45,276
+- Incrível.
+- Tão incrível quanto você.
+
+482
+00:27:45,977 --> 00:27:50,051
+Termine seu chocolate lá em cima
+que vou limpar aqui, está bem?
+
+483
+00:27:50,052 --> 00:27:51,602
+- Boa noite, pai.
+- Boa noite.
+
+484
+00:28:03,305 --> 00:28:04,705
+Pai?
+
+485
+00:28:06,994 --> 00:28:09,474
+Não abra.
+
+486
+00:28:09,475 --> 00:28:11,368
+Pai, o que há aqui?
+
+487
+00:28:16,264 --> 00:28:17,664
+Não.
+
+488
+00:28:21,100 --> 00:28:22,500
+Não abra!
+
+489
+00:28:23,501 --> 00:28:26,312
+- Bright?
+- Não abra!
+
+490
+00:28:26,913 --> 00:28:29,090
+Não abra isso.
+Não.
+
+491
+00:28:29,091 --> 00:28:31,201
+Não abra isso!
+
+492
+00:28:38,295 --> 00:28:40,705
+Calma, Bright.
+Pare, acalme-se.
+
+493
+00:28:40,706 --> 00:28:43,268
+Pare, Bright.
+Não, parem.
+
+494
+00:28:43,269 --> 00:28:47,190
+Ele está dormindo!
+Bright, se acalme.
+
+495
+00:28:47,191 --> 00:28:50,199
+É só um sonho.
+Apenas um pesadelo.
+
+496
+00:28:55,660 --> 00:28:58,195
+Isso se chama
+<i>pavor nocturnus.</i>
+
+497
+00:28:58,196 --> 00:29:00,436
+Terror noturno,
+e não é divertido.
+
+498
+00:29:00,437 --> 00:29:02,713
+Pelo lado bom,
+está arruinando minha vida.
+
+499
+00:29:05,250 --> 00:29:08,270
+- Não a machuquei, não é?
+- Não se iluda.
+
+500
+00:29:08,271 --> 00:29:10,571
+Dani é do Bronx.
+Mais durona que nós.
+
+501
+00:29:11,521 --> 00:29:12,921
+Igual a Jackie.
+
+502
+00:29:14,808 --> 00:29:17,018
+Sim, garotas do Bronx.
+
+503
+00:29:17,019 --> 00:29:18,876
+Ela te amava
+como se fosse da família.
+
+504
+00:29:18,877 --> 00:29:21,027
+Se preocupava cada vez
+que você via seu pai.
+
+505
+00:29:21,028 --> 00:29:23,372
+Não se preocupe, Gil,
+estou bem.
+
+506
+00:29:23,373 --> 00:29:24,773
+Está sob controle.
+
+507
+00:29:24,774 --> 00:29:28,156
+Sob controle?
+Cortou a mão de um cara,
+
+508
+00:29:28,157 --> 00:29:31,833
+há um maníaco imitando o seu pai
+e seis tiras quase te balearam.
+
+509
+00:29:31,834 --> 00:29:33,656
+Não está nada sob controle.
+
+510
+00:29:33,657 --> 00:29:35,554
+O que quer dizer?
+Concorda com o FBI?
+
+511
+00:29:35,555 --> 00:29:37,555
+Te conheço há vinte anos.
+Está no limite.
+
+512
+00:29:37,556 --> 00:29:41,185
+Tem razão. Há uma quarta vítima
+e posso salvá-la.
+
+513
+00:29:41,186 --> 00:29:42,686
+Farei o que for preciso.
+
+514
+00:29:43,804 --> 00:29:45,204
+É disso que tenho medo.
+
+515
+00:29:49,394 --> 00:29:52,328
+Achou alguma coisa.
+O que achou?
+
+516
+00:30:00,470 --> 00:30:02,581
+FID pegou isto
+do apartmento do Nico.
+
+517
+00:30:02,582 --> 00:30:03,982
+Abra.
+
+518
+00:30:11,600 --> 00:30:14,294
+Isso mostra os primeiros métodos
+usados do Quarteto.
+
+519
+00:30:18,398 --> 00:30:19,798
+Meu pai desenhou isto.
+
+520
+00:30:19,799 --> 00:30:23,008
+Sim. Mas como o assassino
+pegou isso?
+
+521
+00:30:23,009 --> 00:30:25,064
+Seu pai está
+na Psiquiátrica Claremont.
+
+522
+00:30:25,065 --> 00:30:27,565
+- Perguntarei a ele.
+- Não permitirei que volte lá.
+
+523
+00:30:27,566 --> 00:30:29,308
+- Deve haver outro modo.
+- Não há.
+
+524
+00:30:29,309 --> 00:30:30,824
+Ele só comigo que ele fala.
+
+525
+00:30:33,369 --> 00:30:35,192
+Não posso permitir isso,
+Bright.
+
+526
+00:30:35,987 --> 00:30:37,387
+Não estou pedindo.
+
+527
+00:31:06,776 --> 00:31:08,176
+Malcolm.
+
+528
+00:31:08,909 --> 00:31:10,309
+Meu garoto.
+
+529
+00:31:11,494 --> 00:31:12,894
+Dr. Whitly.
+
+530
+00:31:13,883 --> 00:31:15,383
+Nossa, não acredito nisso.
+
+531
+00:31:16,642 --> 00:31:18,042
+Dez anos.
+
+532
+00:31:19,633 --> 00:31:22,375
+Bela cela.
+Quem pagou por isso?
+
+533
+00:31:22,376 --> 00:31:24,827
+Os sauditas te surpreenderiam
+pelo que podem pagar
+
+534
+00:31:24,828 --> 00:31:27,297
+a um cirurgião cardiotorácico
+desonrado.
+
+535
+00:31:29,351 --> 00:31:30,751
+Seus olhos.
+
+536
+00:31:31,832 --> 00:31:33,446
+Parece exausto.
+
+537
+00:31:33,447 --> 00:31:35,678
+E você parece
+cheio de energia.
+
+538
+00:31:36,079 --> 00:31:37,550
+Engraçado
+como isso funciona.
+
+539
+00:31:37,551 --> 00:31:39,191
+Eu sou vegano agora
+
+540
+00:31:39,192 --> 00:31:41,437
+e não vejo a sua mãe
+há vinte anos.
+
+541
+00:31:45,258 --> 00:31:48,477
+Sente-se, por favor.
+Descanse um pouco.
+
+542
+00:31:48,478 --> 00:31:49,878
+Como vai sua irmã?
+
+543
+00:31:50,950 --> 00:31:52,550
+Você tem um imitador.
+
+544
+00:31:54,515 --> 00:31:56,397
+O quê?
+Sério?
+
+545
+00:31:58,598 --> 00:32:00,456
+Estou lisonjeado.
+
+546
+00:32:02,092 --> 00:32:04,191
+E profundamente preocupado.
+
+547
+00:32:05,082 --> 00:32:07,089
+Chega disso.
+Sei que está o ajudando.
+
+548
+00:32:08,412 --> 00:32:12,641
+- Meus desenhos. Como conseguiu?
+- Com o nosso assassino.
+
+549
+00:32:12,642 --> 00:32:15,414
+- Quem é? Por que o ajuda?
+- Não o ajudo.
+
+550
+00:32:15,415 --> 00:32:18,160
+Claro que o ajuda.
+Desenhou para ele. São provas.
+
+551
+00:32:18,161 --> 00:32:21,761
+Não, isso é do meu estudo.
+Diário 19, prateleira superior.
+
+552
+00:32:36,722 --> 00:32:39,899
+Viu?
+Foram roubadas.
+
+553
+00:32:39,900 --> 00:32:41,944
+Fui roubado.
+Isso é uma afronta!
+
+554
+00:32:41,945 --> 00:32:43,498
+Três mulheres morreram!
+
+555
+00:32:44,199 --> 00:32:46,099
+Sim, claro,
+isso é uma afronta também.
+
+556
+00:32:47,207 --> 00:32:49,348
+Pode haver várias afrontas.
+
+557
+00:32:50,049 --> 00:32:53,540
+Mas não fui eu. Esses diários
+nunca saem desta cela,
+
+558
+00:32:53,783 --> 00:32:57,155
+- e não tenho mais visitantes.
+- E os seus pacientes?
+
+559
+00:32:59,297 --> 00:33:02,183
+A maioria são homens.
+Ricos, poderosos,
+
+560
+00:33:02,184 --> 00:33:03,954
+suspeitos morais.
+
+561
+00:33:03,955 --> 00:33:05,393
+Eles encaixam no perfil.
+
+562
+00:33:05,394 --> 00:33:07,543
+Você está sendo
+um pouco criterioso.
+
+563
+00:33:07,544 --> 00:33:09,590
+Por acaso,
+como está sua mãe?
+
+564
+00:33:10,000 --> 00:33:11,771
+Malcolm,
+o que está fazendo?
+
+565
+00:33:11,772 --> 00:33:15,135
+Acho que o suspeito
+é um dos seus pacientes.
+
+566
+00:33:16,336 --> 00:33:18,164
+Tem 40 casos aí.
+
+567
+00:33:18,507 --> 00:33:20,775
+Esses são muito jovens.
+
+568
+00:33:21,218 --> 00:33:22,733
+Divorciados não.
+
+569
+00:33:22,777 --> 00:33:24,565
+Obesos não.
+
+570
+00:33:24,971 --> 00:33:27,869
+Esses homens
+morreram na mesa.
+
+571
+00:33:27,870 --> 00:33:29,436
+Ninguém é perfeito.
+
+572
+00:33:29,479 --> 00:33:31,934
+Não, não, não.
+
+573
+00:33:31,935 --> 00:33:34,581
+Não, não.
+
+574
+00:33:39,900 --> 00:33:43,506
+Você reduziu isso tudo
+para dois?
+
+575
+00:33:45,282 --> 00:33:48,008
+Diga-me.
+Quem é o assassino?
+
+576
+00:33:48,503 --> 00:33:50,603
+Estou morrendo
+de ansiedade.
+
+577
+00:33:50,604 --> 00:33:53,350
+Não sei.
+Não há detalhes suficientes.
+
+578
+00:33:53,351 --> 00:33:54,667
+Preciso...
+
+579
+00:33:56,314 --> 00:33:58,617
+de você, o médico deles.
+
+580
+00:33:58,618 --> 00:34:01,463
+Eles te contam
+o que ninguém sabe.
+
+581
+00:34:01,464 --> 00:34:02,864
+O que não está
+nos arquivos?
+
+582
+00:34:02,865 --> 00:34:04,780
+Malcolm...
+
+583
+00:34:04,781 --> 00:34:08,910
+ajudar a polícia
+vai contra os meus princípios.
+
+584
+00:34:08,911 --> 00:34:10,546
+Você sabe disso.
+
+585
+00:34:12,700 --> 00:34:14,700
+O quê?
+
+586
+00:34:14,701 --> 00:34:17,688
+- O que está fazendo?
+- Você vai me dizer.
+
+587
+00:34:17,689 --> 00:34:20,361
+- Não, não vou.
+- Isso não é uma discussão.
+
+588
+00:34:20,362 --> 00:34:23,829
+E posso ver,
+você está com medo.
+
+589
+00:34:23,830 --> 00:34:27,885
+Não do assassino
+ou da polícia.
+
+590
+00:34:27,886 --> 00:34:29,797
+Você está com medo de mim.
+
+591
+00:34:29,879 --> 00:34:33,056
+- De você?
+- É óbvio.
+
+592
+00:34:33,057 --> 00:34:35,985
+Sua respiração,
+sua maneira de segurar as mãos,
+
+593
+00:34:35,986 --> 00:34:37,513
+a forma de olhar para a porta.
+
+594
+00:34:37,514 --> 00:34:39,645
+Você tem medo que eu vá.
+
+595
+00:34:39,646 --> 00:34:41,812
+Isso mesmo,
+e eu nunca vou voltar.
+
+596
+00:34:41,856 --> 00:34:44,467
+Certo.
+Que tal...
+
+597
+00:34:44,468 --> 00:34:48,315
+Ajude-me e eu volto.
+
+598
+00:35:08,788 --> 00:35:12,285
+Carter Berkhead,
+o desenvolvedor.
+
+599
+00:35:13,270 --> 00:35:16,700
+Teve um ataque cardíaco
+enquanto chicoteava
+
+600
+00:35:16,701 --> 00:35:19,494
+pobres submissos
+em uma masmorra sexual.
+
+601
+00:35:20,656 --> 00:35:22,485
+Obrigado, Dr. Whitly.
+
+602
+00:35:27,894 --> 00:35:30,174
+- Bright.
+- Dani.
+
+603
+00:35:30,374 --> 00:35:33,000
+- Gil e JT ainda estão com nico.
+- O que é isso?
+
+604
+00:35:33,001 --> 00:35:35,185
+Um evento dos Berkheads
+para seu clube.
+
+605
+00:35:35,186 --> 00:35:36,850
+Clube deles?
+
+606
+00:35:36,851 --> 00:35:39,347
+- Que clube?
+- Por quê? Você é membro?
+
+607
+00:35:39,348 --> 00:35:40,748
+Esperemos que não.
+
+608
+00:35:40,749 --> 00:35:42,349
+O que sabemos
+de Carter Berkhead?
+
+609
+00:35:42,350 --> 00:35:45,311
+Muito dinheiro.
+Aqui está ele e a esposa, Blair.
+
+610
+00:35:45,312 --> 00:35:47,922
+Então ele é careca.
+Vamos procurar por ele.
+
+611
+00:35:50,719 --> 00:35:52,819
+Detetive,
+temos um problema.
+
+612
+00:35:52,820 --> 00:35:55,234
+- O quê?
+- Não desse tipo.
+
+613
+00:35:55,277 --> 00:35:57,366
+Você vê a mulher
+do vestido azul?
+
+614
+00:35:57,410 --> 00:35:58,933
+Sim.
+
+615
+00:35:58,934 --> 00:36:00,586
+- Essa é minha mãe.
+- Sua mãe?
+
+616
+00:36:00,587 --> 00:36:02,545
+Ela está olhando para cá?
+
+617
+00:36:02,546 --> 00:36:05,835
+- Sim.
+- Deveria sacar sua arma.
+
+618
+00:36:06,835 --> 00:36:09,144
+- Devíamos nos separar.
+- O quê? Espere...
+
+619
+00:36:23,436 --> 00:36:25,220
+Sra. Berkhead?
+
+620
+00:36:25,221 --> 00:36:27,183
+É Blair.
+E você é?
+
+621
+00:36:27,184 --> 00:36:29,355
+Detetive Powell,
+Polícia de Nova York.
+
+622
+00:36:29,356 --> 00:36:32,358
+Estou à procura do seu marido.
+É sobre Nico Stavros.
+
+623
+00:36:35,274 --> 00:36:36,797
+Vamos conversar lá em cima.
+
+624
+00:36:42,956 --> 00:36:45,356
+Esse é o escritório
+do seu marido?
+
+625
+00:36:45,371 --> 00:36:48,156
+Carter está fora do pais
+em um safari.
+
+626
+00:36:48,157 --> 00:36:49,879
+Podemos falar livremente
+aqui.
+
+627
+00:36:52,085 --> 00:36:55,416
+Bright. Estamos no hospital.
+Nico acabou de acordar.
+
+628
+00:36:55,417 --> 00:36:59,041
+A esposa de Carter, Blair,
+era um dos clientes de Nico.
+
+629
+00:36:59,042 --> 00:37:01,823
+Ela estava traindo o marido
+com outro dominador.
+
+630
+00:37:03,032 --> 00:37:05,034
+Blair é a quarta vítima.
+
+631
+00:37:12,000 --> 00:37:13,627
+Ele está aqui.
+
+632
+00:37:14,527 --> 00:37:16,487
+Carter o que está fazendo?
+
+633
+00:37:16,488 --> 00:37:18,168
+Você disse
+que estava caçando.
+
+634
+00:37:46,608 --> 00:37:48,345
+Decisões, decisões.
+
+635
+00:37:48,888 --> 00:37:51,304
+Como vai fazer?
+
+636
+00:37:52,104 --> 00:37:54,307
+A arma é muito barulhenta,
+
+637
+00:37:54,308 --> 00:37:56,961
+e acho que não há
+agente paralítico para duas.
+
+638
+00:37:56,962 --> 00:37:59,843
+- Quem é você?
+- Malcolm Bright.
+
+639
+00:37:59,844 --> 00:38:02,402
+Estou desarmado.
+
+640
+00:38:02,446 --> 00:38:04,265
+Sou um <i>Profiler</i>.
+
+641
+00:38:04,709 --> 00:38:06,698
+Você ainda está no controle.
+
+642
+00:38:06,699 --> 00:38:08,800
+Um <i>Profiler<i>?
+
+643
+00:38:08,801 --> 00:38:12,547
+- Acha que isso é por controle?
+- Sim.
+
+644
+00:38:12,548 --> 00:38:14,422
+Controlar você mesmo.
+
+645
+00:38:14,423 --> 00:38:17,417
+Sua paixão,
+o que você quer,
+
+646
+00:38:17,418 --> 00:38:20,507
+o que deseja,
+você tem que causar dor.
+
+647
+00:38:20,508 --> 00:38:22,035
+Especialmente sua esposa.
+
+648
+00:38:22,036 --> 00:38:24,664
+Você dominou Blair,
+assim como todos.
+
+649
+00:38:24,665 --> 00:38:27,424
+Você infartou
+e num momento de fraqueza...
+
+650
+00:38:27,425 --> 00:38:29,295
+Ela me traiu com o Nico.
+
+651
+00:38:29,296 --> 00:38:32,372
+Você perdeu o controle.
+Teve que puni-la,
+
+652
+00:38:32,373 --> 00:38:35,993
+fazê-la sentir a maior dor
+que se possa imaginar.
+
+653
+00:38:35,994 --> 00:38:39,081
+Só faz sentido, pois o Cirurgião
+salvou sua vida.
+
+654
+00:38:47,365 --> 00:38:51,395
+Depois que ele me salvou,
+fiquei obcecado.
+
+655
+00:38:51,695 --> 00:38:55,386
+Eu o estudei.
+Ele torturava como ninguém.
+
+656
+00:38:55,387 --> 00:38:58,844
+- Foi aí que aprendi isso.
+- Não, não.
+
+657
+00:38:59,617 --> 00:39:01,917
+- Quer viver como ele?
+- Não...
+
+658
+00:39:01,918 --> 00:39:04,760
+- Quer ser o aluno perfeito?
+- Não, isso é para a Blair!
+
+659
+00:39:04,761 --> 00:39:06,377
+Atirar nela não muda nada.
+
+660
+00:39:07,370 --> 00:39:09,113
+Você precisa acabar
+com o Quarteto.
+
+661
+00:39:09,114 --> 00:39:12,237
+- Você não merece.
+- É isso, Carter, eu mereço.
+
+662
+00:39:12,238 --> 00:39:14,779
+Eu mereço a dor
+do Cirurgião.
+
+663
+00:39:15,273 --> 00:39:17,381
+Porque eu sou filho dele.
+
+664
+00:39:34,360 --> 00:39:36,710
+Meu nome verdadeiro
+é Malcolm Whitly.
+
+665
+00:39:39,069 --> 00:39:42,922
+Eu mudei porque queria
+me afastar dele.
+
+666
+00:39:45,005 --> 00:39:48,152
+Sempre pensei
+que tivesse medo do meu pai...
+
+667
+00:39:48,797 --> 00:39:50,706
+e tudo
+o que ele me ensinou.
+
+668
+00:39:53,185 --> 00:39:55,605
+Na verdade
+estava com medo de mim.
+
+669
+00:39:57,164 --> 00:40:00,135
+Então, eu o traí.
+
+670
+00:40:01,144 --> 00:40:05,488
+Eu me tornei um <i>Profiler</i>
+e caçei pessoas como ele.
+
+671
+00:40:06,083 --> 00:40:08,239
+Agora é sua chance, Carter.
+
+672
+00:40:11,081 --> 00:40:13,511
+Agora é sua chance
+de me matar...
+
+673
+00:40:14,813 --> 00:40:18,146
+- o filho pródigo.
+- Não, Bright.
+
+674
+00:40:18,461 --> 00:40:21,149
+- Estou disposto a me entregar.
+- Não, Bright.
+
+675
+00:40:37,188 --> 00:40:39,728
+Não se mexa!
+Abaixado!
+
+676
+00:40:42,850 --> 00:40:44,949
+Você está bem?
+
+677
+00:40:44,950 --> 00:40:46,769
+Está bem?
+
+678
+00:40:46,977 --> 00:40:49,531
+Você não permitiria,
+certo?
+
+679
+00:40:49,532 --> 00:40:51,279
+Certo?
+
+680
+00:40:51,649 --> 00:40:53,214
+Claro que não.
+
+681
+00:40:53,525 --> 00:40:55,331
+Seria loucura.
+
+682
+00:41:06,421 --> 00:41:08,442
+<i>Recebi notícias
+de última hora.</i>
+
+683
+00:41:08,443 --> 00:41:11,078
+Uma fonte confiável
+confirmou
+
+684
+00:41:11,079 --> 00:41:13,245
+que a polícia está acusando
+Carter Berkhead
+
+685
+00:41:13,246 --> 00:41:15,844
+dos três homicídios
+que aterrorizaram a cidade.
+
+686
+00:41:15,845 --> 00:41:17,547
+O filho do Cirurgião?
+
+687
+00:41:17,548 --> 00:41:21,632
+Gil, eu amo você, cara,
+mas não é possível.
+
+688
+00:41:24,114 --> 00:41:27,149
+Gil, quem é ele?
+Quem é ele para você?
+
+689
+00:41:30,725 --> 00:41:34,027
+Trabalhei no Upper East Side
+em 98. Não muito longe daqui.
+
+690
+00:41:35,366 --> 00:41:39,498
+<i>Fomos chamados, certa noite.
+Uma criança passando trote.</i>
+
+691
+00:41:39,499 --> 00:41:40,899
+<i>Eu resolvi o problema,</i>
+
+692
+00:41:40,900 --> 00:41:43,104
+<i>pedi desculpas aos proprietários
+e tudo mais.</i>
+
+693
+00:41:43,708 --> 00:41:47,386
+O médico que morava lá
+não descobriu quem ligou.
+
+694
+00:41:47,387 --> 00:41:51,277
+<i>Contudo, disse para eu entrar
+e me ofereceu uma xícara de chá.</i>
+
+695
+00:41:51,919 --> 00:41:54,894
+Era assim que o Cirurgião
+tranquilizava as vítimas.
+
+696
+00:41:55,535 --> 00:41:57,191
+Chá com anestésico.
+
+697
+00:42:06,475 --> 00:42:09,921
+- E aí, garoto?
+- Você devia pegar sua arma.
+
+698
+00:42:11,114 --> 00:42:14,340
+- Como é?
+- Meu pai,
+
+699
+00:42:14,341 --> 00:42:16,520
+ele vai te matar.
+
+700
+00:42:22,505 --> 00:42:25,012
+Bright chamou a polícia
+para o pai?
+
+701
+00:42:25,224 --> 00:42:26,624
+Isso.
+
+702
+00:42:27,781 --> 00:42:30,412
+Ele salvou muitas vidas
+naquela noite,
+
+703
+00:42:30,413 --> 00:42:32,151
+incluindo a minha.
+
+704
+00:42:33,981 --> 00:42:37,739
+Ele está um pouco diferente,
+mas, confie em mim...
+
+705
+00:42:38,469 --> 00:42:40,316
+Bright é um de nós.
+
+706
+00:42:44,792 --> 00:42:46,956
+Você é um verdadeiro herói.
+
+707
+00:42:47,760 --> 00:42:49,647
+Nunca se esqueça.
+
+708
+00:43:09,081 --> 00:43:11,216
+Que emocionante.
+
+709
+00:43:11,217 --> 00:43:13,303
+Você pegou o assassino,
+salvou a garota.
+
+710
+00:43:13,304 --> 00:43:17,875
+Você é um detetive.
+Claro, com minha ajuda.
+
+711
+00:43:17,876 --> 00:43:19,921
+Tem uma coisa
+que não consigo descobrir.
+
+712
+00:43:21,739 --> 00:43:23,806
+Como Carter Berkhead
+sabia quais páginas
+
+713
+00:43:23,807 --> 00:43:25,649
+tirar do seu diário?
+
+714
+00:43:28,271 --> 00:43:32,094
+- É uma excelente pergunta.
+- Aqui vai outra:
+
+715
+00:43:33,492 --> 00:43:36,480
+Você armou tudo isso
+para ter-me de volta?
+
+716
+00:43:38,539 --> 00:43:41,583
+Carter, o Quarteto
+e todo o resto?
+
+717
+00:43:41,584 --> 00:43:45,191
+Você está abusando
+da sua imaginação, Malcolm.
+
+718
+00:43:46,375 --> 00:43:48,775
+Nem eu poderia fazer isso.
+
+719
+00:43:53,325 --> 00:43:55,587
+Espere, você não pode ir.
+
+720
+00:43:57,442 --> 00:43:59,831
+- O que você disse?
+- Quero dizer...
+
+721
+00:44:01,352 --> 00:44:02,902
+sinto muito.
+
+722
+00:44:05,192 --> 00:44:08,282
+Devia tê-lo apoiado mais
+para entrar no FBI.
+
+723
+00:44:08,283 --> 00:44:11,488
+Eu era teimoso
+e perdemos dez anos.
+
+724
+00:44:11,836 --> 00:44:15,485
+Mas ver você em ação,
+foi emocionante.
+
+725
+00:44:15,486 --> 00:44:17,436
+Percebi uma coisa.
+
+726
+00:44:18,750 --> 00:44:21,142
+- Posso te ajudar.
+- Não preciso da sua ajuda.
+
+727
+00:44:21,143 --> 00:44:23,854
+Mas pode ter.
+Posso te ensinar mais coisas
+
+728
+00:44:23,855 --> 00:44:25,663
+sobre assassinatos.
+
+729
+00:44:26,885 --> 00:44:29,024
+Talvez possamos resolver
+alguns...
+
+730
+00:44:31,172 --> 00:44:32,697
+juntos.
+
+731
+00:44:35,052 --> 00:44:37,503
+Eu não quero te perder
+de novo.
+
+732
+00:44:40,435 --> 00:44:42,536
+Adeus, Dr. Whitly.
+
+733
+00:44:58,192 --> 00:44:59,692
+Meu garoto.
+
+734
+00:44:59,693 --> 00:45:01,693
+<b>Legende também!
+fb.silneisoares@gmail.com</b>
+
+735
+00:45:01,694 --> 00:45:01,694
+<b>Siga-me no Twitter,
+fique por dentro das novidades!</b>
+
+736
+00:45:04,195 --> 00:45:05,695
+<b>@silneisoaress</b>
+
+737
+00:45:05,696 --> 00:45:05,696
+<b>Tenha acesso exclusivo
+às legendas!</b>
+
+738
+00:45:07,597 --> 00:45:07,597
+<b>www.silneislegendas.com</b>
+
