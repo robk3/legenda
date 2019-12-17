@@ -1,0 +1,4044 @@
+﻿1
+00:00:03,376 --> 00:00:05,376
+<b> <font color="# FF8040"> (zumbido de eletricidade) </font> </b>
+
+2
+00:00:30,837 --> 00:00:33,338
+<b> <font color="# FFFF00"> ♪ ♪ </font> </b>
+
+3
+00:00:48,255 --> 00:00:50,321
+<b> <font color="# FF8040"> (grunhidos) </font> </b>
+
+4
+00:00:50,390 --> 00:00:53,525
+<b> <font color="# FF8040"> (tiros silenciados) </font> </b>
+
+5
+00:00:53,593 --> 00:00:55,226
+Homeborg, alerta de intruso!
+
+6
+00:00:55,295 --> 00:00:57,529
+<b> <font color="# 00FF00"> HOMEBORG</font></b> : Desculpe,
+não sou capaz dessa função.
+
+7
+00:00:57,597 --> 00:01:00,398
+Você pode me perguntar coisas
+como: leia minha lista de tarefas,
+
+8
+00:01:00,467 --> 00:01:03,067
+clima, podcasts, lembretes...
+Homeborg, alerta de intruso!
+
+9
+00:01:03,136 --> 00:01:04,869
+<b> <font color="# FF8040"> (distorcido)</font> </b> : Alerta
+de intruso iniciado.
+
+10
+00:01:04,938 --> 00:01:07,539
+Alerta de intruso iniciado.
+Int...
+
+11
+00:01:08,108 --> 00:01:09,240
+<b> <font color="# FF8040"> (grunhindo) </font> </b>
+
+12
+00:01:12,212 --> 00:01:14,045
+<b> <font color="# FF8040"> (cliques de bloqueio) </font> </b>
+
+13
+00:01:27,060 --> 00:01:28,726
+<b> <font color="# FF8040"> (gritos, grunhidos) </font> </b>
+
+14
+00:01:32,933 --> 00:01:34,399
+<b> <font color="# FF8040"> (grunhidos) </font> </b>
+
+15
+00:01:40,240 --> 00:01:42,218
+Queijo e bolachas, queijo e
+bolachas, queijo e bolachas...
+
+16
+00:01:42,242 --> 00:01:43,875
+<b> <font color="# FF8040"> (ofegante) </font> </b>
+
+17
+00:01:43,944 --> 00:01:45,777
+Oh vamos lá.
+
+18
+00:01:45,845 --> 00:01:47,779
+<b> <font color="# FF8040"> (gaguejos) </font> </b>
+
+19
+00:01:47,847 --> 00:01:50,715
+<b> <font color="# FF8040"> (exala) </font> </b>
+
+20
+00:01:50,784 --> 00:01:53,017
+Ei, ei, ei. Oi! Ei, ei, ei.
+
+21
+00:01:53,086 --> 00:01:54,430
+Você pode apenas esperar?
+Espere um segundo.
+
+22
+00:01:54,454 --> 00:01:56,554
+Vocês, eu-eu-eu preciso de você.
+Porque... <b> <font color="# FF8040"> (grunhidos)</font> </b>
+
+23
+00:01:56,623 --> 00:01:59,257
+Ei ei!  Uh...
+
+24
+00:01:59,326 --> 00:02:00,892
+<b> <font color="# FF8040"> (pneus cantam) </font> </b>
+
+25
+00:02:00,961 --> 00:02:03,261
+<b> <font color="# FF8040"> (sirene apita)</font></b> Opa.
+
+26
+00:02:03,330 --> 00:02:05,496
+Eu posso explicar.
+
+27
+00:02:05,565 --> 00:02:06,427
+Levante as mãos!
+
+28
+00:02:06,451 --> 00:02:08,000
+Eu sabia que o modelo
+10+ era muito grande.
+
+29
+00:02:08,001 --> 00:02:09,912
+Então a bateria de reserva de 72
+horas, você precisa disso.
+
+30
+00:02:09,936 --> 00:02:12,670
+E eu estou na tecnologia.
+Você pode ver minha situação, certo?
+
+31
+00:02:12,739 --> 00:02:15,206
+<b> <font color="# FF8040"> (grunhidos)</font> </b> Por favor.
+Eu estou com o NCIS.
+
+32
+00:02:15,275 --> 00:02:18,042
+<b> <font color="# FF8040"> (slurring)</font> </b> : Você pode
+falar com Henrietta.
+
+33
+00:02:18,111 --> 00:02:19,944
+<b> <font color="# FF8040"> (chiando) </font> </b>
+
+34
+00:02:25,919 --> 00:02:29,919
+<b> <font color="# 00FF00"> ♪ NCIS: LA 11x09 ♪</font> </b> <font color="# 00FFFF"> Kill Beale: vol. 1</font>
+Data original do ar em 24 de novembro de 2019
+
+35
+00:02:29,943 --> 00:02:37,043
+== sincronização,
+corrigida por <font color="# 00FF00"> elderman</font> == <font color="# 00FFFF"> @ elder_man</font>
+
+36
+00:02:37,067 --> 00:02:45,856
+<b> <font color="# FFFF00"> ♪ ♪ </font> </b>
+
+37
+00:02:46,272 --> 00:02:48,139
+Por mais que eu goste
+de começar cedo,
+
+38
+00:02:48,208 --> 00:02:50,541
+até as cafeterias
+não abrem até as 16h,
+
+39
+00:02:50,610 --> 00:02:52,877
+e este café gotejante não
+vai cortá-lo tão cedo.
+
+40
+00:02:52,946 --> 00:02:54,112
+Sim.  Conte-me sobre isso.
+
+41
+00:02:54,180 --> 00:02:56,447
+Eu tive que recorrer a bebidas
+energéticas em postos de gasolina.
+
+42
+00:02:56,516 --> 00:02:58,249
+Provavelmente vai me matar?
+Certo.
+
+43
+00:02:58,318 --> 00:03:00,029
+Mas com Deeks ausente na missão da
+polícia de Los Angeles a semana toda,
+
+44
+00:03:00,053 --> 00:03:01,753
+não há ninguém aqui
+para me impedir. Mmm.
+
+45
+00:03:01,821 --> 00:03:04,522
+Então, eu estou desfrutando de uma
+merecida estadia em uma senhora
+
+46
+00:03:04,591 --> 00:03:07,725
+com Lizzo e junk food com produtos
+químicos durante toda a semana.
+
+47
+00:03:07,794 --> 00:03:10,461
+OK. Exatamente quanto
+disso você consumiu?
+
+48
+00:03:10,530 --> 00:03:12,074
+Estou um pouco trêmula,
+não vou mentir para você.
+
+49
+00:03:12,098 --> 00:03:13,197
+Mas eu estou bem. Caramba.
+
+50
+00:03:13,299 --> 00:03:15,767
+<b> <font color="# FF8040"> (telefone tocando)</font> </b> Ooh.
+Ligue de Hetty.
+
+51
+00:03:15,835 --> 00:03:16,835
+Você pode querer...
+
+52
+00:03:16,903 --> 00:03:18,102
+Sim, sim, sim.
+
+53
+00:03:18,171 --> 00:03:19,370
+Olá, Hetty.
+
+54
+00:03:19,439 --> 00:03:21,539
+Jones, Sra. Blye.
+
+55
+00:03:21,608 --> 00:03:24,642
+Agradeço por ter vindo tão
+rapidamente a essa hora.
+
+56
+00:03:24,711 --> 00:03:26,744
+O que está acontecendo?
+Todos estão bem?
+
+57
+00:03:26,813 --> 00:03:30,882
+O Sr. Beale foi preso
+pelo DP de São Francisco.
+
+58
+00:03:31,918 --> 00:03:33,451
+Espera, E-Eric?
+
+59
+00:03:33,520 --> 00:03:34,819
+Para quê?
+
+60
+00:03:34,888 --> 00:03:37,188
+Sua campanha de D&D
+foi longe demais?
+
+61
+00:03:37,257 --> 00:03:39,557
+Bem, é um pouco mais
+sério do que isso.
+
+62
+00:03:39,626 --> 00:03:40,903
+De acordo com este relatório policial,
+
+63
+00:03:40,927 --> 00:03:43,027
+ele foi vítima de uma invasão
+de casa ontem à noite.
+
+64
+00:03:43,096 --> 00:03:44,362
+Ele está bem?
+
+65
+00:03:44,431 --> 00:03:47,365
+Ah, sim, ele está bem.
+Apenas um pouco abalado.
+
+66
+00:03:47,434 --> 00:03:49,867
+Aparentemente,
+ele quebrou a janela de uma viatura
+
+67
+00:03:49,936 --> 00:03:51,302
+durante sua fuga.
+
+68
+00:03:51,371 --> 00:03:52,770
+Com um telefone celular.
+
+69
+00:03:52,839 --> 00:03:54,639
+O que?
+
+70
+00:03:54,708 --> 00:03:56,652
+Eu disse a ele que o
+10+ seria muito grande.
+
+71
+00:03:56,653 --> 00:03:58,921
+Hetty, você acha que isso tem algo
+a ver com o novo emprego dele?
+
+72
+00:03:58,945 --> 00:04:00,511
+ou talvez seu status com NCIS?
+
+73
+00:04:00,580 --> 00:04:02,780
+Muito cedo para contar.
+
+74
+00:04:02,849 --> 00:04:06,617
+Agora tenho Sam e Callen a
+caminho de São Francisco.
+
+75
+00:04:08,855 --> 00:04:11,756
+Ele está em boas mãos, Srta. Jones.
+
+76
+00:04:13,193 --> 00:04:15,960
+Sinto como se, e - e por
+favor, não leve a mal,
+
+77
+00:04:16,029 --> 00:04:20,865
+mas estou apenas sentindo que
+você ainda está com raiva de mim.
+
+78
+00:04:20,934 --> 00:04:23,067
+O que lhe daria essa ideia?
+
+79
+00:04:25,672 --> 00:04:27,905
+Apenas um palpite.
+
+80
+00:04:29,175 --> 00:04:30,942
+Continue bebendo seu café, ok?
+
+81
+00:04:31,010 --> 00:04:34,312
+Não tenho tempo para você
+adormecer pela 18ª vez.
+
+82
+00:04:34,380 --> 00:04:36,514
+Ei!  Ei!
+
+83
+00:04:36,583 --> 00:04:38,349
+Sim. <b> <font color="# FF8040"> (grunhidos)</font></b>
+
+84
+00:04:38,418 --> 00:04:40,718
+É como entrevistar
+uma maldita preguiça.
+
+85
+00:04:40,787 --> 00:04:42,420
+Bebida. Desculpe, eu...
+
+86
+00:04:42,489 --> 00:04:44,922
+não sei o que aconteceu comigo.
+
+87
+00:04:44,991 --> 00:04:46,124
+Exceto uma bala.
+
+88
+00:04:46,192 --> 00:04:48,259
+Pastado.
+
+89
+00:04:48,328 --> 00:04:50,194
+Você foi atingido por uma bala.
+
+90
+00:04:50,263 --> 00:04:53,464
+Mal deixou uma marca.
+
+91
+00:04:53,533 --> 00:04:55,133
+<b> <font color="# FF8040"> (silenciosamente)</font></b> : Ok...
+
+92
+00:04:55,201 --> 00:04:58,369
+Eu sou NCIS, você é SFPD.
+
+93
+00:04:58,438 --> 00:05:00,571
+Por uma questão de
+relações de agência,
+
+94
+00:05:00,640 --> 00:05:02,740
+Estou disposto a deixar
+tudo isso para trás.
+
+95
+00:05:02,809 --> 00:05:04,542
+<b> <font color="# FF8040"> (porta se abre) </font> </b>
+
+96
+00:05:04,611 --> 00:05:08,946
+Sr. Beale,
+a sua história confirma.
+
+97
+00:05:09,015 --> 00:05:12,116
+Tenho dois agentes do
+NCIS aqui para buscá-lo.
+
+98
+00:05:12,185 --> 00:05:15,319
+Graças a Deus.
+Não que não tenha sido um prazer.
+
+99
+00:05:19,926 --> 00:05:21,859
+Hmm. Não quem eu estava esperando.
+<b>R<font color="# D09090">OBIN  </font>:</b> Sr. Beale,
+
+100
+00:05:21,928 --> 00:05:23,761
+Sou o Agente Especial Robin IP
+
+101
+00:05:23,830 --> 00:05:25,496
+do escritório NCIS de Monterey.
+
+102
+00:05:25,565 --> 00:05:27,965
+Hetty Lange está enviando
+dois agentes de Los Angeles
+
+103
+00:05:28,034 --> 00:05:29,667
+para buscá-lo,
+mas nesse meio tempo,
+
+104
+00:05:29,736 --> 00:05:32,403
+meu parceiro e eu fomos
+encarregados de mantê-lo seguro.
+
+105
+00:05:32,472 --> 00:05:36,407
+Ou ela terá nossa cabeça em uma
+travessa de torrada de abacate.
+
+106
+00:05:36,476 --> 00:05:38,142
+Esse é o meu Hetty.
+
+107
+00:05:38,211 --> 00:05:39,145
+<b> <font color="# FF8040"> (risadas) </font> </b>
+
+108
+00:05:39,169 --> 00:05:40,846
+Chegamos aqui o mais
+rápido que pudemos.
+
+109
+00:05:40,847 --> 00:05:42,480
+E, aparentemente,
+por um bom motivo.
+
+110
+00:05:42,549 --> 00:05:44,182
+Com licença, oficiais,
+o seu distrito
+
+111
+00:05:44,250 --> 00:05:46,250
+costuma tratar outras
+agências dessa maneira?
+
+112
+00:05:50,323 --> 00:05:52,089
+OK. Vamos, Eric.
+Tenho certeza que meu parceiro
+
+113
+00:05:52,158 --> 00:05:53,758
+tem uma camisa extra
+limpa no carro.
+
+114
+00:05:53,827 --> 00:05:55,293
+Oh  Você sabe o que?  Na realidade,
+
+115
+00:05:55,361 --> 00:05:58,196
+Eu não me importaria de um moletom do
+Departamento de Polícia de San Francisco.
+
+116
+00:05:58,264 --> 00:06:00,231
+Talvez da divisão de detetives?
+
+117
+00:06:00,300 --> 00:06:02,700
+Não?  Uh, uma camisa de beisebol?
+
+118
+00:06:02,769 --> 00:06:04,502
+Uma camiseta? Regata?
+
+119
+00:06:04,571 --> 00:06:06,170
+Moeda de desafio?
+Está bem então.
+
+120
+00:06:06,239 --> 00:06:08,639
+Devemos? OK. Sim, ok.
+
+121
+00:06:10,577 --> 00:06:12,977
+Alguma notícia do SFPD?
+
+122
+00:06:13,046 --> 00:06:14,779
+Sim, eles enviaram policiais
+para o apartamento dele,
+
+123
+00:06:14,848 --> 00:06:16,814
+mas nada parece ter sido tomado.
+
+124
+00:06:16,883 --> 00:06:21,853
+A TV ainda está na parede,
+a carteira apenas na cômoda.
+
+125
+00:06:21,955 --> 00:06:23,354
+Alguma notícia do Eric?
+
+126
+00:06:23,423 --> 00:06:25,189
+Eu continuo verificando seu
+quadro de mensagens, mas...
+
+127
+00:06:25,258 --> 00:06:27,491
+não, nada ainda.
+
+128
+00:06:27,560 --> 00:06:30,628
+Ele provavelmente está
+apenas esperando para ligar.
+
+129
+00:06:30,697 --> 00:06:34,365
+Na verdade, não foi nada
+nas últimas duas semanas.
+
+130
+00:06:34,434 --> 00:06:35,878
+Vocês não falam há duas semanas?
+
+131
+00:06:35,902 --> 00:06:37,235
+Não.
+
+132
+00:06:38,771 --> 00:06:41,639
+Quero dizer, provavelmente está bem.
+
+133
+00:06:41,708 --> 00:06:44,508
+É isso?
+
+134
+00:06:44,577 --> 00:06:47,445
+Inicialmente, pensei que era
+apenas um sintoma do novo emprego.
+
+135
+00:06:47,513 --> 00:06:49,313
+Sabe, ele iria e eu ficaria...
+
+136
+00:06:49,382 --> 00:06:49,882
+Hum-hum.
+
+137
+00:06:49,906 --> 00:06:52,573
+... e nós simplesmente não
+nos ouvíamos por um tempo.
+
+138
+00:06:52,652 --> 00:06:57,021
+Mas sempre nos
+reconectamos eventualmente.
+
+139
+00:06:57,090 --> 00:06:59,190
+Isso meio que se
+tornou a nova norma.
+
+140
+00:06:59,259 --> 00:07:03,961
+Mas agora não posso deixar
+de pensar que talvez
+
+141
+00:07:04,030 --> 00:07:07,765
+Eu estava tão ocupado sendo ocupado que...
+
+142
+00:07:07,834 --> 00:07:09,367
+de alguma forma eu perdi alguma coisa.
+
+143
+00:07:10,370 --> 00:07:12,970
+Ouça, como você sabe muito bem,
+
+144
+00:07:13,039 --> 00:07:15,573
+Estive lá e fiz isso.
+
+145
+00:07:15,642 --> 00:07:19,043
+Deeks e eu fomos separados
+por continentes por meses
+
+146
+00:07:19,112 --> 00:07:20,378
+sem nenhum contato.
+
+147
+00:07:20,446 --> 00:07:22,046
+E nós estamos bem. Eu sei,
+
+148
+00:07:22,115 --> 00:07:25,493
+mas vocês não
+escolheram fazer isso.
+
+149
+00:07:25,517 --> 00:07:27,052
+Ei.
+
+150
+00:07:27,053 --> 00:07:30,655
+Eric está bem.
+Ele vai ficar bem.
+
+151
+00:07:30,723 --> 00:07:33,190
+E vocês dois vão ficar bem.
+
+152
+00:07:34,227 --> 00:07:37,461
+Sim.  Claro.
+
+153
+00:07:38,498 --> 00:07:39,897
+<b> <font color="# FF8040"> (sinais sonoros para tablets) </font> </b>
+
+154
+00:07:39,966 --> 00:07:41,866
+Oh  Bem na hora.
+
+155
+00:07:41,935 --> 00:07:44,769
+Callen e Sam acabaram
+de desembarcar na SFO.
+
+156
+00:07:47,674 --> 00:07:49,607
+<b> <font color="# 808080"> MULHER</font> <font color="# FF8040"> (acima de P.A.)</font> </b>
+: Assalto e homicídio...
+
+157
+00:07:49,676 --> 00:07:51,075
+Tem que amar San Francisco.
+
+158
+00:07:51,144 --> 00:07:52,576
+Sim, bem, o que não é amar?
+
+159
+00:07:52,645 --> 00:07:54,712
+São as alegrias de L.A.
+sem o calor.
+
+160
+00:07:54,781 --> 00:07:57,348
+Você não viu a camada de neblina
+que atravessamos para entrar?
+
+161
+00:07:57,417 --> 00:07:58,683
+Eu pensei que era a pista.
+
+162
+00:07:58,751 --> 00:08:00,785
+Qual é o ponto da luz solar
+se você não pode vê-la?
+
+163
+00:08:00,853 --> 00:08:02,131
+Você está falando com o homem errado.
+
+164
+00:08:02,155 --> 00:08:03,955
+Eu moro na marina.
+Eu vivo para o nevoeiro.
+
+165
+00:08:04,023 --> 00:08:05,923
+Hum-hum.  Como vai?
+
+166
+00:08:05,992 --> 00:08:08,025
+Agente Especial NCIS Callen,
+Agente Especial Hanna.
+
+167
+00:08:08,094 --> 00:08:09,360
+Estamos aqui para Eric Beale.
+
+168
+00:08:09,429 --> 00:08:11,195
+O cara que quebrou a janela?
+
+169
+00:08:11,264 --> 00:08:12,863
+Oh  Como poderíamos esquecer?
+
+170
+00:08:12,932 --> 00:08:15,199
+Um minuto por favor.
+Vou ligar para Nancy.
+
+171
+00:08:15,268 --> 00:08:16,946
+Ela é uma das policiais
+que cuidam do caso.
+
+172
+00:08:16,970 --> 00:08:18,069
+Obrigado.
+
+173
+00:08:18,137 --> 00:08:21,138
+Oficial McGrath na
+frente, por favor.
+
+174
+00:08:22,709 --> 00:08:24,408
+Vocês realmente
+trabalham com esse cara?
+
+175
+00:08:24,477 --> 00:08:26,010
+Todo dia.
+
+176
+00:08:26,079 --> 00:08:27,278
+Ugh.
+
+177
+00:08:27,347 --> 00:08:28,679
+<b> <font color="# FF8040"> (risadas)</font></b> Você não tem idéia.
+
+178
+00:08:28,748 --> 00:08:30,748
+Bem, então, eu te saúdo.
+
+179
+00:08:30,817 --> 00:08:32,750
+Obrigado por seu
+serviço e tudo isso.
+
+180
+00:08:32,819 --> 00:08:34,685
+É nosso prazer. Hum-hum.
+
+181
+00:08:34,754 --> 00:08:37,421
+Senhores, como posso ajudá-lo?
+
+182
+00:08:37,490 --> 00:08:39,423
+NCIS.
+Estamos aqui para Eric Beale.
+
+183
+00:08:40,994 --> 00:08:42,560
+O quebrador de janela. Sério?
+
+184
+00:08:42,628 --> 00:08:44,595
+Ele saiu.
+
+185
+00:08:44,664 --> 00:08:45,696
+Como assim ele foi embora?
+
+186
+00:08:45,765 --> 00:08:47,665
+Com sua agência.
+
+187
+00:08:47,734 --> 00:08:48,966
+Dois agentes NCIS
+
+188
+00:08:49,035 --> 00:08:50,968
+veio buscá-lo cerca
+de uma hora atrás.
+
+189
+00:09:01,641 --> 00:09:03,741
+Mais uma vez obrigado pelas roupas.
+Claro.
+
+190
+00:09:03,810 --> 00:09:05,476
+Sim, eu geralmente tento
+manter, uh,
+
+191
+00:09:05,545 --> 00:09:07,645
+produtos orgânicos de comércio
+justo, quando possível,
+
+192
+00:09:07,714 --> 00:09:09,480
+mas estes também são bons.
+
+193
+00:09:09,549 --> 00:09:10,748
+<b> <font color="# FF8040"> (grunhidos) </font> </b>
+
+194
+00:09:10,817 --> 00:09:12,817
+Vocês têm um celular que
+eu poderia emprestar?
+
+195
+00:09:12,886 --> 00:09:16,154
+Desculpe Eric. Hetty insistiu
+em manter o silêncio do rádio
+
+196
+00:09:16,222 --> 00:09:17,922
+até seus colegas chegarem.
+
+197
+00:09:17,991 --> 00:09:19,824
+Oh, certo.  Sim, isso é inteligente.
+
+198
+00:09:19,893 --> 00:09:21,593
+É que Nell ficará preocupado.
+
+199
+00:09:21,661 --> 00:09:24,295
+Ela é minha analista
+de inteligência.
+
+200
+00:09:24,364 --> 00:09:26,664
+Uh-- não "meu" analista de
+inteligência pessoalmente.
+
+201
+00:09:26,733 --> 00:09:28,232
+Ela é analista de inteligência.
+
+202
+00:09:28,301 --> 00:09:29,545
+Como, um dos vários
+analistas de inteligência
+
+203
+00:09:29,569 --> 00:09:31,803
+com quem trabalho.
+Rádio silêncio.
+
+204
+00:09:34,808 --> 00:09:36,741
+Mas um de vocês deve ter,
+como, um laptop ou um...
+
+205
+00:09:36,810 --> 00:09:39,377
+Não. Sinto muito, Eric,
+
+206
+00:09:39,446 --> 00:09:41,379
+mas temos nossos
+pedidos do seu chefe.
+
+207
+00:09:41,448 --> 00:09:43,948
+Somos uma caixa preta até os
+agentes de Hetty chegarem aqui.
+
+208
+00:09:44,017 --> 00:09:46,584
+Consegui.
+Você deveria tentar descansar.
+
+209
+00:09:46,653 --> 00:09:48,486
+Você passou por muita
+coisa hoje à noite.
+
+210
+00:09:48,555 --> 00:09:50,099
+Não é essa a verdade, irmão?
+<b>(<font color="# FF8040">risadas) </font></b>
+
+211
+00:09:50,123 --> 00:09:51,990
+<b> <font color="# FF8040"> (inspira bruscamente) </font> </b>
+
+212
+00:09:52,058 --> 00:09:54,292
+<b> <font color="# FF8040"> (suspiros) </font> </b>
+
+213
+00:09:54,361 --> 00:09:55,960
+<b> <font color="# FF8040"> (resmunga baixinho) </font> </b>
+
+214
+00:09:56,029 --> 00:09:57,640
+É que eles me deram tanto café,
+
+215
+00:09:57,664 --> 00:10:00,531
+você sabe, provavelmente
+por eu ter sido baleado.
+
+216
+00:10:00,600 --> 00:10:02,266
+Pastado.
+
+217
+00:10:02,335 --> 00:10:03,434
+Eles dizem que isso é pior.
+
+218
+00:10:03,503 --> 00:10:05,370
+Não, eles não.
+
+219
+00:10:05,438 --> 00:10:08,006
+Então, como devo chamar vocês?
+
+220
+00:10:08,074 --> 00:10:09,674
+Hmm? Por favor, não o encoraje.
+
+221
+00:10:09,743 --> 00:10:13,077
+Vamos. Vocês devem ter
+apelidos dentro da agência.
+
+222
+00:10:13,146 --> 00:10:14,612
+<b> <font color="# FF8040"> (risadas)</font> </b> Eles
+costumavam me chamar
+
+223
+00:10:14,681 --> 00:10:16,514
+Flash Bang-- eh,
+isso é uma longa história.
+
+224
+00:10:16,583 --> 00:10:20,785
+Mas se você já os ouviu
+falar sobre Bulletproof,
+
+225
+00:10:20,854 --> 00:10:22,286
+vocês o conheceram. <b> <font color="# FF8040"> (risadas)</font></b>
+
+226
+00:10:22,355 --> 00:10:23,933
+<b> <font color="# FF8040"> (risadas)</font> </b> Oh, meu Deus.
+Os caras vão estar
+
+227
+00:10:23,957 --> 00:10:26,224
+se matando quando descobrem
+que o Bulletproof Beale
+
+228
+00:10:26,292 --> 00:10:29,293
+sobreviveu a mais um tiro.
+
+229
+00:10:30,563 --> 00:10:31,829
+Pastado.
+
+230
+00:10:31,898 --> 00:10:35,199
+Semântica. <b> <font color="# FF8040"> (limpa a garganta)</font></b>
+
+231
+00:10:35,268 --> 00:10:37,568
+<b> <font color="# FF8040"> (risadas) </font> </b>
+
+232
+00:10:37,637 --> 00:10:38,970
+<b> <font color="# FF8040"> (suspiros) </font> </b>
+
+233
+00:10:39,039 --> 00:10:40,672
+Ei, alguma novidade?
+
+234
+00:10:40,740 --> 00:10:44,142
+Acabei de falar com a nossa
+unidade residente em Monterey.
+
+235
+00:10:44,210 --> 00:10:45,710
+Eles não têm nenhum agente
+
+236
+00:10:45,779 --> 00:10:47,679
+correspondendo à descrição
+que SFPD nos deu.
+
+237
+00:10:47,747 --> 00:10:49,213
+E as outras agências?
+
+238
+00:10:49,282 --> 00:10:52,617
+Bem, não se eles estiverem a
+300 milhas de São Francisco.
+
+239
+00:10:52,686 --> 00:10:55,286
+Eu basicamente entrei em contato com
+todas as agências governamentais,
+
+240
+00:10:55,355 --> 00:10:57,588
+falta do Serviço Postal
+dos Estados Unidos.
+
+241
+00:10:57,657 --> 00:11:00,091
+Agora eu estou classificando
+essas imagens de vigilância
+
+242
+00:11:00,160 --> 00:11:02,126
+procurando nossos dois
+agentes misteriosos,
+
+243
+00:11:02,195 --> 00:11:04,962
+mas quem quer que sejam,
+eles fizeram um trabalho estelar
+
+244
+00:11:05,031 --> 00:11:07,532
+de evitar ser pego em
+qualquer câmera de segurança.
+
+245
+00:11:07,600 --> 00:11:09,512
+Bem, eles devem ter apresentado
+um show bastante convincente
+
+246
+00:11:09,536 --> 00:11:12,303
+se Eric fosse com eles.
+Sim, eles devem ter.
+
+247
+00:11:12,372 --> 00:11:14,338
+O que eu não consigo entender é:
+
+248
+00:11:14,407 --> 00:11:16,307
+por que levar Eric
+em primeiro lugar?
+
+249
+00:11:16,376 --> 00:11:18,020
+E por que se expor, pegando-o
+
+250
+00:11:18,044 --> 00:11:19,410
+na frente de um
+bando de policiais.
+
+251
+00:11:19,479 --> 00:11:21,524
+Quero dizer, mesmo para um
+profissional, isso é super arriscado.
+
+252
+00:11:21,548 --> 00:11:25,450
+Exatamente.
+Então os invasores de casa invadem,
+
+253
+00:11:25,518 --> 00:11:27,485
+eles perseguem Eric para
+fora do apartamento,
+
+254
+00:11:27,554 --> 00:11:29,220
+e eles não levam nada.
+
+255
+00:11:29,289 --> 00:11:31,255
+E então,
+mais tarde naquela mesma noite,
+
+256
+00:11:31,324 --> 00:11:33,591
+Eric é retirado da
+custódia do SFPD
+
+257
+00:11:33,660 --> 00:11:35,259
+por dois "agentes" não identificados
+
+258
+00:11:36,696 --> 00:11:40,865
+Isso nunca foi um
+assalto, foi um sequestro.
+
+259
+00:11:40,934 --> 00:11:43,234
+Eles o assistiram
+escapar com o SFPD.
+
+260
+00:11:43,303 --> 00:11:46,304
+E então eles voltaram para a
+delegacia para terminar o trabalho.
+
+261
+00:11:56,549 --> 00:11:58,282
+Oh
+
+262
+00:11:58,351 --> 00:12:00,551
+Bom lugar que você chegou aqui.
+
+263
+00:12:00,620 --> 00:12:03,588
+Vocês se empenharam no fator
+assustador infestado de crimes.
+
+264
+00:12:03,656 --> 00:12:07,058
+Estou realmente cavando todo o
+motivo do restaurante abandonado.
+
+265
+00:12:07,127 --> 00:12:08,626
+Temos um barco.
+
+266
+00:12:08,695 --> 00:12:10,439
+Tem um alçapão,
+vai direto para a marina.
+
+267
+00:12:10,463 --> 00:12:12,029
+Isso é bem legal.
+
+268
+00:12:12,098 --> 00:12:13,564
+Vocês têm um alçapão?
+
+269
+00:12:13,633 --> 00:12:15,666
+Talvez isso desça para
+um esgoto abandonado
+
+270
+00:12:15,735 --> 00:12:17,068
+ou algo assim? Não?
+
+271
+00:12:17,137 --> 00:12:18,814
+Podemos compartilhar isso entre escritórios
+de campo, certo? Isso é uma coisa?
+
+272
+00:12:18,838 --> 00:12:21,539
+Logo estará claro. Eu sinto que
+deveríamos levá-lo para dentro
+
+273
+00:12:21,608 --> 00:12:24,342
+antes que alguém te veja.
+Oh, copie isso.
+
+274
+00:12:24,410 --> 00:12:26,711
+Eu vivo nas sombras.
+
+275
+00:12:28,748 --> 00:12:29,814
+Ooh.
+
+276
+00:12:32,685 --> 00:12:34,018
+Vou resolvê-lo.
+
+277
+00:12:48,034 --> 00:12:49,567
+<b> <font color="# 808080"> MULHER</font></b> : Por aqui, senhores.
+
+278
+00:12:49,636 --> 00:12:51,569
+Obrigado.
+
+279
+00:12:53,573 --> 00:12:54,705
+Caramba.
+
+280
+00:12:58,211 --> 00:12:59,410
+Não é exatamente o meu gosto,
+
+281
+00:12:59,479 --> 00:13:02,780
+mas talvez eu, de 12
+anos, tenha gostado.
+
+282
+00:13:02,849 --> 00:13:05,716
+Dez dólares dizem que ele tem uma cama
+de carro de corrida no outro quarto.
+
+283
+00:13:05,785 --> 00:13:08,119
+Você sabe,
+eu aceitaria essa aposta, mas
+
+284
+00:13:08,188 --> 00:13:10,188
+Eu não vou checar.
+
+285
+00:13:10,256 --> 00:13:12,423
+Algumas coisas não
+podem ser invisíveis.
+
+286
+00:13:15,895 --> 00:13:17,528
+Isso é um inferno de luta.
+
+287
+00:13:17,597 --> 00:13:19,997
+Sim, Beale tem sorte
+que ele conseguiu.
+
+288
+00:13:20,066 --> 00:13:22,066
+Sim.
+
+289
+00:13:25,071 --> 00:13:26,304
+Confira.
+
+290
+00:13:31,211 --> 00:13:34,212
+Uma fléchette.
+
+291
+00:13:34,280 --> 00:13:36,814
+Poderia ser de uma das armas
+de ficção científica de Eric.
+
+292
+00:13:36,883 --> 00:13:38,216
+Talvez, mas usando
+
+293
+00:13:38,284 --> 00:13:40,618
+uma pistola de CO2 explicaria por
+que nenhum dos vizinhos de Beale
+
+294
+00:13:40,687 --> 00:13:42,186
+relataram ter ouvido tiros.
+
+295
+00:13:42,255 --> 00:13:44,155
+É oco.
+
+296
+00:13:44,224 --> 00:13:46,424
+A dica parece ser uma
+agulha hipodérmica.
+
+297
+00:13:46,492 --> 00:13:48,359
+Talvez seja algum tipo
+de dardo tranquilizante.
+
+298
+00:13:48,428 --> 00:13:50,761
+Isso é bastante avançado para
+alguns criminosos comuns.
+
+299
+00:13:50,830 --> 00:13:53,898
+Eu diria que Kensi e Nell estão
+certos sobre o ângulo do seqüestro.
+
+300
+00:13:53,967 --> 00:13:57,635
+Então dois pistoleiros invadem,
+Beale consegue escapar.
+
+301
+00:13:59,172 --> 00:14:01,439
+Então agentes falsos
+aparecem no SFPD
+
+302
+00:14:01,507 --> 00:14:03,507
+duas horas depois,
+alegando ser NCIS?
+
+303
+00:14:03,576 --> 00:14:05,020
+Como eles descobriram isso?
+
+304
+00:14:05,044 --> 00:14:07,289
+Bem, eles teriam que
+saber que ele já era NCIS.
+
+305
+00:14:07,313 --> 00:14:08,913
+O que você acha que eles
+deram um bug no telefone dele?
+
+306
+00:14:08,948 --> 00:14:10,915
+Whoa-whoa. O que?
+
+307
+00:14:10,984 --> 00:14:12,617
+Você está prestes a pisar
+
+308
+00:14:12,685 --> 00:14:14,325
+na coisa mais
+perigosa deste lugar.
+
+309
+00:14:14,354 --> 00:14:16,187
+Isso é um brinquedo.
+Não, você está errado.
+
+310
+00:14:16,256 --> 00:14:19,390
+É uma mina terrestre para pais
+desavisados ​​e descalços.
+
+311
+00:14:21,427 --> 00:14:22,894
+Se você tivesse
+filhos, saberia disso.
+
+312
+00:14:24,197 --> 00:14:25,897
+Eles já sabiam que Eric era NCIS
+
+313
+00:14:25,965 --> 00:14:28,532
+antes de irem para a delegacia.
+
+314
+00:14:28,601 --> 00:14:30,801
+Nell disse que Eric o tratava
+como se estivesse disfarçado,
+
+315
+00:14:30,870 --> 00:14:32,470
+zero contato com NCIS.
+
+316
+00:14:32,538 --> 00:14:33,916
+Bem, eles não poderiam ter
+simplesmente ligado o telefone.
+
+317
+00:14:33,940 --> 00:14:35,460
+Eles teriam que estar olhando
+para ele de alguma forma.
+
+318
+00:14:40,213 --> 00:14:41,812
+Hã.
+
+319
+00:14:41,881 --> 00:14:43,247
+Eles incomodaram o lugar.
+
+320
+00:14:43,316 --> 00:14:45,917
+E que maneira melhor
+do que alguma coisa
+
+321
+00:14:45,985 --> 00:14:48,953
+que possui acesso Bluetooth
+completo a toda a sua casa?
+
+322
+00:15:08,852 --> 00:15:09,984
+<b> <font color="# FF8040"> (o telefone toca) </font> </b>
+
+323
+00:15:11,020 --> 00:15:11,710
+Callen.
+
+324
+00:15:11,711 --> 00:15:13,538
+Kens.  Nell está com você?
+
+325
+00:15:13,539 --> 00:15:14,839
+Hum,
+
+326
+00:15:14,907 --> 00:15:17,715
+ela está conversando com SFPD.
+Por quê?
+
+327
+00:15:17,716 --> 00:15:19,009
+Ok, bom. Provavelmente é melhor
+
+328
+00:15:19,078 --> 00:15:21,345
+entre nós. Ei, como ela está?
+
+329
+00:15:21,414 --> 00:15:23,481
+Quero dizer, ela está segurando.
+
+330
+00:15:23,549 --> 00:15:25,227
+Encontraram alguma coisa
+no apartamento do Eric?
+
+331
+00:15:25,251 --> 00:15:27,296
+Sim. Eu acho que vocês estavam
+certos sobre o sequestro.
+
+332
+00:15:27,320 --> 00:15:29,198
+Parece que alguém o
+observa há um tempo.
+
+333
+00:15:29,222 --> 00:15:30,899
+Parece que eles estavam usando seu
+dispositivo de assistente pessoal
+
+334
+00:15:30,923 --> 00:15:32,089
+para observá-lo.
+
+335
+00:15:32,158 --> 00:15:34,291
+Se alguém fosse capaz de
+invadir, poderia acessar
+
+336
+00:15:34,360 --> 00:15:35,971
+todas as câmeras e
+microfones neste lugar.
+
+337
+00:15:35,995 --> 00:15:38,062
+Permitindo-lhes
+ver e ouvir tudo.
+
+338
+00:15:38,131 --> 00:15:39,830
+Como eles escaparam de Beale?
+
+339
+00:15:39,899 --> 00:15:41,966
+Quero dizer,
+o homem nasceu teórico da conspiração.
+
+340
+00:15:42,034 --> 00:15:44,435
+Ele é um documentário da Área 51 longe
+de usar um chapéu de papel alumínio.
+
+341
+00:15:44,504 --> 00:15:46,081
+Bem, se ele soubesse que
+alguém estava olhando para ele,
+
+342
+00:15:46,105 --> 00:15:47,271
+ele teria informado o NCIS.
+
+343
+00:15:47,340 --> 00:15:49,406
+Bem, então por que nenhum
+de nós ouviu falar disso?
+
+344
+00:15:53,980 --> 00:15:56,147
+Talvez um de nós tenha.
+
+345
+00:16:01,287 --> 00:16:02,786
+<b> <font color="# 0080FF"> KENSI</font></b> : Hetty,
+
+346
+00:16:02,855 --> 00:16:04,421
+posso falar com você, por favor?
+
+347
+00:16:04,490 --> 00:16:05,890
+Bom dia para você também
+
+348
+00:16:05,958 --> 00:16:07,124
+Senhora Blye.
+
+349
+00:16:07,193 --> 00:16:09,360
+Bom Dia.
+
+350
+00:16:09,428 --> 00:16:11,162
+Hmm?
+Oh, não, eu sou, eu sou bom.
+
+351
+00:16:11,230 --> 00:16:12,997
+Na verdade,
+eu estou cheia de cafeína.
+
+352
+00:16:13,065 --> 00:16:15,666
+Você pode se sentar. Obrigado.
+
+353
+00:16:15,735 --> 00:16:18,435
+OK. Gostaria de falar
+com você sobre o Eric.
+
+354
+00:16:18,504 --> 00:16:20,504
+Acabei de ouvir de Callen e Sam,
+
+355
+00:16:20,573 --> 00:16:23,974
+e eles disseram que a rede
+doméstica de Eric foi comprometida.
+
+356
+00:16:24,043 --> 00:16:26,010
+Agora, quem o pegou da delegacia
+
+357
+00:16:26,078 --> 00:16:27,845
+estava obviamente
+observando-o de perto,
+
+358
+00:16:27,914 --> 00:16:30,881
+porque se eles estão dispostos
+a fazer isso na frente do SFPD,
+
+359
+00:16:30,950 --> 00:16:32,416
+é porque eles encontraram algo.
+
+360
+00:16:32,485 --> 00:16:34,885
+Então por favor me diga,
+
+361
+00:16:34,954 --> 00:16:37,388
+o que Eric estava
+fazendo em San Francisco?
+
+362
+00:16:39,525 --> 00:16:41,992
+O Sr. Beale foi recrutado
+
+363
+00:16:42,061 --> 00:16:45,396
+por uma empresa de tecnologia
+
+364
+00:16:45,464 --> 00:16:48,432
+chamado Logic Wide.
+
+365
+00:16:48,501 --> 00:16:50,901
+Apenas mais um em uma longa fila
+
+366
+00:16:50,970 --> 00:16:53,704
+das startups do Vale do Silício.
+
+367
+00:16:53,773 --> 00:16:55,272
+E você deixou ele aceitar esse trabalho?
+
+368
+00:16:55,341 --> 00:16:58,375
+Eles ofereceram a ele
+um grande incentivo
+
+369
+00:16:58,444 --> 00:17:02,613
+para fazer parte desta nova
+oportunidade do think tank.
+
+370
+00:17:02,682 --> 00:17:05,549
+<b> <font color="# FF8040"> (suspiros)</font> </b> Esse é um
+emprego dos sonhos para ele.
+
+371
+00:17:05,618 --> 00:17:08,686
+Do lado de fora, era,
+mas como em todas as coisas,
+
+372
+00:17:08,754 --> 00:17:11,422
+se é bom demais para ser verdade,
+
+373
+00:17:11,490 --> 00:17:13,490
+certamente é.
+
+374
+00:17:13,559 --> 00:17:15,626
+E Eric descobriu eles?
+
+375
+00:17:15,695 --> 00:17:19,129
+Sim. E nas últimas semanas,
+
+376
+00:17:19,198 --> 00:17:21,699
+ele está canalizando informações
+
+377
+00:17:21,767 --> 00:17:24,301
+em suas operações de volta para mim.
+
+378
+00:17:24,370 --> 00:17:25,736
+Então,
+o que você está me dizendo é,
+
+379
+00:17:25,805 --> 00:17:28,806
+quem invadiu o apartamento
+de Eric descobriu
+
+380
+00:17:28,874 --> 00:17:30,741
+que ele estava operando
+disfarçado, é isso?
+
+381
+00:17:30,810 --> 00:17:32,076
+O que estou dizendo é:
+
+382
+00:17:32,144 --> 00:17:34,812
+nós temos que encontrar o Sr. Beale
+
+383
+00:17:34,880 --> 00:17:38,482
+e precisamos fazer isso rapidamente.
+
+384
+00:17:38,551 --> 00:17:40,117
+Creme e açúcar?
+
+385
+00:17:40,186 --> 00:17:43,020
+Hmm? Oh não, obrigado.
+Posso ter uma água ou algo assim?
+
+386
+00:17:43,089 --> 00:17:46,190
+Ou talvez...
+um café também esteja bom. Sim.
+
+387
+00:17:46,259 --> 00:17:48,959
+Oitava xícara do dia. Ufa.
+Não que eu precise.
+
+388
+00:17:49,028 --> 00:17:50,661
+Como todos os agentes do NCIS,
+
+389
+00:17:50,730 --> 00:17:54,398
+Sou alimentado puramente pela minha
+necessidade de justiça. Estou certo, Chen?
+
+390
+00:17:54,467 --> 00:17:55,699
+E eu estou fora.
+
+391
+00:18:00,840 --> 00:18:03,707
+Mmm. Uau.
+Taça forte de Joe, hein?
+
+392
+00:18:03,776 --> 00:18:06,076
+<b> <font color="# FF8040"> (ambos riem) </font> </b>
+
+393
+00:18:06,178 --> 00:18:09,179
+Eric, o que você pode nos
+dizer sobre Henrietta Lange?
+
+394
+00:18:09,248 --> 00:18:11,282
+Hetty?
+
+395
+00:18:11,350 --> 00:18:15,619
+Henrietta tem muitos
+laços e conhecidos.
+
+396
+00:18:15,688 --> 00:18:17,788
+Eu ficaria curioso
+para saber quem
+
+397
+00:18:17,857 --> 00:18:19,390
+ela está conversando
+ultimamente.
+
+398
+00:18:19,458 --> 00:18:23,494
+Milímetros.  Bem, ela é, hum,
+
+399
+00:18:23,562 --> 00:18:26,030
+ela é muito popular, então...
+
+400
+00:18:26,098 --> 00:18:27,898
+Sabe, acho que vou
+precisar de um banheiro...
+
+401
+00:18:27,967 --> 00:18:29,867
+Cite alguns.
+
+402
+00:18:31,504 --> 00:18:35,072
+Você provavelmente
+não conheceria.
+
+403
+00:18:36,108 --> 00:18:38,208
+Tente-me, Eric.
+
+404
+00:18:38,277 --> 00:18:40,411
+Eu acho que você vai encontrar
+
+405
+00:18:40,479 --> 00:18:42,279
+que eu também conheço muita gente
+
+406
+00:18:42,348 --> 00:18:44,648
+em muitos lugares altos.
+
+407
+00:18:47,420 --> 00:18:49,320
+Eu... <b> <font color="# FF8040"> (suspira) </font> </b>
+
+408
+00:18:49,388 --> 00:18:54,024
+Me desculpe. Este café realmente
+não está se adaptando bem.
+
+409
+00:18:54,093 --> 00:18:55,192
+Eu... <b> <font color="# FF8040"> (suspira) </font> </b>
+
+410
+00:18:55,261 --> 00:18:56,460
+<b> <font color="# FF8040"> (engasga) </font> </b> Oh...
+
+411
+00:18:56,529 --> 00:18:59,096
+Oh, preciso de um banheiro.
+
+412
+00:19:01,167 --> 00:19:03,278
+Por que você não o agarrou?
+Ele estava bem na sua frente.
+
+413
+00:19:03,302 --> 00:19:04,401
+Não estou tocando no vômito.
+
+414
+00:19:04,470 --> 00:19:05,969
+Você o quer, você o agarra.
+
+415
+00:19:07,406 --> 00:19:09,340
+<b> <font color="# FF8040"> (engasgos falsos) </font> </b>
+
+416
+00:19:12,311 --> 00:19:15,346
+Quanto você deu a ele?
+
+417
+00:19:15,414 --> 00:19:17,815
+O suficiente para
+fazer o trabalho.
+
+418
+00:19:20,019 --> 00:19:21,785
+<b> <font color="# FF8040"> (grunhindo) </font> </b>
+
+419
+00:19:41,073 --> 00:19:43,073
+<b> <font color="# FFFF00"> ♪ ♪ </font> </b>
+
+420
+00:19:48,347 --> 00:19:49,646
+<b> <font color="# FF8040"> (batendo na porta)</font></b> Eric?
+
+421
+00:19:51,917 --> 00:19:53,350
+Está tudo bem aí?
+
+422
+00:19:53,419 --> 00:19:55,686
+Se tivermos sorte, ele já está
+sufocado em seu próprio vômito.
+
+423
+00:19:55,755 --> 00:19:57,187
+<b> <font color="# FF8040"> (suspiros) </font> </b> Divida-o.
+
+424
+00:19:58,557 --> 00:20:00,124
+<b> <font color="# 0080FF"> CHEN</font></b> : Porra.
+
+425
+00:20:00,192 --> 00:20:03,394
+relaxar. As drogas o
+impedirão de ir longe demais.
+
+426
+00:20:03,462 --> 00:20:06,230
+Temos algumas horas antes que
+ele esteja totalmente consciente.
+
+427
+00:20:06,298 --> 00:20:09,600
+Até então, ele é apenas mais
+um viciado em drogas na rua.
+
+428
+00:20:10,603 --> 00:20:12,503
+Hã? <b> <font color="# FF8040"> (buzina de carro)</font></b>
+
+429
+00:20:15,274 --> 00:20:17,207
+<b> <font color="# FF8040"> (Eric grunhindo) </font> </b>
+
+430
+00:20:17,276 --> 00:20:19,309
+<b> <font color="# 0080ff"> HETTY</font> <font color="# FF8040"> (ecoando)</font> </b> : <i> Sr.
+Beale.
+
+431
+00:20:19,378 --> 00:20:21,311
+<b> <font color="# 0080ff"> NELL</font> <font color="# FF8040"> (ecoando)</font></b> : <i> Eric?</i>
+
+432
+00:20:21,414 --> 00:20:22,646
+<i><b> <font color="# FF8040"> (Deeks ri) </font> </b></i>
+
+433
+00:20:22,715 --> 00:20:24,581
+<b> <font color="# FF8040"> (pneus cantando,
+buzina de carro)</font> </b>
+
+434
+00:20:53,980 --> 00:20:56,016
+<b> <font color="# FF8040"> (campainha) </font> </b>
+
+435
+00:20:56,017 --> 00:20:57,584
+Você acha que tivemos
+algum papel nisso?
+
+436
+00:20:57,652 --> 00:20:59,018
+Nos?
+
+437
+00:20:59,087 --> 00:21:00,253
+Quão?
+
+438
+00:21:00,322 --> 00:21:02,388
+Nós quebrávamos as costeletas
+de Eric diariamente.
+
+439
+00:21:02,457 --> 00:21:04,268
+Talvez seja por isso que
+ele aceitou o emprego.
+
+440
+00:21:04,292 --> 00:21:06,459
+Ele aceitou o emprego porque
+era uma grande oportunidade.
+
+441
+00:21:06,528 --> 00:21:08,528
+Bem, nós também o
+ajudamos e incentivamos
+
+442
+00:21:08,597 --> 00:21:10,029
+para tentar se tornar um agente.
+
+443
+00:21:10,098 --> 00:21:12,098
+E essa pode ser a única razão
+pela qual ele ainda está vivo.
+
+444
+00:21:12,167 --> 00:21:14,278
+Poderíamos ter lhe dado uma falsa
+sensação de suas habilidades.
+
+445
+00:21:14,302 --> 00:21:15,980
+E é provavelmente por isso que
+ele se inscreveu para isso.
+
+446
+00:21:16,004 --> 00:21:17,370
+E agora ele está louco demais.
+
+447
+00:21:17,439 --> 00:21:19,105
+Sim,
+e estamos aqui para retirá-lo.
+
+448
+00:21:19,174 --> 00:21:20,174
+<b> <font color="# FF8040"> (suspiros) </font> </b>
+
+449
+00:21:20,208 --> 00:21:21,708
+Este trabalho costumava
+ser muito mais fácil.
+
+450
+00:21:21,776 --> 00:21:23,142
+Isso nunca foi fácil.
+
+451
+00:21:23,211 --> 00:21:25,245
+Era apenas <i> mais fácil</i> porque
+você estava trabalhando sozinho.
+
+452
+00:21:25,313 --> 00:21:26,980
+Sim. Isto é o que acontece
+
+453
+00:21:27,048 --> 00:21:28,481
+quando eu fico em um
+lugar por muito tempo.
+
+454
+00:21:28,550 --> 00:21:29,861
+Não, é isso que acontece
+quando você recebe
+
+455
+00:21:29,885 --> 00:21:31,184
+conectado a outros
+seres humanos.
+
+456
+00:21:31,253 --> 00:21:32,585
+Primeiro sua irmã, depois Jake.
+
+457
+00:21:32,654 --> 00:21:34,120
+Agora você está preocupado com Beale.
+
+458
+00:21:34,189 --> 00:21:35,989
+Se eu não soubesse
+melhor, acho que você
+
+459
+00:21:36,057 --> 00:21:37,590
+se transformando em um
+garoto de verdade, Pinóquio.
+
+460
+00:21:39,327 --> 00:21:41,060
+Não pode ser apenas
+sobre o trabalho, G.
+
+461
+00:21:41,129 --> 00:21:42,795
+Em algum momento,
+o trabalho precisa terminar.
+
+462
+00:21:42,864 --> 00:21:43,796
+Então o que você tem?
+
+463
+00:21:43,865 --> 00:21:45,798
+Paz de espírito,
+uma consciência limpa.
+
+464
+00:21:45,867 --> 00:21:47,333
+Arrependimentos ao longo da vida.
+
+465
+00:21:47,402 --> 00:21:49,580
+Certo, você sempre sabe
+exatamente o que dizer.
+
+466
+00:21:49,604 --> 00:21:51,749
+Você deveria escrever um desses
+livros de afirmação da vida.
+
+467
+00:21:51,773 --> 00:21:53,673
+É apenas uma questão de
+tempo até encontrarmos Beale.
+
+468
+00:21:53,742 --> 00:21:55,441
+Sim Sim.
+
+469
+00:21:55,510 --> 00:21:56,609
+É isso.
+
+470
+00:21:56,678 --> 00:21:58,278
+Huh,
+eu sempre me perguntei o que
+
+471
+00:21:58,346 --> 00:21:59,390
+seria um think tank.
+
+472
+00:21:59,414 --> 00:22:01,014
+Por alguma razão,
+pensei que seria redondo.
+
+473
+00:22:02,517 --> 00:22:04,617
+Pensei que seria mais
+fácil pensar em um círculo.
+
+474
+00:22:04,686 --> 00:22:07,220
+Sim, ok.
+
+475
+00:22:10,058 --> 00:22:11,224
+Posso ajudá-lo, senhores?
+
+476
+00:22:11,293 --> 00:22:12,358
+Agente Especial Callen.
+
+477
+00:22:12,427 --> 00:22:13,693
+Esta é a agente especial Hanna.
+
+478
+00:22:13,762 --> 00:22:15,261
+Nós somos do NCIS.
+
+479
+00:22:15,330 --> 00:22:16,696
+Você tem um compromisso? Não mas
+
+480
+00:22:16,765 --> 00:22:18,245
+precisamos falar com
+todos aqueles que estavam
+
+481
+00:22:18,300 --> 00:22:19,844
+trabalhando com esse funcionário--
+seu nome é Eric Beale.
+
+482
+00:22:19,868 --> 00:22:22,335
+Receio não ter liberdade
+para discutir essas coisas.
+
+483
+00:22:22,404 --> 00:22:25,738
+Todos os nossos funcionários assinam
+um NDA rigoroso quando os contratamos.
+
+484
+00:22:25,807 --> 00:22:27,607
+E, em troca,
+protegemos sua privacidade.
+
+485
+00:22:27,676 --> 00:22:29,142
+Bem, o Sr.
+Beale foi sequestrado.
+
+486
+00:22:29,210 --> 00:22:30,643
+E ele ainda está desaparecido,
+
+487
+00:22:30,712 --> 00:22:32,790
+falando com seu supervisor e
+alguns de seus colegas de trabalho
+
+488
+00:22:32,814 --> 00:22:34,013
+pode nos ajudar
+em nossa pesquisa.
+
+489
+00:22:34,082 --> 00:22:35,192
+Eu gostaria de
+ajudar os senhores,
+
+490
+00:22:35,216 --> 00:22:36,416
+mas com falta de um mandado,
+
+491
+00:22:36,484 --> 00:22:37,662
+não há realmente nada que eu possa fazer.
+
+492
+00:22:37,686 --> 00:22:39,953
+Sinto muito.
+
+493
+00:22:40,021 --> 00:22:41,799
+Devido à natureza altamente
+sensível do nosso trabalho aqui,
+
+494
+00:22:41,823 --> 00:22:44,490
+Vou ter que pedir para você
+desocupar as instalações.
+
+495
+00:22:44,559 --> 00:22:46,125
+Ok, mas se algo
+acontecer com ele,
+
+496
+00:22:46,194 --> 00:22:48,361
+Eu vou te responsabilizar
+pessoalmente
+
+497
+00:22:48,430 --> 00:22:50,363
+por obstrução de uma
+investigação federal.
+
+498
+00:22:51,666 --> 00:22:54,467
+Boa sorte em encontrar seu amigo.
+
+499
+00:22:54,536 --> 00:22:56,069
+Nunca dissemos que
+ele era nosso amigo.
+
+500
+00:22:57,939 --> 00:22:59,205
+Até a próxima.
+
+501
+00:23:01,676 --> 00:23:03,042
+Eles estavam esperando por nós.
+
+502
+00:23:03,111 --> 00:23:05,022
+Provavelmente tem uma sala de conferências
+cheia de advogados lá em cima.
+
+503
+00:23:05,046 --> 00:23:07,380
+Não vamos tirar nada daqui,
+a menos que o roubemos.
+
+504
+00:23:13,888 --> 00:23:15,855
+Oh  Alguma sorte?
+
+505
+00:23:15,924 --> 00:23:18,825
+Não, mas ele não
+apareceu no hospital
+
+506
+00:23:18,893 --> 00:23:21,728
+ou o necrotério,
+então acho que é alguma coisa.
+
+507
+00:23:21,796 --> 00:23:23,129
+Você verificou o necrotério?
+
+508
+00:23:23,198 --> 00:23:24,364
+Vários, de fato.
+
+509
+00:23:24,432 --> 00:23:26,833
+Ei, Eric vai ficar bem.
+
+510
+00:23:26,901 --> 00:23:29,002
+Eles não o chamam de
+Bulletproof Beale por nada.
+
+511
+00:23:29,070 --> 00:23:30,670
+Ninguém o chama assim.
+
+512
+00:23:30,739 --> 00:23:32,472
+Exceto o próprio Eric.
+
+513
+00:23:32,540 --> 00:23:33,473
+Justo.
+
+514
+00:23:33,541 --> 00:23:35,274
+Ei, vai dar certo.
+
+515
+00:23:35,343 --> 00:23:37,010
+Sempre faz.
+
+516
+00:23:37,078 --> 00:23:40,446
+E eu posso ter encontrado
+alguém para nos ajudar.
+
+517
+00:23:40,515 --> 00:23:43,182
+Tão...
+
+518
+00:23:43,251 --> 00:23:45,351
+Esse cara,
+seu nome é Sean Reynolds.
+
+519
+00:23:45,420 --> 00:23:47,553
+Ele é o CEO da empresa
+em que Eric trabalha.
+
+520
+00:23:47,622 --> 00:23:49,389
+Agora, ele está em Los
+Angeles há cerca de três anos
+
+521
+00:23:49,457 --> 00:23:52,291
+tentando lançar essa
+agência de modelos digitais,
+
+522
+00:23:52,360 --> 00:23:54,093
+onde todos os modelos são
+gerados por computador.
+
+523
+00:23:54,162 --> 00:23:55,261
+Então, modelagem virtual?
+
+524
+00:23:55,330 --> 00:23:56,262
+Essencialmente.
+
+525
+00:23:56,331 --> 00:23:57,597
+Eu não sei se ele pode nos ajudar,
+
+526
+00:23:57,665 --> 00:23:59,410
+mas pretendo trazê-lo
+para interrogatório.
+
+527
+00:23:59,434 --> 00:24:00,733
+Então, se você quer vir comigo,
+
+528
+00:24:00,802 --> 00:24:02,101
+saia daqui um pouco,
+
+529
+00:24:02,170 --> 00:24:03,447
+tomar ar fresco
+ou algo assim...
+
+530
+00:24:03,471 --> 00:24:06,039
+Eu ficaria,
+mas sinto que deveria ficar aqui
+
+531
+00:24:06,107 --> 00:24:08,875
+caso Eric tente entrar
+em contato conosco ou...
+
+532
+00:24:08,943 --> 00:24:11,110
+talvez por algum milagre
+eu encontre algo.
+
+533
+00:24:11,179 --> 00:24:12,845
+Tem certeza que?
+Seja bom para você.
+
+534
+00:24:12,914 --> 00:24:14,047
+Tenho certeza.
+
+535
+00:24:14,115 --> 00:24:15,693
+Ok, bem, deixe-me saber
+se você precisar de algo
+
+536
+00:24:15,717 --> 00:24:16,983
+ou se você encontrar alguma coisa,
+
+537
+00:24:17,052 --> 00:24:18,362
+mesmo que pareça
+um tiro no escuro.
+
+538
+00:24:18,386 --> 00:24:19,886
+Não eu vou. Obrigado, Kens.
+
+539
+00:24:19,954 --> 00:24:21,954
+Pode apostar.
+
+540
+00:24:32,967 --> 00:24:35,401
+<b> <font color="# FF8040"> (passos se aproximando) </font> </b>
+
+541
+00:24:35,470 --> 00:24:36,847
+Você colocou Eric em
+uma posição perigosa?
+
+542
+00:24:36,871 --> 00:24:38,704
+Eu não o coloquei
+em lugar nenhum.
+
+543
+00:24:38,773 --> 00:24:40,206
+Ele aceitou o
+emprego que queria.
+
+544
+00:24:40,275 --> 00:24:43,409
+Estou ciente,
+mas há mais do que isso.
+
+545
+00:24:43,478 --> 00:24:45,978
+Esse sequestro está diretamente
+relacionado ao que quer que seja
+
+546
+00:24:46,047 --> 00:24:48,581
+Eric estava trabalhando,
+e eu acho que você sabe
+
+547
+00:24:48,650 --> 00:24:50,083
+muito mais do que
+você está nos dizendo.
+
+548
+00:24:52,487 --> 00:24:53,920
+Tão...?
+
+549
+00:24:53,988 --> 00:24:55,188
+Me desculpe.
+
+550
+00:24:55,256 --> 00:24:57,890
+Havia alguma pergunta
+lá em algum lugar?
+
+551
+00:24:57,959 --> 00:24:59,258
+Sim.
+
+552
+00:24:59,327 --> 00:25:00,493
+Sim existe.
+
+553
+00:25:00,562 --> 00:25:02,061
+O que está acontecendo aqui?
+
+554
+00:25:02,130 --> 00:25:05,565
+O que Eric estava realmente
+fazendo em San Francisco?
+
+555
+00:25:05,633 --> 00:25:07,366
+Por que alguém está
+tentando sequestrá-lo?
+
+556
+00:25:07,435 --> 00:25:09,635
+Quem são essas pessoas
+que fingem ser NCIS?
+
+557
+00:25:09,704 --> 00:25:12,238
+E por que diabos--
+desculpe meu francês--
+
+558
+00:25:12,307 --> 00:25:13,739
+você está fazendo isso com Eric?
+
+559
+00:25:13,808 --> 00:25:15,007
+Você sabe que ele não é um agente.
+
+560
+00:25:15,076 --> 00:25:17,210
+Ele não tem a habilidade
+definida para lidar com isso.
+
+561
+00:25:17,278 --> 00:25:18,644
+Você pode se surpreender.
+
+562
+00:25:18,713 --> 00:25:20,146
+<b> <font color="# FF8040"> (gaguejos) </font> </b>
+
+563
+00:25:20,215 --> 00:25:21,681
+Sério?
+
+564
+00:25:21,749 --> 00:25:23,282
+Bem, isso é ótimo, Hetty.
+
+565
+00:25:23,351 --> 00:25:24,351
+Sério,
+
+566
+00:25:24,385 --> 00:25:26,119
+é-- eu-eu amo
+
+567
+00:25:26,187 --> 00:25:27,987
+a quantidade de confiança
+que você tem nele,
+
+568
+00:25:28,022 --> 00:25:30,423
+mas isso não está nos
+ajudando a encontrá-lo agora.
+
+569
+00:25:30,492 --> 00:25:33,893
+E, finalmente,
+pode ser o que o mata!
+
+570
+00:25:33,962 --> 00:25:35,795
+Você está preparado
+para lidar com isso ?!
+
+571
+00:25:35,864 --> 00:25:39,632
+Eu compartilho sua preocupação
+
+572
+00:25:39,701 --> 00:25:40,933
+sobre a segurança do Sr.
+Beale...
+
+573
+00:25:41,002 --> 00:25:42,235
+Eric.
+
+574
+00:25:42,303 --> 00:25:43,703
+O nome dele é Eric.
+
+575
+00:25:43,771 --> 00:25:45,872
+Ou você já está começando
+
+576
+00:25:45,940 --> 00:25:47,907
+para se distanciar,
+isso deveria dar errado?
+
+577
+00:25:47,976 --> 00:25:50,543
+Sra. Jones,
+você está acordada há horas.
+
+578
+00:25:50,612 --> 00:25:53,913
+Por que você não se senta
+e toma uma xícara de chá?
+
+579
+00:25:53,982 --> 00:25:55,314
+Não, eu não quero chá.
+
+580
+00:25:55,383 --> 00:25:56,549
+Eu quero encontrar o Eric.
+
+581
+00:25:56,618 --> 00:25:57,550
+Todos nós fazemos.
+
+582
+00:25:57,619 --> 00:26:00,419
+Uh, mas neste trabalho...
+
+583
+00:26:00,488 --> 00:26:02,855
+Não,
+eu não ligo para o trabalho.
+
+584
+00:26:02,924 --> 00:26:05,491
+Analisando inteligência,
+manipulando data--
+
+585
+00:26:05,560 --> 00:26:06,893
+isso é uma coisa.
+
+586
+00:26:06,961 --> 00:26:09,795
+Mas manipular pessoas
+
+587
+00:26:09,864 --> 00:26:12,732
+como se fossem meros ativos?
+
+588
+00:26:12,800 --> 00:26:13,933
+Não.
+
+589
+00:26:14,002 --> 00:26:16,569
+Eu nunca serei bom nisso.
+
+590
+00:26:16,638 --> 00:26:18,905
+E eu percebo isso agora.
+
+591
+00:26:18,973 --> 00:26:21,174
+Hetty, eu não posso ser você.
+
+592
+00:26:21,242 --> 00:26:23,709
+E honestamente,
+
+593
+00:26:23,778 --> 00:26:27,013
+Eu... acho que não quero ser.
+
+594
+00:26:52,106 --> 00:26:53,206
+<b> <font color="# 808080"> HOMEM</font></b> : Alô?
+
+595
+00:26:53,274 --> 00:26:54,974
+Estou procurando Sean Reynolds.
+
+596
+00:26:55,043 --> 00:26:56,676
+Meu nome é Agente
+Especial Kensi Blye.
+
+597
+00:26:56,744 --> 00:26:58,744
+Eu estou com o NCIS.
+Eu gostaria de...
+
+598
+00:27:00,348 --> 00:27:02,648
+OK.
+
+599
+00:27:09,224 --> 00:27:11,490
+É um lugar muito agradável
+que você tem aqui.
+
+600
+00:27:11,559 --> 00:27:13,359
+Obrigado.
+Tem certeza de que não quer cereal?
+
+601
+00:27:13,428 --> 00:27:14,927
+Ah, não,
+eu enchi uma tigela grande
+
+602
+00:27:14,996 --> 00:27:16,140
+de Lucky Charms esta
+manhã, obrigado.
+
+603
+00:27:16,164 --> 00:27:17,164
+Doce.
+
+604
+00:27:17,198 --> 00:27:18,264
+Então, como posso ajudá-lo?
+
+605
+00:27:18,333 --> 00:27:20,800
+Você conhece esse
+funcionário, Eric Beale?
+
+606
+00:27:20,868 --> 00:27:21,901
+Não. O que ele faz?
+
+607
+00:27:21,970 --> 00:27:23,502
+Bem,
+ele trabalha na sua empresa.
+
+608
+00:27:23,571 --> 00:27:24,904
+Você deveria saber.
+
+609
+00:27:24,973 --> 00:27:26,450
+Tenho me concentrado em
+alguns projetos pessoais
+
+610
+00:27:26,474 --> 00:27:27,640
+nos últimos dois anos. OK.
+
+611
+00:27:27,709 --> 00:27:29,286
+Então, se você não está
+administrando a empresa, quem é?
+
+612
+00:27:29,310 --> 00:27:30,977
+Eu tenho vários
+supervisores de divisão
+
+613
+00:27:31,045 --> 00:27:33,913
+que cuidam das
+operações do dia-a-dia.
+
+614
+00:27:33,982 --> 00:27:35,159
+Operações diárias, como?
+
+615
+00:27:35,183 --> 00:27:36,082
+Bem, você escolhe.
+
+616
+00:27:36,150 --> 00:27:38,251
+Estamos imaginando
+
+617
+00:27:38,319 --> 00:27:40,219
+o futuro hoje.
+
+618
+00:27:40,288 --> 00:27:42,021
+Maravilhoso, bem...
+
+619
+00:27:42,090 --> 00:27:43,356
+<b> <font color="# FF8040"> (murmurando) </font> </b>
+
+620
+00:27:43,424 --> 00:27:45,358
+Talvez você possa
+me ajudar a imaginar
+
+621
+00:27:45,426 --> 00:27:48,327
+quem tentou sequestrar
+Beale ou por quê?
+
+622
+00:27:48,396 --> 00:27:49,895
+Oh, certo, claro.
+
+623
+00:27:49,964 --> 00:27:51,497
+Ele deve dinheiro às pessoas?
+
+624
+00:27:51,566 --> 00:27:52,698
+O que? Ele é um jogador
+
+625
+00:27:52,767 --> 00:27:54,667
+ou herdeiro de uma
+fortuna familiar?
+
+626
+00:27:54,736 --> 00:27:56,669
+Ok, deixe-me parar você aqui.
+
+627
+00:27:56,738 --> 00:27:57,803
+Eu não estou tentando
+
+628
+00:27:57,872 --> 00:27:59,672
+cuspir sobre por que
+alguém em algum lugar
+
+629
+00:27:59,741 --> 00:28:00,940
+foi sequestrado.
+
+630
+00:28:01,009 --> 00:28:03,175
+Estou tentando descobrir
+o que Eric Beale fez
+
+631
+00:28:03,244 --> 00:28:05,444
+na empresa que pode ter
+levado ao seu seqüestro.
+
+632
+00:28:06,481 --> 00:28:07,980
+Ah...
+
+633
+00:28:10,652 --> 00:28:12,518
+Eu não faço ideia.
+
+634
+00:28:13,821 --> 00:28:16,122
+Tudo bem, bem, supostamente,
+
+635
+00:28:16,190 --> 00:28:18,691
+tinha algo a ver com
+segurança em casa.
+
+636
+00:28:18,760 --> 00:28:20,026
+Bem, lá vai você.
+
+637
+00:28:22,030 --> 00:28:23,496
+Ok Sean, você pode apenas
+
+638
+00:28:23,564 --> 00:28:25,531
+focar em mim por um
+segundo, apenas bem rápido?
+
+639
+00:28:25,600 --> 00:28:27,800
+Eu preciso que você me
+diga o que Eric Beale
+
+640
+00:28:27,869 --> 00:28:29,568
+estava trabalhando na sua empresa,
+
+641
+00:28:29,637 --> 00:28:33,372
+e o nome de todos os outros
+funcionários que podem ter sido...
+
+642
+00:28:33,441 --> 00:28:34,607
+O que é isso?
+
+643
+00:28:34,676 --> 00:28:37,176
+Isso é um robô de
+segurança doméstica?
+
+644
+00:28:37,245 --> 00:28:39,011
+Eric tinha um em
+seu apartamento.
+
+645
+00:28:39,080 --> 00:28:40,680
+Minha empresa os fabrica.
+
+646
+00:28:43,351 --> 00:28:45,451
+Espionar seus funcionários.
+
+647
+00:28:45,520 --> 00:28:48,020
+Para proteger sua
+pessoa e propriedade.
+
+648
+00:28:48,089 --> 00:28:49,555
+Sean, você está sob vigilância?
+
+649
+00:28:49,624 --> 00:28:50,723
+<b> <font color="# FF8040"> (batendo) </font> </b>
+
+650
+00:28:50,792 --> 00:28:52,124
+Esperando companhia?
+
+651
+00:28:52,193 --> 00:28:54,193
+Eu nem estava esperando você.
+
+652
+00:28:58,199 --> 00:28:59,632
+Temos que ir. Vamos nos mudar.
+
+653
+00:28:59,701 --> 00:29:01,667
+Por quê?
+Só para estar seguro, vamos lá.
+
+654
+00:29:03,271 --> 00:29:04,470
+Vamos.
+
+655
+00:29:04,572 --> 00:29:05,471
+Ooh.
+
+656
+00:29:05,573 --> 00:29:06,686
+Existe outra saída?
+
+657
+00:29:06,687 --> 00:29:07,165
+Garagem.
+
+658
+00:29:07,189 --> 00:29:08,709
+Vamos vamos. Lidere o caminho.
+
+659
+00:29:08,710 --> 00:29:11,210
+Deixe-me ver.
+
+660
+00:29:12,914 --> 00:29:13,954
+Você é muito popular hoje.
+
+661
+00:29:13,981 --> 00:29:15,748
+<b> <font color="# FF8040"> (o telefone toca)</font> </b> O que se
+passa, Kens?
+
+662
+00:29:15,817 --> 00:29:17,450
+Nell, vou precisar
+de uma ajudinha aqui.
+
+663
+00:29:17,518 --> 00:29:18,718
+Estou com Reynolds agora.
+
+664
+00:29:18,786 --> 00:29:20,264
+Temos seis hostis em
+potencial fora do hou...
+
+665
+00:29:20,288 --> 00:29:22,188
+<b> <font color="# FF8040"> (bipando nas proximidades)</font> </b>
+Eles têm uma chave?
+
+666
+00:29:22,256 --> 00:29:23,856
+<b> <font color="# FF8040"> (gemidos)</font></b> Risque isso.
+
+667
+00:29:23,925 --> 00:29:25,325
+Tudo bem,
+tenho dois caras entrando.
+
+668
+00:29:25,360 --> 00:29:26,492
+Embaralhe uma equipe REACT.
+
+669
+00:29:26,561 --> 00:29:28,060
+Vou segurá-los enquanto puder.
+
+670
+00:29:28,129 --> 00:29:29,895
+Sim, estou nisso.
+
+671
+00:29:32,066 --> 00:29:33,432
+Ei.  EU...
+
+672
+00:29:33,501 --> 00:29:35,034
+<b> <font color="# FF8040"> (calando)</font></b> O que?
+
+673
+00:29:35,103 --> 00:29:36,335
+<b> <font color="# FF8040"> (boca) </font> </b>
+
+674
+00:29:36,404 --> 00:29:37,404
+Irene?
+
+675
+00:29:37,438 --> 00:29:39,038
+<b> <font color="# FF8040"> (cala) </font> </b>
+
+676
+00:29:39,107 --> 00:29:42,541
+<b> <font color="# FF8040"> (boca) </font> </b>
+
+677
+00:29:42,610 --> 00:29:43,909
+Sério? Isso é tão legal.
+
+678
+00:29:43,978 --> 00:29:46,145
+<b> <font color="# FF8040"> (gemidos)</font></b> : Sean.
+
+679
+00:29:47,515 --> 00:29:48,515
+<b> <font color="# FF8040"> (bocas) </font> </b>
+
+680
+00:29:48,583 --> 00:29:52,084
+<b> <font color="# FF8040"> (sussurros)</font> </b> : Eu tenho
+um quarto de pânico.
+
+681
+00:29:52,153 --> 00:29:54,620
+<b> <font color="# FF8040"> (boca) </font> </b>
+
+682
+00:29:56,657 --> 00:29:58,724
+<b> <font color="# FF8040"> (boca) </font> </b>
+
+683
+00:29:58,793 --> 00:29:59,859
+Ooh!
+
+684
+00:29:59,927 --> 00:30:00,927
+<b> <font color="# FF8040"> (tiros) </font> </b>
+
+685
+00:30:00,962 --> 00:30:02,428
+Mover!
+
+686
+00:30:02,497 --> 00:30:03,629
+Vai!
+
+687
+00:30:11,005 --> 00:30:13,005
+Vamos! Vamos!
+
+688
+00:30:19,714 --> 00:30:21,313
+Vamos!
+
+689
+00:30:21,382 --> 00:30:22,681
+Venha, vá, vá.
+
+690
+00:30:22,750 --> 00:30:23,750
+<b> <font color="# FF8040"> (tiros) </font> </b>
+
+691
+00:30:23,785 --> 00:30:25,918
+Me dê isso.
+
+692
+00:30:25,987 --> 00:30:29,121
+Quão legal é isso?
+
+693
+00:30:29,190 --> 00:30:30,856
+Sinceramente,
+pensei que nunca iria usá-lo
+
+694
+00:30:30,925 --> 00:30:32,803
+para o que foi construído.
+Tudo bem, equipe REACT
+
+695
+00:30:32,827 --> 00:30:34,471
+é daqui a cinco minutos
+- teremos apenas
+
+696
+00:30:34,495 --> 00:30:36,106
+segurar o forte
+até chegarem aqui.
+
+697
+00:30:36,130 --> 00:30:38,397
+<b> <font color="# FF8040"> (batendo na porta) </font> </b>
+
+698
+00:30:38,466 --> 00:30:39,565
+Uau!
+
+699
+00:30:39,634 --> 00:30:40,800
+Tem certeza de que eles não podem entrar?
+
+700
+00:30:40,868 --> 00:30:42,635
+Nah.
+
+701
+00:30:42,703 --> 00:30:44,537
+Este foi desenhado
+por um Navy SEAL.
+
+702
+00:30:44,605 --> 00:30:47,606
+Temos comida e água suficientes
+aqui para durar duas semanas.
+
+703
+00:30:47,675 --> 00:30:49,642
+Tudo certo.
+
+704
+00:30:49,710 --> 00:30:50,710
+<b> <font color="# FF8040"> (tiros lá fora) </font> </b>
+
+705
+00:30:50,745 --> 00:30:52,445
+Tão...
+
+706
+00:30:52,513 --> 00:30:54,547
+você já fez alguma modelagem?
+
+707
+00:30:54,615 --> 00:30:56,282
+<b> <font color="# FF8040"> (tiro abafado) </font> </b>
+
+708
+00:31:07,783 --> 00:31:10,560
+<b> <font color="# FF8040"> (exala)</font></b> Nada aqui.
+
+709
+00:31:10,561 --> 00:31:12,328
+Bem, tem que haver alguma coisa.
+
+710
+00:31:12,397 --> 00:31:15,331
+Todo mundo deixa um rastro.
+
+711
+00:31:15,400 --> 00:31:18,134
+Corremos placas,
+dardos, eletrônicos,
+
+712
+00:31:18,202 --> 00:31:21,437
+tratamento facial,
+caleidoscópio, o que você quiser.
+
+713
+00:31:21,506 --> 00:31:23,940
+Sim, tudo bem.
+Então o que estamos perdendo?
+
+714
+00:31:24,008 --> 00:31:27,043
+Bem, eles querem Beale viva.
+
+715
+00:31:27,111 --> 00:31:29,378
+Isso pode significar apenas duas coisas.
+
+716
+00:31:29,447 --> 00:31:32,748
+Resgate,
+ou ele tem algo que eles querem.
+
+717
+00:31:32,817 --> 00:31:35,162
+Bem, se eles suspeitassem que ele
+havia penetrado na operação deles,
+
+718
+00:31:35,186 --> 00:31:37,331
+eles podem tê-lo levado apenas
+para descobrir o quanto ele sabe
+
+719
+00:31:37,355 --> 00:31:38,654
+e para quem ele está trabalhando.
+
+720
+00:31:38,723 --> 00:31:42,425
+Beale não vai se sair bem se
+for interrogado sob coação.
+
+721
+00:32:09,854 --> 00:32:12,555
+Ei.  Só me pergunto se...
+
+722
+00:32:12,623 --> 00:32:14,123
+Eu poderia emprestar
+seu telefone celular.
+
+723
+00:32:14,192 --> 00:32:15,958
+É, é uma emergência.
+
+724
+00:32:16,027 --> 00:32:18,327
+O...
+
+725
+00:32:18,396 --> 00:32:20,329
+<b> <font color="# FF8040"> (exala) </font> </b>
+
+726
+00:32:20,398 --> 00:32:22,164
+Olá, senhora, desculpe,
+eu só estava pensando
+
+727
+00:32:22,233 --> 00:32:25,034
+se você tem um telefone celular.
+Muito obrigado mu-- oh!
+
+728
+00:32:25,103 --> 00:32:27,103
+Tudo certo.
+
+729
+00:32:30,008 --> 00:32:32,508
+Sim.  Nell.  Nell, sou eu.
+
+730
+00:32:32,577 --> 00:32:33,676
+Eu estou aqui.  Eu estou bem.
+
+731
+00:32:33,745 --> 00:32:35,945
+Eu sou, eu sou saudável, eu estou bem.
+
+732
+00:32:36,014 --> 00:32:37,913
+Oh  Rec facial
+
+733
+00:32:48,726 --> 00:32:50,059
+Ah, obrigada.
+
+734
+00:32:50,128 --> 00:32:51,727
+Quem eram aqueles
+caras na sua casa?
+
+735
+00:32:51,796 --> 00:32:52,928
+Eu pensei que você os conhecia.
+
+736
+00:32:52,997 --> 00:32:54,208
+Eu nunca os vi
+antes na minha vida.
+
+737
+00:32:54,232 --> 00:32:55,731
+Alguma idéia de por que
+eles estavam atrás de você?
+
+738
+00:32:55,800 --> 00:32:57,733
+Como sei que eles não
+estavam atrás de você?
+
+739
+00:32:57,802 --> 00:32:59,035
+Sério?
+
+740
+00:32:59,103 --> 00:33:00,536
+Eu provavelmente deveria procurar meu advogado.
+
+741
+00:33:00,605 --> 00:33:01,782
+Por que ele sabe quem eles são?
+
+742
+00:33:01,806 --> 00:33:03,172
+<b> <font color="# FF8040"> (porta se abre) </font> </b>
+
+743
+00:33:03,241 --> 00:33:04,224
+Nell. Kens.
+
+744
+00:33:04,248 --> 00:33:05,242
+Quem é Você?
+
+745
+00:33:05,243 --> 00:33:08,177
+Eu sou seu pior pesadelo, amigo.
+Fiz uma pequena pesquisa.
+
+746
+00:33:08,246 --> 00:33:10,312
+Você não é inteligente o suficiente
+para ter a empresa que faz.
+
+747
+00:33:10,381 --> 00:33:11,847
+Sua codificação é uma porcaria,
+
+748
+00:33:11,916 --> 00:33:14,650
+sua imaginação é no nível da sala de
+recreação, na melhor das hipóteses,
+
+749
+00:33:14,719 --> 00:33:15,879
+e ainda assim alguém continua despejando
+
+750
+00:33:15,920 --> 00:33:17,398
+milhões de dólares
+em sua empresa.
+
+751
+00:33:17,422 --> 00:33:18,687
+Gostaria de compartilhar o porquê?
+
+752
+00:33:18,756 --> 00:33:21,590
+Sim, tenho certeza de que
+vou precisar do meu advogado.
+
+753
+00:33:21,659 --> 00:33:22,892
+Não você não.
+
+754
+00:33:22,960 --> 00:33:24,438
+Não estou dizendo
+outra palavra sem ele.
+
+755
+00:33:24,462 --> 00:33:25,806
+Está tudo bem. Você não tem que.
+Nós estamos levando você para casa.
+
+756
+00:33:25,830 --> 00:33:27,229
+Casa?  Pra minha casa?
+
+757
+00:33:27,298 --> 00:33:28,564
+E se esses caras voltarem?
+
+758
+00:33:28,633 --> 00:33:29,743
+Talvez o seu advogado possa ajudá-lo.
+
+759
+00:33:29,767 --> 00:33:31,600
+<b> <font color="# 0080FF"> NELL</font></b> : Acorde, cara.
+
+760
+00:33:31,669 --> 00:33:33,302
+Somos os únicos que
+podem ajudá-lo agora,
+
+761
+00:33:33,371 --> 00:33:35,271
+mas você vai ter
+que nos contar tudo.
+
+762
+00:33:35,339 --> 00:33:36,272
+<b> <font color="# FF8040"> (sinais sonoros para tablets) </font> </b>
+
+763
+00:33:36,340 --> 00:33:38,808
+Meu Deus, é o Eric.
+
+764
+00:33:38,876 --> 00:33:41,410
+Segure esse pensamento.
+Não vá a lugar nenhum.
+
+765
+00:33:43,448 --> 00:33:45,214
+Callen, Sam, eu o encontrei.
+
+766
+00:33:45,283 --> 00:33:46,715
+Eric está em Huntington Park.
+
+767
+00:33:46,784 --> 00:33:48,517
+Estou lhe enviando
+as coordenadas agora.
+
+768
+00:33:48,586 --> 00:33:50,519
+<b> <font color="# FF8040"> (exala) </font> </b>
+
+769
+00:33:50,588 --> 00:33:53,289
+A cavalaria está a caminho.
+
+770
+00:33:53,357 --> 00:33:55,124
+Você vai ficar bem,
+à prova de balas.
+
+771
+00:33:55,193 --> 00:33:57,326
+<b> <font color="# FF8040"> (exala) </font> </b>
+
+772
+00:33:57,395 --> 00:33:59,862
+O que exatamente o
+Bulletproof está fazendo?
+
+773
+00:33:59,931 --> 00:34:02,798
+Ele é o Naruto correndo.
+
+774
+00:34:04,969 --> 00:34:07,703
+Desculpe? Naruto Uzumaki.
+
+775
+00:34:07,772 --> 00:34:09,572
+Ninja mangá japonês.
+
+776
+00:34:09,640 --> 00:34:11,340
+E por que ele está
+correndo como um ninja?
+
+777
+00:34:11,409 --> 00:34:15,111
+Eu sinto que ele acha que isso o
+torna mais difícil de entender.
+
+778
+00:34:15,179 --> 00:34:17,113
+Bem,
+isso pode estar funcionando.
+
+779
+00:34:17,181 --> 00:34:18,914
+<b> <font color="# FF8040"> (suspiros) </font> </b>
+
+780
+00:34:18,983 --> 00:34:20,983
+Sim.
+
+781
+00:34:22,987 --> 00:34:24,653
+Hmm.
+
+782
+00:34:26,991 --> 00:34:28,991
+<b> <font color="# FF8040"> (suspiros) </font> </b>
+
+783
+00:34:31,529 --> 00:34:34,130
+Apenas um daqueles dias, hein?
+
+784
+00:34:34,198 --> 00:34:35,498
+<b> <font color="# 0080FF"> CHEN</font></b> : Ficamos
+acordados a noite toda
+
+785
+00:34:35,566 --> 00:34:36,699
+olhando para você.
+
+786
+00:34:37,735 --> 00:34:39,135
+O que vocês querem de mim?
+
+787
+00:34:39,203 --> 00:34:40,669
+Coloque isso.
+
+788
+00:34:40,738 --> 00:34:42,738
+Atrás de você.
+
+789
+00:34:48,212 --> 00:34:49,979
+<b> <font color="# FF8040"> (cliques nas
+algemas)</font> </b> Vamos lá.
+
+790
+00:34:52,416 --> 00:34:54,116
+Fofa.
+
+791
+00:34:54,185 --> 00:34:56,819
+Ele se algemou no banco.
+
+792
+00:34:56,888 --> 00:34:57,987
+<b> <font color="# FF8040"> (silenciosamente)</font> </b> :
+Oh, meu Deus.
+
+793
+00:34:58,055 --> 00:34:59,655
+Mais truques,
+
+794
+00:34:59,724 --> 00:35:01,702
+e eu vou colocar uma bala na
+parte de trás da sua cabeça...
+
+795
+00:35:01,726 --> 00:35:03,859
+<b> <font color="# FF8040"> (gritos)</font></b> Filho da puta!
+
+796
+00:35:03,928 --> 00:35:05,027
+Eu vou matá-lo.
+
+797
+00:35:15,339 --> 00:35:17,640
+<b> <font color="# FF8040"> (grunhidos, gritos) </font> </b>
+
+798
+00:35:21,012 --> 00:35:23,078
+A brincadeira acabou.
+
+799
+00:35:24,782 --> 00:35:26,715
+Ninguém gosta de um valentão no parquinho.
+
+800
+00:35:29,420 --> 00:35:31,654
+<b> <font color="# FF8040"> (ambos grunhidos) </font> </b>
+
+801
+00:35:33,958 --> 00:35:36,692
+Agente real, agente falso.
+
+802
+00:35:36,761 --> 00:35:38,194
+Veja a diferença?
+
+803
+00:35:38,262 --> 00:35:39,562
+<b> <font color="# FF8040"> (grunhidos) </font> </b>
+
+804
+00:35:39,630 --> 00:35:41,030
+Você está bem?
+
+805
+00:35:41,098 --> 00:35:43,132
+Eu sou agora.
+
+806
+00:35:43,201 --> 00:35:45,000
+Não acredito que
+vocês estão aqui.
+
+807
+00:35:46,704 --> 00:35:48,370
+Você está pronto para ir para casa?
+
+808
+00:35:48,439 --> 00:35:51,040
+Ugh.  Você não tem ideia.
+
+809
+00:35:51,108 --> 00:35:52,808
+<b> <font color="# FF8040"> (risadas) </font> </b>
+
+810
+00:35:55,780 --> 00:35:58,847
+<b> <font color="# 0080FF"> KENSI</font></b> : <i> Sean Reynolds ganhou muito
+dinheiro com aplicativos inovadores</i>
+
+811
+00:35:58,916 --> 00:36:02,351
+e depois perdeu muito mais em
+empreendimentos fracassados.
+
+812
+00:36:02,420 --> 00:36:04,020
+Mas porque ele era uma
+entidade reconhecível,
+
+813
+00:36:04,055 --> 00:36:05,387
+ele era o homem da frente perfeito.
+
+814
+00:36:05,456 --> 00:36:08,390
+Há cinco anos,
+sua empresa de aplicativos falhada
+
+815
+00:36:08,459 --> 00:36:11,160
+fica alinhado com os investidores
+e começa a gastar o dólar
+
+816
+00:36:11,229 --> 00:36:13,929
+recrutar as mentes mais
+brilhantes do país,
+
+817
+00:36:13,998 --> 00:36:15,918
+mudança de foco para o
+setor industrial militar.
+
+818
+00:36:17,168 --> 00:36:20,569
+Só Reynolds não foi
+quem puxou as cordas.
+
+819
+00:36:20,638 --> 00:36:21,971
+Os chineses eram.
+
+820
+00:36:22,039 --> 00:36:23,350
+E eles estavam
+desenvolvendo tecnologia
+
+821
+00:36:23,374 --> 00:36:25,341
+sob o disfarce de uma
+"start-up" do Vale do Silício
+
+822
+00:36:25,409 --> 00:36:27,843
+Por que roubar nossa tecnologia
+quando você pode possuí-la?
+
+823
+00:36:27,912 --> 00:36:29,690
+E então vire-se e venda-o
+de volta aos nossos
+
+824
+00:36:29,714 --> 00:36:30,813
+com uma porta traseira embutida.
+
+825
+00:36:30,881 --> 00:36:34,016
+E o Sr. Beale tem a prova disso?
+
+826
+00:36:34,085 --> 00:36:37,119
+Sim, graças a você.
+
+827
+00:36:38,789 --> 00:36:39,888
+Também sabemos que Reynolds
+
+828
+00:36:39,957 --> 00:36:42,124
+vai falar com a
+gente porque ele sabe
+
+829
+00:36:42,193 --> 00:36:43,837
+que somos sua única
+chance de permanecer vivo.
+
+830
+00:36:43,861 --> 00:36:45,494
+<b> <font color="# 0080FF"> CHAMADO</font> </b> : O que, sem banner?
+Sem bolo?
+
+831
+00:36:46,631 --> 00:36:48,397
+Veja o que encontramos.
+
+832
+00:36:49,433 --> 00:36:50,833
+Sim.
+
+833
+00:36:52,670 --> 00:36:55,037
+Oh, meu Deus, ele é tão fofo.
+Posso ficar com ele, por favor?
+
+834
+00:36:55,106 --> 00:36:57,139
+Se prometer levá-lo para
+passear, pode.
+
+835
+00:36:57,208 --> 00:36:59,441
+Oi.  Estávamos preocupados com você.
+
+836
+00:36:59,510 --> 00:37:01,043
+Eu também estava preocupado comigo.
+
+837
+00:37:01,112 --> 00:37:02,611
+Você informou Hetty?
+
+838
+00:37:02,680 --> 00:37:06,248
+Ah, sim, nós fizemos,
+e parecia que
+
+839
+00:37:06,317 --> 00:37:08,083
+ela já sabia a maior parte disso.
+<b>(<font color="# FF8040">limpa a garganta) </font></b>
+
+840
+00:37:08,152 --> 00:37:09,496
+Deve ser mais que
+suficiente para provar
+
+841
+00:37:09,520 --> 00:37:12,855
+que Logic Wide era uma fachada
+para a inteligência chinesa.
+
+842
+00:37:16,727 --> 00:37:18,127
+Você vai ficar bem?
+
+843
+00:37:18,195 --> 00:37:20,262
+Claro que ele vai.
+
+844
+00:37:20,331 --> 00:37:22,331
+Ele é à prova de balas.
+
+845
+00:37:23,367 --> 00:37:25,768
+Eles te disseram?
+Eu fui baleado.
+
+846
+00:37:25,836 --> 00:37:27,136
+O que?
+
+847
+00:37:27,204 --> 00:37:29,071
+Bem, por um dardo.
+Eles dizem que isso é pior.
+
+848
+00:37:29,140 --> 00:37:30,339
+Você sabe, eu tenho certeza
+
+849
+00:37:30,408 --> 00:37:32,007
+Eu li isso em algum lugar.
+Você fez bem.
+
+850
+00:37:32,076 --> 00:37:33,842
+Muito bem.
+
+851
+00:37:33,911 --> 00:37:35,444
+Obrigado. Bem vindo de volta.
+
+852
+00:37:35,513 --> 00:37:37,780
+<b> <font color="# FF8040"> (gritos)</font> <font color="# FF8040"> (risadas)</font></b> Vamos lá.
+
+853
+00:37:37,848 --> 00:37:39,315
+Vou reintroduzir você no Ops.
+
+854
+00:37:39,383 --> 00:37:40,649
+OK.
+
+855
+00:37:40,718 --> 00:37:42,384
+<b> <font color="# FF8040"> (risadas) </font> </b>
+
+856
+00:37:42,453 --> 00:37:44,353
+Na mesma nota, eu vou para casa,
+
+857
+00:37:44,422 --> 00:37:46,288
+Despeje um copo grande de vinho,
+
+858
+00:37:46,357 --> 00:37:47,357
+e ir dormir.
+
+859
+00:37:47,425 --> 00:37:49,558
+Parece bom.  Você vem?
+
+860
+00:37:49,627 --> 00:37:52,061
+Vou terminar algumas
+coisas por aqui e vou...
+
+861
+00:37:52,129 --> 00:37:53,429
+te vejo amanhã. Mais tarde.
+
+862
+00:37:53,497 --> 00:37:55,331
+Tudo certo. Tchau.
+
+863
+00:37:57,668 --> 00:37:59,435
+<b> <font color="# 0080FF"> ERIC</font></b> : <i> Lar doce lar.</i>
+
+864
+00:37:59,503 --> 00:38:02,137
+<b> <font color="# FF8040"> (suspira profundamente) </font> </b>
+
+865
+00:38:02,206 --> 00:38:03,872
+Mmm.
+
+866
+00:38:04,942 --> 00:38:07,376
+Eu deveria ser sequestrado
+com mais frequência.
+
+867
+00:38:07,445 --> 00:38:11,013
+<b> <font color="# FF8040"> (suspiros)</font></b> Senti sua falta.
+
+868
+00:38:11,082 --> 00:38:15,184
+Quero dizer... sinto sua falta.
+
+869
+00:38:15,252 --> 00:38:18,821
+Eu também senti sua falta.
+<b>(<font color="# FF8040">risadas) </font></b>
+
+870
+00:38:29,867 --> 00:38:31,900
+Ok, eu vou pegar minhas coisas.
+
+871
+00:38:31,969 --> 00:38:34,136
+Sim.
+
+872
+00:38:40,277 --> 00:38:42,437
+<b> <font color="# FF8040"> ("Bandeira arrepiante",
+da Southern Culture no jogo Skids)</font> </b>
+
+873
+00:38:54,158 --> 00:38:57,659
+♪ Venha e levante sua
+bandeira esquisita ♪
+
+874
+00:38:57,728 --> 00:39:01,296
+♪ Venha e levante sua
+bandeira esquisita ♪
+
+875
+00:39:01,365 --> 00:39:03,298
+♪ Seja fiel ao que
+você sente por dentro ♪
+
+876
+00:39:03,367 --> 00:39:07,669
+♪ Não deixe que outra pessoa
+decida como viver sua vida ♪
+
+877
+00:39:09,173 --> 00:39:12,775
+♪ Porque todo mundo é diferente
+e todo mundo é igual ♪
+
+878
+00:39:12,843 --> 00:39:15,778
+♪ Tenha orgulho de quem você
+é e como você joga o jogo ♪
+
+879
+00:39:15,846 --> 00:39:17,813
+♪ Vá em frente e levante
+sua bandeira esquisita... ♪
+
+880
+00:39:17,882 --> 00:39:20,816
+Isso vem de Ops?
+
+881
+00:39:20,885 --> 00:39:22,718
+Eu acho que alguém está
+feliz por estar em casa.
+
+882
+00:39:22,787 --> 00:39:24,686
+Isso é para mim?
+
+883
+00:39:24,755 --> 00:39:27,689
+A menos que você esteja
+me deixando beber sozinho.
+
+884
+00:39:27,758 --> 00:39:30,893
+Oh, bem, Deus não permita.
+
+885
+00:39:30,961 --> 00:39:33,862
+Para o Sr. Beale
+
+886
+00:39:33,931 --> 00:39:36,832
+retorno seguro.
+
+887
+00:39:36,901 --> 00:39:39,401
+Hum-hum.
+
+888
+00:39:40,938 --> 00:39:42,938
+Hmm.
+
+889
+00:39:45,309 --> 00:39:47,242
+<b> <font color="# FF8040"> (música termina) </font> </b>
+
+890
+00:39:47,311 --> 00:39:49,311
+Você acha que eu cometi um erro?
+
+891
+00:39:50,448 --> 00:39:51,547
+Ah, com o Eric?
+
+892
+00:39:51,615 --> 00:39:53,081
+Hum-hum.
+
+893
+00:39:55,286 --> 00:39:59,254
+Foi uma chamada difícil.  Hum...
+
+894
+00:39:59,323 --> 00:40:03,892
+Olha, ele não precisava fazer isso, mas...
+quem mais poderia ter?
+
+895
+00:40:03,961 --> 00:40:06,395
+Quero dizer, ele tinha a capa
+perfeita porque era real.
+
+896
+00:40:06,464 --> 00:40:08,630
+<b> <font color="# FF8040"> (suspiros) </font> </b>
+
+897
+00:40:08,699 --> 00:40:10,365
+Você teria feito isso?
+
+898
+00:40:12,870 --> 00:40:15,170
+Eu não sei.
+
+899
+00:40:16,640 --> 00:40:18,807
+Mas não foi minha decisão.
+
+900
+00:40:20,511 --> 00:40:23,111
+Talvez deva ser.
+
+901
+00:40:34,525 --> 00:40:36,859
+Eu pensei que você estava
+preparando Nell para isso.
+
+902
+00:40:36,927 --> 00:40:40,562
+Hum-hum.  Eu fiz também.
+
+903
+00:40:42,800 --> 00:40:44,800
+<b> <font color="# FF8040"> (resmunga baixinho) </font> </b>
+
+904
+00:40:44,869 --> 00:40:46,835
+Eu não quero o seu trabalho, Hetty.
+
+905
+00:40:50,374 --> 00:40:53,108
+Nem eu.
+
+906
+00:40:53,177 --> 00:40:56,011
+Mas alguém tem que fazer isso.
+
+907
+00:40:57,047 --> 00:40:58,447
+Pense nisso,
+
+908
+00:40:58,516 --> 00:41:01,116
+Sr. Callen.
+
+909
+00:41:01,185 --> 00:41:03,185
+Eu não estarei aqui para sempre.
+
+910
+00:41:11,338 --> 00:41:18,438
+== sincronização,
+corrigida por <font color="# 00FF00"> elderman</font> == <font color="# 00FFFF"> @ elder_man</font>
+
