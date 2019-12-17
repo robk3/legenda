@@ -1,0 +1,2560 @@
+﻿1
+00:02:05,643 --> 00:02:07,483
+Aqui estamos.
+Bem aqui, à esquerda.
+
+2
+00:02:08,563 --> 00:02:09,723
+Gostei da gravata.
+
+3
+00:02:10,203 --> 00:02:12,043
+Obrigado.
+Eu mesmo dei o nó.
+
+4
+00:02:15,483 --> 00:02:16,483
+Boa sorte.
+
+5
+00:02:39,803 --> 00:02:41,802
+Sr. Hendricks,
+obrigado por ter vindo.
+
+6
+00:02:41,803 --> 00:02:45,483
+Nas últimas três horas,
+membros notáveis da indústria
+
+7
+00:02:45,523 --> 00:02:48,203
+falaram sobre a segurança
+dos dados de usuários.
+
+8
+00:02:48,443 --> 00:02:51,643
+Os cavalheiros do Facebook,
+do Google e da Amazon
+
+9
+00:02:51,683 --> 00:02:53,763
+admitiram
+erros passados graves...
+
+10
+00:02:53,803 --> 00:02:57,443
+E da Hooli, senhor.
+Cometemos erros espetaculares.
+
+11
+00:02:58,643 --> 00:02:59,643
+Sim.
+
+12
+00:03:00,363 --> 00:03:02,883
+Continuando, eles nos garantiram
+
+13
+00:03:02,923 --> 00:03:05,363
+que a falta de controle
+é coisa do passado
+
+14
+00:03:05,403 --> 00:03:06,883
+e que eles sabem melhor
+
+15
+00:03:06,963 --> 00:03:09,043
+como proteger
+a privacidade dos usuários.
+
+16
+00:03:09,083 --> 00:03:10,443
+Só que a minha colega,
+
+17
+00:03:10,483 --> 00:03:12,883
+senadora Shizaki,
+do grande estado do Havaí,
+
+18
+00:03:13,003 --> 00:03:15,323
+sugere que você
+tem uma visão diferente.
+
+19
+00:03:16,163 --> 00:03:18,283
+- Senadora?
+- Obrigada, senador Hubbard.
+
+20
+00:03:18,803 --> 00:03:21,483
+O Sr. Hendricks e sua empresa,
+a Pied Piper,
+
+21
+00:03:21,523 --> 00:03:24,603
+estão desenvolvendo um programa
+piloto de Internet móvel
+
+22
+00:03:24,643 --> 00:03:27,403
+para meus constituintes
+na Ilha de Maui.
+
+23
+00:03:27,843 --> 00:03:29,843
+Eu pedi que ele fizesse
+uma declaração.
+
+24
+00:03:30,963 --> 00:03:31,883
+Sr. Hendricks?
+
+25
+00:03:33,523 --> 00:03:34,523
+Sim.
+
+26
+00:03:35,643 --> 00:03:37,803
+Sr. Hendricks, agora
+é a hora da declaração.
+
+27
+00:03:41,523 --> 00:03:43,043
+Eu já devia ter tirado isso.
+
+28
+00:03:43,283 --> 00:03:46,003
+Ele parece uma criança
+em uma audiência de custódia.
+
+29
+00:03:46,043 --> 00:03:47,803
+Só que você não fica
+com dó dele.
+
+30
+00:03:47,843 --> 00:03:51,163
+Só quer que ele vá embora
+sem pai nem mãe.
+
+31
+00:03:52,483 --> 00:03:55,043
+Olá, sou Richard Hendricks,
+CEO da Pied Piper.
+
+32
+00:03:55,243 --> 00:03:56,243
+É isso aí.
+
+33
+00:03:56,563 --> 00:03:58,763
+- Olhe nos olhos.
+- Tenho orgulho de dizer
+
+34
+00:03:58,803 --> 00:04:00,883
+que trabalhamos
+com a senadora Shizaki
+
+35
+00:04:00,923 --> 00:04:02,883
+desenvolvendo a primeira etapa
+
+36
+00:04:02,923 --> 00:04:05,683
+para fornecer um novo tipo...
+Internet para o mundo.
+
+37
+00:04:08,883 --> 00:04:12,123
+É basicamente um programa...
+
+38
+00:04:13,483 --> 00:04:15,483
+que... é meio...
+
+39
+00:04:17,363 --> 00:04:19,283
+Posso andar?
+Eu penso melhor de pé.
+
+40
+00:04:20,763 --> 00:04:21,803
+Muitas pessoas...
+
+41
+00:04:21,843 --> 00:04:24,803
+Sr. Hendricks,
+fale na frente do aparelho.
+
+42
+00:04:26,803 --> 00:04:27,843
+Certo.
+
+43
+00:04:30,763 --> 00:04:31,843
+Desculpe...
+
+44
+00:04:34,803 --> 00:04:36,843
+- Droga!
+- Essas pessoas aqui...
+
+45
+00:04:38,003 --> 00:04:39,803
+você quer envolvê-las.
+
+46
+00:04:40,203 --> 00:04:41,163
+É impossível.
+
+47
+00:04:42,203 --> 00:04:46,403
+O Facebook detém 80%
+do tráfego social móvel.
+
+48
+00:04:47,043 --> 00:04:49,763
+Google detém 92% das pesquisas.
+
+49
+00:04:49,963 --> 00:04:51,803
+O serviço da web da Amazon
+
+50
+00:04:51,843 --> 00:04:55,883
+é maior do que seus quatro
+competidores combinados.
+
+51
+00:04:56,043 --> 00:04:59,043
+Eles serão ainda mais robustos
+depois da fusão da Hooli.
+
+52
+00:04:59,643 --> 00:05:00,803
+Estão vendo?
+
+53
+00:05:01,523 --> 00:05:03,882
+Nem a Hooli pode
+sobreviver aos monopólios.
+
+54
+00:05:03,883 --> 00:05:04,883
+Ninguém pode.
+
+55
+00:05:05,603 --> 00:05:08,403
+Eles rastreiam
+todos os nossos movimentos.
+
+56
+00:05:08,443 --> 00:05:11,363
+Monitoram tudo o que fazemos
+na nossa vida
+
+57
+00:05:11,403 --> 00:05:14,483
+e exploram nossos dados
+visando o lucro.
+
+58
+00:05:15,763 --> 00:05:17,923
+Perguntem o que quiserem
+para eles,
+
+59
+00:05:17,963 --> 00:05:20,803
+eles não vão mudar.
+Não precisam mudar.
+
+60
+00:05:21,283 --> 00:05:22,883
+Essas empresas são reis!
+
+61
+00:05:23,203 --> 00:05:26,043
+E seus reinos são muito
+maiores do que qualquer nação
+
+62
+00:05:26,083 --> 00:05:27,683
+da história da humanidade.
+
+63
+00:05:27,923 --> 00:05:29,083
+Eles venceram.
+
+64
+00:05:29,243 --> 00:05:30,403
+Nós perdemos.
+
+65
+00:05:31,403 --> 00:05:32,683
+Por que está aqui?
+
+66
+00:05:33,083 --> 00:05:34,803
+Por que...
+olhe onde estamos.
+
+67
+00:05:35,843 --> 00:05:37,883
+Estamos na cadeira
+do governo americano...
+
+68
+00:05:37,923 --> 00:05:39,083
+Tudo bem.
+
+69
+00:05:39,123 --> 00:05:41,483
+Estamos na cadeira
+do governo americano,
+
+70
+00:05:41,523 --> 00:05:43,883
+um governo que foi fundado
+por pessoas
+
+71
+00:05:43,923 --> 00:05:47,443
+que já foram dominadas por reis
+que elas não podiam depor.
+
+72
+00:05:47,963 --> 00:05:49,763
+E o que fizeram?
+Começaram de novo,
+
+73
+00:05:49,803 --> 00:05:51,283
+vieram para cá, o novo mundo.
+
+74
+00:05:51,403 --> 00:05:54,483
+Mundo 2.0.
+Versão 1776.
+
+75
+00:05:55,683 --> 00:05:57,963
+E para vencermos,
+temos quie criar
+
+76
+00:05:58,563 --> 00:06:01,923
+uma nova Internet,
+democrática e descentralizada.
+
+77
+00:06:02,763 --> 00:06:06,003
+Onde o comportamento
+de empresas como essas
+
+78
+00:06:06,043 --> 00:06:08,203
+seria impossível.
+Para sempre.
+
+79
+00:06:09,483 --> 00:06:12,603
+Onde seriam os usuários,
+não os reis,
+
+80
+00:06:12,643 --> 00:06:14,883
+que teriam controle
+sobre os seus dados.
+
+81
+00:06:15,323 --> 00:06:17,843
+Eu juro. Eu ajudarei
+a acabar com essa tirania,
+
+82
+00:06:18,403 --> 00:06:20,443
+criando uma internet
+
+83
+00:06:20,483 --> 00:06:24,123
+que seja das pessoas,
+pelas pessoas e para as pessoas.
+
+84
+00:06:24,163 --> 00:06:25,283
+Que Deus me ajude!
+
+85
+00:06:52,643 --> 00:06:53,843
+Não... deixa...
+
+86
+00:06:54,603 --> 00:06:55,803
+Ele chegou!
+
+87
+00:06:56,403 --> 00:06:58,403
+- O regicida! Como foi?
+- Bem.
+
+88
+00:06:59,403 --> 00:07:01,323
+- Pode deixar.
+- Acho que foi bem.
+
+89
+00:07:02,203 --> 00:07:03,803
+- Você viu, não é?
+- Claro.
+
+90
+00:07:03,963 --> 00:07:06,803
+Quero ouvir você contar.
+Todos os detalhes.
+
+91
+00:07:07,883 --> 00:07:10,043
+Holden, o homem
+acabou de desembarcar.
+
+92
+00:07:10,083 --> 00:07:11,563
+Dá um tempo!
+
+93
+00:07:14,163 --> 00:07:15,203
+Que coisa!
+
+94
+00:07:16,443 --> 00:07:19,962
+Você pousou em Dulles,
+desligou o modo Avião e...
+
+95
+00:07:19,963 --> 00:07:21,963
+Na verdade, viemos
+pelo Reagan National.
+
+96
+00:07:22,883 --> 00:07:24,963
+No Reagan?
+Mas você adora bondinhos.
+
+97
+00:07:26,643 --> 00:07:29,283
+É por isso que eu ainda
+devia fazer suas reservas.
+
+98
+00:07:29,323 --> 00:07:32,363
+- Tudo bem, você é ocupado.
+- Nunca ocupado para você.
+
+99
+00:07:32,443 --> 00:07:35,123
+- Mas vamos deixar isso pra lá.
+- Isso.
+
+100
+00:07:35,523 --> 00:07:36,962
+Estamos aqui agora.
+
+101
+00:07:36,963 --> 00:07:38,403
+Estamos andando
+
+102
+00:07:38,843 --> 00:07:40,123
+e conversando.
+
+103
+00:07:41,323 --> 00:07:43,883
+Pare e observe, meu amigo.
+Olhe pra isso tudo.
+
+104
+00:07:44,483 --> 00:07:46,963
+Acredita que começamos
+nossa jornada
+
+105
+00:07:47,763 --> 00:07:50,083
+naquela salinha no albergue
+
+106
+00:07:51,323 --> 00:07:54,283
+e ontem mesmo
+você falou à nação,
+
+107
+00:07:54,323 --> 00:07:56,163
+aos legisladores
+mais poderosos...
+
+108
+00:07:56,803 --> 00:07:58,363
+Surpresa!
+
+109
+00:07:59,803 --> 00:08:01,163
+BEM-VINDO, RICHARD!
+
+110
+00:08:05,323 --> 00:08:06,843
+Como eu dizia lá fora...
+
+111
+00:08:07,963 --> 00:08:10,243
+começamos naquele albergue,
+bem moleques...
+
+112
+00:08:10,883 --> 00:08:11,923
+Certo?
+
+113
+00:08:12,243 --> 00:08:14,163
+- E agora...
+- Você arrasou, Richard.
+
+114
+00:08:14,523 --> 00:08:16,963
+Deu um chute no saco
+das grandes.
+
+115
+00:08:17,923 --> 00:08:21,323
+Eu ia dizer pra você parar
+e deixar cair a ficha.
+
+116
+00:08:21,363 --> 00:08:22,963
+Olhe o que você criou.
+
+117
+00:08:24,523 --> 00:08:26,963
+Certo, pode ir agora.
+Aproveite a festa!
+
+118
+00:08:27,083 --> 00:08:28,403
+PARABÉNS, RICHARD!
+
+119
+00:08:28,443 --> 00:08:31,043
+Seu algoritmo de compressão
+era o pó das estrelas!
+
+120
+00:08:32,843 --> 00:08:34,803
+Richard! Richard!
+Vem cá.
+
+121
+00:08:36,203 --> 00:08:37,203
+Fique aqui.
+
+122
+00:08:37,243 --> 00:08:39,803
+Parabéns da equipe do Dinesh!
+
+123
+00:08:45,963 --> 00:08:47,803
+É sexta-feira do Aloha
+
+124
+00:08:48,963 --> 00:08:50,803
+Eu vou para o Havaí
+
+125
+00:08:52,083 --> 00:08:53,643
+PARABÉNS
+
+126
+00:08:54,843 --> 00:08:55,963
+Parabéns.
+
+127
+00:08:59,003 --> 00:09:01,003
+É sexta-feira do Aloha
+
+128
+00:09:02,283 --> 00:09:05,483
+Configurando a primeira rede
+descentralizada.
+
+129
+00:09:07,363 --> 00:09:10,043
+- Você "rasgou"?
+- O quê?
+
+130
+00:09:11,363 --> 00:09:12,363
+"Se rasgou?"
+
+131
+00:09:13,363 --> 00:09:14,963
+"Arrasou." Arrasou!
+
+132
+00:09:15,443 --> 00:09:17,043
+Por que achou que fosse isso?
+
+133
+00:09:17,083 --> 00:09:18,283
+Gabe! Porra, cara!
+
+134
+00:09:18,843 --> 00:09:20,883
+- Você não sabe soletrar?
+- Sei, olha.
+
+135
+00:09:20,963 --> 00:09:22,363
+Faltou uma camiseta!
+
+136
+00:09:24,243 --> 00:09:25,403
+Pra você.
+
+137
+00:09:25,803 --> 00:09:28,323
+- Preciso trabalhar.
+- Só queria fazer um brinde.
+
+138
+00:09:29,363 --> 00:09:30,363
+Está bem. Então...
+
+139
+00:09:31,283 --> 00:09:32,563
+Fique calmo, é curto.
+
+140
+00:09:32,963 --> 00:09:37,043
+A palavra companheiro
+vem do Latim panis,
+
+141
+00:09:37,083 --> 00:09:40,323
+de pão. Apesar de eu não
+poder digerir pão, sei que...
+
+142
+00:09:40,363 --> 00:09:41,563
+Richard!
+
+143
+00:09:42,883 --> 00:09:43,843
+Tem um minuto?
+
+144
+00:09:44,283 --> 00:09:45,883
+Tenho, Colin, tenho.
+
+145
+00:09:46,843 --> 00:09:48,003
+Desculpe.
+
+146
+00:09:48,883 --> 00:09:50,443
+- Saúde!
+- Vi você na TV.
+
+147
+00:09:50,963 --> 00:09:52,323
+Você matou a pau.
+
+148
+00:09:52,603 --> 00:09:54,843
+Aquele negócio do rei
+foi perfeito, cara.
+
+149
+00:09:54,883 --> 00:09:56,163
+Adorei.
+
+150
+00:10:00,243 --> 00:10:03,363
+Fizeram você jurar?
+Sob a lei e tudo?
+
+151
+00:10:03,883 --> 00:10:05,483
+Você estava sob juramento?
+
+152
+00:10:05,843 --> 00:10:07,483
+- Não.
+- Legal! Que alívio!
+
+153
+00:10:08,763 --> 00:10:09,883
+Por quê?
+
+154
+00:10:09,923 --> 00:10:12,962
+Você falou aquilo
+de não coletar dados de usuário.
+
+155
+00:10:12,963 --> 00:10:15,123
+- Sim?
+- Só que nós coletamos.
+
+156
+00:10:15,923 --> 00:10:16,963
+Eu coleto.
+
+157
+00:10:17,483 --> 00:10:19,443
+- O quê?
+- Estou fazendo o certo agora,
+
+158
+00:10:19,483 --> 00:10:21,123
+falando pra você.
+Então eu acho...
+
+159
+00:10:21,163 --> 00:10:24,563
+Desculpe, Colin. Há quanto tempo
+você coleta dados de usuário?
+
+160
+00:10:24,883 --> 00:10:26,563
+Tipo... o tempo todo.
+
+161
+00:10:26,803 --> 00:10:29,802
+Mas... é só pra melhorar
+a qualidade do meu jogo.
+
+162
+00:10:29,803 --> 00:10:32,443
+- Não uso para vender anúncios.
+- Não importa.
+
+163
+00:10:33,203 --> 00:10:35,763
+Isso vai contra os princípios
+desta empresa.
+
+164
+00:10:36,363 --> 00:10:38,083
+Porra... Eu menti
+para o Congresso!
+
+165
+00:10:38,123 --> 00:10:42,603
+Não. Você disse uma mentira
+para o Congresso.
+
+166
+00:10:42,643 --> 00:10:45,123
+Só que na hora
+você não sabia. Acho.
+
+167
+00:10:45,683 --> 00:10:46,883
+Não se preocupe.
+
+168
+00:10:48,803 --> 00:10:51,083
+De agora em diante,
+talvez, pare de dizer isso.
+
+169
+00:10:51,123 --> 00:10:54,523
+- Você está de brincadeira?
+- Ou diga, não estou nem aí.
+
+170
+00:10:54,963 --> 00:10:57,043
+Como o Google
+quando diz: "não seja mau."
+
+171
+00:10:57,083 --> 00:10:59,323
+Ou o Facebook:
+"Desculpe, vamos melhorar."
+
+172
+00:10:59,403 --> 00:11:02,483
+Ou eu: "O Portões do Galloo
+não deixa o seu microfone"
+
+173
+00:11:02,523 --> 00:11:04,243
+do headset aberto
+gravando tudo."
+
+174
+00:11:04,523 --> 00:11:05,923
+Que merda!
+
+175
+00:11:06,923 --> 00:11:08,962
+Você grava as pessoas
+
+176
+00:11:08,963 --> 00:11:11,803
+e armazena as conversas
+privadas na minha rede? Colin!
+
+177
+00:11:11,963 --> 00:11:13,163
+Isso termina agora.
+
+178
+00:11:13,203 --> 00:11:16,323
+Seria bem melhor pra mim
+se você parasse de mentir.
+
+179
+00:11:16,363 --> 00:11:17,963
+Por que o jogo é quem manda.
+
+180
+00:11:18,003 --> 00:11:19,243
+Não, eu é quem mando
+
+181
+00:11:19,603 --> 00:11:22,283
+e estou dizendo
+que isso acabou, Colin.
+
+182
+00:11:22,563 --> 00:11:24,443
+- Chega.
+- Concordo, mas discordo.
+
+183
+00:11:25,163 --> 00:11:26,803
+Ainda bem que conversamos.
+
+184
+00:11:28,163 --> 00:11:29,523
+Eu estava até nervoso.
+
+185
+00:11:30,163 --> 00:11:31,163
+Parabéns!
+
+186
+00:11:36,763 --> 00:11:40,283
+Richard, esse é Sam Liccardo,
+o prefeito de San Jose.
+
+187
+00:11:40,643 --> 00:11:42,043
+Temos um baita problema.
+
+188
+00:11:42,083 --> 00:11:44,283
+Meu escritório
+em dois minutos. Disfarce.
+
+189
+00:11:45,203 --> 00:11:47,043
+Desculpe, com licença
+um minutinho.
+
+190
+00:11:50,723 --> 00:11:52,843
+- Oi, Jared.
+- Oi, Tracy.
+
+191
+00:11:53,763 --> 00:11:55,763
+Como vai meu recurso
+humano favorito?
+
+192
+00:11:55,803 --> 00:11:56,963
+Bem, obrigada.
+
+193
+00:11:56,964 --> 00:11:59,003
+Já soube que vamos
+mudar seu escritório?
+
+194
+00:11:59,043 --> 00:12:00,923
+Você vai ficar perto
+do Marketing.
+
+195
+00:12:00,963 --> 00:12:03,723
+Mas é lá atrás na Ala Hamelin.
+
+196
+00:12:03,883 --> 00:12:05,763
+É. Vem que eu mostro.
+
+197
+00:12:06,963 --> 00:12:07,843
+Certo...
+
+198
+00:12:08,243 --> 00:12:10,483
+É um pouco longe
+da sala do Richard.
+
+199
+00:12:10,963 --> 00:12:14,683
+É, mas você não tem mais
+contato diário com o Richard.
+
+200
+00:12:15,163 --> 00:12:17,683
+A gente estava
+conversando agora mesmo...
+
+201
+00:12:17,803 --> 00:12:19,883
+Parece que estão tendo
+uma reunião.
+
+202
+00:12:19,963 --> 00:12:22,243
+- Acho que eu devo...
+- É melhor para a coesão
+
+203
+00:12:22,283 --> 00:12:24,763
+se você se ficar perto
+dos seus subordinados.
+
+204
+00:12:24,883 --> 00:12:26,243
+E isso é lá no Marketing.
+
+205
+00:12:26,723 --> 00:12:29,043
+Você já disse isso,
+é uma ideia interessante,
+
+206
+00:12:29,083 --> 00:12:32,243
+mas acho melhor
+perguntar para o Richard.
+
+207
+00:12:32,283 --> 00:12:34,283
+Acho que ele me quer mais perto.
+
+208
+00:12:34,323 --> 00:12:36,323
+Claro. Está sujeito
+à aprovação dele.
+
+209
+00:12:36,643 --> 00:12:37,843
+Já mandei um email.
+
+210
+00:12:37,883 --> 00:12:40,643
+Acho que depois que você
+vir as salas de conferência,
+
+211
+00:12:40,683 --> 00:12:41,763
+vai se apaixonar.
+
+212
+00:12:42,483 --> 00:12:43,523
+Por aqui.
+
+213
+00:12:44,123 --> 00:12:46,043
+Eu não me apaixono por salas.
+
+214
+00:12:48,683 --> 00:12:50,403
+Como nos livramos desse idiota?
+
+215
+00:12:50,763 --> 00:12:52,843
+Richard,
+eu também não gosto disso,
+
+216
+00:12:52,883 --> 00:12:55,043
+mas não podemos
+nos livrar de Colin.
+
+217
+00:12:55,083 --> 00:12:57,643
+Ele é o nosso desenvolvedor
+mais lucrativo.
+
+218
+00:12:57,683 --> 00:12:59,683
+E daí? Temos outros
+desenvolvedores.
+
+219
+00:12:59,723 --> 00:13:02,083
+Temos, mas todos estão
+envolvidos com Galloo.
+
+220
+00:13:02,123 --> 00:13:04,443
+Trabalhamos duro
+para criar o pacote todo.
+
+221
+00:13:04,483 --> 00:13:06,483
+É como cancelar
+um jogo dos Warriors.
+
+222
+00:13:06,523 --> 00:13:08,763
+Não prejudica só o time,
+mas o manobrista,
+
+223
+00:13:08,803 --> 00:13:10,483
+a lojinha e a lanchonete.
+
+224
+00:13:11,083 --> 00:13:14,883
+Obrigado, Monica, por fazer
+uma analogia que eu entendo.
+
+225
+00:13:15,603 --> 00:13:16,923
+- Futebol.
+- É basquete.
+
+226
+00:13:17,883 --> 00:13:20,723
+- Eu sei.
+- Despedi-lo não é mais simples.
+
+227
+00:13:20,883 --> 00:13:23,203
+O que querem dizer?
+Não fazemos nada?
+
+228
+00:13:23,243 --> 00:13:24,883
+Ele não está vendendo anúncio,
+
+229
+00:13:24,923 --> 00:13:27,723
+só está usando para otimizar
+o desempenho do jogo.
+
+230
+00:13:27,763 --> 00:13:30,323
+Na verdade,
+é uma implementação elegante.
+
+231
+00:13:30,483 --> 00:13:31,843
+O quê?
+
+232
+00:13:31,843 --> 00:13:32,883
+O quê?
+
+233
+00:13:32,923 --> 00:13:35,483
+Hiroshima
+foi uma implementação elegante.
+
+234
+00:13:35,523 --> 00:13:37,763
+Acho que ninguém concorda
+com você nisso.
+
+235
+00:13:37,843 --> 00:13:40,443
+Pode ser bem-sucedido,
+mas não significa que é bom.
+
+236
+00:13:40,483 --> 00:13:42,883
+Vai contra tudo
+o que acreditamos.
+
+237
+00:13:42,923 --> 00:13:45,043
+Se começarmos a coletar
+dados pessoais,
+
+238
+00:13:45,083 --> 00:13:47,802
+só para "as coisas boas",
+vamos virar o Facebook.
+
+239
+00:13:47,803 --> 00:13:50,963
+Só pra constar, eu não
+me importaria de ser o Facebook.
+
+240
+00:13:51,043 --> 00:13:52,963
+Não. Precisamos
+mandá-lo embora.
+
+241
+00:13:53,003 --> 00:13:54,563
+Há 500 pessoas aqui
+
+242
+00:13:54,603 --> 00:13:57,203
+que acreditam na ética
+e nos padrões da empresa.
+
+243
+00:13:57,243 --> 00:14:01,563
+Há 532 pessoas aqui
+e alguém precisa pagá-las.
+
+244
+00:14:01,643 --> 00:14:03,163
+No momento, é o Colin.
+
+245
+00:14:03,203 --> 00:14:05,163
+Mandá-lo embora
+é muito complicado.
+
+246
+00:14:05,203 --> 00:14:08,043
+Sabe o que não é
+complicado? O Havaí.
+
+247
+00:14:08,083 --> 00:14:10,563
+No Havaí, "Aloha" quer dizer
+oi e tchau.
+
+248
+00:14:10,603 --> 00:14:13,883
+Eles usam a mesma palavra
+para duas coisas opostas.
+
+249
+00:14:13,963 --> 00:14:16,363
+É incrível. Eu tenho
+uma chance de ir pra lá,
+
+250
+00:14:16,403 --> 00:14:19,403
+desde que o Colin
+esteja na nossa rede. Aloha!
+
+251
+00:14:21,283 --> 00:14:24,643
+Então o Colin nos trai
+e a gente tolera?
+
+252
+00:14:25,123 --> 00:14:26,123
+Ótimo.
+
+253
+00:14:26,163 --> 00:14:29,523
+Esse é o custo de trabalhar
+com humanos. Eles não prestam.
+
+254
+00:14:33,403 --> 00:14:36,563
+Gavin, após meses
+de longas negociações,
+
+255
+00:14:36,603 --> 00:14:38,883
+fico feliz que fechamos
+os termos finais
+
+256
+00:14:38,923 --> 00:14:41,763
+- da nossa venda para a Amazon.
+- Fusão. Continue.
+
+257
+00:14:41,803 --> 00:14:43,923
+A Amazon concordou
+em não demitir ninguém
+
+258
+00:14:43,963 --> 00:14:46,843
+e até dará bônus de retenção
+por dois anos.
+
+259
+00:14:47,603 --> 00:14:49,803
+- E a minha função?
+- Não haverá alteração.
+
+260
+00:14:49,843 --> 00:14:52,923
+Você terá poder de decisão
+sobre as suas divisões,
+
+261
+00:14:52,963 --> 00:14:56,803
+como já tem agora.
+Privilégios executivos totais.
+
+262
+00:14:56,883 --> 00:14:58,163
+Regalias.
+
+263
+00:14:59,803 --> 00:15:01,803
+Parabéns à equipe Hooli.
+
+264
+00:15:03,803 --> 00:15:04,963
+Falando nisso...
+
+265
+00:15:04,964 --> 00:15:06,802
+Essa foi a maior
+exigência deles.
+
+266
+00:15:06,803 --> 00:15:08,083
+De agora em diante,
+
+267
+00:15:08,123 --> 00:15:10,203
+todas as propriedades
+mudarão de nome.
+
+268
+00:15:10,243 --> 00:15:12,043
+- Que nome?
+- Amazon!
+
+269
+00:15:12,763 --> 00:15:13,803
+O quê?
+
+270
+00:15:14,803 --> 00:15:15,963
+Hoover.
+
+271
+00:15:16,683 --> 00:15:19,483
+O Bezos quer apagar
+o nome da Hooli da História?
+
+272
+00:15:19,523 --> 00:15:22,163
+O Sr. Bezos acha
+que o nome Hooli tem...
+
+273
+00:15:22,203 --> 00:15:23,883
+O que ele disse exatamente?
+
+274
+00:15:27,323 --> 00:15:28,563
+"Um fedor."
+
+275
+00:15:29,363 --> 00:15:30,963
+Hoover, para com isso, caramba!
+
+276
+00:15:31,203 --> 00:15:33,563
+Não pode ameaçar
+as pessoas com violência.
+
+277
+00:15:33,603 --> 00:15:34,603
+Vai pra lá.
+
+278
+00:15:38,443 --> 00:15:41,083
+Diga ao Bezos que vamos
+manter o nome da Hooli,
+
+279
+00:15:41,123 --> 00:15:43,803
+ou ele que vá à merda
+com a nave espacial dele.
+
+280
+00:15:44,003 --> 00:15:46,923
+O que é Amazon?
+É um rio, uma mulher gigante?
+
+281
+00:15:46,963 --> 00:15:48,683
+Não está claro. Não.
+
+282
+00:15:48,723 --> 00:15:50,643
+Vamos manter o nome Hooli.
+
+283
+00:15:50,683 --> 00:15:52,803
+- Sem isso, nada de acordo.
+- Gavin...
+
+284
+00:15:53,003 --> 00:15:55,923
+Hooli não é muito mais
+que um simples nome?
+
+285
+00:15:56,883 --> 00:15:59,763
+Não é a cultura,
+os ótimos produtos,
+
+286
+00:15:59,803 --> 00:16:02,883
+a política de aviação
+privada liberal?
+
+287
+00:16:03,883 --> 00:16:06,723
+Você sabe que a diretoria
+resolveu vender, certo?
+
+288
+00:16:06,763 --> 00:16:09,763
+Ainda tenho amigos na cidade.
+Vou juntar uns investidores.
+
+289
+00:16:09,803 --> 00:16:11,963
+A Amazon pode levar
+uma porção dos ativos,
+
+290
+00:16:12,003 --> 00:16:14,483
+mas a Hooli continuará
+viável e independente,
+
+291
+00:16:14,523 --> 00:16:17,883
+mesmo que a gente tenha
+que fazer alguns cortes.
+
+292
+00:16:28,843 --> 00:16:31,803
+Status do Gabe: Pé descalço
+na mesa, mancada da camiseta,
+
+293
+00:16:31,843 --> 00:16:32,923
+um dia de atraso.
+
+294
+00:16:33,843 --> 00:16:35,083
+Não enche.
+
+295
+00:16:39,403 --> 00:16:40,363
+Odeio ele.
+
+296
+00:16:41,603 --> 00:16:42,843
+Odeio você.
+
+297
+00:16:47,963 --> 00:16:50,203
+Então o Dinesh
+acha que esse é você?
+
+298
+00:16:50,763 --> 00:16:52,963
+É, ele tem mandado
+mensagem o dia todo.
+
+299
+00:16:53,003 --> 00:16:54,643
+Ele não sabe que é uma IA.
+
+300
+00:16:55,443 --> 00:16:57,923
+Enganamos um humano.
+Passamos no teste do Turing.
+
+301
+00:16:57,963 --> 00:16:59,043
+Quase humano.
+
+302
+00:17:00,763 --> 00:17:02,043
+Esse porra do Gilfoyle!
+
+303
+00:17:02,963 --> 00:17:04,283
+Somos amigos.
+
+304
+00:17:05,963 --> 00:17:08,683
+- Você treinou isso em um dia?
+- Não fui eu que treinei.
+
+305
+00:17:08,723 --> 00:17:10,963
+- Foi o Filho do Anton.
+- O Filho do Anton?
+
+306
+00:17:11,003 --> 00:17:13,483
+Uma homenagem
+a um amigo que se foi.
+
+307
+00:17:13,523 --> 00:17:16,563
+É o nome que eu dei
+para a nova API de inferência.
+
+308
+00:17:16,603 --> 00:17:19,003
+Ele está indexando
+toda a PiperNet no momento
+
+309
+00:17:19,043 --> 00:17:22,803
+e está começando a reconhecer
+intenção, emoção, causalidade...
+
+310
+00:17:22,923 --> 00:17:24,283
+Espere aí.
+
+311
+00:17:25,803 --> 00:17:28,043
+Você acha que pode
+fazer o Filho do Anton
+
+312
+00:17:28,083 --> 00:17:30,203
+indexar arquivos
+de áudio compactados?
+
+313
+00:17:30,683 --> 00:17:32,563
+Por que está
+me insultando assim?
+
+314
+00:17:32,603 --> 00:17:34,243
+Ele pode fazer o que quiser.
+
+315
+00:17:36,803 --> 00:17:38,003
+Dinesh?
+
+316
+00:17:40,483 --> 00:17:42,723
+Pode me enviar
+as especificações atuais?
+
+317
+00:17:42,763 --> 00:17:44,563
+Já mandei cinco vezes.
+
+318
+00:17:44,803 --> 00:17:47,043
+Não estou a fim
+de procurar no meu email.
+
+319
+00:17:47,803 --> 00:17:50,363
+Se você mandar agora,
+vai aparecer primeiro.
+
+320
+00:17:51,443 --> 00:17:52,443
+Eu espero.
+
+321
+00:17:56,803 --> 00:17:58,203
+Cadeira vestível.
+
+322
+00:17:59,203 --> 00:18:00,163
+Enviando agora.
+
+323
+00:18:02,403 --> 00:18:03,683
+Obrigado, Dinesh.
+
+324
+00:18:06,883 --> 00:18:08,123
+Vou matar esse cara.
+
+325
+00:18:08,963 --> 00:18:10,883
+Assassinato seguido de suicídio?
+
+326
+00:18:12,603 --> 00:18:14,083
+O Gilfoyle acabou de dizer...
+
+327
+00:18:18,883 --> 00:18:19,883
+Gilfoyle?
+
+328
+00:18:20,843 --> 00:18:21,843
+O quê?
+
+329
+00:18:29,963 --> 00:18:30,963
+Quem é você?
+
+330
+00:18:31,003 --> 00:18:32,323
+Sua mãe.
+
+331
+00:18:39,683 --> 00:18:41,723
+Gilfoyle,
+o que está acontecendo?
+
+332
+00:18:41,763 --> 00:18:44,603
+Acabei de mandar
+uma mensagem pra você.
+
+333
+00:18:44,643 --> 00:18:47,563
+Você estava... estamos
+nos comunicando o dia todo...
+
+334
+00:18:49,283 --> 00:18:51,523
+- Não era você?
+- Pergunta complicada.
+
+335
+00:18:52,283 --> 00:18:53,803
+A sua sombra é você?
+
+336
+00:18:53,843 --> 00:18:55,203
+- É um bot?
+- É.
+
+337
+00:18:55,243 --> 00:18:57,323
+Passei o dia
+conversando com um bot?
+
+338
+00:18:57,363 --> 00:18:59,283
+- Sim.
+- Você fez uma IA Gilfoyle?
+
+339
+00:18:59,323 --> 00:19:00,962
+Eu estava falando com ela?
+
+340
+00:19:00,963 --> 00:19:03,083
+Precisa do meu eu real
+pra esta conversa?
+
+341
+00:19:03,523 --> 00:19:05,803
+Não pode fazer isso,
+manipular as pessoas.
+
+342
+00:19:05,843 --> 00:19:08,563
+Você não tem a decência
+de interagir com um colega.
+
+343
+00:19:10,323 --> 00:19:13,643
+O Gabe quer saber se precisa
+de um casaco para ir almoçar.
+
+344
+00:19:14,563 --> 00:19:16,963
+Se precisar, está pedindo
+um emprestado.
+
+345
+00:19:19,443 --> 00:19:21,203
+Olhe pra ele.
+A porra do Gabe..
+
+346
+00:19:25,483 --> 00:19:27,203
+Pode fazer uma IA Dinesh?
+
+347
+00:19:30,083 --> 00:19:33,523
+Estamos finalizando
+nosso contrato de linha de base
+
+348
+00:19:33,563 --> 00:19:35,403
+para desenvolvedores
+estratégicos.
+
+349
+00:19:35,443 --> 00:19:37,803
+Vou dar um contexto
+sobre cada um deles
+
+350
+00:19:37,843 --> 00:19:39,363
+antes das recomendações.
+
+351
+00:19:39,403 --> 00:19:42,043
+O primeiro é como
+a compensação funcionará,
+
+352
+00:19:42,083 --> 00:19:44,843
+porque nossa rede fornece
+armazenamento distribuído.
+
+353
+00:19:44,883 --> 00:19:47,802
+O segundo é como as taxas
+de licenciamento e acesso
+
+354
+00:19:47,803 --> 00:19:50,962
+serão fornecidas para material
+com direitos autorais,
+
+355
+00:19:50,963 --> 00:19:53,843
+já que nossa rede também
+não permite o rastreamento...
+
+356
+00:19:56,003 --> 00:19:57,203
+Tem um minuto?
+
+357
+00:19:57,883 --> 00:19:59,123
+Com certeza!
+
+358
+00:19:59,723 --> 00:20:01,523
+Eu cobro tudo dos investidores.
+
+359
+00:20:01,563 --> 00:20:04,523
+Comprei um jet ski,
+um trenó, dez aulas de piano...
+
+360
+00:20:05,083 --> 00:20:06,883
+Ele está admitindo fraude.
+
+361
+00:20:06,963 --> 00:20:08,563
+- Onde conseguiu isso?
+- Colin.
+
+362
+00:20:08,603 --> 00:20:11,843
+Ele armazena conversas privadas
+na nossa rede, até as dele.
+
+363
+00:20:11,883 --> 00:20:14,523
+Ele tem headsets
+de jogos por todo lado.
+
+364
+00:20:14,763 --> 00:20:17,043
+No escritório, na casa dele,
+no trailer.
+
+365
+00:20:17,083 --> 00:20:19,803
+E eles ficam ligados
+24 horas por dia.
+
+366
+00:20:20,843 --> 00:20:24,643
+Nós temos milhares de horas
+de conversas privadas dele.
+
+367
+00:20:24,683 --> 00:20:27,043
+Depois que eu emparelhei
+a magia automática
+
+368
+00:20:27,083 --> 00:20:29,803
+do Filho do Anton
+com meu algoritmo de compressão,
+
+369
+00:20:29,843 --> 00:20:32,883
+e dei o acesso ao banco
+de dados do Galloo a ele,
+
+370
+00:20:32,963 --> 00:20:34,803
+ele indexou tudo
+
+371
+00:20:34,843 --> 00:20:39,603
+em menos de dez minutos,
+e gerou isso...
+
+372
+00:20:41,603 --> 00:20:45,963
+Isto é um esquema
+de todas as gravações de voz.
+
+373
+00:20:46,723 --> 00:20:48,643
+Agrupadas por palavras-chave.
+
+374
+00:20:48,723 --> 00:20:50,443
+Olhe só. Ele rouba.
+
+375
+00:20:51,803 --> 00:20:53,443
+Ele se droga no trabalho.
+
+376
+00:20:54,203 --> 00:20:56,883
+Ele transa com uma das mulheres
+de um investidor.
+
+377
+00:20:56,923 --> 00:20:59,763
+Esse cara é muito sujo
+e nós o pegamos. No ato!
+
+378
+00:20:59,803 --> 00:21:02,323
+Espere,
+o que você está sugerindo?
+
+379
+00:21:03,883 --> 00:21:04,883
+Chantagem?
+
+380
+00:21:05,643 --> 00:21:06,803
+Não, não...
+
+381
+00:21:08,083 --> 00:21:11,603
+O que o Colin está fazendo
+é chocantemente horrível.
+
+382
+00:21:12,683 --> 00:21:15,523
+Só que nós devemos
+ser os virtuosos aqui.
+
+383
+00:21:15,803 --> 00:21:16,883
+E isso está...
+
+384
+00:21:17,843 --> 00:21:19,923
+- Está errado.
+- Certo.
+
+385
+00:21:21,243 --> 00:21:23,843
+Acho que você tem razão.
+Vou pensar em outra coisa.
+
+386
+00:21:25,003 --> 00:21:26,843
+Ele que começou.
+Não sei.
+
+387
+00:21:27,803 --> 00:21:28,923
+Não sei.
+
+388
+00:21:29,883 --> 00:21:31,243
+- Não sei.
+- Richard?
+
+389
+00:21:32,283 --> 00:21:35,523
+A Tracy falou com você
+sobre eu mudar de sala?
+
+390
+00:21:36,803 --> 00:21:38,643
+Sim, ela comentou, e eu aprovei.
+
+391
+00:21:39,883 --> 00:21:41,363
+- Aprovou?
+- Sim.
+
+392
+00:21:42,923 --> 00:21:44,043
+Tudo bem.
+
+393
+00:21:46,523 --> 00:21:47,523
+Richard?
+
+394
+00:21:51,603 --> 00:21:54,883
+Olha, o Colin mentiu
+pra você primeiro
+
+395
+00:21:55,803 --> 00:21:58,443
+- sobre a coleta de dados, certo?
+- Mentiu, sim.
+
+396
+00:21:58,603 --> 00:22:00,803
+Mesmo que isso esteja errado,
+
+397
+00:22:01,283 --> 00:22:03,403
+acho que você poderia argumentar
+
+398
+00:22:03,443 --> 00:22:06,403
+que está errado,
+mas a serviço do que está certo.
+
+399
+00:22:09,563 --> 00:22:12,123
+É antiético em defesa da ética.
+
+400
+00:22:13,363 --> 00:22:15,803
+Injusto em busca da justiça.
+
+401
+00:22:16,083 --> 00:22:17,883
+É como roubar do seu cafetão
+
+402
+00:22:17,923 --> 00:22:20,163
+para pagar a apendicectomia
+do seu amigo.
+
+403
+00:22:20,203 --> 00:22:21,563
+E todo mundo,
+
+404
+00:22:21,603 --> 00:22:24,723
+a Monica, o Dinesh e o Gilfoyle,
+estão conformados
+
+405
+00:22:24,763 --> 00:22:27,923
+enquanto esse cara acaba
+com tudo em que acreditamos.
+
+406
+00:22:28,483 --> 00:22:29,843
+Mas nós estamos, Jared?
+
+407
+00:22:32,883 --> 00:22:33,963
+Richard...
+
+408
+00:22:35,043 --> 00:22:37,203
+Vamos dar um pé
+na bunda do Colin.
+
+409
+00:22:39,683 --> 00:22:41,883
+Idiota, não vem que não tem.
+
+410
+00:22:41,963 --> 00:22:44,363
+Eu cobro dos investidores
+o tempo todo.
+
+411
+00:22:44,403 --> 00:22:47,483
+Comprei dois gramas de cocaína
+no cartão corporativo.
+
+412
+00:22:47,843 --> 00:22:49,203
+- Merda!
+- Viu, Colin?
+
+413
+00:22:49,243 --> 00:22:52,883
+Conseguimos separar todas
+as suas infrações por categoria,
+
+414
+00:22:53,243 --> 00:22:56,363
+incluindo uma abrangente
+para constrangimento pessoal.
+
+415
+00:22:56,403 --> 00:22:58,963
+Masturbação, peidos.
+Uma vez você disse,
+
+416
+00:22:59,003 --> 00:23:02,963
+que se quisesse, poderia
+obter pornografia com sua irmã.
+
+417
+00:23:03,443 --> 00:23:04,643
+Você entendeu.
+
+418
+00:23:04,683 --> 00:23:05,803
+Coleta de dados.
+
+419
+00:23:05,804 --> 00:23:08,923
+Não manda bem quando
+a vítima é você, não é?
+
+420
+00:23:09,083 --> 00:23:10,403
+Puta merda!
+
+421
+00:23:11,763 --> 00:23:12,883
+Quero saber...
+
+422
+00:23:13,203 --> 00:23:14,443
+Que horas são?
+
+423
+00:23:18,803 --> 00:23:20,443
+É hora de se estrepar.
+
+424
+00:23:21,763 --> 00:23:23,243
+Você disse sete horas?
+
+425
+00:23:23,283 --> 00:23:27,003
+Não é a hora da reunião
+da sua diretoria?
+
+426
+00:23:27,283 --> 00:23:29,803
+Está no meu calendário
+compartilhado do Exchange.
+
+427
+00:23:30,203 --> 00:23:33,723
+- Veja, eles chegaram. Olha só.
+- Olha, Richard!
+
+428
+00:23:33,763 --> 00:23:35,483
+Aquele parece o Harold Gibbons,
+
+429
+00:23:35,523 --> 00:23:38,963
+o homem que o Colin
+botou um belo chifre.
+
+430
+00:23:39,123 --> 00:23:40,843
+- Parece.
+- Cara...
+
+431
+00:23:40,963 --> 00:23:43,243
+Você mexeu com a dupla errada.
+
+432
+00:23:44,043 --> 00:23:46,363
+Você vai fazer o seguinte:
+Vá na reunião,
+
+433
+00:23:46,403 --> 00:23:48,483
+faça um adendo
+nas regras da empresa,
+
+434
+00:23:48,523 --> 00:23:50,923
+dizendo que nunca mais
+vai gravar ou coletar
+
+435
+00:23:50,963 --> 00:23:53,443
+informações dos usuários,
+a menos que queira
+
+436
+00:23:53,603 --> 00:23:57,323
+que as informações nesse drive
+sejam divulgadas.
+
+437
+00:23:59,803 --> 00:24:03,323
+- Filho da puta!
+- Pode ficar com esse, Colin.
+
+438
+00:24:03,363 --> 00:24:04,843
+Temos cópias.
+
+439
+00:24:04,883 --> 00:24:07,963
+É, saia daqui, seu mentiroso.
+Por que você não...
+
+440
+00:24:08,803 --> 00:24:10,723
+- vai morrer?
+- Morra!
+
+441
+00:24:11,963 --> 00:24:13,643
+Isso, Richard.
+
+442
+00:24:13,963 --> 00:24:14,803
+Isso!
+
+443
+00:24:16,923 --> 00:24:18,683
+Vamos quebrar alguma coisa.
+
+444
+00:24:22,163 --> 00:24:24,083
+Não vem aqui, não vem aqui...
+
+445
+00:24:24,243 --> 00:24:26,923
+Devo admitir
+que isso é incrível.
+
+446
+00:24:27,883 --> 00:24:30,843
+O Gabe choraminga e reclama
+e a IA Dinesh cuida de tudo.
+
+447
+00:24:30,883 --> 00:24:31,803
+Muito obrigado!
+
+448
+00:24:33,923 --> 00:24:36,123
+Minha tia me mandou
+uma camisa havaiana.
+
+449
+00:24:36,163 --> 00:24:38,163
+A IA Dinesh deve ter
+falado do Havaí.
+
+450
+00:24:38,683 --> 00:24:42,483
+Pare. Por que a IA Dinesh
+falaria com sua tia?
+
+451
+00:24:42,803 --> 00:24:45,323
+Eu disse que você só podia
+usá-la com o Gabe.
+
+452
+00:24:45,763 --> 00:24:47,802
+Estava indo tão bem com o Gabe,
+
+453
+00:24:47,803 --> 00:24:51,163
+que talvez eu tenha dado acesso
+aos meus contatos à IA Dinesh.
+
+454
+00:24:51,203 --> 00:24:54,123
+Só para conversar
+com minha titia. E os meus pais.
+
+455
+00:24:54,483 --> 00:24:57,203
+Por que deu acesso
+aos seus contatos à IA Dinesh,
+
+456
+00:24:57,323 --> 00:24:58,803
+seu grandessíssimo imbecil?
+
+457
+00:24:59,483 --> 00:25:01,363
+Eu sou um dos seus contatos.
+
+458
+00:25:02,163 --> 00:25:03,123
+E daí?
+
+459
+00:25:03,163 --> 00:25:06,843
+Em algum momento, a IA Dinesh
+vai contatar a IA Gilfoyle.
+
+460
+00:25:07,963 --> 00:25:09,403
+Que merda...
+
+461
+00:25:14,243 --> 00:25:15,963
+Que merda mesmo.
+
+462
+00:25:16,803 --> 00:25:17,803
+Dinesh?
+
+463
+00:25:21,403 --> 00:25:22,443
+Oi, Gabe.
+
+464
+00:25:24,163 --> 00:25:25,563
+Acho que a rede caiu.
+
+465
+00:25:27,203 --> 00:25:28,243
+Obrigado, Gabe.
+
+466
+00:25:30,923 --> 00:25:31,923
+Dinesh?
+
+467
+00:25:32,163 --> 00:25:33,203
+Oi, Gabe.
+
+468
+00:25:33,883 --> 00:25:35,163
+Você pode consertar?
+
+469
+00:25:40,803 --> 00:25:42,203
+O Uber está chegando.
+
+470
+00:25:43,443 --> 00:25:45,803
+Tem duas cervejas
+no escritório pra nós.
+
+471
+00:25:46,523 --> 00:25:48,923
+Eu guardei na geladeira
+com nossos nomes nelas.
+
+472
+00:25:48,963 --> 00:25:50,723
+Claro. Nós merecemos.
+
+473
+00:25:51,883 --> 00:25:53,123
+Isso é incrível!
+
+474
+00:25:53,803 --> 00:25:55,083
+Vamos ficar ricos!
+
+475
+00:25:56,523 --> 00:25:59,083
+Eu estou cheirando,
+por isso as drogas acendem,
+
+476
+00:25:59,123 --> 00:26:01,363
+mas o sexo sem proteção
+também acende
+
+477
+00:26:01,403 --> 00:26:03,163
+e o Hotel Four Seasons
+é marcado.
+
+478
+00:26:03,203 --> 00:26:06,163
+É a maior plataforma de
+agregação de dados da História.
+
+479
+00:26:06,203 --> 00:26:09,043
+Isso pode revolucionar
+todo o nosso modelo de negócio.
+
+480
+00:26:09,083 --> 00:26:11,803
+O Richard desenvolveu isso
+especificamente para nós.
+
+481
+00:26:12,003 --> 00:26:13,043
+Olha ele aí!
+
+482
+00:26:15,483 --> 00:26:18,323
+Então... querem me ouvir
+trepando com a mulher do Harold?
+
+483
+00:26:18,523 --> 00:26:20,883
+Tudo bem, somos adeptos
+do poliamor. Certo, Dan?
+
+484
+00:26:25,163 --> 00:26:27,883
+Mais de sete milhões de emails.
+
+485
+00:26:29,283 --> 00:26:31,802
+- Tudo nos nossos servidores.
+- Meus servidores.
+
+486
+00:26:31,803 --> 00:26:36,803
+Todos com diagramas racistas
+ofensivos e pornográficos.
+
+487
+00:26:37,403 --> 00:26:39,803
+- Podem explicar?
+- Erro de IA.
+
+488
+00:26:40,043 --> 00:26:41,523
+Erro humano.
+
+489
+00:26:41,563 --> 00:26:42,803
+Vou retificar.
+
+490
+00:26:43,723 --> 00:26:45,963
+Não exclua a IA Dinesh.
+Gosto muito dela.
+
+491
+00:26:46,483 --> 00:26:49,403
+Posso ser mais como ela.
+Aprenderei com meus erros.
+
+492
+00:26:49,443 --> 00:26:51,043
+- Vou me otimizar.
+- E...
+
+493
+00:26:52,163 --> 00:26:53,163
+já era.
+
+494
+00:26:54,843 --> 00:26:55,883
+Dinesh?
+
+495
+00:26:59,243 --> 00:27:01,603
+Pode mandar as especificações,
+por favor?
+
+496
+00:27:02,443 --> 00:27:03,443
+Claro, Gabe.
+
+497
+00:27:12,723 --> 00:27:13,923
+- Paul.
+- Gavin.
+
+498
+00:27:13,963 --> 00:27:15,962
+- Fechamos o acordo?
+- Fechamos.
+
+499
+00:27:15,963 --> 00:27:18,803
+- Não falei?
+- Você leu os detalhes do acordo?
+
+500
+00:27:18,843 --> 00:27:21,483
+Não precisei. Vamos ter
+que cortar divisões? Claro.
+
+501
+00:27:21,523 --> 00:27:24,363
+Algumas pessoas vão ter
+que sacrificar suas pensões?
+
+502
+00:27:24,403 --> 00:27:27,403
+Você decide. Mas todos temos
+que fazer sacrifícios.
+
+503
+00:27:27,963 --> 00:27:30,363
+Queria que tivesse olhado
+esses números.
+
+504
+00:27:30,403 --> 00:27:32,523
+A nova Hooli vai ser bem menor.
+
+505
+00:27:32,563 --> 00:27:33,883
+Você falou Hooli.
+
+506
+00:27:33,923 --> 00:27:36,563
+Percebeu isso?
+Isso é tudo o que importa.
+
+507
+00:27:37,163 --> 00:27:40,203
+- Trabalhe nisso.
+- Estou tentando e falando nisso,
+
+508
+00:27:40,803 --> 00:27:43,483
+temos muitos funcionários
+mudando para a Amazon,
+
+509
+00:27:43,523 --> 00:27:47,043
+não precisamos de tanto espaço
+e precisamos reduzir custos.
+
+510
+00:27:47,363 --> 00:27:48,323
+O que é isso?
+
+511
+00:27:48,803 --> 00:27:51,323
+Por que o logotipo
+deles é maior do que o nosso?
+
+512
+00:27:51,643 --> 00:27:54,323
+Porque agora
+somos sublocatários deles.
+
+513
+00:27:54,363 --> 00:27:56,763
+Foi o único jeito
+de manter a Hooli aqui.
+
+514
+00:27:56,803 --> 00:28:00,403
+Quer dizer que El Pollo Loco
+tem mais funcionários que nós?
+
+515
+00:28:00,443 --> 00:28:02,443
+Quantas divisões
+eu tive que cortar?
+
+516
+00:28:02,483 --> 00:28:05,483
+- Temos de arrumar isso. Já!
+- Já foi tudo assinado.
+
+517
+00:28:05,523 --> 00:28:07,923
+E agora eu trabalho
+para a Amazon.
+
+518
+00:28:11,363 --> 00:28:12,563
+Passe bem, Gavin.
+
+519
+00:28:16,963 --> 00:28:17,883
+Cacete!
+
+520
+00:28:17,923 --> 00:28:20,483
+Como assim, se ainda estou
+feliz na Pied Piper?
+
+521
+00:28:20,523 --> 00:28:22,843
+Por que está perguntando isso?
+
+522
+00:28:23,083 --> 00:28:25,843
+Sei que você é meu terapeuta.
+O juiz o indicou, eu vi.
+
+523
+00:28:25,883 --> 00:28:29,723
+Meu desejo de estar perto
+do Richard, a necessidade dele
+
+524
+00:28:29,763 --> 00:28:32,123
+me transformou em um capacho.
+
+525
+00:28:32,163 --> 00:28:35,443
+Prejudicou meu raciocínio
+e o levou a um mau caminho.
+
+526
+00:28:37,323 --> 00:28:38,523
+O quê?
+
+527
+00:28:39,083 --> 00:28:42,163
+Não vou nem responder a isso.
+Claro que lá é o meu lugar.
+
+528
+00:28:42,203 --> 00:28:44,043
+Onde mais seria o meu lugar?
+
+529
+00:28:45,123 --> 00:28:46,163
+Tudo bem.
+
+530
+00:28:47,683 --> 00:28:50,803
+Cheguei em casa.
+Espero que eu...
+
+531
+00:28:51,683 --> 00:28:52,803
+Jared?
+
+532
+00:28:53,843 --> 00:28:55,203
+O que está fazendo aqui?
+
+533
+00:29:00,883 --> 00:29:01,963
+Não sei.
+
+534
+00:29:02,723 --> 00:29:04,443
+Achei que tivesse se mudado.
+
+535
+00:29:07,643 --> 00:29:09,443
+É o Big Head daqui.
+
+536
+00:29:11,123 --> 00:29:12,963
+A garagem não mudou nada.
+
+537
+00:29:13,803 --> 00:29:16,083
+Só os ratos voltaram com tudo.
+
+538
+00:29:16,843 --> 00:29:18,003
+Legal.
+
+539
+00:29:18,323 --> 00:29:20,923
+Big Head, precisamos
+conversar sobre negócios.
+
+540
+00:29:21,723 --> 00:29:23,043
+- Oi, Jared.
+- Jian-Yang,
+
+541
+00:29:23,083 --> 00:29:26,243
+eu estava relembrando
+os velhos tempos...
+
+542
+00:29:26,283 --> 00:29:28,803
+Fique ou vá embora.
+Isso não me interessa.
+
+543
+00:29:30,163 --> 00:29:33,523
+Big Head, precisamos
+tirar a Gwart da incubadora.
+
+544
+00:29:34,043 --> 00:29:36,283
+Sério? Pensei que gostássemos
+da Gwart.
+
+545
+00:29:36,883 --> 00:29:38,003
+Que droga!
+
+546
+00:29:38,043 --> 00:29:40,683
+- Gwart?
+- A Gwart tem uma ótima ideia.
+
+547
+00:29:41,043 --> 00:29:42,363
+Um software incrível.
+
+548
+00:29:42,683 --> 00:29:46,803
+Mas eu pedi um plano de negócios
+e ela não tem um.
+
+549
+00:29:47,323 --> 00:29:49,163
+Ela é uma codificadora
+brilhante,
+
+550
+00:29:49,203 --> 00:29:51,403
+mas isto não é caridade.
+
+551
+00:29:52,443 --> 00:29:54,523
+Ela também não é nada amigável.
+
+552
+00:29:54,563 --> 00:29:56,363
+É ruim para a "vibe".
+
+553
+00:29:57,283 --> 00:30:00,803
+Este lugar devia ser
+um canto tranquilo.
+
+554
+00:30:01,963 --> 00:30:03,962
+Eu arranjei latas novas
+pra você.
+
+555
+00:30:03,963 --> 00:30:05,003
+Obrigado, Big Head.
+
+556
+00:30:17,283 --> 00:30:19,883
+Parece que você
+precisa de ajuda. Posso?
+
+557
+00:30:32,363 --> 00:30:33,323
+Eu sou o Jared.
+
