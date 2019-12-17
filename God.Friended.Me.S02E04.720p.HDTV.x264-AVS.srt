@@ -1,0 +1,4980 @@
+﻿1
+00:00:00,031 --> 00:00:01,701
+<i>Anteriormente...</i>
+
+2
+00:00:01,702 --> 00:00:03,392
+A galeria que visitamos
+naquele dia,
+
+3
+00:00:03,392 --> 00:00:04,738
+Audrey Grenelle é a dona dela.
+
+4
+00:00:04,738 --> 00:00:06,037
+[AMIGO DA ANNIE]
+<i>Ela tem uma coleção privada</i>
+
+5
+00:00:06,037 --> 00:00:06,890
+<i>no Louvre.</i>
+
+6
+00:00:06,890 --> 00:00:08,863
+Essa imagem toda foi feita
+com código binário.
+
+7
+00:00:08,863 --> 00:00:11,340
+Minha história é em Nova York
+com você.
+
+8
+00:00:11,340 --> 00:00:14,115
+Eu te amo, Cara. Sei que
+não consegue dizer isso ainda.
+
+9
+00:00:14,115 --> 00:00:15,369
+Então demore o quanto precisar.
+
+10
+00:00:15,369 --> 00:00:17,064
+Depois que dei
+minha filha para adoção,
+
+11
+00:00:17,064 --> 00:00:20,462
+abri os registros adotivos dela
+e valeu muito a pena.
+
+12
+00:00:20,462 --> 00:00:24,722
+Eu a vi com sua família
+e ela estava tão feliz.
+
+13
+00:00:25,945 --> 00:00:31,298
+[HIP-HOP TOCANDO]
+
+14
+00:00:31,299 --> 00:00:34,258
+[MILES] <i>Me sinto bem
+por estar de volta a Nova York</i>
+
+15
+00:00:34,258 --> 00:00:36,991
+<i>e com um novo mistério
+ para resolver.</i>
+
+16
+00:00:36,991 --> 00:00:38,553
+O Perfil de Deus
+me levou até Paris,
+
+17
+00:00:38,553 --> 00:00:40,866
+onde eu encontrei uma pintura
+chamada "O Caminho"
+
+18
+00:00:40,866 --> 00:00:44,094
+e essa pintura possui
+respostas do meu futuro.
+
+19
+00:00:44,094 --> 00:00:47,179
+Então, sim, as coisas
+estão ficando interessantes.
+
+20
+00:00:48,142 --> 00:00:50,568
+[RAKESH] Pedi ao meu time de códigos
+digitalizar a pintura,
+
+21
+00:00:50,568 --> 00:00:53,167
+para ter certeza de que
+não deixamos nada óbvio passar.
+
+22
+00:00:53,167 --> 00:00:54,974
+Não acho que a imagem
+
+23
+00:00:54,974 --> 00:00:56,677
+deveria ser nosso foco.
+
+24
+00:00:57,991 --> 00:01:00,266
+Esse é o código
+sobreposto na imagem.
+
+25
+00:01:00,266 --> 00:01:02,226
+Tem que ser onde a mensagem
+está escondida.
+
+26
+00:01:02,226 --> 00:01:04,427
+Deixei ele rodando num
+software de descriptografia
+
+27
+00:01:04,427 --> 00:01:06,754
+pelas últimas 48h seguidas.
+
+28
+00:01:06,755 --> 00:01:10,020
+[MILES] - E?
+[RAKESH] - Bom, é um processo.
+
+29
+00:01:11,004 --> 00:01:11,959
+Então, nada.
+
+30
+00:01:11,959 --> 00:01:13,983
+Sem a chave padrão
+usada para criá-la,
+
+31
+00:01:13,983 --> 00:01:16,245
+não tem como determinar
+quais dígitos
+
+32
+00:01:16,245 --> 00:01:17,385
+são importantes e quais não.
+
+33
+00:01:17,385 --> 00:01:18,785
+Então como pegaremos
+
+34
+00:01:18,785 --> 00:01:19,947
+a chave para destravá-lo?
+
+35
+00:01:19,947 --> 00:01:22,167
+Precisamos de acesso
+ao programa de IA
+
+36
+00:01:22,167 --> 00:01:23,780
+que criou a pintura,
+e a única pessoa
+
+37
+00:01:23,780 --> 00:01:24,737
+que pode nos dar isso é...
+
+38
+00:01:24,737 --> 00:01:26,111
+Audrey Grenelle.
+
+39
+00:01:26,817 --> 00:01:29,184
+Conseguiu descobrir quando é
+a inauguração da galeria dela?
+
+40
+00:01:29,184 --> 00:01:31,141
+Sim, é amanhã,
+mas falei com a Annie,
+
+41
+00:01:31,141 --> 00:01:32,411
+e Audrey Grenelle
+raramente vai
+
+42
+00:01:32,411 --> 00:01:33,951
+as suas inaugurações.
+
+43
+00:01:34,210 --> 00:01:36,086
+Tem que haver um jeito
+de contatá-la.
+
+44
+00:01:36,086 --> 00:01:38,161
+Deveríamos ir lá,
+talvez tenha alguém
+
+45
+00:01:38,161 --> 00:01:39,197
+que possa fazer isso.
+
+46
+00:01:39,197 --> 00:01:40,693
+Vale a pena tentar.
+
+47
+00:01:40,694 --> 00:01:42,677
+Esperem aí.
+
+48
+00:01:42,678 --> 00:01:43,458
+Com licença.
+
+49
+00:01:43,458 --> 00:01:44,815
+Agora a Cara voltou
+e do nada
+
+50
+00:01:44,815 --> 00:01:46,156
+não faço mais parte do time?
+
+51
+00:01:46,156 --> 00:01:47,244
+Você não precisa
+
+52
+00:01:47,244 --> 00:01:48,767
+pesquisar e desenvolver
+ou algo assim?
+
+53
+00:01:48,767 --> 00:01:51,418
+Não é como se
+eu parasse totalmente.
+
+54
+00:01:52,336 --> 00:01:53,990
+Penso nas coisas o tempo todo.
+
+55
+00:01:53,990 --> 00:01:56,819
+E além disso,
+a gangue está de volta.
+
+56
+00:01:56,819 --> 00:01:58,642
+Não quero perder nada.
+
+57
+00:01:59,624 --> 00:02:01,171
+Você faz ideia
+do que ele faz aqui?
+
+58
+00:02:01,171 --> 00:02:02,987
+Nem um pouquinho.
+
+59
+00:02:02,988 --> 00:02:05,488
+Legenda:
+BeaGeller | GabiMoretti | Hayato | Rtoledo
+
+60
+00:02:05,489 --> 00:02:07,983
+Legenda:
+Sanches | Serpa | TheDimas
+
+61
+00:02:07,984 --> 00:02:10,484
+Revisão:
+GabiMoretti
+
+62
+00:02:10,485 --> 00:02:11,727
+Oi, posso ajudar?
+
+63
+00:02:11,727 --> 00:02:13,836
+[MILES]
+Queríamos falar com Audrey Grenelle.
+
+64
+00:02:13,836 --> 00:02:15,843
+É sobre uma pintura
+de uma coleção dela.
+
+65
+00:02:15,843 --> 00:02:17,452
+Sinto muito,
+a Srta. Grenelle não está.
+
+66
+00:02:17,452 --> 00:02:19,956
+Tem algum jeito de entrar
+em contato com ela por nós?
+
+67
+00:02:20,314 --> 00:02:21,278
+Quem são vocês, mesmo?
+
+68
+00:02:21,278 --> 00:02:22,509
+Apenas fãs.
+
+69
+00:02:22,509 --> 00:02:24,325
+Só queríamos conversar com ela,
+
+70
+00:02:24,325 --> 00:02:25,630
+perguntar algumas coisas.
+
+71
+00:02:25,630 --> 00:02:27,520
+Sei que ela apreciaria
+o interesse,
+
+72
+00:02:27,520 --> 00:02:29,167
+mas ela é uma mulher
+extremamente ocupada.
+
+73
+00:02:29,167 --> 00:02:30,237
+Desculpe não poder ajudar.
+
+74
+00:02:30,237 --> 00:02:31,514
+A pintura se chama "O Caminho".
+
+75
+00:02:31,514 --> 00:02:33,160
+Fez parte da exibição
+"O Futuro da Arte".
+
+76
+00:02:33,160 --> 00:02:34,461
+Eu vi no Louvre.
+
+77
+00:02:35,336 --> 00:02:36,946
+Você é muito sortudo.
+
+78
+00:02:36,946 --> 00:02:39,340
+Foi uma exibição única,
+muito limitada.
+
+79
+00:02:39,340 --> 00:02:40,778
+É, eu sei.
+
+80
+00:02:40,778 --> 00:02:42,169
+Eu viajei até Paris
+
+81
+00:02:42,169 --> 00:02:43,670
+só para achar aquela pintura.
+
+82
+00:02:44,120 --> 00:02:45,633
+Pode parecer maluquice,
+
+83
+00:02:45,633 --> 00:02:48,326
+mas acho que tem
+uma mensagem escondida nela.
+
+84
+00:02:48,326 --> 00:02:50,738
+Só queria perguntá-la sobre.
+
+85
+00:02:52,266 --> 00:02:54,137
+Ela estará na inauguração amanhã,
+
+86
+00:02:54,137 --> 00:02:55,486
+mas eu chegaria cedo.
+
+87
+00:02:55,486 --> 00:02:56,918
+Ela raramente fica muito.
+
+88
+00:02:56,919 --> 00:02:59,206
+[MÚSICA DE SUSPENSE]
+
+89
+00:02:59,207 --> 00:03:00,377
+Parece que vamos conhecer
+
+90
+00:03:00,377 --> 00:03:02,370
+a indescritível Audrey Grenelle.
+
+91
+00:03:02,371 --> 00:03:03,996
+Sim, e quando isso acontecer
+
+92
+00:03:03,996 --> 00:03:06,650
+talvez, finalmente,
+teremos algumas respostas.
+
+93
+00:03:06,651 --> 00:03:08,251
+[PORTA FECHANDO]
+
+94
+00:03:08,252 --> 00:03:10,005
+[MILES] <i>Nossa sugestão de amizade,
+Teddy Preston,</i>
+
+95
+00:03:10,005 --> 00:03:12,145
+estava prestes a falar com
+um auditório lotado
+
+96
+00:03:12,145 --> 00:03:14,624
+quando o filho dele apareceu
+e subiu no palco.
+
+97
+00:03:14,624 --> 00:03:15,984
+Ele fez o quê?
+Por quê?
+
+98
+00:03:15,984 --> 00:03:17,933
+Talvez eu tenha
+contado tudo a ele.
+
+99
+00:03:17,933 --> 00:03:19,727
+[RISADAS]
+
+100
+00:03:19,728 --> 00:03:21,220
+Deu tudo certo no final.
+
+101
+00:03:21,701 --> 00:03:23,744
+Tenho que admitir,
+gosto do seu estilo.
+
+102
+00:03:23,745 --> 00:03:26,319
+Obrigada,
+Miles me acha impulsiva.
+
+103
+00:03:26,319 --> 00:03:27,036
+[MILES] <i>O quê?
+Não!</i>
+
+104
+00:03:27,036 --> 00:03:29,624
+Eu nunca disse "impulsiva".
+
+105
+00:03:30,772 --> 00:03:33,734
+Tá, eu disse,
+mas agora sei o valor
+
+106
+00:03:33,734 --> 00:03:35,221
+de arriscar.
+
+107
+00:03:35,222 --> 00:03:36,658
+[CELULAR TOCANDO E VIBRANDO]
+
+108
+00:03:36,658 --> 00:03:42,247
+[MÚSICA INDIE NO AMBIENTE]
+
+109
+00:03:42,248 --> 00:03:43,834
+Recebeu uma sugestão de amizade?
+
+110
+00:03:44,273 --> 00:03:47,406
+O quê? Não.
+Na verdade, é meu trabalho.
+
+111
+00:03:47,406 --> 00:03:48,538
+Eles precisam de mim.
+
+112
+00:03:48,538 --> 00:03:49,608
+Desculpem, isso foi ótimo,
+
+113
+00:03:49,608 --> 00:03:51,890
+mas eu realmente
+preciso do dinheiro.
+
+114
+00:03:51,890 --> 00:03:53,152
+Vejo vocês depois?
+
+115
+00:03:53,152 --> 00:03:54,719
+Foi muito bom te conhecer,
+Cara.
+
+116
+00:03:54,719 --> 00:03:56,417
+É, igualmente.
+
+117
+00:03:56,417 --> 00:04:00,072
+[MÚSICA INDIE NO AMBIENTE]
+[PORTA ABRINDO E FECHANDO]
+
+118
+00:04:00,072 --> 00:04:01,335
+O que foi?
+
+119
+00:04:01,335 --> 00:04:04,120
+[MILES] - Vocês viram isso?
+[CARA] - O quê?
+
+120
+00:04:04,120 --> 00:04:05,687
+Joy no telefone.
+
+121
+00:04:05,687 --> 00:04:07,596
+Acho que recebeu
+uma sugestão de amizade.
+
+122
+00:04:07,597 --> 00:04:09,718
+[MÚSICA DE SUSPENSE]
+[RAKESH RI]
+
+123
+00:04:09,719 --> 00:04:10,953
+Por que ela mentiria?
+
+124
+00:04:10,953 --> 00:04:12,563
+Não sei,
+mas estou te dizendo,
+
+125
+00:04:12,563 --> 00:04:14,082
+eu conheço aquela cara.
+
+126
+00:04:14,614 --> 00:04:16,551
+Miles,
+se ela tivesse recebido,
+
+127
+00:04:16,551 --> 00:04:17,809
+teria nos contado!
+
+128
+00:04:17,809 --> 00:04:19,575
+Talvez seja sobre
+a audiência de afastamento
+
+129
+00:04:19,575 --> 00:04:20,194
+lá em Chicago.
+
+130
+00:04:20,194 --> 00:04:22,269
+[RAKESH] - É em alguns dias.
+[MILES] - É, é possível.
+
+131
+00:04:22,269 --> 00:04:23,083
+Miles, deixe disso.
+
+132
+00:04:23,083 --> 00:04:25,551
+Por que ela não contaria?
+
+133
+00:04:25,551 --> 00:04:26,418
+[RAKESH]
+Somos um time.
+
+134
+00:04:26,418 --> 00:04:27,599
+Talvez ela não queria
+
+135
+00:04:27,599 --> 00:04:28,527
+fazer parte do time.
+
+136
+00:04:28,527 --> 00:04:30,158
+Ela só está fazendo isso
+há um mês.
+
+137
+00:04:30,158 --> 00:04:31,874
+Certeza de que
+ela ainda quer sua ajuda.
+
+138
+00:04:31,874 --> 00:04:32,917
+Você não conhece a Joy.
+
+139
+00:04:32,917 --> 00:04:34,879
+E se ela achar
+que está pronta para superar?
+
+140
+00:04:34,879 --> 00:04:36,089
+E se ela já superou?
+
+141
+00:04:36,089 --> 00:04:38,073
+O que significa
+que o tempo que passamos
+
+142
+00:04:38,073 --> 00:04:41,549
+ajudando com a sugestão de amizade
+pode ter acabado.
+
+143
+00:04:41,549 --> 00:04:44,749
+Sei o quanto ajudar
+com essas sugestões de amizade
+
+144
+00:04:44,749 --> 00:04:47,649
+significa para você,
+para todos nós.
+
+145
+00:04:48,260 --> 00:04:50,369
+Então, talvez, você devesse
+falar com a Joy,
+
+146
+00:04:50,877 --> 00:04:52,052
+ver no que ela está pensando.
+
+147
+00:04:52,052 --> 00:04:58,739
+[MÚSICA MELANCÓLICA]
+
+148
+00:04:58,740 --> 00:05:01,395
+[SUSAN] <i>Estou tão contente que conseguiu
+se reconectar com a Annie</i>.
+
+149
+00:05:01,395 --> 00:05:03,092
+É, eu também.
+
+150
+00:05:03,092 --> 00:05:05,747
+O fato de ela assumir,
+escrever o livro para você e...
+
+151
+00:05:05,747 --> 00:05:09,185
+que mundo estranho e pequeno
+em que a gente vive.
+
+152
+00:05:09,185 --> 00:05:11,143
+É, você se acostuma
+de tanto lidar
+
+153
+00:05:11,143 --> 00:05:12,623
+com o Perfil de Deus.
+
+154
+00:05:12,623 --> 00:05:14,951
+Bom, estou feliz
+que ela está escrevendo de novo
+
+155
+00:05:14,951 --> 00:05:16,540
+e feliz por você estar de volta.
+
+156
+00:05:17,236 --> 00:05:19,064
+Antes que eu esqueça,
+
+157
+00:05:19,064 --> 00:05:21,110
+Liv tem um jogo de futebol
+essa tarde.
+
+158
+00:05:21,110 --> 00:05:23,024
+Sei que é de última hora,
+mas tem alguma chance
+
+159
+00:05:23,024 --> 00:05:23,930
+de você conseguir ir?
+
+160
+00:05:23,930 --> 00:05:25,661
+Sei que ela amaria te ver.
+
+161
+00:05:25,662 --> 00:05:27,072
+- Eu estarei lá.
+- Ótimo.
+
+162
+00:05:27,072 --> 00:05:28,813
+Alguma novidade sobre
+a caça ao emprego?
+
+163
+00:05:28,813 --> 00:05:29,814
+Ainda não.
+
+164
+00:05:29,814 --> 00:05:31,425
+[NOTIFICAÇÃO DE CELULAR]
+
+165
+00:05:31,425 --> 00:05:33,688
+Você acabou de voltar.
+O trabalho vai se resolver.
+
+166
+00:05:33,688 --> 00:05:36,299
+É, espero que a minha
+situação de vida também.
+
+167
+00:05:36,299 --> 00:05:37,431
+O que quer dizer?
+
+168
+00:05:37,431 --> 00:05:39,346
+A mulher que está no
+meu apartamento
+
+169
+00:05:39,346 --> 00:05:41,391
+não pode se mudar tão cedo,
+parece que estou no
+
+170
+00:05:41,391 --> 00:05:43,654
+sofá da Parker pelos
+próximos meses.
+
+171
+00:05:43,654 --> 00:05:47,571
+Sabe,
+temos um quarto vago na casa.
+
+172
+00:05:47,571 --> 00:05:50,792
+Eu não quero dar trabalho.
+
+173
+00:05:50,792 --> 00:05:51,923
+Você não daria.
+
+174
+00:05:51,923 --> 00:05:54,269
+Gostaríamos de ter você, Cara.
+
+175
+00:05:55,100 --> 00:05:58,582
+[RISADAS]
+Desculpe, não deveria te pressionar.
+
+176
+00:05:58,582 --> 00:06:00,149
+[MÚSICA CALMA]
+
+177
+00:06:00,149 --> 00:06:02,103
+Pense sobre, certo?
+
+178
+00:06:02,104 --> 00:06:03,064
+[MÚSICA CALMA]
+
+179
+00:06:03,065 --> 00:06:04,849
+Eu irei, obrigada.
+
+180
+00:06:04,849 --> 00:06:06,590
+[MÚSICA CALMA]
+
+181
+00:06:06,590 --> 00:06:13,379
+[CONVERSAS PARALELAS]
+
+182
+00:06:13,380 --> 00:06:15,469
+Oi, com licença.
+Sou um amigo da Joy.
+
+183
+00:06:15,469 --> 00:06:16,557
+Ela está aqui?
+
+184
+00:06:16,557 --> 00:06:17,988
+Não,
+ela não está trabalhando hoje.
+
+185
+00:06:19,995 --> 00:06:21,600
+Obrigado.
+
+186
+00:06:22,693 --> 00:06:25,914
+[FAZENDO LIGAÇÃO]
+[MÚSICA DE SUSPENSE]
+
+187
+00:06:25,914 --> 00:06:27,306
+Ei, Rakesh.
+
+188
+00:06:27,306 --> 00:06:30,614
+Miles, ei, você
+sabia que os Grenelles
+
+189
+00:06:30,614 --> 00:06:32,007
+podem traçar sua nobreza de volta
+
+190
+00:06:32,007 --> 00:06:34,357
+ao tribunal de origem
+de Louis XI?
+
+191
+00:06:34,357 --> 00:06:35,880
+Rakesh,
+eu aprecio a pesquisa
+
+192
+00:06:35,880 --> 00:06:38,274
+sobre os Grenelle,
+mas eu vim no trabalho da Joy,
+
+193
+00:06:38,274 --> 00:06:39,841
+e ela não estava lá.
+
+194
+00:06:39,841 --> 00:06:42,278
+Então ela mentiu para nós.
+
+195
+00:06:42,278 --> 00:06:44,976
+Droga, bem, Miles,
+talvez você estava certo
+
+196
+00:06:44,976 --> 00:06:46,021
+sobre ela ter recebido
+uma sugestão de amizade.
+
+197
+00:06:46,021 --> 00:06:47,326
+É, algo está acontecendo.
+
+198
+00:06:47,326 --> 00:06:49,154
+Tudo bem,
+me dê alguns minutos.
+
+199
+00:06:49,154 --> 00:06:50,982
+<i>Vou rastrear o telefone dela,
+e te mando a localização.</i>
+
+200
+00:06:50,982 --> 00:06:52,027
+Beleza.
+
+201
+00:06:52,027 --> 00:06:53,463
+[MÚSICA DE SUSPENSE]
+
+202
+00:06:53,463 --> 00:06:56,466
+[MÚSICA DE SUSPENSE]
+
+203
+00:06:56,466 --> 00:07:00,814
+[MÚSICA DRAMÁTICA]
+
+204
+00:07:00,815 --> 00:07:05,693
+[PÁSSAROS CANTANDO]
+
+205
+00:07:05,693 --> 00:07:08,565
+O que você quer, Miles?
+
+206
+00:07:08,565 --> 00:07:10,606
+Só quero ter certeza
+de que você está bem.
+
+207
+00:07:12,917 --> 00:07:14,223
+Recebeu uma nova
+sugestão de amizade?
+
+208
+00:07:14,223 --> 00:07:15,311
+O que isso importa?
+
+209
+00:07:15,311 --> 00:07:16,660
+É importante porque
+somos uma equipe.
+
+210
+00:07:16,660 --> 00:07:18,532
+O que aconteceu com
+a coisa de <i>Obi-Wan</i>
+
+211
+00:07:18,532 --> 00:07:19,707
+que tínhamos?
+
+212
+00:07:19,707 --> 00:07:21,796
+Eu o libertei da sua obrigação.
+
+213
+00:07:21,796 --> 00:07:23,101
+Não é uma obrigação.
+
+214
+00:07:23,101 --> 00:07:24,712
+Somos amigos.
+Eu quero ajudar.
+
+215
+00:07:24,712 --> 00:07:26,714
+[JOY EXALA]
+Você mal me conhece, Miles.
+
+216
+00:07:26,714 --> 00:07:28,411
+Isso não é verdade.
+
+217
+00:07:28,411 --> 00:07:30,457
+Somos as únicas duas
+pessoas no mundo
+
+218
+00:07:30,457 --> 00:07:31,762
+que entendem o que é
+
+219
+00:07:31,762 --> 00:07:33,547
+ter essa responsabilidade.
+
+220
+00:07:33,547 --> 00:07:35,462
+Se você quer fazer
+isso por conta própria,
+
+221
+00:07:35,462 --> 00:07:40,244
+eu entendo,
+mas seja honesta comigo.
+
+222
+00:07:41,685 --> 00:07:43,382
+Sim.
+
+223
+00:07:43,382 --> 00:07:45,689
+Eu recebi uma sugestão amizade,
+
+224
+00:07:45,689 --> 00:07:47,822
+mas não é por isso
+que eu menti para você.
+
+225
+00:07:47,822 --> 00:07:52,169
+Não quero fazer isso
+por conta própria.
+
+226
+00:07:52,957 --> 00:07:54,655
+Na verdade,
+eu nem sequer penso
+
+227
+00:07:54,655 --> 00:07:56,004
+que posso fazer isso.
+
+228
+00:07:56,004 --> 00:07:58,310
+Por quê?
+Quem é a sugestão de amizade?
+
+229
+00:07:58,310 --> 00:08:02,618
+[MÚSICA TENSA]
+
+230
+00:08:02,619 --> 00:08:04,099
+Minha filha.
+
+231
+00:08:04,099 --> 00:08:09,717
+[MÚSICA DE SUSPENSE]
+
+232
+00:08:09,718 --> 00:08:12,327
+UMA SÉRIE EXCLUSIVA DARKSUBS
+
+233
+00:08:13,632 --> 00:08:15,721
+A razão pela qual eu a dei,
+
+234
+00:08:15,721 --> 00:08:17,462
+foi para que ela pudesse
+ter uma vida melhor,
+
+235
+00:08:17,462 --> 00:08:19,333
+para poder ser feliz.
+
+236
+00:08:19,333 --> 00:08:21,335
+E até agora,
+pensei ter feito a escolha certa,
+
+237
+00:08:21,335 --> 00:08:23,294
+mas agora que o Perfil de Deus
+enviou seu nome...
+
+238
+00:08:23,294 --> 00:08:24,600
+[MILES]
+Ei, Joy.
+
+239
+00:08:24,600 --> 00:08:27,254
+Nem sabemos
+qual é o problema dela.
+
+240
+00:08:27,254 --> 00:08:29,692
+Não há razão para irmos direto
+para o pior cenário possível.
+
+241
+00:08:29,692 --> 00:08:30,867
+Sério?
+
+242
+00:08:30,867 --> 00:08:32,216
+Porque geralmente é
+dessa maneira.
+
+243
+00:08:32,216 --> 00:08:35,088
+Joy, qual é.
+O Miles está certo.
+
+244
+00:08:35,088 --> 00:08:37,177
+Só precisamos descobrir
+o que está acontecendo
+
+245
+00:08:37,177 --> 00:08:39,745
+e corrigir,
+como sempre fazemos.
+
+246
+00:08:39,745 --> 00:08:41,921
+Temos um bom histórico.
+
+247
+00:08:41,921 --> 00:08:43,488
+Ela vai ficar bem.
+
+248
+00:08:43,488 --> 00:08:45,795
+[MÚSICA DRAMÁTICA]
+
+249
+00:08:45,795 --> 00:08:47,710
+Então, por onde começamos?
+
+250
+00:08:47,710 --> 00:08:49,707
+Permita-me.
+
+251
+00:08:50,451 --> 00:08:52,453
+Ela tem 13 anos,
+o que significa que
+
+252
+00:08:52,453 --> 00:08:54,194
+ela só tem
+um perfil no Facebook,
+
+253
+00:08:54,194 --> 00:08:55,544
+o que significa,
+um brinquedo brilhante,
+
+254
+00:08:55,544 --> 00:08:58,808
+o que significa que ela,
+está on-line o tempo todo.
+
+255
+00:08:58,808 --> 00:09:00,984
+[RAKESH]
+Certo, vamos ver o que temos aqui.
+
+256
+00:09:00,984 --> 00:09:03,900
+[RAKESH] <i>Parece que ela ajuda
+na mercearia dos pais,</i>
+
+257
+00:09:03,900 --> 00:09:06,467
+e alguns posts
+sobre o quanto dever de casa
+
+258
+00:09:06,467 --> 00:09:08,295
+o Mr. Lindenburgh está dando.
+
+259
+00:09:08,295 --> 00:09:11,124
+[MÚSICA DE SUSPENSE]
+
+260
+00:09:11,124 --> 00:09:13,083
+Espere,
+vai para cima da foto do futebol.
+
+261
+00:09:13,083 --> 00:09:15,215
+[MÚSICA DE SUSPENSE]
+
+262
+00:09:15,215 --> 00:09:17,130
+[CARA]
+Essa é a minha irmã, Liv.
+
+263
+00:09:17,130 --> 00:09:19,959
+Normalmente, eu diria
+que é uma coincidência louca,
+
+264
+00:09:19,959 --> 00:09:22,092
+mas é com o Perfil de Deus
+que estamos lidando.
+
+265
+00:09:22,092 --> 00:09:23,746
+Elas têm um jogo
+de futebol esta tarde.
+
+266
+00:09:23,746 --> 00:09:25,225
+Eu ia encontrar a minha mãe lá.
+
+267
+00:09:25,225 --> 00:09:26,226
+Há uma boa chance
+
+268
+00:09:26,226 --> 00:09:27,314
+dos pais estarem lá também.
+
+269
+00:09:27,314 --> 00:09:28,707
+Podemos ir lá,
+falar com eles,
+
+270
+00:09:28,707 --> 00:09:29,752
+e ver o que podemos descobrir.
+
+271
+00:09:29,752 --> 00:09:31,710
+[MÚSICA DE SUSPENSE]
+
+272
+00:09:31,710 --> 00:09:33,059
+Futebol, então.
+
+273
+00:09:33,059 --> 00:09:34,583
+[MÚSICA DE SUSPENSE LEVE]
+
+274
+00:09:34,583 --> 00:09:36,672
+Agora não há como voltar,
+
+275
+00:09:36,672 --> 00:09:38,978
+porque já assinamos.
+
+276
+00:09:38,978 --> 00:09:40,110
+Trish,
+não sei sobre isso.
+
+277
+00:09:40,110 --> 00:09:41,372
+Assinaram o quê?
+
+278
+00:09:41,372 --> 00:09:43,374
+Seu pai mencionou
+que ele sempre quis
+
+279
+00:09:43,374 --> 00:09:44,680
+ter aulas de tênis.
+
+280
+00:09:44,680 --> 00:09:46,682
+Um comentário.
+
+281
+00:09:46,682 --> 00:09:48,858
+Pai, isso parece divertido.
+Qual é o problema?
+
+282
+00:09:48,858 --> 00:09:50,294
+Eu não sei.
+
+283
+00:09:50,294 --> 00:09:52,688
+Sinto que isso é algo que
+pessoas aposentadas fazem.
+
+284
+00:09:52,688 --> 00:09:56,343
+Vendi a minha loja
+e você deixou a igreja.
+
+285
+00:09:56,343 --> 00:09:58,955
+Eu acho que é a definição
+de aposentadoria.
+
+286
+00:09:58,955 --> 00:10:01,305
+[GEMIDOS]
+[ALI] Ela chegou lá.
+
+287
+00:10:01,305 --> 00:10:02,393
+Obrigada.
+
+288
+00:10:02,393 --> 00:10:03,742
+[AMBOS RIEM]
+
+289
+00:10:03,742 --> 00:10:06,136
+Arthur.
+
+290
+00:10:06,136 --> 00:10:08,181
+Desculpe por interromper.
+Eu só queria dizer olá.
+
+291
+00:10:08,181 --> 00:10:10,444
+Bispo Thompson,
+que surpresa agradável.
+
+292
+00:10:10,444 --> 00:10:12,316
+Tenho certeza que lembra
+da minha noiva, Trish,
+
+293
+00:10:12,316 --> 00:10:13,534
+e da minha filha, Ali.
+
+294
+00:10:13,534 --> 00:10:15,667
+Claro.
+É bom vê-las novamente.
+
+295
+00:10:15,667 --> 00:10:16,929
+Você tem um minuto?
+
+296
+00:10:16,929 --> 00:10:20,667
+Claro.
+
+297
+00:10:21,368 --> 00:10:22,718
+[ARTHUR]
+<i>Sobre o que quer conversar?</i>
+
+298
+00:10:22,718 --> 00:10:25,808
+Vim até aqui
+esperando um conselho.
+
+299
+00:10:25,808 --> 00:10:27,113
+Sobre o quê?
+
+300
+00:10:27,113 --> 00:10:30,377
+É a minha contraparte
+na Western Diocese.
+
+301
+00:10:30,377 --> 00:10:32,989
+Bishop Roberts,
+um homem bom.
+
+302
+00:10:32,989 --> 00:10:35,339
+Bom, mas difícil.
+
+303
+00:10:35,339 --> 00:10:38,734
+Bem, ele tem suas opiniões
+sobre algumas coisas.
+
+304
+00:10:38,734 --> 00:10:40,083
+Eu estou tentando assumir
+
+305
+00:10:40,083 --> 00:10:42,825
+nosso programa ministerial da
+justiça social em todo estado,
+
+306
+00:10:42,825 --> 00:10:45,866
+e eu não consigo sem
+a assinatura do Roberts.
+
+307
+00:10:46,698 --> 00:10:47,917
+Sabe,
+na minha experiência,
+
+308
+00:10:47,917 --> 00:10:49,570
+se você quer que o
+Roberts te escute,
+
+309
+00:10:49,570 --> 00:10:50,659
+não fale com ele.
+
+310
+00:10:50,659 --> 00:10:52,612
+Fale com
+a Reverenda Mary Pearson.
+
+311
+00:10:53,531 --> 00:10:55,141
+A Bispa assistente.
+
+312
+00:10:55,141 --> 00:10:57,404
+É o caminho de volta.
+Ela é o sussurro do Roberts.
+
+313
+00:10:57,404 --> 00:10:59,885
+Se você conseguir a Mary,
+então consegue tudo.
+
+314
+00:10:59,885 --> 00:11:01,757
+Ela e eu somos velhos amigos.
+
+315
+00:11:01,757 --> 00:11:03,584
+Quer dizer,
+se você quiser,
+
+316
+00:11:03,584 --> 00:11:04,890
+eu ficaria feliz
+em ligar para ela.
+
+317
+00:11:04,890 --> 00:11:07,893
+Isso seria fantástico.
+Obrigado.
+
+318
+00:11:07,893 --> 00:11:09,329
+O prazer é meu.
+
+319
+00:11:09,329 --> 00:11:12,071
+[RISADAS]
+
+320
+00:11:12,071 --> 00:11:13,590
+[MÚSICA DRAMÁTICA LEVE]
+
+321
+00:11:14,304 --> 00:11:15,922
+[TREINADOR]
+<i>Certo, pessoal, vamos nos concentrar.</i>
+
+322
+00:11:15,922 --> 00:11:17,245
+[TREINADOR]
+<i>Foco.</i>
+
+323
+00:11:17,695 --> 00:11:20,070
+[TREINADOR] <i>Ponham mais energia, pessoal.
+Vamos.</i>
+
+324
+00:11:20,070 --> 00:11:21,298
+[TREINADOR]
+<i>Vamos nos divertir!</i>
+
+325
+00:11:21,298 --> 00:11:22,549
+ Você está bem?
+
+326
+00:11:22,549 --> 00:11:23,648
+[TREINADOR]
+<i>É, se divertir, lembram?</i>
+
+327
+00:11:23,648 --> 00:11:24,735
+ Ela está ali.
+
+328
+00:11:24,735 --> 00:11:25,768
+[TREINADOR]
+<i>Concentrem-se.</i>
+
+329
+00:11:25,768 --> 00:11:27,939
+[JOY]
+A número nove.
+
+330
+00:11:28,258 --> 00:11:29,547
+[SUSPIRO]
+[MILES] <i>Certo</i>.
+
+331
+00:11:29,547 --> 00:11:31,696
+Tudo bem, Joy,
+sei que isso é muito.
+
+332
+00:11:31,696 --> 00:11:33,223
+Se quiser,
+pode ficar aqui
+
+333
+00:11:33,223 --> 00:11:34,829
+e podemos conversar
+com os pais dela.
+
+334
+00:11:34,830 --> 00:11:36,400
+Não, vou ficar bem.
+
+335
+00:11:36,400 --> 00:11:38,010
+Tenho que fazer isso.
+Preciso conhecê-los.
+
+336
+00:11:38,010 --> 00:11:39,925
+[TREINADOR] <i>Mantenha sua cabeça baixa,
+cabeça baixa.</i>
+
+337
+00:11:39,925 --> 00:11:41,278
+[JOY LIMPA A GARGANTA]
+
+338
+00:11:42,009 --> 00:11:43,159
+[SUSAN]
+<i>Cara</i>,
+
+339
+00:11:43,159 --> 00:11:44,800
+estou tão feliz que veio.
+
+340
+00:11:44,800 --> 00:11:47,367
+- Sim, claro.
+- Miles, prazer em vê-lo.
+
+341
+00:11:47,367 --> 00:11:49,326
+O prazer é meu,
+essa é minha amiga Joy.
+
+342
+00:11:49,326 --> 00:11:51,545
+Oi, sou Susan,
+prazer em conhecê-la.
+
+343
+00:11:51,545 --> 00:11:52,849
+O mesmo.
+
+344
+00:11:52,851 --> 00:11:53,970
+Liv ficará feliz.
+
+345
+00:11:53,970 --> 00:11:56,139
+Ter sua própria torcida.
+
+346
+00:11:56,139 --> 00:11:57,856
+Na verdade há outra razão,
+
+347
+00:11:57,856 --> 00:11:59,031
+para estamos todos aqui.
+
+348
+00:11:59,031 --> 00:12:01,366
+Estamos meio que trabalhando
+com numa sugestão de amizade.
+
+349
+00:12:01,366 --> 00:12:03,127
+De Lauren Brooks.
+
+350
+00:12:03,573 --> 00:12:05,472
+Conheço bem a família de Lauren.
+
+351
+00:12:05,472 --> 00:12:07,088
+Ela é uma ótima criança.
+
+352
+00:12:07,398 --> 00:12:08,695
+Alguma ideia do que está errado?
+
+353
+00:12:08,695 --> 00:12:11,570
+Não, mas esperávamos que pudesse
+nos apresentar para os pais dela,
+
+354
+00:12:11,570 --> 00:12:14,288
+menos a parte do Perfil de Deus.
+
+355
+00:12:14,288 --> 00:12:15,328
+Claro.
+
+356
+00:12:15,328 --> 00:12:18,151
+Estão bem ali.
+O pai, na verdade, é o treinador.
+
+357
+00:12:18,152 --> 00:12:19,360
+Érica!
+
+358
+00:12:19,360 --> 00:12:21,020
+Desculpe.
+Já volto.
+
+359
+00:12:21,020 --> 00:12:22,381
+<i>David.</i>
+
+360
+00:12:22,381 --> 00:12:23,695
+Ei.
+
+361
+00:12:24,583 --> 00:12:25,716
+Oi, Susan.
+
+362
+00:12:25,716 --> 00:12:27,669
+Obrigada novamente,
+por trazer bebidas para as meninas.
+
+363
+00:12:27,669 --> 00:12:31,020
+De nada, queria te apresentar
+minha filha, Cara,
+
+364
+00:12:31,020 --> 00:12:32,906
+e seus amigos Miles e Joy.
+
+365
+00:12:32,906 --> 00:12:34,445
+[ÉRICA] - Prazer em conhecê-los.
+[DAVID] - Prazer...
+
+366
+00:12:34,445 --> 00:12:35,894
+[DAVID]
+<i>Prazer.</i>
+
+367
+00:12:35,894 --> 00:12:37,056
+Susan é a melhor.
+
+368
+00:12:37,056 --> 00:12:39,433
+Ela é um tipo de mãe não-oficial
+da equipe.
+
+369
+00:12:40,946 --> 00:12:43,434
+Enfim, tenho que voltar,
+o jogo está quase começando.
+
+370
+00:12:43,435 --> 00:12:44,673
+[MÚSICA DRAMÁTICA]
+
+371
+00:12:44,674 --> 00:12:47,055
+Deve ser bem legal
+ter o pai dela como treinador.
+
+372
+00:12:47,055 --> 00:12:48,938
+David jogou futebol na faculdade.
+
+373
+00:12:48,938 --> 00:12:51,244
+Na verdade,
+não é o esporte favorito de Lauren,
+
+374
+00:12:51,244 --> 00:12:52,891
+mas ela sabe o quanto
+isso significa para ele.
+
+375
+00:12:52,891 --> 00:12:55,210
+É algo que eles podem
+compartilhar juntos.
+
+376
+00:12:55,211 --> 00:12:57,789
+- Eles devem ser bem próximos.
+- São.
+
+377
+00:12:57,789 --> 00:12:59,603
+[LAUREN] <i>Não teria perdido o passe
+se você não tivesse errado.</i>
+
+378
+00:12:59,603 --> 00:13:00,704
+[JOGADORA]
+É culpa sua ter perdido.
+
+379
+00:13:00,704 --> 00:13:02,245
+Não me culpe.
+
+380
+00:13:02,615 --> 00:13:03,951
+[APITO]
+
+381
+00:13:03,951 --> 00:13:05,750
+[DAVID]
+Certo pessoal, intervalo!
+
+382
+00:13:05,750 --> 00:13:07,056
+Lauren,
+vai começar o jogo no banco.
+
+383
+00:13:07,056 --> 00:13:09,058
+[LAUREN] - A culpa é dela.
+[DAVID] - Já disse, para o banco.
+
+384
+00:13:09,058 --> 00:13:11,087
+Quer saber, esquece.
+Não quero jogar mesmo.
+
+385
+00:13:11,088 --> 00:13:13,025
+[MÚSICA DRAMÁTICA]
+
+386
+00:13:13,026 --> 00:13:14,031
+Sinto muito.
+
+387
+00:13:14,031 --> 00:13:16,844
+Não sei o deu nela ultimamente.
+Com licença.
+
+388
+00:13:16,845 --> 00:13:17,972
+[MÚSICA DRAMÁTICA]
+
+389
+00:13:17,973 --> 00:13:20,742
+[CARA] - Isso já aconteceu antes?
+[SUSAN] - Nunca.
+
+390
+00:13:20,742 --> 00:13:22,897
+É claro que está acontecendo algo.
+
+391
+00:13:22,898 --> 00:13:24,952
+[MÚSICA DRAMÁTICA]
+
+392
+00:13:24,953 --> 00:13:26,261
+[LIV]
+<i>Cara</i>!
+
+393
+00:13:26,492 --> 00:13:27,511
+[LIV]
+Estou feliz que veio.
+
+394
+00:13:27,511 --> 00:13:29,507
+[CARA]
+Claro, não perderia por nada.
+
+395
+00:13:29,507 --> 00:13:30,557
+[LIV] - Olá, Miles!
+[MILES] - Oi!
+
+396
+00:13:30,557 --> 00:13:32,089
+Está tudo bem?
+
+397
+00:13:32,289 --> 00:13:33,290
+Não sei.
+
+398
+00:13:33,290 --> 00:13:35,345
+Lauren não tem sido
+a mesma nas últimas semanas.
+
+399
+00:13:35,345 --> 00:13:36,977
+- Sabe por quê?
+- Não.
+
+400
+00:13:36,977 --> 00:13:38,320
+Ela não quis falar conosco
+sobre isso,
+
+401
+00:13:38,320 --> 00:13:39,797
+mas ela foi para a detenção
+outro dia,
+
+402
+00:13:39,797 --> 00:13:41,245
+por discutir com a professora.
+
+403
+00:13:41,625 --> 00:13:43,847
+Ela geralmente é a
+melhor aluna da turma.
+
+404
+00:13:44,180 --> 00:13:45,311
+Adolescência, eu acho.
+
+405
+00:13:45,311 --> 00:13:46,443
+[APITO]
+
+406
+00:13:46,443 --> 00:13:47,560
+Tenho que ir.
+
+407
+00:13:47,560 --> 00:13:49,124
+Vejo vocês mais tarde.
+
+408
+00:13:49,125 --> 00:13:50,340
+Ah, Cara,
+
+409
+00:13:50,340 --> 00:13:52,187
+mamãe disse que você
+poderia dormir conosco.
+
+410
+00:13:52,188 --> 00:13:53,538
+Você deveria.
+
+411
+00:13:53,539 --> 00:13:57,888
+[SILÊNCIO CONSTRANGEDOR]
+
+412
+00:13:57,889 --> 00:13:59,198
+Vou só...
+
+413
+00:13:59,531 --> 00:14:01,253
+dar uma olhada na Érica.
+
+414
+00:14:02,024 --> 00:14:03,982
+[MÚSICA DRAMÁTICA]
+
+415
+00:14:03,982 --> 00:14:05,636
+Parece que até algumas
+semanas atrás,
+
+416
+00:14:05,636 --> 00:14:07,551
+tudo na vida de Lauren
+estava indo bem.
+
+417
+00:14:07,551 --> 00:14:10,589
+É, precisamos descobrir
+o que rolou para mudar isso.
+
+418
+00:14:10,589 --> 00:14:14,833
+[MÚSICA DE SUSPENSE]
+
+419
+00:14:15,689 --> 00:14:17,228
+Tenho olhado as publicações
+de Lauren no Face
+
+420
+00:14:17,228 --> 00:14:18,331
+das últimas duas semanas,
+
+421
+00:14:18,331 --> 00:14:20,549
+e realmente não há
+nada fora do comum.
+
+422
+00:14:20,549 --> 00:14:21,870
+Continue procurando.
+
+423
+00:14:21,870 --> 00:14:23,617
+Deve haver algo que se destaca.
+
+424
+00:14:23,618 --> 00:14:27,090
+[SONS DE DIGITAÇÃO]
+
+425
+00:14:27,091 --> 00:14:28,137
+Você está bem?
+
+426
+00:14:28,137 --> 00:14:29,560
+[MÚSICA DRAMÁTICA]
+
+427
+00:14:29,560 --> 00:14:30,883
+Sim...
+
+428
+00:14:31,809 --> 00:14:33,823
+é só que vê-la
+com a família dela...
+
+429
+00:14:33,824 --> 00:14:35,391
+é muito.
+
+430
+00:14:36,240 --> 00:14:37,317
+Vamos descobrir.
+
+431
+00:14:37,317 --> 00:14:41,260
+[MÚSICA DRAMÁTICA]
+
+432
+00:14:41,261 --> 00:14:42,923
+Pessoal, talvez...
+
+433
+00:14:42,923 --> 00:14:44,414
+possam querer ver isso.
+
+434
+00:14:44,414 --> 00:14:46,720
+Parece que Lauren se juntou a
+um grupo fechado do Facebook
+
+435
+00:14:46,720 --> 00:14:47,828
+para crianças adotadas.
+
+436
+00:14:47,828 --> 00:14:48,897
+Tudo bem, e daí?
+
+437
+00:14:48,897 --> 00:14:49,985
+Há uma discussão sobre como
+
+438
+00:14:49,985 --> 00:14:52,534
+solicitar secretamente
+um teste <i>"23andme"</i>.
+
+439
+00:14:52,779 --> 00:14:54,500
+E com base nos comentários,
+parece que ela pediu um
+
+440
+00:14:54,500 --> 00:14:55,819
+há cerca de três semanas,
+
+441
+00:14:55,819 --> 00:14:57,477
+ e ela está esperando
+pelos resultados.
+
+442
+00:14:57,826 --> 00:14:59,516
+É disso que se trata,
+
+443
+00:14:59,516 --> 00:15:01,561
+de como ela tem agido
+nas últimas semanas.
+
+444
+00:15:01,561 --> 00:15:03,691
+[MÚSICA DE SUSPENSE]
+
+445
+00:15:03,691 --> 00:15:05,811
+Ela está me procurando.
+
+446
+00:15:06,730 --> 00:15:09,568
+[MÚSICA DRAMÁTICA]
+
+447
+00:15:09,569 --> 00:15:11,024
+Joy, você está bem?
+
+448
+00:15:11,024 --> 00:15:12,361
+Sim.
+
+449
+00:15:12,913 --> 00:15:14,307
+É só que estamos
+tentando descobrir
+
+450
+00:15:14,307 --> 00:15:16,647
+qual é o problema de Lauren
+por todo esse tempo...
+
+451
+00:15:16,647 --> 00:15:17,963
+e eu sou a resposta.
+
+452
+00:15:17,963 --> 00:15:20,081
+Você já fez o teste <i>"23andme"</i>?
+
+453
+00:15:20,081 --> 00:15:21,105
+Não...
+
+454
+00:15:21,105 --> 00:15:23,153
+Então não tem como
+ela me encontrar.
+
+455
+00:15:24,852 --> 00:15:26,101
+Preciso falar com ela.
+
+456
+00:15:26,101 --> 00:15:27,437
+Ei, espere...
+
+457
+00:15:27,437 --> 00:15:28,961
+Joy, acalme-se por um segundo,
+certo?
+
+458
+00:15:28,961 --> 00:15:30,259
+Ela tem 13 anos.
+
+459
+00:15:30,259 --> 00:15:31,454
+Não pode simplesmente
+ir até ela,
+
+460
+00:15:31,454 --> 00:15:32,633
+e dizer quem você é.
+
+461
+00:15:32,633 --> 00:15:33,642
+Por que não?
+
+462
+00:15:33,642 --> 00:15:35,054
+É claramente o que
+o Perfil de Deus deseja.
+
+463
+00:15:35,054 --> 00:15:36,316
+O Perfil de Deus ou você?
+
+464
+00:15:36,316 --> 00:15:38,244
+[MÚSICA DRAMÁTICA]
+
+465
+00:15:38,244 --> 00:15:40,072
+Ao contrário do que pensa,
+Miles,
+
+466
+00:15:40,072 --> 00:15:42,807
+não tinha a menor intenção
+de dizer a minha filha quem sou.
+
+467
+00:15:42,807 --> 00:15:46,232
+Só vim aqui para ter certeza
+de que ela estava bem.
+
+468
+00:15:46,233 --> 00:15:48,724
+Então, por que ficou?
+
+469
+00:15:48,725 --> 00:15:49,883
+Você mesmo disse.
+
+470
+00:15:49,883 --> 00:15:51,561
+Quando a viu pela primeira vez,
+ela estava feliz.
+
+471
+00:15:51,561 --> 00:15:53,781
+Mas em vez
+de voltar para Chicago
+
+472
+00:15:53,781 --> 00:15:55,554
+e lutar para recuperar sua vida,
+
+473
+00:15:55,554 --> 00:15:58,643
+ficou e conseguiu um emprego
+como garçonete.
+
+474
+00:15:58,644 --> 00:16:00,266
+Então,
+está me dizendo que não quer
+
+475
+00:16:00,266 --> 00:16:02,255
+ter um relacionamento
+com sua filha?
+
+476
+00:16:02,895 --> 00:16:04,203
+Miles...
+
+477
+00:16:04,918 --> 00:16:06,242
+Não,
+ele está certo.
+
+478
+00:16:06,855 --> 00:16:08,291
+Lá no fundo,
+é isso que queria,
+
+479
+00:16:08,291 --> 00:16:10,929
+mas isso não significa
+que estou errada.
+
+480
+00:16:12,035 --> 00:16:13,343
+Olhe, Joy...
+
+481
+00:16:13,606 --> 00:16:14,872
+quero te ajudar,
+
+482
+00:16:14,872 --> 00:16:16,691
+mais do que ninguém.
+
+483
+00:16:16,692 --> 00:16:18,998
+Há um ano,
+o Perfil de Deus me colocou cara a cara
+
+484
+00:16:18,998 --> 00:16:20,372
+com meu próprio passado.
+
+485
+00:16:20,372 --> 00:16:23,407
+Sei o quão difícil isso pode ser,
+
+486
+00:16:23,408 --> 00:16:25,588
+mas quero ter certeza de
+que você está fazendo isso
+
+487
+00:16:25,588 --> 00:16:26,730
+do jeito certo.
+
+488
+00:16:26,730 --> 00:16:30,766
+Se agir pelas costas dos pais dela
+e dizer a Lauren quem você é,
+
+489
+00:16:30,766 --> 00:16:32,627
+pode destruir a família deles.
+
+490
+00:16:32,627 --> 00:16:36,071
+[MÚSICA DRAMÁTICA]
+
+491
+00:16:36,071 --> 00:16:37,668
+Claro que não quero isso,
+
+492
+00:16:39,497 --> 00:16:41,886
+mas o que mais devo fazer?
+
+493
+00:16:42,574 --> 00:16:44,402
+Falamos com os pais dela,
+confirmar estão de acordo
+
+494
+00:16:44,402 --> 00:16:46,965
+sobre a Lauren encontrar você,
+vamos ver o que vira.
+
+495
+00:16:47,882 --> 00:16:49,231
+[RAKESH]
+Sim, faz sentido, Joy.
+
+496
+00:16:49,232 --> 00:16:50,495
+Vocês mesmo disseram.
+
+497
+00:16:50,495 --> 00:16:52,453
+Os pais dela parecem ser legais,
+não é?
+
+498
+00:16:52,453 --> 00:16:54,450
+Talvez concordem.
+
+499
+00:16:55,075 --> 00:16:57,415
+Tudo bem.
+
+500
+00:16:57,415 --> 00:17:00,418
+Amanhã,
+vamos até a mercearia dos pais
+
+501
+00:17:00,418 --> 00:17:01,854
+e falamos com eles.
+
+502
+00:17:01,854 --> 00:17:05,640
+Certo, nos vemos amanhã.
+
+503
+00:17:05,640 --> 00:17:06,685
+Ei, espere aí.
+
+504
+00:17:06,685 --> 00:17:07,947
+Pode me dar uma carona,
+
+505
+00:17:07,947 --> 00:17:09,949
+desde que seu carro
+
+506
+00:17:09,949 --> 00:17:12,425
+não tenha sido multado novamente.
+
+507
+00:17:15,738 --> 00:17:17,738
+[PORTA ABRINDO]
+
+508
+00:17:17,739 --> 00:17:21,330
+Nada pode ser fácil com o Perfil de Deus,
+não é?
+
+509
+00:17:21,331 --> 00:17:23,241
+Ah, não.
+
+510
+00:17:23,745 --> 00:17:24,833
+Bem, está tarde.
+
+511
+00:17:24,833 --> 00:17:26,182
+Eu provavelmente devo ir,
+também.
+
+512
+00:17:26,182 --> 00:17:27,488
+Não quero que a Parker
+ceda meu lugar
+
+513
+00:17:27,488 --> 00:17:28,489
+em seu sofá.
+
+514
+00:17:28,489 --> 00:17:30,448
+Então, acho que
+
+515
+00:17:30,448 --> 00:17:32,058
+não vai morar com sua mãe.
+
+516
+00:17:32,058 --> 00:17:34,142
+Não vejo o lado positivo.
+
+517
+00:17:35,322 --> 00:17:37,933
+Sabe que pode ficar assim.
+
+518
+00:17:37,933 --> 00:17:40,545
+Obrigada,
+mas não quero
+
+519
+00:17:40,545 --> 00:17:41,676
+colocar esse tipo de pressão
+em nós.
+
+520
+00:17:41,676 --> 00:17:44,287
+Acho que tudo está perfeito
+como está.
+
+521
+00:17:44,287 --> 00:17:47,116
+Eu também.
+
+522
+00:17:47,116 --> 00:17:48,553
+Além disso,
+
+523
+00:17:48,553 --> 00:17:49,771
+não tenho espaço no guarda roupa.
+
+524
+00:17:49,771 --> 00:17:51,773
+Certo,
+sapatos são importantes.
+
+525
+00:17:51,773 --> 00:17:52,992
+[RISADAS]
+
+526
+00:17:52,992 --> 00:17:54,733
+Ei.
+
+527
+00:17:54,733 --> 00:17:56,996
+[MÚSICA ROMÂNTICA LEVE]
+
+528
+00:17:56,996 --> 00:17:58,476
+Estou feliz por ter voltado.
+
+529
+00:17:58,476 --> 00:18:03,176
+[MÚSICA ROMÂNTICA LEVE]
+
+530
+00:18:03,176 --> 00:18:04,351
+Também estou feliz.
+
+531
+00:18:04,351 --> 00:18:09,486
+[MÚSICA ROMÂNTICA LEVE]
+
+532
+00:18:09,487 --> 00:18:10,836
+[ARTHUR] Falei com a Mary Pearson
+ontem a noite.
+
+533
+00:18:10,836 --> 00:18:13,360
+Argumentei sobre os méritos
+do seu programa.
+
+534
+00:18:13,360 --> 00:18:14,796
+Ela concorda.
+
+535
+00:18:14,796 --> 00:18:17,320
+Não sei como agradecer.
+São ótimas notícias.
+
+536
+00:18:17,320 --> 00:18:19,497
+Foi um prazer.
+
+537
+00:18:19,497 --> 00:18:22,804
+Fico feliz em ajudar a igreja,
+da forma que puder.
+
+538
+00:18:22,804 --> 00:18:25,067
+Sabe, Arthur,
+
+539
+00:18:25,067 --> 00:18:27,461
+seria útil ter uma mente como a sua
+em minha equipe.
+
+540
+00:18:27,461 --> 00:18:29,855
+- Obrigado.
+- Não, falo sério.
+
+541
+00:18:29,855 --> 00:18:30,899
+Estou procurando por
+
+542
+00:18:30,899 --> 00:18:32,292
+um chefe de equipe
+já faz algum tempo,
+
+543
+00:18:32,292 --> 00:18:36,470
+alguém que me ajude a navegar
+em águas políticas.
+
+544
+00:18:36,470 --> 00:18:39,560
+E acho que a resposta
+acaba de aparecer.
+
+545
+00:18:39,560 --> 00:18:41,780
+[RISADAS]
+
+546
+00:18:41,780 --> 00:18:43,216
+O que me diz?
+
+547
+00:18:43,216 --> 00:18:45,740
+Eu não sei.
+
+548
+00:18:45,740 --> 00:18:50,179
+Estou lisonjeado, mas acabei
+de me aposentar da igreja,
+
+549
+00:18:50,179 --> 00:18:52,960
+e Trish e eu
+estamos planejando nosso casamento.
+
+550
+00:18:53,879 --> 00:18:55,271
+Mas está interessado?
+
+551
+00:18:55,271 --> 00:18:57,273
+[SUSPIRO]
+
+552
+00:18:57,273 --> 00:19:00,537
+[MÚSICA ANIMADA LEVE]
+
+553
+00:19:00,538 --> 00:19:02,104
+Preciso falar com a Trish primeiro.
+
+554
+00:19:02,104 --> 00:19:04,455
+Claro.
+É uma decisão importante.
+
+555
+00:19:04,455 --> 00:19:06,587
+Pense pelo tempo que precisar.
+
+556
+00:19:06,587 --> 00:19:13,899
+[MÚSICA ANIMADA LEVE]
+
+557
+00:19:13,899 --> 00:19:15,030
+[DAVID]
+Veja esses e quando acabar,
+
+558
+00:19:15,030 --> 00:19:16,249
+pode ver os vegetais,
+por favor?
+
+559
+00:19:16,249 --> 00:19:19,121
+Aquele é o pai da Lauren.
+
+560
+00:19:19,121 --> 00:19:21,123
+[MILES] - Está pronta?
+[JOY] - Não.
+
+561
+00:19:21,123 --> 00:19:23,730
+É para isso que tenho vocês.
+
+562
+00:19:24,431 --> 00:19:27,608
+Sr. Brooks.
+Sou a Cara, irmã da Liv.
+
+563
+00:19:27,608 --> 00:19:29,088
+[CARA] - Nos conhecemos ontem.
+[DAVID] - Claro.
+
+564
+00:19:29,088 --> 00:19:30,306
+Bom vê-la novamente.
+
+565
+00:19:30,306 --> 00:19:31,960
+Sim, tem uma loja linda.
+
+566
+00:19:31,960 --> 00:19:34,310
+Obrigado, a maior variedade
+de produtos veganos e sem glúten
+
+567
+00:19:34,310 --> 00:19:35,442
+da cidade.
+
+568
+00:19:35,442 --> 00:19:36,704
+Sou intolerante a glúten.
+
+569
+00:19:36,704 --> 00:19:38,576
+É um bom negócio para investir.
+
+570
+00:19:38,576 --> 00:19:40,621
+Sim,
+minha filha também é intolerante.
+
+571
+00:19:40,621 --> 00:19:42,318
+Ela foi adotada,
+e como não sabemos
+
+572
+00:19:42,318 --> 00:19:43,581
+seu histórico médico familiar,
+
+573
+00:19:43,581 --> 00:19:44,930
+optamos pela precaução.
+
+574
+00:19:44,930 --> 00:19:47,498
+Por isso comecei esse negócio.
+
+575
+00:19:47,498 --> 00:19:49,412
+Fazer isso por ela é muito bom.
+
+576
+00:19:49,412 --> 00:19:50,588
+Obrigado.
+
+577
+00:19:50,588 --> 00:19:53,586
+Então, o que procuram?
+
+578
+00:19:56,463 --> 00:19:59,379
+Então, a questão é essa.
+
+579
+00:19:59,379 --> 00:20:01,424
+[ÉRICA]
+<i>Não encerramos o assunto, Lauren.</i>
+
+580
+00:20:01,424 --> 00:20:02,556
+Encerramos sim,
+mãe.
+
+581
+00:20:02,556 --> 00:20:03,557
+[DAVID]
+O que está acontecendo?
+
+582
+00:20:03,557 --> 00:20:06,299
+Lauren fez um teste de DNA.
+
+583
+00:20:06,299 --> 00:20:08,606
+[ÉRICA] - Por que não contou?
+[LAUREN] - E o que teriam dito?
+
+584
+00:20:08,606 --> 00:20:10,695
+Não sei,
+mas fazer isso escondido,
+
+585
+00:20:10,695 --> 00:20:13,045
+usando nosso cartão de crédito,
+deveria saber
+
+586
+00:20:13,045 --> 00:20:14,350
+que descobriríamos.
+
+587
+00:20:14,350 --> 00:20:16,135
+Acho que deveríamos
+falar sobre isso mais tarde.
+
+588
+00:20:16,135 --> 00:20:17,615
+Sabia sobre isso,
+David?
+
+589
+00:20:17,615 --> 00:20:19,660
+Descobri na semana passada.
+
+590
+00:20:19,660 --> 00:20:21,140
+Ela pediu para eu não contar nada
+
+591
+00:20:21,140 --> 00:20:22,141
+até receber os resultados.
+
+592
+00:20:22,141 --> 00:20:23,877
+Ela não queria chateá-la.
+
+593
+00:20:24,796 --> 00:20:26,232
+Desculpe, mãe.
+
+594
+00:20:26,232 --> 00:20:28,016
+Não queria te magoar.
+
+595
+00:20:28,016 --> 00:20:30,410
+Só queria saber de onde vim.
+
+596
+00:20:30,410 --> 00:20:32,281
+[MÚSICA DRAMÁTICA]
+
+597
+00:20:32,281 --> 00:20:34,980
+Sinto em interromper,
+
+598
+00:20:34,980 --> 00:20:37,678
+mas acho que podemos ajudar.
+
+599
+00:20:37,678 --> 00:20:40,202
+Do que está falando?
+
+600
+00:20:40,202 --> 00:20:43,336
+Joy é advogada.
+
+601
+00:20:43,336 --> 00:20:45,991
+Então,
+se decidirem encontrar
+
+602
+00:20:45,991 --> 00:20:48,467
+seus pais biológicos,
+ela pode ajudá-los.
+
+603
+00:20:49,385 --> 00:20:50,604
+Certo, Joy?
+
+604
+00:20:50,604 --> 00:20:52,867
+[MÚSICA DRAMÁTICA]
+
+605
+00:20:52,867 --> 00:20:55,522
+Seria ótimo.
+
+606
+00:20:55,522 --> 00:20:57,655
+Mãe, pai?
+
+607
+00:20:57,655 --> 00:20:59,657
+[MÚSICA DRAMÁTICA]
+
+608
+00:20:59,657 --> 00:21:01,136
+Vamos pensar.
+
+609
+00:21:01,136 --> 00:21:03,182
+O que quer dizer, "não".
+
+610
+00:21:03,182 --> 00:21:11,929
+[MÚSICA DRAMÁTICA]
+
+611
+00:21:11,930 --> 00:21:13,061
+[MILES]
+Joy!
+
+612
+00:21:13,061 --> 00:21:15,973
+Joy!
+Por favor, Joy!
+
+613
+00:21:16,804 --> 00:21:18,023
+Você não tinha o direito
+de fazer aquilo.
+
+614
+00:21:18,023 --> 00:21:19,633
+Joy, sei que está
+
+615
+00:21:19,633 --> 00:21:20,895
+chateada agora,
+mas dizer a Lauren quem você é
+
+616
+00:21:20,895 --> 00:21:22,375
+não era parte do plano.
+
+617
+00:21:22,375 --> 00:21:23,898
+Não era parte do seu plano.
+
+618
+00:21:23,898 --> 00:21:26,466
+Não, Joy,
+os pais dela não estão concordando.
+
+619
+00:21:26,466 --> 00:21:28,686
+Se dissesse a Lauren
+quem você é,
+
+620
+00:21:28,686 --> 00:21:29,948
+iria piorar as coisas.
+
+621
+00:21:29,948 --> 00:21:32,298
+Para quem?
+Não para a Lauren.
+
+622
+00:21:32,298 --> 00:21:35,518
+Porque tudo o que ouvi lá
+foi uma garota desesperada
+
+623
+00:21:35,518 --> 00:21:37,869
+para descobrir quem é,
+desesperada por respostas
+
+624
+00:21:37,869 --> 00:21:39,305
+que só eu posso dar.
+
+625
+00:21:39,305 --> 00:21:40,523
+E haverá uma hora para isso,
+
+626
+00:21:40,523 --> 00:21:41,655
+mas não é agora.
+
+627
+00:21:41,655 --> 00:21:43,831
+Então quando?
+
+628
+00:21:43,831 --> 00:21:48,444
+Talvez os pais dela se entendam,
+
+629
+00:21:48,444 --> 00:21:50,229
+mas talvez não.
+
+630
+00:21:50,229 --> 00:21:51,622
+Não vou ficar sentada
+
+631
+00:21:51,622 --> 00:21:52,840
+vendo a vida da Lauren
+virar uma bagunça.
+
+632
+00:21:52,840 --> 00:21:54,320
+[JOY] - Não posso.
+[MILES] - Joy...
+
+633
+00:21:54,320 --> 00:21:56,539
+Não, Miles,
+essa é a minha sugestão de amizade.
+
+634
+00:21:56,539 --> 00:21:57,671
+Não sua.
+
+635
+00:21:57,671 --> 00:21:59,455
+Você não recebe mais sugestões,
+lembra?
+
+636
+00:21:59,455 --> 00:22:03,807
+[MÚSICA DRAMÁTICA]
+
+637
+00:22:03,808 --> 00:22:05,810
+Olhe...
+
+638
+00:22:05,810 --> 00:22:09,291
+você tem seu caminho,
+eu tenho o meu.
+
+639
+00:22:09,291 --> 00:22:11,511
+Acho que é hora
+de cada um seguir o seu.
+
+640
+00:22:11,511 --> 00:22:17,034
+[MÚSICA DRAMÁTICA]
+
+641
+00:22:19,544 --> 00:22:21,763
+Acha que a Joy
+vai contar para a filha?
+
+642
+00:22:21,763 --> 00:22:22,807
+Sim, eu acho.
+
+643
+00:22:22,807 --> 00:22:24,069
+É,
+ela parece muito determinada.
+
+644
+00:22:24,069 --> 00:22:25,506
+Joy trabalha até tarde hoje,
+
+645
+00:22:25,506 --> 00:22:27,986
+o que significa que precisamos
+de um jeito para impedir
+
+646
+00:22:27,986 --> 00:22:29,814
+que ela conte a Lauren,
+antes que saia do trabalho.
+
+647
+00:22:29,814 --> 00:22:31,555
+Tem certeza que devemos fazer isso?
+
+648
+00:22:31,555 --> 00:22:33,470
+O Perfil de Deus
+mandou a Lauren para ela.
+
+649
+00:22:33,470 --> 00:22:35,729
+Sim, e forçar as pessoas
+a encarar o passado
+
+650
+00:22:35,730 --> 00:22:37,212
+é típico do Perfil de Deus.
+
+651
+00:22:37,213 --> 00:22:40,071
+Sim, mas não às custas
+de destruir uma família.
+
+652
+00:22:40,072 --> 00:22:42,933
+Entendo o quão emocional
+isso deve ser para a Joy,
+
+653
+00:22:42,934 --> 00:22:44,300
+mas ela precisa
+pensar sobre isso.
+
+654
+00:22:44,301 --> 00:22:45,878
+Miles,
+talvez ela tenha pensado.
+
+655
+00:22:45,879 --> 00:22:47,879
+Ela desistiu de sua vida inteira
+há seis meses.
+
+656
+00:22:47,880 --> 00:22:49,976
+para vir aqui e ter certeza
+que sua filha estava bem.
+
+657
+00:22:49,977 --> 00:22:52,195
+Você não faz isso
+apenas por impulso.
+
+658
+00:22:53,680 --> 00:22:55,680
+Sim.
+
+659
+00:22:55,681 --> 00:22:57,609
+Na verdade,
+você está certo.
+
+660
+00:22:57,610 --> 00:23:00,998
+Obrigado.
+Sobre o quê, exatamente?
+
+661
+00:23:00,999 --> 00:23:03,834
+Joy tinha uma vida incrível
+em Chicago,
+
+662
+00:23:03,835 --> 00:23:06,350
+então, por que ela,
+de repente, decidiu
+
+663
+00:23:06,351 --> 00:23:07,896
+desistir há seis meses?
+
+664
+00:23:07,897 --> 00:23:09,740
+Porque ela queria
+encontrar sua filha.
+
+665
+00:23:09,741 --> 00:23:12,600
+Isso eu sei,
+mas por que não seis anos
+
+666
+00:23:12,601 --> 00:23:14,279
+ou seis dias atrás?
+
+667
+00:23:14,280 --> 00:23:16,737
+E se aconteceu algo na vida dela,
+
+668
+00:23:16,738 --> 00:23:18,738
+que a fez procurar por Lauren?
+
+669
+00:23:18,739 --> 00:23:20,955
+A fez abrir os registros de adoção
+
+670
+00:23:20,956 --> 00:23:22,596
+e vasculhar sua vida inteira.
+
+671
+00:23:22,597 --> 00:23:24,369
+O que quer que fosse,
+pode ser uma parte disso,
+
+672
+00:23:24,370 --> 00:23:25,453
+uma parte do que a está motivando.
+
+673
+00:23:25,454 --> 00:23:27,313
+Sim,
+se pudermos descobrir o que é isso,
+
+674
+00:23:27,314 --> 00:23:28,891
+então, talvez,
+possamos entendê-la.
+
+675
+00:23:28,892 --> 00:23:30,892
+Arranjar tempo
+para ajudar a Lauren
+
+676
+00:23:30,893 --> 00:23:33,442
+sem a Joy dizer quem é ela.
+
+677
+00:23:33,443 --> 00:23:36,692
+Poderia pesquisar sobre a Joy
+e ver se alguma coisa se destaca
+
+678
+00:23:36,693 --> 00:23:37,692
+em seis meses atrás?
+
+679
+00:23:37,693 --> 00:23:39,028
+Sim, pode deixar.
+
+680
+00:23:39,029 --> 00:23:41,029
+E a abertura da galeria?
+
+681
+00:23:41,030 --> 00:23:43,712
+Certo, temos algumas horas.
+
+682
+00:23:43,713 --> 00:23:45,908
+Nos encontramos
+na minha casa e vamos juntos?
+
+683
+00:23:45,909 --> 00:23:48,002
+Vou me encontrar com minha mãe,
+mas te vejo lá.
+
+684
+00:23:48,003 --> 00:23:49,181
+Certo.
+
+685
+00:23:50,151 --> 00:23:52,330
+[SUSAN] Então, a Lauren está procurando
+os pais biológicos?
+
+686
+00:23:52,331 --> 00:23:53,980
+Érica e David sabem?
+
+687
+00:23:53,981 --> 00:23:56,339
+Sim,
+e eles não estão aceitando bem.
+
+688
+00:23:56,340 --> 00:23:57,925
+É isso que o Perfil de Deus
+quer que faça?
+
+689
+00:23:57,926 --> 00:23:59,316
+Encontrar os pais biológicos
+da Lauren?
+
+690
+00:23:59,317 --> 00:24:01,599
+Eu não sei.
+Espero que não.
+
+691
+00:24:01,600 --> 00:24:02,903
+Seus pais estão
+
+692
+00:24:02,904 --> 00:24:05,067
+com ela
+todos os dias de sua vida.
+
+693
+00:24:05,068 --> 00:24:07,068
+[CARA]
+Isso que importa.
+
+694
+00:24:08,514 --> 00:24:11,048
+- Não quis dizer nada...
+- Eu sei.
+
+695
+00:24:11,049 --> 00:24:13,454
+E tudo bem se quis dizer.
+
+696
+00:24:14,282 --> 00:24:16,938
+Eu nunca fingiria que estava lá
+por você, Cara.
+
+697
+00:24:16,939 --> 00:24:19,884
+Por isso pensei que seria bom
+que ficasse conosco.
+
+698
+00:24:21,509 --> 00:24:23,453
+Não acho que é boa ideia.
+
+699
+00:24:23,454 --> 00:24:25,454
+Entendo que tem suas inseguranças,
+
+700
+00:24:25,455 --> 00:24:27,326
+mas talvez se passássemos
+mais tempo juntas
+
+701
+00:24:27,327 --> 00:24:29,850
+poderíamos enfrentar tudo isso.
+
+702
+00:24:29,851 --> 00:24:31,342
+[MÚSICA DRAMÁTICA]
+
+703
+00:24:31,343 --> 00:24:34,991
+Conseguimos chegar tão longe
+durante o ano passado...
+
+704
+00:24:34,992 --> 00:24:37,210
+não quero arriscar isso.
+
+705
+00:24:37,211 --> 00:24:39,211
+[MÚSICA DRAMÁTICA]
+
+706
+00:24:39,212 --> 00:24:41,591
+As famílias são muito mais
+fortes do que pensamos, Cara.
+
+707
+00:24:41,592 --> 00:24:44,990
+Disse que não vê como a família
+da Lauren sobreviveria
+
+708
+00:24:44,991 --> 00:24:46,991
+se seus pais biológicos surgissem.
+
+709
+00:24:47,898 --> 00:24:50,310
+Mas, às vezes,
+enfrentar quem somos
+
+710
+00:24:50,311 --> 00:24:53,183
+e arriscar no que
+a mudança pode trazer
+
+711
+00:24:53,184 --> 00:24:57,206
+é o que nos fortalece,
+nos aproxima.
+
+712
+00:24:57,207 --> 00:24:59,316
+Aposto que Erica, David e Lauren
+vão superar isso
+
+713
+00:24:59,317 --> 00:25:01,206
+como uma família mais forte.
+
+714
+00:25:01,207 --> 00:25:03,207
+Por terem enfrentado juntos.
+
+715
+00:25:03,208 --> 00:25:05,822
+[MÚSICA DRAMÁTICA LEVE]
+
+716
+00:25:05,823 --> 00:25:09,479
+[ARTHUR] De qualquer forma, o bispo
+Thompson estava muito agradecido.
+
+717
+00:25:09,480 --> 00:25:11,065
+Fico feliz.
+
+718
+00:25:11,066 --> 00:25:14,116
+Na verdade,
+ele ficou tão agradecido
+
+719
+00:25:14,117 --> 00:25:16,358
+que me ofereceu um emprego.
+
+720
+00:25:17,890 --> 00:25:20,523
+Não entendo.
+Que tipo de emprego?
+
+721
+00:25:20,524 --> 00:25:23,593
+Bem, basicamente,
+fazendo o que eu fiz hoje,
+
+722
+00:25:23,594 --> 00:25:27,077
+ajudando-o a lidar com
+a política da igreja.
+
+723
+00:25:27,078 --> 00:25:29,343
+E o que você disse?
+
+724
+00:25:29,344 --> 00:25:33,345
+Disse que precisava...
+
+725
+00:25:34,299 --> 00:25:36,694
+falar com você primeiro.
+
+726
+00:25:37,655 --> 00:25:39,999
+Está considerando isso?
+
+727
+00:25:40,000 --> 00:25:42,617
+Bem, talvez.
+[SUSPIRO]
+
+728
+00:25:42,618 --> 00:25:45,624
+Honestamente,
+não tenho certeza sobre aceitar
+
+729
+00:25:45,625 --> 00:25:47,475
+a aposentadoria como todo mundo.
+
+730
+00:25:47,476 --> 00:25:49,476
+Eu adoro ter tempo
+
+731
+00:25:49,477 --> 00:25:51,477
+jogar xadrez e passear...
+
+732
+00:25:51,478 --> 00:25:53,478
+Eu amo que podemos
+passar mais tempo
+
+733
+00:25:53,479 --> 00:25:56,512
+juntos e não quero mudar isso.
+
+734
+00:25:56,513 --> 00:25:59,121
+Eu também.
+É só que...
+
+735
+00:26:00,285 --> 00:26:02,949
+me senti bem fazendo
+algo para a igreja novamente.
+
+736
+00:26:02,950 --> 00:26:06,035
+Ter um propósito maior.
+
+737
+00:26:06,559 --> 00:26:08,559
+Eu entendo isso.
+
+738
+00:26:08,560 --> 00:26:10,949
+E sei o que está pensando.
+
+739
+00:26:10,950 --> 00:26:13,879
+Isso não seria como
+administrar a Harlem Episcopal.
+
+740
+00:26:13,880 --> 00:26:15,880
+Pode ser algo...
+
+741
+00:26:15,881 --> 00:26:18,332
+[MÚSICA DRAMÁTICA LEVE]
+
+742
+00:26:18,333 --> 00:26:19,347
+como um <i>hobby</i>.
+
+743
+00:26:19,348 --> 00:26:21,525
+Arthur,
+sabemos que nunca fez
+
+744
+00:26:21,526 --> 00:26:24,121
+algo só como <i>hobby</i>.
+
+745
+00:26:25,488 --> 00:26:27,488
+Quando se importa com algo,
+
+746
+00:26:27,489 --> 00:26:30,614
+você se entrega por completo.
+
+747
+00:26:30,615 --> 00:26:32,377
+Eu só estava esperando
+
+748
+00:26:32,378 --> 00:26:34,987
+que esse novo capítulo
+de nossas vidas
+
+749
+00:26:35,988 --> 00:26:39,128
+seria sobre encontrarmos
+um novo propósito.
+
+750
+00:26:39,129 --> 00:26:41,129
+Juntos.
+
+751
+00:26:41,792 --> 00:26:44,495
+- Tudo bem?
+- Claro.
+
+752
+00:26:44,496 --> 00:26:46,596
+Vou falar com o Bispo Thompson,
+
+753
+00:26:46,597 --> 00:26:48,663
+dizer que
+não vou aceitar o emprego.
+
+754
+00:26:48,664 --> 00:26:50,664
+[PORTA FECHANDO]
+
+755
+00:26:50,665 --> 00:26:52,665
+[RAKESH]
+Sei o que aconteceu há seis meses.
+
+756
+00:26:52,666 --> 00:26:55,660
+Por que a Joy sentiu tão compelida
+a procurar pela Lauren.
+
+757
+00:26:55,661 --> 00:27:01,245
+[MÚSICA DE SUSPENSE]
+
+758
+00:27:01,246 --> 00:27:02,988
+Quem é esse?
+
+759
+00:27:02,989 --> 00:27:05,175
+Esse é o avô da Joy,
+Kai.
+
+760
+00:27:05,176 --> 00:27:06,725
+Ele morreu algumas semanas antes
+
+761
+00:27:06,726 --> 00:27:08,842
+da Joy abrir
+os registros de adoção.
+
+762
+00:27:08,843 --> 00:27:10,733
+"Para o vovô Kai,
+
+763
+00:27:10,734 --> 00:27:12,545
+a única família que conheci."
+
+764
+00:27:12,546 --> 00:27:14,546
+"Vou sentir
+sua perda para sempre."
+
+765
+00:27:14,547 --> 00:27:16,050
+Faz sentido.
+
+766
+00:27:16,051 --> 00:27:18,051
+Depois de perder
+a única família que teve,
+
+767
+00:27:18,052 --> 00:27:19,636
+ela decide que
+há apenas uma pessoa
+
+768
+00:27:19,637 --> 00:27:20,769
+que pode preencher o vazio.
+
+769
+00:27:20,770 --> 00:27:23,128
+[CARA] - Lauren.
+[MILES] - Tenho que falar com a Joy.
+
+770
+00:27:23,129 --> 00:27:25,763
+Miles,
+e sobre a abertura da Galeria?
+
+771
+00:27:25,764 --> 00:27:28,162
+Não sabemos quanto tempo
+Audrey Grenelle estará lá.
+
+772
+00:27:28,163 --> 00:27:30,349
+Tem razão.
+Encontro vocês lá.
+
+773
+00:27:30,350 --> 00:27:33,201
+[MÚSICA DRAMÁTICA]
+
+774
+00:27:33,202 --> 00:27:37,631
+[MÚSICA AMBIENTE CALMA]
+
+775
+00:27:37,632 --> 00:27:39,632
+[MILES]
+Precisamos conversar.
+
+776
+00:27:40,921 --> 00:27:44,171
+Se eu disser "não",
+vai importar?
+
+777
+00:27:44,172 --> 00:27:48,499
+[MÚSICA AMBIENTE CALMA]
+
+778
+00:27:48,500 --> 00:27:52,155
+Sei que perdeu seu avô
+há seis meses.
+
+779
+00:27:52,156 --> 00:27:54,156
+[MÚSICA AMBIENTE CALMA]
+
+780
+00:27:54,157 --> 00:27:55,616
+Sim, e daí?
+
+781
+00:27:55,617 --> 00:27:57,866
+Eu li o tributo
+que escreveu sobre ele.
+
+782
+00:27:57,867 --> 00:27:59,867
+Soa como um cara incrível.
+
+783
+00:27:59,868 --> 00:28:01,868
+Ele foi.
+
+784
+00:28:01,869 --> 00:28:05,453
+[MÚSICA AMBIENTE CALMA]
+
+785
+00:28:05,454 --> 00:28:07,578
+Ele cresceu no Havaí.
+
+786
+00:28:08,601 --> 00:28:11,257
+Era um surfista incrível.
+
+787
+00:28:11,258 --> 00:28:14,038
+[MÚSICA MELANCÓLICA]
+
+788
+00:28:14,039 --> 00:28:15,937
+Meus pais se separaram
+quando eu era jovem,
+
+789
+00:28:15,938 --> 00:28:18,970
+ele se mudou para Chicago
+e me criou sozinho.
+
+790
+00:28:18,971 --> 00:28:22,141
+Quando engravidei
+e decidi que não estava
+
+791
+00:28:22,142 --> 00:28:25,173
+pronta para ser mãe...
+
+792
+00:28:27,705 --> 00:28:30,720
+ele foi tão solidário.
+
+793
+00:28:30,721 --> 00:28:32,721
+Ele me disse...
+
+794
+00:28:33,550 --> 00:28:36,657
+que desistir dela não significava
+que eu não a amava.
+
+795
+00:28:36,658 --> 00:28:38,548
+[MÚSICA MELANCÓLICA]
+
+796
+00:28:38,549 --> 00:28:40,141
+Significava que
+eu a amava o suficiente
+
+797
+00:28:40,142 --> 00:28:42,430
+para garantir de que ela teria
+a melhor vida possível...
+
+798
+00:28:42,431 --> 00:28:44,431
+[MÚSICA MELANCÓLICA]
+
+799
+00:28:44,432 --> 00:28:46,432
+A vida que...
+
+800
+00:28:47,331 --> 00:28:49,331
+[SUSPIROS]
+
+801
+00:28:49,332 --> 00:28:51,688
+eu não poderia dar naquela época.
+
+802
+00:28:51,689 --> 00:28:53,689
+Ele tinha razão.
+
+803
+00:28:53,690 --> 00:28:55,690
+Lauren tem uma vida maravilhosa
+
+804
+00:28:55,691 --> 00:28:57,691
+- com pais que a amam.
+- Sei disso.
+
+805
+00:28:58,438 --> 00:29:00,309
+Acha que quero magoá-los?
+
+806
+00:29:00,310 --> 00:29:02,310
+Que não entendo
+o que pode acontecer se disser?
+
+807
+00:29:02,311 --> 00:29:04,311
+Mas ela está procurando por mim.
+
+808
+00:29:04,718 --> 00:29:06,718
+Ela quer saber quem é,
+
+809
+00:29:06,719 --> 00:29:08,719
+de onde ela vem.
+
+810
+00:29:08,720 --> 00:29:14,177
+[MÚSICA MELANCÓLICA]
+
+811
+00:29:14,178 --> 00:29:16,787
+Não vou abandoná-la novamente,
+ Miles.
+
+812
+00:29:17,272 --> 00:29:19,272
+Não posso.
+
+813
+00:29:19,827 --> 00:29:22,881
+É minha chance de finalmente
+dar a ela o que ela precisa.
+
+814
+00:29:22,882 --> 00:29:26,623
+[MÚSICA MELANCÓLICA]
+
+815
+00:29:26,624 --> 00:29:28,624
+[CELULAR VIBRANDO]
+
+816
+00:29:29,929 --> 00:29:32,933
+Rakesh,
+agora não é uma boa hora.
+
+817
+00:29:32,933 --> 00:29:34,756
+[RAKESH]
+<i>Você está com Joy?</i>
+
+818
+00:29:35,673 --> 00:29:37,728
+- Sim, por quê?
+- Eu peguei um <i>Ping</i>
+
+819
+00:29:37,728 --> 00:29:39,447
+num grupo do Facebook
+que Lauren entrou,
+
+820
+00:29:39,447 --> 00:29:42,590
+<i>e ela pegou os resultados
+do teste</i> <i>23andMe</i>.
+
+821
+00:29:42,591 --> 00:29:44,545
+E teve uma correspondência.
+
+822
+00:29:44,545 --> 00:29:46,695
+<i>Algum primo de terceiro grau,
+ele mora em Chicago.</i>
+
+823
+00:29:46,695 --> 00:29:49,338
+O problema é que
+ela está indo para lá agora.
+
+824
+00:29:49,338 --> 00:29:51,523
+O quê, como assim?
+Para Chicago?
+
+825
+00:29:51,523 --> 00:29:53,084
+Sim, ela comprou
+uma passagem de ônibus
+
+826
+00:29:53,084 --> 00:29:54,185
+com o cartão do pai dela.
+
+827
+00:29:54,185 --> 00:29:55,255
+[CARA]
+<i>Íamos avisá-los,</i>
+
+828
+00:29:55,255 --> 00:29:57,257
+mas eles moram no centro,
+e vocês estão mais perto.
+
+829
+00:29:57,257 --> 00:29:59,976
+Vou enviar o endereço,
+mas têm que se apressar, Miles.
+
+830
+00:29:59,976 --> 00:30:02,353
+- Ela saiu faz meia hora.
+- Você pega os pais de Lauren
+
+831
+00:30:02,353 --> 00:30:04,395
+- <i>e nos encontra lá</i>.
+- Miles,
+
+832
+00:30:04,395 --> 00:30:07,363
+Audrey Grenelle vai chegar
+a qualquer momento.
+
+833
+00:30:07,924 --> 00:30:09,498
+Esta é a nossa única chance.
+
+834
+00:30:09,498 --> 00:30:13,323
+[MÚSICA DE SUSPENSE]
+
+835
+00:30:14,255 --> 00:30:17,884
+Eu sei,
+mas isso é mais importante.
+
+836
+00:30:17,885 --> 00:30:22,212
+[MÚSICA DE SUSPENSE]
+
+837
+00:30:22,213 --> 00:30:24,994
+Vamos lá,
+vamos buscar sua filha.
+
+838
+00:30:27,862 --> 00:30:35,004
+[MÚSICA DE SUSPENSE]
+
+839
+00:30:35,005 --> 00:30:37,801
+Ali, ela está lá.
+
+840
+00:30:37,802 --> 00:30:39,359
+Espere, Miles.
+
+841
+00:30:39,360 --> 00:30:41,119
+Eu preciso ir sozinha.
+
+842
+00:30:41,120 --> 00:30:42,758
+Espere, mas por quê?
+
+843
+00:30:42,759 --> 00:30:44,240
+Eu pensei
+que estávamos juntos.
+
+844
+00:30:44,240 --> 00:30:46,186
+Para garantir que ela não suba
+naquele ônibus.
+
+845
+00:30:46,186 --> 00:30:47,680
+Nós estamos.
+
+846
+00:30:48,357 --> 00:30:50,141
+Mas precisa confiar em mim.
+
+847
+00:30:51,693 --> 00:30:53,386
+Joy!
+
+848
+00:30:53,387 --> 00:31:01,122
+[MÚSICA DE SUSPENSE]
+
+849
+00:31:03,215 --> 00:31:04,621
+Oi, Lauren.
+
+850
+00:31:05,798 --> 00:31:08,827
+- Você é a advogada.
+- Joy.
+
+851
+00:31:08,828 --> 00:31:10,521
+Eu posso sentar?
+
+852
+00:31:15,686 --> 00:31:17,735
+O que está fazendo aqui,
+afinal?
+
+853
+00:31:18,821 --> 00:31:20,389
+Espere,
+meus pais que te mandaram?
+
+854
+00:31:20,389 --> 00:31:24,800
+Não,
+mas eles sabem que está aqui,
+
+855
+00:31:24,801 --> 00:31:28,142
+- e eles sabem o porquê.
+- Não, eles não sabem.
+
+856
+00:31:28,143 --> 00:31:31,124
+Eles não entendem
+porque eu preciso fazer isso.
+
+857
+00:31:31,125 --> 00:31:32,702
+E qual é o motivo?
+
+858
+00:31:34,375 --> 00:31:36,305
+Por que quer fugir?
+
+859
+00:31:36,306 --> 00:31:38,230
+Porque eu não sei
+quem eu sou.
+
+860
+00:31:38,230 --> 00:31:41,025
+[MÚSICA DRAMÁTICA]
+
+861
+00:31:42,156 --> 00:31:43,719
+Na verdade, não.
+
+862
+00:31:45,975 --> 00:31:47,935
+Eu amo meus pais
+
+863
+00:31:47,935 --> 00:31:49,343
+mas,
+
+864
+00:31:49,344 --> 00:31:52,383
+não sei nada de onde eu venho
+
+865
+00:31:52,383 --> 00:31:54,859
+ou quem são
+meus pais biológicos.
+
+866
+00:31:55,167 --> 00:31:58,163
+E acha que um primo distante
+vai ajudar a preencher isso?
+
+867
+00:31:58,163 --> 00:31:59,589
+É algo.
+
+868
+00:32:00,122 --> 00:32:02,511
+Eu assumiria qualquer coisa
+em vez de não saber.
+
+869
+00:32:02,512 --> 00:32:08,607
+[MÚSICA DRAMÁTICA]
+
+870
+00:32:08,608 --> 00:32:10,693
+Acho que posso ajudá-la
+com isso.
+
+871
+00:32:13,076 --> 00:32:14,769
+Como?
+
+872
+00:32:22,796 --> 00:32:24,198
+Quem é esse?
+
+873
+00:32:26,081 --> 00:32:29,862
+Esse é seu bisavô.
+
+874
+00:32:30,875 --> 00:32:32,815
+Meu bisavô?
+
+875
+00:32:34,334 --> 00:32:35,634
+De verdade?
+
+876
+00:32:36,608 --> 00:32:38,416
+O nome dele era Kai.
+
+877
+00:32:40,295 --> 00:32:43,757
+Ele faleceu no ano passado,
+mas eu fiz umas pesquisas.
+
+878
+00:32:43,757 --> 00:32:46,298
+Acontece
+que ele era meio famoso...
+
+879
+00:32:46,298 --> 00:32:47,299
+[RISADINHA]
+
+880
+00:32:47,299 --> 00:32:49,166
+pelo menos no Havaí.
+
+881
+00:32:49,765 --> 00:32:52,618
+Meu teste de DNA
+disse que eu era meia havaiana.
+
+882
+00:32:55,133 --> 00:32:56,701
+E por que ele era famoso?
+
+883
+00:32:56,701 --> 00:32:58,582
+Ele era surfista.
+
+884
+00:32:58,583 --> 00:33:00,962
+[MÚSICA DRAMÁTICA LEVE]
+
+885
+00:33:00,963 --> 00:33:02,836
+Acho que o <i>surf</i>
+está no seu sangue.
+
+886
+00:33:02,836 --> 00:33:04,995
+Sim, acho que sim.
+
+887
+00:33:04,996 --> 00:33:07,401
+[MÚSICA DRAMÁTICA]
+
+888
+00:33:07,402 --> 00:33:09,146
+Muito obrigada.
+
+889
+00:33:09,147 --> 00:33:21,200
+[MÚSICA DRAMÁTICA]
+
+890
+00:33:21,201 --> 00:33:23,068
+De nada, Lauren.
+
+891
+00:33:23,069 --> 00:33:26,530
+[MÚSICA DRAMÁTICA]
+
+892
+00:33:26,531 --> 00:33:28,329
+Gostaria de tê-lo conhecido.
+
+893
+00:33:29,927 --> 00:33:31,227
+Eu também.
+
+894
+00:33:33,184 --> 00:33:35,121
+Posso ficar com isso?
+
+895
+00:33:35,121 --> 00:33:37,087
+Claro que pode.
+
+896
+00:33:37,088 --> 00:33:39,564
+Eu acho que ele gostaria
+que ficasse com você.
+
+897
+00:33:39,565 --> 00:33:41,595
+[RISADA SUAVE]
+
+898
+00:33:41,596 --> 00:33:44,115
+Sabe o que mais
+que acho que ele iria querer?
+
+899
+00:33:45,836 --> 00:33:48,336
+Que você descesse deste ônibus
+
+900
+00:33:48,337 --> 00:33:53,032
+para ver sua mãe e seu pai
+que estão preocupados com você.
+
+901
+00:33:54,484 --> 00:33:56,046
+E aí, o que diz?
+
+902
+00:33:56,047 --> 00:33:58,326
+[MÚSICA DRAMÁTICA LEVE]
+
+903
+00:33:58,327 --> 00:33:59,802
+[RISOS]
+
+904
+00:33:59,803 --> 00:34:04,872
+[MÚSICA DRAMÁTICA]
+
+905
+00:34:04,873 --> 00:34:06,335
+Está tudo bem?
+
+906
+00:34:06,335 --> 00:34:09,159
+Sim, está tudo bem.
+
+907
+00:34:09,160 --> 00:34:11,382
+[MÚSICA DRAMÁTICA]
+
+908
+00:34:11,383 --> 00:34:13,812
+Graças a Deus,
+você está bem.
+
+909
+00:34:14,223 --> 00:34:16,999
+Estávamos tão preocupados.
+O que estava pensando?
+
+910
+00:34:18,288 --> 00:34:19,478
+Me desculpem.
+
+911
+00:34:19,478 --> 00:34:20,825
+Entendemos que quer saber
+
+912
+00:34:20,825 --> 00:34:22,355
+de onde você vem,
+querida.
+
+913
+00:34:22,355 --> 00:34:24,440
+Mas você tem que prometer
+falar conosco.
+
+914
+00:34:24,440 --> 00:34:26,094
+Para nunca fazer isso
+novamente.
+
+915
+00:34:26,094 --> 00:34:28,527
+Eu sei e não vou.
+
+916
+00:34:29,644 --> 00:34:31,711
+Porque sei
+de onde eu venho agora.
+
+917
+00:34:32,791 --> 00:34:35,357
+Este é meu bisavô.
+
+918
+00:34:36,103 --> 00:34:37,104
+O nome dele é Kai.
+
+919
+00:34:37,104 --> 00:34:39,401
+Ele era um surfista famoso
+no Havaí.
+
+920
+00:34:39,692 --> 00:34:41,407
+Joy que me falou.
+
+921
+00:34:43,065 --> 00:34:45,025
+Estou tão feliz por você,
+querida.
+
+922
+00:34:45,025 --> 00:34:47,711
+- Vocês estão?
+[DAVID] - Claro que sim.
+
+923
+00:34:47,712 --> 00:34:50,713
+[MÚSICA DRAMÁTICA LEVE]
+
+924
+00:34:50,714 --> 00:34:52,219
+Eu te amo.
+
+925
+00:34:52,598 --> 00:34:54,030
+Eu te amo.
+
+926
+00:34:54,818 --> 00:34:56,990
+[CHORANDO]
+
+927
+00:34:57,429 --> 00:35:00,210
+[RESPIRAÇÃO FORTE]
+
+928
+00:35:00,211 --> 00:35:04,351
+[MÚSICA DRAMÁTICA]
+
+929
+00:35:04,352 --> 00:35:06,221
+Obrigada por encontrar isso.
+
+930
+00:35:06,221 --> 00:35:08,087
+Você não precisa
+me agradecer.
+
+931
+00:35:09,117 --> 00:35:10,417
+Todos eles ajudaram.
+
+932
+00:35:15,329 --> 00:35:16,899
+E aí, pai.
+
+933
+00:35:17,230 --> 00:35:19,685
+Acha que poderíamos aprender
+a surfar?
+
+934
+00:35:19,686 --> 00:35:20,974
+Eu adoraria, filha,
+
+935
+00:35:20,974 --> 00:35:23,083
+mas não sei onde
+aqui em Nova York.
+
+936
+00:35:23,084 --> 00:35:24,588
+Na verdade,
+meio que tem.
+
+937
+00:35:24,588 --> 00:35:26,632
+Há uma comunidade
+de <i>surf</i> em Rockaway Beach.
+
+938
+00:35:26,632 --> 00:35:28,595
+Vocês deveriam dar uma olhada.
+
+939
+00:35:28,596 --> 00:35:29,659
+Nós vamos.
+
+940
+00:35:29,659 --> 00:35:30,782
+[RISADA]
+
+941
+00:35:30,782 --> 00:35:32,502
+Obrigado.
+
+942
+00:35:35,570 --> 00:35:38,001
+Vamos embora,
+vamos para casa.
+
+943
+00:35:38,002 --> 00:35:39,506
+[RISADA]
+
+944
+00:35:39,507 --> 00:35:40,807
+Tchau, Joy.
+
+945
+00:35:40,808 --> 00:35:52,637
+[MÚSICA DRAMÁTICA]
+
+946
+00:35:52,638 --> 00:35:53,964
+Você vai ficar bem?
+
+947
+00:35:53,964 --> 00:35:55,961
+[INSPIRA, EXPIRA]
+
+948
+00:35:55,962 --> 00:35:58,853
+[MÚSICA DRAMÁTICA]
+
+949
+00:35:58,854 --> 00:36:00,271
+Vou sim.
+
+950
+00:36:01,697 --> 00:36:03,005
+Eu vou.
+
+951
+00:36:03,006 --> 00:36:07,989
+[MÚSICA DRAMÁTICA]
+
+952
+00:36:07,990 --> 00:36:10,232
+Vocês não vão
+para a galeria de arte?
+
+953
+00:36:11,166 --> 00:36:14,099
+Sim, vamos conversar
+com Audrey Grenelle.
+
+954
+00:36:14,713 --> 00:36:16,494
+[MÚSICA DE SUSPENSE]
+
+955
+00:36:20,424 --> 00:36:23,341
+Com licença.
+Audrey Grenelle ainda está aqui?
+
+956
+00:36:23,341 --> 00:36:25,021
+Desculpe,
+ela acabou de ir.
+
+957
+00:36:25,022 --> 00:36:27,089
+Tem uma maneira
+de falar com ela?
+
+958
+00:36:27,090 --> 00:36:29,625
+Não,
+e ela não tem planos de voltar.
+
+959
+00:36:30,261 --> 00:36:32,801
+[SUSPIROS DE FRUSTRAÇÃO]
+
+960
+00:36:32,802 --> 00:36:34,004
+[JOY]
+Miles, me desculpe.
+
+961
+00:36:34,004 --> 00:36:36,436
+Era sua única
+chance de ter respostas.
+
+962
+00:36:37,964 --> 00:36:39,439
+Sim.
+
+963
+00:36:40,489 --> 00:36:44,014
+- Você está bem?
+- Quer saber?
+
+964
+00:36:44,014 --> 00:36:46,495
+Estou.
+
+965
+00:36:46,495 --> 00:36:49,280
+Tudo que fizemos pela
+Lauren e a família,
+
+966
+00:36:49,280 --> 00:36:51,804
+saber que ela ficará bem,
+
+967
+00:36:51,804 --> 00:36:56,113
+que você vai ficar bem,
+
+968
+00:36:56,113 --> 00:36:57,723
+é tudo que me importa.
+
+969
+00:36:57,723 --> 00:37:00,247
+A mim também.
+
+970
+00:37:00,247 --> 00:37:03,163
+E sabem de uma coisa?
+A mim também.
+
+971
+00:37:03,163 --> 00:37:05,514
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+972
+00:37:05,514 --> 00:37:08,081
+Vocês são os melhores.
+[RISOS]
+
+973
+00:37:08,081 --> 00:37:11,128
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+974
+00:37:11,128 --> 00:37:13,260
+[MILES]
+<i>Todos procuramos respostas.</i>
+
+975
+00:37:13,260 --> 00:37:15,698
+De onde viemos?
+Quem somos?
+
+976
+00:37:15,698 --> 00:37:18,135
+Onde nos encaixamos no mundo?
+
+977
+00:37:18,135 --> 00:37:20,790
+[MILES] <i>Às vezes, mesmo com
+uma pequena conexão</i>
+
+978
+00:37:20,790 --> 00:37:23,358
+<i>com nosso passado,
+podemos traçar um novo futuro.</i>
+
+979
+00:37:23,358 --> 00:37:25,142
+[INSTRUTORA]
+E subam!
+
+980
+00:37:25,142 --> 00:37:27,536
+[INSTRUTORA]
+Maravilha, Lauren é incrível.
+
+981
+00:37:27,536 --> 00:37:29,838
+[DAVID]
+É, ela arrebentou.
+
+982
+00:37:30,582 --> 00:37:33,368
+[RISOS]
+
+983
+00:37:33,368 --> 00:37:35,282
+Se não fosse você,
+
+984
+00:37:35,282 --> 00:37:36,762
+Lauren nunca saberia que
+
+985
+00:37:36,762 --> 00:37:38,627
+o bisavô dela era surfista.
+
+986
+00:37:39,243 --> 00:37:41,376
+Fico feliz em ajudar.
+
+987
+00:37:41,376 --> 00:37:42,768
+Como estão as coisas?
+
+988
+00:37:42,768 --> 00:37:44,596
+Ótimas.
+
+989
+00:37:44,596 --> 00:37:46,903
+Digo,
+ter a conexão com as raízes
+
+990
+00:37:46,903 --> 00:37:48,252
+saber de onde ela vem,
+
+991
+00:37:48,252 --> 00:37:52,169
+nos deixou mais próximos.
+
+992
+00:37:52,169 --> 00:37:54,819
+Fico feliz.
+
+993
+00:37:55,564 --> 00:37:58,480
+Como conseguiu achar sobre
+o bisavô dela
+
+994
+00:37:58,480 --> 00:37:59,742
+tão rápido?
+
+995
+00:37:59,742 --> 00:38:03,310
+E também pegar a foto dele.
+
+996
+00:38:03,310 --> 00:38:04,877
+Poderia pensar que
+
+997
+00:38:04,877 --> 00:38:06,570
+você a tinha esse tempo todo.
+
+998
+00:38:07,489 --> 00:38:09,447
+Você tem uma família incrível.
+
+999
+00:38:09,447 --> 00:38:13,799
+Deve ter muito orgulho
+da filha que criou.
+
+1000
+00:38:13,799 --> 00:38:15,540
+Eu teria.
+
+1001
+00:38:15,540 --> 00:38:17,499
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1002
+00:38:17,499 --> 00:38:20,327
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1003
+00:38:20,327 --> 00:38:22,155
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1004
+00:38:22,155 --> 00:38:23,505
+Obrigada.
+
+1005
+00:38:23,505 --> 00:38:25,985
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1006
+00:38:25,985 --> 00:38:28,988
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1007
+00:38:28,988 --> 00:38:30,642
+[RISADAS]
+
+1008
+00:38:30,642 --> 00:38:33,210
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1009
+00:38:33,210 --> 00:38:35,517
+[MILES]
+<i>E, às vezes, temos que arriscar</i>
+
+1010
+00:38:35,517 --> 00:38:37,127
+<i>voltar ao início</i>
+
+1011
+00:38:37,127 --> 00:38:39,999
+<i>para poder dar
+um passo a frente.</i>
+
+1012
+00:38:39,999 --> 00:38:43,002
+Cara, oi.
+O que está fazendo aqui?
+
+1013
+00:38:43,002 --> 00:38:45,135
+Eu vim dizer que
+
+1014
+00:38:45,135 --> 00:38:48,094
+deu tudo certo com a Lauren
+e a família.
+
+1015
+00:38:48,094 --> 00:38:50,183
+Fico feliz.
+
+1016
+00:38:50,183 --> 00:38:52,621
+E que estava certa.
+
+1017
+00:38:52,621 --> 00:38:55,537
+Família é mais forte
+que eu achava.
+
+1018
+00:38:55,537 --> 00:38:58,365
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1019
+00:38:58,365 --> 00:39:00,106
+Eu gostaria de tentar.
+
+1020
+00:39:00,106 --> 00:39:02,544
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1021
+00:39:02,544 --> 00:39:04,241
+Eu adoraria.
+
+1022
+00:39:04,241 --> 00:39:05,634
+[MÚSICA "NO GOOD-BYES" TOCANDO]
+
+1023
+00:39:05,634 --> 00:39:08,767
+[MILES] <i>Nem sempre é fácil ir
+de quem você é</i>
+
+1024
+00:39:08,767 --> 00:39:10,639
+<i>para quem você quer ser.</i>
+
+1025
+00:39:10,639 --> 00:39:12,510
+Não parece trazer boas notícias,
+Arthur.
+
+1026
+00:39:12,510 --> 00:39:14,947
+Não trago, me desculpe.
+
+1027
+00:39:14,947 --> 00:39:16,862
+Conversei com Trish,
+e concordamos
+
+1028
+00:39:16,862 --> 00:39:19,034
+que tomaria muito do meu tempo.
+
+1029
+00:39:20,170 --> 00:39:21,519
+Me deixe mostrar que está errado.
+
+1030
+00:39:21,519 --> 00:39:22,781
+Como?
+
+1031
+00:39:22,781 --> 00:39:26,045
+O que acha de fazermos
+um teste?
+
+1032
+00:39:26,045 --> 00:39:28,526
+Nada oficial, fora dos livros,
+
+1033
+00:39:28,526 --> 00:39:29,571
+falando assim.
+
+1034
+00:39:29,571 --> 00:39:31,660
+Podemos fazer funcionar
+
+1035
+00:39:31,660 --> 00:39:34,614
+para você e para Trish.
+
+1036
+00:39:35,664 --> 00:39:38,536
+[MILES] <i>Mas no fim, são as
+pessoas próximas a você</i>
+
+1037
+00:39:38,536 --> 00:39:40,233
+<i>que lhe ajudam a encontrar
+o caminho.</i>
+
+1038
+00:39:40,233 --> 00:39:42,975
+Sério,
+foi bem intensa essa
+
+1039
+00:39:42,975 --> 00:39:44,934
+sugestão de amizade.
+Não duvidei de você,
+
+1040
+00:39:44,934 --> 00:39:46,196
+nem por um minuto.
+
+1041
+00:39:46,196 --> 00:39:47,284
+[CARA]
+Olhem por esse lado.
+
+1042
+00:39:47,284 --> 00:39:48,720
+Seja quem for a próxima
+sugestão de amizade,
+
+1043
+00:39:48,720 --> 00:39:50,592
+vai sem moleza.
+
+1044
+00:39:50,592 --> 00:39:52,594
+Queria falar com vocês
+sobre isso.
+
+1045
+00:39:52,594 --> 00:39:53,943
+Não acho que poderei
+
+1046
+00:39:53,943 --> 00:39:55,510
+mais ajudar nas sugestões.
+
+1047
+00:39:55,510 --> 00:39:57,076
+Espere,
+do que está falando?
+
+1048
+00:39:57,076 --> 00:39:59,074
+Decidi voltar para Chicago.
+
+1049
+00:40:00,558 --> 00:40:01,777
+Vai para a audiência?
+
+1050
+00:40:01,777 --> 00:40:04,122
+Sim, eu vou.
+
+1051
+00:40:05,084 --> 00:40:09,040
+Vou ganhar e ter minha
+vida de volta.
+
+1052
+00:40:10,220 --> 00:40:13,092
+Estou pronta,
+agora que fiz as pazes com tudo.
+
+1053
+00:40:13,092 --> 00:40:15,617
+Minhas malas estão prontas.
+Não gosto de adeus.
+
+1054
+00:40:15,617 --> 00:40:19,398
+Isso é tudo que consigo
+aguentar.
+
+1055
+00:40:20,404 --> 00:40:21,840
+Tome conta deles por mim.
+
+1056
+00:40:21,840 --> 00:40:23,799
+- Com certeza.
+- Faremos o melhor.
+
+1057
+00:40:23,799 --> 00:40:26,279
+[RISOS]
+
+1058
+00:40:26,279 --> 00:40:27,629
+Adeus.
+
+1059
+00:40:27,629 --> 00:40:29,974
+[JOY LIMPA A GARGANTA]
+
+1060
+00:40:30,893 --> 00:40:31,894
+Rakesh.
+
+1061
+00:40:31,894 --> 00:40:33,069
+Mm-hmm.
+
+1062
+00:40:33,069 --> 00:40:34,636
+[RISOS]
+
+1063
+00:40:34,636 --> 00:40:36,681
+Você tem a mais
+bela e leal alma
+
+1064
+00:40:36,681 --> 00:40:38,770
+que já conheci.
+
+1065
+00:40:38,770 --> 00:40:40,119
+Nunca mude.
+
+1066
+00:40:40,119 --> 00:40:42,121
+Não precisa se
+preocupar com isso.
+
+1067
+00:40:42,121 --> 00:40:46,647
+[MÚSICA AFETIVA]
+
+1068
+00:40:46,648 --> 00:40:48,693
+Tchau.
+
+1069
+00:40:48,693 --> 00:40:50,521
+Certo, te levo lá fora.
+
+1070
+00:40:50,521 --> 00:40:53,045
+Ótimo.
+
+1071
+00:40:53,045 --> 00:40:54,656
+Sabe,
+
+1072
+00:40:54,656 --> 00:40:56,658
+o Perfil de Deus é
+bem teimoso.
+
+1073
+00:40:56,658 --> 00:40:58,268
+Pode não deixar você
+de fora tão fácil.
+
+1074
+00:40:58,268 --> 00:40:59,791
+Talvez não.
+
+1075
+00:40:59,791 --> 00:41:02,533
+Mas eu sinto que
+voltar para Chicago
+
+1076
+00:41:02,533 --> 00:41:05,101
+e reingressar ao escritório
+da defensoria
+
+1077
+00:41:05,101 --> 00:41:07,059
+era o que ele queria
+o tempo todo.
+
+1078
+00:41:07,059 --> 00:41:10,323
+Bom, obrigado, Joy.
+
+1079
+00:41:10,323 --> 00:41:11,586
+Pelo que está me agradecendo?
+
+1080
+00:41:11,586 --> 00:41:13,413
+Achei que perder as
+sugestões de amizade
+
+1081
+00:41:13,413 --> 00:41:14,414
+era o fim.
+
+1082
+00:41:14,414 --> 00:41:15,677
+Mas te ajudar me levou
+
+1083
+00:41:15,677 --> 00:41:17,766
+a ter uma nova mensagem
+do Perfil de Deus.
+
+1084
+00:41:17,766 --> 00:41:19,898
+Encontrar a moça,
+ir para Paris,
+
+1085
+00:41:19,898 --> 00:41:22,335
+"O caminho",
+meu <i>podcast</i> indo bem
+
+1086
+00:41:22,335 --> 00:41:26,165
+na segunda temporada.
+Tudo.
+
+1087
+00:41:26,165 --> 00:41:28,124
+Eu fui sua primeira
+sugestão de amizade,
+
+1088
+00:41:28,124 --> 00:41:31,649
+e você me ajudou mais do
+que ajudei você.
+
+1089
+00:41:31,649 --> 00:41:35,131
+Isso é verdade.
+[RISADAS]
+
+1090
+00:41:35,131 --> 00:41:37,437
+[MÚSICA AFETIVA]
+
+1091
+00:41:37,437 --> 00:41:40,789
+Mas é bom saber
+que meu <i>Obi-Wan</i>
+
+1092
+00:41:40,789 --> 00:41:43,574
+sempre estará aqui.
+
+1093
+00:41:43,574 --> 00:41:46,795
+Obrigada, Miles,
+
+1094
+00:41:46,795 --> 00:41:48,971
+por tudo.
+
+1095
+00:41:48,971 --> 00:42:02,053
+[MÚSICA AFETIVA]
+
+1096
+00:42:02,054 --> 00:42:04,199
+[PORTA ABRINDO]
+
+1097
+00:42:05,683 --> 00:42:07,032
+[PORTA FECHANDO]
+
+1098
+00:42:07,032 --> 00:42:09,078
+Hmm.
+
+1099
+00:42:09,078 --> 00:42:15,084
+[MÚSICA AFETIVA]
+
+1100
+00:42:15,084 --> 00:42:16,389
+[RAKESH]
+O que acham que vai acontecer
+
+1101
+00:42:16,389 --> 00:42:18,000
+com o Perfil de Deus?
+
+1102
+00:42:18,000 --> 00:42:20,393
+Acham que vai escolher
+alguém novo,
+
+1103
+00:42:20,393 --> 00:42:22,526
+alguém digno,
+
+1104
+00:42:22,526 --> 00:42:24,441
+que sempre esteve junto
+
+1105
+00:42:24,441 --> 00:42:25,485
+ajudando pessoas?
+
+1106
+00:42:25,485 --> 00:42:27,531
+- Quer dizer eu?
+- Não!
+
+1107
+00:42:27,531 --> 00:42:28,750
+[RISOS]
+
+1108
+00:42:28,750 --> 00:42:31,753
+- Não, quero dizer eu.
+- Boa tentativa, Rakesh.
+
+1109
+00:42:31,753 --> 00:42:33,363
+[RISOS]
+
+1110
+00:42:33,363 --> 00:42:35,060
+[CARA]
+Mas você tem razão.
+
+1111
+00:42:35,060 --> 00:42:38,020
+Agora que a Joy foi embora,
+
+1112
+00:42:38,020 --> 00:42:40,326
+talvez tenha sido a última
+vez que o Perfil de Deus
+
+1113
+00:42:40,326 --> 00:42:42,106
+enviou sugestões de amizade.
+
+1114
+00:42:42,851 --> 00:42:44,679
+[CELULAR TOCANDO E VIBRANDO]
+
+1115
+00:42:44,679 --> 00:42:46,245
+[MÚSICA DE SUSPENSE]
+
+1116
+00:42:46,245 --> 00:42:47,899
+[MILES]
+Talvez não.
+
+1117
+00:42:47,900 --> 00:42:50,144
+[MÚSICA DE SUSPENSE]
+[CLAIRE THOMPSON SUGERIDA]
+
+1118
+00:42:50,145 --> 00:42:55,346
+[MÚSICA DE SUSPENSE]
+

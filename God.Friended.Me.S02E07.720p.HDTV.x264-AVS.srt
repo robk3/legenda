@@ -1,0 +1,4635 @@
+﻿1
+00:00:00,010 --> 00:00:01,880
+<i> Anteriormente em "God Friended Me" ... </i>
+
+2
+00:00:01,900 --> 00:00:04,059
+As dioceses gostariam que eu fosse
+
+3
+00:00:04,060 --> 00:00:05,479
+o próximo bispo de Nova York.
+
+4
+00:00:05,480 --> 00:00:08,470
+Arthur, como você não pode me dizer isso?
+
+5
+00:00:08,480 --> 00:00:09,849
+Eu não posso casar com você.
+
+6
+00:00:09,850 --> 00:00:13,059
+Eu te amo, Cara, e eu sei
+você não pode dizer isso ainda,
+
+7
+00:00:13,060 --> 00:00:14,060
+e está tudo bem.
+
+8
+00:00:14,070 --> 00:00:16,890
+A Conta de Deus me levou a
+Paris, onde encontrei uma pintura
+
+9
+00:00:16,900 --> 00:00:18,890
+- chamado "O caminho".
+- Como conseguimos nossas mãos
+
+10
+00:00:18,900 --> 00:00:20,930
+- na chave para desbloqueá-lo?
+- Bem, eu precisaria de acesso
+
+11
+00:00:20,940 --> 00:00:22,930
+para o programa de IA que
+criou a pintura.
+
+12
+00:00:22,940 --> 00:00:24,250
+E a única pessoa que
+pode nos dar isso é ...
+
+13
+00:00:24,260 --> 00:00:25,550
+Audrey Grenelle ...
+
+14
+00:00:25,560 --> 00:00:26,870
+Você sabia que havia uma mensagem
+
+15
+00:00:26,880 --> 00:00:28,450
+escondido na pintura "O Caminho"?
+
+16
+00:00:28,460 --> 00:00:30,100
+Como você poderia saber sobre isso?
+
+17
+00:00:30,110 --> 00:00:32,430
+Porque foi feito para mim.
+
+18
+00:00:34,764 --> 00:00:37,849
+<i> [MÚSICA INQUISITIVA] </i>
+
+19
+00:00:37,850 --> 00:00:41,040
+Só para ficar claro, você
+me arrastou todo o caminho
+
+20
+00:00:41,050 --> 00:00:43,269
+para o meu próprio escritório para mostrar
+mim minha própria pintura?
+
+21
+00:00:43,270 --> 00:00:45,500
+Bem, como dissemos,
+nós pensamos que a mensagem
+
+22
+00:00:45,510 --> 00:00:48,730
+- está oculto no código.
+- A mensagem que Deus deixou para você
+
+23
+00:00:48,740 --> 00:00:51,862
+- está dentro do código?
+- Não Deus ... a conta de Deus.
+
+24
+00:00:51,863 --> 00:00:54,340
+Olha, se você pudesse
+coloque seu ceticismo de lado
+
+25
+00:00:54,350 --> 00:00:56,090
+por um segundo ...
+
+26
+00:00:56,100 --> 00:00:58,140
+Nós realmente precisamos saber
+sobre esta pintura.
+
+27
+00:00:58,150 --> 00:01:02,060
+<i> ? </i>
+
+28
+00:01:02,070 --> 00:01:05,230
+Há um ano, parti para
+perturbar o mundo da arte,
+
+29
+00:01:05,240 --> 00:01:07,490
+empurrar os limites
+do que arte poderia ser,
+
+30
+00:01:07,500 --> 00:01:09,269
+Então, basicamente, irritar todos.
+
+31
+00:01:09,270 --> 00:01:13,750
+Eu contratei uma equipe de codificadores,
+e projetou um programa de IA
+
+32
+00:01:13,760 --> 00:01:16,309
+isso essencialmente
+substitua o artista.
+
+33
+00:01:16,310 --> 00:01:19,140
+Então, todas as pinturas que você viu
+na exposição Future of Art
+
+34
+00:01:19,150 --> 00:01:20,980
+no Louvre foram criados por ele ...
+
+35
+00:01:22,380 --> 00:01:24,750
+Exceto aquele.
+
+36
+00:01:24,760 --> 00:01:26,059
+Do que você está falando?
+
+37
+00:01:26,060 --> 00:01:27,358
+Meu programa foi hackeado.
+
+38
+00:01:27,359 --> 00:01:30,030
+A pintura foi desenhada por
+
+39
+00:01:30,040 --> 00:01:32,030
+quem é responsável por isso.
+
+40
+00:01:32,040 --> 00:01:34,640
+A conta de Deus. Tem que ser.
+
+41
+00:01:34,650 --> 00:01:36,390
+Você conseguiu rastrear o hack?
+
+42
+00:01:36,400 --> 00:01:39,410
+Não, mas eu tentei de tudo.
+
+43
+00:01:39,420 --> 00:01:41,739
+Confie em mim.
+
+44
+00:01:41,740 --> 00:01:45,490
+Por que sinto que você
+não está nos dizendo tudo?
+
+45
+00:01:45,500 --> 00:01:47,270
+Bem, eu pensei que a mensagem
+
+46
+00:01:47,280 --> 00:01:49,019
+escondido dentro do código foi feito para mim.
+
+47
+00:01:49,020 --> 00:01:52,559
+- Por quê?
+- Isso realmente não importa.
+
+48
+00:01:52,560 --> 00:01:55,099
+A mensagem requer código numérico.
+
+49
+00:01:55,100 --> 00:01:58,150
+Se você me der acesso
+para o seu programa de IA,
+
+50
+00:01:58,160 --> 00:02:00,410
+Eu posso ser capaz de encontrá-lo.
+
+51
+00:02:00,420 --> 00:02:03,130
+Se essa história louca
+você está me dizendo que é verdade,
+
+52
+00:02:03,140 --> 00:02:05,229
+- Eu não sou parte disso.
+- Não, você é. </i>
+
+53
+00:02:05,230 --> 00:02:09,130
+Olha, a conta de Deus nunca
+faz qualquer coisa sem uma razão.
+
+54
+00:02:09,140 --> 00:02:10,830
+Queria que nos encontrássemos.
+
+55
+00:02:10,840 --> 00:02:12,920
+Se pudermos decifrar esse código,
+então talvez nós dois
+
+56
+00:02:12,930 --> 00:02:14,550
+obtenha as respostas que temos
+estive procurando.
+
+57
+00:02:14,560 --> 00:02:18,430
+<i> ? </i>
+
+58
+00:02:18,440 --> 00:02:21,800
+<i> [UPBEAT MUSIC] </i>
+
+59
+00:02:21,810 --> 00:02:22,970
+<i> ? </i>
+
+60
+00:02:22,980 --> 00:02:25,372
+Então, alguma palavra na sua tese de graduação?
+
+61
+00:02:25,373 --> 00:02:27,050
+Na verdade, estou me encontrando com meu orientador
+
+62
+00:02:27,060 --> 00:02:28,560
+esta tarde para obter
+minha primeira rodada de anotações.
+
+63
+00:02:28,570 --> 00:02:30,189
+Ei, ei, você está trabalhando nisso
+
+64
+00:02:30,190 --> 00:02:32,559
+por seis meses; sabendo
+você, provavelmente é perfeito.
+
+65
+00:02:32,560 --> 00:02:33,940
+- Sim.
+- [AMBOS CHUCKLE]
+
+66
+00:02:39,940 --> 00:02:43,010
+Você sabe, essa ... comida é ...
+
+67
+00:02:43,020 --> 00:02:44,644
+surpreendente.
+
+68
+00:02:46,080 --> 00:02:48,030
+Você não acha, pai?
+
+69
+00:02:48,040 --> 00:02:50,810
+Absolutamente. Obrigado, querida.
+
+70
+00:02:50,830 --> 00:02:52,900
+Você precisa de mais café ou ...
+
+71
+00:02:52,910 --> 00:02:57,420
+Estou bem, e não apenas sobre o café.
+
+72
+00:02:57,430 --> 00:02:59,449
+Eu sei o que os dois
+você está tentando fazer
+
+73
+00:02:59,450 --> 00:03:01,760
+Não querendo falar sobre Trish,
+
+74
+00:03:01,770 --> 00:03:03,740
+e enquanto aprecio a preocupação,
+
+75
+00:03:03,750 --> 00:03:06,150
+Não é necessário
+dançar em torno da questão.
+
+76
+00:03:06,160 --> 00:03:08,109
+Nós estávamos preocupados com você.
+
+77
+00:03:08,110 --> 00:03:09,940
+Não há nada com que se preocupar.
+
+78
+00:03:09,950 --> 00:03:11,760
+Trish é do norte em sua fazenda
+
+79
+00:03:11,770 --> 00:03:13,029
+dando-se tempo para pensar.
+
+80
+00:03:13,030 --> 00:03:15,300
+E quando ela voltar,
+nós vamos resolver as coisas
+
+81
+00:03:15,310 --> 00:03:17,450
+e estar andando
+o corredor em nenhum momento.
+
+82
+00:03:17,460 --> 00:03:19,660
+Pai, eu não acho que seja
+vai ser assim tão fácil.
+
+83
+00:03:21,590 --> 00:03:24,540
+Oh, eu preciso sair daqui.
+
+84
+00:03:24,550 --> 00:03:26,380
+Eu tenho uma reunião com a diocese
+
+85
+00:03:26,390 --> 00:03:28,760
+para repassar na próxima semana.
+
+86
+00:03:28,770 --> 00:03:31,490
+- Obrigado pelo brunch. Mwuh!
+- Hum-hmm.
+
+87
+00:03:35,860 --> 00:03:37,520
+[CLICKS DA PORTA FECHAM]
+
+88
+00:03:37,530 --> 00:03:39,239
+Precisamos estar aqui para ele, Miles.
+
+89
+00:03:39,240 --> 00:03:41,140
+Quão? Deixando-o fingir
+
+90
+00:03:41,150 --> 00:03:42,350
+tudo vai ficar bem?
+
+91
+00:03:42,360 --> 00:03:45,070
+Eu não sou terapeuta, mas
+ele está definitivamente em negação.
+
+92
+00:03:45,080 --> 00:03:48,910
+- Ele está apenas ... sendo otimista.
+- Hmm.
+
+93
+00:03:51,380 --> 00:03:52,599
+Eu vou falar com ele.
+
+94
+00:03:52,600 --> 00:03:54,900
+[DING DO TELEFONE]
+
+95
+00:03:55,980 --> 00:04:00,300
+A conta de Deus apenas gostou
+Loja de segunda mão de Sarah?
+
+96
+00:04:00,310 --> 00:04:02,600
+Então, o que isso significa?
+quer que você vá às compras?
+
+97
+00:04:02,610 --> 00:04:04,270
+[Risos] eu não sei,
+
+98
+00:04:04,280 --> 00:04:05,892
+mas avisarei quando descobrir.
+
+99
+00:04:07,710 --> 00:04:09,370
+Bem, tenho que admitir,
+
+100
+00:04:09,380 --> 00:04:10,990
+o Conta de Deus tem bom gosto.
+
+101
+00:04:11,000 --> 00:04:12,690
+Este é realmente um dos
+meus brechós favoritos.
+
+102
+00:04:12,700 --> 00:04:14,060
+Bem, conversamos com o proprietário,
+
+103
+00:04:14,070 --> 00:04:15,530
+demos uma volta por esse lugar;
+
+104
+00:04:15,540 --> 00:04:17,060
+alguma ideia do que somos
+deveria encontrar aqui?
+
+105
+00:04:17,070 --> 00:04:19,409
+Hmm, não faço ideia, mas vamos descobrir,
+
+106
+00:04:19,410 --> 00:04:20,810
+e talvez eu possa encontrar uma nova bolsa,
+
+107
+00:04:20,820 --> 00:04:22,365
+tão vantajoso para as duas partes.
+
+108
+00:04:22,366 --> 00:04:26,662
+<i> [MÚSICA AFETADA] </i>
+
+109
+00:04:26,690 --> 00:04:30,890
+<i> ? </i>
+
+110
+00:04:30,900 --> 00:04:33,043
+[CHUCKLES] Para que foi isso?
+
+111
+00:04:33,044 --> 00:04:34,754
+Sem motivo
+
+112
+00:04:34,770 --> 00:04:36,922
+Eu só...
+
+113
+00:04:36,923 --> 00:04:39,342
+<i> ? </i>
+
+114
+00:04:39,350 --> 00:04:44,230
+Estou feliz por ter você na minha vida.
+
+115
+00:04:46,290 --> 00:04:47,470
+Sim eu também.
+
+116
+00:04:51,310 --> 00:04:52,800
+Oh
+
+117
+00:04:52,810 --> 00:04:55,049
+Falando dessa nova bolsa,
+
+118
+00:04:55,050 --> 00:04:57,009
+isso é bem fofo.
+
+119
+00:04:57,010 --> 00:04:59,010
+[CHUCKLES]
+
+120
+00:04:59,020 --> 00:05:00,229
+Hum, hum, hum!
+
+121
+00:05:00,230 --> 00:05:01,630
+Hum?
+
+122
+00:05:01,640 --> 00:05:02,750
+- O que você acha?
+- Bem,
+
+123
+00:05:02,760 --> 00:05:04,920
+Eu não acho que deus
+A conta nos trouxe aqui
+
+124
+00:05:04,930 --> 00:05:07,090
+para encontrar uma nova bolsa.
+
+125
+00:05:07,100 --> 00:05:09,060
+- Não? Vamos.
+- mm-mm.
+
+126
+00:05:11,000 --> 00:05:12,720
+Ei.
+
+127
+00:05:12,730 --> 00:05:14,810
+<i> [MÚSICA INQUISITIVA] </i>
+
+128
+00:05:14,820 --> 00:05:15,940
+Dê uma olhada.
+
+129
+00:05:17,310 --> 00:05:18,600
+Hmm.
+
+130
+00:05:20,520 --> 00:05:22,060
+Sameer Patel.
+
+131
+00:05:22,070 --> 00:05:23,440
+Acha que ele é um vencedor?
+
+132
+00:05:23,450 --> 00:05:24,610
+Só há uma maneira de descobrir.
+
+133
+00:05:24,620 --> 00:05:26,750
+Verifique os números no site.
+
+134
+00:05:26,760 --> 00:05:28,570
+Eu escrevi uma história sobre pessoas
+que jogam na loteria.
+
+135
+00:05:28,580 --> 00:05:32,140
+Você conhecia a pessoa comum
+gasta US $ 200 por ano em ingressos,
+
+136
+00:05:32,150 --> 00:05:34,580
+e eles nunca ganham?
+
+137
+00:05:34,590 --> 00:05:35,930
+Esse cara fez.
+
+138
+00:05:35,940 --> 00:05:38,670
+Deve ser por isso que Deus
+A conta nos enviou aqui.
+
+139
+00:05:38,734 --> 00:05:42,439
+Ele ganhou US $ 1 milhão.
+
+140
+00:05:42,440 --> 00:05:45,491
+
+
+141
+00:05:45,492 --> 00:05:47,630
+Obrigado por se sentar
+comigo, Dr. Maxwell.
+
+142
+00:05:47,640 --> 00:05:49,245
+Claro, Ali. Você esteve
+
+143
+00:05:49,270 --> 00:05:52,059
+um dos meus melhores alunos
+nos últimos dois anos e
+
+144
+00:05:52,060 --> 00:05:54,930
+se estou sendo perfeitamente honesto,
+
+145
+00:05:54,940 --> 00:05:57,430
+Fiquei decepcionado com sua tese.
+
+146
+00:05:57,440 --> 00:05:59,540
+Uau, um ...
+
+147
+00:05:59,550 --> 00:06:01,559
+OK.
+
+148
+00:06:01,560 --> 00:06:04,320
+Se você quer apontar o que
+parte não estava lá para você,
+
+149
+00:06:04,330 --> 00:06:05,750
+claro, vou dar outra olhada.
+
+150
+00:06:05,760 --> 00:06:09,470
+Essa é a coisa, Ali,
+não era uma área específica.
+
+151
+00:06:09,480 --> 00:06:11,849
+Seu assunto era pessoal:
+
+152
+00:06:11,850 --> 00:06:14,690
+Parentalidade solteira e
+a dinâmica da família ...
+
+153
+00:06:14,700 --> 00:06:17,340
+mas parecia ... sem inspiração.
+
+154
+00:06:17,350 --> 00:06:20,567
+Eu sinto que você esteve menos
+envolvido nos últimos meses.
+
+155
+00:06:20,568 --> 00:06:22,361
+Está tudo bem com você?
+
+156
+00:06:22,362 --> 00:06:23,920
+Nunca melhor.
+
+157
+00:06:23,930 --> 00:06:26,489
+Honestamente, isso está chegando
+como um choque para mim.
+
+158
+00:06:26,490 --> 00:06:30,160
+Olha, Ali, tem sido um longo caminho,
+
+159
+00:06:30,170 --> 00:06:32,170
+mas você está quase lá.
+
+160
+00:06:32,180 --> 00:06:33,609
+Dê um passo para trás,
+
+161
+00:06:33,610 --> 00:06:35,480
+releia sua tese,
+
+162
+00:06:35,490 --> 00:06:36,940
+e vamos sentar e conversar sobre
+
+163
+00:06:36,950 --> 00:06:39,030
+maneiras de repensar sua abordagem.
+
+164
+00:06:39,040 --> 00:06:40,109
+OK?
+
+165
+00:06:40,110 --> 00:06:42,609
+<i> [MELANCHOLY MUSIC] </i>
+
+166
+00:06:42,610 --> 00:06:44,449
+<i> ? </i>
+
+167
+00:06:44,450 --> 00:06:47,279
+US $ 1 milhão?
+
+168
+00:06:47,280 --> 00:06:49,555
+Cara, esse cara vai
+fique feliz em vê-lo.
+
+169
+00:06:49,560 --> 00:06:51,540
+Bem, sim, é se
+você pode encontrá-lo a tempo.
+
+170
+00:06:51,550 --> 00:06:52,940
+O bilhete expira amanhã.
+
+171
+00:06:52,950 --> 00:06:55,030
+Ooh. Um relógio correndo.
+
+172
+00:06:55,850 --> 00:06:57,880
+Aumento da conta de Deus
+é jogo. Eu gosto disso.
+
+173
+00:06:57,890 --> 00:07:00,070
+Eu estou trabalhando nisso. OK.
+
+174
+00:07:00,080 --> 00:07:02,680
+Eu vou fazer uma busca por
+Sameer Patel em Nova York ...
+
+175
+00:07:02,690 --> 00:07:04,940
+isso pode levar um minuto.
+
+176
+00:07:04,950 --> 00:07:06,560
+[CHAVES DE CHAVES]
+
+177
+00:07:06,570 --> 00:07:08,300
+[ZONA EM TELEFONE]
+
+178
+00:07:08,310 --> 00:07:10,520
+_
+
+179
+00:07:10,530 --> 00:07:12,800
+O que é isso?
+
+180
+00:07:12,810 --> 00:07:15,280
+Oh ... é a Jaya.
+
+181
+00:07:15,290 --> 00:07:17,245
+Hum, nós dois somos
+indo a um encontro secreto.
+
+182
+00:07:17,246 --> 00:07:18,667
+Hoje é o segundo desta semana.
+
+183
+00:07:18,700 --> 00:07:19,770
+Eu vou ser honesto.
+
+184
+00:07:19,780 --> 00:07:21,420
+Essa coisa toda de "esgueirar-se"
+
+185
+00:07:21,430 --> 00:07:24,980
+é realmente apimentado nosso
+relação. Gostar...
+
+186
+00:07:24,990 --> 00:07:26,760
+- você nem acreditaria ...
+- Ok, sim, sim,
+
+187
+00:07:26,770 --> 00:07:29,230
+não, não, não, não, nós entendemos.
+
+188
+00:07:29,240 --> 00:07:31,440
+- [BIPERS DO COMPUTADOR]
+- Sim, aqui vamos nós.
+
+189
+00:07:31,450 --> 00:07:34,280
+Hum, parece que existem ...
+
+190
+00:07:34,290 --> 00:07:36,300
+Seis Sameer Patels em Nova York.
+
+191
+00:07:36,310 --> 00:07:39,239
+Esse número deve
+corresponder com a loja
+
+192
+00:07:39,240 --> 00:07:41,100
+foi comprado de,
+
+193
+00:07:41,110 --> 00:07:43,069
+que, de acordo com o
+comissão de loteria é ...
+
+194
+00:07:43,070 --> 00:07:44,150
+uma bodega no Queens.
+
+195
+00:07:44,160 --> 00:07:47,030
+Ok, ótimo, qualquer um desses
+Sameer Patels mora perto?
+
+196
+00:07:48,270 --> 00:07:50,739
+[CHAVES DE CHAVES, BIPE COMPUTADOR]
+
+197
+00:07:50,740 --> 00:07:53,940
+Na verdade, um deles trabalha em
+um escritório de advocacia a duas quadras de distância.
+
+198
+00:07:53,950 --> 00:07:55,770
+Esse tem que ser o nosso cara. Direito?
+
+199
+00:07:55,780 --> 00:07:58,230
+Você pode verificar se o
+escritório de advocacia tem uma página no Facebook?
+
+200
+00:07:58,240 --> 00:07:59,640
+Ok, vamos ver.
+
+201
+00:07:59,650 --> 00:08:01,500
+Patel & Sons,
+
+202
+00:08:01,510 --> 00:08:04,672
+dirigido por Sameer Patel e
+o irmão dele, Jay. Oh
+
+203
+00:08:04,680 --> 00:08:06,950
+Diz aqui que estão fechados aos domingos.
+
+204
+00:08:06,960 --> 00:08:08,319
+Bem, você pode nos dar um endereço residencial?
+
+205
+00:08:08,320 --> 00:08:10,240
+Absolutamente.
+
+206
+00:08:10,250 --> 00:08:12,610
+Você está prestes a mudar a vida desse cara.
+
+207
+00:08:12,620 --> 00:08:15,100
+<i> [MÚSICA INSPIRADA] </i>
+
+208
+00:08:15,110 --> 00:08:19,260
+<i> ? </i>
+
+209
+00:08:19,270 --> 00:08:20,910
+É isso.
+
+210
+00:08:23,680 --> 00:08:25,130
+[BATA]
+
+211
+00:08:26,944 --> 00:08:28,279
+Posso ajudar?
+
+212
+00:08:28,280 --> 00:08:29,609
+Sameer Patel?
+
+213
+00:08:29,610 --> 00:08:30,850
+Está certo.
+
+214
+00:08:30,860 --> 00:08:32,930
+Eu sou Miles. Essa é Cara.
+
+215
+00:08:32,940 --> 00:08:35,200
+Encontramos algo
+que pertence a você
+
+216
+00:08:35,210 --> 00:08:37,150
+que você ficará feliz em ver.
+
+217
+00:08:37,160 --> 00:08:39,706
+<i> [MÚSICA INQUISITIVA] </i>
+
+218
+00:08:39,707 --> 00:08:42,918
+Você ganhou! Este bilhete
+vale US $ 1 milhão.
+
+219
+00:08:42,950 --> 00:08:45,900
+<i> ? </i>
+
+220
+00:08:45,910 --> 00:08:47,423
+Eu não quero nada com isso.
+
+221
+00:08:49,200 --> 00:08:51,760
+- [PORTA BATA]
+- Uh ...
+
+222
+00:08:51,770 --> 00:08:53,888
+Sim, não foi assim que eu vi isso.
+
+223
+00:08:57,550 --> 00:08:58,649
+Eu não entendo.
+
+224
+00:08:58,650 --> 00:09:00,819
+Por que alguém recusaria US $ 1 milhão?
+
+225
+00:09:00,820 --> 00:09:03,370
+Não faço ideia, mas seja qual for o motivo de Sameer,
+
+226
+00:09:03,380 --> 00:09:05,479
+deve ser por isso que a conta de Deus
+colocá-lo no nosso radar.
+
+227
+00:09:05,480 --> 00:09:06,819
+Sim, então a questão é
+
+228
+00:09:06,820 --> 00:09:08,840
+o que aconteceu um ano atrás
+que o fez decidir
+
+229
+00:09:08,850 --> 00:09:10,650
+- para não descontar?
+- eu notei algo
+
+230
+00:09:10,660 --> 00:09:12,070
+na página do Facebook da Patel & Sons
+
+231
+00:09:12,080 --> 00:09:13,409
+essa poderia ser a nossa resposta.
+
+232
+00:09:13,410 --> 00:09:15,219
+Houve um memorial
+postando dois dias depois
+
+233
+00:09:15,220 --> 00:09:17,219
+Sameer comprou o
+bilhete premiado. Veja.
+
+234
+00:09:17,220 --> 00:09:19,219
+"Patel & Sons envia condolências
+
+235
+00:09:19,220 --> 00:09:21,260
+para a família de Mira Gupta ".
+
+236
+00:09:21,270 --> 00:09:23,679
+- Quem é Mira Gupta?
+- [MOUSE CLICKS]
+
+237
+00:09:23,680 --> 00:09:26,870
+Eles eram um casal, e
+pela aparência das coisas,
+
+238
+00:09:26,880 --> 00:09:28,340
+- muito apaixonado.
+- OK,
+
+239
+00:09:28,350 --> 00:09:30,740
+Então, Sameer ganha na loteria,
+
+240
+00:09:30,750 --> 00:09:33,940
+mas antes que ele possa descontar
+o ingresso, Mira morre?
+
+241
+00:09:33,950 --> 00:09:35,400
+Então, talvez o sofrimento dele por perdê-la
+
+242
+00:09:35,410 --> 00:09:37,220
+está impedindo-o de
+descontar o bilhete.
+
+243
+00:09:37,230 --> 00:09:38,270
+Hum.
+
+244
+00:09:38,280 --> 00:09:39,830
+[TELEFONES, BUZZES]
+
+245
+00:09:39,840 --> 00:09:41,840
+- _
+Oh.
+
+246
+00:09:41,850 --> 00:09:43,080
+Está tudo bem?
+
+247
+00:09:43,090 --> 00:09:45,599
+Sim, é apenas Ali. Ela precisa conversar.
+
+248
+00:09:45,600 --> 00:09:49,080
+Hum, olha ... nós temos 24 horas
+antes que esse ticket expire,
+
+249
+00:09:49,090 --> 00:09:50,980
+Eu digo que vamos para Patel & Sons
+
+250
+00:09:50,990 --> 00:09:52,639
+primeira coisa amanhã e ver Sameer.
+
+251
+00:09:52,640 --> 00:09:54,270
+Sim, parece bom.
+
+252
+00:09:55,890 --> 00:09:58,710
+<i> Então, o que exatamente seu consultor disse? </i>
+
+253
+00:09:58,720 --> 00:10:02,670
+Que minha tese era ao mesmo tempo
+sem inspiração e decepcionante.
+
+254
+00:10:02,680 --> 00:10:05,740
+Me desculpe, Al, eu sei como
+duro você trabalhou nisso.
+
+255
+00:10:05,750 --> 00:10:07,930
+Talvez você possa reescrever
+e torná-lo ótimo.
+
+256
+00:10:10,020 --> 00:10:11,309
+E se eu não quiser?
+
+257
+00:10:11,310 --> 00:10:12,770
+Do que você está falando?
+
+258
+00:10:13,780 --> 00:10:15,770
+Ela também me disse que eu fui desengajado
+
+259
+00:10:15,780 --> 00:10:16,810
+nos últimos meses.
+
+260
+00:10:17,580 --> 00:10:19,320
+Ela está certa.
+
+261
+00:10:19,330 --> 00:10:20,870
+Eu só ... eu não sabia o porquê,
+
+262
+00:10:20,880 --> 00:10:22,599
+e eu não queria encarar isso.
+
+263
+00:10:22,600 --> 00:10:24,760
+- enfrentar o que?
+- Que talvez este jornal
+
+264
+00:10:24,770 --> 00:10:26,310
+é uma chamada de despertar.
+
+265
+00:10:26,320 --> 00:10:28,640
+Uma maneira de me dizer ...
+
+266
+00:10:28,650 --> 00:10:31,220
+Não é isso que eu sou
+deveria fazer da minha vida.
+
+267
+00:10:31,230 --> 00:10:32,360
+Isso é louco.
+
+268
+00:10:32,370 --> 00:10:33,960
+Você sempre quis ajudar as pessoas.
+
+269
+00:10:33,970 --> 00:10:36,050
+Eu sei. Isso não mudou.
+
+270
+00:10:36,060 --> 00:10:37,680
+Mas olhe para você.
+
+271
+00:10:37,690 --> 00:10:38,940
+Você está ajudando as pessoas o tempo todo
+
+272
+00:10:38,950 --> 00:10:40,550
+das maneiras mais surpreendentes.
+
+273
+00:10:40,560 --> 00:10:45,540
+Você é bem-vindo a participar do
+Equipe da Conta de Deus a qualquer momento.
+
+274
+00:10:45,550 --> 00:10:47,640
+Você tem um chamado.
+
+275
+00:10:47,650 --> 00:10:50,530
+E eu pensei que sim também, mas agora ...
+
+276
+00:10:50,540 --> 00:10:51,640
+Eu não tenho tanta certeza.
+
+277
+00:10:51,650 --> 00:10:53,160
+Você já conversou com o papai sobre isso?
+
+278
+00:10:53,170 --> 00:10:56,360
+Como eu devo falar
+sobre estar em uma encruzilhada
+
+279
+00:10:56,370 --> 00:10:59,480
+com alguém que está claramente em
+negação sobre a mesma coisa?
+
+280
+00:10:59,490 --> 00:11:00,650
+Uh ...
+
+281
+00:11:00,660 --> 00:11:01,940
+E o seu pastor
+
+282
+00:11:01,950 --> 00:11:03,760
+na Advent Congregational?
+
+283
+00:11:03,770 --> 00:11:05,900
+Quero dizer, você claramente
+parece confortável lá.
+
+284
+00:11:05,910 --> 00:11:07,470
+Talvez ela possa lhe dar algumas dicas.
+
+285
+00:11:07,480 --> 00:11:09,980
+Aguarde. Me desculpe, hum ...
+
+286
+00:11:09,990 --> 00:11:11,820
+O ateu acabou de
+me diga para ir à igreja?
+
+287
+00:11:11,830 --> 00:11:14,640
+Não, seu irmão acabou de dizer para você falar
+
+288
+00:11:14,650 --> 00:11:16,199
+para quem você precisar
+
+289
+00:11:16,200 --> 00:11:18,049
+se eles ajudarem você a encontrar o seu caminho.
+
+290
+00:11:18,050 --> 00:11:20,250
+<i> [MÚSICA PENSATIVA] </i>
+
+291
+00:11:20,260 --> 00:11:21,760
+Obrigado.
+
+292
+00:11:28,000 --> 00:11:29,629
+Parker, o que você está fazendo aqui?
+
+293
+00:11:29,630 --> 00:11:31,500
+Perseguindo um prazo.
+
+294
+00:11:31,510 --> 00:11:32,519
+E se você?
+
+295
+00:11:32,520 --> 00:11:34,550
+Adam quer se juntar a essa história
+
+296
+00:11:34,560 --> 00:11:36,700
+sobre algum potencial
+Escândalo de Wall Street.
+
+297
+00:11:36,710 --> 00:11:38,230
+Bom, mas chega de trabalho.
+
+298
+00:11:38,240 --> 00:11:39,850
+Agora que você saiu do meu lugar,
+
+299
+00:11:39,860 --> 00:11:41,970
+Eu não recebi nenhum
+atualizações sobre você e Miles.
+
+300
+00:11:41,980 --> 00:11:45,240
+- Então, como vocês estão?
+Honestamente?
+
+301
+00:11:45,250 --> 00:11:46,920
+As coisas nunca foram melhores.
+
+302
+00:11:48,140 --> 00:11:51,710
+Quero dizer, é como ...
+qualquer ansiedade ou insegurança
+
+303
+00:11:51,720 --> 00:11:52,941
+Eu tinha sobre mim e Miles ...
+
+304
+00:11:52,942 --> 00:11:55,189
+Você quer dizer "eu te amo"?
+
+305
+00:11:55,190 --> 00:11:57,630
+Você sabe, hoje eu poderia
+diga que ele quase disse isso,
+
+306
+00:11:57,640 --> 00:11:59,410
+mas ele se conteve.
+
+307
+00:11:59,420 --> 00:12:02,500
+Ele tem sido tão gentil por não
+colocando qualquer pressão em mim.
+
+308
+00:12:02,510 --> 00:12:04,070
+Isso é meio adorável.
+
+309
+00:12:04,080 --> 00:12:08,420
+Agora, quando eu pensei que ele ia dizer isso,
+
+310
+00:12:08,430 --> 00:12:09,810
+isso não me assustou.
+
+311
+00:12:09,820 --> 00:12:11,830
+Então talvez esteja na hora.
+
+312
+00:12:11,840 --> 00:12:14,990
+[CHUCKLES]
+
+313
+00:12:15,000 --> 00:12:18,290
+<i> ? </i>
+
+314
+00:12:18,300 --> 00:12:19,930
+Por favor, obrigado Sameer,
+
+315
+00:12:19,940 --> 00:12:21,710
+se não fosse por ele, teríamos
+estar na rua.
+
+316
+00:12:21,720 --> 00:12:24,540
+Oh, foi um prazer. [Risos]
+
+317
+00:12:24,550 --> 00:12:26,930
+Olá, sou Judy. Posso ajudar?
+
+318
+00:12:26,940 --> 00:12:29,060
+Olá, sim, meu nome é Miles. Essa é Cara.
+
+319
+00:12:29,070 --> 00:12:31,209
+Estamos olhando para Sameer Patel.
+
+320
+00:12:31,210 --> 00:12:32,731
+Bem, posso dizer a ele do que se trata?
+
+321
+00:12:32,732 --> 00:12:35,000
+Conversamos com ele
+brevemente no fim de semana
+
+322
+00:12:35,010 --> 00:12:36,200
+sobre uma questão legal
+
+323
+00:12:36,210 --> 00:12:37,740
+que esperávamos que ele pudesse ajudar.
+
+324
+00:12:37,750 --> 00:12:39,630
+- É meio urgente.
+- Oh, ok, sim,
+
+325
+00:12:39,640 --> 00:12:41,830
+ele está terminando uma reunião.
+Ele deve sair a qualquer momento.
+
+326
+00:12:41,840 --> 00:12:43,220
+- [CHUCKLES]
+- Oh, aqui, deixe-me ajudá-lo.
+
+327
+00:12:43,230 --> 00:12:45,750
+Oh obrigada.
+- Mmm!
+
+328
+00:12:45,760 --> 00:12:48,700
+Seja o que for, cheira incrível.
+
+329
+00:12:48,710 --> 00:12:52,270
+Pudim de cenoura ao estilo punjabi. Mmm!
+
+330
+00:12:52,280 --> 00:12:54,690
+Sameer faz muitas
+trabalho pro bono, então ...
+
+331
+00:12:54,700 --> 00:12:55,919
+Ele sempre fez isso?
+
+332
+00:12:55,920 --> 00:12:58,290
+Mais ainda este ano passado.
+
+333
+00:12:58,300 --> 00:13:00,050
+O que é maravilhoso, é claro,
+
+334
+00:13:00,060 --> 00:13:01,640
+mas poderíamos usar mais alguns clientes
+
+335
+00:13:01,650 --> 00:13:04,299
+cujos pagamentos não
+vem embrulhado em papel alumínio.
+
+336
+00:13:04,300 --> 00:13:06,089
+- [CHUCKLES]
+- São apenas vocês três?
+
+337
+00:13:06,090 --> 00:13:08,480
+Nem sempre foi, mas ...
+
+338
+00:13:08,490 --> 00:13:11,610
+nós tivemos que fazer um pouco
+redução no último ano.
+
+339
+00:13:11,620 --> 00:13:14,209
+Eu trabalhei para o pai deles quando
+ele abriu este lugar pela primeira vez,
+
+340
+00:13:14,210 --> 00:13:16,990
+então eu conheci Sameer e
+Jay desde que eram meninos.
+
+341
+00:13:17,000 --> 00:13:18,300
+Praticamente família. [CHUCKLES]
+
+342
+00:13:19,120 --> 00:13:20,750
+Então, nós vamos ... vamos passar por isso.
+
+343
+00:13:20,760 --> 00:13:22,870
+Sinto muito, Indira,
+isso não vai acontecer novamente.
+
+344
+00:13:22,880 --> 00:13:23,940
+Você diz que toda vez
+
+345
+00:13:23,950 --> 00:13:25,030
+Sameer esquece uma chamada em conferência
+
+346
+00:13:25,040 --> 00:13:26,910
+ou pula uma reunião,
+mas não há desculpa
+
+347
+00:13:26,920 --> 00:13:27,960
+por falta de um processo judicial.
+
+348
+00:13:27,970 --> 00:13:30,250
+Vou ligar para o juiz, ele ficará bem.
+
+349
+00:13:30,260 --> 00:13:31,590
+A audiência é esta tarde.
+
+350
+00:13:31,600 --> 00:13:33,870
+Mais um erro, e acabei.
+
+351
+00:13:33,880 --> 00:13:38,010
+<i> [MÚSICA REFLEXIVA] </i>
+
+352
+00:13:38,020 --> 00:13:39,670
+Como você pode esquecer de registrar a moção?
+
+353
+00:13:40,580 --> 00:13:42,220
+Eu estava ajudando a sra. Hunjun.
+
+354
+00:13:42,230 --> 00:13:43,420
+Eles estavam prestes a ser despejados.
+
+355
+00:13:43,430 --> 00:13:45,640
+Você quer se preocupar
+pessoas sendo despejadas?
+
+356
+00:13:45,650 --> 00:13:47,850
+Comece conosco. Perdemos Indira,
+
+357
+00:13:47,860 --> 00:13:50,310
+- teremos que fechar nossas portas.
+- Desculpe.
+
+358
+00:13:50,320 --> 00:13:52,186
+Temos novos clientes esperando.
+
+359
+00:13:52,187 --> 00:13:54,660
+<i> ? </i>
+
+360
+00:13:54,670 --> 00:13:56,939
+Eles estão aqui para mim.
+
+361
+00:13:56,940 --> 00:13:58,901
+Por que não conversamos no meu escritório?
+
+362
+00:13:58,902 --> 00:14:05,200
+<i> ? </i>
+
+363
+00:14:08,470 --> 00:14:10,070
+- [CLICKS DE PORTA FECHAM]
+- O que você está fazendo aqui?
+
+364
+00:14:10,080 --> 00:14:12,250
+Eu já te disse que quero
+nada a ver com esse ingresso.
+
+365
+00:14:12,260 --> 00:14:14,630
+Olha, entendemos isso,
+mas o ticket expira
+
+366
+00:14:14,640 --> 00:14:16,950
+no final do dia e de
+o que acabamos de ouvir por aí,
+
+367
+00:14:16,960 --> 00:14:18,959
+parece bem claro.
+Você precisa do dinheiro.
+
+368
+00:14:18,960 --> 00:14:20,879
+Não dessa maneira. eu vou
+nunca descontar esse bilhete.
+
+369
+00:14:20,880 --> 00:14:24,180
+Por que não? Olha, nós sabemos sobre Mira.
+
+370
+00:14:24,190 --> 00:14:26,419
+- Sobre o que aconteceu.
+- Você não sabe de nada.
+
+371
+00:14:26,420 --> 00:14:28,879
+Ok, então nos diga.
+Por que você não vai descontar?
+
+372
+00:14:28,880 --> 00:14:32,750
+Porque ... Esse ingresso é
+a razão pela qual Mira está morta.
+
+373
+00:14:32,760 --> 00:14:36,420
+<i> MÚSICA DRAMÁTICA </i>
+
+374
+00:14:38,760 --> 00:14:40,110
+Ok, ok, espere, espere ...
+
+375
+00:14:40,120 --> 00:14:43,089
+Como assim, o bilhete é
+a razão pela qual Mira está morta?
+
+376
+00:14:43,090 --> 00:14:46,000
+Você não entenderia.
+Isso é sobre karma.
+
+377
+00:14:46,010 --> 00:14:48,290
+Espere, o que Karma
+tem a ver com isso?
+
+378
+00:14:48,300 --> 00:14:51,249
+Karma é sobre espiritual
+causa e efeito.
+
+379
+00:14:51,250 --> 00:14:52,760
+Boas intenções levam a um bom karma.
+
+380
+00:14:52,770 --> 00:14:54,489
+Más intenções levam a um karma ruim.
+
+381
+00:14:54,490 --> 00:14:56,680
+Certo, mas como
+comprar um bilhete de loteria
+
+382
+00:14:56,690 --> 00:14:57,859
+causar Karma ruim?
+
+383
+00:14:57,860 --> 00:15:00,190
+Porque eu não comprei.
+
+384
+00:15:03,730 --> 00:15:05,339
+Eu encontrei na rua.
+
+385
+00:15:05,340 --> 00:15:07,760
+Quando eu descobri
+valia US $ 1 milhão,
+
+386
+00:15:07,770 --> 00:15:09,540
+Eu disse a Mira que iria descontar.
+
+387
+00:15:09,550 --> 00:15:11,120
+Ela me implorou para não,
+
+388
+00:15:11,130 --> 00:15:14,400
+me disse que descontá-lo
+era o mesmo que roubar,
+
+389
+00:15:14,410 --> 00:15:16,540
+que destruiria meu Karma.
+
+390
+00:15:16,550 --> 00:15:19,270
+<i> ? </i>
+
+391
+00:15:19,280 --> 00:15:20,629
+Mas eu não acreditei nela.
+
+392
+00:15:20,630 --> 00:15:23,640
+Eu assinei o ingresso,
+
+393
+00:15:23,650 --> 00:15:25,859
+e eu estava a caminho de descontar
+
+394
+00:15:25,860 --> 00:15:28,782
+quando ela foi atropelada e morreu.
+
+395
+00:15:30,960 --> 00:15:33,080
+Olha.
+
+396
+00:15:33,090 --> 00:15:35,540
+A morte de Mira foi um acidente.
+
+397
+00:15:35,550 --> 00:15:37,700
+Você tem que ver que o Karma não é real.
+
+398
+00:15:37,710 --> 00:15:39,499
+Acredite em mim. Isto é.
+
+399
+00:15:39,500 --> 00:15:41,630
+E a morte de Mira seria prova suficiente,
+
+400
+00:15:41,660 --> 00:15:44,019
+mas não parou por aí. No
+nos meses seguintes a isso,
+
+401
+00:15:44,020 --> 00:15:46,720
+meu carro foi arrombado
+meu apartamento foi inundado.
+
+402
+00:15:46,730 --> 00:15:49,010
+Então foi por isso que você começou
+fazendo um trabalho pro bono.
+
+403
+00:15:49,020 --> 00:15:51,000
+- Para restaurar seu Karma?
+- Sim.
+
+404
+00:15:51,010 --> 00:15:53,990
+Mas a única maneira de realmente fazer
+que é devolver o ingresso
+
+405
+00:15:54,000 --> 00:15:55,550
+ao seu dono, e deixe-os descontar.
+
+406
+00:15:55,560 --> 00:15:57,330
+Então, como foi parar nessa bolsa?
+
+407
+00:15:57,340 --> 00:15:58,370
+Porque eu estava desesperada.
+
+408
+00:15:58,380 --> 00:15:59,560
+Então eu coloquei o ingresso
+
+409
+00:15:59,570 --> 00:16:01,740
+em uma das bolsas de Mira e doou,
+
+410
+00:16:01,750 --> 00:16:04,469
+esperando que Deus unisse a
+bilhete para o seu legítimo proprietário.
+
+411
+00:16:04,470 --> 00:16:07,160
+Que eles veriam meu
+nome escrito lá,
+
+412
+00:16:07,170 --> 00:16:09,549
+encontre-me e deixe-me
+assiná-lo para eles.
+
+413
+00:16:09,550 --> 00:16:11,700
+Eu pensei que tinha funcionado
+quando vocês dois apareceram,
+
+414
+00:16:11,710 --> 00:16:13,050
+mas claramente não.
+
+415
+00:16:13,060 --> 00:16:16,130
+Ok, bem, você já tentou
+encontrar o proprietário original?
+
+416
+00:16:16,140 --> 00:16:17,620
+Claro.
+
+417
+00:16:17,630 --> 00:16:20,010
+Eu fui para a bodega onde
+o ingresso foi comprado,
+
+418
+00:16:20,020 --> 00:16:21,540
+mas eles não podiam me ajudar.
+
+419
+00:16:21,550 --> 00:16:23,839
+O que eu deveria
+fazer, colocar panfletos?
+
+420
+00:16:23,840 --> 00:16:26,260
+Quem não gostaria de
+reivindicar um bilhete de US $ 1 milhão?
+
+421
+00:16:27,570 --> 00:16:30,009
+O ticket expira no
+hoje perto dos negócios.
+
+422
+00:16:30,010 --> 00:16:33,379
+E uma vez que isso acontece, há
+Não haverá maneira de consertar meu Karma.
+
+423
+00:16:33,380 --> 00:16:35,589
+Bem, então precisamos encontrar o proprietário.
+
+424
+00:16:35,590 --> 00:16:37,090
+Nós podemos ajudar você.
+
+425
+00:16:38,410 --> 00:16:39,550
+Ajuda como?
+
+426
+00:16:41,540 --> 00:16:45,519
+Bem, digamos que viemos
+em sua vida por uma razão.
+
+427
+00:16:45,520 --> 00:16:48,109
+<i> [MÚSICA INQUISITIVA] </i>
+
+428
+00:16:48,110 --> 00:16:50,240
+<i> ? </i>
+
+429
+00:16:50,250 --> 00:16:52,280
+Se a bodega tiver câmeras de segurança,
+
+430
+00:16:52,290 --> 00:16:53,575
+nós pensamos que você
+poderia puxar a filmagem.
+
+431
+00:16:53,576 --> 00:16:55,330
+Bem, Miles Finer,
+
+432
+00:16:55,340 --> 00:16:58,460
+extraordinário incrédulo e cético,
+
+433
+00:16:58,470 --> 00:17:00,840
+concordou em ajudar alguém
+restaurar seu Karma.
+
+434
+00:17:00,850 --> 00:17:02,430
+Eu não sentiria falta disso.
+
+435
+00:17:02,440 --> 00:17:04,710
+Concordei em encontrar o original
+proprietário do bilhete de loteria
+
+436
+00:17:04,720 --> 00:17:07,610
+porque Sameer disse que vai
+ajudar a restaurar seu karma,
+
+437
+00:17:07,620 --> 00:17:09,780
+mas não é disso que se trata.
+
+438
+00:17:09,790 --> 00:17:12,040
+- diz você.
+- Ah, vamos lá, mano,
+
+439
+00:17:12,050 --> 00:17:13,280
+desde quando você acredita no karma?
+
+440
+00:17:13,290 --> 00:17:16,060
+Desde sempre! Só porque
+Eu não ando por aí
+
+441
+00:17:16,070 --> 00:17:18,190
+falando sobre minhas crenças em um podcast,
+
+442
+00:17:18,200 --> 00:17:19,600
+não significa que eu não acredito, cara.
+
+443
+00:17:19,610 --> 00:17:22,300
+O hinduísmo é, tipo, o mais antigo
+religião no planeta.
+
+444
+00:17:22,310 --> 00:17:24,530
+Além disso, o que é tão louco
+sobre a ideia de que
+
+445
+00:17:24,540 --> 00:17:26,899
+o que você coloca lá fora no mundo
+
+446
+00:17:26,900 --> 00:17:30,040
+- afeta o que volta para você?
+- A vida de Sameer implodiu
+
+447
+00:17:30,050 --> 00:17:31,860
+porque ele perdeu o
+pessoa que ele ama.
+
+448
+00:17:31,870 --> 00:17:33,360
+Isso não é Karma, é tristeza.
+
+449
+00:17:33,370 --> 00:17:34,839
+Ok, ok, eu vou parar
+
+450
+00:17:34,840 --> 00:17:37,419
+vocês dois antes que isso vire
+em uma guerra santa. [SCOFFS]
+
+451
+00:17:37,420 --> 00:17:39,700
+Agora, sobre um assunto em que todos podemos concordar:
+
+452
+00:17:39,710 --> 00:17:40,930
+Você já teve a chance de analisar
+
+453
+00:17:40,940 --> 00:17:42,050
+O programa de IA de Audrey Grenelle ainda?
+
+454
+00:17:42,060 --> 00:17:44,930
+Eu fiz, mas quando eu estava olhando
+na pintura eu descobri que
+
+455
+00:17:44,940 --> 00:17:47,380
+precisamos desses 11 dígitos
+número para desbloquear o código
+
+456
+00:17:47,390 --> 00:17:49,820
+e revelar o que quer
+a mensagem está oculta dentro dela.
+
+457
+00:17:49,830 --> 00:17:52,000
+Ei, isso é ótimo. Então quanto tempo
+vai levar você para quebrar?
+
+458
+00:17:52,010 --> 00:17:54,270
+Uma senha de 11 dígitos pode ter mais, como,
+
+459
+00:17:54,280 --> 00:17:55,589
+dez bilhões de combinações.
+
+460
+00:17:55,590 --> 00:17:57,740
+Mesmo se eu tivesse um gerador de números aleatórios
+
+461
+00:17:57,750 --> 00:18:00,760
+trabalhando 24/7, pode levar anos.
+
+462
+00:18:02,880 --> 00:18:04,280
+[Campainha]
+
+463
+00:18:04,290 --> 00:18:06,030
+Você se lembra de Sameer chegando
+
+464
+00:18:06,040 --> 00:18:07,049
+e falando com você sobre isso?
+
+465
+00:18:07,050 --> 00:18:08,879
+Oh sim. Cara legal.
+
+466
+00:18:08,880 --> 00:18:10,280
+Ele vem aqui o tempo todo.
+
+467
+00:18:10,290 --> 00:18:11,740
+Olha, eu gostaria de poder ajudá-lo,
+
+468
+00:18:11,750 --> 00:18:13,549
+mas vendemos centenas deles por semana,
+
+469
+00:18:13,550 --> 00:18:14,750
+e isso foi há um ano.
+
+470
+00:18:14,760 --> 00:18:16,710
+Bem, e as suas câmeras de segurança?
+
+471
+00:18:16,720 --> 00:18:18,880
+O disco rígido dura apenas alguns dias
+
+472
+00:18:18,890 --> 00:18:20,090
+antes de ser gravado.
+
+473
+00:18:21,050 --> 00:18:23,460
+Bem, eu conheço muitas
+pessoas que jogam na loteria
+
+474
+00:18:23,470 --> 00:18:26,170
+tem superstições, como sempre
+tocando os mesmos números.
+
+475
+00:18:26,180 --> 00:18:27,500
+Hmph, desculpe.
+
+476
+00:18:27,510 --> 00:18:29,713
+Os números da Lucky Lotto são
+gerado pela máquina.
+
+477
+00:18:29,720 --> 00:18:32,000
+Bem, o bilhete foi
+comprado nessa época.
+
+478
+00:18:32,010 --> 00:18:33,919
+Você tem frequentadores regulares?
+que surgem agora?
+
+479
+00:18:33,920 --> 00:18:37,270
+Os únicos frequentadores que tenho no
+desta vez são esses oficiais.
+
+480
+00:18:37,280 --> 00:18:39,500
+Eles entram no começo
+de seu turno todos os dias,
+
+481
+00:18:39,510 --> 00:18:40,839
+mas eles não jogam na loteria.
+
+482
+00:18:40,840 --> 00:18:42,430
+Com licença, você vai ficar aqui
+
+483
+00:18:42,440 --> 00:18:43,680
+e apenas conversar o dia todo?
+
+484
+00:18:43,690 --> 00:18:46,380
+Uh ... eu gostaria de uma loteria da sorte de US $ 20.
+
+485
+00:18:48,320 --> 00:18:50,780
+[SWIPING DE CARTÃO]
+
+486
+00:18:50,790 --> 00:18:54,799
+[APARELHOS DE MÁQUINA, WHIRS]
+
+487
+00:18:54,800 --> 00:18:56,960
+Obrigado.
+
+488
+00:18:56,970 --> 00:19:00,740
+Você pode pagar por uma loteria
+bilhete usando um cartão de débito?
+
+489
+00:19:00,750 --> 00:19:03,259
+- Claro.
+- Rakesh ...
+
+490
+00:19:03,260 --> 00:19:05,460
+Se uma pessoa que estamos procurando
+pago com cartão de débito,
+
+491
+00:19:05,470 --> 00:19:06,840
+você poderia localizá-los?
+
+492
+00:19:06,850 --> 00:19:09,919
+Se é assim que eles pagaram
+por isso, sim, eu posso.
+
+493
+00:19:09,920 --> 00:19:13,680
+<i> ? </i>
+
+494
+00:19:13,690 --> 00:19:15,430
+Ei, Pastor Olivia.
+
+495
+00:19:15,440 --> 00:19:17,690
+Ali, como vai você?
+
+496
+00:19:17,700 --> 00:19:19,763
+Ugh, eu poderia estar melhor.
+
+497
+00:19:21,340 --> 00:19:24,170
+- Você tem um minuto?
+- Sente-se.
+
+498
+00:19:25,770 --> 00:19:27,260
+O que está em sua mente?
+
+499
+00:19:27,270 --> 00:19:29,060
+Então ... eu falei com você sobre
+
+500
+00:19:29,070 --> 00:19:30,982
+como eu estou estudando para me tornar
+um terapeuta, certo?
+
+501
+00:19:30,983 --> 00:19:32,580
+Claro.
+
+502
+00:19:32,590 --> 00:19:34,611
+Se não me engano, você se formará em breve?
+
+503
+00:19:34,620 --> 00:19:37,080
+Suposto,
+
+504
+00:19:37,090 --> 00:19:39,730
+mas eu recebi minha tese
+de volta do meu orientador.
+
+505
+00:19:39,740 --> 00:19:41,380
+Ela pensou que era ...
+
+506
+00:19:41,390 --> 00:19:44,300
+- menos que inspirado.
+- Entendo.
+
+507
+00:19:44,310 --> 00:19:45,980
+Eu sinto que estou em uma encruzilhada,
+
+508
+00:19:45,990 --> 00:19:48,299
+e eu realmente poderia usar alguns conselhos.
+
+509
+00:19:48,300 --> 00:19:50,890
+[Suspira]
+
+510
+00:19:50,900 --> 00:19:52,600
+<i> [MÚSICA DO SOMBRA] </i>
+
+511
+00:19:52,610 --> 00:19:55,960
+Sinto muito, Ali, não posso ajudá-lo.
+
+512
+00:19:55,970 --> 00:19:57,560
+<i> ? </i>
+
+513
+00:19:57,570 --> 00:20:00,230
+Uau, como meu pastor ...
+
+514
+00:20:00,240 --> 00:20:01,799
+Eu estava esperando por um
+pouco mais que isso.
+
+515
+00:20:01,800 --> 00:20:05,520
+[CHUCKLES] O que eu quero dizer é,
+
+516
+00:20:05,530 --> 00:20:07,960
+você é a única pessoa
+que pode descobrir isso.
+
+517
+00:20:07,970 --> 00:20:10,700
+<i> ? </i>
+
+518
+00:20:10,710 --> 00:20:12,065
+Mas eu tenho uma sugestão.
+
+519
+00:20:12,066 --> 00:20:13,899
+Ok, melhor.
+
+520
+00:20:13,900 --> 00:20:15,180
+<i> ? </i>
+
+521
+00:20:15,190 --> 00:20:18,100
+Há uma vida na igreja
+fórum aqui hoje à noite.
+
+522
+00:20:18,110 --> 00:20:19,680
+É um serviço onde os congregantes
+
+523
+00:20:19,690 --> 00:20:22,040
+pode compartilhar os problemas que
+eles estão lutando.
+
+524
+00:20:22,050 --> 00:20:24,480
+Mais frequentemente do que não,
+
+525
+00:20:24,490 --> 00:20:27,800
+apenas de pé e
+falando de coração,
+
+526
+00:20:27,810 --> 00:20:29,999
+é o suficiente para lhe dar
+um pequeno insight de Deus.
+
+527
+00:20:30,000 --> 00:20:32,669
+<i> [MÚSICA UPLIFTING] </i>
+
+528
+00:20:32,670 --> 00:20:35,359
+Então, por que Cara não voltou conosco?
+
+529
+00:20:35,360 --> 00:20:37,620
+Ela teve que trabalhar em uma história,
+
+530
+00:20:37,630 --> 00:20:39,150
+e disse que ela tinha uma tonelada
+de pesquisa para fazer.
+
+531
+00:20:39,160 --> 00:20:41,740
+Ela já disse as três palavras mágicas?
+
+532
+00:20:42,790 --> 00:20:44,090
+Não.
+
+533
+00:20:45,450 --> 00:20:47,390
+Tudo bem.
+
+534
+00:20:49,300 --> 00:20:51,250
+Tudo bem, tudo bem, sim, eu faria
+gostaria que ela dissesse
+
+535
+00:20:51,260 --> 00:20:53,250
+mas quando ela estiver pronta.
+
+536
+00:20:53,260 --> 00:20:55,330
+Quando será isso?
+
+537
+00:20:55,340 --> 00:20:56,960
+Eu não faço ideia.
+
+538
+00:20:56,970 --> 00:20:58,750
+[TELEFONES, BUZZES]
+
+539
+00:20:59,660 --> 00:21:00,740
+_
+
+540
+00:21:00,750 --> 00:21:02,950
+Ah, Jaya teve que cancelar
+nosso encontro secreto hoje à noite.
+
+541
+00:21:02,960 --> 00:21:04,390
+Ela está jantando com os pais.
+
+542
+00:21:04,400 --> 00:21:07,620
+Espera, eles sabem disso?
+vocês dois ainda estão namorando?
+
+543
+00:21:07,630 --> 00:21:10,410
+Nós tocamos perfeitamente, certo?
+
+544
+00:21:10,420 --> 00:21:12,620
+Você não precisa se preocupar
+sobre isso, confie em mim.
+
+545
+00:21:12,630 --> 00:21:14,360
+[Risos]
+
+546
+00:21:14,370 --> 00:21:17,150
+Ok, aqui vamos nós.
+Eu tenho um programa em execução
+
+547
+00:21:17,160 --> 00:21:19,119
+para verificar as transações
+da bodega
+
+548
+00:21:19,120 --> 00:21:20,230
+daquele dia e hora.
+
+549
+00:21:20,240 --> 00:21:21,750
+Não deve demorar mais do que alguns minutos.
+
+550
+00:21:21,760 --> 00:21:23,710
+Bem, supondo que eles não pagaram em dinheiro.
+
+551
+00:21:23,720 --> 00:21:26,620
+É um pouco distante, mas ei,
+
+552
+00:21:26,630 --> 00:21:28,920
+você coloca algo de bom
+para o mundo ...
+
+553
+00:21:28,930 --> 00:21:30,280
+deve receber algo de volta.
+
+554
+00:21:30,290 --> 00:21:32,870
+Você percebe que não tem manobrista?
+
+555
+00:21:32,880 --> 00:21:35,620
+Eu continuei dirigindo até
+Eu finalmente estacionei
+
+556
+00:21:35,630 --> 00:21:38,750
+onde parecia lá
+deve haver deve haver manobrista.
+
+557
+00:21:38,770 --> 00:21:41,210
+Então você estacionou no meio-fio?
+
+558
+00:21:41,220 --> 00:21:43,580
+- Hã?
+Audrey, o que se passa?
+
+559
+00:21:43,590 --> 00:21:46,540
+Fiquei pensando em
+o número de 11 dígitos
+
+560
+00:21:46,550 --> 00:21:49,080
+você disse que precisaríamos desvendar "O caminho"
+
+561
+00:21:49,090 --> 00:21:51,030
+E eu queria te mostrar uma coisa.
+
+562
+00:21:52,290 --> 00:21:53,900
+É o caminho que leva
+
+563
+00:21:53,910 --> 00:21:56,090
+para o verão dos meus avós
+casa em Marselha,
+
+564
+00:21:56,100 --> 00:21:58,629
+meu favorito absoluto
+Coloque como uma garotinha.
+
+565
+00:21:58,630 --> 00:22:00,790
+Isso me lembrou "O Caminho".
+
+566
+00:22:00,800 --> 00:22:02,200
+Rakesh, puxe-o para cima.
+
+567
+00:22:02,210 --> 00:22:05,290
+<i> [MÚSICA INQUISITIVA] </i>
+
+568
+00:22:05,300 --> 00:22:07,160
+<i> ? </i>
+
+569
+00:22:07,170 --> 00:22:09,472
+Espera, é por isso que você pensou
+a mensagem era para você;
+
+570
+00:22:09,473 --> 00:22:11,669
+por que me senti tão pessoal,
+por causa desta foto.
+
+571
+00:22:11,670 --> 00:22:12,919
+Sim.
+
+572
+00:22:12,920 --> 00:22:14,360
+Então, como isso nos ajuda a decifrar o código?
+
+573
+00:22:14,380 --> 00:22:15,410
+Vire ao contrário.
+
+574
+00:22:15,420 --> 00:22:16,970
+<i> ? </i>
+
+575
+00:22:16,980 --> 00:22:20,210
+Se você incluir o correio
+código e número da região,
+
+576
+00:22:20,220 --> 00:22:23,970
+o endereço é composto por 11 dígitos.
+
+577
+00:22:23,980 --> 00:22:29,050
+<i> ? </i>
+
+578
+00:22:29,060 --> 00:22:32,220
+[CHAVES DE CHAVES]
+
+579
+00:22:32,230 --> 00:22:36,599
+<i> ? </i>
+
+580
+00:22:36,600 --> 00:22:39,309
+[BIP DE COMPUTADOR]
+
+581
+00:22:39,310 --> 00:22:41,570
+<i> ? </i>
+
+582
+00:22:41,580 --> 00:22:42,599
+- _
+- [BIP DE COMPUTADOR]
+
+583
+00:22:42,600 --> 00:22:44,300
+Ugh.
+
+584
+00:22:44,310 --> 00:22:47,180
+Eu pensei por um segundo que
+estava realmente indo para o trabalho.
+
+585
+00:22:47,190 --> 00:22:49,110
+Se você acha que esta mensagem
+
+586
+00:22:49,120 --> 00:22:50,710
+é algo que Deus
+quer que você veja ...
+
+587
+00:22:50,720 --> 00:22:51,910
+"Conta."
+
+588
+00:22:51,920 --> 00:22:53,300
+A conta de Deus.
+
+589
+00:22:53,310 --> 00:22:55,550
+Por que não dar a você
+números para desbloqueá-lo?
+
+590
+00:22:55,560 --> 00:22:59,060
+Quero dizer, talvez anote-os
+uma tábua de pedra ou algo assim.
+
+591
+00:23:00,620 --> 00:23:03,589
+<i> [MÚSICA INQUISITIVA] </i>
+
+592
+00:23:03,590 --> 00:23:06,229
+Esperar. Bilhete de loteria de Sameer.
+
+593
+00:23:06,230 --> 00:23:08,169
+Não, os seis números do bilhete de loteria ...
+
+594
+00:23:08,170 --> 00:23:12,629
+Números, sim, mas se você contar
+os dígitos individuais ...
+
+595
+00:23:12,630 --> 00:23:15,220
+O bilhete de Sameer tem 11.
+
+596
+00:23:18,300 --> 00:23:22,420
+[CHAVES DE CHAVES]
+
+597
+00:23:22,430 --> 00:23:25,460
+[BIP DE COMPUTADOR]
+
+598
+00:23:25,470 --> 00:23:28,199
+<i> ? </i>
+
+599
+00:23:28,200 --> 00:23:29,219
+- _
+- [BIP DE COMPUTADOR]
+
+600
+00:23:29,220 --> 00:23:31,640
+[Suspira]
+
+601
+00:23:31,650 --> 00:23:33,920
+- Merda, certo?
+- [BIPERS DO COMPUTADOR]
+
+602
+00:23:35,420 --> 00:23:37,160
+Miles?
+- Hmm?
+
+603
+00:23:37,170 --> 00:23:39,170
+Acabamos de acertar nossa
+vencedor da loteria misteriosa.
+
+604
+00:23:40,300 --> 00:23:41,630
+- Você está brincando.
+- Não.
+
+605
+00:23:41,640 --> 00:23:43,720
+Ao mesmo tempo que
+o bilhete foi emitido
+
+606
+00:23:43,730 --> 00:23:45,010
+um cartão de débito foi passado
+
+607
+00:23:45,020 --> 00:23:47,405
+na bodega por US $ 5 até.
+
+608
+00:23:47,430 --> 00:23:49,430
+- [CHAVES DE CHAVES]
+- Tim Whitson,
+
+609
+00:23:49,440 --> 00:23:52,284
+Rua 2057 ocidental 66th.
+
+610
+00:23:52,285 --> 00:23:53,995
+Do que vocês dois estão falando?
+
+611
+00:23:55,480 --> 00:23:58,458
+Você quer ver como o
+Deus conta funciona em primeira mão?
+
+612
+00:23:58,490 --> 00:24:00,190
+<i> ? </i>
+
+613
+00:24:00,200 --> 00:24:01,252
+Não.
+
+614
+00:24:03,490 --> 00:24:04,730
+[SNICKERS]
+
+615
+00:24:05,820 --> 00:24:09,009
+Hey, Sameer, isso é
+meu bom amigo Rakesh.
+
+616
+00:24:09,010 --> 00:24:10,010
+Foi ele quem localizou
+
+617
+00:24:10,020 --> 00:24:11,299
+o proprietário do bilhete de loteria.
+
+618
+00:24:11,300 --> 00:24:12,509
+Não sei como agradecer.
+
+619
+00:24:12,510 --> 00:24:13,510
+Não, não mencione isso.
+
+620
+00:24:13,520 --> 00:24:15,054
+Eu tenho que estar no tribunal em uma hora.
+
+621
+00:24:15,055 --> 00:24:16,380
+Indira está me esperando lá.
+
+622
+00:24:16,390 --> 00:24:18,590
+Tudo bem, bem, vamos contar
+Tim Whitson as boas notícias.
+
+623
+00:24:19,500 --> 00:24:20,880
+[BATA]
+
+624
+00:24:23,170 --> 00:24:25,130
+- Posso ajudar?
+- Oi, você é Tim Whitson?
+
+625
+00:24:25,140 --> 00:24:27,830
+- Está certo.
+Sou Miles Finer.
+
+626
+00:24:27,840 --> 00:24:30,660
+Meus amigos e eu podemos ter encontrado
+algo que pertence a você,
+
+627
+00:24:30,670 --> 00:24:32,789
+e desculpe por ser tão enigmático;
+nós só queremos ter certeza
+
+628
+00:24:32,790 --> 00:24:34,450
+- que você é a pessoa certa.
+- OK.
+
+629
+00:24:34,460 --> 00:24:36,700
+Você já esteve no
+Palace Bodega em Queens?
+
+630
+00:24:36,710 --> 00:24:39,249
+Na verdade, acho que sim.
+
+631
+00:24:39,250 --> 00:24:41,670
+Eu estava no Queens no ano passado para negócios.
+
+632
+00:24:41,680 --> 00:24:43,079
+Só me lembro porque mal
+
+633
+00:24:43,080 --> 00:24:44,579
+ter reuniões fora de Manhattan.
+
+634
+00:24:44,580 --> 00:24:45,869
+Você se lembra do que comprou?
+
+635
+00:24:45,870 --> 00:24:47,360
+Desculpe, não.
+
+636
+00:24:47,370 --> 00:24:48,619
+Você já jogou na loteria?
+
+637
+00:24:48,620 --> 00:24:50,580
+Oh não.
+
+638
+00:24:52,260 --> 00:24:54,549
+Então, o que você achou?
+
+639
+00:24:54,550 --> 00:24:56,810
+Era um bilhete de loteria, mas obviamente,
+
+640
+00:24:56,820 --> 00:24:57,960
+não pertence a você.
+
+641
+00:24:57,970 --> 00:24:59,570
+Desculpa.
+
+642
+00:24:59,580 --> 00:25:00,760
+Eu não quero ser rude,
+
+643
+00:25:00,770 --> 00:25:02,339
+mas estou ocupada, então é isso?
+
+644
+00:25:02,340 --> 00:25:03,540
+Sim obrigado.
+
+645
+00:25:03,550 --> 00:25:04,860
+[CLICKS DA PORTA FECHAM]
+
+646
+00:25:04,870 --> 00:25:07,240
+Está bem. Ainda temos
+mais algumas horas.
+
+647
+00:25:07,250 --> 00:25:08,580
+[Telefone toca]
+
+648
+00:25:08,590 --> 00:25:10,400
+Olá Judy.
+
+649
+00:25:10,410 --> 00:25:12,840
+Desacelere.
+
+650
+00:25:12,850 --> 00:25:14,799
+Não estava marcado para mais uma hora.
+
+651
+00:25:14,800 --> 00:25:16,380
+Jay não pode fazer isso.
+
+652
+00:25:16,390 --> 00:25:17,540
+Diga a ele que eu vou estar lá.
+
+653
+00:25:17,550 --> 00:25:21,090
+Ok, eu vou ... eu voltarei.
+
+654
+00:25:21,100 --> 00:25:22,380
+Aquele era Judy.
+
+655
+00:25:22,390 --> 00:25:23,700
+Nosso tempo na corte foi interrompido,
+
+656
+00:25:23,710 --> 00:25:25,799
+- e eu senti falta disso.
+- Está tudo bem?
+
+657
+00:25:25,800 --> 00:25:27,340
+Não. Perdemos.
+
+658
+00:25:27,350 --> 00:25:28,890
+Nossa cliente Indira nos demitiu.
+
+659
+00:25:28,900 --> 00:25:30,720
+Judy disse que Jay está fechando a empresa.
+
+660
+00:25:32,570 --> 00:25:36,150
+Este é o meu Karma ruim no trabalho.
+
+661
+00:25:37,320 --> 00:25:41,500
+<i> [MÚSICA DO SOMBRA] </i>
+
+662
+00:25:41,510 --> 00:25:43,570
+<i> ? </i>
+
+663
+00:25:43,580 --> 00:25:45,160
+[A porta range]
+
+664
+00:25:45,190 --> 00:25:46,900
+Judy, me desculpe.
+
+665
+00:25:46,910 --> 00:25:49,040
+Está bem. Eu ficarei bem.
+
+666
+00:25:49,050 --> 00:25:51,729
+Não, eu vou consertar isso, prometo.
+
+667
+00:25:51,730 --> 00:25:54,470
+Você precisa me ouvir, Sameer.
+
+668
+00:25:54,480 --> 00:25:57,849
+Agora eu sei quanto
+você ainda sente falta de Mira;
+
+669
+00:25:57,850 --> 00:25:59,679
+quão difícil este último ano foi,
+
+670
+00:25:59,680 --> 00:26:03,374
+mas você tem que descobrir
+como fazer as pazes com isso.
+
+671
+00:26:03,380 --> 00:26:05,750
+Porque se não, eu sou
+com medo de você e seu irmão
+
+672
+00:26:05,760 --> 00:26:08,039
+vai perder muito
+mais do que um escritório de advocacia.
+
+673
+00:26:08,040 --> 00:26:11,240
+<i> [MÚSICA SENTIMENTAL] </i>
+
+674
+00:26:11,250 --> 00:26:16,960
+<i> ? </i>
+
+675
+00:26:22,990 --> 00:26:24,870
+Acabei de desligar o telefone
+com o gerente de construção
+
+676
+00:26:24,880 --> 00:26:26,981
+para que ele saiba que vamos
+estar desocupando nosso contrato.
+
+677
+00:26:29,020 --> 00:26:31,200
+Este escritório esteve em
+nossa família há 40 anos.
+
+678
+00:26:31,210 --> 00:26:33,459
+Olha, deve haver
+algo que podemos fazer.
+
+679
+00:26:33,460 --> 00:26:37,350
+Sameer tinha que fazer era
+aparecer no tribunal hoje.
+
+680
+00:26:37,360 --> 00:26:39,410
+Ele não fez.
+
+681
+00:26:39,420 --> 00:26:41,120
+Você se importa de me dizer
+o que era mais importante
+
+682
+00:26:41,130 --> 00:26:42,290
+do que salvar nossa empresa?
+
+683
+00:26:46,500 --> 00:26:49,910
+Há um ano, encontrei uma loteria
+bilhete na rua.
+
+684
+00:26:49,920 --> 00:26:52,310
+[SUSPIRA] Foi um vencedor.
+
+685
+00:26:52,320 --> 00:26:56,070
+- US $ 1 milhão.
+- US $ 1 milhão?
+
+686
+00:26:56,080 --> 00:26:57,580
+Eu não entendo Você descontou?
+
+687
+00:26:57,590 --> 00:27:00,600
+Eu estava indo e
+então Mira foi morta ...
+
+688
+00:27:00,610 --> 00:27:02,090
+e ela foi morta
+
+689
+00:27:02,100 --> 00:27:03,720
+porque eu ia pegar dinheiro
+
+690
+00:27:03,730 --> 00:27:05,070
+isso não me pertencia.
+
+691
+00:27:05,080 --> 00:27:07,530
+Ela me disse para não descontar.
+
+692
+00:27:07,540 --> 00:27:10,950
+A razão pela qual ela está morta é por minha causa.
+
+693
+00:27:10,960 --> 00:27:13,720
+Por que você não veio até mim?
+
+694
+00:27:13,730 --> 00:27:16,080
+Eu sou seu irmão; eu poderia
+te ajudaram com isso.
+
+695
+00:27:16,090 --> 00:27:18,200
+Porque você não acredita em Karma,
+
+696
+00:27:18,210 --> 00:27:21,370
+e tudo o que aconteceu
+é por causa do meu karma.
+
+697
+00:27:21,380 --> 00:27:22,869
+Eu tive que tentar consertar isso.
+
+698
+00:27:22,870 --> 00:27:24,799
+Liguei para Sameer porque pensávamos
+
+699
+00:27:24,800 --> 00:27:26,210
+encontramos o dono do bilhete.
+
+700
+00:27:26,220 --> 00:27:27,750
+Mas não eram eles.
+
+701
+00:27:27,760 --> 00:27:30,270
+Agora, o ticket expira em três horas.
+
+702
+00:27:30,280 --> 00:27:32,930
+Nós vamos continuar procurando.
+Nós vamos encontrá-los, eu prometo.
+
+703
+00:27:32,940 --> 00:27:34,070
+E se você não?
+
+704
+00:27:34,080 --> 00:27:35,999
+Esse dinheiro não vai para ninguém.
+
+705
+00:27:36,000 --> 00:27:37,310
+[SCOFFS]
+
+706
+00:27:37,320 --> 00:27:39,499
+Você quer que eu descontar a passagem?
+
+707
+00:27:39,500 --> 00:27:42,680
+Quero que você salve Patel & Sons.
+
+708
+00:27:43,660 --> 00:27:46,000
+Salve o legado que nosso pai construiu.
+
+709
+00:27:48,400 --> 00:27:50,330
+E se eu não descontar o ingresso?
+
+710
+00:27:53,120 --> 00:27:55,440
+Então não somos mais irmãos.
+
+711
+00:27:56,380 --> 00:27:57,630
+Como poderíamos ser?
+
+712
+00:28:05,240 --> 00:28:08,300
+[Suspira]
+
+713
+00:28:08,310 --> 00:28:11,150
+- Dê a ele a passagem.
+Sameer, Sameer.
+
+714
+00:28:11,160 --> 00:28:13,421
+- Não é tão tarde.
+- Dê a ele, por favor.
+
+715
+00:28:13,422 --> 00:28:16,750
+Bem. Bem.
+
+716
+00:28:16,760 --> 00:28:18,170
+Mas eu não tenho isso em mim.
+
+717
+00:28:20,150 --> 00:28:22,480
+Eu não seria responsável por perder
+
+718
+00:28:22,490 --> 00:28:25,433
+um bilhete de US $ 1 milhão por
+andando por aí com ele.
+
+719
+00:28:25,440 --> 00:28:27,039
+Alguém já fez isso.
+
+720
+00:28:27,040 --> 00:28:28,820
+Está na minha casa.
+
+721
+00:28:28,830 --> 00:28:30,660
+Me dê uma hora.
+
+722
+00:28:30,670 --> 00:28:32,690
+Bem.
+
+723
+00:28:32,700 --> 00:28:34,309
+Não é como se alguém pudesse descontar isso
+
+724
+00:28:34,310 --> 00:28:37,150
+sem eu assinar
+de qualquer maneira para eles.
+
+725
+00:28:37,160 --> 00:28:40,114
+<i> ? </i>
+
+726
+00:28:40,120 --> 00:28:43,280
+Uma hora. É melhor você estar aqui.
+
+727
+00:28:43,290 --> 00:28:46,909
+<i> ? </i>
+
+728
+00:28:46,910 --> 00:28:49,330
+[Suspira] Então Jay quer descontar o bilhete.
+
+729
+00:28:49,340 --> 00:28:52,060
+Sim, foi por isso que eu disse a ele
+Eu não tinha o ingresso.
+
+730
+00:28:52,070 --> 00:28:55,000
+- Preciso ganhar mais tempo.
+- O que você vai fazer?
+
+731
+00:28:55,010 --> 00:28:58,460
+Honestamente, eu posso apenas sentar
+aqui e deixe expirar.
+
+732
+00:28:58,470 --> 00:29:00,160
+Quero dizer, é a única maneira de garantir
+
+733
+00:29:00,170 --> 00:29:01,469
+que não os separará.
+
+734
+00:29:01,470 --> 00:29:03,469
+[BELL JINGLES]
+
+735
+00:29:03,470 --> 00:29:05,779
+Oi. Ali está aqui?
+
+736
+00:29:05,780 --> 00:29:07,319
+Não por que?
+
+737
+00:29:07,320 --> 00:29:09,580
+Eu queria saber como ela
+reunião foi com seu orientador.
+
+738
+00:29:09,590 --> 00:29:11,062
+Você falou com ela?
+
+739
+00:29:12,540 --> 00:29:14,870
+Sim, realmente.
+
+740
+00:29:14,880 --> 00:29:16,150
+Você sabe o que,
+
+741
+00:29:16,160 --> 00:29:17,950
+Eu tenho que conversar com
+Rakesh sobre algo,
+
+742
+00:29:17,960 --> 00:29:19,370
+mas eu te ligo mais tarde. Tchau, Arthur.
+
+743
+00:29:19,380 --> 00:29:22,200
+- Tchau, bom te ver.
+- Sim você também.
+
+744
+00:29:22,210 --> 00:29:23,830
+Assim? O que ela te disse?
+
+745
+00:29:23,840 --> 00:29:25,820
+[Suspira] O conselheiro dela pensou
+
+746
+00:29:25,830 --> 00:29:28,330
+que seu trabalho não era inspirado.
+
+747
+00:29:30,000 --> 00:29:31,340
+[SCOFFS]
+
+748
+00:29:31,350 --> 00:29:33,039
+Como é que ela nunca me procurou com isso?
+
+749
+00:29:33,040 --> 00:29:35,870
+Porque ela está preocupada com você, pai.
+
+750
+00:29:35,880 --> 00:29:37,330
+Nós dois somos.
+
+751
+00:29:39,020 --> 00:29:40,720
+[Suspira]
+
+752
+00:29:40,730 --> 00:29:42,100
+Trish cancelou o casamento
+
+753
+00:29:42,110 --> 00:29:44,010
+e deixou a cidade, e sua resposta foi
+
+754
+00:29:44,020 --> 00:29:45,810
+fingir que estava tudo bem.
+
+755
+00:29:45,820 --> 00:29:48,390
+Ali está passando por um momento difícil,
+
+756
+00:29:48,400 --> 00:29:52,020
+e ela está tentando encarar isso de frente.
+
+757
+00:29:52,030 --> 00:29:54,080
+Por isso ela não
+falar com você sobre isso.
+
+758
+00:29:55,760 --> 00:29:57,170
+Porque eu não sou.
+
+759
+00:30:00,540 --> 00:30:03,710
+Eu tenho que falar com ela. Obrigado Miles.
+
+760
+00:30:06,920 --> 00:30:08,920
+- Você tem um vencedor em suas mãos?
+- Eu faço.
+
+761
+00:30:08,930 --> 00:30:12,040
+Vale US $ 1 milhão, mas
+expira em algumas horas.
+
+762
+00:30:12,050 --> 00:30:13,590
+- Você está falando sério?
+- Hum-hmm.
+
+763
+00:30:13,600 --> 00:30:16,270
+Sugestão do meu amigo
+estava prestes a descontar
+
+764
+00:30:16,280 --> 00:30:17,880
+quando sua namorada foi morta.
+
+765
+00:30:17,890 --> 00:30:19,570
+Ele acredita na morte dela
+
+766
+00:30:19,580 --> 00:30:21,750
+a culpa é dele; que pretende descontar
+
+767
+00:30:21,760 --> 00:30:23,570
+o ingresso trouxe um Karma ruim,
+
+768
+00:30:23,580 --> 00:30:25,770
+mas seu irmão Jay quer que ele pague
+
+769
+00:30:25,780 --> 00:30:27,770
+- para salvar seu escritório de advocacia.
+- O que você vai fazer?
+
+770
+00:30:27,780 --> 00:30:29,650
+Eu não sei. Se ... se Jay descontar,
+
+771
+00:30:29,660 --> 00:30:32,110
+Sameer nunca o perdoará,
+e eu não posso deixar isso acontecer.
+
+772
+00:30:32,120 --> 00:30:35,320
+Uma espécie de situação de perder ou perder.
+Alguma ideia?
+
+773
+00:30:35,330 --> 00:30:38,650
+Bem, se descontar o ingresso
+vai separá-los,
+
+774
+00:30:38,660 --> 00:30:40,470
+você tem que convencê-los disso,
+
+775
+00:30:40,480 --> 00:30:41,959
+mas tem que ser a decisão deles.
+
+776
+00:30:41,960 --> 00:30:46,820
+<i> [MÚSICA INQUISITIVA] </i>
+
+777
+00:30:46,830 --> 00:30:49,040
+<i> ? </i>
+
+778
+00:30:49,050 --> 00:30:51,530
+- Ei.
+- Ei,
+
+779
+00:30:51,540 --> 00:30:53,650
+seu texto disse que você precisava
+falar sobre alguma coisa?
+
+780
+00:30:53,660 --> 00:30:56,670
+Bem, eu estava esperando que você pudesse
+ser capaz de me fazer um favor.
+
+781
+00:30:56,680 --> 00:30:58,570
+Sim, bem considerando, hum,
+
+782
+00:30:58,580 --> 00:31:00,040
+Não consigo decifrar a pintura da Conta de Deus,
+
+783
+00:31:00,050 --> 00:31:01,680
+e eu não posso encontrar minha namorada hoje à noite,
+
+784
+00:31:01,690 --> 00:31:03,320
+Sim, eu não tenho nada além de tempo. E aí?
+
+785
+00:31:03,330 --> 00:31:04,970
+Estou trabalhando uma história,
+e eu só preciso de ajuda
+
+786
+00:31:04,980 --> 00:31:06,770
+- rastreando uma conta de email.
+- Sim, apenas encaminhe para mim,
+
+787
+00:31:06,780 --> 00:31:08,539
+- Eu vou investigar.
+Ok, obrigado.
+
+788
+00:31:08,540 --> 00:31:10,350
+Então, Miles me contou o que aconteceu
+
+789
+00:31:10,360 --> 00:31:12,610
+com Sameer e Jay.
+
+790
+00:31:12,620 --> 00:31:14,810
+Tem que haver uma maneira
+que podemos descobrir
+
+791
+00:31:14,820 --> 00:31:17,690
+- quem comprou esse ingresso.
+- Nas próximas duas horas?
+
+792
+00:31:17,700 --> 00:31:19,273
+Quero dizer, estou aberto a idéias.
+
+793
+00:31:19,274 --> 00:31:20,450
+Bem...
+
+794
+00:31:20,460 --> 00:31:22,660
+Eu sei que a bodega disse que
+não mantenha imagens de segurança,
+
+795
+00:31:22,670 --> 00:31:24,110
+mas e o
+câmeras de trânsito lá fora?
+
+796
+00:31:24,120 --> 00:31:25,539
+Já marcado. Nada.
+
+797
+00:31:25,540 --> 00:31:27,200
+[TELEFONES, BUZZES]
+
+798
+00:31:27,620 --> 00:31:28,910
+_
+
+799
+00:31:28,920 --> 00:31:30,370
+[SNICKERS]
+
+800
+00:31:30,380 --> 00:31:31,500
+O que é isso?
+
+801
+00:31:31,510 --> 00:31:33,170
+É o Tom do meu escritório.
+Ele continua me enviando
+
+802
+00:31:33,180 --> 00:31:34,870
+todos esses vídeos policiais loucos.
+
+803
+00:31:34,880 --> 00:31:36,539
+- Espere, deixe-me ver.
+- [Risos]
+
+804
+00:31:36,540 --> 00:31:39,120
+Oh, meu ... eles não podem nem
+coloque as algemas.
+
+806
+00:31:41,680 --> 00:31:44,039
+Traço cam filmagens. Rakesh, é isso.
+
+807
+00:31:44,040 --> 00:31:46,250
+Essa é a resposta.
+
+808
+00:31:46,260 --> 00:31:49,410
+<i> ? </i>
+
+809
+00:31:49,420 --> 00:31:51,190
+Sameer! Jay!
+
+810
+00:31:51,200 --> 00:31:52,590
+Você está finalmente aqui.
+
+811
+00:31:52,600 --> 00:31:54,475
+Temos apenas duas horas,
+me dê o ingresso.
+
+812
+00:31:55,500 --> 00:31:56,520
+Você tem que entender
+
+813
+00:31:56,530 --> 00:31:58,140
+o que ganhar com esse ingresso
+significa para Sameer ...
+
+814
+00:31:58,150 --> 00:32:00,648
+o que isso significa para o seu relacionamento.
+
+815
+00:32:00,649 --> 00:32:02,320
+Isso significa salvar nossa empresa.
+
+816
+00:32:02,330 --> 00:32:05,200
+Não, isso significa o fim da sua empresa,
+
+817
+00:32:05,210 --> 00:32:06,919
+pelo menos para vocês dois.
+
+818
+00:32:06,920 --> 00:32:09,410
+Agora, você pode chamar Karma,
+você pode chamar isso de azar,
+
+819
+00:32:09,420 --> 00:32:10,579
+você pode chamar isso de dinheiro de sangue.
+
+820
+00:32:10,580 --> 00:32:12,419
+Mas não importa como você chama,
+
+821
+00:32:12,420 --> 00:32:14,550
+você escolherá sobre Sameer,
+
+822
+00:32:14,560 --> 00:32:16,880
+e ele nunca te perdoará por isso.
+
+823
+00:32:16,890 --> 00:32:20,620
+<i> [MÚSICA SENTIMENTAL] </i>
+
+824
+00:32:20,630 --> 00:32:23,380
+<i> ? </i>
+
+825
+00:32:23,390 --> 00:32:25,140
+Sinto muito, Sameer,
+
+826
+00:32:25,150 --> 00:32:27,350
+mas não posso deixar que US $ 1 milhão não seja reclamado
+
+827
+00:32:27,360 --> 00:32:29,169
+quando poderíamos usá-lo para salvar nossa empresa.
+
+828
+00:32:29,170 --> 00:32:30,540
+Me dê o ingresso.
+
+829
+00:32:32,330 --> 00:32:38,060
+<i> ? </i>
+
+830
+00:32:38,070 --> 00:32:39,500
+[Telefone toca]
+
+831
+00:32:41,740 --> 00:32:45,250
+Ei, Rakesh, agora não é uma boa ti ...
+
+832
+00:32:45,260 --> 00:32:47,110
+Espere o que?
+
+833
+00:32:47,120 --> 00:32:50,730
+<i> [MÚSICA INQUISITIVA] </i>
+
+834
+00:32:50,740 --> 00:32:52,580
+Estamos a caminho.
+
+835
+00:32:54,550 --> 00:32:56,570
+<i> ? </i>
+
+836
+00:32:56,580 --> 00:33:00,280
+- Oficial Murphy, oficial Car.
+Heyer, Sameer.
+
+837
+00:33:00,290 --> 00:33:01,579
+Espere, vocês dois se conhecem?
+
+838
+00:33:01,580 --> 00:33:03,910
+Policial Murphy estava apenas
+nos dizendo que Sameer
+
+839
+00:33:03,920 --> 00:33:05,640
+ajudou um amigo dele que
+estava prestes a ser demitido.
+
+840
+00:33:05,650 --> 00:33:06,881
+Ele levou o caso pro bono.
+
+841
+00:33:06,882 --> 00:33:08,550
+Não foi nada.
+
+842
+00:33:08,560 --> 00:33:10,410
+- Desculpe, o que é isso?
+- O que quer que seja,
+
+843
+00:33:10,420 --> 00:33:12,720
+- não temos tempo.
+- Na realidade...
+
+844
+00:33:12,730 --> 00:33:15,419
+eles estavam aqui quando o
+bilhete de loteria foi comprado.
+
+845
+00:33:15,420 --> 00:33:16,990
+A filmagem da câmera de um ano atrás
+
+846
+00:33:17,000 --> 00:33:18,490
+estava gravando todo mundo entrando e saindo
+
+847
+00:33:18,500 --> 00:33:20,610
+da bodega naquela época, incluindo ...
+
+848
+00:33:20,620 --> 00:33:21,919
+o proprietário do bilhete.
+
+849
+00:33:21,920 --> 00:33:23,270
+Mas mesmo se os tivermos gravados,
+
+850
+00:33:23,280 --> 00:33:25,580
+não tem como ter o suficiente
+hora de ir e encontrá-los.
+
+851
+00:33:26,960 --> 00:33:29,209
+Eu acho que podemos ser capazes.
+
+852
+00:33:29,210 --> 00:33:32,410
+<i> [MÚSICA INQUISITIVA] </i>
+
+853
+00:33:32,420 --> 00:33:34,820
+[DIMENSÕES DO TABLET]
+
+854
+00:33:34,830 --> 00:33:37,740
+<i> ? </i>
+
+855
+00:33:37,750 --> 00:33:39,370
+É Judy!
+
+856
+00:33:39,380 --> 00:33:41,410
+Eu não acredito nisso.
+
+857
+00:33:41,420 --> 00:33:43,870
+Eu sei que ela vai para o
+bodega ... todos fazemos ...
+
+858
+00:33:43,880 --> 00:33:45,950
+mas eu não tinha ideia que ela
+jogou na loteria.
+
+859
+00:33:45,960 --> 00:33:47,749
+Bem, talvez ela a tenha perdido
+bilhete a caminho do trabalho.
+
+860
+00:33:47,750 --> 00:33:50,299
+Sim, e já que ela provavelmente
+não lembrava dos números
+
+861
+00:33:50,300 --> 00:33:51,610
+e assumiu que alguma vez venceria,
+
+862
+00:33:51,620 --> 00:33:52,990
+ela nunca mais pensou nisso.
+
+863
+00:33:53,000 --> 00:33:55,593
+- Temos que ir à Judy's.
+- Não, não há tempo.
+
+864
+00:33:55,594 --> 00:33:57,550
+Vamos descontar o bilhete
+e dê a ela o dinheiro.
+
+865
+00:33:57,560 --> 00:33:59,500
+Não, eu tenho que assinar
+o bilhete para ela
+
+866
+00:33:59,510 --> 00:34:00,769
+e deixá-la descontar ela mesma.
+
+867
+00:34:00,770 --> 00:34:03,080
+É a única maneira que
+Eu posso restaurar meu Karma.
+
+868
+00:34:03,090 --> 00:34:06,420
+<i> MÚSICA DRAMÁTICA </i>
+
+869
+00:34:06,430 --> 00:34:07,599
+Por favor.
+
+870
+00:34:07,600 --> 00:34:12,750
+<i> ? </i>
+
+871
+00:34:12,760 --> 00:34:15,419
+Tudo certo. Vamos.
+
+872
+00:34:15,420 --> 00:34:17,530
+<i> Não acredito. </i>
+
+873
+00:34:17,540 --> 00:34:19,990
+Depois de todo esse tempo, era Judy.
+
+874
+00:34:20,000 --> 00:34:22,250
+Não consigo imaginar ninguém
+quem merece mais.
+
+875
+00:34:22,260 --> 00:34:24,960
+Vocês dois fazem.
+
+876
+00:34:24,970 --> 00:34:28,010
+[BATA, A PORTA CRIA]
+
+877
+00:34:28,020 --> 00:34:30,570
+Judy?
+
+878
+00:34:30,580 --> 00:34:32,460
+[A PORTA CRIA]
+
+879
+00:34:34,520 --> 00:34:35,710
+Judy, você está aqui?
+
+880
+00:34:41,580 --> 00:34:42,768
+Judy!
+
+881
+00:34:42,770 --> 00:34:45,190
+Judy, Judy!
+
+882
+00:34:45,200 --> 00:34:46,280
+Ela não está respondendo.
+
+883
+00:34:47,040 --> 00:34:49,070
+Ligue 911.
+
+884
+00:34:54,410 --> 00:34:57,319
+- Sameer se culpa.
+- Não é culpa dele.
+
+885
+00:34:57,320 --> 00:34:59,360
+Não, mas ele não vê dessa maneira.
+
+886
+00:34:59,370 --> 00:35:01,100
+Ele ainda pensa que é sobre o seu Karma.
+
+887
+00:35:01,110 --> 00:35:03,650
+<i> ? </i>
+
+888
+00:35:03,660 --> 00:35:05,159
+Ela esta bem?
+
+889
+00:35:05,160 --> 00:35:07,540
+Judy sofreu um aneurisma cerebral.
+
+890
+00:35:07,550 --> 00:35:10,421
+Sua cirurgia foi bem sucedida,
+e nós a estabilizamos.
+
+891
+00:35:12,420 --> 00:35:14,820
+- [suspira]
+- Sorte sua estar lá.
+
+892
+00:35:14,830 --> 00:35:16,510
+Se você não tivesse encontrado
+ela quando você fez,
+
+893
+00:35:16,520 --> 00:35:17,650
+ela não teria conseguido.
+
+894
+00:35:17,660 --> 00:35:19,959
+Você poderá ver
+ela em algumas horas.
+
+895
+00:35:19,960 --> 00:35:23,990
+<i> [MÚSICA DO SOMBRA] </i>
+
+896
+00:35:24,000 --> 00:35:26,700
+O bilhete expirou.
+
+897
+00:35:27,730 --> 00:35:29,607
+Sinto muito, Sameer.
+
+898
+00:35:31,130 --> 00:35:33,770
+Tudo o que importa é que
+Judy vai ficar bem,
+
+899
+00:35:33,780 --> 00:35:37,540
+e se isso significa meu Karma
+nunca será restaurado ...
+
+900
+00:35:37,550 --> 00:35:38,900
+[Suspira]
+
+901
+00:35:38,910 --> 00:35:40,660
+Esse é um preço que estou disposto a pagar.
+
+902
+00:35:40,670 --> 00:35:42,360
+Sameer, você não vê?
+
+903
+00:35:42,370 --> 00:35:45,380
+Isso começou com a perda de uma vida:
+
+904
+00:35:45,390 --> 00:35:46,880
+O acidente que matou Mira,
+
+905
+00:35:46,890 --> 00:35:49,110
+o acidente pelo qual você se culpa.
+
+906
+00:35:49,120 --> 00:35:52,660
+Mas porque você insistiu
+em ir ver Judy,
+
+907
+00:35:52,670 --> 00:35:55,529
+em vez de descontar esse ticket,
+
+908
+00:35:55,530 --> 00:35:57,320
+uma vida foi salva.
+
+909
+00:35:59,270 --> 00:36:00,409
+Ele está certo, Sameer.
+
+910
+00:36:00,410 --> 00:36:02,220
+Por sua causa,
+
+911
+00:36:02,230 --> 00:36:03,765
+Judy vai ficar bem.
+
+912
+00:36:03,766 --> 00:36:05,476
+E nós?
+
+913
+00:36:07,570 --> 00:36:08,853
+Nós estaremos também.
+
+914
+00:36:08,854 --> 00:36:10,856
+Sameer ...
+
+915
+00:36:10,870 --> 00:36:14,449
+É hora de você seguir em frente.
+
+916
+00:36:14,450 --> 00:36:18,110
+<i> [MÚSICA REFLEXIVA] </i>
+
+917
+00:36:18,120 --> 00:36:20,610
+<i> ? </i>
+
+918
+00:36:20,620 --> 00:36:21,870
+Você está certo.
+
+919
+00:36:23,620 --> 00:36:25,240
+Obrigado.
+
+920
+00:36:27,030 --> 00:36:30,279
+[Suspira]
+
+921
+00:36:30,280 --> 00:36:34,230
+<i> [MÚSICA ESPERANÇA] </i>
+
+922
+00:36:34,240 --> 00:36:35,880
+Desde que me lembro,
+
+923
+00:36:35,890 --> 00:36:37,258
+Eu queria ajudar as pessoas.
+
+924
+00:36:37,280 --> 00:36:39,630
+E nos últimos anos,
+
+925
+00:36:39,640 --> 00:36:42,430
+Eu tinha certeza do meu caminho
+para se tornar um terapeuta.
+
+926
+00:36:42,440 --> 00:36:46,440
+Mas ultimamente, tenho me sentido perdido;
+
+927
+00:36:46,450 --> 00:36:47,950
+sentindo-se sozinho.
+
+928
+00:36:49,160 --> 00:36:51,699
+<i> [MÚSICA INSPIRADORA EM ascensão] </i>
+
+929
+00:36:51,700 --> 00:36:55,520
+<i> ? </i>
+
+930
+00:36:55,530 --> 00:36:57,319
+Mas de pé nesta igreja,
+
+931
+00:36:57,320 --> 00:37:00,110
+olhando para esta comunidade,
+
+932
+00:37:00,120 --> 00:37:03,199
+minha comunidade, eu percebo,
+
+933
+00:37:03,200 --> 00:37:05,950
+como eu poderia estar perdido?
+
+934
+00:37:05,960 --> 00:37:09,199
+Como eu poderia estar sozinha?
+
+935
+00:37:09,200 --> 00:37:10,569
+<i> ? </i>
+
+936
+00:37:10,570 --> 00:37:12,160
+[SNICKERS]
+
+937
+00:37:12,170 --> 00:37:15,460
+"Porque eu sei os planos que tenho para você."
+
+938
+00:37:15,470 --> 00:37:17,819
+"Planos para lhe dar esperança e um futuro."
+
+939
+00:37:17,820 --> 00:37:21,220
+Então, como eu poderia me preocupar
+um futuro que no meu coração ...
+
+940
+00:37:21,230 --> 00:37:24,490
+Eu sempre soube que tem
+foi guiado por Deus.
+
+941
+00:37:26,090 --> 00:37:27,779
+Obrigado.
+
+942
+00:37:27,780 --> 00:37:31,530
+[Aplausos]
+
+943
+00:37:33,210 --> 00:37:35,180
+Isso foi lindo, querida.
+
+944
+00:37:35,190 --> 00:37:37,360
+- O que você está fazendo aqui?
+- Bem, Pastor Olivia
+
+945
+00:37:37,370 --> 00:37:39,610
+foi bom o suficiente para me deixar
+saiba que você estava falando,
+
+946
+00:37:39,620 --> 00:37:41,739
+e estou muito feliz que ela fez.
+
+947
+00:37:41,740 --> 00:37:44,489
+"Porque eu sei os planos que tenho para você"?
+
+948
+00:37:44,490 --> 00:37:47,160
+"Planos para lhe dar uma esperança e um futuro."
+
+949
+00:37:47,170 --> 00:37:49,740
+Jeremias 29:11.
+
+950
+00:37:49,750 --> 00:37:52,239
+- Um dos meus favoritos.
+- Eu sei.
+
+951
+00:37:52,240 --> 00:37:53,739
+[Risos]
+
+952
+00:37:53,740 --> 00:37:56,000
+<i> [MÚSICA REFLEXIVA] </i>
+
+953
+00:37:56,010 --> 00:37:58,620
+Trish deveria ser um
+parte do seu futuro, pai.
+
+954
+00:37:59,890 --> 00:38:01,049
+Eu sei.
+
+955
+00:38:01,050 --> 00:38:02,659
+Então o que você vai fazer para consertar isso?
+
+956
+00:38:02,660 --> 00:38:04,560
+Vou chamá-la
+
+957
+00:38:04,570 --> 00:38:06,720
+e convencê-la a voltar para casa,
+
+958
+00:38:06,730 --> 00:38:08,870
+hoje.
+
+959
+00:38:10,030 --> 00:38:12,269
+Isso foi ótimo, Ali.
+
+960
+00:38:12,270 --> 00:38:14,140
+Obrigado, quero dizer, você estava certo.
+
+961
+00:38:14,150 --> 00:38:15,650
+Era exatamente disso que eu precisava.
+
+962
+00:38:15,660 --> 00:38:17,030
+Bem, eu diria que estou surpreso
+
+963
+00:38:17,040 --> 00:38:19,110
+quão natural você era lá em cima, mas ...
+
+964
+00:38:19,120 --> 00:38:20,779
+tal pai tal Filha.
+
+965
+00:38:20,780 --> 00:38:22,460
+Talvez o caminho que você está procurando
+
+966
+00:38:22,470 --> 00:38:24,029
+não é tão surpreendente quanto você pensa.
+
+967
+00:38:24,030 --> 00:38:26,860
+<i> [MÚSICA ESPERANÇA] </i>
+
+968
+00:38:26,870 --> 00:38:28,690
+<i> ? </i>
+
+969
+00:38:29,290 --> 00:38:31,069
+<i> Causa e efeito </i>
+
+970
+00:38:31,070 --> 00:38:33,819
+faz parte do nosso dia a dia.
+
+971
+00:38:33,820 --> 00:38:35,620
+Não importa como chamamos.
+
+972
+00:38:35,630 --> 00:38:38,579
+Nós tomamos ações; há consequências.
+
+973
+00:38:38,580 --> 00:38:41,879
+<i> Às vezes, os resultados podem ser surpreendentes. </i>
+
+974
+00:38:41,880 --> 00:38:43,919
+Vou sentir falta deste lugar.
+
+975
+00:38:43,920 --> 00:38:45,260
+Eu também sou.
+
+976
+00:38:45,270 --> 00:38:46,880
+Mas ainda temos um ao outro.
+
+977
+00:38:47,770 --> 00:38:50,720
+Vamos reconstruir juntos.
+
+978
+00:38:50,730 --> 00:38:55,600
+<i> ? enviarei um exército </i>
+
+979
+00:38:55,610 --> 00:38:59,400
+<i> Pode nos enviar por um caminho
+nós nunca pensamos em explorar ... </i>
+
+980
+00:38:59,410 --> 00:39:02,020
+<i> ? No meio da noite mais escura, </i>
+
+981
+00:39:02,030 --> 00:39:03,440
+<i> ? É verdade. </i>
+
+982
+00:39:03,450 --> 00:39:07,910
+<i> Ou nos desperte para a verdade
+nós sabemos o tempo todo. </i>
+
+983
+00:39:07,920 --> 00:39:10,200
+Trish, sou eu.
+
+984
+00:39:10,210 --> 00:39:12,440
+Podemos ... podemos conversar?
+
+985
+00:39:12,450 --> 00:39:16,360
+<i> As coisas nunca acabam
+exatamente como planejamos. </i>
+
+986
+00:39:16,370 --> 00:39:17,709
+_
+
+987
+00:39:17,710 --> 00:39:19,990
+[TOQUE DE TELEFONE]
+
+988
+00:39:21,010 --> 00:39:23,300
+- Rakesh.
+<i> - Ei. </i>
+
+989
+00:39:23,310 --> 00:39:25,060
+<i> Então ... </i>
+
+990
+00:39:25,070 --> 00:39:27,383
+- <i> quem é Kamal Basu? </i>
+- Ele não é ninguém.
+
+991
+00:39:27,384 --> 00:39:28,860
+Você se importa de me dizer por que ninguém
+
+992
+00:39:28,870 --> 00:39:31,140
+ansioso para ter
+jantar com você hoje à noite?
+
+993
+00:39:31,150 --> 00:39:33,650
+<i> Você conhece meus pais.
+É isso que eles fazem. </i>
+
+994
+00:39:33,660 --> 00:39:36,209
+<I> eu prometo a você, você tem
+nada para se preocupar, ok? </i>
+
+995
+00:39:36,210 --> 00:39:38,709
+- [suspira]
+<i> - Mas no final, </i>
+
+996
+00:39:38,710 --> 00:39:42,459
+tudo o que precisamos fazer é controlar
+o que lançamos no mundo
+
+997
+00:39:42,460 --> 00:39:45,290
+e espero que seja devolvido
+faz tudo valer a pena.
+
+998
+00:39:45,300 --> 00:39:47,450
+<i> ? Alcance você ? </i>
+
+999
+00:39:47,460 --> 00:39:49,419
+<i> ? No meio da luta mais difícil </i>
+
+1000
+00:39:49,420 --> 00:39:51,120
+[BATA NA PORTA]
+
+1001
+00:39:51,130 --> 00:39:53,820
+<i> ? É verdade, eu vou resgatá-lo ? </i>
+
+1002
+00:39:53,830 --> 00:39:56,090
+- Ei!
+- Ei.
+
+1003
+00:39:56,100 --> 00:39:57,300
+<i> ? </i>
+
+1004
+00:39:57,310 --> 00:39:59,990
+- Eu tenho uma coisa para você.
+- [Risos]
+
+1005
+00:40:00,000 --> 00:40:01,870
+<i> ? </i>
+
+1006
+00:40:01,880 --> 00:40:04,490
+<i> ? Oh, eu vou te resgatar ? </i>
+
+1007
+00:40:04,510 --> 00:40:06,120
+Ei, o que é isso?
+
+1008
+00:40:06,130 --> 00:40:10,210
+Você se lembra da nossa última noite em Paris?
+
+1009
+00:40:10,220 --> 00:40:11,960
+Como eu poderia esquecer?
+
+1010
+00:40:11,970 --> 00:40:14,660
+E você se lembra do que você me disse?
+
+1011
+00:40:14,670 --> 00:40:17,219
+Eu faço.
+
+1012
+00:40:17,220 --> 00:40:20,719
+De pé sob a Eiffel
+Torre, foi perfeito.
+
+1013
+00:40:20,720 --> 00:40:25,650
+E enquanto eu sei que pode
+nunca ser duplicado, eu ...
+
+1014
+00:40:25,660 --> 00:40:27,738
+Pensei em pelo menos tentar.
+
+1015
+00:40:29,090 --> 00:40:30,550
+Miles ...
+
+1016
+00:40:30,560 --> 00:40:33,050
+<i> Você, você, </i>
+
+1017
+00:40:33,060 --> 00:40:34,850
+<i> ? Nunca confie em ninguém ? </i>
+
+1018
+00:40:34,860 --> 00:40:36,330
+Eu te amo.
+
+1019
+00:40:36,340 --> 00:40:37,809
+<i> ? Com meu coração </i>
+
+1020
+00:40:37,810 --> 00:40:39,169
+Eu também te amo.
+
+1021
+00:40:39,170 --> 00:40:42,340
+? ?
+
+1022
+00:40:42,350 --> 00:40:44,180
+<i> ? A morte nos separa </i>
+
+1023
+00:40:44,190 --> 00:40:46,709
+<i> ? </i>
+
+1024
+00:40:46,710 --> 00:40:48,570
+<i> ? Eles desejam que tenham ? </i>
+
+1025
+00:40:48,580 --> 00:40:50,730
+<i> ? O que temos, bebê ? </i>
+
+1026
+00:40:50,740 --> 00:40:52,610
+<i> ? Eles vão querer que eles tivessem ? </i>
+
+1027
+00:40:52,620 --> 00:40:54,520
+<i> ? O que temos, bebê ? </i>
+
+1028
+00:40:54,530 --> 00:40:56,320
+<i> ? A morte nos separa </i>
+
+1029
+00:40:56,330 --> 00:40:58,570
+[CHAVES DE CHAVES]
+
+1030
+00:40:58,580 --> 00:40:59,959
+Ei.
+
+1031
+00:40:59,960 --> 00:41:01,789
+Então, o que você quer me ver?
+
+1032
+00:41:01,790 --> 00:41:03,190
+Rastreei aqueles e-mails falsos
+
+1033
+00:41:03,200 --> 00:41:04,740
+você queria que eu olhasse para a sua história.
+
+1034
+00:41:04,750 --> 00:41:06,870
+Eles estão todos registrados para o mesmo cara:
+
+1035
+00:41:06,880 --> 00:41:08,520
+Jonathan Carter. Você ouviu falar dele?
+
+1036
+00:41:08,530 --> 00:41:10,447
+Não ... não, mas eu sou
+definitivamente vou encontrá-lo.
+
+1037
+00:41:10,460 --> 00:41:11,615
+Oi!
+
+1038
+00:41:11,630 --> 00:41:13,520
+Você está aqui.
+
+1039
+00:41:13,530 --> 00:41:15,079
+Ei, o que você está fazendo aqui?
+
+1040
+00:41:15,080 --> 00:41:17,370
+Estou saindo da cidade e
+veio se despedir,
+
+1041
+00:41:17,380 --> 00:41:19,709
+mas acho que gosto de vocês.
+
+1042
+00:41:19,710 --> 00:41:21,810
+Se você está sempre de volta
+Paris para um daqueles
+
+1043
+00:41:21,820 --> 00:41:24,170
+Coisa de Deus, procure-me.
+
+1044
+00:41:24,180 --> 00:41:26,390
+Você só quer saber se conseguimos
+
+1045
+00:41:26,400 --> 00:41:28,390
+- decifrar o código de 11 dígitos.
+- Talvez.
+
+1046
+00:41:28,400 --> 00:41:29,550
+Bem, nós não.
+
+1047
+00:41:30,750 --> 00:41:32,499
+[TELEFONES, BUZZES]
+
+1048
+00:41:32,500 --> 00:41:35,610
+Ei, Patel e filhos apenas
+postou uma nova foto
+
+1049
+00:41:35,620 --> 00:41:36,770
+- que o God Account gostei.
+- Hum.
+
+1050
+00:41:36,780 --> 00:41:39,730
+Ah, é de Judy e ela
+pulseira para hospital ...
+
+1051
+00:41:39,740 --> 00:41:42,229
+dizendo que esses são os novos números da sorte dela.
+
+1052
+00:41:42,230 --> 00:41:43,849
+Espere um minuto.
+
+1053
+00:41:43,850 --> 00:41:45,289
+Números da sorte?
+
+1054
+00:41:45,290 --> 00:41:47,120
+<i> [MÚSICA INQUISITIVA] </i>
+
+1055
+00:41:47,130 --> 00:41:48,320
+São 11 dígitos.
+
+1056
+00:41:53,260 --> 00:41:56,590
+Zero, nove, dois, cinco, sete,
+
+1057
+00:41:56,600 --> 00:42:00,039
+dois, um, zero, três, quatro, oito.
+
+1058
+00:42:00,040 --> 00:42:02,120
+[BIP DE COMPUTADOR]
+
+1059
+00:42:02,130 --> 00:42:05,110
+<i> ? </i>
+
+1060
+00:42:05,120 --> 00:42:06,419
+- _
+- [BIP DE COMPUTADOR]
+
+1061
+00:42:06,420 --> 00:42:07,570
+[CHUCKLES]
+
+1062
+00:42:07,580 --> 00:42:11,640
+[Computador rodando]
+
+1063
+00:42:11,650 --> 00:42:15,620
+<i> ? </i>
+
+1064
+00:42:15,630 --> 00:42:16,970
+Uma casa
+
+1065
+00:42:18,160 --> 00:42:19,620
+Como uma casa é uma mensagem?
+
+1066
+00:42:19,630 --> 00:42:21,960
+Sem mencionar, poderia
+estar em qualquer lugar do mundo.
+
+1067
+00:42:23,160 --> 00:42:24,370
+Não é.
+
+1068
+00:42:24,380 --> 00:42:26,889
+[CHUCKLES]
+
+1069
+00:42:26,890 --> 00:42:28,150
+É em Jersey.
+
+1070
+00:42:28,160 --> 00:42:29,699
+- Hum-hmm.
+- Como você sabe disso?
+
+1071
+00:42:29,700 --> 00:42:31,600
+Porque esse é o primeiro lugar
+
+1072
+00:42:31,610 --> 00:42:33,160
+que Cara e eu rastreamos
+a conta de Deus para
+
+1073
+00:42:33,170 --> 00:42:34,779
+todo o caminho de volta quando
+isso começou.
+
+1074
+00:42:34,780 --> 00:42:37,069
+Sim, mas por que isso
+enviando-nos para lá agora?
+
+1075
+00:42:37,070 --> 00:42:39,569
+Eu não sei, mas é isso
+o que vamos descobrir.
+
+1076
+00:42:39,570 --> 00:42:42,159
+<i> ? </i>
+
