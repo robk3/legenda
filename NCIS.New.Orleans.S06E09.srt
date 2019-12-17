@@ -1,0 +1,4420 @@
+﻿1
+00:00:00,001 --> 00:00:04,001
+<font color = "# 8080c0"> Sincronização e correções por </font> <font color = "# ffff00"> Costa Dax </font>
+<font color = "# 8080c0"> www.addic7ed.com </font>
+
+2
+00:00:04,178 --> 00:00:07,080
+CAMPBELL: Meritíssima, vamos encarar os fatos.
+
+3
+00:00:07,147 --> 00:00:10,083
+Foram várias semanas de
+movimentos pré-julgamento
+
+4
+00:00:10,150 --> 00:00:12,986
+e diversões da AUSA
+
+5
+00:00:13,053 --> 00:00:16,522
+sem que ela produzisse um único
+fragmento de evidência adicional
+
+6
+00:00:16,590 --> 00:00:20,326
+<i>que liga meu cliente a
+Morte do agente especial Lasalle.</i>
+
+7
+00:00:21,362 --> 00:00:22,929
+Assassinato, Conselheiro.
+
+8
+00:00:22,997 --> 00:00:25,265
+Assassinato do agente Lasalle.
+E como você bem sabe,
+
+9
+00:00:25,332 --> 00:00:28,268
+não somos obrigados a provar
+nosso caso até o julgamento,
+
+10
+00:00:28,335 --> 00:00:30,470
+que é o que estamos aqui para agendar.
+
+11
+00:00:30,537 --> 00:00:31,871
+Um julgamento baseado em quê, conselheiro?
+
+12
+00:00:31,939 --> 00:00:33,806
+Um pouco de DNA altamente questionável
+
+13
+00:00:33,874 --> 00:00:35,642
+encontrado no dedo da vítima?
+
+14
+00:00:35,709 --> 00:00:38,945
+A defesa move que essa evidência
+seja suprimida, Meritíssima.
+
+15
+00:00:39,013 --> 00:00:40,179
+Em qual base?
+
+16
+00:00:40,247 --> 00:00:41,847
+Que tal com base em que as evidências
+
+17
+00:00:41,871 --> 00:00:44,217
+foi coletado pelo amigo da vítima?
+
+18
+00:00:44,285 --> 00:00:46,853
+Por não ter sido encontrado
+na vítima até horas
+
+19
+00:00:46,920 --> 00:00:48,154
+depois que ele estava no hospital.
+
+20
+00:00:48,222 --> 00:00:49,889
+O mesmo hospital onde meu cliente estava,
+
+21
+00:00:49,957 --> 00:00:53,793
+que é como o DNA foi
+transferido para a vítima.
+
+22
+00:00:53,861 --> 00:00:55,395
+E com base em um absolutamente
+
+23
+00:00:55,462 --> 00:00:57,163
+investigação não confiável
+
+24
+00:00:57,231 --> 00:00:59,365
+conduzido por um agente federal obcecado
+
+25
+00:00:59,433 --> 00:01:02,568
+que está decidido a enrolar
+um homem inocente a vapor.
+
+26
+00:01:02,636 --> 00:01:05,004
+Meritíssimo, posso sugerir
+
+27
+00:01:05,072 --> 00:01:09,242
+que, a menos que a AUSA Izzo
+esconda uma arma fumegante,
+
+28
+00:01:09,310 --> 00:01:11,844
+que não podemos e não devemos
+continuar desperdiçando
+
+29
+00:01:11,912 --> 00:01:13,680
+tempo e recursos do governo.
+
+30
+00:01:13,747 --> 00:01:15,381
+Isso é para um júri decidir.
+
+31
+00:01:15,449 --> 00:01:16,683
+Juiz: <i> Na verdade, </i>
+
+32
+00:01:16,750 --> 00:01:18,818
+no momento, é para eu decidir.
+
+33
+00:01:18,886 --> 00:01:20,566
+Excelência, a defesa
+gostaria de apresentar
+
+34
+00:01:20,590 --> 00:01:22,322
+uma nova testemunha, Brad Collins.
+
+35
+00:01:22,389 --> 00:01:24,157
+Quem diabos é Brad Collins?
+
+36
+00:01:24,224 --> 00:01:25,325
+Izzo.
+
+37
+00:01:25,392 --> 00:01:26,903
+Ele é o álibi do meu cliente para a noite
+
+38
+00:01:26,927 --> 00:01:28,407
+da morte do agente Lasalle, Meritíssimo.
+
+39
+00:01:28,435 --> 00:01:29,955
+IZZO: Faz seis semanas, Meritíssimo. </i>
+
+40
+00:01:30,022 --> 00:01:31,283
+<i>Eu gostaria de saber qual rock</i>
+
+41
+00:01:31,351 --> 00:01:33,366
+essa testemunha rastejou por baixo.
+
+42
+00:01:33,434 --> 00:01:35,368
+Izzo. Esse é o seu último aviso.
+
+43
+00:01:35,436 --> 00:01:37,370
+Desculpe, Meritíssima.
+
+44
+00:01:37,438 --> 00:01:39,038
+Eu simplesmente não consigo entender
+
+45
+00:01:39,106 --> 00:01:41,574
+por que a defesa está agora trazendo
+essa testemunha antes de nós.
+
+46
+00:01:41,642 --> 00:01:42,675
+JUIZ: <i> Seus investigadores </i>
+
+47
+00:01:42,743 --> 00:01:44,610
+pode perguntar quando o entrevistam.
+
+48
+00:01:44,678 --> 00:01:47,380
+Enquanto isso, revisarei seus movimentos.
+
+49
+00:01:47,448 --> 00:01:49,128
+Meritíssima, à luz dessa
+testemunha álibi,
+
+50
+00:01:49,152 --> 00:01:50,917
+Eu pediria ao tribunal que
+reconsiderasse a fiança.
+
+51
+00:01:50,984 --> 00:01:52,051
+JUIZ: <i> Este é o assassinato </i>
+
+52
+00:01:52,119 --> 00:01:54,787
+de um agente federal, conselheiro.
+
+53
+00:01:54,855 --> 00:01:57,190
+Falaremos sobre fiança quando
+falamos sobre todo o resto.
+
+54
+00:01:57,257 --> 00:01:58,591
+Nós somos adiados.
+
+55
+00:02:06,867 --> 00:02:08,434
+ORGULHO: <i> Ei, deixe-me saber. </i>
+
+56
+00:02:08,502 --> 00:02:10,236
+Tudo certo?
+
+57
+00:02:10,304 --> 00:02:12,544
+Por que é a primeira vez que estou
+ouvindo sobre uma testemunha álibi?
+
+58
+00:02:12,568 --> 00:02:15,408
+Porque não é um álibi real.
+
+59
+00:02:15,476 --> 00:02:17,777
+Eddie comprou, puro e simples.
+
+60
+00:02:17,845 --> 00:02:20,480
+Ok, Dwayne, mas você pode provar isso?
+
+61
+00:02:20,547 --> 00:02:22,187
+Porque se você não puder,
+então perdemos o DNA
+
+62
+00:02:22,211 --> 00:02:23,616
+e o caso está morto.
+
+63
+00:02:23,684 --> 00:02:26,285
+Eddie Barrett morto
+Christopher. Eu tenho certeza disso.
+
+64
+00:02:26,353 --> 00:02:28,654
+Bem, sua certeza não ganha
+o nosso dia no tribunal.
+
+65
+00:02:28,722 --> 00:02:30,456
+Encontre mais evidências
+
+66
+00:02:30,524 --> 00:02:32,959
+ou Eddie Barrett caminha, culpado ou não.
+
+67
+00:02:38,198 --> 00:02:40,733
+<i>♪ boom, boom, boom, boom ♪</i>
+
+68
+00:02:40,801 --> 00:02:43,336
+<i>♪ Bang, bang, bang, bang ♪</i>
+
+69
+00:02:43,404 --> 00:02:45,838
+<i>♪ boom, boom, boom, boom ♪</i>
+
+70
+00:02:45,906 --> 00:02:47,140
+<i>♪ Como, como, como ♪</i>
+
+71
+00:02:47,207 --> 00:02:49,542
+<i>♪ Ei, ei ♪</i>
+
+72
+00:02:49,566 --> 00:02:55,266
+<i>♪ ♪</i>
+
+73
+00:02:55,315 --> 00:02:56,549
+<i>♪ Você tem que vir. ♪</i>
+
+74
+00:02:56,573 --> 00:02:58,273
+<i>♪ ♪</i>
+
+75
+00:02:59,086 --> 00:03:00,920
+COLLINS: Eu não sei o que lhe dizer.
+
+76
+00:03:00,988 --> 00:03:02,522
+Eu nunca conheci Eddie Barrett antes
+
+77
+00:03:02,589 --> 00:03:03,989
+a tarde ele fretou meu barco.
+
+78
+00:03:04,024 --> 00:03:07,360
+E ele apenas ... apareceu?
+Queria ir pescar?
+
+79
+00:03:07,428 --> 00:03:09,962
+Bem, ele ligou primeiro,
+fez questão de estar disponível.
+
+80
+00:03:10,030 --> 00:03:11,950
+- A que horas ele chegou?
+- Um pouco depois do meio dia.
+
+81
+00:03:11,974 --> 00:03:13,099
+Está tudo na papelada.
+
+82
+00:03:13,167 --> 00:03:15,268
+- Ele estava sozinho?
+- Sim.
+
+83
+00:03:15,335 --> 00:03:17,770
+Em um cruzador de
+cabine que acomoda dez.
+
+84
+00:03:17,838 --> 00:03:20,206
+O homem queria ir sozinho. Disse que
+ele teve algumas semanas difíceis
+
+85
+00:03:20,274 --> 00:03:22,842
+e queria esquecer o
+mundo por alguns dias.
+
+86
+00:03:22,910 --> 00:03:24,110
+Para onde você foi?
+
+87
+00:03:24,178 --> 00:03:26,546
+Cantarilhos eram as únicas coisas que mordiam,
+
+88
+00:03:26,613 --> 00:03:27,880
+então não muito longe.
+
+89
+00:03:27,948 --> 00:03:29,849
+Acabei de ir para o oeste, para um lugar que conheço.
+
+90
+00:03:29,917 --> 00:03:32,385
+O Sr. Barrett fala sobre
+algo em particular?
+
+91
+00:03:32,413 --> 00:03:33,973
+(CHUCKLES) Bem, não é assim.
+
+92
+00:03:33,997 --> 00:03:35,688
+Você sabe como é a
+pesca. Tem gente
+
+93
+00:03:35,756 --> 00:03:39,158
+que falam e pescam e depois há
+pessoas que pescam e falam.
+
+94
+00:03:39,226 --> 00:03:40,226
+Ele era o segundo tipo.
+
+95
+00:03:40,294 --> 00:03:41,294
+Por que você está dizendo a ele?
+
+96
+00:03:41,361 --> 00:03:42,662
+Hmm? Eu também pesco.
+
+97
+00:03:42,729 --> 00:03:44,197
+É porque é que eu sou velho.
+
+98
+00:03:44,264 --> 00:03:47,667
+Então, são minhas idéias. Mas você está 100 % certo.
+
+99
+00:03:47,734 --> 00:03:49,669
+- As mulheres também pescam.
+<i> - Você disse </i>
+
+100
+00:03:49,736 --> 00:03:52,038
+<i>que Barrett queria
+sair por alguns dias.</i>
+
+101
+00:03:52,105 --> 00:03:56,042
+Por que você se virou depois de algumas horas?
+
+102
+00:03:56,109 --> 00:03:59,645
+O Sr. Barrett recebeu uma ligação por volta das 21:00.
+
+103
+00:03:59,713 --> 00:04:01,914
+Um amigo dele foi baleado.
+Voltei para a praia,
+
+104
+00:04:01,982 --> 00:04:04,584
+mas as correntes estavam contra nós.
+
+105
+00:04:04,651 --> 00:04:06,152
+Demorou pelo menos duas horas.
+
+106
+00:04:06,220 --> 00:04:08,180
+Então você ancorou por volta das 11:00.
+Está na papelada.
+
+107
+00:04:08,204 --> 00:04:10,556
+Dei uma cópia da minha
+fatura ao advogado.
+
+108
+00:04:10,624 --> 00:04:12,191
+- Você precisa de uma cópia também?
+- Não não não.
+
+109
+00:04:12,259 --> 00:04:14,660
+- Eu entendi bem aqui.
+<i> - Você disse o Sr. Barrett </i>
+
+110
+00:04:14,728 --> 00:04:15,995
+pago em dinheiro, hum? Quantos?
+
+111
+00:04:16,063 --> 00:04:17,763
+Também na fatura.
+
+112
+00:04:17,831 --> 00:04:20,366
+$ 1.100. Eu disse a ele que ele não tinha que pagar
+
+113
+00:04:20,434 --> 00:04:22,368
+os dois dias completos, mas ele insistiu.
+
+114
+00:04:22,436 --> 00:04:23,603
+Deu-me uma boa dica também.
+
+115
+00:04:23,670 --> 00:04:24,937
+ORGULHO: <i> Preciso dizer, </i>
+
+116
+00:04:25,005 --> 00:04:28,007
+isso é conveniente,
+
+117
+00:04:28,075 --> 00:04:30,076
+você está oferecendo esse
+álibi no último momento.
+
+118
+00:04:31,478 --> 00:04:33,579
+(CHUCKLES) Por que você esperou tanto tempo
+
+119
+00:04:33,647 --> 00:04:35,381
+para avançar, Sr. Collins?
+
+120
+00:04:35,449 --> 00:04:37,416
+Eu não sabia que alguém estava me procurando.
+
+121
+00:04:37,484 --> 00:04:39,018
+Eu tinha algumas cartas reservadas,
+
+122
+00:04:39,086 --> 00:04:40,320
+<i>desceu para o México,</i>
+
+123
+00:04:40,387 --> 00:04:41,705
+mexeu por aí por um tempo.
+
+124
+00:04:41,730 --> 00:04:43,723
+Vamos lá, seu celular não
+funcionou no México?
+
+125
+00:04:43,790 --> 00:04:44,790
+Não para onde eu vou.
+
+126
+00:04:44,858 --> 00:04:46,259
+<i>Quando voltei para casa,</i>
+
+127
+00:04:46,326 --> 00:04:48,628
+<i>Eu vi as mensagens de
+Advogado do Sr. Barrett.</i>
+
+128
+00:04:48,695 --> 00:04:50,229
+Eu me sinto mal, ele passou um tempo na prisão
+
+129
+00:04:50,297 --> 00:04:52,732
+por eu não ter verificado
+meus correios de voz.
+
+130
+00:04:52,799 --> 00:04:55,167
+Antes tarde do que nunca, eu acho.
+
+131
+00:05:03,110 --> 00:05:05,711
+Ele é uma boa testemunha.
+
+132
+00:05:05,779 --> 00:05:07,580
+Ele é simpático, sem atitude.
+
+133
+00:05:07,648 --> 00:05:11,250
+Se não podemos quebrar a história dele,
+Barrett vai se libertar.
+
+134
+00:05:11,318 --> 00:05:14,287
+Estou tentando obter um mandado
+para todo o seu bloco de faturas.
+
+135
+00:05:14,354 --> 00:05:16,455
+Se ele falsificou a papelada,
+nós vamos descobrir isso.
+
+136
+00:05:16,523 --> 00:05:19,225
+SEBASTIAN: Patton e eu estivemos
+cavando, tentando encontrar algo
+
+137
+00:05:19,293 --> 00:05:21,333
+que o vincula a Barrett
+antes de reservar a carta.
+
+138
+00:05:21,401 --> 00:05:23,201
+- Nada até agora.
+- ORGULHO: Sim, bem, precisamos
+
+139
+00:05:23,225 --> 00:05:25,264
+para obter um mandado para sua casa,
+
+140
+00:05:25,332 --> 00:05:28,834
+seu escritório, seu barco, suas contas bancárias.
+
+141
+00:05:28,902 --> 00:05:30,469
+Ele foi pago em dinheiro. Tem que haver
+
+142
+00:05:30,537 --> 00:05:32,672
+um saco de dinheiro sentado em algum lugar.
+
+143
+00:05:32,739 --> 00:05:36,409
+Nenhum juiz nos dará
+um mandado tão amplo.
+
+144
+00:05:36,476 --> 00:05:38,010
+Brad Collins
+
+145
+00:05:38,078 --> 00:05:40,913
+está conectado à operação de Barrett.
+
+146
+00:05:40,981 --> 00:05:42,949
+Nós só precisamos descobrir como.
+
+147
+00:05:43,016 --> 00:05:44,183
+<i>Evidência de DNA</i>
+
+148
+00:05:44,251 --> 00:05:45,818
+provavelmente será jogado fora.
+
+149
+00:05:45,886 --> 00:05:48,120
+Onde estamos
+Cena do crime de Christopher?
+
+150
+00:05:48,188 --> 00:05:49,855
+Repassou cada centímetro dele novamente.
+
+151
+00:05:49,923 --> 00:05:51,490
+Nada de novo apareceu.
+
+152
+00:05:51,558 --> 00:05:54,460
+Que tal Sue-Ann Hughes?
+
+153
+00:05:54,528 --> 00:05:56,248
+Quero dizer, ela levou um
+tiro junto com Christopher.
+
+154
+00:05:56,272 --> 00:05:59,031
+Puxou uma arma para mim. Ela
+sabe mais do que está dizendo.
+
+155
+00:05:59,099 --> 00:06:01,968
+Ela não está, ela não está dizendo nada.
+
+156
+00:06:02,035 --> 00:06:04,075
+Ela está sentada em uma cela,
+esperando seu julgamento.
+
+157
+00:06:04,104 --> 00:06:06,305
+(Suspira) Nós tínhamos Patton investigando seu passado.
+
+158
+00:06:06,373 --> 00:06:07,607
+Ela não tem antecedentes criminais,
+
+159
+00:06:07,634 --> 00:06:08,954
+ela não tem conexão com Barrett.
+
+160
+00:06:08,978 --> 00:06:10,476
+<i>Não temos como provar</i>
+
+161
+00:06:10,544 --> 00:06:12,111
+que ela montou Lasalle.
+
+162
+00:06:12,179 --> 00:06:14,447
+Bem, isso simplesmente não é possível.
+
+163
+00:06:14,514 --> 00:06:16,949
+Ela levou uma bala para Eddie.
+
+164
+00:06:16,977 --> 00:06:18,337
+OK? Tem que haver algo.
+
+165
+00:06:18,361 --> 00:06:19,652
+Brad Collins disse
+
+166
+00:06:19,720 --> 00:06:22,188
+que Eddie recebeu uma ligação
+
+167
+00:06:22,255 --> 00:06:24,824
+deixando ele saber isso
+Sue-Ann foi baleada.
+
+168
+00:06:24,891 --> 00:06:26,859
+Onde estamos no celular de Barrett?
+
+169
+00:06:26,927 --> 00:06:29,128
+É um telefone gravador
+pré-pago. Alega que ele perdeu
+
+170
+00:06:29,196 --> 00:06:31,316
+em algum lugar do hospital.
+Não há como rastreá-lo.
+
+171
+00:06:31,340 --> 00:06:33,499
+Barrett não é mais esperto
+do que nós. Vamos!
+
+172
+00:06:33,567 --> 00:06:35,635
+SEBASTIAN: <i> Orgulho, não
+quero perguntar isso</i>,
+
+173
+00:06:35,702 --> 00:06:37,169
+mas eu sinto que preciso, ok?
+
+174
+00:06:37,237 --> 00:06:39,477
+E não é porque eu acho que
+Barrett é um cara legal,
+
+175
+00:06:39,544 --> 00:06:41,445
+porque obviamente ele é um
+idiota do tráfico de drogas,
+
+176
+00:06:41,513 --> 00:06:43,142
+<i>mas uh</i>
+
+177
+00:06:43,210 --> 00:06:47,013
+é possível que ele não
+tenha matado Lasalle?
+
+178
+00:06:47,080 --> 00:06:48,648
+Não.
+
+179
+00:06:48,715 --> 00:06:51,617
+OK. Sim. Aí está.
+
+180
+00:06:54,554 --> 00:06:56,956
+Ele é mais do que apenas um traficante de drogas.
+
+181
+00:06:58,492 --> 00:07:02,895
+Pessoas que trabalham para ele,
+eles agem de maneira diferente
+
+182
+00:07:02,963 --> 00:07:04,330
+do que seus membros típicos de gangue.
+
+183
+00:07:06,066 --> 00:07:08,000
+As pessoas estão dispostas a morrer por ele.
+
+184
+00:07:08,068 --> 00:07:09,548
+Há algo mais acontecendo aqui.
+
+185
+00:07:09,576 --> 00:07:10,936
+Se não descobrirmos o que é,
+
+186
+00:07:10,977 --> 00:07:12,571
+ele pode se safar com isso.
+
+187
+00:07:24,117 --> 00:07:26,118
+(BATA NA PORTA)
+
+188
+00:07:40,467 --> 00:07:41,826
+- Ei.
+- Você não desceu
+
+189
+00:07:41,851 --> 00:07:43,159
+para a cozinha hoje à noite.
+
+190
+00:07:43,203 --> 00:07:45,204
+- Eu não.
+- (CHUCKLES)
+
+191
+00:07:45,272 --> 00:07:48,874
+Eh, com base no que está acontecendo, pensei
+
+192
+00:07:48,942 --> 00:07:51,277
+- você pode esquecer de comer.
+<i> - Bem, </i>
+
+193
+00:07:51,344 --> 00:07:54,146
+Eu mentiria para você, exceto que estou muito cansada.
+
+194
+00:07:54,214 --> 00:07:56,916
+- Está indo tão bem, né?
+<i> - Não é tão bom. </i>
+
+195
+00:07:56,983 --> 00:08:00,553
+Eu tenho os melhores
+investigadores do sudeste,
+
+196
+00:08:00,620 --> 00:08:04,657
+e apesar de semanas de trabalho,
+não encontramos nada.
+
+197
+00:08:04,725 --> 00:08:07,126
+Absolutamente nada
+
+198
+00:08:07,194 --> 00:08:10,296
+isso liga Eddie Barrett ao
+assassinato de Christopher.
+
+199
+00:08:10,363 --> 00:08:11,764
+Bem, ele é esperto.
+
+200
+00:08:11,832 --> 00:08:13,733
+- Assim parece.
+- Uma das coisas
+
+201
+00:08:13,800 --> 00:08:15,280
+Eu mais admiro em você, irmão mais velho,
+
+202
+00:08:15,335 --> 00:08:17,570
+é que você não tem medo de zag
+
+203
+00:08:17,637 --> 00:08:20,106
+se zigging não estiver funcionando.
+
+204
+00:08:20,173 --> 00:08:21,574
+Você vai descobrir algo.
+
+205
+00:08:21,641 --> 00:08:24,243
+Agora, minha mãe sempre
+dizia que feijão preto
+
+206
+00:08:24,311 --> 00:08:25,845
+foram a resposta para tudo.
+
+207
+00:08:25,912 --> 00:08:28,214
+Por que você não tenta
+alguns, veja se é verdade.
+
+208
+00:08:29,483 --> 00:08:31,183
+Obrigado Jimmy.
+
+209
+00:08:31,251 --> 00:08:33,018
+Você é bem vindo.
+
+210
+00:08:33,086 --> 00:08:35,488
+- Te verei de manhã.
+- Sim.
+
+211
+00:08:38,425 --> 00:08:39,658
+(PORTA ABRE)
+
+212
+00:08:43,864 --> 00:08:45,331
+Mmm, mmm, mmm. Obrigado.
+
+213
+00:08:45,398 --> 00:08:47,466
+- Sim.
+- SEBASTIAN: <i> Ei. </i>
+
+214
+00:08:47,494 --> 00:08:49,054
+O que se passa? Viemos o mais rápido que pudemos.
+
+215
+00:08:49,078 --> 00:08:50,536
+PATTON: Está tudo bem? Ooh.
+
+216
+00:08:50,604 --> 00:08:52,505
+Eu peguei quiche no Bywater.
+
+217
+00:08:52,572 --> 00:08:53,839
+- Tudo certo.
+- Sim.
+
+218
+00:08:53,907 --> 00:08:55,007
+<i>É cedo,</i>
+
+219
+00:08:55,075 --> 00:08:58,210
+e eu sabia que vocês
+entrariam com fome.
+
+220
+00:08:58,278 --> 00:08:59,998
+HANNAH: <i> Bem, ok,
+agora que estamos todos aqui, </i>
+
+221
+00:09:00,022 --> 00:09:01,347
+o que aconteceu?
+
+222
+00:09:01,414 --> 00:09:06,352
+Fiquei acordado a maior parte da
+noite trabalhando em pegar Eddie,
+
+223
+00:09:06,419 --> 00:09:08,521
+e no chuveiro esta manhã,
+
+224
+00:09:08,588 --> 00:09:11,724
+Percebi que estamos perdendo o caminho.
+
+225
+00:09:11,792 --> 00:09:12,925
+Ei, não diga isso.
+
+226
+00:09:12,993 --> 00:09:14,703
+Nós vamos encontrar uma
+pausa no caso em breve.
+
+227
+00:09:14,727 --> 00:09:16,538
+- HANNAH: <i> Sim. </i>
+- Nós não estamos desistindo, Orgulho.
+
+228
+00:09:16,563 --> 00:09:18,497
+Não, não, eu também não vou
+desistir, mas se vocês quatro
+
+229
+00:09:18,565 --> 00:09:21,634
+não encontrei nada,
+não há nada a ser encontrado.
+
+230
+00:09:21,701 --> 00:09:24,370
+Você tem outra ideia, não é?
+
+231
+00:09:24,437 --> 00:09:26,405
+Temos estado tão focados
+
+232
+00:09:26,473 --> 00:09:29,975
+em colocar Barrett na prisão pelo
+assassinato de Christopher ...
+
+233
+00:09:31,478 --> 00:09:34,180
+A verdade é que não podemos.
+
+234
+00:09:34,247 --> 00:09:35,381
+Agora não.
+
+235
+00:09:35,448 --> 00:09:37,650
+Tão...
+
+236
+00:09:37,717 --> 00:09:39,518
+Então nós o trazemos para outra coisa.
+
+237
+00:09:39,586 --> 00:09:41,344
+- Sim.
+- Hmm. O assassinato de Cade ficou frio
+
+238
+00:09:41,388 --> 00:09:43,388
+quando o cara que confessou
+isso cometeu suicídio.
+
+239
+00:09:43,412 --> 00:09:47,059
+Direita. Mas tudo origina de
+volta à operação de drogas
+
+240
+00:09:47,127 --> 00:09:49,995
+que Eddie estava claramente
+rodando no Mobile.
+
+241
+00:09:50,063 --> 00:09:53,666
+OK. Tudo certo. Então, o que vamos
+atrás dele por traficar drogas?
+
+242
+00:09:53,733 --> 00:09:56,202
+Não, não apenas para lidar. Precisamos
+provar que ele era o chefe.
+
+243
+00:09:56,269 --> 00:09:58,904
+Porque se pudermos,
+qualquer crime associado
+
+244
+00:09:58,972 --> 00:10:02,274
+com o anel de drogas, podemos amarrar a Eddie.
+
+245
+00:10:02,342 --> 00:10:03,375
+Nós RICO sua bunda.
+
+246
+00:10:03,443 --> 00:10:05,211
+- Exatamente.
+<i> - Barrett está gastando </i>
+
+247
+00:10:05,278 --> 00:10:07,379
+muito tempo e energia
+encobrindo esses assassinatos.
+
+248
+00:10:07,447 --> 00:10:09,782
+Espero que ele não tenha se
+concentrado em muito mais.
+
+249
+00:10:09,850 --> 00:10:11,584
+SEBASTIAN: <i> Eddie tem acesso a fundos. </i>
+
+250
+00:10:11,651 --> 00:10:12,729
+Isso é certo, certo?
+
+251
+00:10:12,753 --> 00:10:14,673
+Quero dizer, ele tem um advogado
+de mil dólares por hora
+
+252
+00:10:14,740 --> 00:10:16,340
+e ele está pagando
+falsas testemunhas.
+
+253
+00:10:16,364 --> 00:10:18,123
+Patton, você precisa encontrar o dinheiro.
+
+254
+00:10:18,191 --> 00:10:20,111
+Comece com o advogado,
+veja como ele está sendo pago,
+
+255
+00:10:20,135 --> 00:10:21,269
+quem são seus outros clientes.
+
+256
+00:10:21,336 --> 00:10:22,528
+Ok, eu estou nisso.
+
+257
+00:10:22,595 --> 00:10:24,063
+Gregorio e Hannah,
+
+258
+00:10:24,130 --> 00:10:25,698
+Barrett não se tornou apenas
+
+259
+00:10:25,765 --> 00:10:27,433
+um chefão da noite para o dia.
+
+260
+00:10:27,501 --> 00:10:29,178
+Ele teve que começar em algum lugar.
+Veja se você pode
+
+261
+00:10:29,202 --> 00:10:30,469
+descobrir onde e com quem.
+
+262
+00:10:30,537 --> 00:10:32,537
+Bem, quando eu estava olhando
+para o fundo de Barrett,
+
+263
+00:10:32,569 --> 00:10:34,049
+Encontrei o nome de seu colega de cela
+
+264
+00:10:34,073 --> 00:10:35,708
+na Penitenciária Hollier.
+
+265
+00:10:35,775 --> 00:10:39,044
+Atingiu o cara por dois anos.
+O cara ainda está dentro.
+
+266
+00:10:39,112 --> 00:10:40,713
+- Vá vê-lo.
+- Está bem, está bem.
+
+267
+00:10:40,780 --> 00:10:43,482
+Eu também estou ... aqui.
+
+268
+00:10:43,550 --> 00:10:47,920
+Sim. Você e eu, vamos
+assistir Eddie.
+
+269
+00:10:47,988 --> 00:10:49,388
+(CHUCKLES) Quão difícil isso pode ser?
+
+270
+00:10:49,456 --> 00:10:51,257
+O cara ainda está na prisão, certo?
+
+271
+00:10:51,324 --> 00:10:54,460
+Você pode explicar no caminho. Adoro.
+
+272
+00:10:54,527 --> 00:10:56,562
+IZZO: <i> O juiz está prestes a se reunir. </i>
+
+273
+00:10:56,630 --> 00:10:58,430
+Não parece bom para nós.
+
+274
+00:10:58,498 --> 00:11:01,300
+Por favor, diga-me que você
+minou o álibi de Barrett.
+
+275
+00:11:01,368 --> 00:11:02,835
+Não. É sólido como uma rocha.
+
+276
+00:11:02,903 --> 00:11:04,403
+Eu não vou conseguir segurar Eddie,
+
+277
+00:11:04,471 --> 00:11:05,504
+muito menos condená-lo.
+
+278
+00:11:05,572 --> 00:11:07,006
+Nós não queremos que você o segure.
+
+279
+00:11:07,073 --> 00:11:08,540
+Queremos que você o deixe ir.
+
+280
+00:11:09,576 --> 00:11:13,078
+- Você quer que eu retire as acusações?
+- Sim.
+
+281
+00:11:13,146 --> 00:11:15,180
+Eddie provou que não podemos
+conseguir nada com ele
+
+282
+00:11:15,248 --> 00:11:17,816
+enquanto ele estiver
+trancado, envie-o ao mundo.
+
+283
+00:11:17,884 --> 00:11:19,451
+Deixe-o pensar que ele ganhou.
+
+284
+00:11:19,519 --> 00:11:21,079
+Sim, porque ele cometerá um erro.
+
+285
+00:11:21,103 --> 00:11:23,205
+E nós estaremos lá para vê-lo.
+
+286
+00:11:23,829 --> 00:11:26,529
+<i>♪ ♪</i>
+
+287
+00:11:27,753 --> 00:11:30,653
+<i>♪ ♪</i>
+
+288
+00:11:33,357 --> 00:11:35,958
+Faz dez anos desde
+que recebi visitas,
+
+289
+00:11:36,026 --> 00:11:38,995
+mas é tradicional trazer
+um presente. (CHUCKLES)
+
+290
+00:11:39,062 --> 00:11:40,696
+Só precisamos que você
+responda algumas perguntas
+
+291
+00:11:40,764 --> 00:11:44,100
+- sobre Eddie Barrett.
+- Pastelaria? Barra de chocolate?
+
+292
+00:11:44,168 --> 00:11:46,102
+Talvez um depósito na minha
+conta de comissário?
+
+293
+00:11:46,170 --> 00:11:47,937
+Ele foi seu colega de celular por dois anos.
+
+294
+00:11:48,005 --> 00:11:49,505
+Mas você não trouxe nada.
+
+295
+00:11:49,573 --> 00:11:51,107
+(CHUCKLING) O que é imprudente.
+
+296
+00:11:51,175 --> 00:11:52,875
+Sid, foco. Eddie Barrett.
+
+297
+00:11:52,943 --> 00:11:55,011
+O que é que eu ganho com isso?
+
+298
+00:11:55,078 --> 00:11:56,779
+Hum, faria você se sentir bem.
+
+299
+00:11:56,847 --> 00:11:57,914
+Você fez a coisa certa.
+
+300
+00:11:57,982 --> 00:11:59,759
+- (CHUCKLES)
+- O diretor diz que você ficou de joelhos.
+
+301
+00:11:59,783 --> 00:12:01,343
+Ele está disposto a mudar seus detalhes de trabalho
+
+302
+00:12:01,385 --> 00:12:02,485
+de roupa para biblioteca.
+
+303
+00:12:02,553 --> 00:12:04,153
+Bem, agora, isso é um começo.
+
+304
+00:12:04,221 --> 00:12:05,888
+É uma oferta única com um limite de tempo.
+
+305
+00:12:05,956 --> 00:12:09,125
+Então, você precisa nos dizer como
+Eddie Barrett passou seu tempo
+
+306
+00:12:09,193 --> 00:12:11,227
+- quando ele estava dentro.
+Oh, isso é fácil.
+
+307
+00:12:11,295 --> 00:12:14,363
+Ele começou um clube de glee na prisão.
+Quase chegou às finais do estado.
+
+308
+00:12:14,431 --> 00:12:16,365
+- Ok, nós estamos fora daqui.
+- Um bom.
+
+309
+00:12:16,433 --> 00:12:18,000
+Ah, espere, espere.
+
+310
+00:12:18,068 --> 00:12:19,869
+Nossa, eu estou apenas brincando.
+
+311
+00:12:19,937 --> 00:12:22,872
+Sid, fique sério. Em que ele estava?
+
+312
+00:12:22,940 --> 00:12:25,208
+(CHUCKLES)
+
+313
+00:12:25,275 --> 00:12:28,411
+Quando Eddie chegou aqui,
+
+314
+00:12:28,478 --> 00:12:30,479
+ele estava escondido nas sombras.
+
+315
+00:12:30,547 --> 00:12:32,315
+Afastando-se dos predadores.
+
+316
+00:12:32,382 --> 00:12:34,684
+Sentindo pena de si mesmo por
+ter sido mandado embora.
+
+317
+00:12:34,751 --> 00:12:36,419
+E depois?
+
+318
+00:12:36,486 --> 00:12:38,421
+Ele é esperto.
+
+319
+00:12:38,488 --> 00:12:39,755
+Adaptável.
+
+320
+00:12:39,823 --> 00:12:41,691
+Ele assistiu. Ele ouviu.
+
+321
+00:12:41,758 --> 00:12:44,060
+Ele descobriu como o local funcionava.
+
+322
+00:12:44,127 --> 00:12:45,528
+Então ele assumiu.
+
+323
+00:12:45,596 --> 00:12:46,662
+Assumiu, como?
+
+324
+00:12:46,730 --> 00:12:48,831
+Bem, ele sabia como ajudar
+
+325
+00:12:48,899 --> 00:12:50,433
+as pessoas certas para ajudá-lo.
+
+326
+00:12:50,500 --> 00:12:53,336
+Quando se formaram, houve um vácuo.
+
+327
+00:12:53,403 --> 00:12:55,838
+Eddie iria preenchê-lo.
+Tornou-se o homem para quem ir.
+
+328
+00:12:55,906 --> 00:12:57,440
+Para drogas?
+
+329
+00:12:57,507 --> 00:12:59,609
+Bem, muitos presos podem
+ligar você com drogas,
+
+330
+00:12:59,676 --> 00:13:02,178
+mas Eddie tinha uma conexão
+especial para as coisas boas.
+
+331
+00:13:02,246 --> 00:13:04,447
+- Qual é a coisa boa?
+Opióides.
+
+332
+00:13:04,514 --> 00:13:06,234
+(Risos) Agora, eu não
+participo pessoalmente,
+
+333
+00:13:06,258 --> 00:13:09,452
+mas ... é popular entre
+a multidão mais jovem.
+
+334
+00:13:09,519 --> 00:13:11,687
+- Como ele conseguiu os opióides?
+- Ele não precisava.
+
+335
+00:13:11,755 --> 00:13:13,089
+Eles já estavam aqui.
+
+336
+00:13:13,156 --> 00:13:15,892
+Assistente de médico na enfermaria.
+
+337
+00:13:15,959 --> 00:13:20,196
+Ele forneceu a Eddie
+o que quisesse.
+
+338
+00:13:20,264 --> 00:13:21,864
+Codeína, hidrocodona.
+
+339
+00:13:21,932 --> 00:13:24,267
+Fentanil?
+- Oh sim.
+
+340
+00:13:24,334 --> 00:13:27,536
+Isso foi um grande negócio
+até Eddie ser libertado.
+
+341
+00:13:27,604 --> 00:13:28,604
+(INALAS)
+
+342
+00:13:28,639 --> 00:13:30,973
+A coisa toda secou.
+
+343
+00:13:31,041 --> 00:13:32,975
+Ninguém assumiu?
+
+344
+00:13:34,444 --> 00:13:39,315
+Quando Eddie foi embora ... esquerda também.
+
+345
+00:13:39,383 --> 00:13:41,651
+ORGULHO: <i> Você tem um nome
+para o assistente do médico</i>?
+
+346
+00:13:41,678 --> 00:13:42,918
+GREGORIO: Sim, Lewis Franklin.
+
+347
+00:13:42,942 --> 00:13:45,421
+<i>O diretor de pessoal está
+puxando seu arquivo para nós.</i>
+
+348
+00:13:45,489 --> 00:13:46,769
+Esta pode ser a pausa que precisamos.
+
+349
+00:13:46,823 --> 00:13:48,368
+HANNAH: <i> Sim, nós o avisaremos
+quando o localizarmos</i>.
+
+350
+00:13:48,392 --> 00:13:50,293
+Agora estamos indo para a
+prisão paroquial de Orleans
+
+351
+00:13:50,360 --> 00:13:51,394
+para conversar com Sue-Ann.
+
+352
+00:13:51,461 --> 00:13:52,695
+Mantemos você informado, está bem?
+
+353
+00:13:52,763 --> 00:13:56,098
+- GREGORIO: <i> Tchau, pessoal. </i>
+- Tchau tchau.
+
+354
+00:13:56,967 --> 00:14:00,703
+Tudo bem, placa KNX R47.
+
+355
+00:14:03,206 --> 00:14:06,008
+E esse é o quarto carro a chegar
+
+356
+00:14:06,076 --> 00:14:07,436
+nas últimas três horas para uma casa
+
+357
+00:14:07,464 --> 00:14:08,704
+nem sabíamos que Barrett tinha
+
+358
+00:14:08,728 --> 00:14:10,680
+na cidade. Como isso é possível?
+
+359
+00:14:10,747 --> 00:14:12,281
+Ele dirige um grande grupo de drogas.
+
+360
+00:14:12,349 --> 00:14:14,684
+Ele é paranóico. Ele é esperto.
+
+361
+00:14:14,751 --> 00:14:16,511
+Nada vai ficar em seu nome.
+
+362
+00:14:17,421 --> 00:14:18,487
+(CLIQUE NO CÂMERA DO CÂMERA)
+
+363
+00:14:18,555 --> 00:14:19,989
+(Exames)
+
+364
+00:14:20,057 --> 00:14:23,192
+<i>O assistente do médico parece
+ser uma liderança sólida.</i>
+
+365
+00:14:23,260 --> 00:14:24,927
+Sim, espero que sim.
+
+366
+00:14:24,995 --> 00:14:26,329
+Você sabe, antes, eu ...
+
+367
+00:14:26,396 --> 00:14:28,464
+Eu realmente não quis dizer isso
+Barrett pode ser inocente.
+
+368
+00:14:28,532 --> 00:14:31,931
+- Eu sei.
+- Eu apenas senti como ... uh ...
+
+369
+00:14:31,956 --> 00:14:33,827
+Você deve fazer as perguntas difíceis.
+
+370
+00:14:33,870 --> 00:14:35,696
+Certifique-se de cobrir
+todas as possibilidades.
+
+371
+00:14:35,721 --> 00:14:38,607
+- Sim algo assim.
+- Como qualquer bom investigador.
+
+372
+00:14:38,675 --> 00:14:40,443
+<i>Mesmo se eles</i>
+
+373
+00:14:40,510 --> 00:14:43,779
+estavam um pouco preocupados,
+poderia irritar o chefe deles.
+
+374
+00:14:45,115 --> 00:14:46,515
+Exatamente assim.
+
+375
+00:14:49,119 --> 00:14:51,487
+- (apitos de telefone)
+- OK.
+
+376
+00:14:51,555 --> 00:14:53,289
+Carro pertence a um contador
+
+377
+00:14:53,357 --> 00:14:57,226
+com uma grande empresa no centro.
+
+378
+00:14:57,294 --> 00:15:00,730
+OK. Até agora, então, temos dois advogados,
+
+379
+00:15:00,797 --> 00:15:03,132
+um banqueiro e um contador.
+
+380
+00:15:03,200 --> 00:15:05,668
+Barrett apenas certificando-se
+de que os livros estão em ordem?
+
+381
+00:15:05,736 --> 00:15:07,370
+Não precisa fazer sentido.
+
+382
+00:15:07,437 --> 00:15:09,805
+Nós apenas precisamos
+seguir as migalhas de pão.
+
+383
+00:15:09,873 --> 00:15:12,174
+Até que eles nos levem
+ao forno na floresta.
+
+384
+00:15:12,242 --> 00:15:16,045
+(CHUCKLES) Espero que não. Esperançosamente,
+
+385
+00:15:16,113 --> 00:15:18,948
+tudo isso apenas nos ajuda a colocar
+Barrett afastado para sempre.
+
+386
+00:15:21,785 --> 00:15:25,421
+Sinto falta dele. Lasalle, quero dizer.
+
+387
+00:15:28,959 --> 00:15:31,160
+Sim eu também.
+
+388
+00:15:31,228 --> 00:15:33,496
+- _
+- <i> (BLOQUEIO DE BLOQUEIO, CLIQUES DE TRAVA) </i>
+
+389
+00:15:33,563 --> 00:15:35,710
+Ok, deixe-me falar
+tudo, certo?
+
+390
+00:15:36,235 --> 00:15:37,623
+GREGORIO: <i> Olá. </i>
+
+391
+00:15:37,666 --> 00:15:39,702
+CAMPBELL: <i> Vou poupar
+muito tempo a vocês dois</i>.
+
+392
+00:15:39,770 --> 00:15:43,105
+Meu cliente não tem nada a
+dizer sobre Eddie Barrett.
+
+393
+00:15:43,173 --> 00:15:44,373
+Desde quando ela é sua cliente?
+
+394
+00:15:44,408 --> 00:15:45,608
+Desde dois dias atrás.
+
+395
+00:15:45,675 --> 00:15:47,076
+Ela sentiu que o defensor público
+
+396
+00:15:47,144 --> 00:15:48,911
+não tinha seus melhores
+interesses no coração.
+
+397
+00:15:48,979 --> 00:15:50,979
+- E você faz?
+- Bem, eu sei que ela não quer ser
+
+398
+00:15:51,003 --> 00:15:52,615
+ferrovia por agentes federais superzelosos
+
+399
+00:15:52,682 --> 00:15:53,783
+atirando em Eddie Barrett.
+
+400
+00:15:53,851 --> 00:15:55,294
+Bem, isso parece o
+melhor para Eddie,
+
+401
+00:15:55,318 --> 00:15:56,638
+mas o que é melhor para você, Sue-Ann?
+
+402
+00:15:56,662 --> 00:15:58,220
+Por favor, não fale com meu cliente.
+
+403
+00:15:58,288 --> 00:16:00,689
+Porque nós não pensamos
+que isso faz sentido
+
+404
+00:16:00,757 --> 00:16:02,892
+para Sue-Ann passar dez
+anos em uma prisão federal
+
+405
+00:16:02,959 --> 00:16:04,360
+quando Eddie acabou de ser libertado.
+
+406
+00:16:04,428 --> 00:16:07,430
+- Sério? Uau, isso é bom.
+- HANNAH: <i> Sue-Ann, </i>
+
+407
+00:16:07,497 --> 00:16:09,098
+você puxou uma arma contra um agente federal.
+
+408
+00:16:09,166 --> 00:16:11,734
+Isso vai significar pelo menos
+alguns anos em uma prisão federal.
+
+409
+00:16:11,802 --> 00:16:13,682
+CAMPBELL: <i> Sue-Ann se sentiu
+ameaçada pelo agente Prid</i>e
+
+410
+00:16:13,706 --> 00:16:14,839
+<i>quando ele apareceu para prender</i>
+
+411
+00:16:14,907 --> 00:16:16,639
+Eddie Barrett sob acusações falsas.
+
+412
+00:16:16,706 --> 00:16:18,441
+<i>Ela estava sob a
+influência de medicação</i>
+
+413
+00:16:18,508 --> 00:16:19,708
+<i>dado a ela no hospital.</i>
+
+414
+00:16:19,776 --> 00:16:21,143
+Ela é inocente.
+
+415
+00:16:21,211 --> 00:16:23,479
+E eu gosto das nossas
+chances de tirá-la
+
+416
+00:16:23,547 --> 00:16:25,948
+- livre e claro.
+- HANNAH: <i> Talvez. </i>
+
+417
+00:16:26,016 --> 00:16:27,049
+Mas talvez não.
+
+418
+00:16:27,117 --> 00:16:28,918
+É pelo menos uma espera de seis
+meses antes de um julgamento.
+
+419
+00:16:28,985 --> 00:16:31,153
+E você, Sr. Campbell, você pode
+voltar para casa depois disso.
+
+420
+00:16:31,181 --> 00:16:32,581
+GREGORIO: <i> Se você coopera conosco, </i>
+
+421
+00:16:32,605 --> 00:16:34,557
+Sue-Ann, a AUSA irá
+comutar sua sentença,
+
+422
+00:16:34,624 --> 00:16:36,425
+e você sairá daqui com
+o tempo de serviço.
+
+423
+00:16:36,493 --> 00:16:37,927
+Eu não sei o que isso significa.
+
+424
+00:16:37,994 --> 00:16:40,729
+HANNAH: <i> Isso significa que você pode
+ir para casa, Sue-Ann, para sempre</i>.
+
+425
+00:16:40,797 --> 00:16:43,566
+Isso significa que eles querem
+que você mude sua história.
+
+426
+00:16:43,633 --> 00:16:44,934
+Isso significa que eles querem você
+
+427
+00:16:45,001 --> 00:16:47,636
+mentir para machucar Eddie.
+- Eu nunca poderia...
+
+428
+00:16:47,704 --> 00:16:49,264
+GREGORIO: <i> Ouça, conhecemos Eddie Barrett </i>
+
+429
+00:16:49,306 --> 00:16:50,906
+configurar Christopher
+Lasalle para ser morto,
+
+430
+00:16:50,974 --> 00:16:52,174
+e ele usou você para fazer isso.
+
+431
+00:16:52,242 --> 00:16:54,577
+Tudo o que precisamos é a verdade de você.
+
+432
+00:16:54,644 --> 00:16:56,679
+CAMPBELL: <i> Pare de falar
+diretamente com meu cliente</i>.
+
+433
+00:16:56,746 --> 00:16:58,080
+Você a está confundindo.
+
+434
+00:16:58,148 --> 00:16:59,482
+Eu não estou confuso.
+
+435
+00:16:59,549 --> 00:17:00,616
+Hmm.
+
+436
+00:17:00,684 --> 00:17:02,044
+Gostaria de falar em particular?
+
+437
+00:17:02,072 --> 00:17:03,232
+Eu posso tê-los esperando lá fora.
+
+438
+00:17:03,273 --> 00:17:04,303
+Não.
+
+439
+00:17:04,321 --> 00:17:05,354
+Olha, me desculpe.
+
+440
+00:17:05,422 --> 00:17:07,423
+Eu não posso te ajudar.
+
+441
+00:17:07,491 --> 00:17:09,592
+Eu não vi nada.
+Eu não sei de nada.
+
+442
+00:17:09,659 --> 00:17:11,327
+Acabei de levar um tiro.
+
+443
+00:17:11,394 --> 00:17:12,962
+Sue-Ann, você ouviu o que dissemos?
+
+444
+00:17:13,029 --> 00:17:14,597
+Eddie é livre.
+
+445
+00:17:14,664 --> 00:17:17,666
+Por que você se ateria a essa
+história e mentiria por ele?
+
+446
+00:17:17,734 --> 00:17:19,468
+E ... terminamos aqui.
+
+447
+00:17:19,536 --> 00:17:22,338
+E você acabou de assediar meu cliente.
+
+448
+00:17:22,405 --> 00:17:24,485
+E na próxima vez que eu receber
+uma ligação da prisão dizendo
+
+449
+00:17:24,509 --> 00:17:26,642
+você quer falar com ela, adivinhe.
+
+450
+00:17:26,710 --> 00:17:28,844
+Vou receber uma liminar.
+
+451
+00:17:28,912 --> 00:17:30,513
+Nós entendemos?
+
+452
+00:17:31,548 --> 00:17:33,149
+HANNAH: <i> Ok. </i>
+
+453
+00:17:33,216 --> 00:17:35,384
+Sim. Sim, nos vemos
+quando voltar.
+
+454
+00:17:35,452 --> 00:17:37,196
+Orgulho e Sebastian
+viraram a aposta
+
+455
+00:17:37,220 --> 00:17:38,454
+até a equipe de vigilância.
+
+456
+00:17:38,482 --> 00:17:39,802
+O orgulho deve ter ficado decepcionado
+
+457
+00:17:39,826 --> 00:17:41,290
+- Sue-Ann não mordeu.
+- Sim, bem,
+
+458
+00:17:41,358 --> 00:17:42,491
+não é muita surpresa,
+
+459
+00:17:42,559 --> 00:17:43,926
+dado que Campbell é seu advogado.
+
+460
+00:17:43,994 --> 00:17:45,838
+Ele a fez acreditar que
+tudo vai ficar bem.
+
+461
+00:17:45,862 --> 00:17:47,062
+Então, onde isso nos deixa?
+
+462
+00:17:47,130 --> 00:17:48,731
+Nas mãos capazes de Triple P.
+
+463
+00:17:48,798 --> 00:17:50,838
+Eu cavei na Lewis Franklin,
+assistente do médico
+
+464
+00:17:50,905 --> 00:17:52,585
+que forneceu a Barrett os
+medicamentos lá dentro.
+
+465
+00:17:52,609 --> 00:17:55,137
+Ele deve ter deixado o emprego
+logo após a libertação de Barrett.
+
+466
+00:17:55,205 --> 00:17:57,873
+E sob circunstâncias suspeitas.
+
+467
+00:17:57,941 --> 00:18:00,809
+Os investigadores da prisão estavam
+por toda parte. Até o prendeu.
+
+468
+00:18:00,877 --> 00:18:02,211
+- E sem cobranças?
+- Não.
+
+469
+00:18:02,279 --> 00:18:04,513
+E ele foi libertado. E adivinhe
+quem era seu advogado.
+
+470
+00:18:04,581 --> 00:18:06,048
+GREGORIO: <i> Ugh. </i>
+
+471
+00:18:06,116 --> 00:18:07,917
+Estou realmente começando a não gostar desse cara.
+
+472
+00:18:07,984 --> 00:18:10,152
+OK. Precisamos escolher
+Franklin para cima. Onde ele está?
+
+473
+00:18:10,220 --> 00:18:11,687
+Monroe, mas ele não vai falar.
+
+474
+00:18:11,755 --> 00:18:13,889
+- Por que não?
+- Ele foi assassinado esta manhã.
+
+475
+00:18:13,957 --> 00:18:16,258
+Um tiro na cabeça do lado de fora de sua casa.
+
+476
+00:18:16,326 --> 00:18:17,893
+Ligue para o Monroe PD.
+
+477
+00:18:17,961 --> 00:18:19,801
+- Precisamos levar o corpo para Wade.
+Eu estou nisso.
+
+478
+00:18:19,825 --> 00:18:23,461
+Eu vou ligar para o Orgulho. Eu vou informá-lo.
+
+479
+00:18:29,439 --> 00:18:31,840
+GREGORIO: <i> Olá. </i>
+
+480
+00:18:31,908 --> 00:18:36,679
+Tem quatro horas,
+provavelmente nojento.
+
+481
+00:18:37,747 --> 00:18:40,049
+Obrigado.
+
+482
+00:18:40,116 --> 00:18:41,750
+Você parece terrível.
+
+483
+00:18:41,818 --> 00:18:44,553
+Quero dizer isso da melhor maneira possível.
+
+484
+00:18:44,621 --> 00:18:46,522
+Mais uma vez obrigado.
+
+485
+00:18:46,590 --> 00:18:47,923
+Hum-hum.
+
+486
+00:18:47,991 --> 00:18:50,192
+Eu não vou mentir.
+
+487
+00:18:50,260 --> 00:18:53,762
+Eddie Barrett me faz sentir como
+se estivesse dois passos atrás.
+
+488
+00:18:53,830 --> 00:18:54,964
+Sim, bem ...
+
+489
+00:18:55,999 --> 00:18:57,700
+Ainda estamos tentando descobrir
+
+490
+00:18:57,767 --> 00:19:00,269
+do que esse cara é capaz, você sabe.
+
+491
+00:19:02,305 --> 00:19:04,940
+Maior caso da minha vida.
+
+492
+00:19:05,008 --> 00:19:07,209
+Sinto como se estivesse falhando.
+
+493
+00:19:09,112 --> 00:19:10,813
+Como se eu estivesse falhando com Chris.
+
+494
+00:19:10,880 --> 00:19:14,083
+Não. Você não está falhando.
+
+495
+00:19:14,150 --> 00:19:16,318
+Você apenas não conseguiu ainda.
+
+496
+00:19:16,386 --> 00:19:17,820
+OK.
+
+497
+00:19:17,887 --> 00:19:19,421
+Eu tentei melhorar o humor. Como eu fui?
+
+498
+00:19:19,489 --> 00:19:21,457
+- Agradeço o esforço.
+- Tudo certo.
+
+499
+00:19:24,394 --> 00:19:26,829
+Meu dinheiro está com você, Orgulho.
+
+500
+00:19:26,896 --> 00:19:29,698
+Sempre.
+
+501
+00:19:31,868 --> 00:19:33,469
+(TELEFONE TOCANDO)
+
+502
+00:19:33,536 --> 00:19:35,638
+(Suspiros)
+
+503
+00:19:35,705 --> 00:19:37,573
+Este é o orgulho.
+
+504
+00:19:40,310 --> 00:19:41,644
+Ele está onde?
+
+505
+00:19:42,646 --> 00:19:44,179
+Não não. Não.
+
+506
+00:19:44,247 --> 00:19:46,115
+Fique do lado de fora, mantenha
+os olhos nele. Estou à caminho.
+
+507
+00:19:46,182 --> 00:19:48,183
+O que é isso?
+
+508
+00:19:49,219 --> 00:19:51,754
+Barrett acabou de aparecer no meu bar.
+
+509
+00:19:53,356 --> 00:19:55,824
+(Música tocando pouco)
+
+510
+00:19:55,892 --> 00:19:57,426
+<i>Meu palpite é...</i>
+
+511
+00:19:57,494 --> 00:19:59,094
+as horas devem ser dolorosas.
+
+512
+00:19:59,162 --> 00:20:02,164
+(JIMMY CHUCKLES)
+
+513
+00:20:02,232 --> 00:20:05,801
+Ah, você se acostuma depois de um tempo.
+
+514
+00:20:05,869 --> 00:20:07,589
+Comece a dizer a si mesmo
+que falta as manhãs
+
+515
+00:20:07,613 --> 00:20:08,637
+- não é um problema?
+- Sim.
+
+516
+00:20:08,705 --> 00:20:10,639
+- Exatamente.
+- Mas vale a pena.
+
+517
+00:20:10,707 --> 00:20:13,042
+Porque seu trabalho é profundo.
+
+518
+00:20:13,109 --> 00:20:15,511
+Você vê as pessoas da maneira mais real.
+
+519
+00:20:15,578 --> 00:20:17,613
+Você quer dizer bêbado? (CHUCKLES)
+
+520
+00:20:17,681 --> 00:20:19,315
+Quero dizer, sem qualquer pretexto.
+
+521
+00:20:19,382 --> 00:20:21,350
+- Os mais felizes, os mais tristes ...
+<i> Hmm. </i>
+
+522
+00:20:21,418 --> 00:20:22,885
+... o que eles estão passando.
+
+523
+00:20:22,952 --> 00:20:24,219
+E eles querem falar com você.
+
+524
+00:20:24,287 --> 00:20:26,167
+Como um padre.
+- Nunca pensei nisso dessa forma.
+
+525
+00:20:26,191 --> 00:20:27,356
+(CHUCKLES)
+
+526
+00:20:27,424 --> 00:20:29,124
+Meu trabalho é parecido.
+
+527
+00:20:29,192 --> 00:20:30,626
+Oh sim? O que você faz?
+
+528
+00:20:30,694 --> 00:20:32,027
+ORGULHO: <i> Ele é um assassino, Jimmy. </i>
+
+529
+00:20:34,064 --> 00:20:35,197
+Dwayne.
+
+530
+00:20:35,265 --> 00:20:37,132
+EDDIE: Agente Especial Orgulho.
+
+531
+00:20:37,200 --> 00:20:38,967
+Prazer em vê-lo novamente.
+
+532
+00:20:39,969 --> 00:20:41,070
+Compre uma bebida para você?
+
+533
+00:20:41,137 --> 00:20:43,405
+- Quem é?
+Sinto muito, Jimmy.
+
+534
+00:20:43,473 --> 00:20:45,474
+Meu nome é Eddie Barrett.
+
+535
+00:20:45,542 --> 00:20:48,377
+Dwayne, me desculpe, eu não sabia.
+
+536
+00:20:48,405 --> 00:20:49,925
+O que diabos você está fazendo no meu bar?
+
+537
+00:20:49,949 --> 00:20:52,514
+Eu queria um pouco de exercício.
+
+538
+00:20:52,582 --> 00:20:54,216
+Além disso, aqueles policiais que estavam me observando
+
+539
+00:20:54,284 --> 00:20:56,218
+parecia um pouco impaciente.
+
+540
+00:20:57,754 --> 00:21:01,023
+- Você precisa sair agora.
+- Mantenha a calma.
+
+541
+00:21:01,091 --> 00:21:03,258
+Você não quer pôr as mãos em
+mim. É uma aparência ruim.
+
+542
+00:21:04,294 --> 00:21:06,328
+Deve ser bom trabalhar com a família.
+
+543
+00:21:07,664 --> 00:21:10,199
+Você não quer mexer comigo
+
+544
+00:21:10,266 --> 00:21:12,568
+ou qualquer um do meu povo.
+
+545
+00:21:12,635 --> 00:21:15,170
+Entendeu, Barrett?
+
+546
+00:21:15,238 --> 00:21:18,073
+Porque eu posso ir além das
+linhas tão fácil quanto você.
+
+547
+00:21:18,141 --> 00:21:20,209
+Mas o que isso provaria?
+
+548
+00:21:20,276 --> 00:21:22,344
+<i>Violência gera violência.</i>
+
+549
+00:21:22,412 --> 00:21:25,714
+Você já é um homem abatido.
+
+550
+00:21:25,782 --> 00:21:27,383
+- Por que arriscar mais alguém?
+Isso é uma ameaça?
+
+551
+00:21:27,450 --> 00:21:28,684
+<i>Suba as escadas.</i>
+
+552
+00:21:28,752 --> 00:21:31,954
+Descanse um pouco.
+
+553
+00:21:32,021 --> 00:21:34,757
+Nada de bom vem do caminho
+em que você está.
+
+554
+00:21:41,531 --> 00:21:42,698
+(BONE TELEFONE)
+
+555
+00:21:43,066 --> 00:21:44,199
+HOMEM: <i> Sim. </i>
+
+556
+00:21:44,267 --> 00:21:45,911
+Ele acabou de sair.
+
+557
+00:21:45,936 --> 00:21:46,959
+<i>Não.</i>
+
+558
+00:21:47,003 --> 00:21:49,705
+Ele fez você. Pegue outra equipe nele.
+
+559
+00:21:49,773 --> 00:21:51,774
+- Vou segui-lo por enquanto.
+- (apitos de telefone)
+
+560
+00:21:51,841 --> 00:21:53,942
+Dwayne, eu ...
+<i> Eu sei. Eu sei.
+
+561
+00:21:54,010 --> 00:21:56,245
+Apenas fique parado. Seja cuidadoso.
+
+562
+00:21:56,312 --> 00:21:59,314
+Eu tenho que ir.
+
+563
+00:22:19,803 --> 00:22:22,104
+Ele está indo para o bairro agora.
+
+564
+00:22:22,172 --> 00:22:23,505
+Em direção ao rio.
+
+565
+00:22:23,573 --> 00:22:25,607
+<i>Vou precisar de uma equipe de vigilância de quatro homens.</i>
+
+566
+00:22:25,675 --> 00:22:28,310
+Não, eu sou bom sozinho
+
+567
+00:22:28,378 --> 00:22:30,412
+<i>agora mesmo.</i>
+
+568
+00:22:30,480 --> 00:22:34,483
+Sim, diga aos caras para
+virem aqui em breve.
+
+569
+00:22:44,594 --> 00:22:45,794
+(PNEUS DOS PNEUS)
+
+570
+00:22:45,862 --> 00:22:47,396
+(CHURRASCO DE CARRO)
+
+571
+00:22:59,843 --> 00:23:02,478
+Droga.
+
+572
+00:23:02,545 --> 00:23:04,546
+Eu perdi ele.
+
+573
+00:23:04,570 --> 00:23:09,470
+<i>♪ ♪</i>
+
+574
+00:23:10,694 --> 00:23:13,794
+<i>♪ ♪</i>
+
+575
+00:23:14,694 --> 00:23:17,162
+HANNAH: Como um cara simplesmente
+desaparece na frente dos seus olhos?
+
+576
+00:23:17,230 --> 00:23:18,664
+Eu não sei.
+
+577
+00:23:18,731 --> 00:23:21,466
+Procuramos na área de cima para
+baixo, não conseguimos nada.
+
+578
+00:23:21,534 --> 00:23:23,568
+Patton instalou câmeras,
+mas parece que o Eddie
+
+579
+00:23:23,636 --> 00:23:25,337
+escolheu este local
+porque é uma zona morta.
+
+580
+00:23:25,405 --> 00:23:27,406
+Eu não estou surpreso.
+
+581
+00:23:27,473 --> 00:23:30,008
+O NOPD criou barreiras.
+Eles - eles lançam BOLOs,
+
+582
+00:23:30,076 --> 00:23:32,878
+mas não há sinal de Barrett.
+
+583
+00:23:32,945 --> 00:23:36,481
+Ele sabia que estava sendo
+vigiado o tempo todo.
+
+584
+00:23:37,483 --> 00:23:41,486
+Ele queria me mostrar que podia
+
+585
+00:23:41,554 --> 00:23:43,321
+ir e vir como ele quiser.
+
+586
+00:23:43,389 --> 00:23:44,389
+Mas por que?
+
+587
+00:23:44,457 --> 00:23:45,924
+Quero dizer, as acusações foram retiradas.
+
+588
+00:23:45,992 --> 00:23:48,326
+Desaparecendo assim,
+isso o faz parecer culpado.
+
+589
+00:23:48,394 --> 00:23:50,562
+Ele tem um plano aqui.
+
+590
+00:23:50,630 --> 00:23:52,530
+Nós apenas temos que descobrir o que.
+
+591
+00:23:58,237 --> 00:24:02,074
+A maioria das pessoas que estamos perseguindo,
+eles não querem ser pegos.
+
+592
+00:24:02,141 --> 00:24:06,011
+Mas Barrett,
+
+593
+00:24:06,079 --> 00:24:08,613
+<i>não é que ele não
+queira ser pego,</i>
+
+594
+00:24:08,681 --> 00:24:10,048
+<i>é como se ele pensasse que não podia.</i>
+
+595
+00:24:10,116 --> 00:24:14,953
+Como se ele fosse onisciente, onipotente.
+
+596
+00:24:15,021 --> 00:24:17,923
+Ele não tem medo de nós.
+
+597
+00:24:20,460 --> 00:24:23,595
+E até agora, não lhe demos
+muitas razões para estar.
+
+598
+00:24:26,699 --> 00:24:28,700
+Tente descansar um pouco.
+
+599
+00:24:29,969 --> 00:24:31,970
+Você vai precisar disso.
+
+600
+00:24:33,372 --> 00:24:35,040
+(CHIMES DE TELEFONE)
+
+601
+00:24:35,108 --> 00:24:37,242
+(Suspiros)
+
+602
+00:24:37,310 --> 00:24:38,910
+Loretta tem alguma coisa.
+
+603
+00:24:38,978 --> 00:24:40,979
+Eu irei vê-la.
+
+604
+00:24:48,187 --> 00:24:49,387
+HANNAH: <i> Ei. </i>
+
+605
+00:24:49,455 --> 00:24:51,323
+Milímetros.
+
+606
+00:24:51,390 --> 00:24:52,657
+O que é tudo isso?
+
+607
+00:24:52,725 --> 00:24:54,426
+<i>Transcrições do</i>
+
+608
+00:24:54,494 --> 00:24:56,328
+<i>julgamento que enviou Eddie para a prisão.</i>
+
+609
+00:24:56,395 --> 00:24:58,330
+<i>Tammy achou que isso poderia
+nos dar algumas dicas,</i>
+
+610
+00:24:58,397 --> 00:25:00,557
+<i> - padrão de comportamento. </i>
+- Ele foi embora por homicídio culposo?
+
+611
+00:25:00,581 --> 00:25:02,334
+Sim, ele suplicou por assassinato.
+
+612
+00:25:02,401 --> 00:25:04,469
+Havia evidências de que a vítima
+
+613
+00:25:04,537 --> 00:25:07,806
+abrigava rancor. Eu sei disso
+Coloquei kebabs aqui em algum lugar.
+
+614
+00:25:07,874 --> 00:25:09,074
+- Sobre o que ele estava bravo?
+<i> - Hein? </i>
+
+615
+00:25:09,108 --> 00:25:12,778
+A vítima era a
+vizinha do Eddie.
+
+616
+00:25:12,845 --> 00:25:15,447
+Comprei um caminhão usado
+dele que depois quebrou,
+
+617
+00:25:15,515 --> 00:25:17,415
+<i>então a vítima tentou
+recuperar o dinheiro,</i>
+
+618
+00:25:17,483 --> 00:25:18,683
+<i>e alguns dias depois,</i>
+
+619
+00:25:18,751 --> 00:25:20,752
+eles entraram em uma discussão
+sobre um cachorro latindo
+
+620
+00:25:20,820 --> 00:25:22,120
+e hilaridade se seguiu.
+
+621
+00:25:22,188 --> 00:25:23,622
+Ei. Eu conversei com um psicólogo
+
+622
+00:25:23,689 --> 00:25:25,129
+que dirigia o grupo quando Eddie estava lá dentro.
+
+623
+00:25:25,158 --> 00:25:28,160
+Ele disse que Eddie tinha problemas
+de confiança e não podia
+
+624
+00:25:28,227 --> 00:25:30,929
+- lidar com pessoas que o desafiaram.
+<i> - Ei. </i>
+
+625
+00:25:30,997 --> 00:25:33,031
+Essa é a minha comida.
+
+626
+00:25:33,099 --> 00:25:34,967
+Sim, jantamos ontem à noite.
+
+627
+00:25:35,034 --> 00:25:36,797
+Sim, e então eu
+trouxe esta manhã.
+
+628
+00:25:36,821 --> 00:25:37,861
+Obrigado. Está delicioso.
+
+629
+00:25:37,885 --> 00:25:39,972
+HANNAH: <i> Você aprendeu mais
+alguma coisa sobre Eddie</i>?
+
+630
+00:25:40,039 --> 00:25:41,917
+GREGORIO: Sim. Seus discos
+juvie foram selados</i>,
+
+631
+00:25:41,941 --> 00:25:43,308
+<i>mas eu encontrei uma assistente social</i>
+
+632
+00:25:43,376 --> 00:25:45,177
+que me disse que os pais
+de Eddie o abandonaram.
+
+633
+00:25:45,244 --> 00:25:46,511
+Confie em questões, verifique.
+
+634
+00:25:46,579 --> 00:25:48,713
+Ele acabou em uma casa de grupo,
+ficou longe de problemas,
+
+635
+00:25:48,781 --> 00:25:50,715
+mas foi alvo de bullying
+pelos meninos mais velhos.
+
+636
+00:25:50,783 --> 00:25:52,784
+Não gosta de desafios, confira.
+
+637
+00:25:52,852 --> 00:25:55,133
+Isso é até que a casa do grupo
+pegou fogo, dois meninos morreram.
+
+638
+00:25:55,188 --> 00:25:57,622
+Eddie foi gravemente queimado,
+passou vários meses no hospital.
+
+639
+00:25:57,690 --> 00:25:59,691
+Alguém suspeitou que ele
+tivesse começado o incêndio?
+
+640
+00:25:59,759 --> 00:26:01,026
+Eu sei que sim.
+
+641
+00:26:01,093 --> 00:26:03,995
+Isso é nojento, você sabe disso, certo?
+
+642
+00:26:04,063 --> 00:26:05,130
+O que? É a minha comida.
+
+643
+00:26:05,162 --> 00:26:07,242
+- Esse é o meu garfo.
+- HANNAH: <i> Barrett não vai gostar </i>
+
+644
+00:26:07,266 --> 00:26:08,967
+que o orgulho não
+desistirá de prendê-lo.
+
+645
+00:26:09,035 --> 00:26:11,203
+Ele vai gostar ainda menos
+quando Pride finalmente gostar.
+
+646
+00:26:14,307 --> 00:26:15,740
+Ei.
+
+647
+00:26:15,808 --> 00:26:17,876
+Lewis Franklin, assistente médico
+
+648
+00:26:17,944 --> 00:26:20,145
+que estava fornecendo
+drogas a Eddie na prisão.
+
+649
+00:26:20,213 --> 00:26:21,646
+Encontrou algo na autópsia?
+
+650
+00:26:21,714 --> 00:26:23,915
+Diferente de causa de morte? Não.
+
+651
+00:26:23,983 --> 00:26:26,251
+Tiro de bala na
+cabeça de perto.
+
+652
+00:26:26,319 --> 00:26:27,919
+Tudo isso sem faculdade de medicina.
+
+653
+00:26:27,987 --> 00:26:29,588
+Não foi por isso que estendi a mão.
+
+654
+00:26:29,655 --> 00:26:32,257
+Esse sujeito entrou hoje.
+
+655
+00:26:35,394 --> 00:26:37,362
+Brad Collins.
+
+656
+00:26:37,430 --> 00:26:40,365
+A testemunha álibi de Eddie.
+O que aconteceu com ele?
+
+657
+00:26:40,433 --> 00:26:42,234
+A guarda costeira encontrou o barco à deriva.
+
+658
+00:26:42,301 --> 00:26:44,102
+Ele estava lá dentro, morto.
+
+659
+00:26:44,170 --> 00:26:46,037
+Suspeita de envenenamento por monóxido de carbono.
+
+660
+00:26:46,105 --> 00:26:47,906
+Eu não estou comprando essa história.
+
+661
+00:26:47,974 --> 00:26:50,242
+Nós o entrevistamos,
+
+662
+00:26:50,309 --> 00:26:53,211
+então agora seu álibi pode
+ser colocado em evidência.
+
+663
+00:26:53,279 --> 00:26:55,347
+Sem chance dele se retratar.
+
+664
+00:26:55,414 --> 00:26:56,948
+Hora da morte?
+
+665
+00:26:57,016 --> 00:26:58,216
+<i>Ontem,</i>
+
+666
+00:26:58,284 --> 00:27:00,118
+entre o meio dia e as 3:00.
+
+667
+00:27:00,186 --> 00:27:02,420
+Barrett estava sob vigilância.
+
+668
+00:27:02,488 --> 00:27:06,691
+Então ele não o matou.
+
+669
+00:27:06,759 --> 00:27:09,427
+O que você pode me dizer sobre como ele morreu?
+
+670
+00:27:09,495 --> 00:27:11,062
+Asfixiado.
+
+671
+00:27:11,130 --> 00:27:13,732
+A coisa é, o sangue de pessoas que morrem
+
+672
+00:27:13,799 --> 00:27:16,301
+envenenamento por monóxido de
+carbono é vermelho cereja;
+
+673
+00:27:16,369 --> 00:27:17,903
+- o dele não era.
+- OK.
+
+674
+00:27:17,970 --> 00:27:19,570
+Também há sinais de trauma contuso
+
+675
+00:27:19,594 --> 00:27:20,805
+na parte de trás da cabeça.
+
+676
+00:27:20,873 --> 00:27:24,209
+Golpe cuidadosamente projetado para nocauteá-lo
+
+677
+00:27:24,277 --> 00:27:26,878
+sem quebrar a pele,
+e não há machucados.
+
+678
+00:27:26,946 --> 00:27:28,880
+O que significa que ele morreu
+rapidamente depois de ser atingido.
+
+679
+00:27:28,948 --> 00:27:30,782
+Dois a cinco minutos.
+
+680
+00:27:30,850 --> 00:27:32,384
+- Ele foi sufocado.
+<i> - Mais do que provável. </i>
+
+681
+00:27:32,451 --> 00:27:33,818
+Com o que?
+
+682
+00:27:33,886 --> 00:27:37,155
+Eu ainda não sei. A evidência
+está a caminho do barco.
+
+683
+00:27:37,223 --> 00:27:38,556
+Tudo certo. Obrigado, Loretta.
+
+684
+00:27:38,624 --> 00:27:41,059
+Eu poderia usar a ajuda
+de Sebastian na análise
+
+685
+00:27:41,127 --> 00:27:42,560
+em uma potencial arma do crime.
+
+686
+00:27:42,628 --> 00:27:47,399
+Sim, eu irei mandá-lo assim que
+ele fizer uma coisa por mim.
+
+687
+00:27:55,174 --> 00:27:58,443
+Eddie Barrett escapa de uma acusação de assassinato,
+
+688
+00:27:58,511 --> 00:28:01,680
+mas ele não pula a cidade,
+ele amarra pontas soltas.
+
+689
+00:28:01,747 --> 00:28:04,115
+Brad Collins, sua testemunha
+álibi, e Lewis Franklin,
+
+690
+00:28:04,183 --> 00:28:06,184
+aquele que pode ligá-lo
+à operação de drogas.
+
+691
+00:28:06,252 --> 00:28:08,687
+Ele quer evitar voltar para a
+prisão, mesmo que isso signifique
+
+692
+00:28:08,754 --> 00:28:10,622
+assassinar alguém que
+poderia afastá-lo.
+
+693
+00:28:10,690 --> 00:28:13,525
+Mas resta uma ameaça óbvia.
+
+694
+00:28:13,592 --> 00:28:15,293
+GREGORIO: Sue-Ann Hughes.
+
+695
+00:28:15,361 --> 00:28:16,921
+HANNAH: <i> Ela tem sido muito leal até agora, </i>
+
+696
+00:28:16,945 --> 00:28:18,697
+incluindo deixar Eddie atirar nela
+
+697
+00:28:18,764 --> 00:28:20,724
+para criar negação plausível
+no assassinato de Chris.
+
+698
+00:28:20,748 --> 00:28:22,534
+Não tenho tanta certeza de que ela deixou.
+
+699
+00:28:22,601 --> 00:28:23,702
+O que isso significa?
+
+700
+00:28:23,770 --> 00:28:26,114
+Significa que Pride pensa que Sue-Ann
+nunca foi feita para sobreviver.
+
+701
+00:28:26,138 --> 00:28:27,238
+É apenas uma teoria.
+
+702
+00:28:27,306 --> 00:28:29,774
+Mas como Eddie é tão bom
+em se livrar das pessoas
+
+703
+00:28:29,842 --> 00:28:31,943
+que ele não precisa mais ...
+
+704
+00:28:32,011 --> 00:28:33,478
+Por que deixar Sue-Ann sobreviver?
+
+705
+00:28:33,546 --> 00:28:36,781
+Assumimos que ela configurou Christopher
+
+706
+00:28:36,849 --> 00:28:39,484
+e levou uma bala para
+se vender como vítima.
+
+707
+00:28:39,552 --> 00:28:41,553
+Certo, mas eu criei uma
+simulação do tiroteio
+
+708
+00:28:41,620 --> 00:28:42,821
+com base em evidências forenses
+
+709
+00:28:42,888 --> 00:28:45,890
+olhar para isso de uma maneira diferente.
+
+710
+00:28:45,958 --> 00:28:48,860
+Não é fácil assistir.
+
+711
+00:28:50,863 --> 00:28:53,665
+Então sabemos que uma
+bala atingiu Lasalle
+
+712
+00:28:53,733 --> 00:28:54,800
+<i>e Sue-Ann,</i>
+
+713
+00:28:54,867 --> 00:28:56,478
+deixou uma ferida não letal no ombro
+
+714
+00:28:56,502 --> 00:28:58,370
+<i>e o braço dela antes
+de se alojar no chão.</i>
+
+715
+00:28:58,437 --> 00:29:00,037
+ORGULHO: <i> O pressuposto era que eles eram </i>
+
+716
+00:29:00,061 --> 00:29:04,676
+empilhado com Sue-Ann na
+frente quando Eddie atirou.
+
+717
+00:29:04,744 --> 00:29:06,644
+Certo, mas se Eddie
+estava tentando matá-la
+
+718
+00:29:06,712 --> 00:29:08,480
+e destinado à massa central ...
+
+719
+00:29:08,547 --> 00:29:11,649
+ORGULHO: <i> E Christopher a
+empurrou para fora do caminho</i>,
+
+720
+00:29:11,717 --> 00:29:15,954
+<i>fazendo com que a bala
+a atingisse no braço.</i>
+
+721
+00:29:17,423 --> 00:29:19,824
+Lasalle salvou sua vida.
+
+722
+00:29:19,892 --> 00:29:22,060
+Sim ele fez.
+
+723
+00:29:22,128 --> 00:29:23,661
+Sim.
+
+724
+00:29:23,729 --> 00:29:24,996
+HANNAH: <i> Foi tudo uma configuração. </i>
+
+725
+00:29:25,064 --> 00:29:27,899
+Eddie usou Sue-Ann para
+atrair Chris para a floresta
+
+726
+00:29:27,967 --> 00:29:29,667
+para que ele pudesse matar os dois.
+
+727
+00:29:29,735 --> 00:29:31,103
+Ambos eram pontas soltas para ele.
+
+728
+00:29:31,170 --> 00:29:32,848
+SEBASTIAN: <i> E ele também
+teria conseguido</i>,
+
+729
+00:29:32,872 --> 00:29:34,572
+se Pride e eu não tivéssemos
+chegado quando chegamos.
+
+730
+00:29:34,640 --> 00:29:36,441
+Se pudermos convencer
+Sue-Ann que isso é verdade,
+
+731
+00:29:36,509 --> 00:29:38,043
+talvez ela finalmente fale com a gente.
+
+732
+00:29:38,110 --> 00:29:40,779
+É melhor fazermos isso antes
+Eddie termina o que começou.
+
+733
+00:29:40,846 --> 00:29:42,580
+Sim.
+
+734
+00:29:46,204 --> 00:29:48,704
+<i>♪ ♪</i>
+
+735
+00:29:49,728 --> 00:29:52,428
+<i>♪ ♪</i>
+
+736
+00:29:56,757 --> 00:29:58,958
+Ei.
+
+737
+00:29:59,026 --> 00:30:01,961
+Conversei com o diretor da OPP.
+
+738
+00:30:02,029 --> 00:30:05,965
+Ele vai tentar mandar Sue-Ann
+para uma cela segura.
+
+739
+00:30:06,033 --> 00:30:07,401
+Ele vai tentar?
+
+740
+00:30:07,469 --> 00:30:09,846
+Ele disse que o espaço é limitado.
+Não há mão de obra suficiente.
+
+741
+00:30:09,870 --> 00:30:10,870
+O que você acha
+
+742
+00:30:10,905 --> 00:30:12,065
+sobre transferi-la
+
+743
+00:30:12,089 --> 00:30:13,406
+para a instalação em Belle Chasse?
+
+744
+00:30:13,474 --> 00:30:15,075
+Não há como o advogado de Eddie
+
+745
+00:30:15,142 --> 00:30:16,342
+vai nos deixar fazer isso.
+
+746
+00:30:16,410 --> 00:30:17,877
+Sim você está certo.
+
+747
+00:30:17,945 --> 00:30:20,346
+<i>Tudo bem, bem, talvez eu
+ligue para o juiz Halper,</i>
+
+748
+00:30:20,414 --> 00:30:23,650
+ver se consigo um mandado rápido,
+
+749
+00:30:23,717 --> 00:30:25,085
+levá-la sob nossa custódia.
+
+750
+00:30:25,152 --> 00:30:28,555
+Você realmente acha que Eddie pode
+entrar na prisão daquela mulher
+
+751
+00:30:28,622 --> 00:30:29,889
+e chegar a Sue-Ann?
+
+752
+00:30:31,092 --> 00:30:33,393
+No pouco tempo em que
+lidamos com Barrett,
+
+753
+00:30:33,461 --> 00:30:37,263
+um homem confessou um
+assassinato que não cometeu
+
+754
+00:30:37,331 --> 00:30:38,898
+e pulou de uma ponte
+
+755
+00:30:38,966 --> 00:30:40,533
+quando as acusações não se mantiveram.
+
+756
+00:30:40,601 --> 00:30:43,870
+Ele é morto quatro outras
+pessoas que conhecemos,
+
+757
+00:30:43,938 --> 00:30:45,705
+provavelmente mais do que não.
+
+758
+00:30:45,773 --> 00:30:46,840
+Ele é um psicopata.
+
+759
+00:30:46,907 --> 00:30:48,147
+Sim, ele também é outra coisa.
+
+760
+00:30:48,175 --> 00:30:49,742
+Ele é carismático e é bonito,
+
+761
+00:30:49,810 --> 00:30:51,211
+e as pessoas parecem atraídas por sua órbita.
+
+762
+00:30:51,278 --> 00:30:52,846
+Dispostos a fazer o que ele disser.
+
+763
+00:30:52,913 --> 00:30:55,153
+Em outras palavras, ele
+provavelmente já tem alguém dentro
+
+764
+00:30:55,221 --> 00:30:56,821
+aquele tiro na prisão por Sue-Ann.
+
+765
+00:30:56,889 --> 00:30:59,252
+Bem, espero que possamos
+impedir que isso aconteça.
+
+766
+00:31:00,421 --> 00:31:02,032
+SEBASTIAN: <i> Você percebe que nosso suspeito </i>
+
+767
+00:31:02,056 --> 00:31:03,423
+poderia ter levado o que ele usou
+
+768
+00:31:03,491 --> 00:31:05,725
+matar Brad Collins e
+jogá-lo no oceano.
+
+769
+00:31:05,793 --> 00:31:07,760
+Tudo é possível, Sebastian.
+
+770
+00:31:07,828 --> 00:31:09,428
+Sim, eu sei. Eu acho que estou apenas pensando
+
+771
+00:31:09,452 --> 00:31:11,523
+se esse é o melhor
+uso do nosso tempo.
+
+772
+00:31:11,548 --> 00:31:12,556
+Não.
+
+773
+00:31:12,600 --> 00:31:14,934
+Você está se perguntando se é
+o melhor uso do seu tempo.
+
+774
+00:31:15,002 --> 00:31:17,203
+Você adorava trabalhar no laboratório.
+
+775
+00:31:17,271 --> 00:31:20,273
+Eu fiz. Eu faço. Eu também
+adoro trabalhar no campo.
+
+776
+00:31:20,341 --> 00:31:21,908
+E você também quer derrubar
+
+777
+00:31:21,976 --> 00:31:23,977
+O assassino de Christopher. Compreendo.
+
+778
+00:31:24,044 --> 00:31:26,212
+Eu também quero isso, mas
+
+779
+00:31:26,280 --> 00:31:27,881
+<i>qual é a melhor maneira de fazer isso?</i>
+
+780
+00:31:27,948 --> 00:31:30,250
+Eu sei eu sei. Temos que
+trabalhar as evidências.
+
+781
+00:31:30,317 --> 00:31:33,052
+- Bom e velho sapato de couro, Sebastian.
+- Sim.
+
+782
+00:31:33,120 --> 00:31:35,455
+Aguente.
+
+783
+00:31:39,660 --> 00:31:41,794
+Obteve uma resposta positiva
+da amilase neste travesseiro.
+
+784
+00:31:41,862 --> 00:31:44,297
+No centro, mais ou menos do
+tamanho da boca de alguém.
+
+785
+00:31:44,365 --> 00:31:48,835
+Me dê um cotonete, vou confirmar que
+a saliva pertence a Brad Collins.
+
+786
+00:31:52,239 --> 00:31:55,608
+Ok, então, se eu quiser apenas ir em frente
+
+787
+00:31:55,676 --> 00:31:57,477
+e sufocar alguém com um travesseiro ...
+
+788
+00:31:58,712 --> 00:32:00,813
+Eu acho que eu seguraria
+
+789
+00:32:00,881 --> 00:32:02,448
+<i>ambas as extremidades e pressione para baixo, certo?</i>
+
+790
+00:32:02,516 --> 00:32:05,285
+Graças a Deus você usa
+seus poderes para o bem.
+
+791
+00:32:05,352 --> 00:32:07,253
+Eu sei direito? Se eu
+realmente queria te matar,
+
+792
+00:32:07,321 --> 00:32:08,454
+ninguém jamais me pegaria.
+
+793
+00:32:08,522 --> 00:32:09,589
+Eu não quero dizer você "você".
+
+794
+00:32:09,657 --> 00:32:11,291
+Quero dizer, o genérico "você".
+
+795
+00:32:11,358 --> 00:32:13,478
+Quero dizer, tem algumas pessoas
+Eu provavelmente gostaria de matar.
+
+796
+00:32:13,545 --> 00:32:15,185
+Eu não sei se eu poderia
+realmente matar alguém ...
+
+797
+00:32:15,209 --> 00:32:16,462
+- (APARELHOS DE APARELHO)
+Oh.
+
+798
+00:32:16,530 --> 00:32:18,765
+SEBASTIAN: <i> Salvo pelo sino, graças a Deus. </i>
+
+799
+00:32:18,832 --> 00:32:20,867
+A saliva pertence a Brad Collins.
+
+800
+00:32:20,935 --> 00:32:22,835
+Tudo certo.
+
+801
+00:32:22,903 --> 00:32:25,143
+Eu não tenho cabelo aqui,
+mas estou sujando
+
+802
+00:32:25,206 --> 00:32:27,273
+e outro material biológico.
+
+803
+00:32:28,909 --> 00:32:30,543
+- (TIPOS)
+- O que é isso?
+
+804
+00:32:30,611 --> 00:32:34,047
+Algum tipo de pequenos
+sacos com insetos dentro?
+
+805
+00:32:34,114 --> 00:32:35,782
+Bexigas.
+
+806
+00:32:35,849 --> 00:32:37,517
+vou tomar
+
+807
+00:32:37,585 --> 00:32:40,053
+"Coisas que você não traz em
+uma companhia mista para 200".
+
+808
+00:32:40,120 --> 00:32:41,988
+(CHUCKLES) Estas são
+pequenas plantas carnívoras.
+
+809
+00:32:42,056 --> 00:32:44,324
+A maioria das refeições é feita no subsolo,
+
+810
+00:32:44,391 --> 00:32:46,326
+mas eles produzem lindas flores.
+
+811
+00:32:46,393 --> 00:32:48,061
+Então nosso suspeito é jardineiro?
+
+812
+00:32:48,128 --> 00:32:50,997
+Não posso dizer isso, mas o que posso dizer
+
+813
+00:32:51,065 --> 00:32:54,801
+é que essas plantas são
+razoavelmente raras nos EUA
+
+814
+00:32:54,868 --> 00:32:57,637
+(Suspira) Eles podem não
+nos levar a uma pessoa.
+
+815
+00:32:57,705 --> 00:32:59,405
+Pode nos levar a um lugar.
+
+816
+00:32:59,473 --> 00:33:02,141
+Sim, bem, vamos pegar o que podemos conseguir.
+
+817
+00:33:02,209 --> 00:33:03,810
+(ASSOCIANDO TEAPOT)
+
+818
+00:33:03,877 --> 00:33:05,578
+O juiz Halper aprovou o mandado
+
+819
+00:33:05,646 --> 00:33:07,480
+- para levarmos Sue-Ann em custódia.
+Oh.
+
+820
+00:33:07,548 --> 00:33:11,184
+Mas o advogado dela está lutando.
+
+821
+00:33:11,252 --> 00:33:12,552
+Ele pergunta por que a estamos mudando?
+
+822
+00:33:12,620 --> 00:33:14,087
+Houve muitos gritos.
+
+823
+00:33:14,154 --> 00:33:15,521
+Palavras como, uh,
+
+824
+00:33:15,589 --> 00:33:20,059
+assédio e excedentes
+federais foram usados.
+
+825
+00:33:20,127 --> 00:33:21,928
+(Risos) E ele ...
+
+826
+00:33:21,996 --> 00:33:24,564
+ele vai me processar
+pessoalmente pela manhã.
+
+827
+00:33:24,632 --> 00:33:26,232
+Uh-huh.
+
+828
+00:33:27,468 --> 00:33:30,203
+Como você está, Dwayne?
+
+829
+00:33:30,271 --> 00:33:32,405
+Bem, eu sou como o resto do time.
+
+830
+00:33:32,473 --> 00:33:35,675
+Ansioso por derrubar Eddie.
+
+831
+00:33:35,743 --> 00:33:38,878
+Sim, bem, você não pode
+fazer isso sem dormir.
+
+832
+00:33:38,946 --> 00:33:41,547
+Eu sei. Eu tentei.
+
+833
+00:33:41,615 --> 00:33:43,216
+Mas eu não posso.
+
+834
+00:33:43,284 --> 00:33:44,751
+É uma condição preexistente.
+
+835
+00:33:47,354 --> 00:33:50,223
+- _
+- (MULHER FALANDO INDISTINTAMENTE SOBRE P.A.)
+
+836
+00:33:50,291 --> 00:33:53,726
+Apresse-se, Hughes. Pegue
+sua porcaria e se mexa.
+
+837
+00:33:53,794 --> 00:33:57,563
+Apenas certificando-me
+de que não esqueci nada.
+
+838
+00:33:57,631 --> 00:34:00,466
+Você pode me dizer novamente
+por que eles estão me mudando?
+
+839
+00:34:11,645 --> 00:34:12,645
+Olá?
+
+840
+00:34:12,713 --> 00:34:14,781
+Ei, Hughes.
+
+841
+00:34:16,216 --> 00:34:18,318
+Eu tenho algo para você.
+
+842
+00:34:23,290 --> 00:34:24,324
+(GASPS)
+
+843
+00:34:24,391 --> 00:34:25,625
+(GRUNTS)
+
+844
+00:34:25,693 --> 00:34:27,794
+(GRANDES GRAMPOS)
+
+845
+00:34:31,832 --> 00:34:34,267
+TODOS: Luta! Luta! Luta!
+
+846
+00:34:34,335 --> 00:34:36,235
+(GRANDES GRAMPOS)
+
+847
+00:34:38,706 --> 00:34:39,806
+Luta! Luta!
+
+848
+00:34:43,377 --> 00:34:45,845
+Vamos! Você quer dançar?!
+Vamos dançar!
+
+849
+00:34:46,714 --> 00:34:49,515
+(GUARDS GRITANDO)
+
+850
+00:34:49,583 --> 00:34:52,251
+Levante-se! Levante-se.
+
+851
+00:34:52,319 --> 00:34:54,020
+- Levante-se.
+- O que está acontecendo?
+
+852
+00:34:54,088 --> 00:34:56,089
+Eddie enviou essas mulheres para te matar.
+
+853
+00:34:56,156 --> 00:34:57,490
+Acabei de salvar sua vida.
+
+854
+00:34:57,514 --> 00:34:59,014
+<i>♪ ♪</i>
+
+855
+00:35:00,038 --> 00:35:02,838
+<i>♪ ♪</i>
+
+856
+00:35:04,017 --> 00:35:06,951
+Você inventou isso. Isso não é real.
+
+857
+00:35:07,019 --> 00:35:09,354
+Precisa tirar os antolhos.
+
+858
+00:35:09,421 --> 00:35:11,022
+Isso se encaixa nos fatos.
+
+859
+00:35:11,090 --> 00:35:13,124
+Eddie tentou te matar
+
+860
+00:35:13,192 --> 00:35:15,226
+e Christopher Lasalle salvou sua vida.
+
+861
+00:35:15,294 --> 00:35:16,661
+Eddie não faria isso.
+
+862
+00:35:16,729 --> 00:35:18,663
+Ele apenas tentou novamente, Sue-Ann.
+
+863
+00:35:18,731 --> 00:35:20,631
+Se eu não estivesse lá,
+você estaria sangrando
+
+864
+00:35:20,699 --> 00:35:22,033
+no chão de concreto
+
+865
+00:35:22,101 --> 00:35:24,369
+com uma escova de dentes esculpida nas costelas.
+
+866
+00:35:24,436 --> 00:35:25,803
+Quer um agradecimento?
+
+867
+00:35:25,871 --> 00:35:27,351
+- (SCOFFS)
+<i> - eu não estaria aqui </i>
+
+868
+00:35:27,419 --> 00:35:29,219
+<i> - se não fosse por você. </i>
+- Você não estaria aqui
+
+869
+00:35:29,243 --> 00:35:30,708
+se você não tivesse apontado uma arma para mim.
+
+870
+00:35:30,776 --> 00:35:32,910
+- Também por causa de Eddie.
+<i> - Eu sei que é difícil </i>
+
+871
+00:35:32,978 --> 00:35:36,547
+pensar que alguém de quem você
+gosta está disposto a machucá-lo.
+
+872
+00:35:36,615 --> 00:35:39,384
+Eddie não é apenas um cara. Ele é especial.
+
+873
+00:35:39,451 --> 00:35:41,853
+Bem, nisso concordamos.
+Ele é um psicopata
+
+874
+00:35:41,920 --> 00:35:44,522
+disposto a fazer o que for
+preciso para o que ele precisar.
+
+875
+00:35:44,590 --> 00:35:46,491
+- Não.
+- Sim.
+
+876
+00:35:46,558 --> 00:35:48,493
+- Ele é puro amor.
+- Oh sim.
+
+877
+00:35:48,560 --> 00:35:51,095
+Eddie matou Cade Lasalle.
+
+878
+00:35:51,163 --> 00:35:53,865
+Ele matou Christopher Lasalle.
+
+879
+00:35:53,932 --> 00:35:57,068
+Ele matou Lewis Franklin,
+ele matou Brad Collins.
+
+880
+00:35:58,637 --> 00:36:02,206
+GREGORIO: <i> E você
+deveria morrer também</i>.
+
+881
+00:36:02,274 --> 00:36:03,841
+Semanas atrás, mas você não.
+
+882
+00:36:03,909 --> 00:36:07,779
+Então ele veio ao hospital
+e te levou para fora.
+
+883
+00:36:07,846 --> 00:36:10,548
+Se não tivéssemos prendido você no restaurante,
+
+884
+00:36:10,616 --> 00:36:12,917
+Eddie ia te matar naquela noite.
+
+885
+00:36:12,985 --> 00:36:15,586
+Nós somos a única razão pela
+qual você ainda está respirando.
+
+886
+00:36:15,654 --> 00:36:16,954
+(SCOFFS)
+
+887
+00:36:17,022 --> 00:36:18,823
+Olhe para mim.
+
+888
+00:36:20,159 --> 00:36:22,427
+Olhe para mim.
+
+889
+00:36:24,196 --> 00:36:25,696
+(Sussurrando) Eu quero que você pense
+
+890
+00:36:25,764 --> 00:36:26,898
+sobre aquela cabana de caça.
+
+891
+00:36:26,965 --> 00:36:29,634
+Realmente pense sobre isso.
+
+892
+00:36:29,701 --> 00:36:32,804
+Não é o que ele disse que aconteceria.
+
+893
+00:36:34,440 --> 00:36:37,008
+Mas o que realmente aconteceu.
+
+894
+00:36:56,662 --> 00:36:58,296
+EU...
+
+895
+00:37:03,635 --> 00:37:04,802
+Eu não sabia
+
+896
+00:37:04,870 --> 00:37:06,170
+Não sabia o que?
+
+897
+00:37:06,238 --> 00:37:08,573
+Que ele ia matar aquele homem.
+
+898
+00:37:08,640 --> 00:37:11,175
+<i>Eddie disse que só iria assustá-lo.</i>
+
+899
+00:37:11,243 --> 00:37:13,177
+E no hospital,
+
+900
+00:37:13,245 --> 00:37:15,580
+Eddie me disse que tinha que matá-lo.
+
+901
+00:37:15,647 --> 00:37:18,416
+Que ele, ele fez isso para nos proteger.
+
+902
+00:37:18,484 --> 00:37:21,519
+Eu ... eu tive que acreditar nele.
+
+903
+00:37:21,587 --> 00:37:24,956
+Ele cuidou de mim.
+
+904
+00:37:25,023 --> 00:37:27,959
+Ele manteve você a salvo daquele namorado.
+
+905
+00:37:28,026 --> 00:37:29,794
+Aquele que venceu você.
+
+906
+00:37:29,862 --> 00:37:32,530
+Eddie me ajudou a começar de novo.
+
+907
+00:37:32,598 --> 00:37:35,466
+Ele era uma benção.
+
+908
+00:37:35,534 --> 00:37:36,968
+Para todos nós.
+
+909
+00:37:37,035 --> 00:37:38,703
+Quem é "tudo", Sue-Ann?
+
+910
+00:37:38,770 --> 00:37:39,937
+(Silenciosamente) Bem ...
+
+911
+00:37:40,005 --> 00:37:43,074
+seus filhos perdidos.
+
+912
+00:37:47,412 --> 00:37:49,947
+(Suspiros)
+
+913
+00:37:50,015 --> 00:37:51,659
+HANNAH: <i> Eddie Barrett é um líder de culto? </i>
+
+914
+00:37:51,683 --> 00:37:53,243
+Sim, bem, ele "coleta almas perturbadas
+
+915
+00:37:53,267 --> 00:37:54,352
+e lhes dá esperança novamente ".
+
+916
+00:37:54,419 --> 00:37:55,819
+Pelo menos é assim que Sue-Ann coloca.
+
+917
+00:37:55,854 --> 00:37:57,822
+Chama seus seguidores de Filhos Perdidos.
+
+918
+00:37:57,890 --> 00:37:59,457
+Oferece salvação.
+
+919
+00:37:59,525 --> 00:38:01,292
+Como, vendendo drogas e
+cometendo assassinato?
+
+920
+00:38:01,360 --> 00:38:02,670
+Ela colocou tudo para
+nós. Único problema é
+
+921
+00:38:02,694 --> 00:38:04,174
+ela não tem ideia de onde Eddie está se escondendo.
+
+922
+00:38:04,198 --> 00:38:05,863
+Ela acha que ele fica em muitos lugares,
+
+923
+00:38:05,891 --> 00:38:07,331
+mas ela não sabe onde eles estão.
+
+924
+00:38:07,355 --> 00:38:08,866
+<i>Ele desapareceria</i>
+
+925
+00:38:08,934 --> 00:38:11,302
+- durante semanas de cada vez.
+<i> - E depois apareça novamente </i>
+
+926
+00:38:11,370 --> 00:38:13,047
+e fica com raiva quando ela
+pergunta onde ele estava.
+
+927
+00:38:13,071 --> 00:38:15,231
+Olha, nós não sabíamos que ele tinha
+uma casa no lado leste até ontem.
+
+928
+00:38:15,255 --> 00:38:16,306
+Ele provavelmente tem outros.
+
+929
+00:38:16,330 --> 00:38:17,874
+Bem, Patton está tentando
+seguir sua trilha financeira.
+
+930
+00:38:17,898 --> 00:38:19,911
+Guy não tem contas bancárias,
+nada em seu nome.
+
+931
+00:38:19,978 --> 00:38:22,346
+Então, como ele paga pela
+casa e pelo advogado?
+
+932
+00:38:22,414 --> 00:38:23,848
+Ele não está. Alguém mais é.
+
+933
+00:38:23,916 --> 00:38:26,250
+Tentou obter uma lista de outros
+Crianças perdidas de Sue-Ann.
+
+934
+00:38:26,318 --> 00:38:28,486
+Ela diz que só conhece o primeiro nome.
+
+935
+00:38:28,554 --> 00:38:30,388
+Você sabe, ela mencionou
+um lugar, no entanto.
+
+936
+00:38:30,456 --> 00:38:32,416
+Ela disse que Eddie deveria
+levá-la para um lugar
+
+937
+00:38:32,440 --> 00:38:34,541
+ligou para Jeanerette depois
+que eles saíram do hospital.
+
+938
+00:38:34,609 --> 00:38:35,660
+O que há em Jeanerette?
+
+939
+00:38:35,727 --> 00:38:37,161
+Honestamente, não faço ideia.
+
+940
+00:38:37,229 --> 00:38:39,997
+Bando de antigas casas de
+plantação, canaviais ...
+
+941
+00:38:40,065 --> 00:38:41,866
+Talvez algumas bexigas.
+
+942
+00:38:41,934 --> 00:38:43,401
+Que diabos é uma bexiga?
+
+943
+00:38:43,468 --> 00:38:44,869
+Bem, é uma planta carnívora rara
+
+944
+00:38:44,937 --> 00:38:46,671
+que encontramos vestígios
+no travesseiro usado
+
+945
+00:38:46,738 --> 00:38:47,906
+para sufocar Brad Collins.
+
+946
+00:38:47,974 --> 00:38:49,654
+E você acha que eles são
+cultivados em Jeanerette?
+
+947
+00:38:49,678 --> 00:38:50,699
+Oh, eu sei que eles são.
+
+948
+00:38:50,742 --> 00:38:51,942
+É apenas sobre estreitar
+
+949
+00:38:51,966 --> 00:38:53,344
+a área onde eles podem ser encontrados.
+
+950
+00:38:53,412 --> 00:38:54,692
+Você pode reduzi-lo mais?
+
+951
+00:38:54,759 --> 00:38:56,359
+Com base no que sabemos,
+Infelizmente não.
+
+952
+00:38:56,383 --> 00:38:58,182
+Mas há uma série de
+casas de plantação
+
+953
+00:38:58,250 --> 00:38:59,717
+que correm para cima e para baixo do dique.
+
+954
+00:38:59,785 --> 00:39:02,353
+Ok, bem, puxe endereços em tudo
+
+955
+00:39:02,421 --> 00:39:03,955
+<i>nessas áreas-alvo.</i>
+
+956
+00:39:04,022 --> 00:39:05,389
+Vamos nos separar e acertar todos eles.
+
+957
+00:39:05,457 --> 00:39:06,991
+- HANNAH: Ok.
+- (STAMMERS) Espere.
+
+958
+00:39:11,129 --> 00:39:13,030
+Quero que vocês tenham mais cuidado.
+
+959
+00:39:13,098 --> 00:39:15,900
+Eddie matou Christopher.
+
+960
+00:39:15,968 --> 00:39:19,270
+Agora, não estou perdendo mais ninguém hoje.
+
+961
+00:39:19,338 --> 00:39:21,405
+<i>Tudo certo?</i>
+
+962
+00:39:21,473 --> 00:39:23,474
+Obrigado.
+
+963
+00:39:36,355 --> 00:39:37,922
+(GRUNTING)
+
+964
+00:39:37,990 --> 00:39:40,891
+GREGORIO: <i> É como uma
+estranha reunião de família</i>.
+
+965
+00:39:40,959 --> 00:39:43,327
+Na terça-feira.
+
+966
+00:39:43,395 --> 00:39:45,730
+<i>Em uma plantação.</i>
+
+967
+00:39:45,797 --> 00:39:47,765
+Algum sinal do Barrett?
+<i> - Não. </i>
+
+968
+00:39:47,833 --> 00:39:50,801
+Apenas muita brincadeira.
+
+969
+00:39:50,869 --> 00:39:53,137
+(TELEFONE VIBRANTE)
+
+970
+00:39:54,373 --> 00:39:55,840
+HANNAH (pelo telefone): <i> Dwayne. </i>
+
+971
+00:39:55,907 --> 00:39:57,041
+O que você tem, Hannah?
+
+972
+00:39:57,109 --> 00:39:58,869
+Nada em Charleston.
+Estamos nos mudando para Maple.
+
+973
+00:39:58,893 --> 00:39:59,977
+<i>Segure uma batida.</i>
+
+974
+00:40:00,045 --> 00:40:01,812
+Você o encontrou?
+
+975
+00:40:01,840 --> 00:40:03,240
+Ainda não sabemos o que estamos vendo,
+
+976
+00:40:03,264 --> 00:40:06,083
+mas temos uma reunião,
+
+977
+00:40:06,151 --> 00:40:08,019
+por falta de uma palavra melhor.
+
+978
+00:40:08,086 --> 00:40:09,220
+Ali está ele.
+
+979
+00:40:09,287 --> 00:40:11,589
+Tente me pegar, tente me pegar.
+
+980
+00:40:11,657 --> 00:40:12,790
+OK.
+
+981
+00:40:12,858 --> 00:40:15,192
+Ele está nesta plantação na River Road.
+
+982
+00:40:15,260 --> 00:40:17,528
+<i>Venha pelos fundos.</i>
+
+983
+00:40:17,596 --> 00:40:20,031
+Gregorio e eu esperamos por você aqui.
+
+984
+00:40:24,569 --> 00:40:29,140
+Vi cerca de 25 pessoas lá fora,
+metade delas mulheres e crianças.
+
+985
+00:40:29,207 --> 00:40:32,477
+Nada de bom vem do início de
+um tiroteio que os machuca.
+
+986
+00:40:32,544 --> 00:40:33,921
+Eu diria que nada de bom vem
+
+987
+00:40:33,945 --> 00:40:35,680
+de um tiroteio
+que nos machuca.
+
+988
+00:40:35,747 --> 00:40:37,225
+GREGORIO: <i> Temos um mandado válido.
+Felizmente, Eddie é inteligente o suficiente </i>
+
+989
+00:40:37,249 --> 00:40:38,849
+saber resistir não o
+levará a lugar algum.
+
+990
+00:40:38,873 --> 00:40:39,884
+HANNAH: Sim? Até agora, </i>
+
+991
+00:40:39,951 --> 00:40:42,119
+Não tenho certeza se chamaria o
+pensamento dele de estritamente linear.
+
+992
+00:40:42,187 --> 00:40:43,888
+Sou eu, ou você também
+está ouvindo a música
+
+993
+00:40:43,956 --> 00:40:46,000
+dos "bons, maus
+e feios" agora?
+
+994
+00:40:46,024 --> 00:40:47,057
+Oh, não, é só você.
+
+995
+00:40:47,125 --> 00:40:48,125
+<i>Mas para o registro,</i>
+
+996
+00:40:48,193 --> 00:40:50,061
+O orgulho é bom, Hannah e eu ... somos maus.
+
+997
+00:40:50,128 --> 00:40:52,363
+Tudo certo. Não, eu entendi.
+Legal. Agradável. Sutil.
+
+998
+00:40:52,431 --> 00:40:53,864
+<i>Eu entrei nisso. Está bem.</i>
+
+999
+00:41:15,787 --> 00:41:18,089
+(CORO GALO)
+
+1000
+00:41:19,725 --> 00:41:22,193
+ORGULHO: <i> Agentes federais! </i>
+
+1001
+00:41:22,260 --> 00:41:26,764
+Temos um mandado legal para
+a prisão de Edward Barrett.
+
+1002
+00:41:26,832 --> 00:41:29,100
+Todos vocês precisam ficar onde estão
+
+1003
+00:41:29,167 --> 00:41:31,268
+<i>e fique calmo.</i>
+
+1004
+00:41:32,938 --> 00:41:34,505
+Orgulho, a varanda.
+
+1005
+00:41:41,146 --> 00:41:42,947
+CRIANÇA: <i> Vai ficar tudo bem. </i>
+
+1006
+00:41:47,319 --> 00:41:50,187
+Barrett!
+
+1007
+00:41:52,023 --> 00:41:54,358
+Você precisa sair.
+
+1008
+00:41:54,426 --> 00:41:57,294
+Ninguém precisa se machucar hoje.
+
+1009
+00:41:57,362 --> 00:41:58,896
+EDDIE: <i> Dwayne. </i>
+
+1010
+00:41:58,964 --> 00:42:01,899
+Não cabe a nenhum
+de nós decidir.
+
+1011
+00:42:01,967 --> 00:42:04,802
+Nosso caminho já foi escolhido.
+
+1012
+00:42:04,870 --> 00:42:07,805
+Só preciso ver como isso acontece.
+
+1013
+00:42:07,873 --> 00:42:10,341
+(ARMAS CLICANDO)
+
+1014
+00:42:14,665 --> 00:42:21,165
+<i>♪ ♪</i>
+
+1015
+00:42:21,265 --> 00:42:22,865
+_
+
+1016
+00:42:22,889 --> 00:42:27,889
+<font color = "# 8080c0"> Sincronização e correções por </font> <font color = "# ffff00"> Costa Dax </font>
+<font color = "# 8080c0"> www.addic7ed.com </font>
+
+1017
+00:42:28,179 --> 00:42:31,379
+<i>Assista a um novo "Survivor",
+Quarta-feira na Global.</i>
+
