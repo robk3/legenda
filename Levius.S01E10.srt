@@ -20,7 +20,8 @@ Do outro lado...
 
 6
 00:00:30,321 --> 00:00:33,450
-G3, 22a no ranking...
+G3, 22a no ranking...Baixe ja nosso aplicativo na play store
+Procure por: Cine House
 
 7
 00:00:33,533 --> 00:00:37,871
@@ -1142,4 +1143,5 @@ Por quê?
 
 277
 00:24:00,147 --> 00:24:02,149
-Legendas: Carla Alessandra Prado
+Baixe ja nosso aplicativo na play store
+Procure por: Cine House
