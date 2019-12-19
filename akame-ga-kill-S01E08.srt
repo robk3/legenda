@@ -1,0 +1,1209 @@
+﻿1
+00:21:21,840 --> 00:21:23,680
+Lanches da Kurome
+
+2
+00:00:02,600 --> 00:00:06,350
+Parece que eu vou conseguir uma boa experiência!
+
+3
+00:00:07,180 --> 00:00:08,150
+Aniki!
+
+4
+00:00:14,240 --> 00:00:16,070
+Ele matou o grandalhão,
+
+5
+00:00:16,070 --> 00:00:18,030
+e ainda lidou com os outros dois.
+
+6
+00:00:18,380 --> 00:00:19,240
+Tudo...
+
+7
+00:00:19,810 --> 00:00:21,710
+Tudo num único momento!
+
+8
+00:00:22,090 --> 00:00:25,170
+Esse Teigu, essa força.
+
+9
+00:00:25,700 --> 00:00:28,000
+Então é você, Bulat.
+
+10
+00:00:30,140 --> 00:00:31,450
+Você é
+
+11
+00:00:31,450 --> 00:00:32,960
+o General Liver.{Terminou o copy+paste}
+
+12
+00:00:34,280 --> 00:00:36,560
+Eu não sou mais um general.
+
+13
+00:00:36,560 --> 00:00:39,060
+Depois que a Esdeath-sama me salvou,
+
+14
+00:00:39,460 --> 00:00:41,770
+eu me tornei seu servo.
+
+15
+00:00:41,770 --> 00:00:42,820
+Hã?
+
+16
+00:00:42,820 --> 00:00:47,150
+Será que esse é o cara da história do Aniki?
+
+17
+00:00:59,710 --> 00:01:03,180
+Se estivéssemos do mesmo lado, poderíamos beber algo para celebrar esta reunião.
+
+18
+00:01:04,120 --> 00:01:05,960
+Mas como você ressurgiu como meu inimigo,
+
+19
+00:01:05,960 --> 00:01:07,130
+eu terei que matá-lo.
+
+20
+00:01:09,800 --> 00:01:11,550
+Eu tenho que completar a missão!
+
+21
+00:01:12,030 --> 00:01:14,370
+Essa é a minha fala.
+
+22
+00:01:14,370 --> 00:01:17,270
+A missão tem que ser cumprida...
+
+23
+00:01:19,110 --> 00:01:21,100
+Com este Teigu
+
+24
+00:01:21,310 --> 00:01:23,930
+que me foi confiado pela minha mestra!
+
+25
+00:02:41,930 --> 00:02:43,610
+{\pos(725,483)\blur30\t($start,$end,\blur0)}Eternal Animes {\fs23}&{\fs30} 
+Moshi Moshi Subs
+
+26
+00:02:43,610 --> 00:02:44,960
+{\pos(725,483)}Eternal Animes {\fs23}&{\fs30} 
+Moshi Moshi Subs
+
+27
+00:03:01,530 --> 00:03:04,080
+{\bord1\3c&H505258&}{\fad(500,0)\clip(435,429,833,476)}Assassine os Três
+
+28
+00:03:01,530 --> 00:03:04,080
+{\bord1\3c&H505258&\clip(405,474,912,495)}{\fad(500,0)\c&H060402&}Assassine os Três
+
+29
+00:03:01,530 --> 00:03:05,030
+{\fs45\clip(473,503,841,532)}{\bord1\3c&H505258&}{\fad(500,1200)}— Parte Dois —
+
+30
+00:03:01,530 --> 00:03:05,030
+{\fs45\clip(491,531,848,569)}{\bord1\3c&H505258&}{\fad(500,1200)\c&H060402&}— Parte Dois —
+
+31
+00:03:04,080 --> 00:03:05,030
+{\move(639.8,499.4,739.8,499.4)}{\bord1\3c&H505258&}{\fad(00,1200)\clip(435,429,833,476)}Assassine os Três
+
+32
+00:03:04,080 --> 00:03:05,030
+{\move(639.8,499.4,539.8,499.4)}{\bord1\3c&H505258&\clip(405,474,912,495)}{\fad(00,1200)\c&H060402&}Assassine os Três
+
+33
+00:03:07,590 --> 00:03:10,200
+O Teigu Black Marlin!
+
+34
+00:03:11,330 --> 00:03:17,010
+Criado de um órgão de uma perigosa besta aquática que controla água.
+
+35
+00:03:17,010 --> 00:03:20,840
+Então, o seu usuário consegue manipular qualquer líquido à sua volta.{Acabou de denunciar o segredo fatal do teigu dele... }
+
+36
+00:03:21,920 --> 00:03:26,000
+É uma sorte imensa que a batalha contra vocês dois seja num lugar assim!
+
+37
+00:03:28,980 --> 00:03:30,980
+Um controlador de água?
+
+38
+00:03:30,980 --> 00:03:33,230
+Bem apropriado para um servo de quem controla o gelo.
+
+39
+00:03:33,760 --> 00:03:37,320
+A Esdeath-sama pode criar gelo do nada.
+
+40
+00:03:37,320 --> 00:03:39,190
+Ela está num nível completamente diferente.
+
+41
+00:03:39,190 --> 00:03:40,700
+É bem inspiradora!
+
+42
+00:03:41,300 --> 00:03:42,450
+Canhão do Espírito de Água!{Vou deixar os nome dos ataques em pt porque não consigo entender o q eles diz, se quiserem mudem para jp... decisão de voces}
+
+43
+00:03:43,880 --> 00:03:44,950
+Não seja afobado!
+
+44
+00:03:48,140 --> 00:03:50,020
+Ai, ai, ai...
+
+45
+00:03:50,020 --> 00:03:53,040
+A força desse cara é bem próxima da força da Esdeath-sama...
+
+46
+00:03:53,560 --> 00:03:56,500
+Mas como estamos na água, o Liver consegue derrotá-lo.
+
+47
+00:03:57,070 --> 00:03:58,310
+Eu também tenho que ajudá-lo.
+
+48
+00:03:58,310 --> 00:03:59,420
+Espere!
+
+49
+00:04:02,640 --> 00:04:06,300
+Eu não ficarei apenas sentado vendo ele me protegendo!
+
+50
+00:04:06,640 --> 00:04:08,220
+Esse cara...
+
+51
+00:04:08,540 --> 00:04:09,600
+Você está no caminho!
+
+52
+00:04:10,860 --> 00:04:12,210
+Night Raid...
+
+53
+00:04:12,210 --> 00:04:13,480
+Vocês estão ficando convencidos!
+
+54
+00:04:31,580 --> 00:04:34,080
+Droga, ele é rápido demais...
+
+55
+00:04:37,150 --> 00:04:37,790
+Apesar disso...
+
+56
+00:04:44,470 --> 00:04:46,010
+A Akame é mais rápida!
+
+57
+00:04:47,110 --> 00:04:48,850
+Não me compare com uma mera assassina!{Não sei fazer essas drogas direito}
+
+58
+00:04:56,190 --> 00:04:59,770
+Se eu não tivesse sido atingido antes, esse cara não seria páreo pra mim.
+
+59
+00:05:00,310 --> 00:05:03,670
+Considerando os seus machucados, a velocidade dele é absurda.
+
+60
+00:05:04,060 --> 00:05:05,510
+As Três Bestas...
+
+61
+00:05:05,510 --> 00:05:08,490
+Comparado à força deles, o Ogre não era nada.
+
+62
+00:05:20,300 --> 00:05:23,300
+Oh, algo doido está acontecendo ali.
+
+63
+00:05:24,080 --> 00:05:27,490
+Desde que tenha um monte de água, o Liver irá vencer!
+
+64
+00:05:27,820 --> 00:05:30,910
+Hah, é bem óbvio que o Aniki vai vencer.
+
+65
+00:05:31,310 --> 00:05:32,360
+Não, o Liver que vencerá!
+
+66
+00:05:32,360 --> 00:05:33,310
+Será o Aniki!
+
+67
+00:05:33,550 --> 00:05:37,280
+Sucumba à pressão da água, Bulat!
+
+68
+00:05:41,000 --> 00:05:42,860
+Serpente em Queda!{Ou "Serpente Ravina" mas soou estranho}
+
+69
+00:05:58,310 --> 00:06:01,840
+Eu sabia que você iria direto para a serpente em vez de desviá-la.
+
+70
+00:06:02,380 --> 00:06:05,980
+Dado as casualidades que teria ao acertar no navio.
+
+71
+00:06:06,570 --> 00:06:11,720
+Apesar disso, agora que você saiu do convés e está no ar...
+
+72
+00:06:12,170 --> 00:06:13,930
+Não tem como desviar disso!
+
+73
+00:06:16,490 --> 00:06:17,980
+Lança da Corrente Negra!
+
+74
+00:06:26,450 --> 00:06:28,820
+Borrifar um pouco de água
+
+75
+00:06:28,820 --> 00:06:30,960
+não será suficiente para atenuar a minha determinação!
+
+76
+00:06:32,270 --> 00:06:33,370
+Está certo!
+
+77
+00:06:33,370 --> 00:06:36,790
+Isso não será suficiente para vencer você.
+
+78
+00:06:38,300 --> 00:06:40,460
+Eu estou bem ciente disso.
+
+79
+00:06:41,210 --> 00:06:44,800
+Nós travamos incontáveis batalhas juntos.
+
+80
+00:06:44,800 --> 00:06:46,880
+A sua força e determinação...
+
+81
+00:06:46,880 --> 00:06:49,530
+Eu as entendo melhor que ninguém.
+
+82
+00:06:50,510 --> 00:06:52,050
+E é precisamente por isso que
+
+83
+00:06:52,400 --> 00:06:56,800
+eu farei você experimentar a minha maior técnica!
+
+84
+00:06:57,200 --> 00:06:59,640
+Conquista Divina do Dragão de Água!
+
+85
+00:07:14,180 --> 00:07:15,450
+Ele está morto?
+
+86
+00:07:17,170 --> 00:07:20,230
+Se realmente está perguntando,
+
+87
+00:07:20,230 --> 00:07:22,670
+você ainda não derrotou o seu inimigo!
+
+88
+00:07:22,670 --> 00:07:24,000
+Ele sobreviveu!
+
+89
+00:07:36,030 --> 00:07:37,830
+Que pena...
+
+90
+00:07:37,830 --> 00:07:40,640
+Você perdeu a sua chance de derrotar o Liver.
+
+91
+00:07:42,850 --> 00:07:44,290
+A-Aniki...
+
+92
+00:07:45,340 --> 00:07:46,410
+Tatsumi?
+
+93
+00:07:46,410 --> 00:07:48,940
+Me perdoe, Aniki...
+
+94
+00:07:49,630 --> 00:07:53,200
+Eu não fui capaz de... segurá-lo por mais tempo.
+
+95
+00:07:53,520 --> 00:07:54,650
+Oh?
+
+96
+00:07:54,650 --> 00:07:56,360
+Ainda consegue se mover?
+
+97
+00:07:56,920 --> 00:08:01,330
+Eu falei que se ficasse quieto, mais tarde eu iria brincar com você.
+
+98
+00:08:01,330 --> 00:08:02,940
+Não se preocupe com isso.
+
+99
+00:08:06,070 --> 00:08:09,300
+Sobreviver depois de lutar sem um Teigu é realmente impressionante.
+
+100
+00:08:09,770 --> 00:08:11,020
+Aniki...
+
+101
+00:08:11,670 --> 00:08:13,910
+Ele estava machucado mesmo com a armadura.
+
+102
+00:08:14,600 --> 00:08:19,760
+Depois de sofrer dano suficiente, o seu Teigu parece desaparecer.
+
+103
+00:08:20,450 --> 00:08:21,940
+Estamos quase terminando.
+
+104
+00:08:22,590 --> 00:08:24,870
+Não banque o durão.
+
+105
+00:08:25,750 --> 00:08:28,400
+Você está sangrando nos ouvidos, Liver.
+
+106
+00:08:31,010 --> 00:08:33,590
+Depois de realizar aquelas técnicas tremendas,
+
+107
+00:08:33,590 --> 00:08:35,570
+o seu corpo deve estar acabado.
+
+108
+00:08:36,500 --> 00:08:39,580
+Você também não está em condições de usar o seu Teigu.
+
+109
+00:08:40,780 --> 00:08:42,930
+Se já foi revelado, não tem solução.
+
+110
+00:08:42,930 --> 00:08:46,110
+Eu queria negociar com vantagem,
+
+111
+00:08:47,910 --> 00:08:49,050
+mas vou simplesmente pedir.
+
+112
+00:08:49,330 --> 00:08:53,630
+Bulat, tem algum interesse em se juntar ao exército da Esdeath-sama?
+
+113
+00:08:53,630 --> 00:08:56,840
+Como é você, seria possível ser o segundo no comando.
+
+114
+00:08:56,840 --> 00:09:00,510
+Eu não tenho interesse em servir mais o império.
+
+115
+00:09:00,510 --> 00:09:01,880
+Não é o império.
+
+116
+00:09:01,880 --> 00:09:04,600
+Pense nisso como servir a Esdeath-sama.
+
+117
+00:09:05,030 --> 00:09:07,210
+Foi desse jeito que fui salvo...
+
+118
+00:09:07,210 --> 00:09:08,940
+Você poderia fazer o que quisesse,
+
+119
+00:09:08,940 --> 00:09:11,280
+e ser temido por todos.
+
+120
+00:09:11,610 --> 00:09:12,380
+Isso mesmo.
+
+121
+00:09:12,380 --> 00:09:16,630
+Mesmo aqueles políticos nojentos, espalhando as suas filosofias manchadas,
+
+122
+00:09:16,630 --> 00:09:18,780
+iriam se curvar perante você!
+
+123
+00:09:21,030 --> 00:09:23,300
+Venha comigo, Bulat!
+
+124
+00:09:23,300 --> 00:09:26,290
+A Esdeath-sama pode apagar os seus crimes!
+
+125
+00:09:26,800 --> 00:09:28,040
+Eu recuso.
+
+126
+00:09:28,910 --> 00:09:31,250
+Você pode estar confortável com a sua atual posição,
+
+127
+00:09:31,250 --> 00:09:33,840
+considerando como se sente em relação aos políticos.
+
+128
+00:09:35,230 --> 00:09:38,230
+Mas eu sou um defensor das pessoas.
+
+129
+00:09:38,230 --> 00:09:41,100
+Se me juntar ao Exército da Esdeath significa trabalhar com o ministro...
+
+130
+00:09:41,610 --> 00:09:43,600
+Eu não poderia mais falar isso.
+
+131
+00:09:44,430 --> 00:09:46,260
+"Defensor das pessoas"?{Se quiserem troquem para "protetor" aqui e antes}
+
+132
+00:09:46,260 --> 00:09:49,310
+Não esperava ouvir isso de um assassino.
+
+133
+00:09:50,280 --> 00:09:53,150
+Foi por isso que tentei dizê-lo com humildade.
+
+134
+00:09:53,580 --> 00:09:55,860
+Ele também já está no seu limite.
+
+135
+00:09:55,860 --> 00:09:58,320
+Mas ainda temos o nosso trunfo.
+
+136
+00:09:59,070 --> 00:10:00,580
+E iremos vencer com isso!
+
+137
+00:10:01,460 --> 00:10:02,700
+Aniki...
+
+138
+00:10:03,380 --> 00:10:05,800
+Se dois usuários de Teigu lutarem um contra o outro,
+
+139
+00:10:06,240 --> 00:10:07,870
+é certo que apenas um irá sobreviver.
+
+140
+00:10:08,760 --> 00:10:10,920
+Como nenhum de nós consegue usar os nossos Teigu...
+
+141
+00:10:10,920 --> 00:10:13,380
+Vamos resolver isso com as nossas espadas.
+
+142
+00:10:21,970 --> 00:10:24,460
+Eu irei aumentar a minha força.
+
+143
+00:10:24,810 --> 00:10:26,890
+Visto que você é o meu oponente.
+
+144
+00:10:26,890 --> 00:10:28,400
+Ah, Aniki!
+
+145
+00:10:28,400 --> 00:10:29,990
+Esse cara é perigoso!
+
+146
+00:10:30,490 --> 00:10:33,360
+Eu estou bem preparado para enfrentar um oponente formidável.
+
+147
+00:10:38,160 --> 00:10:39,030
+Aqui vou eu!
+
+148
+00:10:50,250 --> 00:10:54,090
+Esses não podem ser os movimentos de alguém machucado...
+
+149
+00:11:13,940 --> 00:11:14,610
+Isso!
+
+150
+00:11:20,110 --> 00:11:22,970
+Técnica Secreta: Lâmina de Sangue!
+
+151
+00:11:24,870 --> 00:11:26,830
+Então você tinha algo na manga!
+
+152
+00:11:28,530 --> 00:11:29,330
+Aniki!
+
+153
+00:11:38,800 --> 00:11:40,690
+V-Você está bem Aniki?
+
+154
+00:11:40,690 --> 00:11:43,110
+Estas feridas não são fatais...
+
+155
+00:11:43,110 --> 00:11:44,430
+Não se preocupe...
+
+156
+00:11:44,790 --> 00:11:47,510
+Um ataque que usa a sua própria força vital...
+
+157
+00:11:47,970 --> 00:11:49,690
+E pensar que ele aguentou...
+
+158
+00:11:50,030 --> 00:11:51,060
+Impressionante.
+
+159
+00:11:55,940 --> 00:11:58,420
+Se eu tivesse julgado mal por um segundo apenas,
+
+160
+00:11:58,420 --> 00:12:00,210
+estaria acabado.
+
+161
+00:12:01,100 --> 00:12:03,290
+No momento em que o vi cuspir sangue,
+
+162
+00:12:03,290 --> 00:12:05,730
+eu percebi que era uma forma de líquido.
+
+163
+00:12:07,310 --> 00:12:08,870
+Bem pensado, Aniki!
+
+164
+00:12:09,680 --> 00:12:12,060
+Eu talvez só tenha atrasado ele...
+
+165
+00:12:12,060 --> 00:12:15,330
+Mas pensar que ambos sobrevivemos contra oponentes tão fortes!
+
+166
+00:12:15,910 --> 00:12:17,190
+Estou tão aliviado.
+
+167
+00:12:18,250 --> 00:12:19,420
+Bulat...
+
+168
+00:12:21,600 --> 00:12:23,930
+Uma última coisa.
+
+169
+00:12:24,240 --> 00:12:29,340
+A verdadeira razão porque eu decidi me juntar ao Exército da Esdeath-sama.
+
+170
+00:12:33,660 --> 00:12:37,390
+Desaparecer desse jeito seria um completo desperdício para você.
+
+171
+00:12:37,880 --> 00:12:40,840
+Estive procurando um assistente competente.
+
+172
+00:12:41,690 --> 00:12:43,310
+Junte-se ao meu exército.
+
+173
+00:12:46,680 --> 00:12:49,750
+Mesmo que eu quisesse, ainda sou um criminoso.
+
+174
+00:12:49,750 --> 00:12:51,200
+Não posso regressar ao exército.
+
+175
+00:12:52,290 --> 00:12:53,830
+Deixe de ser tão hesitante.
+
+176
+00:12:54,040 --> 00:12:55,640
+Claro que você pode regressar.
+
+177
+00:12:55,640 --> 00:12:58,010
+Porque é isso que desejo.
+
+178
+00:12:58,010 --> 00:13:01,340
+O que significa que não deixarei ninguém se opor.
+
+179
+00:13:01,720 --> 00:13:03,950
+Mas o ministro não irá aceitar isso.
+
+180
+00:13:03,950 --> 00:13:07,050
+O ministro está a salvo graças a mim e ao meu exército.
+
+181
+00:13:07,050 --> 00:13:10,240
+Se for para fortificar esse exército, mais poder seria bem recebido.
+
+182
+00:13:11,130 --> 00:13:13,360
+Venha para o meu lado, Liver.
+
+183
+00:13:13,360 --> 00:13:15,440
+Se tem algo mais preocupando você
+
+184
+00:13:15,440 --> 00:13:17,190
+eu farei tudo isso desaparecer.
+
+185
+00:13:21,910 --> 00:13:25,130
+Colocando de forma simples, eu idolatrava ela.
+
+186
+00:13:25,620 --> 00:13:27,070
+Só isso.
+
+187
+00:13:28,140 --> 00:13:29,410
+Liver...
+
+188
+00:13:30,040 --> 00:13:31,190
+Então...
+
+189
+00:13:31,610 --> 00:13:34,760
+Como alguém que existe apenas para servir a Esdeath-sama,
+
+190
+00:13:35,160 --> 00:13:37,630
+eu tirarei a sua vida!
+
+191
+00:13:39,810 --> 00:13:40,710
+Aniki!
+
+192
+00:13:41,340 --> 00:13:44,850
+O frasco de antes não era apenas para aumentar a força...
+
+193
+00:13:45,890 --> 00:13:48,900
+Era também um veneno mortal!
+
+194
+00:13:49,850 --> 00:13:54,060
+O veneno irá correr em alguém como você, sem qualquer resistência.
+
+195
+00:13:54,620 --> 00:13:55,890
+Você não poderá ser salvo.
+
+196
+00:13:56,560 --> 00:13:58,120
+Eu...
+
+197
+00:13:58,120 --> 00:14:00,150
+irei... na frente.
+
+198
+00:14:08,330 --> 00:14:11,590
+Como esperado do meu antigo superior...
+
+199
+00:14:11,590 --> 00:14:13,240
+Um empate...?
+
+200
+00:14:15,560 --> 00:14:17,040
+Temos que nos apressar e conseguir ajuda pra você!
+
+201
+00:14:18,800 --> 00:14:19,730
+Tatsumi...
+
+202
+00:14:20,860 --> 00:14:24,250
+A batalha ainda não terminou...
+
+203
+00:14:27,910 --> 00:14:31,050
+Vocês pensam que a Lâmina de Sangue era o nosso trunfo?
+
+204
+00:14:31,690 --> 00:14:33,100
+Errado.
+
+205
+00:14:33,750 --> 00:14:36,150
+Eu sou o verdadeiro trunfo.
+
+206
+00:14:36,960 --> 00:14:40,440
+Técnica Secreta: Invocação do Demônio.
+
+207
+00:14:52,890 --> 00:14:57,630
+O propósito do meu Teigu, Scream, não é apenas afetar os outros.
+
+208
+00:14:58,060 --> 00:15:02,880
+Também pode ser usado para afetar o meu corpo.
+
+209
+00:15:04,550 --> 00:15:08,380
+Ele aumentou a sua força... Então essa é a sua técnica secreta.{Ter mais musculos não significa ter mais força... né?}
+
+210
+00:15:08,730 --> 00:15:14,600
+Ah, faz tempo desde que mudei para esta forma.
+
+211
+00:15:15,080 --> 00:15:16,170
+Isso é ruim.
+
+212
+00:15:16,640 --> 00:15:18,890
+Ele me venceu antes...
+
+213
+00:15:19,630 --> 00:15:21,550
+O que conseguirei fazer sozinho?
+
+214
+00:15:22,510 --> 00:15:23,440
+Tatsumi...
+
+215
+00:15:25,160 --> 00:15:28,610
+Tatsumi, confio isto a você.
+
+216
+00:15:29,880 --> 00:15:31,020
+Isso é...
+
+217
+00:15:31,460 --> 00:15:33,830
+É a chave do Incursio.
+
+218
+00:15:34,440 --> 00:15:37,830
+A armadura virá para quem possuir ela.
+
+219
+00:15:38,040 --> 00:15:41,040
+V-Você quer que eu use o seu Teigu?
+
+220
+00:15:42,720 --> 00:15:45,050
+Isso é impossível... Simplesmente impossível!
+
+221
+00:15:45,050 --> 00:15:47,660
+O Incursio coloca imensa pressão sobre o seu usuário.
+
+222
+00:15:47,660 --> 00:15:51,050
+É suficiente para matar qualquer um que o use, não é?
+
+223
+00:15:51,510 --> 00:15:53,400
+Se eu fosse você, não usaria ele.
+
+224
+00:15:53,880 --> 00:15:56,590
+Morrerá antes mesmo de lutar.
+
+225
+00:15:57,050 --> 00:15:59,060
+Vamos apenas lutar normalmente.
+
+226
+00:16:05,940 --> 00:16:09,930
+Não seja pego pelas palavras do seu inimigo, idiota!
+
+227
+00:16:11,250 --> 00:16:14,260
+Pense sobre o seu treino e pelo que passou!
+
+228
+00:16:14,260 --> 00:16:17,490
+Você é mais do que qualificado para usá-lo, Tatsumi!
+
+229
+00:16:18,650 --> 00:16:19,660
+Aniki!
+
+230
+00:16:21,690 --> 00:16:25,470
+Como eu estou vingando os outros dois, eu queria cortá-los em pedaços.
+
+231
+00:16:25,470 --> 00:16:27,970
+Mas se eles morrerem instantaneamente, seria chato.
+
+232
+00:16:28,780 --> 00:16:31,530
+Tem também a questão da compatibilidade com o Teigu.
+
+233
+00:16:31,990 --> 00:16:34,010
+Se você não é compatível, morrerá instantaneamente!
+
+234
+00:16:34,880 --> 00:16:37,070
+Compatibilidade entre o Teigu e você
+
+235
+00:16:37,070 --> 00:16:40,340
+é principalmente pela primeira impressão, como a sua reação à sua aparição.
+
+236
+00:16:41,300 --> 00:16:43,270
+E se você gostou dele ou não.
+
+237
+00:16:50,070 --> 00:16:51,900
+Uau, incrível!{Preguiça de checar o outro ep... alguém?}
+
+238
+00:16:52,340 --> 00:16:54,170
+Você consegue.
+
+239
+00:16:54,650 --> 00:16:56,450
+Vá, Tatsumi!
+
+240
+00:16:58,420 --> 00:16:59,430
+Aniki...
+
+241
+00:17:07,200 --> 00:17:10,580
+Alguém que eu respeito dizendo tudo isso...
+
+242
+00:17:11,950 --> 00:17:14,590
+Se eu não corresponder a isso, que tipo de homem serei eu?
+
+243
+00:17:15,100 --> 00:17:18,380
+Ah, então você vai usá-lo?
+
+244
+00:17:18,820 --> 00:17:20,040
+Bem, então...
+
+245
+00:17:20,040 --> 00:17:22,810
+Irei matá-lo antes que mate a si mesmo!
+
+246
+00:17:24,720 --> 00:17:26,240
+Grite, Tatsumi!
+
+247
+00:17:26,240 --> 00:17:28,220
+Com o seu espírito furioso!
+
+248
+00:17:32,160 --> 00:17:36,160
+Incursio!
+
+249
+00:17:42,080 --> 00:17:43,150
+A armadura...
+
+250
+00:17:43,500 --> 00:17:47,000
+Está mudando de forma para se adaptar ao corpo do Tatsumi!
+
+251
+00:17:50,080 --> 00:17:51,780
+O que há com essa armadura?
+
+252
+00:17:52,110 --> 00:17:54,800
+Não me diga... Que a sua forma bruta ainda está viva!{"Raw" traduzi para "bruta", pois "crua" não encaixaria}
+
+253
+00:17:55,750 --> 00:18:00,280
+O Incursio foi criado através da purificação de materiais brutos tirados do Tyrant,
+
+254
+00:18:00,280 --> 00:18:03,840
+uma besta perigosa do tipo dragão que tinha uma força vital sem igual.
+
+255
+00:18:04,810 --> 00:18:08,020
+Esse dragão conseguia andar por qualquer terra, fosse um deserto ardente ou uma tundra congelante.
+
+256
+00:18:08,400 --> 00:18:11,600
+Conseguia sobreviver em qualquer ambiente por evoluir e se adaptar.
+
+257
+00:18:12,150 --> 00:18:14,310
+Mesmo depois de usada em um Teigu,
+
+258
+00:18:14,310 --> 00:18:16,740
+a carne do dragão ainda está viva!
+
+259
+00:18:17,370 --> 00:18:19,450
+Q-Que Teigu incrível...
+
+260
+00:18:21,750 --> 00:18:22,950
+Tatsumi...
+
+261
+00:18:23,540 --> 00:18:24,880
+Entendo...
+
+262
+00:18:24,880 --> 00:18:26,460
+A sua paixão
+
+263
+00:18:26,460 --> 00:18:28,710
+fez com que o Incursio evoluísse mais uma vez!
+
+264
+00:18:33,010 --> 00:18:37,590
+Exército da Esdeath... Vocês cometeram múltiplos assassinatos com o nome dos Night Raid!
+
+265
+00:18:38,000 --> 00:18:39,930
+Está na hora de aceitarem a punição de vocês!
+
+266
+00:18:41,550 --> 00:18:43,890
+Você de repente ficou se achando.
+
+267
+00:18:45,050 --> 00:18:46,230
+Eu consigo sentir...
+
+268
+00:18:46,680 --> 00:18:50,400
+Esta armadura está vigorosamente aumentando a minha força!
+
+269
+00:18:52,610 --> 00:18:54,440
+Eu irei derrotá-lo!
+
+270
+00:18:57,120 --> 00:18:59,320
+Vá em frente e tente!
+
+271
+00:19:31,300 --> 00:19:32,470
+Incrível.{Falei que musculos não são força... ^^}
+
+272
+00:19:32,910 --> 00:19:35,250
+Se você agora é tão forte assim,
+
+273
+00:19:35,840 --> 00:19:37,530
+é claro que eventualmente,
+
+274
+00:19:38,290 --> 00:19:40,610
+irá me superar.
+
+275
+00:19:44,220 --> 00:19:46,270
+Continue em frente...
+
+276
+00:19:47,080 --> 00:19:49,280
+Eu estarei vigiando você.
+
+277
+00:20:07,320 --> 00:20:08,340
+Aniki...
+
+278
+00:20:09,650 --> 00:20:12,010
+Eu venci, graças a você.
+
+279
+00:20:13,620 --> 00:20:14,560
+Me desculpe.
+
+280
+00:20:15,210 --> 00:20:19,520
+Mesmo até o fim, eu fiz besteiras que fizeram você me socar.
+
+281
+00:20:20,330 --> 00:20:22,450
+Eu me tornarei mais forte...
+
+282
+00:20:23,290 --> 00:20:26,750
+E aprenderei a usar apropriadamente o Incursio.
+
+283
+00:20:27,920 --> 00:20:31,840
+E-Então... Então...
+
+284
+00:20:32,880 --> 00:20:35,440
+Está tudo bem se eu chorar agora, certo...
+
+285
+00:20:36,990 --> 00:20:38,340
+Aniki?
+
+286
+00:21:05,630 --> 00:21:08,790
+Corpos humanos são realmente divertidos!
+
+287
+00:21:09,270 --> 00:21:12,750
+Temos que nos livrar dos restos com fogo.
+
+288
+00:21:13,060 --> 00:21:16,220
+Colocar os bens que tiramos deles no mercado negro
+
+289
+00:21:16,220 --> 00:21:17,640
+seria um crime maior, não é?
+
+290
+00:21:19,020 --> 00:21:20,840
+Kurome, temos uma mensagem!
+
+291
+00:21:20,840 --> 00:21:23,060
+Você foi convocada para se apresentar na capital.
+
+292
+00:21:26,230 --> 00:21:27,680
+Apenas eu?
+
+293
+00:21:28,010 --> 00:21:28,730
+Sim.
+
+294
+00:21:28,730 --> 00:21:32,160
+Você é uma dos seis que foram escolhidos.
+
+295
+00:21:32,160 --> 00:21:33,440
+Seis?
+
+296
+00:21:33,440 --> 00:21:35,840
+Aparentemente, é para formar uma nova organização.
+
+297
+00:21:40,830 --> 00:21:42,660
+A capital...?
+
+298
+00:21:44,530 --> 00:21:46,720
+Talvez eu consiga ver você...
+
+299
+00:21:49,440 --> 00:21:51,220
+Onee-chan.
+
+300
+00:23:32,840 --> 00:23:40,060
+{\bord1.5\fad(800,0)\3c&HB6BCC0&\c&H37269E&\clip(280,404,1003,438)}Assassine a Fanática por Batalhas
+
+301
+00:23:32,840 --> 00:23:40,060
+{\bord1.5\3c&HB6BCC0&\fad(800,0)\c&H060402&\clip(277,433,1004,470)}Assassine a Fanática por Batalhas
+
+302
+00:23:40,060 --> 00:23:42,060
+
