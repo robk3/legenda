@@ -1,0 +1,1515 @@
+﻿1
+00:00:00,000 --> 00:00:10,000
+Baixe ja nosso aplicativo na play store
+Procure por: Cine House
+
+2
+00:00:00,000 --> 00:00:00,000
+O quê?
+
+3
+00:00:03,250 --> 00:00:05,090
+Quantos intrusos são e onde estão?
+
+4
+00:00:05,480 --> 00:00:08,570
+Segundo o sinal da barreira, são oito.
+
+5
+00:00:08,970 --> 00:00:11,360
+Estão nas proximidades da nossa base.
+
+6
+00:00:11,570 --> 00:00:13,740
+Tenho de elogiá-los por
+ terem encontrado este lugar.
+
+7
+00:00:14,290 --> 00:00:16,200
+Devem ser assassinos das tribos de perto.
+
+8
+00:00:16,690 --> 00:00:19,410
+Ande. Não deixe que escapem.
+
+9
+00:00:23,930 --> 00:00:26,340
+Você não está
+ acostumado a combater grupos.
+
+10
+00:00:26,340 --> 00:00:27,560
+Não se precipite!
+
+11
+00:00:27,820 --> 00:00:31,050
+Primeiro, você precisa ganhar
+ experiência de combate.
+
+12
+00:00:31,050 --> 00:00:31,770
+Certo.
+
+13
+00:00:32,270 --> 00:00:35,210
+E quando falar comigo, me
+ chame de Mano ou de Bonitão.
+
+14
+00:00:35,210 --> 00:00:36,540
+Beleza, Mano.
+
+15
+00:00:36,540 --> 00:00:38,260
+Isso aí! Soou legal!
+
+16
+00:00:38,260 --> 00:00:40,260
+Em troca, vou te mostrar uma coisa legal.
+
+17
+00:00:41,560 --> 00:00:43,940
+Incursio!
+
+18
+00:00:55,170 --> 00:00:57,200
+Nossa, legal!
+
+19
+00:00:57,200 --> 00:00:58,160
+Não é?
+
+20
+00:00:58,160 --> 00:01:00,110
+Este é o Braço Imperial Incursio.
+
+21
+00:01:00,110 --> 00:01:00,870
+Braço Imperial?
+
+22
+00:01:01,220 --> 00:01:03,190
+Não entendi bem, mas estou animado!
+
+23
+00:01:03,190 --> 00:01:06,120
+Você entende essa maravilhosidade?
+
+24
+00:01:14,740 --> 00:01:15,640
+O inimigo.
+
+25
+00:01:15,640 --> 00:01:16,560
+Vamos.
+
+26
+00:01:16,560 --> 00:01:18,300
+Veja só o quanto o
+ Braço Imperial é forte.
+
+27
+00:01:18,600 --> 00:01:19,530
+Certo!
+
+28
+00:02:51,940 --> 00:02:54,570
+{\an8\fs24}{\fad(565,1)}Mate suas preocupações {type}
+
+29
+00:02:54,570 --> 00:02:55,480
+{\an8\fs24}{\fad(1,806)}Mate suas preocupações
+
+30
+00:03:00,510 --> 00:03:02,550
+É um dos rostos do cartaz de procurado.
+
+31
+00:03:02,550 --> 00:03:05,580
+A base da Night Raid deve estar perto.
+
+32
+00:03:05,840 --> 00:03:07,460
+Ela é bonitinha.
+
+33
+00:03:07,460 --> 00:03:09,620
+Poderemos nos divertir
+ mesmo depois de matá-la.
+
+34
+00:03:09,620 --> 00:03:11,250
+Não estrague muito ela...
+
+35
+00:03:13,540 --> 00:03:14,400
+Ah.
+
+36
+00:03:14,400 --> 00:03:15,000
+
+
+37
+00:03:15,250 --> 00:03:18,260
+Baixou demais a guarda
+ em território inimigo.
+
+38
+00:03:18,720 --> 00:03:19,800
+Ela é rápida--
+
+39
+00:03:22,850 --> 00:03:25,290
+Droga! Pelo menos
+ enfrente ela comigo! {rever}
+
+40
+00:03:27,420 --> 00:03:29,890
+Veneno amaldiçoado de meus ferimentos?
+
+41
+00:03:34,460 --> 00:03:36,240
+Um corte, morte certa.
+
+42
+00:03:37,610 --> 00:03:38,980
+Perceberam nossa infiltração...
+
+43
+00:03:39,270 --> 00:03:42,650
+Mas confirmamos que a base
+ secreta da Night Raid fica aqui.
+
+44
+00:03:42,650 --> 00:03:45,070
+Essa informação por si
+ só já vale muito.
+
+45
+00:03:48,370 --> 00:03:50,580
+Eles fora bem longe...
+
+46
+00:03:51,390 --> 00:03:54,190
+Não gosto muito de ser vista, mas...
+
+47
+00:03:57,480 --> 00:03:58,920
+Te peguei!
+
+48
+00:04:01,450 --> 00:04:02,760
+Sinto muito.
+
+49
+00:04:03,130 --> 00:04:04,720
+Obrigada, Sheele.
+
+50
+00:04:05,150 --> 00:04:06,440
+Essa foi boa.
+
+51
+00:04:06,440 --> 00:04:08,610
+O risco foi o suficiente
+ para alcançá-lo.
+
+52
+00:04:23,700 --> 00:04:25,440
+Certo... na mosca.
+
+53
+00:04:25,440 --> 00:04:29,370
+Quanto maior o problema, maior o
+ poder de fogo da Abóbora.
+
+54
+00:04:29,750 --> 00:04:30,290
+
+
+55
+00:04:30,780 --> 00:04:33,350
+Foi a Abóbora da Mine.
+
+56
+00:04:33,350 --> 00:04:35,900
+É uma surpresa ela usar
+ um Braço Imperial tão irritante...
+
+57
+00:04:36,390 --> 00:04:40,300
+No meu caso, simplesmente me
+ transformo numa fera e acerto as pessoas.
+
+58
+00:04:40,300 --> 00:04:41,380
+Bem simples!
+
+59
+00:04:42,420 --> 00:04:44,750
+A resistência das cordas foi leve.
+
+60
+00:04:44,750 --> 00:04:45,880
+Você é mulher.
+
+61
+00:04:46,160 --> 00:04:48,930
+Salve-me! Faço qualquer coisa!
+
+62
+00:04:49,380 --> 00:04:50,310
+Não.
+
+63
+00:04:51,010 --> 00:04:54,140
+Conheci alguém que morreu porque
+ caiu no charme de uma mulher.
+
+64
+00:05:10,200 --> 00:05:12,220
+Que desperdício.
+
+65
+00:05:13,200 --> 00:05:15,970
+Este trabalho é ruim
+ em momentos assim...
+
+66
+00:05:33,620 --> 00:05:34,220
+Mano!
+
+67
+00:05:41,120 --> 00:05:42,730
+F-Forte...
+
+68
+00:05:43,260 --> 00:05:47,200
+Este é o poder da Night Raid?
+
+69
+00:05:48,770 --> 00:05:50,620
+Você sobreviveu, Tatsumi.
+
+70
+00:05:52,190 --> 00:05:53,410
+S-Sim.
+
+71
+00:05:53,790 --> 00:05:56,710
+Ótimo! Quer dizer que você
+ é uma promessa, Tatsumi.
+
+72
+00:05:59,900 --> 00:06:00,750
+É!
+
+73
+00:06:16,430 --> 00:06:17,920
+Assassinos...
+
+74
+00:06:17,920 --> 00:06:19,810
+E a necessidade de uma revolução.
+
+75
+00:06:20,430 --> 00:06:21,700
+Night Raid.
+
+76
+00:06:22,600 --> 00:06:25,900
+Aparentemente entrei para
+ um grupo incrível.
+
+77
+00:06:36,820 --> 00:06:39,080
+Por que pensei na cara do mano?
+
+78
+00:06:45,510 --> 00:06:47,210
+É aqui que fica a capital.
+
+79
+00:06:47,440 --> 00:06:49,630
+A enorme muralha que protege a capital,
+
+80
+00:06:49,630 --> 00:06:51,600
+os navios de comércio que
+ entram e saem do canal.
+
+81
+00:06:51,600 --> 00:06:53,080
+Tem muita coisa aqui.
+
+82
+00:06:53,920 --> 00:06:56,500
+Principalmente as gatinhas.
+
+83
+00:06:56,500 --> 00:06:57,220
+É!
+
+84
+00:06:57,380 --> 00:06:58,140
+Que podre.
+
+85
+00:06:58,850 --> 00:07:00,100
+Por que só eu?
+
+86
+00:07:03,780 --> 00:07:05,690
+Sayo... Ieyasu...
+
+87
+00:07:06,400 --> 00:07:08,620
+Farei meu melhor.
+
+88
+00:07:17,460 --> 00:07:18,910
+Algum problema?
+
+89
+00:07:18,910 --> 00:07:20,490
+Sheele...
+
+90
+00:07:20,900 --> 00:07:21,810
+Bem...
+
+91
+00:07:22,340 --> 00:07:25,580
+Me disseram que a partir de hoje
+ eu teria trabalho com a Mine.
+
+92
+00:07:25,580 --> 00:07:27,090
+Por isso estive esperando...
+
+93
+00:07:27,290 --> 00:07:30,370
+A Mine não acorda facilmente.
+
+94
+00:07:30,370 --> 00:07:32,660
+Que diabos? Mas é trabalho...
+
+95
+00:07:33,140 --> 00:07:34,940
+Acho que não tem jeito...
+
+96
+00:07:34,940 --> 00:07:36,530
+Devo ir acordá-la?
+
+97
+00:07:36,530 --> 00:07:38,850
+Não, o Tatsumi deve ir.
+
+98
+00:07:39,080 --> 00:07:40,440
+Por que eu!?
+
+99
+00:07:40,440 --> 00:07:42,630
+Tatsumi, hoje você é
+ subordinado da Mine.
+
+100
+00:07:42,630 --> 00:07:45,110
+Faz parte do seu
+ trabalho chamar o superior.
+
+101
+00:07:47,520 --> 00:07:48,320
+Certo.
+
+102
+00:07:50,930 --> 00:07:52,770
+Isso é verdade?
+
+103
+00:07:54,020 --> 00:07:55,160
+É mais um teste.
+
+104
+00:07:55,620 --> 00:07:56,310
+
+
+105
+00:07:57,270 --> 00:08:00,080
+Ei, Mine! Acorde lo--
+
+106
+00:08:15,330 --> 00:08:17,070
+V-Você quer me matar!?
+
+107
+00:08:17,070 --> 00:08:18,160
+Quero!
+
+108
+00:08:18,160 --> 00:08:19,820
+Por isso atirei em você!
+
+109
+00:08:19,820 --> 00:08:21,980
+Como ousa desviar, seu tarado!
+
+110
+00:08:22,290 --> 00:08:23,450
+Idiota!
+
+111
+00:08:23,450 --> 00:08:27,270
+Me disseram para vir te... acordar...
+
+112
+00:08:27,550 --> 00:08:30,530
+Não sabe bater na porta? Seu jeca!
+
+113
+00:08:34,070 --> 00:08:36,100
+O que é isso? Está
+ tendo algum festival?
+
+114
+00:08:36,100 --> 00:08:37,810
+E aconteceu mesmo.
+
+115
+00:08:38,150 --> 00:08:40,040
+O Tatsumi vai ter mais trabalho a fazer.
+
+116
+00:08:47,630 --> 00:08:51,300
+Agora, olhando melhor para a
+ capital que tanto admirei,
+
+117
+00:08:51,300 --> 00:08:53,420
+vejo que tem muita
+ gente com rosto triste.
+
+118
+00:08:53,420 --> 00:08:55,800
+Ei! Ei, espreitador!
+
+119
+00:08:55,800 --> 00:08:59,030
+Por que está demorando, jeca?
+
+120
+00:08:59,760 --> 00:09:02,640
+Hoje você vai ser meu escravo, não é?
+
+121
+00:09:02,640 --> 00:09:03,520
+Escravo?
+
+122
+00:09:03,520 --> 00:09:05,000
+A chefe não te contou?
+
+123
+00:09:05,000 --> 00:09:07,400
+Ela me disse para aprender contigo!
+
+124
+00:09:07,670 --> 00:09:10,040
+Isso significa que você é meu escravo.
+
+125
+00:09:10,040 --> 00:09:11,920
+Apresse-se!
+
+126
+00:09:11,920 --> 00:09:13,150
+E-Ei, espe--
+
+127
+00:09:16,900 --> 00:09:17,900
+Mine...
+
+128
+00:09:18,760 --> 00:09:21,350
+Não parece que tem muita gente sofrendo?
+
+129
+00:09:21,350 --> 00:09:24,230
+Estão num período ruim de economia
+ e também têm medo político...
+
+130
+00:09:24,620 --> 00:09:26,900
+Só uma camada social vive prosperamente.
+
+131
+00:09:26,900 --> 00:09:28,850
+O resto vive em periferias.
+
+132
+00:09:28,850 --> 00:09:30,090
+Esta é a realidade.
+
+133
+00:09:35,760 --> 00:09:37,180
+O que vocês--
+
+134
+00:09:37,180 --> 00:09:39,510
+Pare de abuse do mais fraco.
+
+135
+00:09:40,080 --> 00:09:41,730
+Quem são vocês?
+
+136
+00:09:41,730 --> 00:09:45,290
+A garota é refugiada.
+
+137
+00:09:45,290 --> 00:09:47,230
+Ela tem de fazer o que mandamos.
+
+138
+00:09:47,230 --> 00:09:48,190
+E?
+
+139
+00:09:49,380 --> 00:09:50,130
+Tatsumi?
+
+140
+00:09:50,130 --> 00:09:50,830
+Certo.
+
+141
+00:10:01,660 --> 00:10:03,620
+Obriga--
+
+142
+00:10:03,620 --> 00:10:05,240
+Não me agradeça.
+
+143
+00:10:05,970 --> 00:10:09,050
+Você tem de aprender a se proteger.
+
+144
+00:10:15,040 --> 00:10:18,710
+A propósito, podemos andar
+ por aí durante o dia?
+
+145
+00:10:18,710 --> 00:10:19,400
+
+
+146
+00:10:19,400 --> 00:10:22,680
+Aqueles quatro são os únicos
+ que tiveram os rostos vistos.
+
+147
+00:10:23,530 --> 00:10:24,760
+Entendi...
+
+148
+00:10:26,560 --> 00:10:28,330
+Quem é o do meio?
+
+149
+00:10:28,330 --> 00:10:29,480
+Bulat.
+
+150
+00:10:29,480 --> 00:10:31,400
+Ah, Bulat...
+
+151
+00:10:32,690 --> 00:10:34,620
+M-Mano?
+
+152
+00:10:34,620 --> 00:10:36,740
+Ele era assim quando estava no exército.
+
+153
+00:10:36,740 --> 00:10:38,860
+Ele mudou sua imagem depois de
+ entrar para a Night Raid.
+
+154
+00:10:41,800 --> 00:10:43,480
+Não é exagero?
+
+155
+00:10:45,050 --> 00:10:48,280
+Este é o pior "antes e depois" do mundo.
+
+156
+00:10:48,280 --> 00:10:50,740
+É por isso que nós
+ dois, que não fomos vistos,
+
+157
+00:10:50,740 --> 00:10:52,300
+recebemos este trabalho.
+
+158
+00:10:52,300 --> 00:10:53,140
+Sacou?
+
+159
+00:10:53,140 --> 00:10:54,370
+Pode vir!
+
+160
+00:10:54,370 --> 00:10:56,300
+Por isso me trouxe, certo?
+
+161
+00:10:56,300 --> 00:10:57,280
+Ótimo!
+
+162
+00:10:57,280 --> 00:10:59,640
+Vamos começar a investigação sobre
+ a condição da capital imperial!
+
+163
+00:10:59,640 --> 00:11:01,890
+Não entendi nada, mas beleza!
+
+164
+00:11:20,860 --> 00:11:22,410
+Que coisa!
+
+165
+00:11:22,410 --> 00:11:25,270
+Na primavera, roupas
+ rosas são melhores...
+
+166
+00:11:25,610 --> 00:11:26,620
+Certo.
+
+167
+00:11:26,620 --> 00:11:29,360
+Temos de relaxar
+ durante os dias de folga.
+
+168
+00:11:29,360 --> 00:11:30,160
+Certo.
+
+169
+00:11:31,140 --> 00:11:32,920
+Muito bem, missão concluída!
+
+170
+00:11:33,280 --> 00:11:35,750
+Quê? Só fizemos compras.
+
+171
+00:11:35,940 --> 00:11:37,120
+Abaixe a cabeça.
+
+172
+00:11:38,800 --> 00:11:41,370
+Eu estou no topo, você no fundo.
+
+173
+00:11:41,370 --> 00:11:42,890
+Um subordinado não deve responder.
+
+174
+00:11:43,840 --> 00:11:46,680
+Você deveria estar agradecido
+ por carregar minhas coisas!
+
+175
+00:11:47,340 --> 00:11:49,850
+Você é minha superior, mas só agora!
+
+176
+00:11:49,850 --> 00:11:51,640
+Isso aqui não é treinamento!
+
+177
+00:11:51,640 --> 00:11:53,020
+
+
+178
+00:11:53,020 --> 00:11:55,710
+Realmente achou que fosse
+ ficar em termos iguais?
+
+179
+00:11:56,140 --> 00:11:58,820
+Você deve confiar muito em sua espada.
+
+180
+00:12:01,080 --> 00:12:04,110
+Mas comparado a você, o número de
+ batalhas que enfrentamos é diferente demais.
+
+181
+00:12:04,780 --> 00:12:05,660
+Até eu...
+
+182
+00:12:07,110 --> 00:12:11,390
+Até eu sei que
+ não sou muito experiente.
+
+183
+00:12:12,280 --> 00:12:12,870
+Mas...
+
+184
+00:12:13,320 --> 00:12:15,340
+Ainda tenho de seguir adiante.
+
+185
+00:12:15,340 --> 00:12:17,090
+Pela Sayo e o Ieyasu!
+
+186
+00:12:19,330 --> 00:12:20,030
+
+
+187
+00:12:20,320 --> 00:12:23,220
+Akame e Bulat têm
+ grandes esperanças em você.
+
+188
+00:12:23,220 --> 00:12:24,640
+Mas eu não sei...
+
+189
+00:12:28,180 --> 00:12:29,340
+Que confusão é essa?
+
+190
+00:12:29,640 --> 00:12:31,140
+Deve estar tendo uma execução pública.
+
+191
+00:12:31,500 --> 00:12:33,400
+Acontece o tempo todo na capital.
+
+192
+00:12:45,350 --> 00:12:46,050
+Isso...
+
+193
+00:12:46,990 --> 00:12:48,740
+é horroroso.
+
+194
+00:12:49,430 --> 00:12:52,330
+O ministro atual faz
+ isso sem remorso algum.
+
+195
+00:12:52,800 --> 00:12:56,250
+Na luta pela sucessão, ele ganhou
+ o título de herdeiro mais jovem.
+
+196
+00:12:56,960 --> 00:12:57,670
+Eu não
+
+197
+00:12:58,710 --> 00:13:00,380
+acabarei assim.
+
+198
+00:13:02,830 --> 00:13:05,340
+Sobreviverei e serei um dos vencedores.
+
+199
+00:13:08,100 --> 00:13:09,710
+Um astuto ministro.
+
+200
+00:13:10,410 --> 00:13:13,010
+Como será ele?
+
+201
+00:13:22,840 --> 00:13:24,430
+Shoui, dos Assuntos Internos,
+
+202
+00:13:24,980 --> 00:13:28,220
+por ser contra minha política
+ e atrasar negócios do governo,
+
+203
+00:13:28,220 --> 00:13:31,450
+você está sentenciado à morte; será
+ rasgado em quatro sendo puxado por bois
+
+204
+00:13:34,690 --> 00:13:36,580
+Isso precisa ser feito, não, Ministro?
+
+205
+00:13:39,030 --> 00:13:40,490
+Bom trabalho, milorde.
+
+206
+00:13:40,920 --> 00:13:44,300
+Você é um sábio governante, milorde.
+
+207
+00:13:44,590 --> 00:13:47,430
+Carne outra vez? Você come bastante.
+
+208
+00:13:48,710 --> 00:13:51,310
+É bom comer ainda fresco.
+
+209
+00:13:51,720 --> 00:13:53,270
+Bom, bom.
+
+210
+00:13:54,290 --> 00:13:57,020
+Milorde! O senhor está
+ sendo enganado pelo Ministro!
+
+211
+00:13:57,290 --> 00:14:00,990
+Ouça teu povo!
+
+212
+00:14:01,690 --> 00:14:04,390
+Ministro, ouviu o que
+ ele falou sobre você?
+
+213
+00:14:04,830 --> 00:14:07,380
+Ele só deve estar nervoso.
+
+214
+00:14:07,380 --> 00:14:11,370
+Verdade! Afinal, você nunca errou!
+
+215
+00:14:13,330 --> 00:14:14,500
+Sr. Shoui...
+
+216
+00:14:15,700 --> 00:14:17,370
+Este é um adeus...
+
+217
+00:14:17,370 --> 00:14:18,690
+Milorde!
+
+218
+00:14:18,690 --> 00:14:21,500
+Desse jeito, os 1.000 anos
+ de história do império serão--
+
+219
+00:14:25,090 --> 00:14:26,570
+Sr. Shoui,
+
+220
+00:14:27,230 --> 00:14:32,540
+não se preocupe com a
+ linda esposa que você deixará.
+
+221
+00:14:32,960 --> 00:14:35,310
+Eu cuidarei bem dela.
+
+222
+00:14:36,340 --> 00:14:38,440
+De todas as formas.
+
+223
+00:14:41,500 --> 00:14:46,730
+Isso deve acontecer?
+
+224
+00:14:47,330 --> 00:14:50,130
+Todo crime deve ser punido.
+
+225
+00:14:50,700 --> 00:14:53,030
+Alguém, por favor...
+
+226
+00:14:53,490 --> 00:14:57,410
+Dê a este demônio o que ele merece!
+
+227
+00:14:59,330 --> 00:15:01,070
+Recebemos uma nova tarefa.
+
+228
+00:15:01,670 --> 00:15:05,880
+O alvo, Iokal, é um parente
+ distante do Ministro Onest.
+
+229
+00:15:06,350 --> 00:15:07,880
+Ele usa o nome do ministro
+
+230
+00:15:07,880 --> 00:15:11,060
+para sequestrar mulheres e
+ bater nelas até a morte.
+
+231
+00:15:11,060 --> 00:15:12,550
+Seus cinco guardas
+
+232
+00:15:12,550 --> 00:15:15,190
+fazem parte do esquema
+ e também são culpados.
+
+233
+00:15:15,870 --> 00:15:17,100
+Esta é uma missão
+ extremamente importante.
+
+234
+00:15:17,740 --> 00:15:19,060
+Enviarei todos vocês!
+
+235
+00:15:20,770 --> 00:15:23,130
+Então esta é a mansão
+ em que Iokal mora.
+
+236
+00:15:24,260 --> 00:15:25,520
+É enorme.
+
+237
+00:15:26,710 --> 00:15:27,340
+Ei.
+
+238
+00:15:27,340 --> 00:15:28,480
+O quê?
+
+239
+00:15:28,480 --> 00:15:30,340
+Este é outro daqueles Braços Imperiais?
+
+240
+00:15:30,340 --> 00:15:32,450
+Sim, Braço Imperial Abóbora.
+
+241
+00:15:32,860 --> 00:15:36,280
+Quanto pior for a enrascada do
+ usuário, maior seu poder destrutivo.
+
+242
+00:15:36,910 --> 00:15:40,290
+Mas nunca fico encurralada.
+
+243
+00:15:40,650 --> 00:15:43,300
+Como se faz uma coisa dessas?
+
+244
+00:15:43,620 --> 00:15:45,840
+Braços Imperiais são
+ superarmas antigas.
+
+245
+00:15:45,840 --> 00:15:48,400
+E, atualmente, não se
+ sabe como são feitas.
+
+246
+00:15:48,400 --> 00:15:50,330
+Você fala demais, sabia?
+
+247
+00:15:54,190 --> 00:15:56,610
+Não devo ter problemas
+ a esta distância.
+
+248
+00:15:56,610 --> 00:15:59,390
+Assim que ele deixar
+ a mansão, perfurarei-o.
+
+249
+00:15:59,390 --> 00:16:03,620
+Certo! Depois que acertá-lo,
+ meu trabalho será escoltá-la.
+
+250
+00:16:03,620 --> 00:16:04,740
+Deixa comigo!
+
+251
+00:16:04,740 --> 00:16:05,540
+
+
+252
+00:16:05,980 --> 00:16:07,790
+Não espero nada.
+
+253
+00:16:16,130 --> 00:16:18,030
+A concentração dela é impressionante.
+
+254
+00:16:18,030 --> 00:16:20,200
+Posso sentir a aura daqui.
+
+255
+00:16:20,200 --> 00:16:21,170
+Ele saiu.
+
+256
+00:16:21,170 --> 00:16:21,920
+
+
+257
+00:16:22,250 --> 00:16:23,140
+Onde?
+
+258
+00:16:25,460 --> 00:16:28,270
+Muita gente que não
+ é alvo também saiu.
+
+259
+00:16:28,270 --> 00:16:29,350
+E?
+
+260
+00:16:29,350 --> 00:16:30,770
+Como assim "e"?
+
+261
+00:16:30,770 --> 00:16:32,290
+Como vai acertá-lo?
+
+262
+00:16:32,290 --> 00:16:33,490
+Isso é irrelevante.
+
+263
+00:16:33,780 --> 00:16:35,090
+Irrelevante?
+
+264
+00:16:35,090 --> 00:16:37,470
+Não me diga que vai envolver inocen--
+
+265
+00:16:45,710 --> 00:16:48,570
+Sou uma atiradora de ponta.
+
+266
+00:16:49,210 --> 00:16:52,000
+Encontrem quem matou
+ Lorde Iokal imediatamente!
+
+267
+00:16:52,000 --> 00:16:54,810
+Se não pegarmos, o ministro nos matará.
+
+268
+00:16:54,810 --> 00:16:56,410
+Não deve estar longe!
+
+269
+00:16:58,880 --> 00:17:00,410
+Lá vem eles.
+
+270
+00:17:00,540 --> 00:17:04,370
+Dessa vez eu vou causar!
+
+271
+00:17:06,390 --> 00:17:10,100
+Esta outra rota é
+ de difícil locomoção.
+
+272
+00:17:10,550 --> 00:17:12,050
+Será que os perseguidores
+ foram eliminados?
+
+273
+00:17:12,830 --> 00:17:16,130
+Todos os guardas daqui
+ treinaram no Koukenji.
+
+274
+00:17:16,130 --> 00:17:17,840
+Não será tão fácil.
+
+275
+00:17:17,840 --> 00:17:21,010
+Koukenji, o melhor tempo de
+ artes marciais do império.
+
+276
+00:17:17,840 --> 00:17:21,470
+{\an8\fs24}Koukenji {type}
+
+277
+00:17:21,870 --> 00:17:25,580
+Quando se trabalhar para o
+ ministro, não usam guardas bundões.
+
+278
+00:17:25,580 --> 00:17:27,780
+Fazer algo só porque
+ é parente de alguém...
+
+279
+00:17:27,780 --> 00:17:29,730
+Isso me irrita mais que tudo.
+
+280
+00:17:33,220 --> 00:17:34,700
+O que será que houve no passado dela?
+
+281
+00:17:36,470 --> 00:17:39,550
+Vou te contar um segredo
+ sobre meu passado, como brinde.
+
+282
+00:17:39,550 --> 00:17:40,910
+Ela vai me contar!
+
+283
+00:17:43,680 --> 00:17:46,620
+Sou de uma terra da fronteira oeste.
+
+284
+00:17:47,610 --> 00:17:49,450
+E sou meia-estrangeira.
+
+285
+00:17:50,030 --> 00:17:52,130
+Eu fui muito discriminada na cidade.
+
+286
+00:17:52,870 --> 00:17:55,630
+Ninguém me aceitava.
+
+287
+00:17:56,580 --> 00:17:58,560
+Foi uma infância trágica.
+
+288
+00:18:00,030 --> 00:18:01,080
+Mas...
+
+289
+00:18:01,080 --> 00:18:05,130
+O Exército Revolucionário e os
+ estrangeiros do oeste são aliados.
+
+290
+00:18:05,130 --> 00:18:09,610
+Quando a capital tiver um novo governante, as
+ fronteiras serão abertas e a geografia não importará.
+
+291
+00:18:09,960 --> 00:18:13,940
+Assim outras pessoas não
+ passarão por o que passei.
+
+292
+00:18:14,380 --> 00:18:17,450
+Não deixarei mais
+ ninguém ser discriminado!
+
+293
+00:18:18,920 --> 00:18:19,660
+Mine...
+
+294
+00:18:20,790 --> 00:18:23,480
+Ficarei rica como recompensa
+
+295
+00:18:23,480 --> 00:18:26,900
+por ajudar na revolução e
+ terei uma vida de luxo!
+
+296
+00:18:32,560 --> 00:18:34,220
+Me sinto ótimo e calmo!
+
+297
+00:18:34,800 --> 00:18:36,550
+Eles eram fortes.
+
+298
+00:18:37,000 --> 00:18:38,070
+Estranho...
+
+299
+00:18:38,650 --> 00:18:40,970
+Deveriam ser cinco guardas.
+
+300
+00:18:41,350 --> 00:18:44,690
+Eu não matei nem
+ um... está faltando um.
+
+301
+00:18:44,690 --> 00:18:46,980
+Então você fica com
+ metade da recompensa, Lubbock.
+
+302
+00:18:46,980 --> 00:18:47,600
+Quê!?
+
+303
+00:18:48,080 --> 00:18:50,420
+Não é justo!
+
+304
+00:18:48,540 --> 00:18:50,420
+Seu podre... {rever}
+
+305
+00:18:54,360 --> 00:18:55,320
+Tatsumi...
+
+306
+00:18:59,150 --> 00:19:01,020
+É aqui que devemos reagrupar.
+
+307
+00:19:01,020 --> 00:19:02,370
+Missão concluída.
+
+308
+00:19:02,840 --> 00:19:04,830
+Ela não acaba até reportarmos!
+
+309
+00:19:05,760 --> 00:19:07,220
+Foi a Akame que falou? {reveR}
+
+310
+00:19:10,000 --> 00:19:10,880
+Cuidado!
+
+311
+00:19:10,430 --> 00:19:10,880
+Ele--
+
+312
+00:19:13,130 --> 00:19:13,910
+Tatsumi!
+
+313
+00:19:13,910 --> 00:19:15,250
+Por que você...
+
+314
+00:19:15,590 --> 00:19:18,360
+Nada mal, devo dizer.
+
+315
+00:19:18,360 --> 00:19:20,260
+Você deve ser do Koukenji.
+
+316
+00:19:20,740 --> 00:19:23,360
+Precisamente. Eu era um mestre...
+
+317
+00:19:23,690 --> 00:19:25,310
+Mas isso foi há dez anos!
+
+318
+00:19:25,690 --> 00:19:28,130
+E agora é um guarda raso?
+
+319
+00:19:28,130 --> 00:19:30,560
+Você desceu na vida!
+
+320
+00:19:30,560 --> 00:19:32,690
+Eu era um pouco mau, me expulsaram.
+
+321
+00:19:36,640 --> 00:19:39,000
+Vou me divertir um pouco antes
+ de te entregar ao ministro.
+
+322
+00:19:39,000 --> 00:19:40,030
+Espero que esteja preparada!
+
+323
+00:19:41,030 --> 00:19:42,280
+Só pode estar brincando.
+
+324
+00:19:49,720 --> 00:19:51,170
+Agora, Mine! Atire!
+
+325
+00:19:52,270 --> 00:19:53,440
+Tatsumi...
+
+326
+00:19:54,230 --> 00:19:56,460
+Está arriscando sua vida para...
+
+327
+00:19:56,630 --> 00:19:58,090
+Não, não estou, idiota!
+
+328
+00:19:58,540 --> 00:20:00,550
+Você é atiradora de ponta, certo?
+
+329
+00:20:00,550 --> 00:20:01,550
+Acredito em você.
+
+330
+00:20:04,710 --> 00:20:07,100
+Maldito... solte...
+
+331
+00:20:06,780 --> 00:20:07,720
+Rápido!
+
+332
+00:20:08,740 --> 00:20:10,400
+Novato estúpido.
+
+333
+00:20:11,050 --> 00:20:13,060
+Certo, vou atirar!
+
+334
+00:20:13,760 --> 00:20:14,310
+Espere!
+
+335
+00:20:35,570 --> 00:20:36,770
+Desgraçados...
+
+336
+00:20:36,770 --> 00:20:38,410
+Não pense que fugirão...
+
+337
+00:20:38,410 --> 00:20:42,090
+depois de matar um parente do ministro...
+
+338
+00:20:50,720 --> 00:20:53,780
+Você tem coragem.
+
+339
+00:20:54,680 --> 00:20:57,190
+Acho que vou ter que
+ te reconhecer um pou-
+
+340
+00:20:57,190 --> 00:20:59,940
+Aquela bala passou perto.
+
+341
+00:21:00,390 --> 00:21:03,200
+Olha o que fez na minha cabeça!
+
+342
+00:21:03,420 --> 00:21:05,540
+Q-Quê!?
+
+343
+00:21:05,540 --> 00:21:07,710
+E eu estava para te reconhecer!
+
+344
+00:21:07,710 --> 00:21:08,620
+Cala a boca!
+
+345
+00:21:08,620 --> 00:21:10,370
+Você não é de ponta.
+
+346
+00:21:10,370 --> 00:21:11,310
+{\an8}Nem é competente!
+
+347
+00:21:10,580 --> 00:21:13,120
+Não precisávamos ter pressa, afinal.
+
+348
+00:21:11,310 --> 00:21:13,120
+{\an8}Como? Claro que sou!
+
+349
+00:21:13,680 --> 00:21:16,070
+Mestres não se entitulam mestres!
+
+350
+00:21:20,640 --> 00:21:22,730
+Assim como eu...
+
+351
+00:21:22,730 --> 00:21:26,510
+Usuário de Braço
+ Imperial, um assassino...
+
+352
+00:21:27,540 --> 00:21:29,710
+Esplêndido... esplêndido.
+
+353
+00:21:29,710 --> 00:21:31,770
+Existe alguém como ela por aí.
+
+354
+00:21:32,120 --> 00:21:33,890
+Ei, você!
+
+355
+00:21:33,890 --> 00:21:36,440
+Você é suspeito... não se mexa!
+
+356
+00:21:43,800 --> 00:21:48,440
+Parece que a capital é um
+ lugar confortável para se viver.
+
+357
+00:21:49,240 --> 00:21:52,980
+Tem muita gente, um número
+ grande para eu cortar!
+
+358
+00:21:52,980 --> 00:21:55,240
+Esplêndido... esplêndido.
+
+359
+00:23:35,390 --> 00:23:41,020
+{\an8\fs24}{\fad(442,1)}Mate os usuários de Braço Imperial {type}
+
