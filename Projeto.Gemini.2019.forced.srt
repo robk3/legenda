@@ -4,11 +4,11 @@ PROJETO GEMINI
 
 2
 00:01:27,859 --> 00:01:31,779
-Liège, Bélgica
+LiÃ¨ge, BÃ©lgica
 
 3
 00:04:51,187 --> 00:04:55,149
-Baía de Buttermilk, Geórgia
+BaÃ­a de Buttermilk, GeÃ³rgia
 
 4
 00:10:44,749 --> 00:10:48,294
@@ -17,25 +17,25 @@ Budapeste
 
 5
 00:11:22,829 --> 00:11:24,372
-Agência de Inteligência da Defesa
-Virgínia
+AgÃªncia de InteligÃªncia da Defesa
+VirgÃ­nia
 
 6
 00:16:00,606 --> 00:16:04,944
-Agência de Inteligência da Defesa
+AgÃªncia de InteligÃªncia da Defesa
 DANIELLE ZAKAREWSKI
 
 7
 00:31:09,891 --> 00:31:12,852
-Cartagena, Colômbia
+Cartagena, ColÃ´mbia
 
 8
 00:45:56,611 --> 00:46:00,573
-Glennville, Geórgia
+Glennville, GeÃ³rgia
 
 9
 00:49:18,062 --> 00:49:20,773
-EXERCÍCIO FINALIZADO
+EXERCÃCIO FINALIZADO
 
 10
 00:50:24,879 --> 00:50:28,800
