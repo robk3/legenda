@@ -1,0 +1,39 @@
+﻿1
+00:24:12,650 --> 00:24:13,960
+Oi, eu sou o Goku!
+
+2
+00:24:14,220 --> 00:24:17,070
+Finalmente consegui!
+É a Esfera de Quatro Estrelas do meu avô!
+
+3
+00:24:17,770 --> 00:24:22,010
+Não fique tão contente.
+Finalmente chegou sua hora!
+
+4
+00:24:22,110 --> 00:24:25,010
+Como?! Não serei derrotado por você e nem por ninguém!
+
+5
+00:24:25,020 --> 00:24:26,670
+Isso é o que veremos, pirralho.
+
+6
+00:24:26,820 --> 00:24:28,970
+Acha que pode vencer o Tao Pai Pai?
+
+7
+00:24:29,490 --> 00:24:34,270
+Próximo episódio de Dragon Ball:
+<font size="28">"Chegou! O assassino número um do mundo "Tao Pai Pai"</font>
+
+8
+00:24:34,660 --> 00:24:35,960
+Não percam!
+
+9
+00:24:34,780 --> 00:24:38,260
+<font size="29">Chegou! O assassino número um do mundo "Tao Pai Pai"</font>
+
