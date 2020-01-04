@@ -1,0 +1,1610 @@
+﻿1
+00:00:00,590 --> 00:01:00,590
+{\fad((500,600))}Cine House
+
+2
+00:00:03,870 --> 00:00:07,200
+Você queria tanto assim
+se tornar um super-herói?
+
+3
+00:00:07,840 --> 00:00:11,260
+Queria tanto assim
+salvar a Eri, Lemillion?
+
+4
+00:00:11,260 --> 00:00:13,720
+{\fad(200,1)}Vilão
+{\fs17\c&H94209F&\3c&H000000&}{\fs22}Overhaul
+{\fs16\c&HFFFFFF&\3c&H7A3022&}Indiv.: {\3c&H000000&}Overhaul
+
+5
+00:00:11,260 --> 00:00:14,380
+É a doença suja da nossa era.
+
+6
+00:00:14,380 --> 00:00:19,600
+Eu conserto desgraçados como
+você com o poder da Eri!
+
+7
+00:00:16,970 --> 00:00:19,350
+Eri
+
+8
+00:00:20,180 --> 00:00:22,230
+Nighteye...
+
+9
+00:00:22,230 --> 00:00:23,890
+Tamaki...
+
+10
+00:00:23,890 --> 00:00:25,600
+Pessoal!
+
+11
+00:00:25,600 --> 00:00:27,760
+Chisaki!
+
+12
+00:00:26,610 --> 00:00:30,230
+Eu achei que tivesse dito
+que abandonei este nome!
+
+13
+00:02:05,990 --> 00:02:09,000
+{\fad(1,250)\pos(215,250)}Alguns minutos atrás
+
+14
+00:02:07,500 --> 00:02:09,670
+Que bom que acabamos
+com o labirinto vivo,
+
+15
+00:02:09,670 --> 00:02:11,560
+mas é difícil saber
+para onde ir agora.
+
+16
+00:02:11,560 --> 00:02:14,550
+{\fad(1,334)}Super-herói Profissional
+{\fs21\c&H0091EB&}Sir Nighteye
+{\fs17\c&HFBFBFD&\3c&H1A1A97&}Indiv: {\3c&H000000&}Previsão
+
+17
+00:02:11,560 --> 00:02:14,550
+{\fad(1,334)}Super-herói Profissional
+{\fs21\c&H0091EB&}Shota Aizawa
+{\fs17\c&HFBFBFD&\3c&H1A1A97&}Indiv: {\3c&H000000&}Apagar
+
+18
+00:02:12,090 --> 00:02:15,360
+Eu sei em que direção
+fica o quarto da Eri.
+
+19
+00:02:15,630 --> 00:02:19,590
+Irinaka! Coloque essas paredes
+de volta no lugar! Depressa!
+
+20
+00:02:18,760 --> 00:02:20,870
+Vilão
+<font size="17" color="#9f2094">{\3c&H000000&}</font><font size="22">Joi Irinaka
+</font><font size="16" color="#ffffff">{\3c&H7A3022&}Indiv.: {\3c&H000000&}Imitar</font>
+
+21
+00:02:21,180 --> 00:02:22,220
+Ei...
+
+22
+00:02:22,220 --> 00:02:24,240
+As drogas já devem ter passado.
+
+23
+00:02:24,390 --> 00:02:28,040
+Ele não devia conseguir entrar e controlar
+objetos maiores que uma geladeira!
+
+24
+00:02:28,350 --> 00:02:32,590
+Se ele receber um impulso grande
+o bastante, não é impossível.
+
+25
+00:02:33,020 --> 00:02:35,730
+O palpite do Fat Gum estava certo.
+
+26
+00:02:35,730 --> 00:02:38,320
+O Irinaka não tem mais
+poder para fazer isso.
+
+27
+00:02:38,320 --> 00:02:41,240
+Mas ainda tem a Toga e o Twice...
+
+28
+00:02:39,490 --> 00:02:41,410
+{\fad(1,200)}Vilão
+{\fs17\c&H94209F&\3c&H000000&}{\fs22}Himiko Toga
+{\fs16\c&HFFFFFF&\3c&H7A3022&}Indiv.: {\3c&H000000&}Transformar
+
+29
+00:02:41,240 --> 00:02:43,720
+A União dos Vilões deve estar
+escondida em algum lugar!
+
+30
+00:02:41,340 --> 00:02:43,740
+{\fad(200,1)}Vilão
+{\fs17\c&H94209F&\3c&H000000&}{\fs22}Twice
+{\fs16\c&HFFFFFF&\3c&H7A3022&}Indiv.: {\3c&H000000&}Dobrar
+
+31
+00:02:44,790 --> 00:02:46,020
+Toga...
+
+32
+00:02:46,410 --> 00:02:49,080
+Toga... Twice...
+
+33
+00:02:49,080 --> 00:02:50,460
+Não vou perdoá-los!
+
+34
+00:02:50,460 --> 00:02:52,750
+Vocês nos traíram!
+
+35
+00:02:52,750 --> 00:02:54,860
+Onde estão os outros
+integrantes da União?
+
+36
+00:02:54,860 --> 00:02:56,230
+Sei lá, oras!
+
+37
+00:02:56,230 --> 00:02:58,130
+Eu vou encontrar todos eles!
+
+38
+00:02:58,130 --> 00:03:01,280
+Eu vou abrir a cabeça de todos
+esses desgraçados da União!
+
+39
+00:03:03,050 --> 00:03:06,200
+Quer dizer que só os
+dois estavam aqui?
+
+40
+00:03:06,850 --> 00:03:09,390
+Não tem sinal da União
+vindo nos atacar...
+
+41
+00:03:09,390 --> 00:03:12,460
+Mas é difícil acreditar que estejam do
+nosso lado só porque traíram o Irinaka.
+
+42
+00:03:12,770 --> 00:03:15,190
+A União dos Vilões é procurada
+pela polícia em todo o país.
+
+43
+00:03:15,190 --> 00:03:17,760
+Como policiais, não
+podemos ignorá-los.
+
+44
+00:03:17,780 --> 00:03:19,400
+Izuku Midoriya
+<font size="16" color="#cb3b34">Indiv.: <font color="#ffffff">One For All</font></font>
+
+45
+00:03:19,900 --> 00:03:23,160
+Nossa maior preocupação é a
+sombra da União dos Vilões.
+
+46
+00:03:23,160 --> 00:03:27,540
+Caso estejam errados,
+e a União estiver envolvida,
+
+47
+00:03:27,540 --> 00:03:28,980
+acabou para vocês.
+
+48
+00:03:30,160 --> 00:03:31,790
+Professor...
+
+49
+00:03:32,580 --> 00:03:35,130
+O que você está aí
+parado conversando?
+
+50
+00:03:35,130 --> 00:03:36,170
+Rock Lock!
+
+51
+00:03:35,840 --> 00:03:38,840
+{\fad(1,334)}Super-herói Profissional
+{\fs21\c&H0091EB&}Rock Lock
+{\fs17\c&HFBFBFD&\3c&H1A1A97&}Indiv: {\3c&H000000&}Lockdown
+
+52
+00:03:36,170 --> 00:03:38,000
+Ignore-os e sigam em frente!
+
+53
+00:03:38,000 --> 00:03:40,510
+Deixem a União com a polícia!
+
+54
+00:03:40,510 --> 00:03:42,780
+Qual é a nossa prioridade?
+
+55
+00:03:43,640 --> 00:03:46,200
+Certamente... Seria o melhor.
+
+56
+00:03:46,850 --> 00:03:51,440
+De qualquer modo, alguém precisa
+ficar para trás para restringir o Irinaka.
+
+57
+00:03:51,440 --> 00:03:55,480
+Graças àquela garota, vai ser
+difícil ficar pulando por aí.
+
+58
+00:03:55,480 --> 00:03:58,200
+Se entenderam, mexam
+logo essas pernas!
+
+59
+00:04:00,280 --> 00:04:03,030
+Ryukyu e todos que
+estão lá em cima...
+
+60
+00:04:03,030 --> 00:04:05,450
+Os policiais de que nos
+separamos no subsolo.
+
+61
+00:04:05,450 --> 00:04:06,620
+Suneater!
+
+62
+00:04:06,990 --> 00:04:09,010
+Red Riot! Fat Gum!
+
+63
+00:04:09,540 --> 00:04:10,980
+Lemillion!
+
+64
+00:04:11,160 --> 00:04:13,560
+Agora que chegamos
+até aqui, falta pouco!
+
+65
+00:04:14,080 --> 00:04:16,360
+Não percam o tempo que todos
+trabalharam para conseguir!
+
+66
+00:04:16,840 --> 00:04:17,980
+Vão!
+
+67
+00:04:26,510 --> 00:04:30,220
+Eu vou pegá-la, Rock Lock!
+
+68
+00:04:33,230 --> 00:04:37,360
+Eu não disse isso para
+depreciar ninguém.
+
+69
+00:04:37,360 --> 00:04:40,150
+Eu tenho uma esposa quatro
+anos mais jovem que eu.
+
+70
+00:04:40,150 --> 00:04:43,530
+E no fim do ano passado, o filho
+que tanto queríamos nasceu.
+
+71
+00:04:43,530 --> 00:04:45,910
+A genética está bem
+para o seu lado, não é?
+
+72
+00:04:47,620 --> 00:04:50,120
+Mesmo que estejam na U.A.,
+continuam sendo crianças.
+
+73
+00:04:50,120 --> 00:04:52,160
+Eu estava preocupado.
+
+74
+00:04:52,160 --> 00:04:54,540
+Mas foi só soltá-los
+e olha o que aconteceu...
+
+75
+00:04:54,540 --> 00:05:00,250
+Cada um deles foi mais
+herói que os adultos.
+
+76
+00:05:01,380 --> 00:05:03,670
+Você disse que ia salvá-la.
+
+77
+00:05:03,670 --> 00:05:06,340
+Tem que conseguir, Deku!
+
+78
+00:05:06,340 --> 00:05:08,550
+E você também, Nighteye!
+
+79
+00:05:08,550 --> 00:05:09,890
+Precisa...
+
+80
+00:05:09,890 --> 00:05:11,520
+Assumir a responsabilidade.
+
+81
+00:05:14,850 --> 00:05:16,810
+Lá vão eles.
+
+82
+00:05:16,810 --> 00:05:20,520
+Nós também devíamos
+sair desse espaço.
+
+83
+00:05:20,520 --> 00:05:22,360
+Toga, o que o você vai fazer agora?
+
+84
+00:05:22,360 --> 00:05:23,740
+Beijar?
+
+85
+00:05:23,740 --> 00:05:28,620
+Eu queria ver o Izuku
+todo detonado de novo.
+
+86
+00:05:28,620 --> 00:05:32,410
+Mas agora... O que eu quero...
+
+87
+00:05:32,410 --> 00:05:36,790
+É fazer o Overhaul chorar
+na mesma proporção.
+
+88
+00:05:36,790 --> 00:05:38,290
+Nesse caso, eu tive uma ideia...
+
+89
+00:05:38,290 --> 00:05:39,290
+Nenhuma!
+
+90
+00:05:39,290 --> 00:05:40,840
+Dá o ouvido.
+
+91
+00:05:40,840 --> 00:05:42,210
+O que foi?
+
+92
+00:05:47,550 --> 00:05:48,780
+Jin... Isso...
+
+93
+00:05:49,550 --> 00:05:52,120
+Vai deixar o Tomura tão feliz!
+
+94
+00:05:52,890 --> 00:05:56,310
+Se o grupo do Izuku e o
+Overhaul se encontrarem,
+
+95
+00:05:56,310 --> 00:05:57,980
+não importa o resultado...
+
+96
+00:05:57,980 --> 00:06:01,750
+A luta entre super-heróis
+e yakuza será decidida.
+
+97
+00:06:02,650 --> 00:06:04,860
+Aposto que no fim dessa luta,
+
+98
+00:06:04,860 --> 00:06:08,470
+tanto os super-heróis quanto os
+yakuza vão estar em frangalhos.
+
+99
+00:06:14,370 --> 00:06:15,930
+Vou dar um jeito...
+
+100
+00:06:17,660 --> 00:06:19,540
+Mirio Togata
+<font size="16" color="#cb3b34">Indiv.: <font color="#ffffff">Permear</font></font>
+
+101
+00:06:22,540 --> 00:06:23,880
+...de salvá-la!
+
+102
+00:06:24,210 --> 00:06:28,220
+Esperança Invisível
+
+103
+00:06:35,100 --> 00:06:36,220
+Eu apaguei!
+
+104
+00:06:36,220 --> 00:06:39,350
+Nighteye, garanta a segurança
+dos que precisam de tratamento!
+
+105
+00:06:40,060 --> 00:06:42,190
+Dois do grupo mais
+próximo do Chisaki!
+
+106
+00:06:42,190 --> 00:06:44,900
+No nosso caminho
+tinha mais uma...
+
+107
+00:06:44,900 --> 00:06:46,820
+O Chisaki está nas últimas...
+
+108
+00:06:46,820 --> 00:06:49,780
+Esse espaço retorcido de
+paredes distorcidas...
+
+109
+00:06:50,240 --> 00:06:51,820
+Mirio!
+
+110
+00:06:51,820 --> 00:06:55,560
+A Eri está... atrás... de mim...
+
+111
+00:06:59,870 --> 00:07:02,250
+Já está tudo bem...
+
+112
+00:07:03,920 --> 00:07:05,360
+Você foi incrível.
+
+113
+00:07:06,210 --> 00:07:08,640
+Foi incrível, Mirio.
+
+114
+00:07:12,470 --> 00:07:14,070
+Minha Individualidade foi apagada!
+
+115
+00:07:14,550 --> 00:07:16,770
+O Lemillion conseguiu encurralá-lo!
+
+116
+00:07:16,770 --> 00:07:18,350
+Continue pressionando!
+
+117
+00:07:18,350 --> 00:07:19,040
+Sim!
+
+118
+00:07:20,440 --> 00:07:22,460
+Levante, Chrono!
+
+119
+00:07:22,770 --> 00:07:23,900
+Deku!
+
+120
+00:07:30,150 --> 00:07:33,620
+Aqueles perfurados pelo ponteiro
+grande tem seus movimentos reduzidos.
+
+121
+00:07:31,700 --> 00:07:34,700
+{\fad(1,200)}Vilão
+{\c&H79008D&\fs28}Chronostasis
+
+122
+00:07:33,620 --> 00:07:36,410
+Eu queria pegar os
+dois de uma vez,
+
+123
+00:07:36,410 --> 00:07:38,270
+mas o que mais posso
+esperar de super-heróis?
+
+124
+00:07:38,790 --> 00:07:41,230
+Demorou bastante
+para ele acordar.
+
+125
+00:07:42,370 --> 00:07:44,980
+Naquela hora, ele foi
+derrubado mesmo.
+
+126
+00:07:45,710 --> 00:07:50,740
+Mas eu reparei a cabeça dele
+para recuperar os danos.
+
+127
+00:07:51,720 --> 00:07:55,120
+E-Eu não consigo
+evitar de piscar...
+
+128
+00:07:55,390 --> 00:07:57,180
+Chisaki!
+
+129
+00:07:57,180 --> 00:07:57,950
+Tudo isso...
+
+130
+00:07:59,810 --> 00:08:01,430
+Tudo isso...
+
+131
+00:08:02,640 --> 00:08:04,750
+Tudo isso por nada!
+
+132
+00:08:13,110 --> 00:08:17,870
+Como se eu fosse deixar o meu plano
+ser arruinado por pessoas como essas!
+
+133
+00:08:17,870 --> 00:08:22,040
+Não é mesmo, Nemoto?
+Não é o que queria, não é?
+
+134
+00:08:23,580 --> 00:08:27,250
+Não vou deixar que acabe aqui.
+
+135
+00:08:27,250 --> 00:08:31,340
+Nemoto, você fez mesmo
+um ótimo trabalho...
+
+136
+00:08:31,340 --> 00:08:35,720
+Morreria por mim, não é?
+
+137
+00:08:40,220 --> 00:08:42,180
+Eu reconhecerei com dignidade
+
+138
+00:08:42,180 --> 00:08:48,020
+que você foi mais forte
+que eu, Lemillion.
+
+139
+00:08:48,020 --> 00:08:53,070
+Mas no fim, tudo isso foi em vão!
+
+140
+00:08:53,070 --> 00:08:57,820
+Agora, eu vou recuperar a Eri!
+
+141
+00:08:58,950 --> 00:09:02,950
+{\fad(222,1)}Individualidade:
+
+142
+00:08:58,950 --> 00:09:02,950
+{\fad(222,1)}Overhaul
+
+143
+00:08:58,950 --> 00:09:02,950
+{\fad(222,1)}Ele pode separar e consertar qualquer coisa, orgânica ou inorgânica.
+
+144
+00:08:58,950 --> 00:09:02,950
+{\fad(222,1)}>Afiliação: Shie Hassaikai
+>Aniversário: Desconhecido
+>Altura: Desconhecida
+>Tipo Sanguíneo: Desconhecido
+>Gosta de: Desconhecido
+
+145
+00:09:02,950 --> 00:09:06,960
+{\fad(222,1)}Individualidade:
+
+146
+00:09:02,950 --> 00:09:06,960
+{\fad(222,1)}Previsão
+
+147
+00:09:02,950 --> 00:09:06,960
+{\fad(222,1)}Pode prever o que seu alvo fará por uma hora
+
+148
+00:09:02,950 --> 00:09:06,960
+{\fad(222,1)}>Afiliação: Super-herói Profissional
+>Aniversário: 2/1
+>Altura: 200 cm
+>Tipo Sanguíneo: AB
+>Gosta de: All Might
+
+149
+00:09:08,670 --> 00:09:11,250
+Eu sei muito sobre você.
+
+150
+00:09:11,250 --> 00:09:14,050
+Super-herói
+que apaga: Eraser Head.
+
+151
+00:09:14,050 --> 00:09:18,600
+A sua Individualidade serviu de
+referência para nossas pesquisas na Eri.
+
+152
+00:09:18,600 --> 00:09:20,830
+Como eu fui capaz de
+isolá-lo sem matá-lo...
+
+153
+00:09:21,970 --> 00:09:25,000
+Quer dizer que deve valer
+a pena mantê-lo vivo.
+
+154
+00:09:25,980 --> 00:09:30,630
+Apagar Individualidades...
+Para ele é um poder fascinante.
+
+155
+00:09:31,070 --> 00:09:32,250
+Ah, você devia desistir.
+
+156
+00:09:32,940 --> 00:09:36,320
+Não pode se mover mais
+rápido que uma lesma agora.
+
+157
+00:09:36,320 --> 00:09:40,760
+Como eu o perfurei com o ponteiro
+pequeno, só vai durar uma hora.
+
+158
+00:09:40,780 --> 00:09:52,010
+Hari <font color="#9a9b02">Kuro</font>no
+
+159
+00:09:40,780 --> 00:09:52,010
+Indiv.:
+<font color="#928800">Chr</font>onostasis
+
+160
+00:09:41,700 --> 00:09:45,000
+{\a3}Membro das Oito Balas do Grupo Hassai
+e auxiliar do jovem chefe, Hari Kurono.
+
+161
+00:09:45,000 --> 00:09:47,040
+{\a3}Individualidade: Chronostasis!
+
+162
+00:09:47,040 --> 00:09:49,830
+{\a3}Ele ataca estendendo o cabelo como
+se fossem ponteiros de um relógio.
+
+163
+00:09:49,830 --> 00:09:52,020
+{\a3}Os ataques causam redução na
+velocidade dos movimentos!
+
+164
+00:09:52,670 --> 00:09:55,650
+Quando ele decide uma coisa,
+não tem como impedi-lo.
+
+165
+00:09:58,260 --> 00:10:04,460
+Eu não sei o quanto você sabe,
+mas a Eri é a garotinha do chefe.
+
+166
+00:10:05,270 --> 00:10:08,380
+Para atingir seu objetivo,
+ele usará qualquer coisa.
+
+167
+00:10:09,100 --> 00:10:13,840
+Esse é o tipo de pessoa
+que é o Overhaul.
+
+168
+00:10:14,230 --> 00:10:16,820
+Ele destruiu ele e o companheiro...
+
+169
+00:10:16,820 --> 00:10:18,090
+Para se fundir com ele?
+
+170
+00:10:18,700 --> 00:10:23,350
+Foi uma sensação terrível, mas muito
+melhor do que o que senti antes.
+
+171
+00:10:23,950 --> 00:10:26,060
+Preciso avaliar a situação!
+
+172
+00:10:26,700 --> 00:10:30,020
+A Eri e o Togata estão
+protegidos pelo Nighteye!
+
+173
+00:10:30,580 --> 00:10:32,290
+Eu não vejo o Prof. Aizawa!
+
+174
+00:10:32,290 --> 00:10:33,650
+Nem o capuz branco.
+
+175
+00:10:35,340 --> 00:10:38,380
+Chisaki! Ele se fundiu
+com o seu subordinado.
+
+176
+00:10:38,380 --> 00:10:40,740
+Suas feridas anteriores
+também desapareceram.
+
+177
+00:10:41,550 --> 00:10:44,060
+Eu tenho uma mania de limpeza...
+
+178
+00:10:44,060 --> 00:10:48,850
+Quando alguém me toca, na mesma
+hora o sangue sobe até a cabeça.
+
+179
+00:10:48,850 --> 00:10:52,110
+É a primeira vez que
+cheguei nesse ponto.
+
+180
+00:10:52,110 --> 00:10:55,210
+Que vida mais triste, Lemillion.
+
+181
+00:10:55,900 --> 00:10:58,570
+Se não tivesse se envolvido
+com a Eri, ou comigo,
+
+182
+00:10:58,570 --> 00:11:02,140
+sua Individualidade não
+estaria perdida para sempre.
+
+183
+00:11:03,320 --> 00:11:04,600
+A Individualidade dele...
+
+184
+00:11:05,370 --> 00:11:07,470
+Perdida para sempre?
+
+185
+00:11:08,370 --> 00:11:10,480
+Se não tivesse se envolvido,
+
+186
+00:11:10,960 --> 00:11:13,980
+poderia continuar se
+agarrando ao seu sonho.
+
+187
+00:11:14,500 --> 00:11:16,960
+Você perdeu sua
+Individualidade, mas resistiu.
+
+188
+00:11:16,960 --> 00:11:20,260
+Por causa disso, seus
+amigos se meteram nisso.
+
+189
+00:11:20,260 --> 00:11:23,260
+E agora, todos vão morrer!
+
+190
+00:11:26,810 --> 00:11:29,620
+Não pode ser! Ele é capaz de usar sua
+Individualidade mesmo com as mãos do subordinado?
+
+191
+00:11:36,150 --> 00:11:37,280
+Togata...
+
+192
+00:11:45,030 --> 00:11:46,330
+Eu não consigo ler os
+movimentos dele...
+
+193
+00:11:46,330 --> 00:11:49,100
+Se não fossem minhas solas de
+metal, elas teriam me perfurado.
+
+194
+00:11:49,620 --> 00:11:52,350
+Poder e velocidade... Só isso.
+
+195
+00:11:55,170 --> 00:11:56,880
+Eu serei o seu adversário!
+
+196
+00:11:56,880 --> 00:11:58,300
+Não vou deixar.
+
+197
+00:11:58,300 --> 00:12:00,320
+Limitar o número de
+movimentos e me aproximar!
+
+198
+00:12:00,880 --> 00:12:02,280
+Não deixar ele transformar o solo.
+
+199
+00:12:02,880 --> 00:12:04,970
+Vá até o Lemillion e a Eri!
+
+200
+00:12:04,970 --> 00:12:05,950
+Entendido!
+
+201
+00:12:06,550 --> 00:12:07,870
+Onde o Eraser foi?
+
+202
+00:12:08,600 --> 00:12:10,020
+Seu ajudante também
+não está aqui!
+
+203
+00:12:10,020 --> 00:12:13,190
+Tenho interesse em super-heróis
+que conseguem apagar Individualidades,
+
+204
+00:12:13,190 --> 00:12:15,520
+então o levei para a sala VIP!
+
+205
+00:12:15,520 --> 00:12:18,230
+Alguém que acha divertido destruir
+a Individualidade dos outros
+
+206
+00:12:18,230 --> 00:12:20,880
+tem medo de ter sua própria
+Individualidade apagada?
+
+207
+00:12:21,570 --> 00:12:24,240
+"Para sempre", quer dizer
+que melhoraram as balas
+
+208
+00:12:24,240 --> 00:12:26,470
+e usaram uma no Lemillion?
+
+209
+00:12:27,240 --> 00:12:31,480
+Eu achei que estivesse tentando
+fugir para escondê-las!
+
+210
+00:12:32,000 --> 00:12:33,980
+Deve ter ficado com
+bastante medo do Lemillion!
+
+211
+00:12:41,090 --> 00:12:42,030
+Ouça, Mirio...
+
+212
+00:12:42,470 --> 00:12:45,640
+Observe com atenção o adversário
+e preveja o que ele vai fazer.
+
+213
+00:12:45,640 --> 00:12:47,490
+Está falando de ver o futuro?
+
+214
+00:12:47,760 --> 00:12:50,680
+Mas minha Individualidade
+não é prever o futuro.
+
+215
+00:12:50,680 --> 00:12:52,410
+Boa resposta! Foi engraçada.
+
+216
+00:12:53,270 --> 00:12:56,730
+Armazene informações de
+experiências em diversas situações.
+
+217
+00:12:56,730 --> 00:13:00,230
+Resgate, combate,
+dificuldades, sofrimento...
+
+218
+00:13:00,230 --> 00:13:03,030
+Isso se tornará um banco de dados.
+
+219
+00:13:03,030 --> 00:13:05,150
+{\fad(1,200)}Eu entendi, Sir.
+
+220
+00:13:07,910 --> 00:13:08,720
+Mirio...
+
+221
+00:13:10,200 --> 00:13:12,520
+Você acreditou nos
+meus ensinamentos...
+
+222
+00:13:13,200 --> 00:13:16,480
+Acreditou em mim e ficou forte...
+
+223
+00:13:17,670 --> 00:13:19,190
+Que orgulho de você.
+
+224
+00:13:21,630 --> 00:13:24,540
+Eu <i>já vi</i>...
+
+225
+00:13:25,640 --> 00:13:28,320
+Você e aqueles que
+quer proteger...
+
+226
+00:13:30,010 --> 00:13:30,870
+Você <i>já viu</i>?
+
+227
+00:13:31,720 --> 00:13:35,180
+Eu não disse que não precisava
+usar sua Previsão em mim?
+
+228
+00:13:36,730 --> 00:13:40,940
+Por que não tenta ver as coisas
+em um futuro muito distante?
+
+229
+00:13:40,940 --> 00:13:43,690
+O futuro que eu vi não
+pode ser alterado.
+
+230
+00:13:43,690 --> 00:13:45,130
+Já testei várias vezes.
+
+231
+00:13:45,860 --> 00:13:49,030
+Mesmo se eu agir completamente
+diferente do futuro que eu vi,
+
+232
+00:13:49,030 --> 00:13:53,450
+acaba voltando a ser o que eu vi,
+como se equilibrasse as coisas.
+
+233
+00:13:53,450 --> 00:13:56,390
+Meu futuro nunca divergiu disso.
+
+234
+00:13:57,500 --> 00:14:02,630
+Ao usar a Previsão, não é como se estivesse
+determinando o futuro de uma pessoa?
+
+235
+00:14:02,630 --> 00:14:08,280
+Se eu não tivesse visto o futuro do All Might,
+talvez o futuro dele tivesse sido diferente.
+
+236
+00:14:09,590 --> 00:14:10,660
+A morte dele...
+
+237
+00:14:12,220 --> 00:14:13,260
+Eu...
+
+238
+00:14:17,100 --> 00:14:19,150
+Você está pensando demais.
+
+239
+00:14:19,150 --> 00:14:20,660
+Pode até ser.
+
+240
+00:14:22,230 --> 00:14:24,000
+Mas eu não vou mais...
+
+241
+00:14:25,320 --> 00:14:28,240
+Usar minha Previsão para
+ver o futuro dos outros.
+
+242
+00:14:34,830 --> 00:14:36,640
+Mesmo sem olhar o resultado,
+
+243
+00:14:37,330 --> 00:14:39,480
+ao repetir minha previsão
+de um segundo do futuro,
+
+244
+00:14:40,880 --> 00:14:42,980
+podemos chegar no
+melhor resultado
+
+245
+00:14:43,750 --> 00:14:46,050
+que Mirio e eu desejamos!
+
+246
+00:14:51,430 --> 00:14:53,140
+Eri! Lemillion!
+
+247
+00:14:53,140 --> 00:14:54,470
+Vocês estão bem?
+
+248
+00:14:54,470 --> 00:14:55,890
+Conseguem se mover?
+
+249
+00:14:55,890 --> 00:14:56,910
+Sim...
+
+250
+00:14:57,600 --> 00:15:00,170
+Sem problemas, não é?
+
+251
+00:15:01,310 --> 00:15:05,040
+Eu acabei deixando você triste...
+
+252
+00:15:06,230 --> 00:15:07,820
+Vamos sair daqui.
+
+253
+00:15:11,410 --> 00:15:13,140
+Este é o caminho que
+pegamos até aqui.
+
+254
+00:15:13,490 --> 00:15:15,320
+Devíamos aumentar a
+distância do Chisaki!
+
+255
+00:15:20,080 --> 00:15:20,770
+Agora...
+
+256
+00:15:23,540 --> 00:15:24,900
+Chega...
+
+257
+00:15:25,460 --> 00:15:29,150
+Cada ação que você
+toma mata as pessoas.
+
+258
+00:15:29,880 --> 00:15:32,800
+Você é um ser amaldiçoado.
+
+259
+00:15:32,800 --> 00:15:34,100
+Me desculpe...
+
+260
+00:15:43,520 --> 00:15:44,400
+Sir...
+
+261
+00:15:50,780 --> 00:15:53,300
+Sir!
+
+262
+00:15:58,790 --> 00:15:59,880
+O futuro...
+
+263
+00:16:01,000 --> 00:16:06,090
+No qual a Eri é salva e Mirio e
+os outros estão em segurança...
+
+264
+00:16:07,710 --> 00:16:09,260
+Esse futuro...
+
+265
+00:16:28,570 --> 00:16:31,140
+O poder dele não é como antes...
+
+266
+00:16:31,570 --> 00:16:33,720
+Ele não estava lutando a sério?
+
+267
+00:16:34,110 --> 00:16:36,180
+Lemillion, cuide da Eri!
+
+268
+00:16:37,990 --> 00:16:40,540
+Meu corpo inteiro está gritando!
+
+269
+00:16:40,540 --> 00:16:42,660
+Mas posso me mover!
+
+270
+00:16:42,660 --> 00:16:46,560
+Meu corpo todo está doendo, não
+vou conseguir aguentar muito tempo.
+
+271
+00:16:46,560 --> 00:16:48,730
+Mas eu consigo me mover!
+
+272
+00:16:49,420 --> 00:16:52,240
+One For All 20%!
+
+273
+00:16:52,670 --> 00:16:53,720
+Desista!
+
+274
+00:16:53,720 --> 00:16:57,430
+Eu já falei, todos vão morrer!
+
+275
+00:16:57,430 --> 00:16:59,330
+Não vou deixar isso acontecer!
+
+276
+00:17:00,260 --> 00:17:02,580
+Mesmo que já esteja decidido...
+
+277
+00:17:03,230 --> 00:17:07,100
+Eu vou torcer esse futuro!
+
+278
+00:17:07,100 --> 00:17:08,810
+Atrevido!
+
+279
+00:17:12,150 --> 00:17:14,280
+Eu posso prever o tempo com
+base na dissociação dele,
+
+280
+00:17:14,280 --> 00:17:16,030
+mas não tenho como
+desviar completamente!
+
+281
+00:17:19,830 --> 00:17:20,990
+Aguente!
+
+282
+00:17:20,990 --> 00:17:22,060
+Até vencer!
+
+283
+00:17:22,950 --> 00:17:25,290
+O Chisaki não vai parar agora!
+
+284
+00:17:25,290 --> 00:17:27,850
+Ele não vai desistir da Eri,
+nem que ele morra.
+
+285
+00:17:29,420 --> 00:17:31,130
+Eu não posso demorar muito.
+
+286
+00:17:31,130 --> 00:17:33,690
+Se eu machucá-lo,
+ele só vai se consertar!
+
+287
+00:17:34,340 --> 00:17:36,430
+Um golpe!
+
+288
+00:17:37,590 --> 00:17:39,620
+Um golpe no topo da cabeça!
+
+289
+00:17:39,800 --> 00:17:42,410
+Manchester Smash!
+
+290
+00:17:50,440 --> 00:17:51,570
+Desviou?
+
+291
+00:17:51,570 --> 00:17:54,690
+Não importa o quanto você seja
+rápido comparado com os outros dois,
+
+292
+00:17:54,690 --> 00:17:57,400
+as linhas dos seus movimentos
+são inocentes e fáceis de prever!
+
+293
+00:18:08,420 --> 00:18:11,270
+Eu preciso levar a Eri
+para um lugar seguro...
+
+294
+00:18:12,210 --> 00:18:15,840
+Sem problema... Poder, não é?
+
+295
+00:18:15,840 --> 00:18:17,990
+Eu ainda não estou perto do limite!
+
+296
+00:18:21,140 --> 00:18:22,340
+Anda...
+
+297
+00:18:23,510 --> 00:18:25,930
+Anda, Lemillion!
+
+298
+00:18:31,480 --> 00:18:32,460
+De pé...
+
+299
+00:18:33,360 --> 00:18:34,260
+De pé!
+
+300
+00:18:35,280 --> 00:18:36,560
+Anda!
+
+301
+00:18:38,110 --> 00:18:41,340
+Eri, se esconda...
+
+302
+00:18:42,030 --> 00:18:43,280
+E-Espere.
+
+303
+00:18:44,160 --> 00:18:52,840
+Dezenas de pessoas...
+estão tentando... salvá-la...
+
+304
+00:18:52,840 --> 00:18:57,800
+Eri... Vai ficar tudo
+bem com você...
+
+305
+00:18:58,760 --> 00:18:59,990
+Eri!
+
+306
+00:19:02,140 --> 00:19:07,930
+Puxa, mesmo me consertando, ainda
+dói quando tenho que me separar.
+
+307
+00:19:09,060 --> 00:19:11,940
+Se o chão não tivesse
+quebrado em pedacinhos,
+
+308
+00:19:11,940 --> 00:19:14,320
+seria o meu fim naquele
+espinho enorme.
+
+309
+00:19:15,440 --> 00:19:17,010
+Já terminei.
+
+310
+00:19:17,940 --> 00:19:20,180
+Ainda... Ainda não!
+
+311
+00:19:20,910 --> 00:19:24,400
+Olha, o Lemillion resistiu
+dessa forma também.
+
+312
+00:19:25,240 --> 00:19:28,680
+Você não pode subestimar o verdadeiro
+poder de quem não é capaz de desistir.
+
+313
+00:19:30,040 --> 00:19:32,400
+Mais alguém vai
+morrer por sua causa!
+
+314
+00:19:33,960 --> 00:19:35,940
+É isso que deseja?
+
+315
+00:19:36,500 --> 00:19:37,860
+Eri!
+
+316
+00:19:40,510 --> 00:19:42,200
+Parece que ela está no limite.
+
+317
+00:19:42,590 --> 00:19:44,260
+Ela já usou todas as forças.
+
+318
+00:19:45,010 --> 00:19:45,880
+Entendo...
+
+319
+00:19:46,720 --> 00:19:48,750
+Logo é hora de resetá-la.
+
+320
+00:19:49,730 --> 00:19:51,940
+Vamos reiniciar.
+
+321
+00:19:53,230 --> 00:19:54,040
+Eu...
+
+322
+00:19:58,650 --> 00:19:59,670
+Eu...
+
+323
+00:20:02,320 --> 00:20:04,050
+...não...
+
+324
+00:20:05,410 --> 00:20:06,780
+...desejo isso!
+
+325
+00:20:07,790 --> 00:20:10,960
+Não! Fique com o Lemillion, Eri!
+
+326
+00:20:12,290 --> 00:20:13,220
+Eri...
+
+327
+00:20:14,420 --> 00:20:18,780
+Você acha mesmo que este cara pode
+fazer alguma coisa nessa situação?
+
+328
+00:20:20,760 --> 00:20:21,740
+Não, acho que não...
+
+329
+00:20:23,510 --> 00:20:27,060
+Então o que você deve fazer?
+
+330
+00:20:28,140 --> 00:20:29,370
+Voltar...
+
+331
+00:20:29,930 --> 00:20:30,980
+Eri...
+
+332
+00:20:32,600 --> 00:20:33,960
+Em troca...
+
+333
+00:20:36,190 --> 00:20:38,840
+Você faz todo mundo
+voltar ao normal!
+
+334
+00:20:39,610 --> 00:20:41,280
+Isso mesmo!
+
+335
+00:20:41,280 --> 00:20:46,840
+É mais fácil se ferir do que deixar os
+outros se ferirem por você, não é?
+
+336
+00:20:47,320 --> 00:20:51,700
+A pequena esperança que brotou
+com o Lemillion foi quebrada.
+
+337
+00:20:51,700 --> 00:20:53,540
+Percebeu?
+
+338
+00:20:53,540 --> 00:20:57,860
+Você está agindo da forma
+mais cruel possível com a Eri.
+
+339
+00:20:58,920 --> 00:21:01,610
+Ela não procura por você.
+
+340
+00:21:03,800 --> 00:21:05,200
+Midoriya...
+
+341
+00:21:06,800 --> 00:21:10,290
+Você não pode mais salvar a Eri...
+
+342
+00:21:11,140 --> 00:21:19,860
+Eu vi o futuro onde você e eu
+morríamos e o Chisaki conseguia fugir...
+
+343
+00:21:21,530 --> 00:21:23,300
+Se for esse o caso...
+
+344
+00:21:25,030 --> 00:21:28,070
+Mesmo que não precise
+da minha ajuda,
+
+345
+00:21:28,070 --> 00:21:29,970
+você está chorando, não é?
+
+346
+00:21:32,910 --> 00:21:35,060
+Eu não vou deixar ninguém morrer!
+
+347
+00:21:35,750 --> 00:21:37,400
+Eu vou salvá-la!
+
+348
+00:23:19,940 --> 00:23:21,940
+Próximo Episódio
+
+349
+00:23:20,690 --> 00:23:22,150
+No próximo episódio!
+
+350
+00:23:22,150 --> 00:23:24,170
+Eu <i>não</i> vou mais soltar
+a mão de ninguém!
+
+351
+00:23:24,650 --> 00:23:26,590
+Agora que eu peguei na mão da Eri,
+
+352
+00:23:27,030 --> 00:23:29,220
+eu <i>jamais</i> desistirei!
+
+353
+00:23:29,280 --> 00:23:32,220
+Mesmo que Nighteye tenha
+visto a pior previsão possível,
+
+354
+00:23:32,450 --> 00:23:34,820
+lá vou eu com o One For All!
+
+355
+00:23:35,370 --> 00:23:39,060
+O poder criado pelas vozes buscando
+socorro e pelo coração dos corajosos!
+
+356
+00:23:39,250 --> 00:23:41,140
+Vou liberar agora!
+
+357
+00:23:41,290 --> 00:23:43,600
+A seguir, "100% Infinito".
+
+358
+00:23:44,000 --> 00:23:46,800
+Ultrapasse os seus
+limites, Izuku Midoriya!
+
+359
+00:23:45,960 --> 00:23:49,970
+Próximo Episódio: 100%  Infinito
+
+360
+00:23:46,800 --> 00:23:48,050
+Vá além!
+
+361
+00:23:48,050 --> 00:23:49,620
+Plus Ultra!
+
