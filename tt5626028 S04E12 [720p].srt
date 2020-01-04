@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,590 --> 00:01:00,590
-{\fad((500,600))}Cine House
+Cine House
 
 2
 00:00:03,870 --> 00:00:07,200
@@ -14,9 +14,7 @@ salvar a Eri, Lemillion?
 
 4
 00:00:11,260 --> 00:00:13,720
-{\fad(200,1)}Vilão
-{\fs17\c&H94209F&\3c&H000000&}{\fs22}Overhaul
-{\fs16\c&HFFFFFF&\3c&H7A3022&}Indiv.: {\3c&H000000&}Overhaul
+Vilão: Overhaul
 
 5
 00:00:11,260 --> 00:00:14,380
