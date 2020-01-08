@@ -1,4 +1,14 @@
 1
+00:00:05,167 --> 00:00:10,625
+Baixe ja nosso aplicativo na play store
+Procure por: Cine House
+
+1.1
+00:00:11,625 --> 00:00:16,667
+Cine House e SmartFlix.tv
+Agradece a Preferencia
+
+1
 00:01:07,049 --> 00:01:08,749
 <b><i>GeekS
 duplicadamente apresenta…</i></b>
