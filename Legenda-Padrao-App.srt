@@ -1,9 +1,9 @@
-﻿1
-00:00:07,167 --> 00:00:17,625
+1
+00:00:00,167 --> 00:00:08,000
 Baixe ja nosso aplicativo na play store
 Procure por: Cine House
 
 2
-00:00:20,625 --> 00:00:40,667
+00:00:08,625 --> 00:00:16,628
 Cine House e SmartFlix.tv
 Agradece a Preferencia
