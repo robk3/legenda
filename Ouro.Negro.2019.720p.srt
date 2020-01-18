@@ -1,4 +1,14 @@
-﻿1
+0
+00:00:00,167 --> 00:00:08,000
+Baixe ja nosso aplicativo na play store
+Procure por: Cine House ou Smart Play
+
+1.1
+00:00:08,625 --> 00:00:16,628
+Cine House e SmartFlix.tv
+Agradece a Preferencia
+
+1
 00:03:43,224 --> 00:03:46,558
 Ei garoto,
 você é a nova mão do Bison?
