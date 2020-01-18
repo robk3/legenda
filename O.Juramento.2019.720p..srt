@@ -1,20 +1,26 @@
-1
-00:00:32,183 --> 00:00:37,183
-WwW.LAPUMiA.Org
+0
+00:00:00,167 --> 00:00:08,000
+Baixe ja nosso aplicativo na play store
+Procure por: Cine House ou Smart Play
+
+1.1
+00:00:08,625 --> 00:00:16,628
+Cine House e SmartFlix.tv
+Agradece a Preferencia
 
 2
 00:03:21,642 --> 00:03:23,375
-Eu só não consigo entender
-porque você vestiu a camisa.
+Eu sÃ³ nÃ£o consigo entender
+porque vocÃª vestiu a camisa.
 
 3
 00:03:23,377 --> 00:03:25,276
-- Cara, deixa pra lá.
-- Eu não entendo.
+- Cara, deixa pra lÃ¡.
+- Eu nÃ£o entendo.
 
 4
 00:03:25,278 --> 00:03:27,044
-Não, é que, eu nem estou mais com raiva
+NÃ£o, Ã© que, eu nem estou mais com raiva
 
 5
 00:03:27,046 --> 00:03:28,045
@@ -23,22 +29,22 @@ o seu processo de pensamento.
 
 6
 00:03:28,047 --> 00:03:29,481
-Por que a minha camisa é importante?
+Por que a minha camisa Ã© importante?
 
 7
 00:03:29,483 --> 00:03:31,783
-Voce quer mostrar que se importa, você
-quer mostrar que é comprometido.
+Voce quer mostrar que se importa, vocÃª
+quer mostrar que Ã© comprometido.
 
 8
 00:03:31,785 --> 00:03:33,285
-Eu não estou tentando
+Eu nÃ£o estou tentando
 um encontro com esses caras.
 
 9
 00:03:33,287 --> 00:03:35,021
-Sim, você está!
-E esse é o ponto!
+Sim, vocÃª estÃ¡!
+E esse Ã© o ponto!
 
 10
 00:03:35,023 --> 00:03:36,923
@@ -48,12 +54,12 @@ isso pode ser inteligente, sabe?
 11
 00:03:36,925 --> 00:03:38,758
 Vai parecer que 
-que ele está bancando o descolado, ah..
+que ele estÃ¡ bancando o descolado, ah..
 
 12
 00:03:38,760 --> 00:03:40,893
-É, ou está bancando o idiota
-é o que ele vai..
+Ã‰, ou estÃ¡ bancando o idiota
+Ã© o que ele vai..
 
 13
 00:03:40,895 --> 00:03:43,228
@@ -61,28 +67,28 @@ Desculpe por isso.
 
 14
 00:03:43,230 --> 00:03:45,464
-Viu, esse é o tipo de amigo
-com quem eu saíria.
+Viu, esse Ã© o tipo de amigo
+com quem eu saÃ­ria.
 
 15
 00:03:47,235 --> 00:03:49,100
 Tudo bem, eu vou tomar
-a fente, você vai..
+a fente, vocÃª vai..
 
 16
 00:03:49,102 --> 00:03:50,369
-- Você vai tomar a frente.
+- VocÃª vai tomar a frente.
 - Eu vou com ele.
 
 17
 00:03:50,371 --> 00:03:51,637
-- Porque você é mais bonito.
+- Porque vocÃª Ã© mais bonito.
 - Coloco a minha camisa para dentro?
 
 18
 00:03:51,639 --> 00:03:52,638
-Eu não me importo, de todo modo
-parece que você vai 
+Eu nÃ£o me importo, de todo modo
+parece que vocÃª vai 
 
 19
 00:03:52,640 --> 00:03:53,873
@@ -91,7 +97,7 @@ Vamos!
 
 20
 00:03:53,875 --> 00:03:56,108
-Essa é uma coisa
+Essa Ã© uma coisa
 muito escrota para se.. Okay.
 
 21
@@ -100,15 +106,15 @@ Andrew!
 
 22
 00:04:05,754 --> 00:04:08,021
-Oh! Como vai você, cachorrão?
+Oh! Como vai vocÃª, cachorrÃ£o?
 
 23
 00:04:08,023 --> 00:04:09,325
-Cachorrão!
+CachorrÃ£o!
 
 24
 00:04:10,225 --> 00:04:11,758
-Como vai você?
+Como vai vocÃª?
 
 25
 00:04:11,760 --> 00:04:14,028
@@ -116,16 +122,16 @@ Estamos aqui para o recrutamento, chegamos.
 
 26
 00:04:14,030 --> 00:04:15,830
-As escolhas saíram ontem.
+As escolhas saÃ­ram ontem.
 
 27
 00:04:15,832 --> 00:04:17,631
-As escolhas não saem
-até o fim da semana de recrutamento.
+As escolhas nÃ£o saem
+atÃ© o fim da semana de recrutamento.
 
 28
 00:04:17,633 --> 00:04:20,567
-É, uh, mas as nossas saíram.
+Ã‰, uh, mas as nossas saÃ­ram.
 
 29
 00:04:20,569 --> 00:04:21,769
@@ -134,7 +140,7 @@ Hey, obrigado por me receber, cara.
 30
 00:04:21,771 --> 00:04:23,305
 - Claro, cara. Claro.
-- Agradeço mesmo.
+- AgradeÃ§o mesmo.
 
 31
 00:04:27,209 --> 00:04:29,644
@@ -142,7 +148,7 @@ Um, bom, tudo bem .
 
 32
 00:04:29,646 --> 00:04:31,080
-Nós somos muito fléxiveis.
+NÃ³s somos muito flÃ©xiveis.
 
 33
 00:04:31,082 --> 00:04:32,146
@@ -151,26 +157,26 @@ tempo livre.
 
 34
 00:04:32,148 --> 00:04:33,681
-É só nos avisar, e a gente pode
+Ã‰ sÃ³ nos avisar, e a gente pode
 
 35
 00:04:33,683 --> 00:04:35,483
 a gente pode voltar aqui
-a hora que você quiser.
+a hora que vocÃª quiser.
 
 36
 00:04:35,485 --> 00:04:37,385
-Então, você tem, você sabe,
-você tem meu Facebook
+EntÃ£o, vocÃª tem, vocÃª sabe,
+vocÃª tem meu Facebook
 
 37
 00:04:37,387 --> 00:04:41,255
-e você fique, uh,
+e vocÃª fique, uh,
 fique de boa.
 
 38
 00:04:41,257 --> 00:04:44,294
-And, uh, eu quero que você
+And, uh, eu quero que vocÃª
 fique de boa.
 
 39
@@ -187,21 +193,21 @@ Dia da bebida, garotos!
 
 42
 00:04:57,075 --> 00:04:58,910
-É, dia da bebida.
+Ã‰, dia da bebida.
 
 43
 00:05:03,147 --> 00:05:05,615
 Eles disseram... eles disseram
-2 horas, então eu não..
+2 horas, entÃ£o eu nÃ£o..
 
 44
 00:05:05,617 --> 00:05:08,685
-- Da tarde ou da manhã?
+- Da tarde ou da manhÃ£?
 - Oh, oi!
 
 45
 00:05:08,687 --> 00:05:10,186
-Como vai você?
+Como vai vocÃª?
 
 46
 00:05:10,188 --> 00:05:11,388
@@ -210,22 +216,22 @@ Como vai você?
 47
 00:05:11,390 --> 00:05:13,390
 Oh, oh,
-Vocês podem me dar um segundo?
+VocÃªs podem me dar um segundo?
 
 48
 00:05:13,392 --> 00:05:15,926
-Dá para me dar um... um...
+DÃ¡ para me dar um... um...
 um segundo rapidinho, por favor?
 
 49
 00:05:15,928 --> 00:05:18,395
-Um, nós... nós fomos convidados
+Um, nÃ³s... nÃ³s fomos convidados
 para o dia da bebida
 
 50
 00:05:18,397 --> 00:05:21,966
 e eu estou notando 
-que não tem muita... Não tem ninguém aqui.
+que nÃ£o tem muita... NÃ£o tem ninguÃ©m aqui.
 
 51
 00:05:21,968 --> 00:05:24,234
@@ -234,8 +240,8 @@ que não tem muita... Não tem ninguém aqui.
 
 52
 00:05:24,236 --> 00:05:27,605
-<i>Okay, bem, um, tem alguém em casa,
-tem alguém aí dentro?
+<i>Okay, bem, um, tem alguÃ©m em casa,
+tem alguÃ©m aÃ­ dentro?
 
 53
 00:05:27,607 --> 00:05:29,040
@@ -243,17 +249,17 @@ Talvez a gente pudesse sair juntos?
 
 54
 00:05:29,042 --> 00:05:30,675
-- Não.
-- Não, não é...
+- NÃ£o.
+- NÃ£o, nÃ£o Ã©...
 
 55
 00:05:30,677 --> 00:05:34,679
-Um, aliás, qual é o seu
+Um, aliÃ¡s, qual Ã© o seu
 nome mesmo?
 
 56
 00:05:34,681 --> 00:05:36,681
-- Você deve estar brincando.
+- VocÃª deve estar brincando.
 - Acertou em cheio, okay.
 
 57
@@ -270,12 +276,12 @@ Vamos andando, pessoal.
 
 60
 00:05:40,586 --> 00:05:42,188
-Aquilo foi horrível.
+Aquilo foi horrÃ­vel.
 
 61
 00:05:44,357 --> 00:05:46,758
-De todo modo eu não deveria
-sair com não-judeus, então é..
+De todo modo eu nÃ£o deveria
+sair com nÃ£o-judeus, entÃ£o Ã©..
 
 62
 00:05:59,473 --> 00:06:00,873
@@ -283,7 +289,7 @@ sair com não-judeus, então é..
 
 63
 00:06:00,875 --> 00:06:02,476
-Oh, é, foda-se Kappa.
+Oh, Ã©, foda-se Kappa.
 
 64
 00:06:03,945 --> 00:06:04,879
@@ -303,45 +309,45 @@ Hey, oi.
 
 68
 00:06:10,318 --> 00:06:12,186
-Hey, O... o que vocês vão fazer
+Hey, O... o que vocÃªs vÃ£o fazer
 hoje a noite?
 
 69
 00:06:12,188 --> 00:06:15,922
-Oh, nós vamos para,
+Oh, nÃ³s vamos para,
 um, para, Beta Chi.
 
 70
 00:06:15,924 --> 00:06:17,657
-É uma pena. Segure isso.
+Ã‰ uma pena. Segure isso.
 
 71
 00:06:17,659 --> 00:06:21,461
 Se ficarem entediados,
-vocês deveriam aparecer aqui.
+vocÃªs deveriam aparecer aqui.
 
 72
 00:06:21,463 --> 00:06:23,429
-<i>É, eu, uh, com certeza.
+<i>Ã‰, eu, uh, com certeza.
 
 73
 00:06:23,431 --> 00:06:25,165
 Eu... Eu gostaria disso.
-Nós gostaríamos disso.
+NÃ³s gostarÃ­amos disso.
 
 74
 00:06:25,167 --> 00:06:27,801
-- Vocês todos são amigos, certo?
-- <i>Somos próximos, somos unidos.
+- VocÃªs todos sÃ£o amigos, certo?
+- <i>Somos prÃ³ximos, somos unidos.
 
 75
 00:06:27,803 --> 00:06:28,902
-Nós somos melhores amigos.
+NÃ³s somos melhores amigos.
 
 76
 00:06:28,904 --> 00:06:31,371
 Bom, bem,
-isso é bom para três pessoas.
+isso Ã© bom para trÃªs pessoas.
 
 77
 00:06:31,373 --> 00:06:33,208
@@ -378,7 +384,7 @@ Eu comeria a calcinha dela.
 84
 00:06:47,791 --> 00:06:50,225
 Tudo bem, depois de Beta Chi,
-nós vamos para essa festa, okay?
+nÃ³s vamos para essa festa, okay?
 
 85
 00:06:50,227 --> 00:06:51,326
@@ -387,7 +393,7 @@ nós vamos para essa festa, okay?
 
 86
 00:06:51,328 --> 00:06:52,527
-- Tudo bem, é hora de Beta Chi.
+- Tudo bem, Ã© hora de Beta Chi.
 - Vamos.
 
 87
@@ -415,25 +421,25 @@ O que significa,
 92
 00:07:06,177 --> 00:07:08,978
 Derek! Derek,
-Aí está você, sua vadia.
+AÃ­ estÃ¡ vocÃª, sua vadia.
 
 93
 00:07:08,980 --> 00:07:10,846
-Como vai você?
+Como vai vocÃª?
 
 94
 00:07:10,848 --> 00:07:12,581
-- Eu te conheço?
+- Eu te conheÃ§o?
 - Sim. eu sou, uh..
 
 95
 00:07:12,583 --> 00:07:16,019
-Ah, você lembra que a gente se conheceu, uh..
-Você era o administrador do grupo.
+Ah, vocÃª lembra que a gente se conheceu, uh..
+VocÃª era o administrador do grupo.
 
 96
 00:07:16,021 --> 00:07:18,255
-Você está no grupo,
+VocÃª estÃ¡ no grupo,
 no grupo de recrutamento?
 
 97
@@ -442,32 +448,32 @@ Sou David.
 
 98
 00:07:22,293 --> 00:07:23,896
-O que há de bom?
+O que hÃ¡ de bom?
 
 99
 00:07:25,329 --> 00:07:27,230
 Hey, pessoal.
-Ah, vocês são candidatos?
+Ah, vocÃªs sÃ£o candidatos?
 
 100
 00:07:27,232 --> 00:07:29,032
-Não, não, a gente está apenas,
+NÃ£o, nÃ£o, a gente estÃ¡ apenas,
 estamos apenas dando uma olhada.
 
 101
 00:07:29,034 --> 00:07:31,168
-Pessoal, um, vocês ouviram alguma coisa
+Pessoal, um, vocÃªs ouviram alguma coisa
 sobre o prova do juramento?
 
 102
 00:07:31,170 --> 00:07:34,272
-Uh, não, não. Não ouvimos...
-Não ouvimos falar nada.
+Uh, nÃ£o, nÃ£o. NÃ£o ouvimos...
+NÃ£o ouvimos falar nada.
 
 103
 00:07:34,274 --> 00:07:36,473
-Sabe, dúvido que eles vão
-deixar alguém vazer alguma coisa,
+Sabe, dÃºvido que eles vÃ£o
+deixar alguÃ©m vazer alguma coisa,
 
 104
 00:07:36,475 --> 00:07:37,942
@@ -484,7 +490,7 @@ talvez algumas coisas esquisitas peladas.
 
 107
 00:07:41,981 --> 00:07:44,148
-Uh, como é,
+Uh, como Ã©,
 que coisas esquisitas peladas?
 
 108
@@ -493,16 +499,16 @@ Eu topo qualquer coisa.
 
 109
 00:07:45,952 --> 00:07:47,652
-É esse o seu lance?
+Ã‰ esse o seu lance?
 
 110
 00:07:47,654 --> 00:07:51,290
 - Coisas esquisitas peladas?
-- Não. O que?
+- NÃ£o. O que?
 
 111
 00:07:52,725 --> 00:07:54,592
-Você... você... você..
+VocÃª... vocÃª... vocÃª..
 
 112
 00:07:58,665 --> 00:08:00,232
@@ -514,53 +520,53 @@ E quanto, e quanto a Kristen?
 
 114
 00:08:01,836 --> 00:08:03,601
-- Não brinca!
-- <i>É.
+- NÃ£o brinca!
+- <i>Ã‰.
 
 115
 00:08:03,603 --> 00:08:05,403
-Oh, como você a conheceu?
+Oh, como vocÃª a conheceu?
 
 116
 00:08:05,405 --> 00:08:06,738
-On... Onde você a conheceu?
+On... Onde vocÃª a conheceu?
 
 117
 00:08:06,740 --> 00:08:08,140
-Você a conheceu aqui?
+VocÃª a conheceu aqui?
 
 118
 00:08:08,142 --> 00:08:10,442
-Eu não estou dizendo
-que eu iria para lá pelado...
+Eu nÃ£o estou dizendo
+que eu iria para lÃ¡ pelado...
 
 119
 00:08:10,444 --> 00:08:12,344
-Preste atenção na conversa
+Preste atenÃ§Ã£o na conversa
 pelo menos uma vez na sua vida?
 
 120
 00:08:12,346 --> 00:08:14,046
 - Ta bom, diminua o seu tom.
-- <i>Você está brincando comigo agora?
+- <i>VocÃª estÃ¡ brincando comigo agora?
 
 121
 00:08:14,048 --> 00:08:15,649
-Prazer em conhecê-los pessoal.
+Prazer em conhecÃª-los pessoal.
 Tenho que ir.
 
 122
 00:08:16,750 --> 00:08:17,950
-Ei, está tudo bem, cara.
+Ei, estÃ¡ tudo bem, cara.
 
 123
 00:08:17,952 --> 00:08:19,085
-- Isso é incrível.
+- Isso Ã© incrÃ­vel.
 - Legal, cara.
 
 124
 00:08:19,087 --> 00:08:20,086
-Ei todo mundo, eu encontro com vocês
+Ei todo mundo, eu encontro com vocÃªs
 um pouquinho mais tarde.
 
 125
@@ -569,16 +575,16 @@ Vou pegar uma bebida.
 
 126
 00:08:21,089 --> 00:08:22,956
-Vocês tem bebidas lá atrás?
+VocÃªs tem bebidas lÃ¡ atrÃ¡s?
 
 127
 00:08:22,958 --> 00:08:24,592
-Sim, tá bom,
+Sim, tÃ¡ bom,
 vou pegar uma bebida.
 
 128
 00:08:27,128 --> 00:08:30,196
-- Hey, como vão as coisas?
+- Hey, como vÃ£o as coisas?
 - Eu estou sendo bem neutro.
 
 129
@@ -588,13 +594,13 @@ vou pegar uma bebida.
 
 130
 00:08:33,368 --> 00:08:35,969
-Ah, é, eu meio que estou
-tendo esse problema também.
+Ah, Ã©, eu meio que estou
+tendo esse problema tambÃ©m.
 
 131
 00:08:35,971 --> 00:08:37,804
-Eu não sei, minhas piadas,
-elas não estão funcionando.
+Eu nÃ£o sei, minhas piadas,
+elas nÃ£o estÃ£o funcionando.
 
 132
 00:08:37,806 --> 00:08:40,142
@@ -603,11 +609,11 @@ elas não estão funcionando.
 
 133
 00:08:41,344 --> 00:08:42,442
-É David.
+Ã‰ David.
 
 134
 00:08:42,444 --> 00:08:46,280
-Claro, um, essa é uma festa de 
+Claro, um, essa Ã© uma festa de 
 recrutamento fechada, cara.
 
 135
@@ -617,8 +623,8 @@ alguma coisa errada,
 
 136
 00:08:49,352 --> 00:08:50,818
-adoraríamos 
-críticas construtivas.
+adorarÃ­amos 
+crÃ­ticas construtivas.
 
 137
 00:08:50,820 --> 00:08:52,253
@@ -627,37 +633,37 @@ queremos saber.
 
 138
 00:08:52,255 --> 00:08:53,654
-Por favor não nos contem,
-eu não quero saber.
+Por favor nÃ£o nos contem,
+eu nÃ£o quero saber.
 
 139
 00:08:53,656 --> 00:08:55,223
-Eu gostaria, nós gostaríamos.
+Eu gostaria, nÃ³s gostarÃ­amos.
 
 140
 00:08:55,225 --> 00:08:58,093
-Você apenas não é a ..
-Vocês são esquisitos.
+VocÃª apenas nÃ£o Ã© a ..
+VocÃªs sÃ£o esquisitos.
 
 141
 00:08:58,095 --> 00:08:59,860
-- Nós somos esquisitos?
+- NÃ³s somos esquisitos?
 - Sim.
 
 142
 00:08:59,862 --> 00:09:00,896
-- Nós somos esquisitos?
+- NÃ³s somos esquisitos?
 - Sim.
 
 143
 00:09:00,898 --> 00:09:02,030
-Bom, isso é..
-Nós somos esquisitos?
+Bom, isso Ã©..
+NÃ³s somos esquisitos?
 
 144
 00:09:02,032 --> 00:09:03,331
 - <i>Sim.</i>
-- Nós somos esquisitos?
+- NÃ³s somos esquisitos?
 
 145
 00:09:03,333 --> 00:09:04,498
@@ -665,13 +671,13 @@ Pela sexta vez...
 
 146
 00:09:04,500 --> 00:09:05,633
-Ele é esquisito?
-Você está dizendo que ele é esquisito?
+Ele Ã© esquisito?
+VocÃª estÃ¡ dizendo que ele Ã© esquisito?
 
 147
 00:09:05,635 --> 00:09:07,135
 Estou ficando cansado
-disso, deixa pra lá.
+disso, deixa pra lÃ¡.
 
 148
 00:09:07,137 --> 00:09:08,303
@@ -680,7 +686,7 @@ e deixar eles darem o fora daqui.
 
 149
 00:09:08,305 --> 00:09:09,504
-Eu não quero a porra da sua cerveja.
+Eu nÃ£o quero a porra da sua cerveja.
 
 150
 00:09:09,506 --> 00:09:10,972
@@ -688,12 +694,12 @@ David, apenas pegue a cerveja..
 
 151
 00:09:10,974 --> 00:09:12,274
-- Está tudo bem.
-- <i>Você vai se arrepender disso.
+- EstÃ¡ tudo bem.
+- <i>VocÃª vai se arrepender disso.
 
 152
 00:09:12,276 --> 00:09:13,775
-- Dá o fora daqui.
+- DÃ¡ o fora daqui.
 - <i>Muito mesmo, muito mesmo.
 
 153
@@ -708,11 +714,11 @@ Vamos para a outra fest..
 155
 00:09:17,148 --> 00:09:18,980
 O que foi?
-O que, você está com raiva de mim?
+O que, vocÃª estÃ¡ com raiva de mim?
 
 156
 00:09:18,982 --> 00:09:20,815
-Oh, não, eu adoro ser humilhado!
+Oh, nÃ£o, eu adoro ser humilhado!
 
 157
 00:09:20,817 --> 00:09:23,185
@@ -730,7 +736,7 @@ dar certo para a gente.
 
 160
 00:09:25,890 --> 00:09:27,522
-<i>Eu não acho que isso é tão ruim.
+<i>Eu nÃ£o acho que isso Ã© tÃ£o ruim.
 
 161
 00:09:27,524 --> 00:09:28,724
@@ -743,12 +749,12 @@ e esquecer sobre essa fraternidade?
 
 163
 00:09:30,194 --> 00:09:32,261
-- Não vale a pena.
-- Não tem festa, cara!
+- NÃ£o vale a pena.
+- NÃ£o tem festa, cara!
 
 164
 00:09:32,263 --> 00:09:33,596
-Com certeza é uma pegadinha.
+Com certeza Ã© uma pegadinha.
 
 165
 00:09:33,598 --> 00:09:35,665
@@ -763,25 +769,25 @@ aquela fizesse uma pegadinha comigo.
 167
 00:09:37,269 --> 00:09:40,170
 Olha, vamos,
-vamos voltar para o dormitório
+vamos voltar para o dormitÃ³rio
 
 168
 00:09:40,172 --> 00:09:41,504
-e ficar bêbados, tá bom?
+e ficar bÃªbados, tÃ¡ bom?
 
 169
 00:09:41,506 --> 00:09:43,173
-A noite não está indo bem, 
+A noite nÃ£o estÃ¡ indo bem, 
 obviamente.
 
 170
 00:09:43,175 --> 00:09:45,142
 - Obrigado.
-- <i>Mas não é só..
+- <i>Mas nÃ£o Ã© sÃ³..
 
 171
 00:09:45,144 --> 00:09:46,442
-Não é só esta noite.
+NÃ£o Ã© sÃ³ esta noite.
 
 172
 00:09:46,444 --> 00:09:49,079
@@ -790,11 +796,11 @@ e apenas desistir,
 
 173
 00:09:49,081 --> 00:09:50,547
-será assim pelos próximos quatro anos.
+serÃ¡ assim pelos prÃ³ximos quatro anos.
 
 174
 00:09:50,549 --> 00:09:52,816
-Será apenas nós, bebendo
+SerÃ¡ apenas nÃ³s, bebendo
 e jogando Xbox,
 
 175
@@ -804,12 +810,12 @@ pelo resto da faculdade.
 
 176
 00:09:54,186 --> 00:09:55,519
-Isso não parece ruim.
+Isso nÃ£o parece ruim.
 
 177
 00:09:55,521 --> 00:09:57,355
 Isso parece bem melhor
-do que alguém fazendo piada comigo
+do que alguÃ©m fazendo piada comigo
 
 178
 00:09:57,357 --> 00:09:59,923
@@ -819,31 +825,31 @@ entro em algum lugar.
 179
 00:10:01,593 --> 00:10:03,261
 David, eu nem consigo
-ler o endereço mais.
+ler o endereÃ§o mais.
 
 180
 00:10:03,263 --> 00:10:04,762
-Quer dizer, você consegue?
-O que você quer que eu...
+Quer dizer, vocÃª consegue?
+O que vocÃª quer que eu...
 
 181
 00:10:04,764 --> 00:10:06,764
-Eu sei o endereço, então não
-se preocupe com o endereço.
+Eu sei o endereÃ§o, entÃ£o nÃ£o
+se preocupe com o endereÃ§o.
 
 182
 00:10:06,766 --> 00:10:08,199
-Eu tenho ele na cabeça.
+Eu tenho ele na cabeÃ§a.
 
 183
 00:10:08,201 --> 00:10:09,834
-Isso não quer dizer nada, digo, e se 
-a gente não conseguir encontrar o lugar?
+Isso nÃ£o quer dizer nada, digo, e se 
+a gente nÃ£o conseguir encontrar o lugar?
 
 184
 00:10:09,836 --> 00:10:12,503
-Se a gente não conseguir encontrar o lugar,
-eu chamo um táxi imediatamente.
+Se a gente nÃ£o conseguir encontrar o lugar,
+eu chamo um tÃ¡xi imediatamente.
 
 185
 00:10:12,505 --> 00:10:14,706
@@ -851,21 +857,21 @@ Na mesma hora, okay?
 
 186
 00:10:14,708 --> 00:10:15,873
-Você paga o táxi?
+VocÃª paga o tÃ¡xi?
 
 187
 00:10:15,875 --> 00:10:17,709
-É claro, eu pago o táxi.
+Ã‰ claro, eu pago o tÃ¡xi.
 
 188
 00:10:17,711 --> 00:10:19,144
-Você um creme de ovos para mim
+VocÃª um creme de ovos para mim
 no caminho de casa?
 
 189
 00:10:19,146 --> 00:10:20,678
 Eu ia comprar um
-creme de ovos para você de qualquer jeito.
+creme de ovos para vocÃª de qualquer jeito.
 
 190
 00:10:20,680 --> 00:10:21,813
@@ -880,7 +886,7 @@ creme de ovos para você de qualquer jeito.
 192
 00:10:23,017 --> 00:10:24,783
 - Obrigado.
-- Okay, última chance, cara.
+- Okay, Ãºltima chance, cara.
 
 193
 00:10:24,785 --> 00:10:26,519
@@ -892,34 +898,34 @@ Tudo bem, pessoal, eu acho, uh..
 
 195
 00:10:46,875 --> 00:10:48,810
-É aqui, um, é aqui.
+Ã‰ aqui, um, Ã© aqui.
 
 196
 00:10:50,912 --> 00:10:51,847
-O que é isso?
+O que Ã© isso?
 
 197
 00:10:52,748 --> 00:10:53,913
-É uma entrada.
+Ã‰ uma entrada.
 
 198
 00:10:53,915 --> 00:10:56,116
 - De grama?
-- É, de grama. Vamos.
+- Ã‰, de grama. Vamos.
 
 199
 00:10:56,118 --> 00:10:58,486
-Pessoal, isso é uma pegadinha,
+Pessoal, isso Ã© uma pegadinha,
 eu vou me sentar.
 
 200
 00:10:58,488 --> 00:11:00,054
-Não, não se sente.
+NÃ£o, nÃ£o se sente.
 
 201
 00:11:00,056 --> 00:11:02,622
-É impossível te levantar
-quando você se senta, vamos.
+Ã‰ impossÃ­vel te levantar
+quando vocÃª se senta, vamos.
 
 202
 00:11:02,624 --> 00:11:03,893
@@ -948,7 +954,7 @@ isso se parece com uma pegadinha?
 
 208
 00:12:15,435 --> 00:12:16,867
-Essa é a melhor pegadinha
+Essa Ã© a melhor pegadinha
 do mundo.
 
 209
@@ -958,13 +964,13 @@ do mundo.
 
 210
 00:12:22,275 --> 00:12:24,511
-- É maravilhoso!
+- Ã‰ maravilhoso!
 - Hey, hey, olhem. Olhem aquilo.
 
 211
 00:12:26,880 --> 00:12:28,647
-- Ela é muito gata!
-- É.
+- Ela Ã© muito gata!
+- Ã‰.
 
 212
 00:12:30,016 --> 00:12:31,649
@@ -972,50 +978,50 @@ Oh, cara!
 
 213
 00:12:31,651 --> 00:12:33,118
-- Eu adoraria conhecê-la.
-- É, isso é bom.
+- Eu adoraria conhecÃª-la.
+- Ã‰, isso Ã© bom.
 
 214
 00:12:33,120 --> 00:12:34,853
-Eu acho que isso é
+Eu acho que isso Ã©
 o melhor que eu faria, sabe?
 
 215
 00:12:34,855 --> 00:12:36,020
-Bem, dê algum crédito
-a você mesmt.
+Bem, dÃª algum crÃ©dito
+a vocÃª mesmt.
 
 216
 00:12:36,022 --> 00:12:37,622
-Você sabe, elas são,
+VocÃª sabe, elas sÃ£o,
 tipo, melhor de longe
 
 217
 00:12:37,624 --> 00:12:39,023
-então não vamos estragar isso.
+entÃ£o nÃ£o vamos estragar isso.
 
 218
 00:12:39,025 --> 00:12:40,426
-Isso é exatamente 
-o que eu estou dizendo, é.
+Isso Ã© exatamente 
+o que eu estou dizendo, Ã©.
 
 219
 00:12:40,428 --> 00:12:42,428
-Quando você chega perto
+Quando vocÃª chega perto
 se disaponta
 
 220
 00:12:42,430 --> 00:12:44,597
-e aí você tem que conversar e 
+e aÃ­ vocÃª tem que conversar e 
 tem que impressionar elas.
 
 221
 00:12:44,599 --> 00:12:46,031
-É esquisito que eu já esteja excitado?
+Ã‰ esquisito que eu jÃ¡ esteja excitado?
 
 222
 00:12:46,033 --> 00:12:47,433
-Eu também estou muito suado, eu acho...
+Eu tambÃ©m estou muito suado, eu acho...
 
 223
 00:12:47,435 --> 00:12:48,501
@@ -1030,16 +1036,16 @@ Eu também estou muito suado, eu acho...
 225
 00:12:49,837 --> 00:12:53,540
 Me desculpe,
-eu não quis assustar vocês.
+eu nÃ£o quis assustar vocÃªs.
 
 226
 00:12:53,542 --> 00:12:56,775
-É, de... desculpe, a gente achou
+Ã‰, de... desculpe, a gente achou
 que era uma... casa abandonada.
 
 227
 00:12:56,777 --> 00:12:59,381
-Não. Não, não mesmo.
+NÃ£o. NÃ£o, nÃ£o mesmo.
 
 228
 00:13:00,415 --> 00:13:01,350
@@ -1047,7 +1053,7 @@ Okay.
 
 229
 00:13:03,051 --> 00:13:04,186
-Querem se juntar a nós?
+Querem se juntar a nÃ³s?
 
 230
 00:13:05,521 --> 00:13:07,220
@@ -1056,7 +1062,7 @@ Querem se juntar a nós?
 
 231
 00:13:07,222 --> 00:13:08,221
-- É.
+- Ã‰.
 - Sim, com certeza.
 
 232
@@ -1065,33 +1071,33 @@ Querem se juntar a nós?
 
 233
 00:13:09,358 --> 00:13:10,790
-Nós não estamos fazendo nada,
+NÃ³s nÃ£o estamos fazendo nada,
 acho que estamos livres.
 
 234
 00:13:10,792 --> 00:13:12,259
 Obrigado, sr,
-Deus te abençoe.
+Deus te abenÃ§oe.
 
 235
 00:13:12,261 --> 00:13:13,528
-Você é realmente um bom rapaz,
-não vou te decepcionar.
+VocÃª Ã© realmente um bom rapaz,
+nÃ£o vou te decepcionar.
 
 236
 00:13:13,530 --> 00:13:15,729
-- Aliás, eu sou Ricky.
+- AliÃ¡s, eu sou Ricky.
 - Ethan, obrigado.
 
 237
 00:13:15,731 --> 00:13:18,299
 - Eu sou Justin.
-- Ótimo.
+- Ã“timo.
 
 238
 00:13:18,301 --> 00:13:19,766
 - Eu, ah..
-- Ótimo, aqui.
+- Ã“timo, aqui.
 
 239
 00:13:19,768 --> 00:13:21,602
@@ -1101,7 +1107,7 @@ não vou te decepcionar.
 240
 00:13:21,604 --> 00:13:23,538
 - Acabei de pegar.
-- Oh, são pesados!
+- Oh, sÃ£o pesados!
 
 241
 00:13:27,210 --> 00:13:29,510
@@ -1111,7 +1117,7 @@ Esse tem, pelo menos,
 242
 00:13:29,512 --> 00:13:32,713
 - Isso mesmo.
-- É.
+- Ã‰.
 
 243
 00:13:32,715 --> 00:13:33,814
@@ -1124,7 +1130,7 @@ Sim.
 245
 00:13:36,587 --> 00:13:39,390
 Oh, merlot.
-Eu sou, sou grande fã de merlot.
+Eu sou, sou grande fÃ£ de merlot.
 
 246
 00:13:58,309 --> 00:14:00,142
@@ -1132,7 +1138,7 @@ Cavalheiros!
 
 247
 00:14:00,144 --> 00:14:03,845
-- Conheçam Maxwell Peterson III.
+- ConheÃ§am Maxwell Peterson III.
 - Oh, me chamem de Max.
 
 248
@@ -1142,7 +1148,7 @@ Qual o seu nome?
 249
 00:14:05,016 --> 00:14:06,950
 - Ethan.
-- Prazer em conhecê-lo.
+- Prazer em conhecÃª-lo.
 
 250
 00:14:06,952 --> 00:14:08,851
@@ -1151,32 +1157,32 @@ Qual o seu nome?
 
 251
 00:14:08,853 --> 00:14:10,186
-- <i>E quanto a você, cara?</i>
+- <i>E quanto a vocÃª, cara?</i>
 - <i>Sou o David.
 
 252
 00:14:10,188 --> 00:14:12,055
-- Prazer em conhecê-lo.
+- Prazer em conhecÃª-lo.
 - E eu estou tipo..
 
 253
 00:14:12,057 --> 00:14:14,692
 Uma casa colonial de New England,
-é tipo, nossa.
+Ã© tipo, nossa.
 
 254
 00:14:14,694 --> 00:14:16,194
-<i>É que.. Sim.
+<i>Ã‰ que.. Sim.
 
 255
 00:14:20,366 --> 00:14:22,233
-Então... então vocês 
+EntÃ£o... entÃ£o vocÃªs 
 moram aqui ou, uh..
 
 256
 00:14:22,235 --> 00:14:25,935
-Sim. Quer dizer, é longe 
-e temos que ir dirigindo até a faculdade, mas..
+Sim. Quer dizer, Ã© longe 
+e temos que ir dirigindo atÃ© a faculdade, mas..
 
 257
 00:14:25,937 --> 00:14:27,438
@@ -1192,17 +1198,17 @@ O que ele disse.
 
 260
 00:14:32,178 --> 00:14:34,478
-Então, uh, posso pegar uma
-bebida para vocês?
+EntÃ£o, uh, posso pegar uma
+bebida para vocÃªs?
 
 261
 00:14:34,480 --> 00:14:37,781
 - Sim, eu gostaria de dar uma volta.
-- Excelente. vocês dois vem comigo?
+- Excelente. vocÃªs dois vem comigo?
 
 262
 00:14:37,783 --> 00:14:39,584
-- Tudo bem, você vem comigo.
+- Tudo bem, vocÃª vem comigo.
 - <i>Vamos nessa.
 
 263
@@ -1212,7 +1218,7 @@ bebida para vocês?
 
 264
 00:14:42,154 --> 00:14:44,124
-Algum de vocês gosta de Scotch?
+Algum de vocÃªs gosta de Scotch?
 
 265
 00:14:46,159 --> 00:14:48,426
@@ -1220,25 +1226,25 @@ Oh! Oh, cara.
 
 266
 00:14:48,428 --> 00:14:50,562
-O que é isso, tijolo liquido?
+O que Ã© isso, tijolo liquido?
 
 267
 00:14:50,564 --> 00:14:51,663
-como está indo a semana de recrutamento, cara?
+como estÃ¡ indo a semana de recrutamento, cara?
 
 268
 00:14:51,665 --> 00:14:53,598
-- É, sim, você sabe.
+- Ã‰, sim, vocÃª sabe.
 - Huh?
 
 269
 00:14:53,600 --> 00:14:55,300
-Está meio que um,
+EstÃ¡ meio que um,
 um pouco confusa
 
 270
 00:14:55,302 --> 00:14:58,003
-mas, vocÊ, de que ano você é?
+mas, vocÃŠ, de que ano vocÃª Ã©?
 
 271
 00:14:58,005 --> 00:14:59,405
@@ -1247,11 +1253,11 @@ mas, vocÊ, de que ano você é?
 
 272
 00:14:59,407 --> 00:15:01,340
-Você parece com um veterano.
+VocÃª parece com um veterano.
 
 273
 00:15:01,342 --> 00:15:02,277
-É.
+Ã‰.
 
 274
 00:15:10,418 --> 00:15:11,517
@@ -1260,43 +1266,43 @@ Whoa.
 275
 00:15:16,491 --> 00:15:18,257
 Qu... qual,
-qual é essa fraternidade mesmo?
+qual Ã© essa fraternidade mesmo?
 
 276
 00:15:18,259 --> 00:15:19,728
-Digam olá para o Bret.
+Digam olÃ¡ para o Bret.
 
 277
 00:15:20,529 --> 00:15:21,827
-Uh, olá, Bret.
+Uh, olÃ¡, Bret.
 
 278
 00:15:21,829 --> 00:15:25,198
-Não, estou bem, tomei uma cerveja..
+NÃ£o, estou bem, tomei uma cerveja..
 Okay, claro. Uh..
 
 279
 00:15:25,200 --> 00:15:28,834
-- Uh, saúde
-- Mm, esse é do bom.
+- Uh, saÃºde
+- Mm, esse Ã© do bom.
 
 280
 00:15:28,836 --> 00:15:31,538
-- Oh, não, obrigado.
-- Não quer nem um pouco?
+- Oh, nÃ£o, obrigado.
+- NÃ£o quer nem um pouco?
 
 281
 00:15:31,540 --> 00:15:33,240
-- Não, estou bem.
-- Isso é vodka premium.
+- NÃ£o, estou bem.
+- Isso Ã© vodka premium.
 
 282
 00:15:33,242 --> 00:15:34,642
-Eu não bebo.
+Eu nÃ£o bebo.
 
 283
 00:15:34,644 --> 00:15:36,512
-Bem, isso é muito
+Bem, isso Ã© muito
 rude.
 
 284
@@ -1310,7 +1316,7 @@ temos mais pessoas para conhecer.
 
 286
 00:15:42,285 --> 00:15:43,720
-Relaxa, cara, está tudo bem.
+Relaxa, cara, estÃ¡ tudo bem.
 
 287
 00:15:50,560 --> 00:15:51,559
@@ -1322,48 +1328,48 @@ Oh, sim, oh.
 
 289
 00:15:54,631 --> 00:15:56,264
-<i>Você vai falar com elas?
+<i>VocÃª vai falar com elas?
 
 290
 00:15:56,266 --> 00:15:58,734
-É, eu só, uh, eu só vou pensar
-em uma pequena estratégia
+Ã‰, eu sÃ³, uh, eu sÃ³ vou pensar
+em uma pequena estratÃ©gia
 
 291
 00:15:58,736 --> 00:16:00,369
 e eu vou,
-e eu vou até lá.
+e eu vou atÃ© lÃ¡.
 
 292
 00:16:00,371 --> 00:16:02,638
-Ben, cara, e aí?
+Ben, cara, e aÃ­?
 
 293
 00:16:02,640 --> 00:16:03,672
 - Como vai, cara?
-- É.
+- Ã‰.
 
 294
 00:16:03,674 --> 00:16:04,673
-Vocês já conhecem o David?
+VocÃªs jÃ¡ conhecem o David?
 
 295
 00:16:04,675 --> 00:16:06,208
-Não, hey.
+NÃ£o, hey.
 
 296
 00:16:06,210 --> 00:16:09,180
 David estava nos contado sobre
-a, um, estratégia dele.
+a, um, estratÃ©gia dele.
 
 297
 00:16:11,182 --> 00:16:12,314
-Oh, é?
+Oh, Ã©?
 
 298
 00:16:12,316 --> 00:16:13,982
-Quer dizer, é...
-a engrenagem está girando.
+Quer dizer, Ã©...
+a engrenagem estÃ¡ girando.
 
 299
 00:16:13,984 --> 00:16:15,084
@@ -1372,8 +1378,8 @@ eu vou te apresentar!
 
 300
 00:16:15,086 --> 00:16:16,085
-Não, está tudo bem,
-você tem...
+NÃ£o, estÃ¡ tudo bem,
+vocÃª tem...
 
 301
 00:16:16,087 --> 00:16:17,086
@@ -1381,7 +1387,7 @@ você tem...
 
 302
 00:16:17,088 --> 00:16:18,087
-Tem um metódo na minha loucura.
+Tem um metÃ³do na minha loucura.
 
 303
 00:16:18,089 --> 00:16:19,088
@@ -1389,7 +1395,7 @@ Tem um metódo na minha loucura.
 
 304
 00:16:19,090 --> 00:16:21,156
-Você poderia me apresentar, eu...
+VocÃª poderia me apresentar, eu...
 
 305
 00:16:21,158 --> 00:16:22,625
@@ -1398,8 +1404,8 @@ Você poderia me apresentar, eu...
 
 306
 00:16:22,627 --> 00:16:26,665
-Moças, por favor,
-Conheçam Sam, Ben, David.
+MoÃ§as, por favor,
+ConheÃ§am Sam, Ben, David.
 
 307
 00:16:28,600 --> 00:16:30,400
@@ -1417,8 +1423,8 @@ Oi.
 
 310
 00:16:34,539 --> 00:16:37,040
-Você parece com o
-meu irmãozinho.
+VocÃª parece com o
+meu irmÃ£ozinho.
 
 311
 00:16:37,042 --> 00:16:38,141
@@ -1430,7 +1436,7 @@ Ob... obrigado por dizer isso.
 
 313
 00:16:40,446 --> 00:16:42,212
-- Alguém quer uma dose?
+- AlguÃ©m quer uma dose?
 - Doses?
 
 314
@@ -1446,11 +1452,11 @@ Ob... obrigado por dizer isso.
 316
 00:16:44,717 --> 00:16:47,084
 - <i>Eu tomo doses.</i>
-- Dose é o meu nome do meio.
+- Dose Ã© o meu nome do meio.
 
 317
 00:16:47,086 --> 00:16:48,252
-Alguém quer alguma dose especial?
+AlguÃ©m quer alguma dose especial?
 
 318
 00:16:48,254 --> 00:16:50,121
@@ -1458,7 +1464,7 @@ Eu.. gostaria, eu gostaria.
 
 319
 00:16:50,123 --> 00:16:51,756
-- É? Você?
+- Ã‰? VocÃª?
 - Eu gostaria.
 
 320
@@ -1467,12 +1473,12 @@ Que dose especial?
 
 321
 00:16:53,359 --> 00:16:55,159
-- <i>Essa é uma dose especial.</i>
+- <i>Essa Ã© uma dose especial.</i>
 - <i>Oh!
 
 322
 00:16:56,162 --> 00:16:57,294
-<i>O prazer é todo seu, mano.
+<i>O prazer Ã© todo seu, mano.
 
 323
 00:16:57,296 --> 00:16:59,463
@@ -1485,8 +1491,8 @@ estamos fazendo aqui?
 
 325
 00:17:01,635 --> 00:17:03,568
-Viu, eu não percebi que,
-Stacey, você não foi espécifica
+Viu, eu nÃ£o percebi que,
+Stacey, vocÃª nÃ£o foi espÃ©cifica
 
 326
 00:17:03,570 --> 00:17:04,569
@@ -1494,17 +1500,17 @@ porque se ele vai...
 
 327
 00:17:04,571 --> 00:17:05,871
-- Saúde!
-- Saúde!
+- SaÃºde!
+- SaÃºde!
 
 328
 00:17:05,873 --> 00:17:07,773
-Saúde! Vamos tomar
+SaÃºde! Vamos tomar
 outra dose especial?
 
 329
 00:17:07,775 --> 00:17:08,774
-Ou essa foi a última...
+Ou essa foi a Ãºltima...
 
 330
 00:17:08,776 --> 00:17:11,176
@@ -1521,7 +1527,7 @@ Ou essa foi a última...
 
 333
 00:17:14,014 --> 00:17:15,947
-- Whoo! É.
+- Whoo! Ã‰.
 - <i>Tudo bem, venham garotos.
 
 334
@@ -1536,16 +1542,16 @@ Ou essa foi a última...
 
 336
 00:17:19,319 --> 00:17:20,620
-- <i>Vejo você mais tarde, certo?</i>
+- <i>Vejo vocÃª mais tarde, certo?</i>
 - <i>Whoa!
 
 337
 00:17:20,622 --> 00:17:21,621
-incrível, cara!
+incrÃ­vel, cara!
 
 338
 00:17:21,623 --> 00:17:22,622
-E você, falo com você mais tarde.
+E vocÃª, falo com vocÃª mais tarde.
 
 339
 00:17:22,624 --> 00:17:23,558
@@ -1566,32 +1572,32 @@ Eu faria isso.
 
 343
 00:17:32,066 --> 00:17:33,001
-É.
+Ã‰.
 
 344
 00:17:35,437 --> 00:17:36,371
-É.
+Ã‰.
 
 345
 00:17:40,308 --> 00:17:43,610
-Sua camisa é tão macia!
+Sua camisa Ã© tÃ£o macia!
 
 346
 00:17:43,612 --> 00:17:46,012
-Obrigado, é a minha favorita.
+Obrigado, Ã© a minha favorita.
 
 347
 00:17:46,014 --> 00:17:47,314
-É tão incrível.
+Ã‰ tÃ£o incrÃ­vel.
 
 348
 00:17:47,316 --> 00:17:48,816
-- Você deveria... Agora não, cara.
-- Isso é tão incrível.
+- VocÃª deveria... Agora nÃ£o, cara.
+- Isso Ã© tÃ£o incrÃ­vel.
 
 349
 00:17:48,818 --> 00:17:49,817
-Isso é tão...
+Isso Ã© tÃ£o...
 
 350
 00:17:51,887 --> 00:17:54,588
@@ -1599,8 +1605,8 @@ Oi, sou David, sou David.
 
 351
 00:17:54,590 --> 00:17:56,123
-- Ela não liga.
-- Não, mas está tudo bem.
+- Ela nÃ£o liga.
+- NÃ£o, mas estÃ¡ tudo bem.
 
 352
 00:19:08,735 --> 00:19:10,035
@@ -1608,13 +1614,13 @@ Oh, sim, esse aqui.
 
 353
 00:19:17,510 --> 00:19:19,845
-- Não toque na porra...
+- NÃ£o toque na porra...
 - Desculpa.
 
 354
 00:19:19,847 --> 00:19:21,613
 Eu acho que eu te falei
-para não tocar na porta.
+para nÃ£o tocar na porta.
 
 355
 00:19:21,615 --> 00:19:23,549
@@ -1623,64 +1629,64 @@ para não tocar na porta.
 
 356
 00:19:23,551 --> 00:19:25,049
-Não, é, uh, é minha culpa.
+NÃ£o, Ã©, uh, Ã© minha culpa.
 
 357
 00:19:25,051 --> 00:19:27,653
 Eu... Eu... Eu pedia a ela para me
-mostrar onde é o banheiro.
+mostrar onde Ã© o banheiro.
 
 358
 00:19:27,655 --> 00:19:30,222
-- Uh, Peço perdão.
-- Issó é ótimo, está tudo bem. Claro.
+- Uh, PeÃ§o perdÃ£o.
+- IssÃ³ Ã© Ã³timo, estÃ¡ tudo bem. Claro.
 
 359
 00:19:30,224 --> 00:19:31,723
-Não se preocupe com isso,
-é só que, você sabe
+NÃ£o se preocupe com isso,
+Ã© sÃ³ que, vocÃª sabe
 
 360
 00:19:31,725 --> 00:19:34,029
-nós guardamos os nossos valores
-lá embaixo, e então...
+nÃ³s guardamos os nossos valores
+lÃ¡ embaixo, e entÃ£o...
 
 361
 00:19:35,462 --> 00:19:37,329
-- Não toque na porta.
+- NÃ£o toque na porta.
 - Okay.
 
 362
 00:19:37,331 --> 00:19:40,001
-- Está tudo bem?
-- Sim, está tudo ótimo.
+- EstÃ¡ tudo bem?
+- Sim, estÃ¡ tudo Ã³timo.
 
 363
 00:19:40,936 --> 00:19:42,769
-Vocês querem uma bebida?
+VocÃªs querem uma bebida?
 
 364
 00:19:42,771 --> 00:19:45,507
 - Sim.
-- Ótimo! Legal, vá na frente.
+- Ã“timo! Legal, vÃ¡ na frente.
 
 365
 00:19:46,908 --> 00:19:49,943
-Por que você não mostra a ele
-onde estão as bebidas?
+Por que vocÃª nÃ£o mostra a ele
+onde estÃ£o as bebidas?
 
 366
 00:21:10,562 --> 00:21:12,197
 Vamos ter que colocar
-vocês pra fora, desculpe.
+vocÃªs pra fora, desculpe.
 
 367
 00:21:13,632 --> 00:21:15,200
-<i>É, precisamos dormir.
+<i>Ã‰, precisamos dormir.
 
 368
 00:21:16,036 --> 00:21:17,869
-Já é quase de manhã.
+JÃ¡ Ã© quase de manhÃ£.
 
 369
 00:21:17,871 --> 00:21:19,638
@@ -1689,7 +1695,7 @@ Já é quase de manhã.
 
 370
 00:21:20,774 --> 00:21:23,473
-- Vocês se divertiram?
+- VocÃªs se divertiram?
 - Vamos, rapazes.
 
 371
@@ -1699,17 +1705,17 @@ espero que a gente
 
 372
 00:21:25,444 --> 00:21:27,645
-não tenha se aproveitado da sua hospitalidade.
+nÃ£o tenha se aproveitado da sua hospitalidade.
 
 373
 00:21:27,647 --> 00:21:29,214
-Agradeço mesmo
+AgradeÃ§o mesmo
 por nos receber.
 
 374
 00:21:33,853 --> 00:21:34,986
-O que vocês vão 
-fazer amanhã?
+O que vocÃªs vÃ£o 
+fazer amanhÃ£?
 
 375
 00:21:34,988 --> 00:21:36,289
@@ -1717,26 +1723,26 @@ Nada, por que?
 
 376
 00:21:37,824 --> 00:21:39,624
-Nós realmente gostamos de vocês.
+NÃ³s realmente gostamos de vocÃªs.
 
 377
 00:21:39,626 --> 00:21:41,659
-Achamos que vocês poderiam
+Achamos que vocÃªs poderiam
 fazer parte do clube.
 
 378
 00:21:41,661 --> 00:21:42,895
 Bom, isso...
-isso é ótimo, realmente.
+isso Ã© Ã³timo, realmente.
 
 379
 00:21:42,897 --> 00:21:46,732
-- Nós gostamos de vocês, também.
-- Isso foi tão divertido.
+- NÃ³s gostamos de vocÃªs, tambÃ©m.
+- Isso foi tÃ£o divertido.
 
 380
 00:21:46,734 --> 00:21:49,001
-Bom, então, uh, arrumem a bolsa
+Bom, entÃ£o, uh, arrumem a bolsa
 
 381
 00:21:49,003 --> 00:21:50,803
@@ -1745,8 +1751,8 @@ hoje a noite as 8:00.
 
 382
 00:21:50,805 --> 00:21:52,738
-Então isso é tipo,
-É tipo uma seleção?
+EntÃ£o isso Ã© tipo,
+Ã‰ tipo uma seleÃ§Ã£o?
 
 383
 00:21:52,740 --> 00:21:54,473
@@ -1759,13 +1765,13 @@ Oito horas.
 
 385
 00:22:06,922 --> 00:22:08,988
-<i>Cara, você falou pra gente
-se arrumar já faz duas horas.
+<i>Cara, vocÃª falou pra gente
+se arrumar jÃ¡ faz duas horas.
 
 386
 00:22:08,990 --> 00:22:10,790
-<i>Por que você ainda
-está se arrumando?
+<i>Por que vocÃª ainda
+estÃ¡ se arrumando?
 
 387
 00:22:10,792 --> 00:22:12,559
@@ -1775,30 +1781,30 @@ um tempo muito grande
 388
 00:22:12,561 --> 00:22:15,328
 para que eu fique
-tão bonito assim, tá bom?
+tÃ£o bonito assim, tÃ¡ bom?
 
 389
 00:22:15,330 --> 00:22:17,363
-Hey, você acha que
-aquelas garotas vão muito lá?
+Hey, vocÃª acha que
+aquelas garotas vÃ£o muito lÃ¡?
 
 390
 00:22:17,365 --> 00:22:18,531
-<i>Claro, você tá brincando?
+<i>Claro, vocÃª tÃ¡ brincando?
 
 391
 00:22:18,533 --> 00:22:19,666
-Provavelmente elas vão lá
+Provavelmente elas vÃ£o lÃ¡
 todo tempo.
 
 392
 00:22:19,668 --> 00:22:21,135
-É uma casa incrível.
+Ã‰ uma casa incrÃ­vel.
 
 393
 00:22:21,137 --> 00:22:23,738
-Minha pergunta é,
-será que o clube tem um iate?
+Minha pergunta Ã©,
+serÃ¡ que o clube tem um iate?
 
 394
 00:22:23,740 --> 00:22:26,674
@@ -1808,7 +1814,7 @@ um boquete em um iate.
 395
 00:22:26,676 --> 00:22:28,409
 Eu acho que talvez
-você devesse se concentrar, você sabe,
+vocÃª devesse se concentrar, vocÃª sabe,
 
 396
 00:22:28,411 --> 00:22:29,410
@@ -1816,7 +1822,7 @@ em beijar uma garota,
 
 397
 00:22:29,412 --> 00:22:31,814
-ou até mesmo ganhar um boquete
+ou atÃ© mesmo ganhar um boquete
 normal primeiro.
 
 398
@@ -1827,7 +1833,7 @@ uma casa daquelas
 399
 00:22:36,319 --> 00:22:38,686
 com certeza as garotas
-viriam até nós.
+viriam atÃ© nÃ³s.
 
 400
 00:22:38,688 --> 00:22:40,287
@@ -1836,30 +1842,30 @@ pode ser bem divertido.
 
 401
 00:22:40,289 --> 00:22:42,924
-Vai ser incrível.
+Vai ser incrÃ­vel.
 
 402
 00:23:08,253 --> 00:23:09,254
-Olá?
+OlÃ¡?
 
 403
 00:23:10,889 --> 00:23:12,789
 - David?
-- Olá?
+- OlÃ¡?
 
 404
 00:23:12,791 --> 00:23:14,793
-- Você vai entrando assim?
-- Eu não sei como.
+- VocÃª vai entrando assim?
+- Eu nÃ£o sei como.
 
 405
 00:23:15,693 --> 00:23:16,628
-Olá?
+OlÃ¡?
 
 406
 00:23:21,399 --> 00:23:23,601
 - Okay.
-- Nós, uh, nós chegamos cedo?
+- NÃ³s, uh, nÃ³s chegamos cedo?
 
 407
 00:23:24,103 --> 00:23:25,037
@@ -1875,16 +1881,16 @@ Bem vindos, cavalheiros.
 
 410
 00:23:41,320 --> 00:23:42,854
-Oi, Max, você conseguiu dormir bem?
+Oi, Max, vocÃª conseguiu dormir bem?
 
 411
 00:23:42,856 --> 00:23:44,858
-Coloquem as bolsas no chão
+Coloquem as bolsas no chÃ£o
 e formem uma fila.
 
 412
 00:23:56,903 --> 00:23:58,837
-Nós três estavamos
+NÃ³s trÃªs estavamos
 conversando a noite passada.
 
 413
@@ -1894,20 +1900,20 @@ pode ter passado uma ideia
 
 414
 00:24:00,407 --> 00:24:03,275
-errada para vocês sobre o nosso cluve.
+errada para vocÃªs sobre o nosso cluve.
 
 415
 00:24:03,277 --> 00:24:06,979
-Sabe, nosso clube não é só sobre
+Sabe, nosso clube nÃ£o Ã© sÃ³ sobre
 lindas mulheres e drogas.
 
 416
 00:24:06,981 --> 00:24:08,716
-Não, esses são subprodutos.
+NÃ£o, esses sÃ£o subprodutos.
 
 417
 00:24:09,684 --> 00:24:12,952
-Subprodutos de um único foco.
+Subprodutos de um Ãºnico foco.
 
 418
 00:24:12,954 --> 00:24:15,988
@@ -1921,15 +1927,15 @@ domina o seu campo.
 
 420
 00:24:20,095 --> 00:24:23,696
-<i>Propaganda, tecnologia, finanças.
+<i>Propaganda, tecnologia, finanÃ§as.
 
 421
 00:24:23,698 --> 00:24:27,067
-<i>Então, se vocês fizerem o juramento hoje, sim
+<i>EntÃ£o, se vocÃªs fizerem o juramento hoje, sim
 
 422
 00:24:27,069 --> 00:24:28,969
-<i>haverá lindas
+<i>haverÃ¡ lindas
 mulheres
 
 423
@@ -1939,17 +1945,17 @@ mas o mais importante
 
 424
 00:24:32,941 --> 00:24:35,675
-<i>vocês vão ter um futuro
-tão brilhante
+<i>vocÃªs vÃ£o ter um futuro
+tÃ£o brilhante
 
 425
 00:24:35,677 --> 00:24:37,111
-<i>que irão precisar
-de óculos escuros
+<i>que irÃ£o precisar
+de Ã³culos escuros
 
 426
 00:24:37,113 --> 00:24:39,249
-<i>toda vez que vocês se olharem
+<i>toda vez que vocÃªs se olharem
 no espelho.
 
 427
@@ -1974,12 +1980,12 @@ estava esperando eram, "Sim, sr."
 431
 00:24:50,660 --> 00:24:52,493
 - Uh..
-- Oh, não, não, não.
+- Oh, nÃ£o, nÃ£o, nÃ£o.
 
 432
 00:24:52,495 --> 00:24:54,397
-Vocês só irão falar
-quando falarem com vocês.
+VocÃªs sÃ³ irÃ£o falar
+quando falarem com vocÃªs.
 
 433
 00:24:55,732 --> 00:24:57,066
@@ -1993,20 +1999,20 @@ Sim, sr.
 435
 00:25:03,240 --> 00:25:06,509
 Uh, vai... vai haver mais 
-juramentos ou é... é só esse?
+juramentos ou Ã©... Ã© sÃ³ esse?
 
 436
 00:25:28,432 --> 00:25:30,735
-Eu não acho que você está
+Eu nÃ£o acho que vocÃª estÃ¡
 me ouvindo, Sam.
 
 437
 00:25:31,937 --> 00:25:34,205
-Sabe, esse clube é exclusivo.
+Sabe, esse clube Ã© exclusivo.
 
 438
 00:25:36,309 --> 00:25:38,574
-Nunca há mais do que 
+Nunca hÃ¡ mais do que 
 dez membros ativos
 
 439
@@ -2015,17 +2021,17 @@ no campus.
 
 440
 00:25:41,780 --> 00:25:43,581
-Vocês estão as portas
+VocÃªs estÃ£o as portas
 da elite.
 
 441
 00:25:45,918 --> 00:25:49,420
-Mas isso não significa
-que voces não terão que trabalhar para isso.
+Mas isso nÃ£o significa
+que voces nÃ£o terÃ£o que trabalhar para isso.
 
 442
 00:25:49,422 --> 00:25:52,356
-Sabe, privilégio
+Sabe, privilÃ©gio
 vem com trabalho duro
 
 443
@@ -2034,7 +2040,7 @@ vem com... sacrificio.
 
 444
 00:26:02,202 --> 00:26:03,467
-Então, vocês estão prontos para jurar?
+EntÃ£o, vocÃªs estÃ£o prontos para jurar?
 
 445
 00:26:03,469 --> 00:26:04,568
@@ -2044,7 +2050,7 @@ Então, vocês estão prontos para jurar?
 446
 00:26:04,570 --> 00:26:06,338
 Mais alto, nossos membros
-não mumble!
+nÃ£o mumble!
 
 447
 00:26:06,340 --> 00:26:07,471
@@ -2053,13 +2059,13 @@ não mumble!
 
 448
 00:26:07,473 --> 00:26:10,308
-Estão prontos para
+EstÃ£o prontos para
 serem reis do campus?
 
 449
 00:26:10,310 --> 00:26:12,877
 - Sim, sr.!
-- Vocês tem o que é necessário?
+- VocÃªs tem o que Ã© necessÃ¡rio?
 
 450
 00:26:12,879 --> 00:26:14,479
@@ -2082,8 +2088,8 @@ Mais uma vez!
 
 454
 00:26:18,552 --> 00:26:22,687
-Durante as próximas 48 horas,
-vocês serão testados
+Durante as prÃ³ximas 48 horas,
+vocÃªs serÃ£o testados
 
 455
 00:26:22,689 --> 00:26:26,591
@@ -2120,13 +2126,13 @@ O... okay.
 
 463
 00:27:14,611 --> 00:27:18,613
-Tudo bem, então, todos os anos,
-nós escolhemos um presidente de turma.
+Tudo bem, entÃ£o, todos os anos,
+nÃ³s escolhemos um presidente de turma.
 
 464
 00:27:18,615 --> 00:27:20,284
 Uh, quem gostaria de ser
-voluntário
+voluntÃ¡rio
 
 465
 00:27:22,486 --> 00:27:24,585
@@ -2135,24 +2141,24 @@ eu era muito ativo politicamente
 
 466
 00:27:24,587 --> 00:27:26,155
-no ensino médio.
+no ensino mÃ©dio.
 
 467
 00:27:26,157 --> 00:27:27,224
-Ótimo!
+Ã“timo!
 
 468
 00:27:34,298 --> 00:27:35,465
-Renuncio a presidência.
+Renuncio a presidÃªncia.
 
 469
 00:27:35,467 --> 00:27:36,732
 Bem, como presidente,
-eu vou precisar que você
+eu vou precisar que vocÃª
 
 470
 00:27:36,734 --> 00:27:37,733
-tome uma decisão aqui.
+tome uma decisÃ£o aqui.
 
 471
 00:27:37,735 --> 00:27:39,168
@@ -2160,13 +2166,13 @@ Certo, um, eu tenuncio.
 
 472
 00:27:39,170 --> 00:27:41,870
-Marcamos você
+Marcamos vocÃª
 ou todo os outros?
 
 473
 00:27:41,872 --> 00:27:42,871
 Acho que temos uma
-confusão aqui.
+confusÃ£o aqui.
 
 474
 00:27:42,873 --> 00:27:44,007
@@ -2179,27 +2185,27 @@ Mas que porra?
 
 476
 00:27:50,549 --> 00:27:53,316
-Vocês terão que pensar mais
-rápido do que isso, suas bixas.
+VocÃªs terÃ£o que pensar mais
+rÃ¡pido do que isso, suas bixas.
 
 477
 00:27:55,687 --> 00:27:57,455
-A indecisão irá
-ferir vocês.
+A indecisÃ£o irÃ¡
+ferir vocÃªs.
 
 478
 00:27:57,457 --> 00:27:59,089
-David, você teve
+David, vocÃª teve
 uma oportunidade pefeita
 
 479
 00:27:59,091 --> 00:28:00,491
-e você estragou tudo.
+e vocÃª estragou tudo.
 
 480
 00:28:00,493 --> 00:28:03,294
-Sabe, pessoal, isso é exatamente
-o que vocês tem esse fim de semana
+Sabe, pessoal, isso Ã© exatamente
+o que vocÃªs tem esse fim de semana
 
 481
 00:28:03,296 --> 00:28:06,530
@@ -2217,36 +2223,36 @@ Certo, Paul Blart?
 
 484
 00:28:15,608 --> 00:28:16,707
-Quem é o próximo?
+Quem Ã© o prÃ³ximo?
 
 485
 00:28:16,709 --> 00:28:18,443
-Você acabou de dizer que 
+VocÃª acabou de dizer que 
 se ele fosse marcado
 
 486
 00:28:18,445 --> 00:28:19,977
-o resto de nós 
-não teria que ser.
+o resto de nÃ³s 
+nÃ£o teria que ser.
 
 487
 00:28:19,979 --> 00:28:21,846
 Isso seria apenas se
-ele tivesse tomado uma decisão.
+ele tivesse tomado uma decisÃ£o.
 
 488
 00:28:21,848 --> 00:28:23,714
-Vou precisar que você
+Vou precisar que vocÃª
 se incline para mim.
 
 489
 00:28:23,716 --> 00:28:26,017
-Não, cara, eu não vou 
-fazer isso, não vou fazer isso.
+NÃ£o, cara, eu nÃ£o vou 
+fazer isso, nÃ£o vou fazer isso.
 
 490
 00:28:26,019 --> 00:28:29,287
-- É rápido, pessoal.
+- Ã‰ rÃ¡pido, pessoal.
 - Ricky, vamos, cara.
 
 491
@@ -2279,7 +2285,7 @@ Bem... Bem aqui, okay?
 
 498
 00:28:55,350 --> 00:28:56,916
-Você... você pode fazer uma contagem
+VocÃª... vocÃª pode fazer uma contagem
 regressiva para mim?
 
 499
@@ -2289,7 +2295,7 @@ Sim, claro, um.
 500
 00:29:01,022 --> 00:29:04,025
 - Oh, Deus!
-- <i>Isso é tão fodido!
+- <i>Isso Ã© tÃ£o fodido!
 
 501
 00:29:04,994 --> 00:29:06,126
@@ -2297,56 +2303,56 @@ Oh, meu Deus!
 
 502
 00:29:06,128 --> 00:29:08,694
-- Eu não vou fazer isso?
+- Eu nÃ£o vou fazer isso?
 - Oh, meu Deus!
 
 503
 00:29:08,696 --> 00:29:10,397
-<i>Eu não posso fazer isso.
+<i>Eu nÃ£o posso fazer isso.
 
 504
 00:29:10,399 --> 00:29:11,798
-Eu não posso fazer isso.
+Eu nÃ£o posso fazer isso.
 
 505
 00:29:11,800 --> 00:29:12,799
-<i>Oh, qual é,
-nós vamos marcar vocês
+<i>Oh, qual Ã©,
+nÃ³s vamos marcar vocÃªs
 
 506
 00:29:12,801 --> 00:29:14,067
-<i>pelas razões certas.
+<i>pelas razÃµes certas.
 
 507
 00:29:14,069 --> 00:29:15,135
-Eu não vou fazer isso.
+Eu nÃ£o vou fazer isso.
 
 508
 00:29:15,137 --> 00:29:16,437
-Não é opcional, rapazes.
+NÃ£o Ã© opcional, rapazes.
 
 509
 00:29:16,439 --> 00:29:18,373
 Eu nem mesmo fui escolhido ainda,
-then I'm just branded já vou ser marcado.
+then I'm just branded jÃ¡ vou ser marcado.
 
 510
 00:29:18,375 --> 00:29:19,607
-Eu não quero isso!
+Eu nÃ£o quero isso!
 
 511
 00:29:19,609 --> 00:29:20,874
 - <i>Vire-se!</i>
-- <i>Isso é tão fodido.
+- <i>Isso Ã© tÃ£o fodido.
 
 512
 00:29:20,876 --> 00:29:24,878
-- Eu, eu não posso fazer isso.
+- Eu, eu nÃ£o posso fazer isso.
 - Shh.
 
 513
 00:29:24,880 --> 00:29:26,249
-É aqui...
+Ã‰ aqui...
 
 514
 00:29:27,617 --> 00:29:29,551
@@ -2354,12 +2360,12 @@ ou aqui.
 
 515
 00:29:29,553 --> 00:29:32,153
-Ah, apenas faça logo,
-faça rápido.
+Ah, apenas faÃ§a logo,
+faÃ§a rÃ¡pido.
 
 516
 00:29:32,155 --> 00:29:33,323
-<i>Apenas faça rápido.
+<i>Apenas faÃ§a rÃ¡pido.
 
 517
 00:29:33,924 --> 00:29:35,156
@@ -2390,17 +2396,17 @@ Porra! Porra!
 
 523
 00:29:51,409 --> 00:29:53,309
-<i>Isso não está acontecendo.
+<i>Isso nÃ£o estÃ¡ acontecendo.
 Pausa, pessoal.
 
 524
 00:29:53,311 --> 00:29:55,244
-- E quanto a você, Spike Lee?
+- E quanto a vocÃª, Spike Lee?
 - David, Justin, eu sinto muito.
 
 525
 00:29:55,246 --> 00:29:56,445
-Eu... Eu... Isso já
+Eu... Eu... Isso jÃ¡
 deu pra mim.
 
 526
@@ -2413,26 +2419,26 @@ Se acalme, se acalme, se acalme.
 
 528
 00:29:58,883 --> 00:30:00,049
-- Eu quero ir para casa. Não. Não.
+- Eu quero ir para casa. NÃ£o. NÃ£o.
 - Se acalme. Okay.
 
 529
 00:30:00,051 --> 00:30:01,850
 Ricky, por favor,
-eu só quero ir para casa.
+eu sÃ³ quero ir para casa.
 
 530
 00:30:01,852 --> 00:30:03,052
 <i>Desculpe, Isso... Isso... Isso
-já deu pra mim.
+jÃ¡ deu pra mim.
 
 531
 00:30:03,054 --> 00:30:04,820
-Tudo bem, você pode ir.
+Tudo bem, vocÃª pode ir.
 
 532
 00:30:04,822 --> 00:30:07,257
-- Me dê a sua palavra.
+- Me dÃª a sua palavra.
 - Okay, okay.
 
 533
@@ -2442,21 +2448,21 @@ Tudo bem, você pode ir.
 
 534
 00:30:08,260 --> 00:30:10,927
-Agradeço por isso.
-Não, não, oh!
+AgradeÃ§o por isso.
+NÃ£o, nÃ£o, oh!
 
 535
 00:30:17,135 --> 00:30:18,737
-- <i>E você!</i>
-- Não!
+- <i>E vocÃª!</i>
+- NÃ£o!
 
 536
 00:30:29,482 --> 00:30:30,881
-Okay, ótimo.
+Okay, Ã³timo.
 
 537
 00:30:30,883 --> 00:30:32,783
-Relaxa. O jantar é em cinco.
+Relaxa. O jantar Ã© em cinco.
 
 538
 00:30:32,785 --> 00:30:34,254
@@ -2473,25 +2479,25 @@ cinco segundos.
 
 541
 00:30:51,205 --> 00:30:52,504
-Já faz bem mais de cinco segundos.
+JÃ¡ faz bem mais de cinco segundos.
 
 542
 00:30:52,506 --> 00:30:55,440
-Pessoal, é só... é só um trote,
-é apenas trote.
+Pessoal, Ã© sÃ³... Ã© sÃ³ um trote,
+Ã© apenas trote.
 
 543
 00:30:55,442 --> 00:30:57,242
 Okay. Eu sei que isso
-é uma droga, Eu sei. Eu...
+Ã© uma droga, Eu sei. Eu...
 
 544
 00:30:57,244 --> 00:30:58,645
-Olhem, já ouvi falar de coisa muito pior.
+Olhem, jÃ¡ ouvi falar de coisa muito pior.
 
 545
 00:30:58,647 --> 00:31:00,912
-Você já ouviu falar de fraternidades
+VocÃª jÃ¡ ouviu falar de fraternidades
 que marcam pessoas?
 
 546
@@ -2500,7 +2506,7 @@ Sim, claro, claro!
 
 547
 00:31:02,517 --> 00:31:04,317
-Meu irmão me contou
+Meu irmÃ£o me contou
 que na fraternidade dele
 
 548
@@ -2510,12 +2516,12 @@ o dedo de um candidato uma vez.
 
 549
 00:31:06,554 --> 00:31:09,088
-Isso não é um trote,
-isso é tortura porra.
+Isso nÃ£o Ã© um trote,
+isso Ã© tortura porra.
 
 550
 00:31:09,090 --> 00:31:11,357
-Isso... isso não acontece
+Isso... isso nÃ£o acontece
 em uma fraternidade, okay?
 
 551
@@ -2525,12 +2531,12 @@ com as autoridades.
 
 552
 00:31:12,861 --> 00:31:14,360
-Isso não é uma fraternidade,
-sabe, é um clube social.
+Isso nÃ£o Ã© uma fraternidade,
+sabe, Ã© um clube social.
 
 553
 00:31:14,362 --> 00:31:15,595
-então vamos ficar com isso em mente.
+entÃ£o vamos ficar com isso em mente.
 
 554
 00:31:15,597 --> 00:31:16,929
@@ -2544,16 +2550,16 @@ e vamos para casa.
 
 556
 00:31:18,266 --> 00:31:19,633
-Não, você não vai, okay?
+NÃ£o, vocÃª nÃ£o vai, okay?
 
 557
 00:31:19,635 --> 00:31:21,067
-Do que porra você está
+Do que porra vocÃª estÃ¡
 falando?
 
 558
 00:31:21,069 --> 00:31:22,935
-Eu não vim até aqui para
+Eu nÃ£o vim atÃ© aqui para
 ser marcado e ir embora!
 
 559
@@ -2563,18 +2569,18 @@ Estamos todos feridos, okay?
 
 560
 00:31:25,006 --> 00:31:27,608
-Não podemos continuar fazendo isso
+NÃ£o podemos continuar fazendo isso
 por 48 horas. Olhe pra ele!
 
 561
 00:31:27,610 --> 00:31:29,643
-Não, você não vai dizer
+NÃ£o, vocÃª nÃ£o vai dizer
 uma palavra, eu juro por Deus!
 
 562
 00:31:31,347 --> 00:31:32,781
-- Não estrague isso!
-- Eu não..
+- NÃ£o estrague isso!
+- Eu nÃ£o..
 
 563
 00:31:35,451 --> 00:31:36,687
@@ -2586,7 +2592,7 @@ Aquilo foi louco pra caralho.
 
 565
 00:31:40,323 --> 00:31:41,889
-Vocês estão todos bem?
+VocÃªs estÃ£o todos bem?
 
 566
 00:31:41,891 --> 00:31:43,393
@@ -2598,7 +2604,7 @@ Eu sei.
 
 568
 00:31:48,732 --> 00:31:51,668
-Mas quando você está sendo selecionado,
+Mas quando vocÃª estÃ¡ sendo selecionado,
 tem que ser uma merda mesmo.
 
 569
@@ -2608,20 +2614,20 @@ Certo.
 570
 00:31:53,670 --> 00:31:55,537
 Olhem, pessoal,
-eu odeio isso tanto quanto vocês
+eu odeio isso tanto quanto vocÃªs
 
 571
 00:31:55,539 --> 00:31:57,972
-mas se a quremos chegar lá, temos
-que primeiro, manter a tradição.
+mas se a quremos chegar lÃ¡, temos
+que primeiro, manter a tradiÃ§Ã£o.
 
 572
 00:31:57,974 --> 00:31:59,610
-Qual é, cara, eu não posso fazer isso.
+Qual Ã©, cara, eu nÃ£o posso fazer isso.
 
 573
 00:32:01,546 --> 00:32:04,313
-<i>Eu... eu não posso fazer isso, cara.
+<i>Eu... eu nÃ£o posso fazer isso, cara.
 
 574
 00:32:04,315 --> 00:32:08,086
@@ -2638,7 +2644,7 @@ me avisem.
 
 577
 00:32:17,462 --> 00:32:18,831
-Eu faço eles maneirarem.
+Eu faÃ§o eles maneirarem.
 
 578
 00:32:25,671 --> 00:32:26,605
@@ -2650,7 +2656,7 @@ Vamos, Vamos.
 
 580
 00:33:08,883 --> 00:33:11,617
-Rachel. Rachel, não vá.
+Rachel. Rachel, nÃ£o vÃ¡.
 
 581
 00:33:11,619 --> 00:33:13,585
@@ -2662,7 +2668,7 @@ Rachel!
 
 583
 00:33:18,058 --> 00:33:19,360
-Pelo menos espere até acabar.
+Pelo menos espere atÃ© acabar.
 
 584
 00:33:32,774 --> 00:33:34,040
@@ -2670,7 +2676,7 @@ Pelo menos espere até acabar.
 
 585
 00:33:34,042 --> 00:33:35,778
-Tomem suas posições.
+Tomem suas posiÃ§Ãµes.
 
 586
 00:33:39,080 --> 00:33:40,915
@@ -2690,11 +2696,11 @@ Oh, meu Deus.
 
 590
 00:33:52,562 --> 00:33:53,761
-<i>Oh, isso não..
+<i>Oh, isso nÃ£o..
 
 591
 00:33:53,763 --> 00:33:56,697
-<i>Nós preparamos
+<i>NÃ³s preparamos
 algo muito especial.
 
 592
@@ -2703,16 +2709,16 @@ Oh!
 
 593
 00:34:00,838 --> 00:34:02,205
-<i>Cheira bom, não cheira?
+<i>Cheira bom, nÃ£o cheira?
 
 594
 00:34:05,107 --> 00:34:07,107
-- <i>Bret é quase um Chef.</i>
+- <i>Bret Ã© quase um Chef.</i>
 - <i>Oh!
 
 595
 00:34:07,109 --> 00:34:08,412
-<i>Vão amar os tempeiros.
+<i>VÃ£o amar os tempeiros.
 
 596
 00:34:11,849 --> 00:34:12,816
@@ -2724,8 +2730,8 @@ Oh.
 
 598
 00:34:18,857 --> 00:34:21,389
-Uh, Com... Com licença,
-um, o que é isso exatamente?
+Uh, Com... Com licenÃ§a,
+um, o que Ã© isso exatamente?
 
 599
 00:34:24,496 --> 00:34:26,161
@@ -2738,12 +2744,12 @@ Apenas comam a sopa.
 
 601
 00:34:27,365 --> 00:34:28,931
-Ele só está querendo saber
+Ele sÃ³ estÃ¡ querendo saber
 um pouco do contexto,
 
 602
 00:34:28,933 --> 00:34:30,433
-porque, você sabe,
+porque, vocÃª sabe,
 a gente vai comer.
 
 603
@@ -2753,17 +2759,17 @@ a gente vai comer.
 
 604
 00:34:33,404 --> 00:34:35,705
-Olhem, pessoal, isso é parte
-da tradição, okay?
+Olhem, pessoal, isso Ã© parte
+da tradiÃ§Ã£o, okay?
 
 605
 00:34:35,707 --> 00:34:37,573
 A Crypteia vem fazendo isso
-há séculos.
+hÃ¡ sÃ©culos.
 
 606
 00:34:37,575 --> 00:34:38,876
-É, mas essa uiversidade
+Ã‰, mas essa uiversidade
 nem mesmo...
 
 607
@@ -2774,12 +2780,12 @@ seu ponto de ruptura, cavalheiros
 608
 00:34:46,117 --> 00:34:48,119
 porque grandes homens
-não tem um.
+nÃ£o tem um.
 
 609
 00:34:49,455 --> 00:34:51,822
-Então nos mostrem que tipo
-de homens vocês são
+EntÃ£o nos mostrem que tipo
+de homens vocÃªs sÃ£o
 
 610
 00:34:51,824 --> 00:34:54,057
@@ -2796,12 +2802,12 @@ Comam!
 
 613
 00:35:17,785 --> 00:35:19,885
-<i>Com as suas mãos e os seus dedos!
+<i>Com as suas mÃ£os e os seus dedos!
 
 614
 00:35:21,656 --> 00:35:24,222
 <i>Coloquem a porra das suas bocas
-aí!
+aÃ­!
 
 615
 00:35:24,224 --> 00:35:27,560
@@ -2814,7 +2820,7 @@ acelerem um pouco.
 
 617
 00:35:29,964 --> 00:35:31,463
-Você gosta disso,
+VocÃª gosta disso,
 seu veadinho?
 
 618
@@ -2829,12 +2835,12 @@ Agora, agora, agora! Engulam!
 620
 00:35:38,506 --> 00:35:40,474
 <i>Eu quero ver isso sobre
-todo o cabelo de vocês!
+todo o cabelo de vocÃªs!
 
 621
 00:35:41,810 --> 00:35:43,009
 <i>Quer saber,
-se algum de vocês cuspir fora
+se algum de vocÃªs cuspir fora
 
 622
 00:35:43,011 --> 00:35:44,276
@@ -2843,25 +2849,25 @@ se algum de vocês cuspir fora
 623
 00:35:44,278 --> 00:35:48,048
 Eu juro por Deus,
-que eu enterro vocês!
+que eu enterro vocÃªs!
 
 624
 00:35:53,522 --> 00:35:54,956
 <i>Sabem,
-seus irmãos prepararam
+seus irmÃ£os prepararam
 
 625
 00:35:54,958 --> 00:35:56,156
-essa maravilhosa refeição para vocês
+essa maravilhosa refeiÃ§Ã£o para vocÃªs
 
 626
 00:35:56,158 --> 00:35:58,425
-e vocês querem cuspir a minha própria
+e vocÃªs querem cuspir a minha prÃ³pria
 comida na minha mesa?
 
 627
 00:36:04,067 --> 00:36:06,266
-Todo mundo no chão, agora!
+Todo mundo no chÃ£o, agora!
 
 628
 00:36:06,268 --> 00:36:07,635
@@ -2870,11 +2876,11 @@ Rastejem!
 629
 00:36:07,637 --> 00:36:09,337
 Rastejem como as vadiazinhas
-que vocês são!
+que vocÃªs sÃ£o!
 
 630
 00:36:09,339 --> 00:36:12,506
-- Vãoo, vão, vão!
+- VÃ£oo, vÃ£o, vÃ£o!
 - <i>Narizes e dedos, cavalheiros.
 
 631
@@ -2884,18 +2890,18 @@ agora mesmo porra!
 
 632
 00:36:16,412 --> 00:36:19,748
-- Eu não fico de joelhos.
+- Eu nÃ£o fico de joelhos.
 - Fiquem sobre os cotovelos!
 
 633
 00:36:19,750 --> 00:36:21,783
-- Você é estúpido, porra?
-- Não.
+- VocÃª Ã© estÃºpido, porra?
+- NÃ£o.
 
 634
 00:36:21,785 --> 00:36:24,553
 Cala a porra da boca.
-Você é estúpido, porra?
+VocÃª Ã© estÃºpido, porra?
 
 635
 00:36:24,555 --> 00:36:27,089
@@ -2904,15 +2910,15 @@ Você é estúpido, porra?
 
 636
 00:36:27,091 --> 00:36:30,726
-Você é estúpido, porra?
+VocÃª Ã© estÃºpido, porra?
 
 637
 00:36:34,965 --> 00:36:36,131
-Você é estúpido?
+VocÃª Ã© estÃºpido?
 
 638
 00:36:36,133 --> 00:36:37,967
-- Você quer que eu...
+- VocÃª quer que eu...
 - Cala a borra da boca!
 
 639
@@ -2930,7 +2936,7 @@ mais paertado, mais apertado!
 
 642
 00:36:53,852 --> 00:36:56,086
-Você é um babaca estúpido.
+VocÃª Ã© um babaca estÃºpido.
 
 643
 00:36:56,088 --> 00:36:57,520
@@ -2938,22 +2944,22 @@ Eu devo estar fazendo algo errado
 
 644
 00:36:57,522 --> 00:37:01,091
-porque cada um de vocês
+porque cada um de vocÃªs
 merece morrer
 
 645
 00:37:01,093 --> 00:37:05,261
-e ao invés disso, eu tenho que ficar sentado aqui
-e tomar conta de vocês!
+e ao invÃ©s disso, eu tenho que ficar sentado aqui
+e tomar conta de vocÃªs!
 
 646
 00:37:10,670 --> 00:37:13,237
-- O que vocês acham disso?
+- O que vocÃªs acham disso?
 - Whoo!
 
 647
 00:37:22,015 --> 00:37:23,547
-- Vocês adoram, porra!
+- VocÃªs adoram, porra!
 - Oh!
 
 648
@@ -2963,7 +2969,7 @@ e tomar conta de vocês!
 
 649
 00:37:25,384 --> 00:37:26,818
-<i>Você não adora isso, porra?
+<i>VocÃª nÃ£o adora isso, porra?
 
 650
 00:37:26,820 --> 00:37:28,920
@@ -2976,7 +2982,7 @@ que pegar esses perdedores?
 
 652
 00:37:31,458 --> 00:37:33,091
-O que porra há de errado com a gente?
+O que porra hÃ¡ de errado com a gente?
 
 653
 00:37:34,561 --> 00:37:38,296
@@ -2990,16 +2996,16 @@ Batam nele, batam nele.
 655
 00:37:44,371 --> 00:37:48,007
 - <i>Merda!</i>
-- Isso é nojento.
+- Isso Ã© nojento.
 
 656
 00:37:48,009 --> 00:37:50,443
-Você acabou de vômitar na
-droga do meu chão?
+VocÃª acabou de vÃ´mitar na
+droga do meu chÃ£o?
 
 657
 00:37:50,445 --> 00:37:51,977
-Você vômitou porra?
+VocÃª vÃ´mitou porra?
 
 658
 00:37:51,979 --> 00:37:52,978
@@ -3007,13 +3013,13 @@ Seu filho da puta.
 
 659
 00:37:54,582 --> 00:37:58,851
-É. Venha cá,
-vamos deixar bem impo, Sr. pano de chão.
+Ã‰. Venha cÃ¡,
+vamos deixar bem impo, Sr. pano de chÃ£o.
 
 660
 00:38:11,633 --> 00:38:14,202
 <i>Okay, todo mundo,
-de pé, Vamos!
+de pÃ©, Vamos!
 
 661
 00:38:14,204 --> 00:38:15,535
@@ -3026,7 +3032,7 @@ por aquela porta
 
 663
 00:38:17,006 --> 00:38:19,706
-<i>pela porra daquela porta, vão!
+<i>pela porra daquela porta, vÃ£o!
 
 664
 00:38:19,708 --> 00:38:21,976
@@ -3039,31 +3045,31 @@ seu merda gordo!
 
 666
 00:38:29,786 --> 00:38:30,720
-<i>Cadê a Stacey?
+<i>CadÃª a Stacey?
 
 667
 00:38:32,956 --> 00:38:35,124
-Ricky, me conte onde ela está.
-Eu sei que ela está aqui.
+Ricky, me conte onde ela estÃ¡.
+Eu sei que ela estÃ¡ aqui.
 
 668
 00:38:35,126 --> 00:38:37,126
-Eu não a vejo desde
+Eu nÃ£o a vejo desde
 ontem.
 
 669
 00:38:37,128 --> 00:38:38,129
-Você ouviu?
+VocÃª ouviu?
 
 670
 00:38:43,533 --> 00:38:45,368
-Então, uh, Bret, se você não se importa
+EntÃ£o, uh, Bret, se vocÃª nÃ£o se importa
 de fazer as honras...
 
 671
 00:38:47,303 --> 00:38:49,305
-Preparamos um lugar adorável
-para vocês dormirem.
+Preparamos um lugar adorÃ¡vel
+para vocÃªs dormirem.
 
 672
 00:38:51,575 --> 00:38:54,576
@@ -3076,16 +3082,16 @@ Cavalheiros, seu novo quarto.
 
 674
 00:38:59,383 --> 00:39:00,584
-Por que não começamos por você?
+Por que nÃ£o comeÃ§amos por vocÃª?
 
 675
 00:39:02,520 --> 00:39:04,120
-Não é bem um quarto de hotel
+NÃ£o Ã© bem um quarto de hotel
 
 676
 00:39:04,122 --> 00:39:05,824
 <i>mas acho que ele vai servir ao 
-seu propósito.
+seu propÃ³sito.
 
 677
 00:39:08,425 --> 00:39:10,226
@@ -3094,16 +3100,16 @@ Vamos.
 678
 00:39:10,228 --> 00:39:12,428
 Agora, eu espero que todos
-vocês descansem bastante
+vocÃªs descansem bastante
 
 679
 00:39:12,430 --> 00:39:14,364
-e pela manhã,
+e pela manhÃ£,
 estejam espertos e prontos
 
 680
 00:39:14,366 --> 00:39:15,465
-para continuarmos com a seleção.
+para continuarmos com a seleÃ§Ã£o.
 
 681
 00:39:15,467 --> 00:39:16,833
@@ -3112,7 +3118,7 @@ Parece bom? Excelente.
 682
 00:39:16,835 --> 00:39:19,369
 Oh, uh, cuidado
-com os ratos lá do funndo.
+com os ratos lÃ¡ do funndo.
 
 683
 00:39:36,355 --> 00:39:37,755
@@ -3120,8 +3126,8 @@ Porra.
 
 684
 00:39:37,757 --> 00:39:39,390
-Na verdade o chão
-não é tão desconfortável.
+Na verdade o chÃ£o
+nÃ£o Ã© tÃ£o desconfortÃ¡vel.
 
 685
 00:39:39,392 --> 00:39:40,992
@@ -3130,7 +3136,7 @@ David, cala a boca.
 686
 00:39:40,994 --> 00:39:43,028
 A luz vai ser um problema,
-mas posso deitar nesse chão.
+mas posso deitar nesse chÃ£o.
 
 687
 00:39:43,030 --> 00:39:44,798
@@ -3143,7 +3149,7 @@ David, cala a boca.
 
 689
 00:39:48,869 --> 00:39:50,735
-A culpa é sua de a gente está aqui.
+A culpa Ã© sua de a gente estÃ¡ aqui.
 
 690
 00:39:50,737 --> 00:39:52,604
@@ -3152,26 +3158,26 @@ deveria significar?
 
 691
 00:39:52,606 --> 00:39:54,139
-Agora você está brincando comigo?
+Agora vocÃª estÃ¡ brincando comigo?
 
 692
 00:39:54,141 --> 00:39:56,309
 Isso foi tudo ideia sua.
-Você nos trouxe aqui.
+VocÃª nos trouxe aqui.
 
 693
 00:39:56,311 --> 00:39:58,944
-Você fez a gente ficar marcado, você fez
-toda essa merda. A culpa é sua.
+VocÃª fez a gente ficar marcado, vocÃª fez
+toda essa merda. A culpa Ã© sua.
 
 694
 00:39:58,946 --> 00:40:00,545
-Oh, isso é minha culpa?
-Vocês não queriam estar aqui?
+Oh, isso Ã© minha culpa?
+VocÃªs nÃ£o queriam estar aqui?
 
 695
 00:40:00,547 --> 00:40:02,649
-Não, cara! Eu não queria
+NÃ£o, cara! Eu nÃ£o queria
 fazer nenhuma dessas merdas!
 
 696
@@ -3186,7 +3192,7 @@ Eu teria dito "eu".
 698
 00:40:07,588 --> 00:40:09,757
 Quando eles pediram para marcar
-você ou qualquer outro..
+vocÃª ou qualquer outro..
 
 699
 00:40:12,393 --> 00:40:15,661
@@ -3195,12 +3201,12 @@ eu teria dito eu.
 
 700
 00:40:15,663 --> 00:40:18,466
-Quer dizer, quem não,
-quem não diria isso?
+Quer dizer, quem nÃ£o,
+quem nÃ£o diria isso?
 
 701
 00:40:22,804 --> 00:40:25,072
-Okay, isso é rídiculo. Eles não
+Okay, isso Ã© rÃ­diculo. Eles nÃ£o
 me deram chance de dizer...
 
 702
@@ -3213,7 +3219,7 @@ Hey.
 
 704
 00:41:29,608 --> 00:41:32,976
-- O que é isso?
+- O que Ã© isso?
 - Tequila. Aproveite.
 
 705
@@ -3224,17 +3230,17 @@ infeccionou, cara. Posso sair?
 706
 00:41:35,147 --> 00:41:37,383
 - Vou dizer a eles.
-- Não, sério. Hey!
+- NÃ£o, sÃ©rio. Hey!
 
 707
 00:42:01,574 --> 00:42:05,243
-<i>A Crypteia é dedicada
+<i>A Crypteia Ã© dedicada
 a encontrar e treinar
 
 708
 00:42:05,245 --> 00:42:07,813
-<i>os futuros líderes
-da nossa grande nação.
+<i>os futuros lÃ­deres
+da nossa grande naÃ§Ã£o.
 
 709
 00:42:07,815 --> 00:42:10,282
@@ -3242,13 +3248,13 @@ da nossa grande nação.
 
 710
 00:42:10,284 --> 00:42:14,086
-<i>O clube ostenta tradições que remontam
-desde a época da Sparta antiga.
+<i>O clube ostenta tradiÃ§Ãµes que remontam
+desde a Ã©poca da Sparta antiga.
 
 711
 00:42:14,088 --> 00:42:16,955
-<i>Nossos membros incluem próprietários de
-industrias, politícos
+<i>Nossos membros incluem prÃ³prietÃ¡rios de
+industrias, politÃ­cos
 
 712
 00:42:16,957 --> 00:42:19,825
@@ -3263,7 +3269,7 @@ uma rede de alunos.
 714
 00:42:22,863 --> 00:42:26,899
 <i>De todos os animais, a
-Crypteia celébra o rato.
+Crypteia celÃ©bra o rato.
 
 715
 00:42:26,901 --> 00:42:29,534
@@ -3272,51 +3278,51 @@ como uma criatura inferior
 
 716
 00:42:29,536 --> 00:42:32,505
-<i>não se deve ignorar o seu
-traço mais valioso
+<i>nÃ£o se deve ignorar o seu
+traÃ§o mais valioso
 
 717
 00:42:32,507 --> 00:42:33,973
-<i>Visão em tunel.
+<i>VisÃ£o em tunel.
 
 718
 00:42:33,975 --> 00:42:36,809
-<i>Se um rato está com fome,
+<i>Se um rato estÃ¡ com fome,
 se ele realmente quer alguma coisa
 
 719
 00:42:36,811 --> 00:42:38,811
 <i>ele ir romper
-qualquer obstáculo
+qualquer obstÃ¡culo
 
 720
 00:42:38,813 --> 00:42:42,282
 <i>seja ele terra, tijolo, carne,
-ou até mesmo madeira.
+ou atÃ© mesmo madeira.
 
 721
 00:42:42,284 --> 00:42:45,986
-<i>Se você valoriza a sua meta,
-você pode fazer o mesmo.
+<i>Se vocÃª valoriza a sua meta,
+vocÃª pode fazer o mesmo.
 
 722
 00:42:45,988 --> 00:42:47,720
-<i>Vocês acham que tem o que é necessário?
+<i>VocÃªs acham que tem o que Ã© necessÃ¡rio?
 
 723
 00:42:47,722 --> 00:42:51,191
 <i>Se esforcem mais
-e não desistam.
+e nÃ£o desistam.
 
 724
 00:43:02,272 --> 00:43:05,806
-<i>A Crypteia é dedicada
+<i>A Crypteia Ã© dedicada
 a encontrar e treinar
 
 725
 00:43:05,808 --> 00:43:08,376
-<i>os futuros líderes
-da nossa grande nação.
+<i>os futuros lÃ­deres
+da nossa grande naÃ§Ã£o.
 
 726
 00:43:08,378 --> 00:43:10,145
@@ -3325,7 +3331,7 @@ em 1852..
 
 727
 00:43:11,214 --> 00:43:12,313
-<i>...o clube ostenta tradições
+<i>...o clube ostenta tradiÃ§Ãµes
 
 728
 00:43:12,315 --> 00:43:14,249
@@ -3347,26 +3353,26 @@ Sparta antiga.
 
 732
 00:44:14,582 --> 00:44:17,081
-Então, me digam, rapazes,
-como vocês dormiram?
+EntÃ£o, me digam, rapazes,
+como vocÃªs dormiram?
 
 733
 00:44:17,083 --> 00:44:18,282
-Vocês, uh,
+VocÃªs, uh,
 ficaram longe dos ratos?
 
 734
 00:44:18,284 --> 00:44:19,851
-Há quanto tempo estamos aqui?
+HÃ¡ quanto tempo estamos aqui?
 
 735
 00:44:19,853 --> 00:44:22,620
-Bem, vocês já estão aqui
+Bem, vocÃªs jÃ¡ estÃ£o aqui
 por, uh, 12 horas.
 
 736
 00:44:22,622 --> 00:44:25,923
-Minha queimadura está infecionada,
+Minha queimadura estÃ¡ infecionada,
 Preciso ir embora.
 
 737
@@ -3405,59 +3411,59 @@ um pretzel ou algo do tipo?
 744
 00:45:02,398 --> 00:45:03,531
 Sim, claro, vou arranjar algo
-para vocês comerem.
+para vocÃªs comerem.
 
 745
 00:45:03,533 --> 00:45:06,333
-Não se preocupem, eu tenho tomado
-conta de vocês muito bem até agora.
+NÃ£o se preocupem, eu tenho tomado
+conta de vocÃªs muito bem atÃ© agora.
 
 746
 00:45:06,335 --> 00:45:08,402
-Ethan, você é o meu garoto de ouro.
+Ethan, vocÃª Ã© o meu garoto de ouro.
 
 747
 00:45:08,404 --> 00:45:10,339
-Por que você não senta
+Por que vocÃª nÃ£o senta
 nesse assento dourado?
 
 748
 00:45:15,745 --> 00:45:19,148
 Eu estou terrivelmente triste
-pela maneira como vocês foram tratados até agora.
+pela maneira como vocÃªs foram tratados atÃ© agora.
 
 749
 00:45:20,716 --> 00:45:22,250
-<i>Isso é tudo parte
+<i>Isso Ã© tudo parte
 do processo de trote
 
 750
 00:45:22,252 --> 00:45:23,886
-<i>então não há nada com o
+<i>entÃ£o nÃ£o hÃ¡ nada com o
 que se preocupar, okay?
 
 751
 00:45:25,522 --> 00:45:28,089
-<i>Agora, eu tenho alguém muito
-especial que irá ajudar
+<i>Agora, eu tenho alguÃ©m muito
+especial que irÃ¡ ajudar
 
 752
 00:45:28,091 --> 00:45:30,625
-<i>você sabe, a levantar os seus espíritos,
-tá bom?
+<i>vocÃª sabe, a levantar os seus espÃ­ritos,
+tÃ¡ bom?
 
 753
 00:45:30,627 --> 00:45:31,694
-<i>O que vocês me dizem, pessoal?
+<i>O que vocÃªs me dizem, pessoal?
 
 754
 00:45:32,863 --> 00:45:34,464
-Posso ter um pouquinho de excitação?
+Posso ter um pouquinho de excitaÃ§Ã£o?
 
 755
 00:45:36,833 --> 00:45:39,267
 Vamos, me deem
-um pouquinho de excitação!
+um pouquinho de excitaÃ§Ã£o!
 
 756
 00:45:39,269 --> 00:45:41,169
@@ -3465,7 +3471,7 @@ um pouquinho de excitação!
 
 757
 00:45:41,171 --> 00:45:43,539
-Okay, então, a música vai dar a deixa.
+Okay, entÃ£o, a mÃºsica vai dar a deixa.
 
 758
 00:45:46,311 --> 00:45:48,578
@@ -3473,7 +3479,7 @@ Cavalheiros..
 
 759
 00:45:48,580 --> 00:45:50,779
-...para vocês.
+...para vocÃªs.
 
 760
 00:45:52,550 --> 00:45:54,951
@@ -3486,7 +3492,7 @@ Cavalheiros..
 
 762
 00:45:56,387 --> 00:45:58,522
-<i>Estou com uma ereção
+<i>Estou com uma ereÃ§Ã£o
 gigante.
 
 763
@@ -3496,7 +3502,7 @@ gigante.
 
 764
 00:46:02,361 --> 00:46:04,597
-- Isso não foi barato!
+- Isso nÃ£o foi barato!
 - Droga.
 
 765
@@ -3535,7 +3541,7 @@ Ow!
 
 773
 00:46:25,050 --> 00:46:26,653
-<i>Vamos, galã.
+<i>Vamos, galÃ£.
 
 774
 00:46:30,190 --> 00:46:31,757
@@ -3549,7 +3555,7 @@ estou certo?
 
 776
 00:46:36,830 --> 00:46:39,397
-Ethan, uh, você está ferido.
+Ethan, uh, vocÃª estÃ¡ ferido.
 
 777
 00:46:39,399 --> 00:46:41,367
@@ -3558,26 +3564,26 @@ Would you mind terribly?
 778
 00:46:41,369 --> 00:46:44,637
 - Estou bem.
-- Não, não, não, não, não. Está tudo bem.
+- NÃ£o, nÃ£o, nÃ£o, nÃ£o, nÃ£o. EstÃ¡ tudo bem.
 
 779
 00:46:44,639 --> 00:46:46,070
-<i>É por nossa conta, sério.
+<i>Ã‰ por nossa conta, sÃ©rio.
 
 780
 00:46:46,072 --> 00:46:47,939
-Sabe, ela está aqui
+Sabe, ela estÃ¡ aqui
 para fazer o trabalho dela.
 
 781
 00:46:47,941 --> 00:46:49,742
 - Obrigado.
-- <i>Sério, eu estou bem.
+- <i>SÃ©rio, eu estou bem.
 
 782
 00:46:49,744 --> 00:46:51,343
-Não se presocupe,
-ela vai garantir que você
+NÃ£o se presocupe,
+ela vai garantir que vocÃª
 
 783
 00:46:51,345 --> 00:46:52,947
@@ -3585,11 +3591,11 @@ fique em forma novamente.
 
 784
 00:47:00,988 --> 00:47:03,456
-Tenho certeza que você sabe...
+Tenho certeza que vocÃª sabe...
 
 785
 00:47:03,458 --> 00:47:05,824
-É, só tenha cuidado.
+Ã‰, sÃ³ tenha cuidado.
 
 786
 00:47:05,826 --> 00:47:07,562
@@ -3597,7 +3603,7 @@ Oh, isso parece infeccionado.
 
 787
 00:47:11,733 --> 00:47:13,768
-Assim está melhor. Obrigado.
+Assim estÃ¡ melhor. Obrigado.
 
 788
 00:47:16,673 --> 00:47:20,142
@@ -3606,7 +3612,7 @@ Assim está melhor. Obrigado.
 
 789
 00:47:21,411 --> 00:47:23,344
-<i>Hey, não vamos pagar
+<i>Hey, nÃ£o vamos pagar
 extra por isso.
 
 790
@@ -3627,7 +3633,7 @@ Isso!
 
 794
 00:47:52,142 --> 00:47:54,042
-isso foi incrível, certo?
+isso foi incrÃ­vel, certo?
 
 795
 00:47:54,044 --> 00:47:55,844
@@ -3640,12 +3646,12 @@ que eu vou pegar os seus lanches.
 
 797
 00:47:57,214 --> 00:47:59,617
-E você disse que queria 
+E vocÃª disse que queria 
 pretzels, certo?
 
 798
 00:48:00,819 --> 00:48:03,051
-Ótimo.
+Ã“timo.
 
 799
 00:48:11,129 --> 00:48:13,730
@@ -3654,16 +3660,16 @@ Shh, venham aqui.
 
 800
 00:48:13,732 --> 00:48:15,398
-Nós temos que ir agora.
+NÃ³s temos que ir agora.
 
 801
 00:48:15,400 --> 00:48:17,033
-Você vai estragar tudo 
-para todos nós.
+VocÃª vai estragar tudo 
+para todos nÃ³s.
 
 802
 00:48:17,035 --> 00:48:18,968
-Não, você pode fazer o juramento
+NÃ£o, vocÃª pode fazer o juramento
 sem a gente, okay?
 
 803
@@ -3672,44 +3678,44 @@ Precisamos ir embora.
 
 804
 00:48:20,305 --> 00:48:21,705
-Okay, você pode apenas me
-dizer o que está acontecendo?
+Okay, vocÃª pode apenas me
+dizer o que estÃ¡ acontecendo?
 
 805
 00:48:21,707 --> 00:48:23,940
-Eu conto lá fora.
-Nós temos que ir.
+Eu conto lÃ¡ fora.
+NÃ³s temos que ir.
 
 806
 00:48:23,942 --> 00:48:26,008
-Isso é uma má ideia.
-A gente já quase terminou aqui, pessoal.
+Isso Ã© uma mÃ¡ ideia.
+A gente jÃ¡ quase terminou aqui, pessoal.
 
 807
 00:48:26,010 --> 00:48:29,313
 Tem certeza? Porque eu acho
-que a verdadeira má ideia é ficar aqui.
+que a verdadeira mÃ¡ ideia Ã© ficar aqui.
 
 808
 00:48:29,315 --> 00:48:31,749
-- É apenas um trote.
-- É, é isso que as fraternidades fazem.
+- Ã‰ apenas um trote.
+- Ã‰, Ã© isso que as fraternidades fazem.
 
 809
 00:48:31,751 --> 00:48:34,720
-David... isso não é uma fraternidade.
+David... isso nÃ£o Ã© uma fraternidade.
 
 810
 00:48:36,055 --> 00:48:37,588
-<i>Nós temos que ir.
+<i>NÃ³s temos que ir.
 
 811
 00:48:37,590 --> 00:48:39,591
-Você vem?
+VocÃª vem?
 
 812
 00:48:39,593 --> 00:48:41,458
-É, eu vou.
+Ã‰, eu vou.
 
 813
 00:48:41,460 --> 00:48:43,160
@@ -3726,21 +3732,21 @@ Mas que porra?
 
 816
 00:48:56,811 --> 00:48:58,176
-Para onde estão indo?
+Para onde estÃ£o indo?
 
 817
 00:48:58,178 --> 00:49:00,245
-- Por que a porta está trancada?
+- Por que a porta estÃ¡ trancada?
 - Uh..
 
 818
 00:49:00,247 --> 00:49:02,380
-Max não queria que mais garotas
-aparecessem, então..
+Max nÃ£o queria que mais garotas
+aparecessem, entÃ£o..
 
 819
 00:49:02,382 --> 00:49:04,949
-Nós vamos pegar alguma comida.
+NÃ³s vamos pegar alguma comida.
 Estamos nos sentindo...
 
 820
@@ -3749,20 +3755,20 @@ Estamos indo embora.
 
 821
 00:49:08,322 --> 00:49:09,921
-Qual é.
+Qual Ã©.
 
 822
 00:49:09,923 --> 00:49:11,524
-<i>Vocês quase acabaram.
+<i>VocÃªs quase acabaram.
 
 823
 00:49:11,526 --> 00:49:13,259
 Hey, olhe,
-Ethan está machucado de verdade
+Ethan estÃ¡ machucado de verdade
 
 824
 00:49:13,261 --> 00:49:16,495
-e ele precisa ver um médico
+e ele precisa ver um mÃ©dico
 ou uma enfermeira.
 
 825
@@ -3773,19 +3779,19 @@ uma enfermeira com um
 826
 00:49:18,399 --> 00:49:20,702
 diploma de verdade
-e não apenas alguém com uma fantasia.
+e nÃ£o apenas alguÃ©m com uma fantasia.
 
 827
 00:49:23,271 --> 00:49:26,972
-Se vocês partirem, acabou.
+Se vocÃªs partirem, acabou.
 
 828
 00:49:26,974 --> 00:49:28,109
-Vocês estão fora.
+VocÃªs estÃ£o fora.
 
 829
 00:49:30,546 --> 00:49:31,979
-Vocês entenderam isso, certo?
+VocÃªs entenderam isso, certo?
 
 830
 00:49:34,950 --> 00:49:35,951
@@ -3806,7 +3812,7 @@ suas bolsas..
 
 834
 00:49:44,427 --> 00:49:48,028
-- E um táxi para casa, por minha conta.
+- E um tÃ¡xi para casa, por minha conta.
 - Obrigado, mas prefiro ir embora logo.
 
 835
@@ -3821,16 +3827,16 @@ eu compro um novo.
 
 837
 00:49:51,534 --> 00:49:55,102
-O Campus fica, tipo, a três quilometros,
-e Ethan está ferido.
+O Campus fica, tipo, a trÃªs quilometros,
+e Ethan estÃ¡ ferido.
 
 838
 00:49:55,104 --> 00:49:56,172
-Precisamos chamar um táxi.
+Precisamos chamar um tÃ¡xi.
 
 839
 00:49:57,640 --> 00:49:59,844
-Está bem. Podemos... Podemos nos
+EstÃ¡ bem. Podemos... Podemos nos
 apressar, por favor?
 
 840
@@ -3839,18 +3845,18 @@ Okay.
 
 841
 00:50:02,713 --> 00:50:04,278
-- Não.
+- NÃ£o.
 - <i>Jesus Cristo.
 
 842
 00:50:04,280 --> 00:50:06,750
-- Pessoal. Não. Pessoal, pessoal.
+- Pessoal. NÃ£o. Pessoal, pessoal.
 - Perto do piano.
 
 843
 00:50:13,524 --> 00:50:15,693
-Eu não... Eu não 
-vejo nenhuma bolsa. Eu não...
+Eu nÃ£o... Eu nÃ£o 
+vejo nenhuma bolsa. Eu nÃ£o...
 
 844
 00:50:19,363 --> 00:50:21,296
@@ -3858,7 +3864,7 @@ Eles tentaram fugir?
 
 845
 00:50:21,298 --> 00:50:23,900
-- <i>É.</i>
+- <i>Ã‰.</i>
 - Hmm.
 
 846
@@ -3874,7 +3880,7 @@ a porra do seu nariz!
 848
 00:50:29,474 --> 00:50:31,039
 - <i>Whoa, hey!</i>
-- Sério, pessoal?
+- SÃ©rio, pessoal?
 
 849
 00:50:31,041 --> 00:50:32,675
@@ -3892,7 +3898,7 @@ A gente pode ir embora... e...
 852
 00:50:37,249 --> 00:50:39,082
 - As pessoas sabem que estamos aqui.
-- Não, não sabem.
+- NÃ£o, nÃ£o sabem.
 
 853
 00:50:39,084 --> 00:50:40,517
@@ -3910,8 +3916,8 @@ Eu chequei todos os seus telefones.
 
 856
 00:50:44,256 --> 00:50:46,423
-<i>Olhe, nós... nós só queremos ir embora.
-Ethan está ferido de verdade.
+<i>Olhe, nÃ³s... nÃ³s sÃ³ queremos ir embora.
+Ethan estÃ¡ ferido de verdade.
 
 857
 00:50:46,425 --> 00:50:47,858
@@ -3920,11 +3926,11 @@ Ethan está ferido de verdade.
 
 858
 00:50:47,860 --> 00:50:49,058
-Okay, isso não é necessário
+Okay, isso nÃ£o Ã© necessÃ¡rio
 
 859
 00:50:49,060 --> 00:50:50,561
-Se você puder apenas
+Se vocÃª puder apenas
 deixar agente sair por aquela porta
 
 860
@@ -3934,32 +3940,32 @@ Tudo vai ficar bem.
 
 861
 00:50:51,697 --> 00:50:53,330
-Você pode apenas ficar na porra 
-do chão?
+VocÃª pode apenas ficar na porra 
+do chÃ£o?
 
 862
 00:50:53,332 --> 00:50:56,333
-Não, okay? Nós estamos indo embora,
-é isso!
+NÃ£o, okay? NÃ³s estamos indo embora,
+Ã© isso!
 
 863
 00:50:56,335 --> 00:50:58,904
 Tudo bem, Eu... Eu sinto muito, eu sei
-que essa é uma grande oportunidade
+que essa Ã© uma grande oportunidade
 
 864
 00:50:58,906 --> 00:51:01,105
-<i>e eu estava tão excitado,
+<i>e eu estava tÃ£o excitado,
 mas acabou.
 
 865
 00:51:02,876 --> 00:51:04,441
-Não, pare!
+NÃ£o, pare!
 
 866
 00:51:04,443 --> 00:51:07,612
-<i>Não há necessidade disso,
-pessoal. Qual é.
+<i>NÃ£o hÃ¡ necessidade disso,
+pessoal. Qual Ã©.
 
 867
 00:51:07,614 --> 00:51:09,314
@@ -3973,17 +3979,17 @@ pessoal. Qual é.
 
 869
 00:51:12,051 --> 00:51:14,020
-Não fui eu. Eu juro.
-Não fui eu.
+NÃ£o fui eu. Eu juro.
+NÃ£o fui eu.
 
 870
 00:51:14,022 --> 00:51:17,222
-- Ele só está tentando...
+- Ele sÃ³ estÃ¡ tentando...
 - Cala a boca!
 
 871
 00:51:17,224 --> 00:51:20,358
-<i>Agora todos vocês irão fazer
+<i>Agora todos vocÃªs irÃ£o fazer
 parte de um pequeno experimento.
 
 872
@@ -3992,21 +3998,21 @@ Oh, porra.
 
 873
 00:51:22,964 --> 00:51:25,196
-No chão, agora.
+No chÃ£o, agora.
 
 874
 00:51:25,198 --> 00:51:27,198
-- Por favor, cara, qual é.
+- Por favor, cara, qual Ã©.
 - Agora!
 
 875
 00:51:27,200 --> 00:51:30,170
 Agora, eu quero que todos
-vocês prestem bastante atenção.
+vocÃªs prestem bastante atenÃ§Ã£o.
 
 876
 00:51:31,306 --> 00:51:33,005
-<i>Eu não tenho treinamento médico..
+<i>Eu nÃ£o tenho treinamento mÃ©dico..
 
 877
 00:51:33,007 --> 00:51:34,540
@@ -4015,27 +4021,27 @@ vocês prestem bastante atenção.
 
 878
 00:51:34,542 --> 00:51:36,142
-<i>Nós não queremos
+<i>NÃ³s nÃ£o queremos
 mais participar.
 
 879
 00:51:36,144 --> 00:51:37,643
-Já deu. Só deixe a gente ir.
+JÃ¡ deu. SÃ³ deixe a gente ir.
 Estou te implorando.
 
 880
 00:51:37,645 --> 00:51:40,013
-- <i>Ethan, eles não ligam.</i>
+- <i>Ethan, eles nÃ£o ligam.</i>
 - Max.
 
 881
 00:51:40,015 --> 00:51:42,851
-Se vocês estão imaginando
+Se vocÃªs estÃ£o imaginando
 o que comeram no jantar...
 
 882
 00:51:48,323 --> 00:51:49,623
-<i>O que é isso? Hey.
+<i>O que Ã© isso? Hey.
 
 883
 00:51:49,625 --> 00:51:52,159
@@ -4044,40 +4050,40 @@ Oh, porra. Jesus.
 884
 00:51:52,161 --> 00:51:55,095
 - Mas que porra. Max.
-- Eu só quero ir embora.
+- Eu sÃ³ quero ir embora.
 
 885
 00:51:55,097 --> 00:51:56,630
-- O que você está fazendo, cara?
+- O que vocÃª estÃ¡ fazendo, cara?
 - <i>Max!
 
 886
 00:51:56,632 --> 00:51:58,799
 Sabe, esse rato
-meio que me lembra você.
+meio que me lembra vocÃª.
 
 887
 00:51:58,801 --> 00:52:01,035
-<i>Mas que porra é essa? Hey.
+<i>Mas que porra Ã© essa? Hey.
 
 888
 00:52:01,037 --> 00:52:03,838
-- Ele está assustado.
-- <i>Max, Ricky, isso é loucura.
+- Ele estÃ¡ assustado.
+- <i>Max, Ricky, isso Ã© loucura.
 
 889
 00:52:03,840 --> 00:52:05,240
-E está faminto.
+E estÃ¡ faminto.
 
 890
 00:52:06,876 --> 00:52:08,009
 - Vamos. Sam.
-- <i>Eu faço o que você quiser.
+- <i>Eu faÃ§o o que vocÃª quiser.
 
 891
 00:52:08,011 --> 00:52:11,913
-Não faça isso.
-Não, hey, não! Max!
+NÃ£o faÃ§a isso.
+NÃ£o, hey, nÃ£o! Max!
 
 892
 00:52:11,915 --> 00:52:14,549
@@ -4085,16 +4091,16 @@ Max! Pare!
 
 893
 00:52:14,551 --> 00:52:16,286
-<i>Pare, isso é loucura!
+<i>Pare, isso Ã© loucura!
 
 894
 00:52:25,261 --> 00:52:27,898
-Porra, não consigo ver isso,
-não consigo ver pra isso.
+Porra, nÃ£o consigo ver isso,
+nÃ£o consigo ver pra isso.
 
 895
 00:52:30,200 --> 00:52:31,634
-Vocês estão vendo, candidatos?
+VocÃªs estÃ£o vendo, candidatos?
 
 896
 00:52:31,636 --> 00:52:33,402
@@ -4110,7 +4116,7 @@ Sam!
 
 899
 00:52:44,348 --> 00:52:46,382
-<i>Façam aquela vadiazinha
+<i>FaÃ§am aquela vadiazinha
 olhar!
 
 900
@@ -4124,7 +4130,7 @@ solta ele, cara.
 
 902
 00:52:54,326 --> 00:52:55,727
-<i>Vocês estão assistindo?
+<i>VocÃªs estÃ£o assistindo?
 
 903
 00:52:59,197 --> 00:53:01,631
@@ -4132,7 +4138,7 @@ Mantenham os seus olhos para frente!
 
 904
 00:53:25,191 --> 00:53:28,026
-Alguém me ajude, venham!
+AlguÃ©m me ajude, venham!
 
 905
 00:53:34,234 --> 00:53:35,267
@@ -4144,7 +4150,7 @@ Pare com isso, pare com isso.
 
 907
 00:53:40,641 --> 00:53:43,743
-É só desmaiar, desmaie,
+Ã‰ sÃ³ desmaiar, desmaie,
 desmaie. Shh.
 
 908
@@ -4153,21 +4159,21 @@ Shh! Shh!
 
 909
 00:54:27,124 --> 00:54:31,528
-Oh, nossa, nós temos uma surpresa
-vindo para vocês.
+Oh, nossa, nÃ³s temos uma surpresa
+vindo para vocÃªs.
 
 910
 00:54:32,696 --> 00:54:34,162
-<i>Já não era hora, huh?
+<i>JÃ¡ nÃ£o era hora, huh?
 
 911
 00:54:34,164 --> 00:54:36,564
 Okay, minha, minha tia
-tem muito dinheiro, tá bom?
+tem muito dinheiro, tÃ¡ bom?
 
 912
 00:54:36,566 --> 00:54:38,200
-<i>Então se vocês, por favor,
+<i>EntÃ£o se vocÃªs, por favor,
 me deixarem ligar para ela
 
 913
@@ -4181,7 +4187,7 @@ mal posso esperar para
 
 915
 00:54:41,873 --> 00:54:43,239
-colocar a porra da sua cabeça em um espeto.
+colocar a porra da sua cabeÃ§a em um espeto.
 
 916
 00:54:43,241 --> 00:54:45,241
@@ -4219,7 +4225,7 @@ Oh, porra! Oh, droga!
 
 923
 00:55:06,464 --> 00:55:07,731
-- Você está bem?
+- VocÃª estÃ¡ bem?
 - Sim.
 
 924
@@ -4234,11 +4240,11 @@ se acalmem.
 
 926
 00:55:18,443 --> 00:55:19,609
-Abaixe o atiçador.
+Abaixe o atiÃ§ador.
 
 927
 00:55:19,611 --> 00:55:21,344
-Vão se foder,
+VÃ£o se foder,
 seus iluminnati
 
 928
@@ -4247,17 +4253,17 @@ de merda.
 
 929
 00:55:24,383 --> 00:55:26,651
-Eu acho que você misturou
-as teorias de conspiração.
+Eu acho que vocÃª misturou
+as teorias de conspiraÃ§Ã£o.
 
 930
 00:55:26,653 --> 00:55:29,486
-Justin, o que você vai fazer?
+Justin, o que vocÃª vai fazer?
 
 931
 00:55:29,488 --> 00:55:32,023
-O que eu vou fazer? Por que você
-não vem ver, Ricky, huh?
+O que eu vou fazer? Por que vocÃª
+nÃ£o vem ver, Ricky, huh?
 
 932
 00:55:32,025 --> 00:55:33,191
@@ -4272,11 +4278,11 @@ Manda ver!
 934
 00:55:37,198 --> 00:55:39,497
 Foda-se esse filho da puta!
-Venha cá!
+Venha cÃ¡!
 
 935
 00:55:39,499 --> 00:55:41,734
-- Vão, vão!
+- VÃ£o, vÃ£o!
 - Peguem eles, peguem eles!
 
 936
@@ -4289,7 +4295,7 @@ Venha cá!
 
 938
 00:56:47,637 --> 00:56:49,039
-<i>Olá?
+<i>OlÃ¡?
 
 939
 00:56:52,276 --> 00:56:53,575
@@ -4297,7 +4303,7 @@ Candidatos, abram a porta.
 
 940
 00:56:53,577 --> 00:56:55,010
-<i>Você precisa nos dar
+<i>VocÃª precisa nos dar
 os nossos telefones.
 
 941
@@ -4307,18 +4313,18 @@ a gente possa falar sobre isso.
 
 942
 00:56:57,114 --> 00:56:59,080
-Você é louco!
-Você precisa de ajuda!
+VocÃª Ã© louco!
+VocÃª precisa de ajuda!
 
 943
 00:56:59,082 --> 00:57:02,218
-- Vá embora, porra!
+- VÃ¡ embora, porra!
 - <i>David.
 
 944
 00:57:02,220 --> 00:57:03,752
 <i>Estou com um grupo de
-garotas lá embaixo
+garotas lÃ¡ embaixo
 
 945
 00:57:03,754 --> 00:57:05,388
@@ -4330,30 +4336,30 @@ Ben..
 
 947
 00:57:32,450 --> 00:57:34,051
-<i>Se você pudesse abrir essa porta
+<i>Se vocÃª pudesse abrir essa porta
 
 948
 00:57:34,053 --> 00:57:35,852
-você já teria
+vocÃª jÃ¡ teria
 aberto.
 
 949
 00:57:35,854 --> 00:57:38,021
-Você já teria atravessado
-essa porta, mas você não fez!
+VocÃª jÃ¡ teria atravessado
+essa porta, mas vocÃª nÃ£o fez!
 
 950
 00:57:38,023 --> 00:57:40,924
-<i>Você não passou por ela, então
-eu sei que você não opde atravessar!
+<i>VocÃª nÃ£o passou por ela, entÃ£o
+eu sei que vocÃª nÃ£o opde atravessar!
 
 951
 00:57:40,926 --> 00:57:44,062
-Escute, Max, você tem o Sam
+Escute, Max, vocÃª tem o Sam
 
 952
 00:57:44,064 --> 00:57:46,331
-e você tem o Ben.
+e vocÃª tem o Ben.
 
 953
 00:57:46,333 --> 00:57:48,099
@@ -4361,8 +4367,8 @@ Deixe a gente ir.
 
 954
 00:57:48,101 --> 00:57:49,836
-Do que você está falando?
-O que você está fazendo?
+Do que vocÃª estÃ¡ falando?
+O que vocÃª estÃ¡ fazendo?
 
 955
 00:57:55,775 --> 00:57:56,943
@@ -4384,12 +4390,12 @@ espere, espere, o que?
 959
 00:58:13,627 --> 00:58:16,261
 - <i>Abram a porra da porta!</i>
-- É um empate.
+- Ã‰ um empate.
 
 960
 00:58:16,263 --> 00:58:18,699
-Nós não vamos sair,
-vocês não vão entrar!
+NÃ³s nÃ£o vamos sair,
+vocÃªs nÃ£o vÃ£o entrar!
 
 961
 00:58:25,506 --> 00:58:28,509
@@ -4406,12 +4412,12 @@ Calma.
 
 964
 00:58:46,329 --> 00:58:47,794
-<i>Se eles não abrirem a porra
+<i>Se eles nÃ£o abrirem a porra
 da porta
 
 965
 00:58:47,796 --> 00:58:48,996
-<i>então você sabe o
+<i>entÃ£o vocÃª sabe o
 o que eu vou fazer?
 
 966
@@ -4422,7 +4428,7 @@ e eu vou
 967
 00:58:50,233 --> 00:58:52,433
 <i>abrir a porra
-dos crânios deles..
+dos crÃ¢nios deles..
 
 968
 00:58:52,435 --> 00:58:53,603
@@ -4430,39 +4436,39 @@ dos crânios deles..
 
 969
 00:58:57,441 --> 00:58:58,639
-Seu egoísta de merda!
+Seu egoÃ­sta de merda!
 
 970
 00:58:58,641 --> 00:59:00,641
-<i>Estamos com três calouros
+<i>Estamos com trÃªs calouros
 
 971
 00:59:00,643 --> 00:59:02,877
-trancados no banheiro lá em cima
+trancados no banheiro lÃ¡ em cima
 
 972
 00:59:02,879 --> 00:59:04,680
-e você está aqui embaixo com a gente?
+e vocÃª estÃ¡ aqui embaixo com a gente?
 
 973
 00:59:11,855 --> 00:59:15,491
-<i>Vejam, vocês não
-entenderam, não é?
+<i>Vejam, vocÃªs nÃ£o
+entenderam, nÃ£o Ã©?
 
 974
 00:59:15,493 --> 00:59:19,063
-Vocês falam e falam
+VocÃªs falam e falam
 e falam e falam.
 
 975
 00:59:21,065 --> 00:59:23,965
-Olhem, isso não é sobre
+Olhem, isso nÃ£o Ã© sobre
 machucar essas pessoas.
 
 976
 00:59:23,967 --> 00:59:26,302
-É sobre aprender a não 
-vê-las como pessoas.
+Ã‰ sobre aprender a nÃ£o 
+vÃª-las como pessoas.
 
 977
 00:59:26,304 --> 00:59:27,872
@@ -4474,7 +4480,7 @@ Vamos cuidar disso.
 
 979
 00:59:32,510 --> 00:59:34,177
-É, bom, há um minuto eu
+Ã‰, bom, hÃ¡ um minuto eu
 os vi passar por cima
 
 980
@@ -4487,12 +4493,12 @@ Cuidado, Ben.
 
 982
 00:59:43,621 --> 00:59:44,656
-É?
+Ã‰?
 
 983
 00:59:45,957 --> 00:59:48,791
 Talvez eu devesse adiar
-a ida lá pra cima.
+a ida lÃ¡ pra cima.
 
 984
 00:59:48,793 --> 00:59:50,062
@@ -4505,7 +4511,7 @@ Vamos, homenzinho.
 986
 00:59:53,099 --> 00:59:55,734
 - Porra!
-- Okay, tá bom. Basta.
+- Okay, tÃ¡ bom. Basta.
 
 987
 01:00:07,914 --> 01:00:09,249
@@ -4513,7 +4519,7 @@ Shh.
 
 988
 01:00:31,205 --> 01:00:32,807
-<i>Não estou escutando nada.
+<i>NÃ£o estou escutando nada.
 
 989
 01:00:35,776 --> 01:00:37,445
@@ -4535,7 +4541,7 @@ agora mesmo, okay?
 993
 01:01:00,570 --> 01:01:01,868
 - Temos que nos mexer.
-- É, mas como?
+- Ã‰, mas como?
 
 994
 01:01:01,870 --> 01:01:02,869
@@ -4547,22 +4553,22 @@ Vamos correr, nos desviar
 
 996
 01:01:04,607 --> 01:01:06,840
-e lutar até que a
+e lutar atÃ© que a
 gente saia por aquela porta.
 
 997
 01:01:06,842 --> 01:01:08,442
-David, a gente não sabe o que tem
+David, a gente nÃ£o sabe o que tem
 do outro lado dessa porta.
 
 998
 01:01:08,444 --> 01:01:10,777
-Eles são apenas pessoas.
-São apenas humanos..
+Eles sÃ£o apenas pessoas.
+SÃ£o apenas humanos..
 
 999
 01:01:10,779 --> 01:01:14,348
-São estudantes de Faculdade.
+SÃ£o estudantes de Faculdade.
 Um deles tem um metro e sessenta.
 
 1000
@@ -4573,16 +4579,16 @@ agora mesmo, porra.
 1001
 01:01:16,786 --> 01:01:18,121
 <i>Tudo bem,
-vocês concordam com isso?
+vocÃªs concordam com isso?
 
 1002
 01:01:19,856 --> 01:01:22,560
 Okay. Foda-se, foda-se.
-É, tudo bem.
+Ã‰, tudo bem.
 
 1003
 01:01:24,328 --> 01:01:26,197
-É, tudo bem. Porra!
+Ã‰, tudo bem. Porra!
 
 1004
 01:01:27,998 --> 01:01:30,067
@@ -4596,7 +4602,7 @@ Oh, Puta merda.
 
 1006
 01:01:35,674 --> 01:01:37,139
-Dois... Três.
+Dois... TrÃªs.
 
 1007
 01:02:03,001 --> 01:02:04,968
@@ -4609,7 +4615,7 @@ David?
 
 1009
 01:02:06,938 --> 01:02:09,406
-Não! Vamos! Vamos!
+NÃ£o! Vamos! Vamos!
 
 1010
 01:02:31,498 --> 01:02:34,499
@@ -4618,12 +4624,12 @@ um caminho, vamos, vamos.
 
 1011
 01:02:34,501 --> 01:02:36,601
-É, venham.
+Ã‰, venham.
 Vamos, vamos, vamos!
 
 1012
 01:02:36,603 --> 01:02:38,903
-Vão, vão, vão, go!
+VÃ£o, vÃ£o, vÃ£o, go!
 
 1013
 01:02:38,905 --> 01:02:40,508
@@ -4645,17 +4651,17 @@ Shh.
 
 1017
 01:03:03,798 --> 01:03:05,898
-- Vocês ouviram isso, certo?
-- Não, não, não, é por aqui.
+- VocÃªs ouviram isso, certo?
+- NÃ£o, nÃ£o, nÃ£o, Ã© por aqui.
 
 1018
 01:03:05,900 --> 01:03:07,401
-Não, não, não, Shh, shh.
+NÃ£o, nÃ£o, nÃ£o, Shh, shh.
 Escutem.
 
 1019
 01:03:08,437 --> 01:03:10,805
-- Oh, aí está.
+- Oh, aÃ­ estÃ¡.
 - Venham.
 
 1020
@@ -4664,13 +4670,13 @@ Venham.
 
 1021
 01:03:29,092 --> 01:03:32,260
-- Que lugar é esse?
-- Eu não sei.
+- Que lugar Ã© esse?
+- Eu nÃ£o sei.
 
 1022
 01:03:32,262 --> 01:03:34,130
-<i>Construir uma mansão
-sobre um monte de tunéis?
+<i>Construir uma mansÃ£o
+sobre um monte de tunÃ©is?
 
 1023
 01:03:40,738 --> 01:03:42,105
@@ -4686,7 +4692,7 @@ Rachel.
 
 1026
 01:03:51,048 --> 01:03:53,749
-Tudo bem. Está tudo bem.
+Tudo bem. EstÃ¡ tudo bem.
 
 1027
 01:03:53,751 --> 01:03:55,486
@@ -4694,16 +4700,16 @@ Tudo bem. Está tudo bem.
 
 1028
 01:04:01,760 --> 01:04:03,827
-Você sabe como 
+VocÃª sabe como 
 sair daqui?
 
 1029
 01:04:03,829 --> 01:04:05,497
-Eu não sei.. Eu não sei.
+Eu nÃ£o sei.. Eu nÃ£o sei.
 
 1030
 01:04:07,232 --> 01:04:09,132
-Ben, você..
+Ben, vocÃª..
 
 1031
 01:04:09,134 --> 01:04:11,101
@@ -4712,13 +4718,13 @@ Ben, você..
 
 1032
 01:04:11,103 --> 01:04:13,703
-Isso está começando a parecer 
+Isso estÃ¡ comeÃ§ando a parecer 
 uma armadilha novamente.
 
 1033
 01:04:13,705 --> 01:04:15,905
-Não, me escuta. Eles
-são psicopátas, cara.
+NÃ£o, me escuta. Eles
+sÃ£o psicopÃ¡tas, cara.
 
 1034
 01:04:15,907 --> 01:04:17,710
@@ -4730,23 +4736,23 @@ Eles mataram Dav..
 
 1036
 01:04:21,547 --> 01:04:23,046
-Como você sabe que a
+Como vocÃª sabe que a
 gente pode confiar nela?
 
 1037
 01:04:23,048 --> 01:04:25,549
-- Ela nos ajudou, tá bom?
+- Ela nos ajudou, tÃ¡ bom?
 - Nos ajudou quando, cara?
 
 1038
 01:04:25,551 --> 01:04:27,318
-Para começar foi ela que
+Para comeÃ§ar foi ela que
 nos trouxe para esse lugar.
 
 1039
 01:04:27,320 --> 01:04:28,652
-Ela é a razão pela qual
-a gente está passando por isso.
+Ela Ã© a razÃ£o pela qual
+a gente estÃ¡ passando por isso.
 
 1040
 01:04:28,654 --> 01:04:29,722
@@ -4754,7 +4760,7 @@ Olhe!
 
 1041
 01:04:33,659 --> 01:04:35,863
-<i>Vocês não são os únicos candidatos.
+<i>VocÃªs nÃ£o sÃ£o os Ãºnicos candidatos.
 
 1042
 01:04:45,839 --> 01:04:47,272
@@ -4791,7 +4797,7 @@ Fim da linha, rapazes.
 
 1050
 01:06:55,942 --> 01:06:59,845
-Oh, Eu estou tão
+Oh, Eu estou tÃ£o
 excitado com isso.
 
 1051
@@ -4809,7 +4815,7 @@ Vamos.
 
 1054
 01:08:17,260 --> 01:08:19,964
-É, você guincha como um porco,
+Ã‰, vocÃª guincha como um porco,
 seu garoto gordo de merda!
 
 1055
@@ -4824,7 +4830,7 @@ Vamos!
 1057
 01:08:37,548 --> 01:08:39,515
 - Ah!
-- Você gosta disso?
+- VocÃª gosta disso?
 
 1058
 01:08:48,060 --> 01:08:50,159
@@ -4836,7 +4842,7 @@ Vamos!
 
 1060
 01:09:28,201 --> 01:09:30,404
-É!
+Ã‰!
 
 1061
 01:09:36,577 --> 01:09:37,745
