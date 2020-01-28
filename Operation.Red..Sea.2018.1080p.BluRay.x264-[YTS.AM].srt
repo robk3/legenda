@@ -1,32 +1,42 @@
+0
+00:00:00,167 --> 00:00:08,000
+Baixe ja nosso aplicativo na play store
+Procure por: Cine House ou Smart Play
+
+1.1
+00:00:08,625 --> 00:00:16,628
+Cine House e SmartFlix.tv
+Agradece a Preferencia
+
 1
 00:01:39,020 --> 00:01:41,620
-2015. GOLFO DE ÁDEN.
-PERTO DA COSTA DA SOMÁLIA.
+2015. GOLFO DE ÃDEN.
+PERTO DA COSTA DA SOMÃLIA.
 
 2
 00:01:41,700 --> 00:01:45,100
 9260KM DA CHINA.
-TAMBÉM CONHECIDO COMO BECO PIRATA.
+TAMBÃ‰M CONHECIDO COMO BECO PIRATA.
 
 3
 00:02:06,620 --> 00:02:07,500
-Pra sala do pânico!
+Pra sala do pÃ¢nico!
 
 4
 00:02:07,580 --> 00:02:10,580
-Se correrem, vocês morrem!
+Se correrem, vocÃªs morrem!
 
 5
 00:02:11,700 --> 00:02:13,140
-Queremos reféns, não cadáveres!
+Queremos refÃ©ns, nÃ£o cadÃ¡veres!
 
 6
 00:02:13,220 --> 00:02:15,020
-Abram ou vamos matá-los!
+Abram ou vamos matÃ¡-los!
 
 7
 00:02:15,700 --> 00:02:18,100
-Depressa! Não consigo segurar muito!
+Depressa! NÃ£o consigo segurar muito!
 
 8
 00:02:18,740 --> 00:02:19,940
@@ -34,7 +44,7 @@ Depressa! Não consigo segurar muito!
 
 9
 00:02:20,020 --> 00:02:21,660
-<i>É o navio mercante chinês, Guangdong.</i>
+<i>Ã‰ o navio mercante chinÃªs, Guangdong.</i>
 
 10
 00:02:21,740 --> 00:02:24,660
@@ -42,15 +52,15 @@ Depressa! Não consigo segurar muito!
 
 11
 00:02:33,900 --> 00:02:35,540
-Eles estão vindo!
+Eles estÃ£o vindo!
 
 12
 00:02:43,980 --> 00:02:45,500
-19ª FORÇA ESPECIAL DA MARINHA CHINESA
+19Âª FORÃ‡A ESPECIAL DA MARINHA CHINESA
 
 13
 00:02:45,580 --> 00:02:46,980
-<i>Aqui é a Marinha Chinesa.</i>
+<i>Aqui Ã© a Marinha Chinesa.</i>
 
 14
 00:02:47,060 --> 00:02:48,780
@@ -58,7 +68,7 @@ Eles estão vindo!
 
 15
 00:02:48,860 --> 00:02:50,460
-<i>Aqui é a Marinha Chinesa.</i>
+<i>Aqui Ã© a Marinha Chinesa.</i>
 
 16
 00:02:50,540 --> 00:02:51,980
@@ -66,59 +76,59 @@ Eles estão vindo!
 
 17
 00:02:52,060 --> 00:02:53,060
-<i>Capitão.</i>
+<i>CapitÃ£o.</i>
 
 18
 00:02:53,140 --> 00:02:56,420
-<i>Jiaolong Unidades 1 e 2 estão
-próximas da área com reféns.</i>
+<i>Jiaolong Unidades 1 e 2 estÃ£o
+prÃ³ximas da Ã¡rea com refÃ©ns.</i>
 
 19
 00:02:56,780 --> 00:03:00,500
-<i>Jiaolong Unidade 3 está
-na casa de máquinas tentando pará-lo.</i>
+<i>Jiaolong Unidade 3 estÃ¡
+na casa de mÃ¡quinas tentando parÃ¡-lo.</i>
 
 20
 00:03:00,580 --> 00:03:02,220
-<i>Posição alfa, informem a posição.</i>
+<i>PosiÃ§Ã£o alfa, informem a posiÃ§Ã£o.</i>
 
 21
 00:03:05,140 --> 00:03:08,500
-<i>Informando. Há três piratas
-e 15 reféns na ponte.</i>
+<i>Informando. HÃ¡ trÃªs piratas
+e 15 refÃ©ns na ponte.</i>
 
 22
 00:03:10,260 --> 00:03:11,260
-ÁREA RESTRITA
+ÃREA RESTRITA
 
 23
 00:03:11,980 --> 00:03:14,820
-CAPITÃO
+CAPITÃƒO
 
 24
 00:03:15,620 --> 00:03:17,700
-COMUNICADOR DO EXÉRCITO
+COMUNICADOR DO EXÃ‰RCITO
 
 25
 00:03:20,140 --> 00:03:22,060
-<i>Posição beta, informem a situação.</i>
+<i>PosiÃ§Ã£o beta, informem a situaÃ§Ã£o.</i>
 
 26
 00:03:35,380 --> 00:03:38,020
-MÉDICO
+MÃ‰DICO
 
 27
 00:03:38,740 --> 00:03:41,980
-O alvo está na mira da cantina. Câmbio.
+O alvo estÃ¡ na mira da cantina. CÃ¢mbio.
 
 28
 00:03:52,300 --> 00:03:54,580
 Informando. Desativaram
-as válvulas de combustível.
+as vÃ¡lvulas de combustÃ­vel.
 
 29
 00:03:54,660 --> 00:03:56,220
-<i>Não podemos parar o combustível.</i>
+<i>NÃ£o podemos parar o combustÃ­vel.</i>
 
 30
 00:03:56,380 --> 00:03:58,580
@@ -126,11 +136,11 @@ as válvulas de combustível.
 
 31
 00:03:58,860 --> 00:04:00,100
-<i>Capitão, comissário,</i>
+<i>CapitÃ£o, comissÃ¡rio,</i>
 
 32
 00:04:00,180 --> 00:04:01,260
-estão ganhando velocidade!
+estÃ£o ganhando velocidade!
 
 33
 00:04:01,380 --> 00:04:02,780
@@ -142,37 +152,37 @@ Senhor,
 
 35
 00:04:03,900 --> 00:04:06,020
-o navio está viajando a 42km/h.
+o navio estÃ¡ viajando a 42km/h.
 
 36
 00:04:06,620 --> 00:04:09,740
 Nessa velocidade, estaremos
-em águas da Somália em 15 minutos.
+em Ã¡guas da SomÃ¡lia em 15 minutos.
 
 37
 00:04:10,460 --> 00:04:11,420
-Capitão,
+CapitÃ£o,
 
 38
 00:04:11,900 --> 00:04:13,940
-não podemos entrar em águas territoriais.
+nÃ£o podemos entrar em Ã¡guas territoriais.
 
 39
 00:04:14,780 --> 00:04:18,940
-Rui Yang, você tem dez minutos.
+Rui Yang, vocÃª tem dez minutos.
 
 40
 00:04:19,460 --> 00:04:20,500
-Atenção, pessoal.
+AtenÃ§Ã£o, pessoal.
 
 41
 00:04:21,180 --> 00:04:24,580
-Para a segurança dos reféns,
+Para a seguranÃ§a dos refÃ©ns,
 ataquem em conjunto.
 
 42
 00:04:24,700 --> 00:04:25,900
-Esperem as ordens. Câmbio.
+Esperem as ordens. CÃ¢mbio.
 
 43
 00:04:26,420 --> 00:04:27,740
@@ -192,12 +202,12 @@ Franco-atirador.
 
 47
 00:04:31,500 --> 00:04:32,900
-<i>Consegue colocá-los na mira?</i>
+<i>Consegue colocÃ¡-los na mira?</i>
 
 48
 00:04:32,980 --> 00:04:35,900
-<i>Se não conseguir,
-começaremos o ataque em três minutos.</i>
+<i>Se nÃ£o conseguir,
+comeÃ§aremos o ataque em trÃªs minutos.</i>
 
 49
 00:04:35,980 --> 00:04:37,100
@@ -205,20 +215,20 @@ FRANCO-ATIRADOR
 
 50
 00:04:37,180 --> 00:04:38,620
-Capitão.
+CapitÃ£o.
 
 51
 00:04:38,980 --> 00:04:41,820
-Nos comunicaremos em dois minutos. Câmbio.
+Nos comunicaremos em dois minutos. CÃ¢mbio.
 
 52
 00:04:42,420 --> 00:04:45,020
-Dong Li, qual é a nossa passagem?
+Dong Li, qual Ã© a nossa passagem?
 
 53
 00:04:45,700 --> 00:04:47,620
-O navio está andando.
-A direção está instável.
+O navio estÃ¡ andando.
+A direÃ§Ã£o estÃ¡ instÃ¡vel.
 
 54
 00:04:47,700 --> 00:04:49,740
@@ -226,7 +236,7 @@ Vento contra entre 45 e 55km/h.
 
 55
 00:04:49,820 --> 00:04:51,500
-<i>Para uma linha de fogo plausível,</i>
+<i>Para uma linha de fogo plausÃ­vel,</i>
 
 56
 00:04:51,580 --> 00:04:54,420
@@ -235,12 +245,12 @@ Vento contra entre 45 e 55km/h.
 57
 00:04:54,500 --> 00:04:56,740
 <i>Quando estivermos a 42km/h,
-teremos a posição ideal</i>
+teremos a posiÃ§Ã£o ideal</i>
 
 58
 00:04:56,820 --> 00:04:59,580
-por apenas três segundos,
-senão teremos risco de colisão.
+por apenas trÃªs segundos,
+senÃ£o teremos risco de colisÃ£o.
 
 59
 00:04:59,660 --> 00:05:02,540
@@ -252,8 +262,8 @@ Tudo pronto.
 
 61
 00:05:04,420 --> 00:05:07,100
-Capitão, atacaremos
-em dez segundos. Câmbio.
+CapitÃ£o, atacaremos
+em dez segundos. CÃ¢mbio.
 
 62
 00:05:07,740 --> 00:05:08,820
@@ -265,20 +275,20 @@ Atacar!
 
 64
 00:05:24,260 --> 00:05:26,020
-<i>Sem alterações. Ventos vindo do nordeste.</i>
+<i>Sem alteraÃ§Ãµes. Ventos vindo do nordeste.</i>
 
 65
 00:05:26,100 --> 00:05:27,980
-Está a 20,8km/h.
-O tempo são três segundos.
+EstÃ¡ a 20,8km/h.
+O tempo sÃ£o trÃªs segundos.
 
 66
 00:05:28,060 --> 00:05:29,100
-<i>Dados estáveis.</i>
+<i>Dados estÃ¡veis.</i>
 
 67
 00:05:29,820 --> 00:05:30,860
-<i>Estável.</i>
+<i>EstÃ¡vel.</i>
 
 68
 00:06:30,140 --> 00:06:32,220
@@ -286,12 +296,12 @@ Todos se abaixem!
 
 69
 00:06:32,300 --> 00:06:36,540
-<i>Capitão, os reféns estão a salvo,
-mas não podemos parar o navio.</i>
+<i>CapitÃ£o, os refÃ©ns estÃ£o a salvo,
+mas nÃ£o podemos parar o navio.</i>
 
 70
 00:06:36,620 --> 00:06:38,220
-Informando. Se o navio não parar,
+Informando. Se o navio nÃ£o parar,
 
 71
 00:06:38,380 --> 00:06:39,980
@@ -299,21 +309,21 @@ o abandonaremos em cinco minutos.
 
 72
 00:06:40,060 --> 00:06:41,980
-Hong Xu, informe sua situação.
+Hong Xu, informe sua situaÃ§Ã£o.
 
 73
 00:06:45,900 --> 00:06:48,220
-Eles estão com o gerador.
+Eles estÃ£o com o gerador.
 Estamos sem tempo.
 
 74
 00:06:48,300 --> 00:06:51,980
 Precisamos invadir
-e explodir o sistema hidráulico.
+e explodir o sistema hidrÃ¡ulico.
 
 75
 00:06:53,100 --> 00:06:54,140
-<i>Se o navio não parar,</i>
+<i>Se o navio nÃ£o parar,</i>
 
 76
 00:06:54,220 --> 00:06:56,180
@@ -326,7 +336,7 @@ Me deem cobertura!
 
 78
 00:07:01,620 --> 00:07:03,060
-Vocês dois fiquem aqui.
+VocÃªs dois fiquem aqui.
 
 79
 00:07:03,620 --> 00:07:05,580
@@ -334,32 +344,32 @@ Shitou, venha comigo!
 
 80
 00:07:18,380 --> 00:07:19,940
-<i>Lá em cima tem um.</i>
+<i>LÃ¡ em cima tem um.</i>
 
 81
 00:07:41,140 --> 00:07:44,060
-<i>Pronto para explodir o sistema hidráulico!</i>
+<i>Pronto para explodir o sistema hidrÃ¡ulico!</i>
 
 82
 00:07:59,100 --> 00:08:02,020
-<i>Capitão, o sequestrador está escapando
+<i>CapitÃ£o, o sequestrador estÃ¡ escapando
 em um barco!</i>
 
 83
 00:08:14,020 --> 00:08:16,100
-Capitão, eu o persigo!
+CapitÃ£o, eu o persigo!
 
 84
 00:08:16,180 --> 00:08:18,660
-Não, Xing Luo! Há muitos deles.
+NÃ£o, Xing Luo! HÃ¡ muitos deles.
 
 85
 00:08:18,740 --> 00:08:19,980
-É perigoso!
+Ã‰ perigoso!
 
 86
 00:08:20,060 --> 00:08:22,780
-Não podemos deixá-lo fugir!
+NÃ£o podemos deixÃ¡-lo fugir!
 
 87
 00:08:27,700 --> 00:08:28,620
@@ -367,11 +377,11 @@ Tudo bem.
 
 88
 00:08:28,700 --> 00:08:30,900
-Permissão concedida, mas tome cuidado.
+PermissÃ£o concedida, mas tome cuidado.
 
 89
 00:08:30,980 --> 00:08:32,620
-Não cruze as águas territoriais.
+NÃ£o cruze as Ã¡guas territoriais.
 
 90
 00:08:33,180 --> 00:08:36,900
@@ -387,11 +397,11 @@ Entrem no navio e prenda-os!
 
 93
 00:09:01,140 --> 00:09:02,020
-Capitão, comissário,
+CapitÃ£o, comissÃ¡rio,
 
 94
 00:09:02,100 --> 00:09:03,780
-há três barcos piratas se aproximando.
+hÃ¡ trÃªs barcos piratas se aproximando.
 
 95
 00:09:09,620 --> 00:09:10,500
@@ -400,7 +410,7 @@ há três barcos piratas se aproximando.
 96
 00:09:10,580 --> 00:09:13,620
 <i>devemos manter
-a distância de segurança de 300 metros.</i>
+a distÃ¢ncia de seguranÃ§a de 300 metros.</i>
 
 97
 00:09:25,500 --> 00:09:26,980
@@ -408,7 +418,7 @@ Ave Marinha 1!
 
 98
 00:09:27,060 --> 00:09:29,180
-Você não pode prosseguir. Pare agora!
+VocÃª nÃ£o pode prosseguir. Pare agora!
 
 99
 00:09:29,260 --> 00:09:30,100
@@ -416,19 +426,19 @@ Você não pode prosseguir. Pare agora!
 
 100
 00:09:31,460 --> 00:09:32,780
-Me dê mais uma chance!
+Me dÃª mais uma chance!
 
 101
 00:09:32,860 --> 00:09:34,260
-Coloque o avião em posição!
+Coloque o aviÃ£o em posiÃ§Ã£o!
 
 102
 00:09:44,780 --> 00:09:47,220
-<i>Dong Li, você deve lidar com os outros.</i>
+<i>Dong Li, vocÃª deve lidar com os outros.</i>
 
 103
 00:09:54,180 --> 00:09:55,380
-<i>Estável!</i>
+<i>EstÃ¡vel!</i>
 
 104
 00:10:10,740 --> 00:10:11,620
@@ -472,19 +482,19 @@ Quem foi atingido?
 
 114
 00:10:53,420 --> 00:10:54,540
-<i>Capitão, comissário,</i>
+<i>CapitÃ£o, comissÃ¡rio,</i>
 
 115
 00:10:54,620 --> 00:10:56,140
-<i>os piratas estão presos.</i>
+<i>os piratas estÃ£o presos.</i>
 
 116
 00:12:16,780 --> 00:12:18,020
-O Xing Luo está a salvo.
+O Xing Luo estÃ¡ a salvo.
 
 117
 00:12:18,100 --> 00:12:19,700
-A condição dele é estável.
+A condiÃ§Ã£o dele Ã© estÃ¡vel.
 
 118
 00:12:21,780 --> 00:12:25,500
@@ -493,7 +503,7 @@ para o tratamento.
 
 119
 00:12:27,180 --> 00:12:28,420
-Não se preocupem.
+NÃ£o se preocupem.
 
 120
 00:12:28,580 --> 00:12:29,620
@@ -501,7 +511,7 @@ Descansem.
 
 121
 00:12:47,060 --> 00:12:48,380
-Capitão.
+CapitÃ£o.
 
 122
 00:12:49,940 --> 00:12:51,420
@@ -517,28 +527,28 @@ Exceto que...
 
 125
 00:12:57,100 --> 00:12:58,940
-a bala está alojada no nervo espinhal.
+a bala estÃ¡ alojada no nervo espinhal.
 
 126
 00:12:59,700 --> 00:13:00,820
-Essa parte eu não falei.
+Essa parte eu nÃ£o falei.
 
 127
 00:13:08,420 --> 00:13:09,620
-Irmão,
+IrmÃ£o,
 
 128
 00:13:10,420 --> 00:13:11,620
-já ouviu isto?
+jÃ¡ ouviu isto?
 
 129
 00:13:11,860 --> 00:13:13,660
 "Um soldado deve saber
-o que é um sacrifício.
+o que Ã© um sacrifÃ­cio.
 
 130
 00:13:14,180 --> 00:13:16,380
-E que nunca mais poderá voltar."
+E que nunca mais poderÃ¡ voltar."
 
 131
 00:13:17,820 --> 00:13:20,500
@@ -551,19 +561,19 @@ Pode contar a verdade a eles.
 
 133
 00:13:29,020 --> 00:13:31,420
-É o capitão, não o pai deles.
+Ã‰ o capitÃ£o, nÃ£o o pai deles.
 
 134
 00:13:33,140 --> 00:13:36,700
-Não leve para o lado pessoal,
+NÃ£o leve para o lado pessoal,
 
 135
 00:13:37,660 --> 00:13:39,460
-senão o estresse irá matá-lo.
+senÃ£o o estresse irÃ¡ matÃ¡-lo.
 
 136
 00:13:39,660 --> 00:13:42,220
-Não consigo. A responsabilidade é minha.
+NÃ£o consigo. A responsabilidade Ã© minha.
 
 137
 00:13:45,700 --> 00:13:48,820
@@ -584,26 +594,26 @@ Tchau.
 
 141
 00:14:04,900 --> 00:14:07,820
-Esse é o nosso alvo. William Parsons.
+Esse Ã© o nosso alvo. William Parsons.
 
 142
 00:14:07,900 --> 00:14:11,740
-Ele é o responsável de desenvolvimento
+Ele Ã© o responsÃ¡vel de desenvolvimento
 em uma empresa de energia em Yewaire.
 
 143
 00:14:12,420 --> 00:14:15,580
 O departamento dele trabalha
-na extração de urânio
+na extraÃ§Ã£o de urÃ¢nio
 
 144
 00:14:15,660 --> 00:14:18,660
 para obter o "bolo amarelo"
-em países estrangeiros.
+em paÃ­ses estrangeiros.
 
 145
 00:14:18,740 --> 00:14:22,580
-Foi por isso que não descobrimos
+Foi por isso que nÃ£o descobrimos
 de onde veio o "bolo amarelo".
 
 146
@@ -612,12 +622,12 @@ Outubro de 2014.
 
 147
 00:14:26,540 --> 00:14:28,140
-O mês que ele foi investigado.
+O mÃªs que ele foi investigado.
 
 148
 00:14:28,220 --> 00:14:31,460
 Foi quando o "bolo amarelo"
-não identificado foi contrabandeado.
+nÃ£o identificado foi contrabandeado.
 
 149
 00:14:31,540 --> 00:14:32,980
@@ -635,11 +645,11 @@ para fazer 30 bombas.
 
 152
 00:14:47,180 --> 00:14:49,060
-A situação em Yewaire está tensa.
+A situaÃ§Ã£o em Yewaire estÃ¡ tensa.
 
 153
 00:14:49,140 --> 00:14:51,060
-Se o "bolo amarelo" ainda estiver lá,
+Se o "bolo amarelo" ainda estiver lÃ¡,
 
 154
 00:14:51,140 --> 00:14:53,380
@@ -652,7 +662,7 @@ Precisamos seguir essa pista.
 
 156
 00:14:55,860 --> 00:14:58,100
-Há outro relatório sobre o William
+HÃ¡ outro relatÃ³rio sobre o William
 
 157
 00:14:58,180 --> 00:15:01,540
@@ -669,7 +679,7 @@ Meu contato falou com a garota e ela disse
 
 160
 00:15:07,460 --> 00:15:10,220
-que o William não tirou o colar dele
+que o William nÃ£o tirou o colar dele
 
 161
 00:15:10,300 --> 00:15:12,860
@@ -681,7 +691,7 @@ que deixaria o mundo todo em caos.
 
 163
 00:15:16,740 --> 00:15:18,820
-TERROR NA FRANÇA
+TERROR NA FRANÃ‡A
 
 164
 00:15:18,900 --> 00:15:20,820
@@ -693,12 +703,12 @@ Eu consegui.
 
 166
 00:15:22,860 --> 00:15:24,940
-Vou direto para lá.
-E, amanhã de manhã,
+Vou direto para lÃ¡.
+E, amanhÃ£ de manhÃ£,
 
 167
 00:15:25,020 --> 00:15:27,140
-o Abu publicará um relatório completo.
+o Abu publicarÃ¡ um relatÃ³rio completo.
 
 168
 00:15:27,220 --> 00:15:29,420
@@ -707,20 +717,20 @@ para sabotar o plano deles.
 
 169
 00:15:29,500 --> 00:15:30,860
-Não leve isso adiante.
+NÃ£o leve isso adiante.
 
 170
 00:15:31,780 --> 00:15:34,780
-Você já sabe
-que os terroristas estão atrás de você.
+VocÃª jÃ¡ sabe
+que os terroristas estÃ£o atrÃ¡s de vocÃª.
 
 171
 00:15:34,860 --> 00:15:35,860
-E daí?
+E daÃ­?
 
 172
 00:15:37,780 --> 00:15:39,620
-Não é para te assustar
+NÃ£o Ã© para te assustar
 
 173
 00:15:40,660 --> 00:15:42,980
@@ -728,7 +738,7 @@ nem te intimidar.
 
 174
 00:15:45,700 --> 00:15:47,580
-Albert, você sabe melhor que ninguém
+Albert, vocÃª sabe melhor que ninguÃ©m
 
 175
 00:15:48,140 --> 00:15:49,860
@@ -736,7 +746,7 @@ por que abandonei os grandes jornais.
 
 176
 00:15:49,940 --> 00:15:52,140
-Foi porque sempre fazem uma seleção
+Foi porque sempre fazem uma seleÃ§Ã£o
 
 177
 00:15:52,220 --> 00:15:53,860
@@ -745,17 +755,17 @@ e encobrem a verdade!
 178
 00:15:53,940 --> 00:15:56,060
 -Quando me contratou, disse...
--Não!
+-NÃ£o!
 
 179
 00:15:56,140 --> 00:15:58,620
 -Tenho coragem de expor a verdade.
--Não!
+-NÃ£o!
 
 180
 00:15:58,700 --> 00:16:00,380
--É por isso que estou aqui.
--Não!
+-Ã‰ por isso que estou aqui.
+-NÃ£o!
 
 181
 00:16:01,460 --> 00:16:02,860
@@ -763,7 +773,7 @@ Admiro a sua teimosia,
 
 182
 00:16:03,580 --> 00:16:05,500
-mas há limites.
+mas hÃ¡ limites.
 
 183
 00:16:06,020 --> 00:16:09,140
@@ -771,12 +781,12 @@ Se esqueceu do que representa?
 
 184
 00:16:10,100 --> 00:16:14,300
-SE SUAS FOTOS NÃO SÃO BOAS,
-VOCÊ NÃO ESTÁ PERTO. ROBERT CAPA.
+SE SUAS FOTOS NÃƒO SÃƒO BOAS,
+VOCÃŠ NÃƒO ESTÃ PERTO. ROBERT CAPA.
 
 185
 00:16:50,460 --> 00:16:52,540
-<i>Com certeza não vou arriscar</i>
+<i>Com certeza nÃ£o vou arriscar</i>
 
 186
 00:16:52,620 --> 00:16:54,180
@@ -784,7 +794,7 @@ as vidas da minha equipe!
 
 187
 00:16:59,540 --> 00:17:02,180
-Mas há coisas mais importantes que a vida.
+Mas hÃ¡ coisas mais importantes que a vida.
 
 188
 00:17:06,940 --> 00:17:08,860
@@ -792,59 +802,59 @@ CINCO DIAS DEPOIS
 
 189
 00:17:10,540 --> 00:17:12,100
-<i>Às 3h da madrugada,</i>
+<i>Ã€s 3h da madrugada,</i>
 
 190
 00:17:12,180 --> 00:17:15,260
-o Ministério do Exterior enviou
+o MinistÃ©rio do Exterior enviou
 uma mensagem urgente.
 
 191
 00:17:15,900 --> 00:17:18,780
-Há cinco dias,
+HÃ¡ cinco dias,
 houve um golpe de Estado em Yewaire.
 
 192
 00:17:18,860 --> 00:17:20,420
-Por ordem da Comissão Militar Central,
+Por ordem da ComissÃ£o Militar Central,
 
 193
 00:17:20,500 --> 00:17:24,180
-o Comando Naval designou que fôssemos
+o Comando Naval designou que fÃ´ssemos
 a Yewaire imediatamente
 
 194
 00:17:24,260 --> 00:17:26,260
-para evacuar os cidadãos chineses.
+para evacuar os cidadÃ£os chineses.
 
 195
 00:17:29,980 --> 00:17:33,620
 <i>Passaram cinco dias desde que a guerra civil
-estourou na República de Ihwea.</i>
+estourou na RepÃºblica de Ihwea.</i>
 
 196
 00:17:33,700 --> 00:17:36,100
-<i>E a insurgência liderada
+<i>E a insurgÃªncia liderada
 pelo general Sharaf</i>
 
 197
 00:17:36,180 --> 00:17:38,580
-<i>já tomou conta
-das maiores cidades do país.</i>
+<i>jÃ¡ tomou conta
+das maiores cidades do paÃ­s.</i>
 
 198
 00:17:39,140 --> 00:17:42,500
 <i>Nossas imagens mostram
-vários grupos de cidadãos e especialistas</i>
+vÃ¡rios grupos de cidadÃ£os e especialistas</i>
 
 199
 00:17:42,580 --> 00:17:44,500
-<i>estão fugindo da zona de guerra.</i>
+<i>estÃ£o fugindo da zona de guerra.</i>
 
 200
 00:17:44,580 --> 00:17:48,300
-<i>Além disso, fontes alegam
-que várias pessoas desapareceram</i>
+<i>AlÃ©m disso, fontes alegam
+que vÃ¡rias pessoas desapareceram</i>
 
 201
 00:17:48,420 --> 00:17:50,500
@@ -878,13 +888,13 @@ em troca de reconhecimento.
 
 208
 00:18:07,500 --> 00:18:10,940
-Nos últimos dois anos,
+Nos Ãºltimos dois anos,
 juntaram-se a outros grupos extremistas
 
 209
 00:18:11,020 --> 00:18:13,220
-na Europa e na Ásia
-e se envolveram na ação.
+na Europa e na Ãsia
+e se envolveram na aÃ§Ã£o.
 
 210
 00:18:14,220 --> 00:18:15,740
@@ -897,17 +907,17 @@ o Zaka foi apoiado
 212
 00:18:17,620 --> 00:18:20,380
 pelo general Sharaf,
-também conhecido como Madman.
+tambÃ©m conhecido como Madman.
 
 213
 00:18:20,460 --> 00:18:22,460
 <i>Segundo a lista dada
-pelo Ministério do Exterior,</i>
+pelo MinistÃ©rio do Exterior,</i>
 
 214
 00:18:22,540 --> 00:18:26,660
 <i>precisamos evacuar
-um total de 130 cidadãos chineses</i>
+um total de 130 cidadÃ£os chineses</i>
 
 215
 00:18:26,980 --> 00:18:29,980
@@ -916,19 +926,19 @@ de empresas chinesas.</i>
 
 216
 00:18:30,580 --> 00:18:33,060
-<i>O Linyi irá até Yewaire.</i>
+<i>O Linyi irÃ¡ atÃ© Yewaire.</i>
 
 217
 00:18:33,260 --> 00:18:35,260
-<i>Os outros navios vão voltar para casa.</i>
+<i>Os outros navios vÃ£o voltar para casa.</i>
 
 218
 00:18:55,300 --> 00:18:57,300
-ALOJAMENTO FEMININO DA TRIPULAÇÃO
+ALOJAMENTO FEMININO DA TRIPULAÃ‡ÃƒO
 
 219
 00:19:05,020 --> 00:19:06,980
--O que está fazendo?
+-O que estÃ¡ fazendo?
 -Desculpe.
 
 220
@@ -937,30 +947,30 @@ Vamos.
 
 221
 00:19:13,460 --> 00:19:14,540
-<i>Ouçam.</i>
+<i>OuÃ§am.</i>
 
 222
 00:19:14,860 --> 00:19:18,980
-<i>Para esta missão,
+<i>Para esta missÃ£o,
 vamos nos dividir em equipes.</i>
 
 223
 00:19:19,380 --> 00:19:21,180
-<i>Não podemos levar muita munição.</i>
+<i>NÃ£o podemos levar muita muniÃ§Ã£o.</i>
 
 224
 00:19:21,260 --> 00:19:24,940
-<i>O Exército local fornecerá os materiais,</i>
+<i>O ExÃ©rcito local fornecerÃ¡ os materiais,</i>
 
 225
 00:19:25,220 --> 00:19:28,820
-<i>mas as armas e os calibres deles são
+<i>mas as armas e os calibres deles sÃ£o
 diferentes dos nossos.</i>
 
 226
 00:19:29,060 --> 00:19:32,780
 <i>Vamos usar armas defensivas
-da União Europeia.</i>
+da UniÃ£o Europeia.</i>
 
 227
 00:19:48,460 --> 00:19:49,420
@@ -968,19 +978,19 @@ Mexeu no meu doce?
 
 228
 00:20:04,740 --> 00:20:06,060
-Então enviaram o Shun Gu.
+EntÃ£o enviaram o Shun Gu.
 
 229
 00:20:06,820 --> 00:20:08,420
-Ouvi dizer que ele é arrogante.
+Ouvi dizer que ele Ã© arrogante.
 
 230
 00:20:08,500 --> 00:20:09,820
-Veja você mesmo.
+Veja vocÃª mesmo.
 
 231
 00:20:15,460 --> 00:20:16,460
-Capitão!
+CapitÃ£o!
 
 232
 00:20:16,540 --> 00:20:18,220
@@ -997,11 +1007,11 @@ Bem-vindo.
 
 235
 00:20:23,420 --> 00:20:24,220
-Venha cá.
+Venha cÃ¡.
 
 236
 00:20:25,420 --> 00:20:27,620
-Conheça o substituto do Xing Luo.
+ConheÃ§a o substituto do Xing Luo.
 
 237
 00:20:29,500 --> 00:20:31,820
@@ -1010,11 +1020,11 @@ Conheça o substituto do Xing Luo.
 
 238
 00:20:32,460 --> 00:20:34,220
-Capitão, temos uma missão especial.
+CapitÃ£o, temos uma missÃ£o especial.
 
 239
 00:20:34,300 --> 00:20:35,620
-Precisam de nós agora.
+Precisam de nÃ³s agora.
 
 240
 00:20:35,700 --> 00:20:37,940
@@ -1035,16 +1045,16 @@ Estou ansioso para conferir.
 
 244
 00:20:52,580 --> 00:20:54,300
-O sentimento é mútuo.
+O sentimento Ã© mÃºtuo.
 
 245
 00:20:55,620 --> 00:20:56,940
-Terá a sua chance.
+TerÃ¡ a sua chance.
 
 246
 00:21:00,100 --> 00:21:05,380
 GREENVILLE ENERGIA
-REPÚBLICA DE YEWAIRE
+REPÃšBLICA DE YEWAIRE
 
 247
 00:21:05,460 --> 00:21:08,820
@@ -1053,7 +1063,7 @@ para levar o Dr. William e os outros,
 
 248
 00:21:08,900 --> 00:21:11,820
-vou pará-los e você cuidará do resto.
+vou parÃ¡-los e vocÃª cuidarÃ¡ do resto.
 
 249
 00:21:12,460 --> 00:21:14,060
@@ -1061,7 +1071,7 @@ Entendeu?
 
 250
 00:21:14,220 --> 00:21:15,260
-Você entendeu?
+VocÃª entendeu?
 
 251
 00:21:15,660 --> 00:21:18,020
@@ -1073,8 +1083,8 @@ Sim, entendi. Relaxe.
 
 253
 00:21:20,900 --> 00:21:23,420
-<i>Olhe as notícias.
-Os militares estão em todos os lugares.</i>
+<i>Olhe as notÃ­cias.
+Os militares estÃ£o em todos os lugares.</i>
 
 254
 00:21:23,700 --> 00:21:25,180
@@ -1082,30 +1092,30 @@ Os militares estão em todos os lugares.</i>
 
 255
 00:21:25,260 --> 00:21:27,060
-Não estou de bom humor
+NÃ£o estou de bom humor
 para ouvir desculpas.
 
 256
 00:21:27,660 --> 00:21:30,420
 Aceitou o dinheiro,
-então tem que fazer o trabalho.
+entÃ£o tem que fazer o trabalho.
 
 257
 00:21:31,660 --> 00:21:33,460
-Você me prometeu uma semana.
+VocÃª me prometeu uma semana.
 
 258
 00:21:33,860 --> 00:21:35,820
-Então a carga deve estar no avião.
+EntÃ£o a carga deve estar no aviÃ£o.
 
 259
 00:21:37,100 --> 00:21:39,740
-Se não estiver,
-não serei o único em problemas.
+Se nÃ£o estiver,
+nÃ£o serei o Ãºnico em problemas.
 
 260
 00:21:41,180 --> 00:21:42,660
-Você é o general.
+VocÃª Ã© o general.
 
 261
 00:21:42,740 --> 00:21:45,460
@@ -1113,7 +1123,7 @@ Tenho certeza que consegue lidar com isso.
 
 262
 00:22:06,860 --> 00:22:09,980
-<i>Cônsul He,
+<i>CÃ´nsul He,
 o terceiro grupo chegou ao porto.</i>
 
 263
@@ -1127,29 +1137,29 @@ EMBAIXADA DA CHINA EM YEWAIRE
 265
 00:22:15,100 --> 00:22:17,500
 <i>-Dr. Lu.
--Cônsul He.</i>
+-CÃ´nsul He.</i>
 
 266
 00:22:17,580 --> 00:22:18,660
-Olá.
+OlÃ¡.
 
 267
 00:22:20,460 --> 00:22:23,460
--Como está a sua esposa?
--A empresa dela está fazendo a evacuação.
+-Como estÃ¡ a sua esposa?
+-A empresa dela estÃ¡ fazendo a evacuaÃ§Ã£o.
 
 268
 00:22:23,540 --> 00:22:24,980
-Como estão as coisas por lá?
+Como estÃ£o as coisas por lÃ¡?
 
 269
 00:22:25,060 --> 00:22:26,060
-Você nem imagina.
+VocÃª nem imagina.
 
 270
 00:22:26,140 --> 00:22:28,740
-Vim correndo para cá,
-nem sei onde está o meu celular.
+Vim correndo para cÃ¡,
+nem sei onde estÃ¡ o meu celular.
 
 271
 00:22:28,820 --> 00:22:30,740
@@ -1162,25 +1172,25 @@ nem sei onde está o meu celular.
 
 273
 00:22:33,100 --> 00:22:35,180
-<i>-Alô?</i>
--Por que não me atendeu?
+<i>-AlÃ´?</i>
+-Por que nÃ£o me atendeu?
 
 274
 00:22:35,260 --> 00:22:36,380
-Fiquei tão preocupada!
+Fiquei tÃ£o preocupada!
 
 275
 00:22:36,460 --> 00:22:38,980
-<i>Não se preocupe, estamos no consulado.</i>
+<i>NÃ£o se preocupe, estamos no consulado.</i>
 
 276
 00:22:39,060 --> 00:22:40,860
--Como estão as coisas?
-<i>-Está com a Xian-xuan?</i>
+-Como estÃ£o as coisas?
+<i>-EstÃ¡ com a Xian-xuan?</i>
 
 277
 00:22:40,940 --> 00:22:41,980
-Sim, não se preocupe.
+Sim, nÃ£o se preocupe.
 
 278
 00:22:42,060 --> 00:22:44,020
@@ -1189,22 +1199,22 @@ Sim, não se preocupe.
 
 279
 00:22:44,100 --> 00:22:45,820
--O cônsul He quer falar.
+-O cÃ´nsul He quer falar.
 -Mei Deng?
 
 280
 00:22:45,900 --> 00:22:46,860
-É o Qing-liu He.
+Ã‰ o Qing-liu He.
 
 281
 00:22:46,940 --> 00:22:49,660
-<i>-Qual o seu plano aí?</i>
--Olá, cônsul He.
+<i>-Qual o seu plano aÃ­?</i>
+-OlÃ¡, cÃ´nsul He.
 
 282
 00:22:49,740 --> 00:22:53,380
-As tropas do governo estão vindo
-para coordenar a evacuação.
+As tropas do governo estÃ£o vindo
+para coordenar a evacuaÃ§Ã£o.
 
 283
 00:22:53,460 --> 00:22:55,780
@@ -1220,8 +1230,8 @@ Ligarei assim que eles chegarem.
 
 286
 00:22:58,220 --> 00:23:01,900
-A situação pode mudar rápido.
-Não está sob meu controle nem o seu.
+A situaÃ§Ã£o pode mudar rÃ¡pido.
+NÃ£o estÃ¡ sob meu controle nem o seu.
 
 287
 00:23:02,180 --> 00:23:06,180
@@ -1234,21 +1244,21 @@ Precisa confiar em mim.
 
 289
 00:23:15,020 --> 00:23:18,380
-<i>Capitão, comissário,
-temos permissão para entrar no porto.</i>
+<i>CapitÃ£o, comissÃ¡rio,
+temos permissÃ£o para entrar no porto.</i>
 
 290
 00:23:19,500 --> 00:23:22,180
--Prontos para entrar em batalha nível 2!
+-Prontos para entrar em batalha nÃ­vel 2!
 -Sim, senhor.
 
 291
 00:23:36,700 --> 00:23:38,780
-É o nosso navio de guerra! Ele chegou!
+Ã‰ o nosso navio de guerra! Ele chegou!
 
 292
 00:24:09,700 --> 00:24:10,820
-Capitão.
+CapitÃ£o.
 
 293
 00:24:12,460 --> 00:24:13,620
@@ -1261,16 +1271,16 @@ ao presidente.
 
 295
 00:24:15,780 --> 00:24:18,620
-O secretário-chefe Mohadi assumiu
+O secretÃ¡rio-chefe Mohadi assumiu
 o controle por enquanto.
 
 296
 00:24:18,700 --> 00:24:21,500
-O governo deles está pedido para que nós
+O governo deles estÃ¡ pedido para que nÃ³s
 
 297
 00:24:21,820 --> 00:24:24,580
-levemos a família dele em segurança.
+levemos a famÃ­lia dele em seguranÃ§a.
 
 298
 00:24:24,660 --> 00:24:28,180
@@ -1283,11 +1293,11 @@ Entendido.
 
 300
 00:24:31,060 --> 00:24:32,380
-Vou checar a segurança.
+Vou checar a seguranÃ§a.
 
 301
 00:24:34,860 --> 00:24:35,900
-<i>Cônsul.</i>
+<i>CÃ´nsul.</i>
 
 302
 00:24:35,980 --> 00:24:37,060
@@ -1296,7 +1306,7 @@ Pegamos todos.
 303
 00:24:37,220 --> 00:24:38,740
 -E a escolta?
--Estão aqui.
+-EstÃ£o aqui.
 
 304
 00:24:38,820 --> 00:24:40,420
@@ -1304,12 +1314,12 @@ Vamos partir imediatamente.
 
 305
 00:24:40,580 --> 00:24:41,700
--Vá dizer a eles.
--Está bem.
+-VÃ¡ dizer a eles.
+-EstÃ¡ bem.
 
 306
 00:24:41,780 --> 00:24:42,980
-Peguem suas bolsas rápido.
+Peguem suas bolsas rÃ¡pido.
 
 307
 00:24:43,060 --> 00:24:44,140
@@ -1321,11 +1331,11 @@ Depressa!
 
 309
 00:24:56,220 --> 00:24:58,700
-O cônsul chinês partiu.
+O cÃ´nsul chinÃªs partiu.
 
 310
 00:24:59,780 --> 00:25:02,420
-Vamos forçá-los a uma zona de guerra!
+Vamos forÃ§Ã¡-los a uma zona de guerra!
 
 311
 00:25:25,220 --> 00:25:26,260
@@ -1333,11 +1343,11 @@ Abaixe-se.
 
 312
 00:25:33,780 --> 00:25:35,700
-Merda, é o Zaka.
+Merda, Ã© o Zaka.
 
 313
 00:25:44,620 --> 00:25:47,500
-O Zaka está vindo!
+O Zaka estÃ¡ vindo!
 Eles mataram os guardas!
 
 314
@@ -1350,20 +1360,20 @@ Avancem!
 
 316
 00:26:07,420 --> 00:26:09,540
-<i>Informe o veículo de trás
+<i>Informe o veÃ­culo de trÃ¡s
 para ir na frente</i>
 
 317
 00:26:09,620 --> 00:26:12,020
-<i>e deixar o veículo do cônsul seguir atrás.</i>
+<i>e deixar o veÃ­culo do cÃ´nsul seguir atrÃ¡s.</i>
 
 318
 00:26:14,060 --> 00:26:16,940
-<i>A escolta está em uma zona de guerra.</i>
+<i>A escolta estÃ¡ em uma zona de guerra.</i>
 
 319
 00:26:23,820 --> 00:26:24,980
-Volte, rápido!
+Volte, rÃ¡pido!
 
 320
 00:26:25,060 --> 00:26:26,020
@@ -1371,7 +1381,7 @@ Depressa, volte!
 
 321
 00:26:30,460 --> 00:26:32,180
-Há rebeldes atrás de nós.
+HÃ¡ rebeldes atrÃ¡s de nÃ³s.
 
 322
 00:26:34,420 --> 00:26:35,740
@@ -1379,25 +1389,25 @@ Contatem o navio de guerra agora!
 
 323
 00:26:36,940 --> 00:26:37,980
-Façam uma linha defensiva!
+FaÃ§am uma linha defensiva!
 
 324
 00:26:48,460 --> 00:26:50,380
-Fiquem aí, abaixem-se!
+Fiquem aÃ­, abaixem-se!
 
 325
 00:26:57,500 --> 00:26:59,700
-Não deixe que nos encurralem!
+NÃ£o deixe que nos encurralem!
 Precisamos nos esconder!
 
 326
 00:26:59,780 --> 00:27:01,420
-Todos vocês, saiam do veículo agora!
+Todos vocÃªs, saiam do veÃ­culo agora!
 
 327
 00:27:02,100 --> 00:27:04,180
 -Depressa!
--Sem pânico. Um de cada vez.
+-Sem pÃ¢nico. Um de cada vez.
 
 328
 00:27:05,180 --> 00:27:06,140
@@ -1409,27 +1419,27 @@ Andem!
 
 330
 00:27:12,100 --> 00:27:13,500
-Pegue o cônsul!
+Pegue o cÃ´nsul!
 
 331
 00:27:14,140 --> 00:27:15,180
-Cônsul, rápido!
+CÃ´nsul, rÃ¡pido!
 
 332
 00:27:19,620 --> 00:27:22,820
-O cônsul e os outros entraram na fábrica.
+O cÃ´nsul e os outros entraram na fÃ¡brica.
 
 333
 00:27:31,060 --> 00:27:32,300
-Capitão.
+CapitÃ£o.
 
 334
 00:27:41,060 --> 00:27:42,020
-Aqui é o Rui Yang.
+Aqui Ã© o Rui Yang.
 
 335
 00:27:42,100 --> 00:27:44,860
-<i>O cônsul Qing-liu He enviou
+<i>O cÃ´nsul Qing-liu He enviou
 um pedido de socorro.</i>
 
 336
@@ -1438,15 +1448,15 @@ um pedido de socorro.</i>
 
 337
 00:27:48,180 --> 00:27:51,220
-<i>Yewaire não pode mandar as tropas,</i>
+<i>Yewaire nÃ£o pode mandar as tropas,</i>
 
 338
 00:27:51,300 --> 00:27:53,460
-<i>mas temos a permissão deles para entrar.</i>
+<i>mas temos a permissÃ£o deles para entrar.</i>
 
 339
 00:27:53,540 --> 00:27:56,180
-<i>Vão limpar as estradas que saem do porto.</i>
+<i>VÃ£o limpar as estradas que saem do porto.</i>
 
 340
 00:27:58,780 --> 00:28:00,580
@@ -1458,12 +1468,12 @@ Escutem, pessoal.
 
 342
 00:28:47,140 --> 00:28:49,220
-<i>Não podemos chegar
-na fábrica pela estrada,</i>
+<i>NÃ£o podemos chegar
+na fÃ¡brica pela estrada,</i>
 
 343
 00:28:49,300 --> 00:28:52,140
-<i>então vamos pelos telhados.</i>
+<i>entÃ£o vamos pelos telhados.</i>
 
 344
 00:28:52,220 --> 00:28:54,180
@@ -1471,33 +1481,33 @@ na fábrica pela estrada,</i>
 
 345
 00:28:54,260 --> 00:28:56,100
-<i>o dever de vocês é fazer
-a posição defensiva.</i>
+<i>o dever de vocÃªs Ã© fazer
+a posiÃ§Ã£o defensiva.</i>
 
 346
 00:28:56,180 --> 00:28:57,660
-<i>O resto deverá buscar e salvar.</i>
+<i>O resto deverÃ¡ buscar e salvar.</i>
 
 347
 00:28:57,740 --> 00:29:00,140
-<i>Unidade 2, mande três pessoas para ajudar
-a polícia militar.</i>
+<i>Unidade 2, mande trÃªs pessoas para ajudar
+a polÃ­cia militar.</i>
 
 348
 00:29:00,220 --> 00:29:02,820
-O resto vai vigiar a escolta. Câmbio.
+O resto vai vigiar a escolta. CÃ¢mbio.
 
 349
 00:29:17,660 --> 00:29:19,180
-<i>Como é? Perdemos a Quinta Estrada?</i>
+<i>Como Ã©? Perdemos a Quinta Estrada?</i>
 
 350
 00:29:19,260 --> 00:29:21,580
-<i>Não vão pela Lafayette.</i>
+<i>NÃ£o vÃ£o pela Lafayette.</i>
 
 351
 00:29:21,660 --> 00:29:25,060
-<i>Não há rotas de fuga.
+<i>NÃ£o hÃ¡ rotas de fuga.
 Tentem a estrada Zima.</i>
 
 352
@@ -1506,11 +1516,11 @@ Tentem a estrada Zima.</i>
 
 353
 00:30:08,020 --> 00:30:09,100
-Ainda não.
+Ainda nÃ£o.
 
 354
 00:30:09,420 --> 00:30:12,260
-<i>Encontre-o. Ele é a chave de tudo.</i>
+<i>Encontre-o. Ele Ã© a chave de tudo.</i>
 
 355
 00:31:10,220 --> 00:31:11,460
@@ -1523,12 +1533,12 @@ Peguem suas armas!
 
 357
 00:31:42,460 --> 00:31:43,820
-<i>Ajudem a polícia militar.</i>
+<i>Ajudem a polÃ­cia militar.</i>
 
 358
 00:31:49,100 --> 00:31:51,220
 Estamos debaixo de fogo.
-Permissão para atirar!
+PermissÃ£o para atirar!
 
 359
 00:31:51,300 --> 00:31:52,500
@@ -1536,7 +1546,7 @@ Permissão para atirar!
 
 360
 00:31:57,220 --> 00:31:58,900
-<i>Base, nós chegamos ao alvo.</i>
+<i>Base, nÃ³s chegamos ao alvo.</i>
 
 361
 00:32:01,860 --> 00:32:03,580
@@ -1544,11 +1554,11 @@ Permissão para atirar!
 
 362
 00:32:13,660 --> 00:32:15,060
-<i>Bomba de fumaça!</i>
+<i>Bomba de fumaÃ§a!</i>
 
 363
 00:32:25,900 --> 00:32:28,220
-<i>Flancos, façam uma linha defensiva!</i>
+<i>Flancos, faÃ§am uma linha defensiva!</i>
 
 364
 00:32:53,860 --> 00:32:55,500
@@ -1561,15 +1571,15 @@ Tudo limpo.
 366
 00:33:01,860 --> 00:33:03,900
 Shun Gu e Dong Li,
-encontrem uma posição defensiva.
+encontrem uma posiÃ§Ã£o defensiva.
 
 367
 00:33:25,180 --> 00:33:26,300
-Aproximando-se da posição.
+Aproximando-se da posiÃ§Ã£o.
 
 368
 00:33:52,100 --> 00:33:53,980
-<i>Base, estamos no telhado da fábrica.</i>
+<i>Base, estamos no telhado da fÃ¡brica.</i>
 
 369
 00:33:57,060 --> 00:33:58,140
@@ -1577,7 +1587,7 @@ Aproximando-se da posição.
 
 370
 00:34:00,300 --> 00:34:02,820
-Se você parar, as crianças vão morrer!
+Se vocÃª parar, as crianÃ§as vÃ£o morrer!
 
 371
 00:34:02,900 --> 00:34:04,900
@@ -1593,8 +1603,8 @@ Acha que estou brincando?
 
 374
 00:34:10,580 --> 00:34:12,980
-Está vendo?
-Se você parar, eles vão morrer.
+EstÃ¡ vendo?
+Se vocÃª parar, eles vÃ£o morrer.
 
 375
 00:34:13,060 --> 00:34:15,780
@@ -1606,11 +1616,11 @@ Entendi!
 
 377
 00:34:22,820 --> 00:34:24,060
-<i>Franco-atirador em posição.</i>
+<i>Franco-atirador em posiÃ§Ã£o.</i>
 
 378
 00:34:40,060 --> 00:34:42,420
-É um carro bomba! Parem!
+Ã‰ um carro bomba! Parem!
 
 379
 00:34:48,820 --> 00:34:50,660
@@ -1618,7 +1628,7 @@ Abriguem-se todos!
 
 380
 00:34:57,100 --> 00:34:58,820
-O que foi essa explosão?
+O que foi essa explosÃ£o?
 
 381
 00:35:00,460 --> 00:35:01,980
@@ -1626,7 +1636,7 @@ O que foi essa explosão?
 
 382
 00:35:02,180 --> 00:35:04,220
-<i>Houve várias baixas na tropa do governo.</i>
+<i>Houve vÃ¡rias baixas na tropa do governo.</i>
 
 383
 00:35:06,580 --> 00:35:08,060
@@ -1634,7 +1644,7 @@ O que foi essa explosão?
 
 384
 00:35:08,140 --> 00:35:09,220
-<i>Olhem o ponto de evacuação.</i>
+<i>Olhem o ponto de evacuaÃ§Ã£o.</i>
 
 385
 00:35:35,060 --> 00:35:36,980
@@ -1642,12 +1652,12 @@ O que foi? Precisa do inalador?
 
 386
 00:35:52,380 --> 00:35:55,140
--Ande rápido!
--É o mais rápido que consigo.
+-Ande rÃ¡pido!
+-Ã‰ o mais rÃ¡pido que consigo.
 
 387
 00:36:14,540 --> 00:36:16,380
-Bloqueiem todas as saídas.
+Bloqueiem todas as saÃ­das.
 
 388
 00:36:17,460 --> 00:36:18,900
@@ -1659,8 +1669,8 @@ Achei-os. Mexam-se!
 
 390
 00:37:45,860 --> 00:37:48,020
--Quem são vocês?
--A polícia militar chinesa.
+-Quem sÃ£o vocÃªs?
+-A polÃ­cia militar chinesa.
 
 391
 00:37:48,100 --> 00:37:49,860
@@ -1673,17 +1683,17 @@ Marinha Chinesa.
 
 393
 00:37:56,460 --> 00:37:59,100
--Vamos levá-los para casa.
-<i>-An-zi, está na escuta?</i>
+-Vamos levÃ¡-los para casa.
+<i>-An-zi, estÃ¡ na escuta?</i>
 
 394
 00:37:59,180 --> 00:38:00,940
--Sou o cônsul Qing-liu He.
+-Sou o cÃ´nsul Qing-liu He.
 -Sim, estou aqui.
 
 395
 00:38:01,020 --> 00:38:03,260
-<i>-Onde você está?
+<i>-Onde vocÃª estÃ¡?
 -Estamos presos em uma oficina.</i>
 
 396
@@ -1701,7 +1711,7 @@ Granada!
 
 399
 00:38:41,700 --> 00:38:43,780
-Há dois na sala e um fora dela!
+HÃ¡ dois na sala e um fora dela!
 
 400
 00:38:54,220 --> 00:38:55,620
@@ -1709,7 +1719,7 @@ Li Tong, acabe com eles!
 
 401
 00:39:04,580 --> 00:39:05,700
-Um já foi!
+Um jÃ¡ foi!
 
 402
 00:39:10,900 --> 00:39:12,420
@@ -1722,11 +1732,11 @@ Mexam-se!
 404
 00:39:26,100 --> 00:39:28,180
 -Espere.
--Yu Zhuang, vá!
+-Yu Zhuang, vÃ¡!
 
 405
 00:39:28,500 --> 00:39:29,420
-Vá!
+VÃ¡!
 
 406
 00:39:29,500 --> 00:39:30,380
@@ -1734,11 +1744,11 @@ Shitou!
 
 407
 00:39:32,780 --> 00:39:34,020
-Andem, vá!
+Andem, vÃ¡!
 
 408
 00:39:34,100 --> 00:39:36,460
-<i>Ponto de evacuação! Estou a caminho!</i>
+<i>Ponto de evacuaÃ§Ã£o! Estou a caminho!</i>
 
 409
 00:39:36,540 --> 00:39:37,660
@@ -1750,24 +1760,24 @@ Andem, vá!
 
 411
 00:39:42,700 --> 00:39:44,300
-<i>A Unidade 1 está passando!</i>
+<i>A Unidade 1 estÃ¡ passando!</i>
 
 412
 00:39:44,940 --> 00:39:47,780
-Rápido, fiquem abaixados!
+RÃ¡pido, fiquem abaixados!
 
 413
 00:39:55,020 --> 00:39:58,460
 Fiquem atentos.
-Suspeito que há um carro-bomba à frente.
+Suspeito que hÃ¡ um carro-bomba Ã  frente.
 
 414
 00:40:01,500 --> 00:40:03,140
-Rápido, entrem!
+RÃ¡pido, entrem!
 
 415
 00:40:03,740 --> 00:40:05,980
-<i>Unidade 1, depressa! Há um carro-bomba!</i>
+<i>Unidade 1, depressa! HÃ¡ um carro-bomba!</i>
 
 416
 00:40:12,580 --> 00:40:14,180
@@ -1775,15 +1785,15 @@ Parem o carro!
 
 417
 00:40:22,100 --> 00:40:23,700
-Não me matem! Não atirem!
+NÃ£o me matem! NÃ£o atirem!
 
 418
 00:40:23,780 --> 00:40:26,420
-Não estou com eles! Eles me obrigaram!
+NÃ£o estou com eles! Eles me obrigaram!
 
 419
 00:40:26,500 --> 00:40:28,820
-Ele não está com o Zaka!
+Ele nÃ£o estÃ¡ com o Zaka!
 Abaixem as armas!
 
 420
@@ -1792,7 +1802,7 @@ O que foi?
 
 421
 00:40:31,660 --> 00:40:35,180
-Aqueles terroristas têm bombardeado civis.
+Aqueles terroristas tÃªm bombardeado civis.
 
 422
 00:40:36,620 --> 00:40:37,580
@@ -1804,7 +1814,7 @@ Diga a eles para se acalmarem.
 
 424
 00:40:39,180 --> 00:40:40,900
-Shitou, assuma minha posição.
+Shitou, assuma minha posiÃ§Ã£o.
 
 425
 00:40:41,860 --> 00:40:43,300
@@ -1816,16 +1826,16 @@ Franco-atirador.
 
 427
 00:40:44,300 --> 00:40:46,860
-<i>-Me dê cobertura. Vou até o carro.
+<i>-Me dÃª cobertura. Vou atÃ© o carro.
 -Entendido.</i>
 
 428
 00:41:06,420 --> 00:41:08,780
-Relaxe, está tudo bem.
+Relaxe, estÃ¡ tudo bem.
 
 429
 00:41:22,220 --> 00:41:23,100
-Não se mexa.
+NÃ£o se mexa.
 
 430
 00:42:18,780 --> 00:42:21,740
@@ -1853,7 +1863,7 @@ Tian-de Zhang, mexa-se!
 
 436
 00:42:38,740 --> 00:42:39,980
-Rápido, vão!
+RÃ¡pido, vÃ£o!
 
 437
 00:42:41,100 --> 00:42:42,740
@@ -1865,7 +1875,7 @@ Entendido! Saiam!
 
 439
 00:43:48,420 --> 00:43:50,500
-Abu, você está bem?
+Abu, vocÃª estÃ¡ bem?
 
 440
 00:43:52,060 --> 00:43:55,900
@@ -1873,7 +1883,7 @@ Sim, pegue o colar dele antes.
 
 441
 00:45:03,500 --> 00:45:05,220
-<i>Recebemos informações do Min. do Exterior.</i>
+<i>Recebemos informaÃ§Ãµes do Min. do Exterior.</i>
 
 442
 00:45:05,300 --> 00:45:06,780
@@ -1898,11 +1908,11 @@ da empresa de energia,
 
 447
 00:45:16,700 --> 00:45:19,140
-incluindo a cidadã chinesa, Mei Deng.
+incluindo a cidadÃ£ chinesa, Mei Deng.
 
 448
 00:45:19,740 --> 00:45:20,700
-Informação confiável?
+InformaÃ§Ã£o confiÃ¡vel?
 
 449
 00:45:21,220 --> 00:45:23,700
@@ -1918,26 +1928,26 @@ O governo de Yewaire vai ajudar.
 
 452
 00:45:28,260 --> 00:45:31,660
-<i>Fornecerão apoio terrestre e aéreo
-para a missão de salvamento conjunta.</i>
+<i>FornecerÃ£o apoio terrestre e aÃ©reo
+para a missÃ£o de salvamento conjunta.</i>
 
 453
 00:45:31,820 --> 00:45:35,540
-<i>Nossa missão desta vez
-é mandar uma mensagem aos terroristas,</i>
+<i>Nossa missÃ£o desta vez
+Ã© mandar uma mensagem aos terroristas,</i>
 
 454
 00:45:35,620 --> 00:45:37,540
 <i>que nunca devem fazer o mal
-a um cidadão chinês.</i>
+a um cidadÃ£o chinÃªs.</i>
 
 455
 00:45:37,860 --> 00:45:40,460
-<i>Unidade 2, leve os cidadãos ao porto.</i>
+<i>Unidade 2, leve os cidadÃ£os ao porto.</i>
 
 456
 00:45:40,980 --> 00:45:44,900
-<i>Unidade 1, vá com a tropa do governo deles
+<i>Unidade 1, vÃ¡ com a tropa do governo deles
 e aguarde ordens.</i>
 
 457
@@ -1952,23 +1962,23 @@ e aguarde ordens.</i>
 459
 00:45:55,100 --> 00:45:57,380
 Quando ele me pediu
-para salvar as crianças,
+para salvar as crianÃ§as,
 
 460
 00:45:57,900 --> 00:45:59,420
-me senti péssimo.
+me senti pÃ©ssimo.
 
 461
 00:46:00,540 --> 00:46:03,740
-Salvamos a vida delas, mas não suas casas.
+Salvamos a vida delas, mas nÃ£o suas casas.
 
 462
 00:46:05,380 --> 00:46:08,740
-O país delas está uma zona.
+O paÃ­s delas estÃ¡ uma zona.
 
 463
 00:46:10,100 --> 00:46:12,180
-No máximo, completamos nossa missão
+No mÃ¡ximo, completamos nossa missÃ£o
 
 464
 00:46:13,140 --> 00:46:14,300
@@ -1980,7 +1990,7 @@ Por que gosta tanto de doce?
 
 466
 00:46:21,820 --> 00:46:23,980
-Ainda não sabe depois de tanto tempo?
+Ainda nÃ£o sabe depois de tanto tempo?
 
 467
 00:46:24,460 --> 00:46:25,820
@@ -1993,15 +2003,15 @@ Sempre apanhava.
 469
 00:46:27,060 --> 00:46:29,660
 Mas, a cada vez,
-minha mãe me dava um doce.
+minha mÃ£e me dava um doce.
 
 470
 00:46:29,740 --> 00:46:31,020
-Então, até hoje,
+EntÃ£o, atÃ© hoje,
 
 471
 00:46:31,100 --> 00:46:32,740
-quando estou em missão,
+quando estou em missÃ£o,
 se tiver um doce,
 
 472
@@ -2014,7 +2024,7 @@ Por que fez isso?
 
 474
 00:46:39,620 --> 00:46:42,620
-Não disse que se tiver doce não sente dor?
+NÃ£o disse que se tiver doce nÃ£o sente dor?
 
 475
 00:46:50,860 --> 00:46:53,660
@@ -2026,7 +2036,7 @@ Sabia.
 
 477
 00:46:55,860 --> 00:46:57,900
-Vocês disputavam uma vaga
+VocÃªs disputavam uma vaga
 para franco-atirador
 
 478
@@ -2035,24 +2045,24 @@ em uma escola de comandos na Venezuela.
 
 479
 00:47:00,940 --> 00:47:02,780
-Só há uma vaga para Jiaolong.
+SÃ³ hÃ¡ uma vaga para Jiaolong.
 
 480
 00:47:04,540 --> 00:47:05,660
-É uma pena.
+Ã‰ uma pena.
 
 481
 00:47:06,020 --> 00:47:07,620
-Agora não há como competir.
+Agora nÃ£o hÃ¡ como competir.
 
 482
 00:47:08,460 --> 00:47:10,500
 Ele era o melhor franco-atirador
-que já vi.
+que jÃ¡ vi.
 
 483
 00:47:13,260 --> 00:47:14,420
-Você sempre foi assim?
+VocÃª sempre foi assim?
 
 484
 00:47:15,740 --> 00:47:16,700
@@ -2064,28 +2074,28 @@ Tenso.
 
 486
 00:47:18,140 --> 00:47:19,660
-Trêmulo sob pressão.
+TrÃªmulo sob pressÃ£o.
 
 487
 00:47:23,180 --> 00:47:26,140
 No campo de batalha,
-não dá para evitar as balas.
+nÃ£o dÃ¡ para evitar as balas.
 
 488
 00:47:26,220 --> 00:47:28,460
-Considere isso como uma lição gratuita.
+Considere isso como uma liÃ§Ã£o gratuita.
 
 489
 00:47:29,140 --> 00:47:30,700
-Da próxima vez, vou cobrar.
+Da prÃ³xima vez, vou cobrar.
 
 490
 00:47:35,220 --> 00:47:37,140
-Capitão, recebemos notícias.
+CapitÃ£o, recebemos notÃ­cias.
 
 491
 00:47:38,100 --> 00:47:40,260
-Yewaire não pode ceder helicópteros.
+Yewaire nÃ£o pode ceder helicÃ³pteros.
 
 492
 00:47:40,900 --> 00:47:44,580
@@ -2099,7 +2109,7 @@ vai demorar o dobro do tempo.
 
 494
 00:47:50,060 --> 00:47:51,980
-Receio que não vão chegar a tempo.
+Receio que nÃ£o vÃ£o chegar a tempo.
 
 495
 00:47:54,980 --> 00:47:57,180
@@ -2117,25 +2127,25 @@ De acordo com as autoridades de Yewaire
 
 498
 00:48:04,660 --> 00:48:07,060
-há uma cidade lá chamada Basem.
+hÃ¡ uma cidade lÃ¡ chamada Basem.
 
 499
 00:48:07,380 --> 00:48:09,900
 O Zaka assumiu o controle dela
-há uma semana.
+hÃ¡ uma semana.
 
 500
 00:48:10,220 --> 00:48:13,620
-<i>Vá para o ponto de encontro
-do Exército de Yewaire.</i>
+<i>VÃ¡ para o ponto de encontro
+do ExÃ©rcito de Yewaire.</i>
 
 501
 00:48:13,700 --> 00:48:15,380
-<i>Sigam a escolta de evacuação.</i>
+<i>Sigam a escolta de evacuaÃ§Ã£o.</i>
 
 502
 00:48:15,940 --> 00:48:17,980
-Os comandos deles vão trabalhar com vocês
+Os comandos deles vÃ£o trabalhar com vocÃªs
 
 503
 00:48:18,060 --> 00:48:18,940
@@ -2147,40 +2157,40 @@ Entendido.
 
 505
 00:48:20,300 --> 00:48:21,580
-A operação foi confirmada,
+A operaÃ§Ã£o foi confirmada,
 
 506
 00:48:22,180 --> 00:48:24,100
-mas só temos três horas.
+mas sÃ³ temos trÃªs horas.
 
 507
 00:48:25,620 --> 00:48:27,380
-Estaremos no meio do território inimigo,
+Estaremos no meio do territÃ³rio inimigo,
 
 508
 00:48:27,460 --> 00:48:30,260
-mas não temos
-informações confiáveis até agora.
+mas nÃ£o temos
+informaÃ§Ãµes confiÃ¡veis atÃ© agora.
 
 509
 00:48:31,220 --> 00:48:32,900
-Uma coisa é certa:
+Uma coisa Ã© certa:
 
 510
 00:48:34,740 --> 00:48:36,180
-será uma batalha difícil.
+serÃ¡ uma batalha difÃ­cil.
 
 511
 00:48:39,140 --> 00:48:40,980
-Quero que cada um de vocês
+Quero que cada um de vocÃªs
 
 512
 00:48:42,220 --> 00:48:43,500
-dê o melhor de si
+dÃª o melhor de si
 
 513
 00:48:45,180 --> 00:48:46,460
-e voltem em segurança.
+e voltem em seguranÃ§a.
 
 514
 00:48:48,300 --> 00:48:50,500
@@ -2197,34 +2207,34 @@ Sayyid?
 
 517
 00:49:11,780 --> 00:49:13,580
-A esposa do secretário-chefe está
+A esposa do secretÃ¡rio-chefe estÃ¡
 no porto.
 
 518
 00:49:13,660 --> 00:49:16,500
-A refém chinesa é a nossa moeda de troca,
+A refÃ©m chinesa Ã© a nossa moeda de troca,
 
 519
 00:49:17,620 --> 00:49:19,940
-mas eles não vão ceder tão fácil.
+mas eles nÃ£o vÃ£o ceder tÃ£o fÃ¡cil.
 
 520
 00:49:20,220 --> 00:49:22,740
-<i>Fique aí e observe tudo.</i>
+<i>Fique aÃ­ e observe tudo.</i>
 
 521
 00:49:24,420 --> 00:49:27,220
-Há três veículos na colina.
-Dois estão armados.
+HÃ¡ trÃªs veÃ­culos na colina.
+Dois estÃ£o armados.
 
 522
 00:49:27,300 --> 00:49:28,740
-Não sei sobre o terceiro.
+NÃ£o sei sobre o terceiro.
 
 523
 00:49:28,820 --> 00:49:30,980
 -Quando eles apareceram?
--Há três minutos.
+-HÃ¡ trÃªs minutos.
 
 524
 00:49:48,900 --> 00:49:50,420
@@ -2244,7 +2254,7 @@ Entendo, mas tenho que ir a Basem.
 
 528
 00:50:30,980 --> 00:50:32,420
-Não é só para salvar meu assistente.
+NÃ£o Ã© sÃ³ para salvar meu assistente.
 
 529
 00:50:32,500 --> 00:50:34,020
@@ -2252,7 +2262,7 @@ Tem algo muito importante
 
 530
 00:50:34,100 --> 00:50:35,740
-que preciso fazer lá.
+que preciso fazer lÃ¡.
 
 531
 00:50:36,060 --> 00:50:37,180
@@ -2260,15 +2270,15 @@ Sinto muito, Srta. Xia.
 
 532
 00:50:37,700 --> 00:50:39,580
-Não podemos levá-la conosco.
+NÃ£o podemos levÃ¡-la conosco.
 
 533
 00:50:39,860 --> 00:50:42,500
-Não sabemos a situação de lá, está bem?
+NÃ£o sabemos a situaÃ§Ã£o de lÃ¡, estÃ¡ bem?
 
 534
 00:50:42,580 --> 00:50:44,700
-Capitão Yang,
+CapitÃ£o Yang,
 poderia me deixar explicar antes?
 
 535
@@ -2277,20 +2287,20 @@ Certo.
 
 536
 00:50:46,380 --> 00:50:48,940
-Hong Xu, prepare-os. Rápido.
+Hong Xu, prepare-os. RÃ¡pido.
 
 537
 00:50:49,740 --> 00:50:52,540
-É sobre o "bolo amarelo" no mercado negro.
+Ã‰ sobre o "bolo amarelo" no mercado negro.
 
 538
 00:50:52,900 --> 00:50:55,940
-O Zaka está com o William Parsons,
+O Zaka estÃ¡ com o William Parsons,
 o maior negociante no mercado.
 
 539
 00:50:56,020 --> 00:50:59,020
-Descobrimos que ele está envolvido
+Descobrimos que ele estÃ¡ envolvido
 com grupos terroristas.
 
 540
@@ -2300,7 +2310,7 @@ Um deles agora tem a tecnologia
 541
 00:51:01,820 --> 00:51:04,660
 para fabricar
-bombas atômicas em larga escala.
+bombas atÃ´micas em larga escala.
 
 542
 00:51:04,740 --> 00:51:05,860
@@ -2312,33 +2322,33 @@ assim que pegarem o "bolo amarelo",
 
 544
 00:51:07,460 --> 00:51:10,260
-sabe-se lá quantos eles vão matar.
+sabe-se lÃ¡ quantos eles vÃ£o matar.
 
 545
 00:51:10,420 --> 00:51:11,540
-Está falando sobre o Zaka?
+EstÃ¡ falando sobre o Zaka?
 
 546
 00:51:11,620 --> 00:51:13,540
-Sim, tudo o que querem é o "bolo amarelo".
+Sim, tudo o que querem Ã© o "bolo amarelo".
 
 547
 00:51:13,620 --> 00:51:15,860
--Não é da nossa conta.
+-NÃ£o Ã© da nossa conta.
 -Espero que salve o Abu,
 
 548
 00:51:15,940 --> 00:51:17,820
 -William e todos eles.
--Nossa missão...
+-Nossa missÃ£o...
 
 549
 00:51:19,700 --> 00:51:21,260
-Srta. Xia, nossa missão
+Srta. Xia, nossa missÃ£o
 
 550
 00:51:21,420 --> 00:51:23,060
-é resgatar uma refém chinesa.
+Ã© resgatar uma refÃ©m chinesa.
 
 551
 00:51:23,140 --> 00:51:25,780
@@ -2346,12 +2356,12 @@ Se pudermos, resgataremos o resto.
 
 552
 00:51:25,860 --> 00:51:28,180
-Sinto muito, mas não pode vir conosco.
+Sinto muito, mas nÃ£o pode vir conosco.
 
 553
 00:51:28,260 --> 00:51:30,580
-Se eu não for junto,
-não conseguirei o que vim fazer aqui!
+Se eu nÃ£o for junto,
+nÃ£o conseguirei o que vim fazer aqui!
 
 554
 00:51:32,380 --> 00:51:33,260
@@ -2359,15 +2369,15 @@ Entre no carro.
 
 555
 00:51:34,700 --> 00:51:35,980
-Lamento. Não pode ir embora.
+Lamento. NÃ£o pode ir embora.
 
 556
 00:51:36,060 --> 00:51:37,260
-Por que não?
+Por que nÃ£o?
 
 557
 00:51:37,380 --> 00:51:38,900
-Eu já te disse.
+Eu jÃ¡ te disse.
 
 558
 00:51:38,980 --> 00:51:40,140
@@ -2375,28 +2385,28 @@ Fomos ordenados
 
 559
 00:51:40,220 --> 00:51:42,140
-a levá-la para uma base do Exército.
+a levÃ¡-la para uma base do ExÃ©rcito.
 
 560
 00:51:42,220 --> 00:51:43,940
-Você será evacuada de lá.
+VocÃª serÃ¡ evacuada de lÃ¡.
 
 561
 00:51:44,020 --> 00:51:45,060
-Senhor, aqui é a Nan Xia.
+Senhor, aqui Ã© a Nan Xia.
 
 562
 00:51:45,140 --> 00:51:46,140
--Há problemas.
+-HÃ¡ problemas.
 -Srta. Xia.
 
 563
 00:51:46,220 --> 00:51:47,860
-No próximo ataque terrorista,
+No prÃ³ximo ataque terrorista,
 
 564
 00:51:47,940 --> 00:51:50,900
-inúmeras pessoas vão morrer
+inÃºmeras pessoas vÃ£o morrer
 por causa do "bolo amarelo" do William.
 
 565
@@ -2405,7 +2415,7 @@ O que foi?
 
 566
 00:52:01,540 --> 00:52:04,620
-O Zaka divulgou um vídeo
+O Zaka divulgou um vÃ­deo
 para a Marinha Chinesa.
 
 567
@@ -2414,21 +2424,21 @@ Veja.
 
 568
 00:52:08,660 --> 00:52:10,420
-<i>O secretário-chefe Mohadi é um pecador</i>
+<i>O secretÃ¡rio-chefe Mohadi Ã© um pecador</i>
 
 569
 00:52:10,500 --> 00:52:14,220
 <i>que continua oprimindo meu povo
-com o abuso de violência dele.</i>
+com o abuso de violÃªncia dele.</i>
 
 570
 00:52:14,820 --> 00:52:18,980
 <i>Exigimos que deixem de proteger
-o pecador e entreguem a família dele.</i>
+o pecador e entreguem a famÃ­lia dele.</i>
 
 571
 00:52:19,580 --> 00:52:21,660
-<i>Temos que vingar os irmãos e irmãs</i>
+<i>Temos que vingar os irmÃ£os e irmÃ£s</i>
 
 572
 00:52:21,740 --> 00:52:24,100
@@ -2436,20 +2446,20 @@ o pecador e entreguem a família dele.</i>
 
 573
 00:52:24,700 --> 00:52:26,140
-<i>Se vocês se recusarem a cooperar,</i>
+<i>Se vocÃªs se recusarem a cooperar,</i>
 
 574
 00:52:26,220 --> 00:52:29,580
-<i>os cidadãos chineses serão punidos
+<i>os cidadÃ£os chineses serÃ£o punidos
 no lugar deles.</i>
 
 575
 00:52:29,780 --> 00:52:31,180
-<i>Esse é apenas um exemplo.</i>
+<i>Esse Ã© apenas um exemplo.</i>
 
 576
 00:52:35,420 --> 00:52:37,980
-<i>E esta chinesa será a próxima.</i>
+<i>E esta chinesa serÃ¡ a prÃ³xima.</i>
 
 577
 00:52:44,100 --> 00:52:45,740
@@ -2461,18 +2471,18 @@ Selvagens!
 
 579
 00:52:48,740 --> 00:52:53,940
-Nossa única esperança é
+Nossa Ãºnica esperanÃ§a Ã©
 que a equipe Jiaolong salve a todos.
 
 580
 00:54:03,220 --> 00:54:04,380
--Capitão Yang.
--Pois não?
+-CapitÃ£o Yang.
+-Pois nÃ£o?
 
 581
 00:54:04,460 --> 00:54:06,700
-Recebemos informações
-sobre um possível perigo à frente.
+Recebemos informaÃ§Ãµes
+sobre um possÃ­vel perigo Ã  frente.
 
 582
 00:54:06,940 --> 00:54:08,380
@@ -2480,7 +2490,7 @@ Temos que procurar outra rota.
 
 583
 00:54:08,460 --> 00:54:09,780
-Como é?
+Como Ã©?
 
 584
 00:54:13,140 --> 00:54:14,540
@@ -2493,19 +2503,19 @@ Yu Zhang, contate a base.
 
 586
 00:54:16,180 --> 00:54:17,820
-Base, aqui é a Unidade 1.
+Base, aqui Ã© a Unidade 1.
 
 587
 00:54:19,580 --> 00:54:20,740
-Estão na escuta?
+EstÃ£o na escuta?
 
 588
 00:54:23,660 --> 00:54:25,740
-Base, aqui é a Unidade 1.
+Base, aqui Ã© a Unidade 1.
 
 589
 00:54:25,820 --> 00:54:27,420
-Solicito sinal. Câmbio.
+Solicito sinal. CÃ¢mbio.
 
 590
 00:54:31,380 --> 00:54:32,420
@@ -2517,7 +2527,7 @@ Ataque com morteiro!
 
 592
 00:55:00,100 --> 00:55:02,540
-Todos estão bem? Me respondam!
+Todos estÃ£o bem? Me respondam!
 
 593
 00:55:02,620 --> 00:55:03,940
@@ -2525,8 +2535,8 @@ Estou bem!
 
 594
 00:55:04,020 --> 00:55:05,580
-<i>-Chen Lu está bem!
--Hong Xu está bem!</i>
+<i>-Chen Lu estÃ¡ bem!
+-Hong Xu estÃ¡ bem!</i>
 
 595
 00:55:05,660 --> 00:55:07,940
@@ -2535,11 +2545,11 @@ Estou bem!
 
 596
 00:55:25,100 --> 00:55:26,260
-Não se mexam!
+NÃ£o se mexam!
 
 597
 00:55:27,380 --> 00:55:28,540
-Shitou, vá para trás!
+Shitou, vÃ¡ para trÃ¡s!
 
 598
 00:55:28,620 --> 00:55:30,180
@@ -2551,7 +2561,7 @@ Vamos, pegue sua arma!
 
 600
 00:55:54,020 --> 00:55:56,420
-Chen Lu, me diga a posição do inimigo!
+Chen Lu, me diga a posiÃ§Ã£o do inimigo!
 
 601
 00:56:01,900 --> 00:56:03,500
@@ -2559,7 +2569,7 @@ Hong Xu, traga todos para fora!
 
 602
 00:56:04,380 --> 00:56:06,620
-Yu Zhuang, procure a munição que sobrou!
+Yu Zhuang, procure a muniÃ§Ã£o que sobrou!
 
 603
 00:56:06,700 --> 00:56:07,620
@@ -2571,7 +2581,7 @@ Abram a porta!
 
 605
 00:56:36,820 --> 00:56:39,020
-Morteiros à direita!
+Morteiros Ã  direita!
 
 606
 00:57:26,100 --> 00:57:28,940
@@ -2591,7 +2601,7 @@ Salve-os!
 
 610
 00:57:37,900 --> 00:57:38,740
-Rápido!
+RÃ¡pido!
 
 611
 00:57:39,540 --> 00:57:40,820
@@ -2603,7 +2613,7 @@ Shun Gu e Dong Li,
 
 613
 00:58:04,580 --> 00:58:07,100
-encontrem uma posição defensiva
+encontrem uma posiÃ§Ã£o defensiva
 e aguardem minhas ordens.
 
 614
@@ -2612,7 +2622,7 @@ Entendido.
 
 615
 00:58:08,380 --> 00:58:10,740
-Tian-de Zhang, me dê cobertura!
+Tian-de Zhang, me dÃª cobertura!
 
 616
 00:58:14,140 --> 00:58:15,020
@@ -2620,7 +2630,7 @@ Mexam-se!
 
 617
 00:58:21,700 --> 00:58:23,380
-Li Tong, me dê cobertura!
+Li Tong, me dÃª cobertura!
 
 618
 00:58:43,220 --> 00:58:45,020
@@ -2628,11 +2638,11 @@ Dong Li, mexa-se!
 
 619
 00:58:58,140 --> 00:58:59,220
-A perna dele já era,
+A perna dele jÃ¡ era,
 
 620
 00:58:59,380 --> 00:59:00,700
-vamos amputá-la.
+vamos amputÃ¡-la.
 
 621
 00:59:00,780 --> 00:59:01,620
@@ -2648,23 +2658,23 @@ Fique calmo.
 
 624
 00:59:37,740 --> 00:59:39,220
-Capitão, é o Hong Xu.
+CapitÃ£o, Ã© o Hong Xu.
 
 625
 00:59:39,900 --> 00:59:42,140
-Há uma bomba ativa no ônibus.
+HÃ¡ uma bomba ativa no Ã´nibus.
 
 626
 00:59:56,500 --> 00:59:58,060
-<i>Shun Gu, está em posição?</i>
+<i>Shun Gu, estÃ¡ em posiÃ§Ã£o?</i>
 
 627
 00:59:59,140 --> 01:00:00,260
-Ainda não.
+Ainda nÃ£o.
 
 628
 01:00:07,260 --> 01:00:08,420
-Último disparo!
+Ãšltimo disparo!
 
 629
 01:00:26,220 --> 01:00:28,500
@@ -2685,11 +2695,11 @@ Vou atingir a base deles.
 633
 01:00:38,540 --> 01:00:41,260
 <i>Mas, assim que eu atirar,
-vão saber minha posição.</i>
+vÃ£o saber minha posiÃ§Ã£o.</i>
 
 634
 01:00:41,420 --> 01:00:43,460
-<i>Encontre-os rápido. Está na escuta?</i>
+<i>Encontre-os rÃ¡pido. EstÃ¡ na escuta?</i>
 
 635
 01:00:43,540 --> 01:00:44,500
@@ -2697,16 +2707,16 @@ Entendido.
 
 636
 01:01:00,860 --> 01:01:03,380
-<i>Shun Gu, rápido!
-A fumaça está se dissipando!</i>
+<i>Shun Gu, rÃ¡pido!
+A fumaÃ§a estÃ¡ se dissipando!</i>
 
 637
 01:01:18,460 --> 01:01:19,580
-Shun Gu em posição.
+Shun Gu em posiÃ§Ã£o.
 
 638
 01:01:58,180 --> 01:01:59,660
-<i>Há um franco-atirador à direita</i>
+<i>HÃ¡ um franco-atirador Ã  direita</i>
 
 639
 01:01:59,740 --> 01:02:01,300
@@ -2718,11 +2728,11 @@ Shun Gu em posição.
 
 641
 01:02:03,220 --> 01:02:07,140
-São 22 graus ao leste, 602 metros.
+SÃ£o 22 graus ao leste, 602 metros.
 
 642
 01:02:40,140 --> 01:02:42,460
-Dong Li, consegue vê-lo?
+Dong Li, consegue vÃª-lo?
 
 643
 01:02:44,860 --> 01:02:46,740
@@ -2734,7 +2744,7 @@ No cume mais alto,
 
 645
 01:02:49,500 --> 01:02:51,420
-dez metros à direita.
+dez metros Ã  direita.
 
 646
 01:02:53,020 --> 01:02:54,460
@@ -2754,7 +2764,7 @@ Recuem, todos!
 
 650
 01:05:13,820 --> 01:05:16,100
-Não se mexa!
+NÃ£o se mexa!
 
 651
 01:05:18,900 --> 01:05:20,660
@@ -2774,7 +2784,7 @@ Segure-o.
 
 655
 01:05:52,140 --> 01:05:53,380
-Vamos lá.
+Vamos lÃ¡.
 
 656
 01:06:17,380 --> 01:06:18,180
@@ -2798,23 +2808,23 @@ Hong Xu, corra!
 
 661
 01:06:35,660 --> 01:06:36,780
-<i>Capitão.</i>
+<i>CapitÃ£o.</i>
 
 662
 01:06:37,380 --> 01:06:38,300
-Você está bem?
+VocÃª estÃ¡ bem?
 
 663
 01:06:38,980 --> 01:06:39,860
-Capitão!
+CapitÃ£o!
 
 664
 01:06:44,620 --> 01:06:46,140
-Onde estão os outros?
+Onde estÃ£o os outros?
 
 665
 01:06:59,460 --> 01:07:01,380
--Você está bem?
+-VocÃª estÃ¡ bem?
 -Apresse-se e salve os outros!
 
 666
@@ -2836,7 +2846,7 @@ Hong Xu.
 
 670
 01:07:14,900 --> 01:07:15,860
-Com mais força!
+Com mais forÃ§a!
 
 671
 01:07:15,940 --> 01:07:16,900
@@ -2861,11 +2871,11 @@ Puxem!
 
 676
 01:07:25,860 --> 01:07:26,820
-Com mais força!
+Com mais forÃ§a!
 
 677
 01:07:27,580 --> 01:07:29,860
-Você está bem?
+VocÃª estÃ¡ bem?
 
 678
 01:07:52,300 --> 01:07:54,500
@@ -2877,30 +2887,30 @@ mas o navio vai partir em 90 minutos.
 
 680
 01:07:57,420 --> 01:08:00,300
-Só temos mais um veículo
-e está em conserto.
+SÃ³ temos mais um veÃ­culo
+e estÃ¡ em conserto.
 
 681
 01:08:00,940 --> 01:08:02,220
-Não poderemos voltar a tempo.
+NÃ£o poderemos voltar a tempo.
 
 682
 01:08:02,580 --> 01:08:04,620
-As tropas deles não podem nos dar
+As tropas deles nÃ£o podem nos dar
 um apoio maior?
 
 683
 01:08:05,980 --> 01:08:09,220
-Nossos superiores fizeram uma solicitação,
+Nossos superiores fizeram uma solicitaÃ§Ã£o,
 
 684
 01:08:09,740 --> 01:08:12,780
-mas eles não têm tropas disponíveis.
+mas eles nÃ£o tÃªm tropas disponÃ­veis.
 
 685
 01:08:13,220 --> 01:08:15,740
 Podem apenas nos escoltar
-até um certo ponto
+atÃ© um certo ponto
 
 686
 01:08:16,300 --> 01:08:18,420
@@ -2912,15 +2922,15 @@ até um certo ponto
 
 688
 01:08:20,580 --> 01:08:21,820
-vão direto para lá.
+vÃ£o direto para lÃ¡.
 
 689
 01:08:22,860 --> 01:08:26,900
-Mas é uma rota muito perigosa.
+Mas Ã© uma rota muito perigosa.
 
 690
 01:08:27,980 --> 01:08:30,220
-Vão precisar estar em alerta máximo.
+VÃ£o precisar estar em alerta mÃ¡ximo.
 
 691
 01:08:30,420 --> 01:08:31,380
@@ -2928,15 +2938,15 @@ Vão precisar estar em alerta máximo.
 
 692
 01:08:31,460 --> 01:08:34,660
-<i>Além disso, o Zaka divulgou um vídeo.</i>
+<i>AlÃ©m disso, o Zaka divulgou um vÃ­deo.</i>
 
 693
 01:08:35,780 --> 01:08:37,860
-Decapitaram o assistente da repórter.
+Decapitaram o assistente da repÃ³rter.
 
 694
 01:09:44,780 --> 01:09:46,420
-Apesar de todas as simulações
+Apesar de todas as simulaÃ§Ãµes
 
 695
 01:09:47,820 --> 01:09:48,980
@@ -2956,11 +2966,11 @@ Senhor,
 
 699
 01:10:05,180 --> 01:10:06,780
-não sou bom o bastante para a Jiaolong.
+nÃ£o sou bom o bastante para a Jiaolong.
 
 700
 01:10:11,100 --> 01:10:13,380
-Você se lembra
+VocÃª se lembra
 de como tornou-se parte da equipe?
 
 701
@@ -2969,7 +2979,7 @@ Passamos por maus bocados.
 
 702
 01:10:19,940 --> 01:10:21,940
-Todos nós queríamos desistir,
+Todos nÃ³s querÃ­amos desistir,
 
 703
 01:10:23,460 --> 01:10:25,700
@@ -2993,11 +3003,11 @@ Pense no nosso lema.
 
 708
 01:11:18,940 --> 01:11:20,740
-Você foi bem.
+VocÃª foi bem.
 
 709
 01:11:24,140 --> 01:11:25,500
-Não foi para se aparecer.
+NÃ£o foi para se aparecer.
 
 710
 01:11:28,860 --> 01:11:30,140
@@ -3005,7 +3015,7 @@ Eu vi.
 
 711
 01:11:42,420 --> 01:11:43,380
-Está doendo?
+EstÃ¡ doendo?
 
 712
 01:11:44,700 --> 01:11:45,660
@@ -3013,7 +3023,7 @@ Um pouco.
 
 713
 01:12:00,460 --> 01:12:01,780
-Não pense demais.
+NÃ£o pense demais.
 
 714
 01:12:19,180 --> 01:12:20,540
@@ -3021,41 +3031,41 @@ Pode voltar a Basem conosco.
 
 715
 01:12:22,500 --> 01:12:24,620
-Vão conseguir reforços? Quando?
+VÃ£o conseguir reforÃ§os? Quando?
 
 716
 01:12:28,620 --> 01:12:29,900
-Ouça,
+OuÃ§a,
 
 717
 01:12:30,820 --> 01:12:33,500
 se vier conosco,
-terá que seguir ordens, entendido?
+terÃ¡ que seguir ordens, entendido?
 
 718
 01:12:33,580 --> 01:12:34,700
-Capitão, deixe-me te dizer.
+CapitÃ£o, deixe-me te dizer.
 
 719
 01:12:34,780 --> 01:12:36,580
-Sem reforços,
-terá que tomar muito cuidado.
+Sem reforÃ§os,
+terÃ¡ que tomar muito cuidado.
 
 720
 01:12:36,660 --> 01:12:37,780
-Está a mais de uma hora.
+EstÃ¡ a mais de uma hora.
 
 721
 01:12:37,860 --> 01:12:38,860
-Dá pra arrumar o veículo?
+DÃ¡ pra arrumar o veÃ­culo?
 
 722
 01:12:38,940 --> 01:12:41,100
-Estamos fazendo o possível.
+Estamos fazendo o possÃ­vel.
 
 723
 01:12:41,420 --> 01:12:42,740
-Não precisa se preocupar.
+NÃ£o precisa se preocupar.
 
 724
 01:12:42,820 --> 01:12:44,620
@@ -3075,16 +3085,16 @@ Sim, foi para salvar uma vida,
 
 728
 01:12:52,060 --> 01:12:54,300
-mas, quando houver ação da próxima vez,
+mas, quando houver aÃ§Ã£o da prÃ³xima vez,
 
 729
 01:12:54,900 --> 01:12:58,300
 considerando o perigo,
-não importa o que aconteça,
+nÃ£o importa o que aconteÃ§a,
 
 730
 01:12:58,900 --> 01:13:01,140
-faça exatamente o que dissermos.
+faÃ§a exatamente o que dissermos.
 
 731
 01:13:01,220 --> 01:13:03,220
@@ -3093,21 +3103,21 @@ faça exatamente o que dissermos.
 
 732
 01:13:04,420 --> 01:13:06,540
-Como sabe que está certa?
+Como sabe que estÃ¡ certa?
 
 733
 01:13:07,180 --> 01:13:08,420
-Sim, temos papéis diferentes,
+Sim, temos papÃ©is diferentes,
 
 734
 01:13:08,500 --> 01:13:11,940
--mas nossas crenças...
+-mas nossas crenÃ§as...
 -Se eu errar, assumo a responsabilidade.
 
 735
 01:13:12,020 --> 01:13:15,100
-Mas, se você desobedecer e morrer,
-quem será o responsável?
+Mas, se vocÃª desobedecer e morrer,
+quem serÃ¡ o responsÃ¡vel?
 
 736
 01:13:15,180 --> 01:13:16,460
@@ -3115,12 +3125,12 @@ Se esse for o caso,
 
 737
 01:13:17,580 --> 01:13:18,860
-então não me salve.
+entÃ£o nÃ£o me salve.
 
 738
 01:13:21,020 --> 01:13:23,620
-<i>Capitão, o veículo foi arrumado.
-Logo chegaremos aí.</i>
+<i>CapitÃ£o, o veÃ­culo foi arrumado.
+Logo chegaremos aÃ­.</i>
 
 739
 01:13:28,460 --> 01:13:29,660
@@ -3128,28 +3138,28 @@ Entendido.
 
 740
 01:13:31,420 --> 01:13:32,620
-Vão agora, pessoal.
+VÃ£o agora, pessoal.
 
 741
 01:13:39,300 --> 01:13:42,180
-<i>Sayyid, como está o Dr. William?</i>
+<i>Sayyid, como estÃ¡ o Dr. William?</i>
 
 742
 01:13:42,260 --> 01:13:43,540
-<i>Ele está vivo,</i>
+<i>Ele estÃ¡ vivo,</i>
 
 743
 01:13:44,220 --> 01:13:45,860
-mas ainda está inconsciente.
+mas ainda estÃ¡ inconsciente.
 
 744
 01:13:48,020 --> 01:13:52,060
-<i>Além do "bolo amarelo",</i>
+<i>AlÃ©m do "bolo amarelo",</i>
 
 745
 01:13:53,660 --> 01:13:57,500
-<i>precisamos da fórmula
-para a bomba atômica.</i>
+<i>precisamos da fÃ³rmula
+para a bomba atÃ´mica.</i>
 
 746
 01:13:58,820 --> 01:13:59,740
@@ -3175,21 +3185,21 @@ Testando.
 
 751
 01:15:41,260 --> 01:15:43,380
-Não tenham medo.
+NÃ£o tenham medo.
 
 752
 01:15:43,940 --> 01:15:49,380
-A Marinha Chinesa está aqui
+A Marinha Chinesa estÃ¡ aqui
 para resgatar as pessoas.
 
 753
 01:15:49,460 --> 01:15:50,500
-Não tenham medo.
+NÃ£o tenham medo.
 
 754
 01:15:56,380 --> 01:15:59,860
-A proprietária da casa, Bella,
-diz que eles vieram há uma semana,
+A proprietÃ¡ria da casa, Bella,
+diz que eles vieram hÃ¡ uma semana,
 
 755
 01:15:59,940 --> 01:16:01,940
@@ -3201,11 +3211,11 @@ e mantiveram aqui para cozinhar.
 
 757
 01:16:03,460 --> 01:16:06,420
-Na cidade há cerca de 150 terroristas.
+Na cidade hÃ¡ cerca de 150 terroristas.
 
 758
 01:16:06,500 --> 01:16:08,300
-Concentram-se perto da praça.
+Concentram-se perto da praÃ§a.
 
 759
 01:16:08,420 --> 01:16:09,740
@@ -3213,32 +3223,32 @@ Ela desenhou um mapa.
 
 760
 01:16:11,020 --> 01:16:13,220
-Aqui é o quartel-general deles.
+Aqui Ã© o quartel-general deles.
 
 761
 01:16:13,820 --> 01:16:15,540
-O campo de reféns é ao norte.
+O campo de refÃ©ns Ã© ao norte.
 
 762
 01:16:15,620 --> 01:16:17,020
-Eles têm uns dez guardas
+Eles tÃªm uns dez guardas
 
 763
 01:16:17,100 --> 01:16:18,460
-e 25 reféns lá dentro.
+e 25 refÃ©ns lÃ¡ dentro.
 
 764
 01:16:18,580 --> 01:16:21,260
-Todos são estrangeiros,
+Todos sÃ£o estrangeiros,
 menos cinco soldados.
 
 765
 01:16:21,380 --> 01:16:22,860
-Há três mulheres, uma é asiática.
+HÃ¡ trÃªs mulheres, uma Ã© asiÃ¡tica.
 
 766
 01:16:22,940 --> 01:16:24,900
-A descrição dela bate com a da Mei Deng.
+A descriÃ§Ã£o dela bate com a da Mei Deng.
 
 767
 01:16:24,980 --> 01:16:25,940
@@ -3250,11 +3260,11 @@ Como chegaremos no campo?
 
 769
 01:16:31,620 --> 01:16:32,940
-Somente pela praça.
+Somente pela praÃ§a.
 
 770
 01:16:34,300 --> 01:16:35,980
-Envie a situação ao navio.
+Envie a situaÃ§Ã£o ao navio.
 
 771
 01:16:36,100 --> 01:16:37,060
@@ -3262,36 +3272,36 @@ Sim, senhor.
 
 772
 01:16:41,220 --> 01:16:42,740
-São oito contra 150.
+SÃ£o oito contra 150.
 
 773
 01:16:43,420 --> 01:16:44,900
-Já fez algo assim antes?
+JÃ¡ fez algo assim antes?
 
 774
 01:16:44,980 --> 01:16:48,260
-A missão da nossa unidade
-não é ter que lidar com os 150,
+A missÃ£o da nossa unidade
+nÃ£o Ã© ter que lidar com os 150,
 
 775
 01:16:48,420 --> 01:16:50,980
-mas sim resgatar os reféns chineses.
+mas sim resgatar os refÃ©ns chineses.
 
 776
 01:16:55,820 --> 01:16:58,220
-Então não há esperança para o restante?
+EntÃ£o nÃ£o hÃ¡ esperanÃ§a para o restante?
 
 777
 01:16:59,780 --> 01:17:00,780
-Não há tempo.
+NÃ£o hÃ¡ tempo.
 
 778
 01:17:05,020 --> 01:17:06,660
-É possível
+Ã‰ possÃ­vel
 
 779
 01:17:07,380 --> 01:17:09,060
-que você
+que vocÃª
 
 780
 01:17:09,660 --> 01:17:10,780
@@ -3299,7 +3309,7 @@ salve mais uma pessoa?
 
 781
 01:17:11,380 --> 01:17:12,820
-Há alguma hipótese disso acontecer?
+HÃ¡ alguma hipÃ³tese disso acontecer?
 
 782
 01:17:17,940 --> 01:17:19,580
@@ -3320,7 +3330,7 @@ Antes de chegarmos aqui.
 786
 01:18:12,780 --> 01:18:16,100
 Meu marido e minha filha morreram
-em um ônibus como hoje.
+em um Ã´nibus como hoje.
 
 787
 01:18:25,820 --> 01:18:27,100
@@ -3328,24 +3338,24 @@ em um ônibus como hoje.
 
 788
 01:18:28,580 --> 01:18:30,820
-<i>quando explodiram o ônibus em Londres.</i>
+<i>quando explodiram o Ã´nibus em Londres.</i>
 
 789
 01:18:34,740 --> 01:18:36,780
-A polícia me disse
+A polÃ­cia me disse
 
 790
 01:18:38,060 --> 01:18:39,820
-que não restou nada deles,
+que nÃ£o restou nada deles,
 
 791
 01:18:42,900 --> 01:18:45,380
-só uma pulseira azul.
+sÃ³ uma pulseira azul.
 
 792
 01:18:50,220 --> 01:18:53,980
-Foi então que jurei lutar
-contra eles até o fim.
+Foi entÃ£o que jurei lutar
+contra eles atÃ© o fim.
 
 793
 01:18:54,740 --> 01:18:56,540
@@ -3353,20 +3363,20 @@ Lutar contra os grupos terroristas.
 
 794
 01:18:56,620 --> 01:19:00,380
-Não tenho medo de nada,
+NÃ£o tenho medo de nada,
 nem mesmo da morte.
 
 795
 01:19:01,740 --> 01:19:03,980
-Só tenho medo de não conseguir ajudar.
+SÃ³ tenho medo de nÃ£o conseguir ajudar.
 
 796
 01:19:06,780 --> 01:19:08,660
-Não consegui proteger ninguém.
+NÃ£o consegui proteger ninguÃ©m.
 
 797
 01:19:09,980 --> 01:19:12,540
-Nem o Abu. Não consegui protegê-lo.
+Nem o Abu. NÃ£o consegui protegÃª-lo.
 
 798
 01:19:12,620 --> 01:19:14,100
@@ -3374,44 +3384,44 @@ Eu falhei.
 
 799
 01:19:20,500 --> 01:19:25,180
-O capitão disse que o único apoio será
-um helicóptero para evacuação,
+O capitÃ£o disse que o Ãºnico apoio serÃ¡
+um helicÃ³ptero para evacuaÃ§Ã£o,
 
 800
 01:19:25,260 --> 01:19:26,740
-mas não sabem dizer quando.
+mas nÃ£o sabem dizer quando.
 
 801
 01:19:29,420 --> 01:19:33,500
-Além da Mei Dong,
-também quero resgatar os outros.
+AlÃ©m da Mei Dong,
+tambÃ©m quero resgatar os outros.
 
 802
 01:19:34,660 --> 01:19:35,620
-Tem alguma estratégia?
+Tem alguma estratÃ©gia?
 
 803
 01:19:40,060 --> 01:19:43,420
 Com tantas pessoas,
-não podemos voltar pela estrada.
+nÃ£o podemos voltar pela estrada.
 
 804
 01:19:43,980 --> 01:19:44,820
-É melhor
+Ã‰ melhor
 
 805
 01:19:44,900 --> 01:19:47,900
 ir ao norte pelo deserto,
-direto para a base do Exército.
+direto para a base do ExÃ©rcito.
 
 806
 01:19:47,980 --> 01:19:50,860
-O problema é que seremos expostos
+O problema Ã© que seremos expostos
 se eles nos perseguirem.
 
 807
 01:19:51,180 --> 01:19:52,580
-A Mei Deng é a prioridade.
+A Mei Deng Ã© a prioridade.
 
 808
 01:19:52,660 --> 01:19:54,820
@@ -3419,35 +3429,35 @@ Assim que ela estiver a salvo,
 
 809
 01:19:55,100 --> 01:19:56,900
-vamos nos reagrupar e resgatar os reféns.
+vamos nos reagrupar e resgatar os refÃ©ns.
 
 810
 01:19:58,140 --> 01:20:00,620
-Diga imediatamente ao Shitou e à Li Tong
+Diga imediatamente ao Shitou e Ã  Li Tong
 
 811
 01:20:01,020 --> 01:20:04,020
-para se disfarçarem de terroristas
+para se disfarÃ§arem de terroristas
 e se infiltrarem no campo.
 
 812
 01:20:04,100 --> 01:20:08,020
 Lembre-se, a Li Tong e a Mei Dong
-vão trocar de roupas.
+vÃ£o trocar de roupas.
 
 813
 01:20:08,100 --> 01:20:10,580
-O Shitou a levará de volta
+O Shitou a levarÃ¡ de volta
 por onde viemos.
 
 814
 01:20:10,660 --> 01:20:13,420
 Diga ao Shun Gu e ao Dong Li.
-Encontre uma posição defensiva
+Encontre uma posiÃ§Ã£o defensiva
 
 815
 01:20:13,500 --> 01:20:15,660
-onde possa controlar a praça.
+onde possa controlar a praÃ§a.
 
 816
 01:20:16,780 --> 01:20:18,020
@@ -3455,38 +3465,38 @@ Assim que entrarmos na cidade,
 
 817
 01:20:18,660 --> 01:20:20,620
-todos os nossos sinais serão bloqueados.
+todos os nossos sinais serÃ£o bloqueados.
 
 818
 01:20:20,700 --> 01:20:22,140
-Então preciso dizer ao Yu Zhuang
+EntÃ£o preciso dizer ao Yu Zhuang
 
 819
 01:20:22,220 --> 01:20:25,860
 para montar um dispositivo antibloqueio
-para garantir nossas comunicações.
+para garantir nossas comunicaÃ§Ãµes.
 
 820
 01:20:26,860 --> 01:20:27,820
-Quanto à Nan Xia,
+Quanto Ã  Nan Xia,
 
 821
 01:20:27,900 --> 01:20:29,660
-faça-a ficar aqui com o Yu Zhuang.
+faÃ§a-a ficar aqui com o Yu Zhuang.
 
 822
 01:20:29,740 --> 01:20:31,500
-Eles vão partir assim que a Mei Deng sair.
+Eles vÃ£o partir assim que a Mei Deng sair.
 
 823
 01:20:31,580 --> 01:20:34,980
-E você, o Chen Lu
-e eu vamos observar a praça.
+E vocÃª, o Chen Lu
+e eu vamos observar a praÃ§a.
 
 824
 01:20:35,060 --> 01:20:38,820
 Assim que soubermos que a Mei Deng
-está a salvo e chegou na casa da Bella,
+estÃ¡ a salvo e chegou na casa da Bella,
 
 825
 01:20:38,900 --> 01:20:41,780
@@ -3494,8 +3504,8 @@ explodiremos o acesso deles ao campo.
 
 826
 01:20:42,020 --> 01:20:46,420
-Nós três vamos entrar no campo
-e resgatar os outros reféns.
+NÃ³s trÃªs vamos entrar no campo
+e resgatar os outros refÃ©ns.
 
 827
 01:20:47,740 --> 01:20:49,660
@@ -3503,15 +3513,15 @@ Mas se a Li Tong estiver com eles
 
 828
 01:20:49,740 --> 01:20:51,260
-e uma batalha acontecer na praça,
+e uma batalha acontecer na praÃ§a,
 
 829
 01:20:51,380 --> 01:20:53,020
-não teremos poder de fogo o suficiente.
+nÃ£o teremos poder de fogo o suficiente.
 
 830
 01:20:53,100 --> 01:20:55,300
-Vocês já estão em desvantagem.
+VocÃªs jÃ¡ estÃ£o em desvantagem.
 Eu troco com a Mei Deng.
 
 831
@@ -3520,7 +3530,7 @@ Sou mais parecida com ela.
 
 832
 01:20:59,980 --> 01:21:01,740
-Capitão, não é uma má ideia.
+CapitÃ£o, nÃ£o Ã© uma mÃ¡ ideia.
 
 833
 01:21:01,820 --> 01:21:03,420
@@ -3528,11 +3538,11 @@ Discordo.
 
 834
 01:21:18,180 --> 01:21:20,380
-Não sei de nada.
+NÃ£o sei de nada.
 
 835
 01:21:33,740 --> 01:21:35,220
-Não tem nada a dizer?
+NÃ£o tem nada a dizer?
 
 836
 01:21:35,300 --> 01:21:36,220
@@ -3548,20 +3558,20 @@ Seu ferimento parece ser grave.
 
 839
 01:21:46,020 --> 01:21:48,100
--Não sei mesmo...
--Deixe-me ajudá-lo.
+-NÃ£o sei mesmo...
+-Deixe-me ajudÃ¡-lo.
 
 840
 01:21:56,420 --> 01:21:58,820
-Por favor, não sei de nada!
+Por favor, nÃ£o sei de nada!
 
 841
 01:21:59,500 --> 01:22:02,420
-Está escondendo algo. Onde está?
+EstÃ¡ escondendo algo. Onde estÃ¡?
 
 842
 01:22:02,500 --> 01:22:07,060
-Não sei mesmo...
+NÃ£o sei mesmo...
 
 843
 01:22:08,420 --> 01:22:09,700
@@ -3577,11 +3587,11 @@ Deserto de Aluka!
 
 846
 01:22:42,300 --> 01:22:44,580
-<i>Dong Li, você cobre essa área.</i>
+<i>Dong Li, vocÃª cobre essa Ã¡rea.</i>
 
 847
 01:22:46,580 --> 01:22:48,500
-<i>Shun Gu, você fica com as arcadas.</i>
+<i>Shun Gu, vocÃª fica com as arcadas.</i>
 
 848
 01:22:49,380 --> 01:22:51,020
@@ -3589,20 +3599,20 @@ Sem problema. Deixa comigo.
 
 849
 01:22:55,180 --> 01:22:57,140
-<i>Capitão, estamos entrando.</i>
+<i>CapitÃ£o, estamos entrando.</i>
 
 850
 01:23:39,420 --> 01:23:42,660
-Faça o que eu disser.
-A Marinha Chinesa está aqui para salvá-la.
+FaÃ§a o que eu disser.
+A Marinha Chinesa estÃ¡ aqui para salvÃ¡-la.
 
 851
 01:24:03,220 --> 01:24:05,380
-<i>Chen Lu, achei um veículo.</i>
+<i>Chen Lu, achei um veÃ­culo.</i>
 
 852
 01:24:05,580 --> 01:24:07,460
-<i>Vou parar perto do campo de reféns.</i>
+<i>Vou parar perto do campo de refÃ©ns.</i>
 
 853
 01:24:07,580 --> 01:24:09,940
@@ -3611,11 +3621,11 @@ Vou preparar a bomba.</i>
 
 854
 01:24:39,700 --> 01:24:41,420
-Base, aqui é a Unidade 1.
+Base, aqui Ã© a Unidade 1.
 
 855
 01:24:41,780 --> 01:24:42,860
-Estão na escuta?
+EstÃ£o na escuta?
 
 856
 01:24:43,700 --> 01:24:45,380
@@ -3623,7 +3633,7 @@ Estão na escuta?
 
 857
 01:24:45,820 --> 01:24:48,220
-Capitão, perdemos contato com o navio.
+CapitÃ£o, perdemos contato com o navio.
 
 858
 01:24:48,580 --> 01:24:49,780
@@ -3643,40 +3653,40 @@ Tomarei.
 
 862
 01:25:15,300 --> 01:25:17,420
-<i>tem um soldado chinês na colina.</i>
+<i>tem um soldado chinÃªs na colina.</i>
 
 863
 01:25:19,260 --> 01:25:20,780
-Execute a refém chinesa.
+Execute a refÃ©m chinesa.
 
 864
 01:25:21,380 --> 01:25:22,940
-Se eles querem resgatá-la,
+Se eles querem resgatÃ¡-la,
 
 865
 01:25:23,140 --> 01:25:26,180
-deixe que resgatem um cadáver.
+deixe que resgatem um cadÃ¡ver.
 
 866
 01:25:26,860 --> 01:25:30,180
-<i>E diga aos nossos irmãos
+<i>E diga aos nossos irmÃ£os
 para atacar o navio.</i>
 
 867
 01:25:40,180 --> 01:25:41,740
-O que está fazendo?
+O que estÃ¡ fazendo?
 
 868
 01:25:42,380 --> 01:25:43,740
-O que está fazendo?
+O que estÃ¡ fazendo?
 
 869
 01:25:46,020 --> 01:25:48,100
-Capitão, eles pegaram a Nan Xia.
+CapitÃ£o, eles pegaram a Nan Xia.
 
 870
 01:25:49,900 --> 01:25:51,900
-<i>Hong Xu, por que a Nan Xia estava lá?</i>
+<i>Hong Xu, por que a Nan Xia estava lÃ¡?</i>
 
 871
 01:25:55,540 --> 01:25:58,020
@@ -3688,12 +3698,12 @@ Shitou, assim que deixar o campo,
 
 873
 01:26:00,780 --> 01:26:04,540
-O restante, não abram fogo
-até que a Mei Deng esteja a salvo.
+O restante, nÃ£o abram fogo
+atÃ© que a Mei Deng esteja a salvo.
 
 874
 01:26:12,420 --> 01:26:13,860
-O que está fazendo?
+O que estÃ¡ fazendo?
 
 875
 01:26:17,780 --> 01:26:19,860
@@ -3702,17 +3712,17 @@ estou indo para o quartel-general.</i>
 
 876
 01:26:19,940 --> 01:26:21,220
-<i>Me dê cobertura.</i>
+<i>Me dÃª cobertura.</i>
 
 877
 01:26:37,860 --> 01:26:39,980
-<i>Estou no 2º andar, do lado esquerdo.
+<i>Estou no 2Âº andar, do lado esquerdo.
 Consegue me ver?</i>
 
 878
 01:26:40,060 --> 01:26:42,100
 -Estou te vendo.
-<i>-Proteja a área.</i>
+<i>-Proteja a Ã¡rea.</i>
 
 879
 01:26:42,700 --> 01:26:43,540
@@ -3720,33 +3730,33 @@ Entendido.
 
 880
 01:26:56,540 --> 01:26:57,420
-Ela é tão barulhenta.
+Ela Ã© tÃ£o barulhenta.
 
 881
 01:26:57,500 --> 01:26:58,580
-Aumente a música.
+Aumente a mÃºsica.
 
 882
 01:27:13,620 --> 01:27:14,660
-Capitão, comissário.
+CapitÃ£o, comissÃ¡rio.
 
 883
 01:27:14,740 --> 01:27:17,740
 Informando. As armas na colina
-estão apontadas para nós.
+estÃ£o apontadas para nÃ³s.
 
 884
 01:27:17,820 --> 01:27:19,300
-Entrar em modo de batalha nível 1!
+Entrar em modo de batalha nÃ­vel 1!
 
 885
 01:27:19,420 --> 01:27:21,620
 -Sim, senhor.
--Nível 1!
+-NÃ­vel 1!
 
 886
 01:27:27,220 --> 01:27:28,380
-Arma na interceptação!
+Arma na interceptaÃ§Ã£o!
 
 887
 01:27:40,980 --> 01:27:42,860
@@ -3760,38 +3770,38 @@ Arma na interceptação!
 
 889
 01:27:55,220 --> 01:27:58,260
-O Mohadi está arruinando
+O Mohadi estÃ¡ arruinando
 a vida do nosso povo todos os dias.
 
 890
 01:27:58,860 --> 01:28:01,140
-E bravos soldados como nós
-não podemos mais esperar.
+E bravos soldados como nÃ³s
+nÃ£o podemos mais esperar.
 
 891
 01:28:02,020 --> 01:28:03,860
-Devemos punir esta cidadã chinesa.
+Devemos punir esta cidadÃ£ chinesa.
 
 892
 01:28:03,940 --> 01:28:05,540
--Só o sangue vai ensinar...
+-SÃ³ o sangue vai ensinar...
 -Espere!
 
 893
 01:28:11,780 --> 01:28:12,820
-Quem é você?
+Quem Ã© vocÃª?
 
 894
 01:28:14,620 --> 01:28:15,980
-Quem é você?
+Quem Ã© vocÃª?
 
 895
 01:28:16,060 --> 01:28:17,380
-Onde está a outra garota?
+Onde estÃ¡ a outra garota?
 
 896
 01:28:17,860 --> 01:28:18,980
-Onde está a outra garota?
+Onde estÃ¡ a outra garota?
 
 897
 01:28:19,820 --> 01:28:20,900
@@ -3799,7 +3809,7 @@ Quem te trouxe aqui?
 
 898
 01:28:21,940 --> 01:28:23,380
-Quantos de vocês tem aqui?
+Quantos de vocÃªs tem aqui?
 
 899
 01:28:23,460 --> 01:28:24,660
@@ -3811,7 +3821,7 @@ Responda-me!
 
 901
 01:28:26,740 --> 01:28:27,860
-Quantos de vocês tem aqui?
+Quantos de vocÃªs tem aqui?
 
 902
 01:28:28,140 --> 01:28:30,380
@@ -3832,21 +3842,21 @@ Sinto muito.
 
 906
 01:28:57,780 --> 01:29:00,460
-Não leve para o lado pessoal.
+NÃ£o leve para o lado pessoal.
 
 907
 01:29:13,580 --> 01:29:15,900
-Capitão, estamos deixando o campo.
+CapitÃ£o, estamos deixando o campo.
 
 908
 01:30:07,460 --> 01:30:09,900
 -Vamos!
--Este é o William. O colar dele sumiu.
+-Este Ã© o William. O colar dele sumiu.
 
 909
 01:30:09,980 --> 01:30:11,460
 -Qual colar?
--O que tem a informação.
+-O que tem a informaÃ§Ã£o.
 
 910
 01:30:11,540 --> 01:30:12,740
@@ -3854,7 +3864,7 @@ Vamos.
 
 911
 01:30:20,060 --> 01:30:22,300
-<i>Capitão, estou quase entrando na praça,</i>
+<i>CapitÃ£o, estou quase entrando na praÃ§a,</i>
 
 912
 01:30:22,420 --> 01:30:23,660
@@ -3870,7 +3880,7 @@ Mantenham a calma.
 
 915
 01:30:45,260 --> 01:30:46,660
-<i>O caminho está livre?</i>
+<i>O caminho estÃ¡ livre?</i>
 
 916
 01:30:47,020 --> 01:30:48,380
@@ -3882,7 +3892,7 @@ Tudo livre.
 
 918
 01:30:50,500 --> 01:30:52,420
-<i>Não importa o que aconteça aqui,</i>
+<i>NÃ£o importa o que aconteÃ§a aqui,</i>
 
 919
 01:30:52,700 --> 01:30:54,220
@@ -3890,7 +3900,7 @@ Tudo livre.
 
 920
 01:30:57,140 --> 01:30:59,220
-Seu pneu está furado!
+Seu pneu estÃ¡ furado!
 
 921
 01:30:59,820 --> 01:31:01,060
@@ -3898,21 +3908,21 @@ Lembrem-se,
 
 922
 01:31:01,140 --> 01:31:04,380
-não importa o que aconteça,
+nÃ£o importa o que aconteÃ§a,
 peguem a garota e me sigam.
 
 923
 01:31:04,620 --> 01:31:07,660
-Não tenha medo, Aisha. Fique comigo.
+NÃ£o tenha medo, Aisha. Fique comigo.
 
 924
 01:31:09,260 --> 01:31:11,420
-Espere. Seu pneu está vazando.
+Espere. Seu pneu estÃ¡ vazando.
 
 925
 01:31:11,980 --> 01:31:14,060
-Capitão, eles pararam
-o veículo da Li Tang.
+CapitÃ£o, eles pararam
+o veÃ­culo da Li Tang.
 
 926
 01:31:37,860 --> 01:31:39,900
@@ -3921,7 +3931,7 @@ Intrusos!
 927
 01:32:44,020 --> 01:32:46,820
 Vamos recuar para o ferro-velho.
-Nos dê cobertura!
+Nos dÃª cobertura!
 
 928
 01:32:51,660 --> 01:32:52,740
@@ -3929,7 +3939,7 @@ Siga-me.
 
 929
 01:32:58,220 --> 01:32:59,380
-Vá!
+VÃ¡!
 
 930
 01:33:03,780 --> 01:33:05,020
@@ -3949,15 +3959,15 @@ Coloque isto!
 
 934
 01:33:23,180 --> 01:33:24,540
-Hong Xu, qual a sua situação?
+Hong Xu, qual a sua situaÃ§Ã£o?
 
 935
 01:33:24,620 --> 01:33:27,100
-<i>Capitão, estamos presos na praça.</i>
+<i>CapitÃ£o, estamos presos na praÃ§a.</i>
 
 936
 01:33:27,740 --> 01:33:28,620
-<i>E você?</i>
+<i>E vocÃª?</i>
 
 937
 01:33:28,820 --> 01:33:32,580
@@ -3970,7 +3980,7 @@ evacuem todos pelos fundos.
 
 939
 01:33:33,860 --> 01:33:34,860
-<i>Qual é o seu plano?</i>
+<i>Qual Ã© o seu plano?</i>
 
 940
 01:33:34,940 --> 01:33:36,020
@@ -3984,11 +3994,11 @@ que a Mei Deng fique a salvo.
 942
 01:33:41,500 --> 01:33:44,220
 27 TONELADAS DE BOLO AMARELO
-HÉRCULES CHEGA ÀS 16H25
+HÃ‰RCULES CHEGA Ã€S 16H25
 
 943
 01:34:21,420 --> 01:34:23,620
-Continuem aí.
+Continuem aÃ­.
 Vou cuidar dos franco-atiradores.
 
 944
@@ -3997,7 +4007,7 @@ Dong Li, eles me viram.
 
 945
 01:34:27,420 --> 01:34:28,620
-Ele está por perto.
+Ele estÃ¡ por perto.
 
 946
 01:34:28,820 --> 01:34:30,060
@@ -4009,7 +4019,7 @@ Encontre-o depressa.
 
 948
 01:34:32,300 --> 01:34:33,260
-Está na escuta?
+EstÃ¡ na escuta?
 
 949
 01:34:33,860 --> 01:34:34,700
@@ -4017,11 +4027,11 @@ Entendido.
 
 950
 01:34:38,980 --> 01:34:41,260
-Capitão, o franco-atirador me encontrou.
+CapitÃ£o, o franco-atirador me encontrou.
 
 951
 01:34:41,860 --> 01:34:44,300
-<i>Perdi minha posição. Tome cuidado.</i>
+<i>Perdi minha posiÃ§Ã£o. Tome cuidado.</i>
 
 952
 01:35:31,860 --> 01:35:33,940
@@ -4033,16 +4043,16 @@ Li Tong!
 
 954
 01:35:42,460 --> 01:35:44,380
-Você está bem? Me responda!
+VocÃª estÃ¡ bem? Me responda!
 
 955
 01:35:44,580 --> 01:35:46,940
-<i>Nossa saída está na linha de fogo.
-Indo na sua direção!</i>
+<i>Nossa saÃ­da estÃ¡ na linha de fogo.
+Indo na sua direÃ§Ã£o!</i>
 
 956
 01:35:51,700 --> 01:35:53,620
-Chen Lu, me dê uma granada!
+Chen Lu, me dÃª uma granada!
 
 957
 01:35:55,220 --> 01:35:56,500
@@ -4050,7 +4060,7 @@ Aqui!
 
 958
 01:35:59,060 --> 01:36:00,980
-<i>Li Tong, vá para os fundos.</i>
+<i>Li Tong, vÃ¡ para os fundos.</i>
 
 959
 01:36:01,980 --> 01:36:03,140
@@ -4070,7 +4080,7 @@ Vou te dar cobertura!
 
 963
 01:36:13,260 --> 01:36:14,180
-Vá!
+VÃ¡!
 
 964
 01:36:24,300 --> 01:36:25,660
@@ -4078,7 +4088,7 @@ Vamos.
 
 965
 01:36:30,780 --> 01:36:32,540
-<i>Chen Lu, dê cobertura à Li Tong.</i>
+<i>Chen Lu, dÃª cobertura Ã  Li Tong.</i>
 
 966
 01:36:32,620 --> 01:36:34,140
@@ -4086,7 +4096,7 @@ Vamos.
 
 967
 01:36:36,900 --> 01:36:38,300
-Li Tong, vá!
+Li Tong, vÃ¡!
 
 968
 01:36:38,420 --> 01:36:39,660
@@ -4111,11 +4121,11 @@ Puxe este pino.
 973
 01:36:58,940 --> 01:37:00,820
 Quando disser para jogar,
-você joga. Entendeu?
+vocÃª joga. Entendeu?
 
 974
 01:37:02,780 --> 01:37:04,180
-Vamos lutar até o fim.
+Vamos lutar atÃ© o fim.
 
 975
 01:37:07,940 --> 01:37:08,740
@@ -4135,39 +4145,39 @@ Exploda-os!
 
 979
 01:37:38,860 --> 01:37:40,060
-Está na escuta?
+EstÃ¡ na escuta?
 
 980
 01:37:40,140 --> 01:37:41,780
-<i>Mate os reféns!</i>
+<i>Mate os refÃ©ns!</i>
 
 981
 01:37:42,260 --> 01:37:44,420
-Eles vão matar os reféns!
+Eles vÃ£o matar os refÃ©ns!
 
 982
 01:37:44,500 --> 01:37:45,900
-Shitou, vá ao campo agora!
+Shitou, vÃ¡ ao campo agora!
 
 983
 01:37:45,980 --> 01:37:48,580
-Salve os reféns! Não deixe que os matem!
+Salve os refÃ©ns! NÃ£o deixe que os matem!
 
 984
 01:38:32,740 --> 01:38:34,420
-<i>Senhor, a saída está livre.</i>
+<i>Senhor, a saÃ­da estÃ¡ livre.</i>
 
 985
 01:38:34,500 --> 01:38:35,740
-<i>Os reféns estão todos a salvo.</i>
+<i>Os refÃ©ns estÃ£o todos a salvo.</i>
 
 986
 01:38:35,820 --> 01:38:36,780
-<i>Venha logo para cá!</i>
+<i>Venha logo para cÃ¡!</i>
 
 987
 01:38:47,460 --> 01:38:49,940
-<i>Shitou, a saída está bloqueada!</i>
+<i>Shitou, a saÃ­da estÃ¡ bloqueada!</i>
 
 988
 01:38:50,020 --> 01:38:50,940
@@ -4179,7 +4189,7 @@ Afastem-se e se escondam.
 
 990
 01:38:59,540 --> 01:39:01,060
-<i>Hong Xu, estou sem munição!</i>
+<i>Hong Xu, estou sem muniÃ§Ã£o!</i>
 
 991
 01:39:01,140 --> 01:39:02,180
@@ -4195,13 +4205,13 @@ Entendido.
 
 994
 01:39:22,780 --> 01:39:24,980
-<i>Há uma saída para a praça
-à direita do ferro-velho.</i>
+<i>HÃ¡ uma saÃ­da para a praÃ§a
+Ã  direita do ferro-velho.</i>
 
 995
 01:39:25,060 --> 01:39:27,460
-<i>Use essa saída para escaparem.
-Vou dar cobertura a vocês.</i>
+<i>Use essa saÃ­da para escaparem.
+Vou dar cobertura a vocÃªs.</i>
 
 996
 01:39:27,540 --> 01:39:28,660
@@ -4218,7 +4228,7 @@ Chen Lu, Li Tong.
 999
 01:39:40,260 --> 01:39:42,020
 <i>Vou lidar
-com os inimigos próximos a vocês.</i>
+com os inimigos prÃ³ximos a vocÃªs.</i>
 
 1000
 01:39:42,100 --> 01:39:43,660
@@ -4230,16 +4240,16 @@ com os inimigos próximos a vocês.</i>
 
 1002
 01:39:45,180 --> 01:39:46,220
-depois que você escapar,
+depois que vocÃª escapar,
 
 1003
 01:39:46,380 --> 01:39:47,820
--vá ao ponto de encontro.
+-vÃ¡ ao ponto de encontro.
 <i>-Entendido.</i>
 
 1004
 01:39:47,900 --> 01:39:50,380
-<i>Capitão, vou te resgatar em seguida!</i>
+<i>CapitÃ£o, vou te resgatar em seguida!</i>
 
 1005
 01:39:51,220 --> 01:39:52,060
@@ -4255,11 +4265,11 @@ Atirar!
 
 1008
 01:40:34,060 --> 01:40:35,180
-Capitão, qual a sua posição?
+CapitÃ£o, qual a sua posiÃ§Ã£o?
 
 1009
 01:40:35,260 --> 01:40:36,980
-<i>Estou à direita da passagem principal.</i>
+<i>Estou Ã  direita da passagem principal.</i>
 
 1010
 01:40:37,060 --> 01:40:38,620
@@ -4291,7 +4301,7 @@ Mexam-se!
 
 1017
 01:41:13,900 --> 01:41:15,900
-<i>Capitão, encontramos um veículo.</i>
+<i>CapitÃ£o, encontramos um veÃ­culo.</i>
 
 1018
 01:41:15,980 --> 01:41:16,900
@@ -4299,15 +4309,15 @@ Mexam-se!
 
 1019
 01:41:16,980 --> 01:41:18,100
-<i>A Mei Deng está a salvo.</i>
+<i>A Mei Deng estÃ¡ a salvo.</i>
 
 1020
 01:41:23,660 --> 01:41:24,700
-<i>Vá!</i>
+<i>VÃ¡!</i>
 
 1021
 01:41:41,580 --> 01:41:43,020
-<i>Yu Zhuang, está na escuta?</i>
+<i>Yu Zhuang, estÃ¡ na escuta?</i>
 
 1022
 01:41:43,100 --> 01:41:44,860
@@ -4321,36 +4331,36 @@ e aguarde ordens.</i>
 
 1024
 01:41:47,460 --> 01:41:49,020
-<i>-Está na escuta?</i>
+<i>-EstÃ¡ na escuta?</i>
 -Entendido.
 
 1025
 01:41:49,100 --> 01:41:51,220
-Base, aqui é a Unidade 1.
+Base, aqui Ã© a Unidade 1.
 
 1026
 01:41:52,900 --> 01:41:54,660
-Base, aqui é a Unidade 1.
+Base, aqui Ã© a Unidade 1.
 
 1027
 01:41:55,780 --> 01:41:58,180
-<i>Unidade 1, está na escuta?</i>
+<i>Unidade 1, estÃ¡ na escuta?</i>
 
 1028
 01:41:58,780 --> 01:42:00,740
-Capitão, perdemos o sinal da Jiaolong.
+CapitÃ£o, perdemos o sinal da Jiaolong.
 
 1029
 01:42:03,500 --> 01:42:05,980
-Tentamos contatá-la, mas sem sucesso.
+Tentamos contatÃ¡-la, mas sem sucesso.
 
 1030
 01:42:06,580 --> 01:42:08,060
-E as posições individuais deles?
+E as posiÃ§Ãµes individuais deles?
 
 1031
 01:42:08,140 --> 01:42:09,660
-Também perdemos o sinal.
+TambÃ©m perdemos o sinal.
 
 1032
 01:42:11,660 --> 01:42:13,420
@@ -4362,23 +4372,23 @@ Sim, senhor.
 
 1034
 01:42:15,380 --> 01:42:16,380
-Capitão.
+CapitÃ£o.
 
 1035
 01:42:18,180 --> 01:42:19,900
-O navio está sob ameaça.
+O navio estÃ¡ sob ameaÃ§a.
 
 1036
 01:42:19,980 --> 01:42:21,420
-Para proteger os cidadãos a bordo,
+Para proteger os cidadÃ£os a bordo,
 
 1037
 01:42:21,500 --> 01:42:23,380
-vamos tirá-lo do porto.
+vamos tirÃ¡-lo do porto.
 
 1038
 01:42:23,460 --> 01:42:24,420
-Está bem.
+EstÃ¡ bem.
 
 1039
 01:42:25,940 --> 01:42:28,580
@@ -4386,7 +4396,7 @@ Deixe-me ver se nossos superiores
 
 1040
 01:42:28,740 --> 01:42:31,140
-vão aprovar o envio de um drone.
+vÃ£o aprovar o envio de um drone.
 
 1041
 01:42:32,220 --> 01:42:33,260
@@ -4402,7 +4412,7 @@ Shun Gu.
 
 1044
 01:45:56,020 --> 01:45:57,500
-Capitão, está na escuta?
+CapitÃ£o, estÃ¡ na escuta?
 
 1045
 01:46:02,940 --> 01:46:04,700
@@ -4418,20 +4428,20 @@ Conseguiu algum sinal?
 
 1048
 01:47:07,700 --> 01:47:09,580
--Não.
+-NÃ£o.
 -Vamos ao ponto de encontro.
 
 1049
 01:47:09,660 --> 01:47:10,620
-Vá.
+VÃ¡.
 
 1050
 01:47:14,780 --> 01:47:15,820
-Shitou, não se mexa!
+Shitou, nÃ£o se mexa!
 
 1051
 01:47:17,020 --> 01:47:18,140
-Não se mexa!
+NÃ£o se mexa!
 
 1052
 01:47:39,940 --> 01:47:41,580
@@ -4451,11 +4461,11 @@ Abriguem-se!
 
 1056
 01:48:09,860 --> 01:48:10,860
-Não se mexa!
+NÃ£o se mexa!
 
 1057
 01:48:12,060 --> 01:48:13,580
-Não se mexa!
+NÃ£o se mexa!
 
 1058
 01:48:26,220 --> 01:48:27,580
@@ -4463,11 +4473,11 @@ Shitou, aguente firme!
 
 1059
 01:49:22,180 --> 01:49:23,540
-Li Tong e outros estão em perigo.
+Li Tong e outros estÃ£o em perigo.
 
 1060
 01:49:24,100 --> 01:49:25,100
-Eles estão lá embaixo.
+Eles estÃ£o lÃ¡ embaixo.
 
 1061
 01:49:28,700 --> 01:49:29,660
@@ -4480,12 +4490,12 @@ com a Jiaolong.
 
 1063
 01:49:31,580 --> 01:49:34,940
--Há uma tempestade de areia por perto.
--Você fez contato?
+-HÃ¡ uma tempestade de areia por perto.
+-VocÃª fez contato?
 
 1064
 01:49:35,020 --> 01:49:36,540
-Ainda não por causa da interferência.
+Ainda nÃ£o por causa da interferÃªncia.
 
 1065
 01:49:36,620 --> 01:49:37,540
@@ -4497,11 +4507,11 @@ Temos sete minutos.
 
 1067
 01:50:00,020 --> 01:50:01,500
-Nós precisamos mais.
+NÃ³s precisamos mais.
 
 1068
 01:50:07,420 --> 01:50:08,580
-Fiquem aí!
+Fiquem aÃ­!
 
 1069
 01:50:08,900 --> 01:50:10,540
@@ -4521,15 +4531,15 @@ Chen Lu, proteja a entrada.
 
 1073
 01:51:11,180 --> 01:51:12,580
-Está tudo bem, Shitou.
+EstÃ¡ tudo bem, Shitou.
 
 1074
 01:51:13,220 --> 01:51:14,500
-Está tudo bem.
+EstÃ¡ tudo bem.
 
 1075
 01:51:23,780 --> 01:51:25,540
-Está doendo...
+EstÃ¡ doendo...
 
 1076
 01:51:31,700 --> 01:51:33,820
@@ -4537,7 +4547,7 @@ Coma um doce. Ele vai ajudar.
 
 1077
 01:51:33,900 --> 01:51:36,380
-Você não diz que o doce tira a dor?
+VocÃª nÃ£o diz que o doce tira a dor?
 
 1078
 01:51:36,460 --> 01:51:37,780
@@ -4589,7 +4599,7 @@ Tanque alfa, ataque pela direita!
 
 1090
 01:53:01,940 --> 01:53:04,100
-Vire 20 graus à esquerda, depressa!
+Vire 20 graus Ã  esquerda, depressa!
 
 1091
 01:53:14,300 --> 01:53:15,460
@@ -4601,7 +4611,7 @@ A blindagem reativa os protege.
 
 1093
 01:53:18,780 --> 01:53:19,780
-<i>Faça a curva à esquerda.</i>
+<i>FaÃ§a a curva Ã  esquerda.</i>
 
 1094
 01:53:19,860 --> 01:53:21,580
@@ -4617,16 +4627,16 @@ Atingiram o sistema de resfriamento.
 
 1097
 01:53:42,140 --> 01:53:43,540
-Não vamos durar muito tempo.
+NÃ£o vamos durar muito tempo.
 
 1098
 01:53:52,180 --> 01:53:54,180
-Capitão, há uma tempestade de areia
-à frente.
+CapitÃ£o, hÃ¡ uma tempestade de areia
+Ã  frente.
 
 1099
 01:53:55,020 --> 01:53:56,700
-Vá na direção dela.
+VÃ¡ na direÃ§Ã£o dela.
 
 1100
 01:53:56,780 --> 01:53:58,180
@@ -4642,7 +4652,7 @@ atingiram nossa torre do tanque.
 
 1103
 01:54:19,060 --> 01:54:20,220
-<i>Não deixe que mirem em nós!</i>
+<i>NÃ£o deixe que mirem em nÃ³s!</i>
 
 1104
 01:54:32,180 --> 01:54:33,060
@@ -4650,7 +4660,7 @@ Hong Xu,
 
 1105
 01:54:33,700 --> 01:54:36,060
-vou usar sua condução para mirar.
+vou usar sua conduÃ§Ã£o para mirar.
 
 1106
 01:54:36,420 --> 01:54:37,580
@@ -4674,7 +4684,7 @@ O aparelho tem um detonador.
 
 1111
 01:54:46,140 --> 01:54:47,780
-Quando eu disser fogo, você aperta.
+Quando eu disser fogo, vocÃª aperta.
 
 1112
 01:54:47,860 --> 01:54:49,260
@@ -4694,16 +4704,16 @@ deixe a blindagem reativa ser atingida.
 
 1116
 01:55:15,540 --> 01:55:17,580
-<i>Primeiro, vire à esquerda,
-depois à direita!</i>
+<i>Primeiro, vire Ã  esquerda,
+depois Ã  direita!</i>
 
 1117
 01:55:21,660 --> 01:55:23,620
-Hong Xu, vire à esquerda!
+Hong Xu, vire Ã  esquerda!
 
 1118
 01:55:42,060 --> 01:55:43,500
-<i>Vire à direita!</i>
+<i>Vire Ã  direita!</i>
 
 1119
 01:55:45,780 --> 01:55:47,420
@@ -4715,7 +4725,7 @@ Atirar!
 
 1121
 01:56:08,420 --> 01:56:09,380
-<i>Capitão!</i>
+<i>CapitÃ£o!</i>
 
 1122
 01:56:09,460 --> 01:56:11,580
@@ -4723,7 +4733,7 @@ Estamos presos!
 
 1123
 01:56:21,380 --> 01:56:23,780
-<i>Capitão, dou um jeito no tanque deles.</i>
+<i>CapitÃ£o, dou um jeito no tanque deles.</i>
 
 1124
 01:56:24,580 --> 01:56:25,460
@@ -4747,11 +4757,11 @@ Entendeu?
 
 1129
 01:57:29,740 --> 01:57:30,860
-Espere aqui. Não se mexa!
+Espere aqui. NÃ£o se mexa!
 
 1130
 01:58:06,180 --> 01:58:07,380
-Capitão, comissário,
+CapitÃ£o, comissÃ¡rio,
 
 1131
 01:58:07,460 --> 01:58:09,660
@@ -4759,20 +4769,20 @@ o drone encontrou o Rui Yang e o Hong Xu,
 
 1132
 01:58:09,740 --> 01:58:11,620
-mas ainda não fizemos contato.
+mas ainda nÃ£o fizemos contato.
 
 1133
 01:58:12,180 --> 01:58:15,660
-Informando. O drone perdeu potência
+Informando. O drone perdeu potÃªncia
 e pode cair a qualquer momento.
 
 1134
 01:58:38,300 --> 01:58:39,820
-Estão atacando! Depressa!
+EstÃ£o atacando! Depressa!
 
 1135
 01:58:58,540 --> 01:58:59,580
-Carreguem rápido!
+Carreguem rÃ¡pido!
 
 1136
 01:59:07,300 --> 01:59:08,300
@@ -4780,7 +4790,7 @@ Carreguem rápido!
 
 1137
 01:59:23,500 --> 01:59:24,460
-Você está bem?
+VocÃª estÃ¡ bem?
 
 1138
 01:59:24,540 --> 01:59:26,580
@@ -4788,19 +4798,19 @@ Estou.
 
 1139
 01:59:47,140 --> 01:59:48,420
-Você atira bem.
+VocÃª atira bem.
 
 1140
 02:00:27,180 --> 02:00:28,380
-Capitão.
+CapitÃ£o.
 
 1141
 02:00:29,140 --> 02:00:30,820
-Nossa missão foi cumprida.
+Nossa missÃ£o foi cumprida.
 
 1142
 02:00:50,500 --> 02:00:51,700
-Capitão Yang.
+CapitÃ£o Yang.
 
 1143
 02:00:52,420 --> 02:00:53,580
@@ -4808,7 +4818,7 @@ Muito obrigada.
 
 1144
 02:01:12,260 --> 02:01:13,780
--Capitão Yang.
+-CapitÃ£o Yang.
 -Obrigado.
 
 1145
@@ -4819,11 +4829,11 @@ com seu navio,</i>
 1146
 02:01:18,740 --> 02:01:21,940
 <i>e somos incapazes de lidar
-com a operação "bolo amarelo" no momento.</i>
+com a operaÃ§Ã£o "bolo amarelo" no momento.</i>
 
 1147
 02:01:22,020 --> 02:01:24,060
-<i>Só podemos fornecer um helicóptero.</i>
+<i>SÃ³ podemos fornecer um helicÃ³ptero.</i>
 
 1148
 02:01:26,420 --> 02:01:27,900
@@ -4839,7 +4849,7 @@ Lembre-se de devolver.
 
 1151
 02:01:39,420 --> 02:01:42,420
-Não podemos simplesmente ignorar
+NÃ£o podemos simplesmente ignorar
 essa crise do "bolo amarelo".
 
 1152
@@ -4850,7 +4860,7 @@ a 80km daqui,
 1153
 02:01:46,180 --> 02:01:48,260
 mas, em 40 minutos,
-os terroristas vão partir
+os terroristas vÃ£o partir
 
 1154
 02:01:48,380 --> 02:01:50,100
@@ -4863,7 +4873,7 @@ mas quero salientar uma coisa:
 
 1156
 02:01:53,500 --> 02:01:56,620
-essa operação ainda não foi autorizada.
+essa operaÃ§Ã£o ainda nÃ£o foi autorizada.
 
 1157
 02:02:00,220 --> 02:02:02,380
@@ -4871,7 +4881,7 @@ Se fizermos isso, faremos juntos.
 
 1158
 02:02:03,860 --> 02:02:04,780
-Capitão.
+CapitÃ£o.
 
 1159
 02:02:05,180 --> 02:02:06,820
@@ -4887,7 +4897,7 @@ Vou aguardar suas ordens.
 
 1162
 02:03:43,060 --> 02:03:45,020
-<i>Nosso alvo é o "bolo amarelo".</i>
+<i>Nosso alvo Ã© o "bolo amarelo".</i>
 
 1163
 02:03:45,100 --> 02:03:46,220
@@ -4896,12 +4906,12 @@ Vou aguardar suas ordens.
 1164
 02:03:46,820 --> 02:03:49,020
 <i>Li Tong,
-levaremos o avião e o "bolo amarelo".</i>
+levaremos o aviÃ£o e o "bolo amarelo".</i>
 
 1165
 02:03:49,100 --> 02:03:51,420
 <i>Shun Gu e Dong Li,
-encontrem uma posição e dê cobertura.</i>
+encontrem uma posiÃ§Ã£o e dÃª cobertura.</i>
 
 1166
 02:03:51,500 --> 02:03:52,540
@@ -4909,7 +4919,7 @@ encontrem uma posição e dê cobertura.</i>
 
 1167
 02:04:14,900 --> 02:04:16,700
-<i>Capitão, estamos em posição.</i>
+<i>CapitÃ£o, estamos em posiÃ§Ã£o.</i>
 
 1168
 02:04:22,220 --> 02:04:23,180
@@ -4917,7 +4927,7 @@ Limpo.
 
 1169
 02:04:42,700 --> 02:04:44,620
-Capitão, assumimos o controle da torre.
+CapitÃ£o, assumimos o controle da torre.
 
 1170
 02:04:45,140 --> 02:04:46,900
@@ -4925,7 +4935,7 @@ Capitão, assumimos o controle da torre.
 
 1171
 02:04:53,420 --> 02:04:55,260
-Pode ir primeiro. Vou no próximo veículo.
+Pode ir primeiro. Vou no prÃ³ximo veÃ­culo.
 
 1172
 02:05:07,460 --> 02:05:08,460
@@ -4933,16 +4943,16 @@ Chefe,
 
 1173
 02:05:09,020 --> 02:05:11,660
-o representante dos rebeldes chegará
+o representante dos rebeldes chegarÃ¡
 daqui a cinco minutos.
 
 1174
 02:05:14,100 --> 02:05:16,580
-<i>Atenção, franco-atirador.</i>
+<i>AtenÃ§Ã£o, franco-atirador.</i>
 
 1175
 02:05:16,660 --> 02:05:18,980
-<i>A Li Tong está debaixo do veículo.</i>
+<i>A Li Tong estÃ¡ debaixo do veÃ­culo.</i>
 
 1176
 02:05:19,900 --> 02:05:21,220
@@ -4950,7 +4960,7 @@ Estou vendo.
 
 1177
 02:05:24,860 --> 02:05:27,180
-Fez um ótimo trabalho.
+Fez um Ã³timo trabalho.
 
 1178
 02:05:27,940 --> 02:05:31,140
@@ -4959,12 +4969,12 @@ pode treinar para ser franco-atirador.
 
 1179
 02:05:32,500 --> 02:05:36,060
-Se eu fosse tão bom assim,
+Se eu fosse tÃ£o bom assim,
 iria acertar de primeira.
 
 1180
 02:05:37,380 --> 02:05:40,220
-Até os experientes se sentem pressionados.
+AtÃ© os experientes se sentem pressionados.
 
 1181
 02:05:40,900 --> 02:05:42,020
@@ -4972,19 +4982,19 @@ Aceite.
 
 1182
 02:05:42,620 --> 02:05:44,460
-A pressão o mantém focado.
+A pressÃ£o o mantÃ©m focado.
 
 1183
 02:06:36,180 --> 02:06:37,900
-Não sabia que seria você.
+NÃ£o sabia que seria vocÃª.
 
 1184
 02:06:39,420 --> 02:06:41,500
-Já faz um bom tempo, chefe.
+JÃ¡ faz um bom tempo, chefe.
 
 1185
 02:06:41,580 --> 02:06:44,860
-Você não vem já faz tempo.
+VocÃª nÃ£o vem jÃ¡ faz tempo.
 
 1186
 02:06:45,700 --> 02:06:46,980
@@ -5000,34 +5010,34 @@ Por que voltar?
 
 1189
 02:06:55,660 --> 02:07:02,180
-Não estamos lutando essa guerra por você.
+NÃ£o estamos lutando essa guerra por vocÃª.
 
 1190
 02:07:04,580 --> 02:07:06,940
-E quanto à fórmula, chefe?
+E quanto Ã  fÃ³rmula, chefe?
 
 1191
 02:07:31,900 --> 02:07:33,900
 Escutem, todos.
-Houve uma mudança no nosso plano.
+Houve uma mudanÃ§a no nosso plano.
 
 1192
 02:07:33,980 --> 02:07:35,700
-<i>Tentarei pegar o líder deles.</i>
+<i>Tentarei pegar o lÃ­der deles.</i>
 
 1193
 02:07:35,860 --> 02:07:39,980
 <i>Dong Li, quando eu sair,
-virão atrás de mim. Me deem cobertura.</i>
+virÃ£o atrÃ¡s de mim. Me deem cobertura.</i>
 
 1194
 02:07:40,140 --> 02:07:43,140
 <i>Shun Gu, ajude a Li Tong
-a assumir o controle do avião.</i>
+a assumir o controle do aviÃ£o.</i>
 
 1195
 02:07:43,220 --> 02:07:44,220
-<i>Câmbio.</i>
+<i>CÃ¢mbio.</i>
 
 1196
 02:07:46,580 --> 02:07:47,460
@@ -5035,11 +5045,11 @@ Sim, senhor.
 
 1197
 02:07:48,020 --> 02:07:50,580
-<i>Os rebeldes vão nos comer vivos.</i>
+<i>Os rebeldes vÃ£o nos comer vivos.</i>
 
 1198
 02:07:50,700 --> 02:07:53,980
-<i>Você deve recuperar
+<i>VocÃª deve recuperar
 todos os "bolos amarelos"</i>
 
 1199
@@ -5049,7 +5059,7 @@ todos os "bolos amarelos"</i>
 1200
 02:07:56,780 --> 02:07:58,780
 <i>A partir de agora,
-essa guerra pertence a nós.</i>
+essa guerra pertence a nÃ³s.</i>
 
 1201
 02:07:58,860 --> 02:07:59,860
@@ -5065,11 +5075,11 @@ Estamos sob ataque!
 
 1204
 02:08:11,940 --> 02:08:13,380
-Li Tong, assuma o controle do avião.
+Li Tong, assuma o controle do aviÃ£o.
 
 1205
 02:08:18,220 --> 02:08:20,980
-Não se mexam.
+NÃ£o se mexam.
 
 1206
 02:08:50,980 --> 02:08:52,140
@@ -5081,7 +5091,7 @@ Dong Li, tome cuidado.
 
 1208
 02:09:02,900 --> 02:09:04,700
-Dong Li, elimine o último carro!
+Dong Li, elimine o Ãºltimo carro!
 
 1209
 02:09:33,780 --> 02:09:35,020
@@ -5093,11 +5103,11 @@ Shun Gu, Dong Li!
 
 1211
 02:09:38,500 --> 02:09:40,420
-Li Tong, está na escuta?
+Li Tong, estÃ¡ na escuta?
 
 1212
 02:10:25,660 --> 02:10:27,740
-Não se mexa!
+NÃ£o se mexa!
 
 1213
 02:10:30,580 --> 02:10:31,660
@@ -5105,7 +5115,7 @@ Shun Gu,
 
 1214
 02:10:31,740 --> 02:10:32,780
-você está bem?
+vocÃª estÃ¡ bem?
 
 1215
 02:10:45,500 --> 02:10:46,340
@@ -5125,7 +5135,7 @@ Dong Li, use a minha arma.
 
 1219
 02:10:59,260 --> 02:11:00,700
-Não há tempo para pensar.
+NÃ£o hÃ¡ tempo para pensar.
 
 1220
 02:11:03,300 --> 02:11:04,620
@@ -5133,11 +5143,11 @@ Solte agora
 
 1221
 02:11:04,820 --> 02:11:06,300
-ou vou matá-la!
+ou vou matÃ¡-la!
 
 1222
 02:11:12,420 --> 02:11:15,020
-Dong Li, domine a pressão.
+Dong Li, domine a pressÃ£o.
 
 1223
 02:11:16,220 --> 02:11:17,940
@@ -5145,16 +5155,16 @@ O Xing Luo te escolheu por um motivo.
 
 1224
 02:11:19,500 --> 02:11:22,220
-Capitão, vou eliminar
+CapitÃ£o, vou eliminar
 o cara com a Li Tong.
 
 1225
 02:11:23,740 --> 02:11:24,980
-Estou contado com você.
+Estou contado com vocÃª.
 
 1226
 02:11:27,940 --> 02:11:30,460
-Solte agora! Irei matá-la!
+Solte agora! Irei matÃ¡-la!
 
 1227
 02:11:35,980 --> 02:11:36,740
@@ -5175,11 +5185,11 @@ Para ficarmos mais fortes!
 
 1231
 02:12:12,740 --> 02:12:14,020
-MÍSSIL SUPERFÍCIE-AR
+MÃSSIL SUPERFÃCIE-AR
 
 1232
 02:12:43,460 --> 02:12:45,420
-<i>Capitão, os rebeldes estão atrás de nós!</i>
+<i>CapitÃ£o, os rebeldes estÃ£o atrÃ¡s de nÃ³s!</i>
 
 1233
 02:13:01,060 --> 02:13:01,900
@@ -5187,7 +5197,7 @@ Acalmem-se!
 
 1234
 02:13:02,180 --> 02:13:03,860
-Sou das Forças Armadas Chinesas.
+Sou das ForÃ§as Armadas Chinesas.
 
 1235
 02:13:04,820 --> 02:13:06,460
@@ -5199,15 +5209,15 @@ Depressa!
 
 1237
 02:14:00,580 --> 02:14:02,420
-Marchem à frente!
+Marchem Ã  frente!
 
 1238
 02:14:09,820 --> 02:14:11,700
-Virem à direita!
+Virem Ã  direita!
 
 1239
 02:14:25,940 --> 02:14:27,060
-Atenção!
+AtenÃ§Ã£o!
 
 1240
 02:14:35,580 --> 02:14:38,460
@@ -5219,7 +5229,7 @@ TIAN-DE ZHANG
 
 1242
 02:15:00,660 --> 02:15:02,100
-Continência!
+ContinÃªncia!
 
 1243
 02:15:28,220 --> 02:15:31,420
@@ -5227,12 +5237,12 @@ MAR DA CHINA MERIDIONAL
 
 1244
 02:15:43,660 --> 02:15:46,140
-<i>Atenção, aqui é a Marinha Chinesa.</i>
+<i>AtenÃ§Ã£o, aqui Ã© a Marinha Chinesa.</i>
 
 1245
 02:15:46,220 --> 02:15:48,580
-<i>Você está prestes a entrar
-em águas chinesas.</i>
+<i>VocÃª estÃ¡ prestes a entrar
+em Ã¡guas chinesas.</i>
 
 1246
 02:15:48,660 --> 02:15:51,860
@@ -5240,12 +5250,12 @@ em águas chinesas.</i>
 
 1247
 02:15:52,540 --> 02:15:55,460
-<i>Atenção, aqui é a Marinha Chinesa.</i>
+<i>AtenÃ§Ã£o, aqui Ã© a Marinha Chinesa.</i>
 
 1248
 02:15:55,540 --> 02:15:57,860
-<i>Você está prestes a entrar
-em águas chinesas.</i>
+<i>VocÃª estÃ¡ prestes a entrar
+em Ã¡guas chinesas.</i>
 
 1249
 02:15:58,180 --> 02:16:00,140
@@ -5270,11 +5280,11 @@ BASEADO EM FATOS REAIS
 1254
 02:16:38,700 --> 02:16:40,900
 Chineses, quando em crise,
-não importa onde estejam,
+nÃ£o importa onde estejam,
 
 1255
 02:16:40,980 --> 02:16:43,060
-peçam ajuda na linha direta
+peÃ§am ajuda na linha direta
 do Min. do Exterior.
 
 1256
