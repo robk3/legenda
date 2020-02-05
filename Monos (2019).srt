@@ -1,7 +1,12 @@
-﻿1
-00:01:55,197 --> 00:01:57,197
-Legendas:
-<i>Subesticados.<i>
+1
+00:00:00,167 --> 00:00:08,000
+Baixe ja nosso aplicativo na play store
+Procure por: Cine House ou Smart Play
+
+1.1
+00:00:08,625 --> 00:00:16,628
+Cine House e SmartFlix.tv
+Agradece a Preferencia
 
 2
 00:02:14,384 --> 00:02:15,684
