@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:23,305 --> 00:00:25,697
 Este é o melhor ponto
 que podemos aprender
