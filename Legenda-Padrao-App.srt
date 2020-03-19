@@ -1,13 +1,15 @@
 1
 00:00:00,167 --> 00:00:04,000
 Nós avalie na Play Store ⭐⭐⭐⭐⭐
-Ei você ai que que ainda não deu sua nota,
 
 2
-00:00:04,005 --> 00:00:08,250
-nos avalie pois sua avaliação e muito importante
-para nos.
+00:00:04,000 --> 00:00:08,000
+Ei você ai voce mesmo que ainda não deu sua nota
 
 3
-00:00:08,255 --> 00:00:012,250
+00:00:08,005 --> 00:00:012,007
+Nos avalie pois sua avaliação e muito importante
+
+4
+00:00:012,007 --> 00:00:016,008
 Conto com você para nos ajudar ⭐⭐⭐⭐⭐
