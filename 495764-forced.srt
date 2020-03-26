@@ -1,6 +1,6 @@
 1
 01:01:31,024 --> 01:01:33,526
-Ouvi dizer que você conhece
+Ouvi dizer que vocÃª conhece
 todos os marginais
 
 2
@@ -14,5 +14,5 @@ para encontrar uma pessoa.
 
 4
 01:01:43,703 --> 01:01:46,831
-Conheço todo mundo, parece, menos você.
+ConheÃ§o todo mundo, parece, menos vocÃª.
 
