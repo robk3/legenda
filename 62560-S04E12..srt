@@ -1,7 +1,7 @@
 1
 00:00:06,950 --> 00:00:08,787
 <i>E se eu dissesse
-que é possível fazer</i>
+que Ã© possÃ­vel fazer</i>
 
 2
 00:00:08,812 --> 00:00:10,362
@@ -20,12 +20,12 @@ no que eu acredito?</i>
 
 5
 00:00:15,485 --> 00:00:17,085
-Que não é o fim.
+Que nÃ£o Ã© o fim.
 
 6
 00:00:17,317 --> 00:00:19,767
 <i>Que existe outro mundo
-para nós duas.</i>
+para nÃ³s duas.</i>
 
 7
 00:00:20,729 --> 00:00:22,550
@@ -33,23 +33,23 @@ para nós duas.</i>
 
 8
 00:00:22,575 --> 00:00:25,158
-Você acha que Angela morreu,
-mas ela não morreu.
+VocÃª acha que Angela morreu,
+mas ela nÃ£o morreu.
 
 9
 00:00:25,183 --> 00:00:27,640
 <i>Elliot, estou ansiosa para casar
-com você amanhã.</i>
+com vocÃª amanhÃ£.</i>
 
 10
 00:00:27,748 --> 00:00:30,839
-<i>Você pode recomeçar tudo
+<i>VocÃª pode recomeÃ§ar tudo
 e viver no mundo que merece.</i>
 
 11
 00:00:30,864 --> 00:00:33,948
 <i>- Um mundo sem o seu passado.</i>
-- Você se lembra de alguma vez
+- VocÃª se lembra de alguma vez
 
 12
 00:00:33,973 --> 00:00:35,741
@@ -59,12 +59,12 @@ te machucou?</i>
 13
 00:00:36,066 --> 00:00:38,632
 - Sim.
-<i>- Sem a dor que você carrega.</i>
+<i>- Sem a dor que vocÃª carrega.</i>
 
 14
 00:00:39,090 --> 00:00:40,940
-Estou em ligação,
-já lhe atendo.
+Estou em ligaÃ§Ã£o,
+jÃ¡ lhe atendo.
 
 15
 00:00:40,965 --> 00:00:42,265
@@ -77,12 +77,12 @@ of Basil E. Frankweiler."</i>
 
 17
 00:00:45,461 --> 00:00:46,961
-Seus pais já chegaram?
+Seus pais jÃ¡ chegaram?
 
 18
 00:00:46,986 --> 00:00:49,122
-Olá, Emily?
-Está aí?
+OlÃ¡, Emily?
+EstÃ¡ aÃ­?
 
 19
 00:00:49,147 --> 00:00:52,364
@@ -91,7 +91,7 @@ atingiu Washington Township.</i>
 
 20
 00:00:52,389 --> 00:00:54,397
-E claro que já imaginei
+E claro que jÃ¡ imaginei
 como seria
 
 21
@@ -101,11 +101,11 @@ mais empolgante.</i>
 
 22
 00:00:58,269 --> 00:00:59,721
-Você acredita em mim?
+VocÃª acredita em mim?
 
 23
 00:01:07,199 --> 00:01:08,499
-Quem é você?
+Quem Ã© vocÃª?
 
 24
 00:01:09,329 --> 00:01:11,518
@@ -115,11 +115,11 @@ o que houve com aquela casa?
 25
 00:01:11,543 --> 00:01:13,502
 Pode me dizer
-qual é o seu monstro?
+qual Ã© o seu monstro?
 
 26
 00:01:18,624 --> 00:01:20,013
-<i>É a mamãe.
+<i>Ã‰ a mamÃ£e.
 Ela morreu.</i>
 
 27
@@ -134,7 +134,7 @@ ao Washington Township.</i>
 
 29
 00:01:25,529 --> 00:01:26,884
-Logo você verá.
+Logo vocÃª verÃ¡.
 
 30
 00:01:26,909 --> 00:01:28,711
@@ -147,11 +147,11 @@ Este lugar vai explodir!
 
 32
 00:01:30,321 --> 00:01:31,621
-Se não impedirmos isso,
+Se nÃ£o impedirmos isso,
 
 33
 00:01:31,999 --> 00:01:34,047
-<i>a explosão destruirá
+<i>a explosÃ£o destruirÃ¡
 a cidade inteira.</i>
 
 34
@@ -160,29 +160,29 @@ Funcionou?
 
 35
 00:01:48,726 --> 00:01:50,026
-<i>Olá, amigo.</i>
+<i>OlÃ¡, amigo.</i>
 
 36
 00:01:50,790 --> 00:01:52,090
-<i>Olá, amigo.</i>
+<i>OlÃ¡, amigo.</i>
 
 37
 00:01:53,760 --> 00:01:55,410
 <i>Espere,
-está me ouvindo de novo?</i>
+estÃ¡ me ouvindo de novo?</i>
 
 38
 00:01:56,867 --> 00:01:58,429
-<i>Ficou aí o tempo todo?</i>
+<i>Ficou aÃ­ o tempo todo?</i>
 
 39
 00:01:59,281 --> 00:02:00,850
-<i>Fiquei tão concentrado no hack</i>
+<i>Fiquei tÃ£o concentrado no hack</i>
 
 40
 00:02:00,875 --> 00:02:02,577
 <i>que pensei
-que você tinha sumido.</i>
+que vocÃª tinha sumido.</i>
 
 41
 00:02:03,289 --> 00:02:05,033
@@ -191,15 +191,15 @@ na usina,</i>
 
 42
 00:02:05,058 --> 00:02:06,794
-<i>também achei que eu já era.</i>
+<i>tambÃ©m achei que eu jÃ¡ era.</i>
 
 43
 00:02:07,971 --> 00:02:09,271
-<i>Estamos mortos, não é?</i>
+<i>Estamos mortos, nÃ£o Ã©?</i>
 
 44
 00:02:09,808 --> 00:02:11,408
-<i>Não podemos ter sobrevivido.</i>
+<i>NÃ£o podemos ter sobrevivido.</i>
 
 45
 00:02:13,144 --> 00:02:14,444
@@ -208,39 +208,39 @@ na usina,</i>
 46
 00:02:15,529 --> 00:02:17,065
 <i>como estou falando
-com você?</i>
+com vocÃª?</i>
 
 47
 00:02:18,230 --> 00:02:19,530
-<i>E se você está aqui,</i>
+<i>E se vocÃª estÃ¡ aqui,</i>
 
 48
 00:02:20,941 --> 00:02:22,241
-<i>onde está Mr. Robot?</i>
+<i>onde estÃ¡ Mr. Robot?</i>
 
 49
 00:02:23,249 --> 00:02:26,249
-¦ Red WB Team ¦
-¦ Noobs fazendo Subs ¦
+Â¦ Red WB Team Â¦
+Â¦ Noobs fazendo Subs Â¦
 
 50
 00:02:26,273 --> 00:02:28,273
-¦ Tradução ¦
+Â¦ TraduÃ§Ã£o Â¦
 Adrlcs - ThigSchuch
 
 51
 00:02:28,298 --> 00:02:30,298
-¦ Revisão ¦
+Â¦ RevisÃ£o Â¦
 Hanz - Henrique
 
 52
 00:02:30,322 --> 00:02:32,322
-¦ Revisão ¦
+Â¦ RevisÃ£o Â¦
 Lucasrsv - Sparks
 
 53
 00:02:32,347 --> 00:02:34,347
-Dê adeus conosco
+DÃª adeus conosco
 t.me/RedWheelBarrowTeam
 
 54
@@ -249,7 +249,7 @@ t.me/RedWheelBarrowTeam
 
 55
 00:02:48,422 --> 00:02:49,791
-<i>Você sentiu também, certo?</i>
+<i>VocÃª sentiu tambÃ©m, certo?</i>
 
 56
 00:02:50,367 --> 00:02:51,667
@@ -257,11 +257,11 @@ t.me/RedWheelBarrowTeam
 
 57
 00:02:53,515 --> 00:02:54,815
-<i>Calma aí.</i>
+<i>Calma aÃ­.</i>
 
 58
 00:02:56,074 --> 00:02:57,374
-<i>Eu não morri.</i>
+<i>Eu nÃ£o morri.</i>
 
 59
 00:02:58,497 --> 00:02:59,797
@@ -270,11 +270,11 @@ t.me/RedWheelBarrowTeam
 60
 00:03:00,860 --> 00:03:03,385
 <i>O que significa
-que você também está.</i>
+que vocÃª tambÃ©m estÃ¡.</i>
 
 61
 00:03:04,167 --> 00:03:05,467
-<i>Não é?</i>
+<i>NÃ£o Ã©?</i>
 
 62
 00:03:06,851 --> 00:03:08,151
@@ -282,7 +282,7 @@ que você também está.</i>
 
 63
 00:03:20,057 --> 00:03:21,357
-<i>Pois é,</i>
+<i>Pois Ã©,</i>
 
 64
 00:03:21,521 --> 00:03:22,938
@@ -300,7 +300,7 @@ onde ficava a usina,</i>
 
 67
 00:03:30,650 --> 00:03:31,950
-<i>Não ser.</i>
+<i>NÃ£o ser.</i>
 
 68
 00:03:31,974 --> 00:03:33,274
@@ -308,17 +308,17 @@ EM BREVE
 
 69
 00:03:33,299 --> 00:03:36,333
-CENTRO COMUNITÁRIO
+CENTRO COMUNITÃRIO
 DE WASHINGTON TOWNSHIP
 
 70
 00:03:37,092 --> 00:03:38,894
-<i>Sei o que está pensando,
-mas não...</i>
+<i>Sei o que estÃ¡ pensando,
+mas nÃ£o...</i>
 
 71
 00:03:39,569 --> 00:03:40,869
-<i>É impossível.</i>
+<i>Ã‰ impossÃ­vel.</i>
 
 72
 00:03:41,538 --> 00:03:43,303
@@ -327,26 +327,26 @@ mas não...</i>
 73
 00:03:44,330 --> 00:03:46,166
 <i>Eu sei,
-eu também perdi.</i>
+eu tambÃ©m perdi.</i>
 
 74
 00:03:47,461 --> 00:03:49,195
 <i>Mesmo assim,
-não tem como</i>
+nÃ£o tem como</i>
 
 75
 00:03:49,219 --> 00:03:51,484
-<i>a máquina
+<i>a mÃ¡quina
 dela funcionar, certo?</i>
 
 76
 00:04:21,329 --> 00:04:23,450
 VIVA NO MUNDO
-DE AMANHÃ, HOJE
+DE AMANHÃƒ, HOJE
 
 77
 00:04:25,699 --> 00:04:28,980
-<i>Muitíssimo obrigado,
+<i>MuitÃ­ssimo obrigado,
 Mr. Roboto</i>
 
 78
@@ -356,12 +356,12 @@ Series Finale Part 1
 
 79
 00:04:35,594 --> 00:04:38,961
-<i>Muitíssimo obrigado,
+<i>MuitÃ­ssimo obrigado,
 Mr. Roboto</i>
 
 80
 00:04:38,993 --> 00:04:42,008
-<i>Até nos encontrarmos
+<i>AtÃ© nos encontrarmos
 novamente</i>
 
 81
@@ -371,7 +371,7 @@ UM BELO LUGAR PARA VIVER
 
 82
 00:04:46,756 --> 00:04:49,301
-<i>Você deve estar
+<i>VocÃª deve estar
 se perguntando quem eu sou</i>
 
 83
@@ -381,7 +381,7 @@ eu tenho um segredo</i>
 
 84
 00:04:51,732 --> 00:04:54,286
-<i>Máquina ou manequim</i>
+<i>MÃ¡quina ou manequim</i>
 
 85
 00:04:54,311 --> 00:04:56,777
@@ -390,7 +390,7 @@ eu tenho um segredo</i>
 
 86
 00:04:56,802 --> 00:04:59,275
-<i>Com peças feitas no Japão</i>
+<i>Com peÃ§as feitas no JapÃ£o</i>
 
 87
 00:04:59,300 --> 00:05:01,728
@@ -412,20 +412,20 @@ sob a minha pele</i>
 
 91
 00:05:17,926 --> 00:05:19,527
-<i>Meu coração é humano</i>
+<i>Meu coraÃ§Ã£o Ã© humano</i>
 
 92
 00:05:19,552 --> 00:05:21,166
-<i>Meu sangue está fervendo</i>
+<i>Meu sangue estÃ¡ fervendo</i>
 
 93
 00:05:21,191 --> 00:05:22,621
-<i>Meu cérebro é do IBM</i>
+<i>Meu cÃ©rebro Ã© do IBM</i>
 
 94
 00:05:24,591 --> 00:05:25,891
 <i>Portanto,
-se você me ver</i>
+se vocÃª me ver</i>
 
 95
 00:05:26,438 --> 00:05:28,136
@@ -433,12 +433,12 @@ se você me ver</i>
 
 96
 00:05:28,161 --> 00:05:29,561
-<i>Não fique surpreso</i>
+<i>NÃ£o fique surpreso</i>
 
 97
 00:05:31,431 --> 00:05:34,534
 <i>Sou apenas um homem
-que precisava de alguém</i>
+que precisava de alguÃ©m</i>
 
 98
 00:05:34,559 --> 00:05:36,161
@@ -446,7 +446,7 @@ que precisava de alguém</i>
 
 99
 00:05:47,777 --> 00:05:49,077
-<i>Não pode ser.</i>
+<i>NÃ£o pode ser.</i>
 
 100
 00:05:49,811 --> 00:05:51,442
@@ -463,7 +463,7 @@ COM UM SORRISO
 
 103
 00:05:56,127 --> 00:05:58,462
-<i>Desapareceu há 20 anos,
+<i>Desapareceu hÃ¡ 20 anos,
 desde que...</i>
 
 104
@@ -472,13 +472,13 @@ desde que...</i>
 
 105
 00:06:57,357 --> 00:06:59,253
-<i>Estou em uma ligação,
-já lhe atendo.</i>
+<i>Estou em uma ligaÃ§Ã£o,
+jÃ¡ lhe atendo.</i>
 
 106
 00:07:03,717 --> 00:07:05,417
-<i>Me diga que você
-ouviu isso também.</i>
+<i>Me diga que vocÃª
+ouviu isso tambÃ©m.</i>
 
 107
 00:07:10,744 --> 00:07:12,394
@@ -487,11 +487,11 @@ acontecendo?</i>
 
 108
 00:07:19,623 --> 00:07:20,923
-<i>É...</i>
+<i>Ã‰...</i>
 
 109
 00:07:22,665 --> 00:07:23,965
-<i>É realmente...</i>
+<i>Ã‰ realmente...</i>
 
 110
 00:07:26,240 --> 00:07:27,540
@@ -500,7 +500,7 @@ acontecendo?</i>
 111
 00:07:35,393 --> 00:07:37,792
 <i>Tenho um cliente.
-Ainda vamos almoçar?</i>
+Ainda vamos almoÃ§ar?</i>
 
 112
 00:07:41,247 --> 00:07:42,559
@@ -508,16 +508,16 @@ Ainda vamos almoçar?</i>
 
 113
 00:07:45,415 --> 00:07:46,715
-<i>Até logo.</i>
+<i>AtÃ© logo.</i>
 
 114
 00:07:53,476 --> 00:07:56,876
-Não há de quê.
-Sempre estarei aqui por você.
+NÃ£o hÃ¡ de quÃª.
+Sempre estarei aqui por vocÃª.
 
 115
 00:08:01,309 --> 00:08:03,045
-<i>Meu monstro ainda está vivo.</i>
+<i>Meu monstro ainda estÃ¡ vivo.</i>
 
 116
 00:08:05,715 --> 00:08:08,668
@@ -526,11 +526,11 @@ Como posso ajudar?
 
 117
 00:08:15,298 --> 00:08:16,598
-Achei você.
+Achei vocÃª.
 
 118
 00:09:07,418 --> 00:09:08,718
-Olá.
+OlÃ¡.
 
 119
 00:09:30,315 --> 00:09:31,615
@@ -543,17 +543,17 @@ Como foi o seu dia?</i>
 
 121
 00:09:37,972 --> 00:09:39,547
-<i>Esse é o meu antigo bairro.</i>
+<i>Esse Ã© o meu antigo bairro.</i>
 
 122
 00:09:40,984 --> 00:09:44,354
-<i>Essa é a minha antiga casa,
-mas quem está lá?</i>
+<i>Essa Ã© a minha antiga casa,
+mas quem estÃ¡ lÃ¡?</i>
 
 123
 00:09:45,893 --> 00:09:47,629
 <i>Com quem
-ele está falando?</i>
+ele estÃ¡ falando?</i>
 
 124
 00:09:49,674 --> 00:09:51,033
@@ -565,29 +565,29 @@ Oi, Elliot.
 
 126
 00:09:53,806 --> 00:09:55,106
-Você me conhece?
+VocÃª me conhece?
 
 127
 00:09:55,131 --> 00:09:56,531
-É óbvio, você mora ali.
+Ã‰ Ã³bvio, vocÃª mora ali.
 
 128
 00:09:57,878 --> 00:09:59,246
-Onde você estava?
+Onde vocÃª estava?
 
 129
 00:10:00,023 --> 00:10:01,459
-Não te vejo
-há um tempo.
+NÃ£o te vejo
+hÃ¡ um tempo.
 
 130
 00:10:02,622 --> 00:10:03,924
-Você está diferente.
+VocÃª estÃ¡ diferente.
 
 131
 00:10:05,271 --> 00:10:07,149
-<i>Vou buscá-lo
-quando chegar à cidade.</i>
+<i>Vou buscÃ¡-lo
+quando chegar Ã  cidade.</i>
 
 132
 00:10:07,174 --> 00:10:08,474
@@ -595,7 +595,7 @@ quando chegar à cidade.</i>
 
 133
 00:10:24,129 --> 00:10:25,429
-Seu nariz está sangrando.
+Seu nariz estÃ¡ sangrando.
 
 134
 00:10:30,161 --> 00:10:32,608
@@ -609,23 +609,23 @@ Preciso da sua ajuda.
 136
 00:10:34,946 --> 00:10:37,837
 Estou procurando Darlene.
-Sabe onde ela está?
+Sabe onde ela estÃ¡?
 
 137
 00:10:39,490 --> 00:10:40,790
-Quem é Darlene?
+Quem Ã© Darlene?
 
 138
 00:10:41,555 --> 00:10:42,855
-Minha irmã.
+Minha irmÃ£.
 
 139
 00:10:46,669 --> 00:10:47,969
-Qual é a graça?
+Qual Ã© a graÃ§a?
 
 140
 00:10:49,167 --> 00:10:50,467
-Você não tem irmã.
+VocÃª nÃ£o tem irmÃ£.
 
 141
 00:10:52,949 --> 00:10:54,249
@@ -633,11 +633,11 @@ Você não tem irmã.
 
 142
 00:10:57,037 --> 00:10:59,273
-Esperava vê-lo somente amanhã.
+Esperava vÃª-lo somente amanhÃ£.
 
 143
 00:10:59,567 --> 00:11:01,207
-Olá, Sra. Alderson.
+OlÃ¡, Sra. Alderson.
 
 144
 00:11:01,232 --> 00:11:02,729
@@ -645,7 +645,7 @@ Tchau, Sra. Alderson.
 
 145
 00:11:11,571 --> 00:11:15,016
-Por que ainda está aí
+Por que ainda estÃ¡ aÃ­
 do outro lado me encarando?
 
 146
@@ -663,7 +663,7 @@ Ele foi ao centro.
 
 149
 00:11:33,893 --> 00:11:35,528
-Deixe-me olhar você.
+Deixe-me olhar vocÃª.
 
 150
 00:11:42,836 --> 00:11:44,136
@@ -671,7 +671,7 @@ Perdeu peso?
 
 151
 00:11:45,130 --> 00:11:46,430
-Está tão magro.
+EstÃ¡ tÃ£o magro.
 
 152
 00:11:47,721 --> 00:11:49,857
@@ -685,16 +685,16 @@ as novas cortinas.
 
 154
 00:11:56,551 --> 00:11:58,675
-Eu sei que não se importa,
+Eu sei que nÃ£o se importa,
 
 155
 00:11:58,700 --> 00:12:01,400
 mas acredite em mim,
-vai notar a diferença.
+vai notar a diferenÃ§a.
 
 156
 00:12:16,735 --> 00:12:18,035
-Está diferente mesmo.
+EstÃ¡ diferente mesmo.
 
 157
 00:12:19,159 --> 00:12:20,459
@@ -702,7 +702,7 @@ Eu te disse!
 
 158
 00:12:21,952 --> 00:12:24,188
-Só levei trinta anos
+SÃ³ levei trinta anos
 para encontrar.
 
 159
@@ -712,12 +712,12 @@ Assim que as vi,
 160
 00:12:26,845 --> 00:12:28,356
 sabia que precisava
-comprá-las.
+comprÃ¡-las.
 
 161
 00:12:30,604 --> 00:12:32,627
-É incrível
-como uma mudança
+Ã‰ incrÃ­vel
+como uma mudanÃ§a
 
 162
 00:12:32,652 --> 00:12:34,317
@@ -726,16 +726,16 @@ faz um lugar parecer novo.
 163
 00:12:53,840 --> 00:12:56,884
 <i>Muito bem,
-posso fazer para você</i>
+posso fazer para vocÃª</i>
 
 164
 00:12:56,909 --> 00:12:59,683
-<i>um dos meus sanduíches
+<i>um dos meus sanduÃ­ches
 especiais.</i>
 
 165
 00:13:00,308 --> 00:13:02,332
-<i>Você quer peru
+<i>VocÃª quer peru
 ou presunto?</i>
 
 166
@@ -744,12 +744,12 @@ Sem Darlene.
 
 167
 00:13:17,628 --> 00:13:18,996
-Quem é Darlene?
+Quem Ã© Darlene?
 
 168
 00:13:27,240 --> 00:13:29,972
-Enfim, não tinha
-uma apresentação hoje?
+Enfim, nÃ£o tinha
+uma apresentaÃ§Ã£o hoje?
 
 169
 00:13:30,251 --> 00:13:31,551
@@ -761,12 +761,12 @@ Como se saiu?
 
 171
 00:13:33,767 --> 00:13:35,067
-Não sei dizer.
+NÃ£o sei dizer.
 
 172
 00:13:35,911 --> 00:13:38,134
-<i>Você sempre foi
-o seu pior crítico.</i>
+<i>VocÃª sempre foi
+o seu pior crÃ­tico.</i>
 
 173
 00:13:39,766 --> 00:13:41,269
@@ -775,11 +775,11 @@ que foi bem.</i>
 
 174
 00:13:45,224 --> 00:13:46,927
-<i>Essa não parece minha mãe.</i>
+<i>Essa nÃ£o parece minha mÃ£e.</i>
 
 175
 00:13:47,527 --> 00:13:49,564
-<i>Parece alguém
+<i>Parece alguÃ©m
 que ama o filho.</i>
 
 176
@@ -788,7 +788,7 @@ que ama o filho.</i>
 
 177
 00:13:55,908 --> 00:13:57,208
-<i>Até...</i>
+<i>AtÃ©...</i>
 
 178
 00:13:57,670 --> 00:13:58,970
@@ -797,7 +797,7 @@ Eu.
 179
 00:13:59,155 --> 00:14:01,507
 O que disse, querido?
-Você o quê?
+VocÃª o quÃª?
 
 180
 00:14:05,757 --> 00:14:07,426
@@ -805,7 +805,7 @@ Você o quê?
 
 181
 00:14:15,116 --> 00:14:16,416
-<i>o meu também?</i>
+<i>o meu tambÃ©m?</i>
 
 182
 00:14:18,130 --> 00:14:19,430
@@ -825,11 +825,11 @@ Elliot?
 
 186
 00:14:48,154 --> 00:14:49,489
-O que você tem?
+O que vocÃª tem?
 
 187
 00:14:49,906 --> 00:14:51,206
-<i>Cadê meu quarto?</i>
+<i>CadÃª meu quarto?</i>
 
 188
 00:14:53,597 --> 00:14:54,897
@@ -837,12 +837,12 @@ Era bem aqui.
 
 189
 00:14:55,704 --> 00:14:57,004
-Você está bem?
+VocÃª estÃ¡ bem?
 
 190
 00:14:57,029 --> 00:14:59,544
 Meu quarto.
-Cadê?
+CadÃª?
 
 191
 00:15:01,988 --> 00:15:03,289
@@ -850,15 +850,15 @@ Onde sempre esteve.
 
 192
 00:15:43,904 --> 00:15:45,204
-Não.
+NÃ£o.
 
 193
 00:15:47,250 --> 00:15:48,652
-Não pode ser verdade.
+NÃ£o pode ser verdade.
 
 194
 00:15:49,882 --> 00:15:51,384
-O quê?
+O quÃª?
 
 195
 00:15:57,296 --> 00:15:58,829
@@ -866,7 +866,7 @@ Quando eu tinha oito anos,
 
 196
 00:15:59,496 --> 00:16:02,408
-você se lembra
+vocÃª se lembra
 do acidente que sofri?
 
 197
@@ -875,12 +875,12 @@ Que acidente?
 
 198
 00:16:05,395 --> 00:16:06,898
-Quando quebrei meu braço.
+Quando quebrei meu braÃ§o.
 
 199
 00:16:07,898 --> 00:16:10,257
-Você nunca quebrou
-um braço, querido.
+VocÃª nunca quebrou
+um braÃ§o, querido.
 
 200
 00:16:10,770 --> 00:16:13,506
@@ -897,20 +897,20 @@ Estou preocupada contigo.
 
 203
 00:16:29,088 --> 00:16:30,390
-Por que não sentamos?
+Por que nÃ£o sentamos?
 
 204
 00:16:39,697 --> 00:16:40,997
-<i>Se eu não pulei,</i>
+<i>Se eu nÃ£o pulei,</i>
 
 205
 00:16:41,891 --> 00:16:43,941
 <i>significa
-que não tinha motivo?</i>
+que nÃ£o tinha motivo?</i>
 
 206
 00:16:44,977 --> 00:16:46,279
-Mãe.
+MÃ£e.
 
 207
 00:16:49,077 --> 00:16:50,445
@@ -918,7 +918,7 @@ Me responda.
 
 208
 00:16:53,466 --> 00:16:54,935
-Você já me bateu?
+VocÃª jÃ¡ me bateu?
 
 209
 00:17:02,519 --> 00:17:03,819
@@ -926,7 +926,7 @@ Ou...
 
 210
 00:17:07,064 --> 00:17:08,432
-O papai já?
+O papai jÃ¡?
 
 211
 00:17:16,438 --> 00:17:17,740
@@ -938,12 +938,12 @@ Seu pai e eu
 
 213
 00:17:21,807 --> 00:17:24,977
-nunca bateríamos
-em você.
+nunca baterÃ­amos
+em vocÃª.
 
 214
 00:17:29,482 --> 00:17:30,982
-Nós te amamos.
+NÃ³s te amamos.
 
 215
 00:17:32,445 --> 00:17:33,813
@@ -956,41 +956,41 @@ De onde veio isso?
 217
 00:17:43,889 --> 00:17:46,029
 Aconteceu algo
-entre você e Angela?
+entre vocÃª e Angela?
 
 218
 00:17:48,192 --> 00:17:49,677
-É com os pais dela?
+Ã‰ com os pais dela?
 
 219
 00:17:49,702 --> 00:17:51,989
-Não é da minha conta,
+NÃ£o Ã© da minha conta,
 mas eu sei que eles
 
 220
 00:17:52,014 --> 00:17:54,071
 tiveram dificuldades,
-e se vocês pensam
+e se vocÃªs pensam
 
 221
 00:17:54,096 --> 00:17:55,715
-- que acabarão como...
+- que acabarÃ£o como...
 - Angela?
 
 222
 00:17:58,363 --> 00:17:59,879
 - Ela...
-<i>- Está viva?</i>
+<i>- EstÃ¡ viva?</i>
 
 223
 00:18:00,244 --> 00:18:03,257
-É super normal
+Ã‰ super normal
 ficar nervoso
 
 224
 00:18:03,282 --> 00:18:04,898
 antes do seu grande dia
-amanhã.
+amanhÃ£.
 
 225
 00:18:05,952 --> 00:18:07,252
@@ -1017,11 +1017,11 @@ com a Angela?</i>
 
 230
 00:18:18,454 --> 00:18:19,754
-Mãe?
+MÃ£e?
 
 231
 00:18:22,023 --> 00:18:23,725
-Onde Angela está?
+Onde Angela estÃ¡?
 
 232
 00:18:26,994 --> 00:18:29,417
@@ -1035,16 +1035,16 @@ em seu apartamento no centro.
 
 234
 00:18:40,117 --> 00:18:41,417
-<i>O que você acha?</i>
+<i>O que vocÃª acha?</i>
 
 235
 00:18:42,411 --> 00:18:43,747
-<i>Está acreditando nisso?</i>
+<i>EstÃ¡ acreditando nisso?</i>
 
 236
 00:18:45,259 --> 00:18:47,401
-<i>Queríamos mudar
-o mundo no início,</i>
+<i>QuerÃ­amos mudar
+o mundo no inÃ­cio,</i>
 
 237
 00:18:47,426 --> 00:18:48,762
@@ -1052,7 +1052,7 @@ o mundo no início,</i>
 
 238
 00:18:50,062 --> 00:18:52,358
-<i>Esse é o mundo
+<i>Esse Ã© o mundo
 por que tanto lutei?</i>
 
 239
@@ -1067,25 +1067,25 @@ que isso pode ser real?</i>
 
 241
 00:19:07,600 --> 00:19:09,868
-<i>Não,
-não vou me permitir.</i>
+<i>NÃ£o,
+nÃ£o vou me permitir.</i>
 
 242
 00:19:13,616 --> 00:19:14,916
-<i>Ainda não.</i>
+<i>Ainda nÃ£o.</i>
 
 243
 00:19:16,322 --> 00:19:18,090
-<i>Não até eu ver Angela.</i>
+<i>NÃ£o atÃ© eu ver Angela.</i>
 
 244
 00:19:20,977 --> 00:19:22,979
-<i>Então eu saberei.</i>
+<i>EntÃ£o eu saberei.</i>
 
 245
 00:19:42,666 --> 00:19:45,102
-<i>Se eu encontrá-la,
-esse mundo fará mais sentido</i>
+<i>Se eu encontrÃ¡-la,
+esse mundo farÃ¡ mais sentido</i>
 
 246
 00:19:46,100 --> 00:19:47,402
@@ -1093,7 +1093,7 @@ esse mundo fará mais sentido</i>
 
 247
 00:19:49,086 --> 00:19:51,121
-<i>Não sei,
+<i>NÃ£o sei,
 mas vale arriscar.</i>
 
 248
@@ -1106,11 +1106,11 @@ Com medo?
 
 250
 00:20:05,404 --> 00:20:06,773
-E com razão.
+E com razÃ£o.
 
 251
 00:20:07,141 --> 00:20:10,611
-Afinal, para você,
+Afinal, para vocÃª,
 eu sou o mal encarnado.
 
 252
@@ -1120,13 +1120,13 @@ deixe o rapaz.
 
 253
 00:20:13,916 --> 00:20:15,852
-Qual é, Em,
-ele sabe que é brincadeira.
+Qual Ã©, Em,
+ele sabe que Ã© brincadeira.
 
 254
 00:20:15,876 --> 00:20:17,765
-Além disso,
-já que sou seu sogro,
+AlÃ©m disso,
+jÃ¡ que sou seu sogro,
 
 255
 00:20:17,790 --> 00:20:19,534
@@ -1159,20 +1159,20 @@ como de costume,
 261
 00:20:38,593 --> 00:20:41,365
 ela fez tudo sozinha,
-e não tivemos que fazer nada.
+e nÃ£o tivemos que fazer nada.
 
 262
 00:20:41,390 --> 00:20:42,690
-Não caia nessa.
+NÃ£o caia nessa.
 
 263
 00:20:42,715 --> 00:20:45,155
-Ela é exigente,
-então tome cuidado.
+Ela Ã© exigente,
+entÃ£o tome cuidado.
 
 264
 00:20:45,492 --> 00:20:48,022
-Ela é incrível, não é?
+Ela Ã© incrÃ­vel, nÃ£o Ã©?
 
 265
 00:20:48,047 --> 00:20:49,782
@@ -1181,7 +1181,7 @@ eu acho.
 
 266
 00:20:50,312 --> 00:20:52,718
-Espere até vê-la
+Espere atÃ© vÃª-la
 em seu vestido.
 
 267
@@ -1190,11 +1190,11 @@ Tudo bem.
 
 268
 00:21:04,453 --> 00:21:06,155
-Está bem, então.
+EstÃ¡ bem, entÃ£o.
 
 269
 00:21:08,160 --> 00:21:11,707
-E então,
+E entÃ£o,
 a que devemos a honra?
 
 270
@@ -1203,15 +1203,15 @@ Angela estava te esperando?
 
 271
 00:21:16,332 --> 00:21:18,001
-Não, eu...
+NÃ£o, eu...
 
 272
 00:21:23,289 --> 00:21:24,925
-Eu só queria vê-la.
+Eu sÃ³ queria vÃª-la.
 
 273
 00:21:27,850 --> 00:21:31,050
-Não conseguem ficar
+NÃ£o conseguem ficar
 longe um do outro.
 
 274
@@ -1221,25 +1221,25 @@ Que fofo.
 275
 00:21:32,858 --> 00:21:35,467
 Eu me lembro
-dessa sensação, eu acho.
+dessa sensaÃ§Ã£o, eu acho.
 
 276
 00:21:37,158 --> 00:21:40,760
-E essa é minha desculpa
+E essa Ã© minha desculpa
 para ir fazer uma drinque.
 
 277
 00:21:42,817 --> 00:21:44,927
-Não precisa.
+NÃ£o precisa.
 
 278
 00:21:46,042 --> 00:21:47,909
-Só estou procurando
+SÃ³ estou procurando
 pela Angela.
 
 279
 00:21:47,934 --> 00:21:49,834
-Ela virá para o almoço.
+Ela virÃ¡ para o almoÃ§o.
 
 280
 00:21:52,781 --> 00:21:54,883
@@ -1249,7 +1249,7 @@ Ela virá para o almoço.
 281
 00:21:55,196 --> 00:21:58,288
 Vamos naquele lugar
-na esquina, você deveria vir.
+na esquina, vocÃª deveria vir.
 
 282
 00:21:58,313 --> 00:22:00,452
@@ -1258,13 +1258,13 @@ nos acompanhe.
 
 283
 00:22:00,477 --> 00:22:03,365
-Só depois de tomarmos
-um dos meus uísques.
+SÃ³ depois de tomarmos
+um dos meus uÃ­sques.
 
 284
 00:22:03,389 --> 00:22:05,344
-Só um.
-Não quero me atrasar.
+SÃ³ um.
+NÃ£o quero me atrasar.
 
 285
 00:22:08,264 --> 00:22:09,564
@@ -1273,40 +1273,40 @@ Não quero me atrasar.
 286
 00:22:10,592 --> 00:22:14,536
 estou muito feliz
-em ver vocês dois juntos.
+em ver vocÃªs dois juntos.
 
 287
 00:22:15,143 --> 00:22:17,093
-Enquanto vocês cresciam,
+Enquanto vocÃªs cresciam,
 eu sempre soube
 
 288
 00:22:17,095 --> 00:22:19,852
 que havia algo especial
-entre vocês dois.
+entre vocÃªs dois.
 
 289
 00:22:19,900 --> 00:22:22,964
 Mas francamente, estava
-preocupada que ela não notasse.
+preocupada que ela nÃ£o notasse.
 
 290
 00:22:23,478 --> 00:22:26,884
-Entre nós, ela não tinha
+Entre nÃ³s, ela nÃ£o tinha
 bom gosto para homens.
 
 291
 00:22:29,010 --> 00:22:30,410
-Pois é, eu sei.
+Pois Ã©, eu sei.
 
 292
 00:22:35,827 --> 00:22:37,863
-Mas este é o começo
+Mas este Ã© o comeÃ§o
 de algo novo.
 
 293
 00:22:39,255 --> 00:22:40,557
-Está empolgado?
+EstÃ¡ empolgado?
 
 294
 00:22:49,019 --> 00:22:50,321
@@ -1319,17 +1319,17 @@ Era para ser uma surpresa.
 296
 00:22:54,629 --> 00:22:56,610
 Pegamos emprestado
-da sua mãe.
+da sua mÃ£e.
 
 297
 00:22:57,977 --> 00:22:59,945
 <i>Angela queria
-dar algo para você,</i>
+dar algo para vocÃª,</i>
 
 298
 00:23:00,755 --> 00:23:03,134
 algo que fez parte
-da sua história.
+da sua histÃ³ria.
 
 299
 00:23:03,136 --> 00:23:05,238
@@ -1342,7 +1342,7 @@ um trabalho maravilhoso.
 
 301
 00:23:10,077 --> 00:23:11,546
-<i>já vi elas antes.</i>
+<i>jÃ¡ vi elas antes.</i>
 
 302
 00:23:12,554 --> 00:23:14,814
@@ -1351,8 +1351,8 @@ essa fantasia tantas vezes.</i>
 
 303
 00:23:16,065 --> 00:23:18,820
-<i>É isso que as pessoas fazem
-quando estão felizes, certo?</i>
+<i>Ã‰ isso que as pessoas fazem
+quando estÃ£o felizes, certo?</i>
 
 304
 00:23:19,334 --> 00:23:20,676
@@ -1360,7 +1360,7 @@ quando estão felizes, certo?</i>
 
 305
 00:23:20,701 --> 00:23:22,028
-<i>Começam uma família.</i>
+<i>ComeÃ§am uma famÃ­lia.</i>
 
 306
 00:23:22,845 --> 00:23:24,854
@@ -1378,7 +1378,7 @@ tivemos sorte.
 
 309
 00:23:31,638 --> 00:23:33,141
-Este daqui é dos bons.
+Este daqui Ã© dos bons.
 
 310
 00:23:33,846 --> 00:23:35,582
@@ -1392,7 +1392,7 @@ se tornou bastante delicado.
 312
 00:23:40,731 --> 00:23:43,079
 Eu sei
-que não devo dizer nada,
+que nÃ£o devo dizer nada,
 
 313
 00:23:43,104 --> 00:23:45,587
@@ -1401,7 +1401,7 @@ e nos mostrou o presente
 
 314
 00:23:45,612 --> 00:23:46,917
-que você tem para ela...
+que vocÃª tem para ela...
 
 315
 00:23:48,840 --> 00:23:50,140
@@ -1409,18 +1409,18 @@ Ela vai adorar.
 
 316
 00:23:51,575 --> 00:23:54,166
-Não se preocupe.
-É só entre nós.
+NÃ£o se preocupe.
+Ã‰ sÃ³ entre nÃ³s.
 
 317
 00:23:54,191 --> 00:23:56,831
 Eu sou um cofre,
-e ele não consegue
+e ele nÃ£o consegue
 
 318
 00:23:56,856 --> 00:23:59,168
 se lembrar de nada
-nos últimos cinco minutos.
+nos Ãºltimos cinco minutos.
 
 319
 00:23:59,454 --> 00:24:00,923
@@ -1429,11 +1429,11 @@ Prontinho!
 320
 00:24:07,646 --> 00:24:10,352
 Devemos ir.
-Não quero me atrasar.
+NÃ£o quero me atrasar.
 
 321
 00:24:10,547 --> 00:24:11,889
-Está bom.
+EstÃ¡ bom.
 
 322
 00:24:12,889 --> 00:24:14,258
@@ -1442,30 +1442,30 @@ Está bom.
 323
 00:24:14,576 --> 00:24:17,716
 Elliot, aqui diz
-que você está me ligando.
+que vocÃª estÃ¡ me ligando.
 
 324
 00:24:19,891 --> 00:24:23,149
-Não caia nessa, Em.
+NÃ£o caia nessa, Em.
 
 325
 00:24:23,549 --> 00:24:26,278
-Ele está só brincando
-com o telefone, não é?
+Ele estÃ¡ sÃ³ brincando
+com o telefone, nÃ£o Ã©?
 
 326
 00:24:26,843 --> 00:24:28,609
-<i>Ele é um gênio
+<i>Ele Ã© um gÃªnio
 com essas coisas.</i>
 
 327
 00:24:28,634 --> 00:24:30,002
-<i>Qual é o truque?</i>
+<i>Qual Ã© o truque?</i>
 
 328
 00:24:30,027 --> 00:24:32,162
 O que acontece
-se você atender?
+se vocÃª atender?
 
 329
 00:24:33,205 --> 00:24:34,540
@@ -1474,7 +1474,7 @@ Como?
 330
 00:24:35,403 --> 00:24:36,972
 O que acontece
-se você atender?
+se vocÃª atender?
 
 331
 00:24:44,177 --> 00:24:45,755
@@ -1482,11 +1482,11 @@ Deixa eu atender.
 
 332
 00:24:45,780 --> 00:24:47,448
-Não, deixa eu.
+NÃ£o, deixa eu.
 
 333
 00:24:57,558 --> 00:24:58,858
-<i>Alô?</i>
+<i>AlÃ´?</i>
 
 334
 00:25:01,120 --> 00:25:02,420
@@ -1494,11 +1494,11 @@ Não, deixa eu.
 
 335
 00:25:04,844 --> 00:25:06,145
-<i>Você está aí?</i>
+<i>VocÃª estÃ¡ aÃ­?</i>
 
 336
 00:25:14,643 --> 00:25:15,978
-Você está bem?
+VocÃª estÃ¡ bem?
 
 337
 00:25:20,052 --> 00:25:21,654
@@ -1506,8 +1506,8 @@ Você está bem?
 
 338
 00:25:23,830 --> 00:25:26,275
-<i>Veja o que você fez.
-Ele está ficando assustado.</i>
+<i>Veja o que vocÃª fez.
+Ele estÃ¡ ficando assustado.</i>
 
 339
 00:25:26,300 --> 00:25:28,470
@@ -1524,11 +1524,11 @@ passivo-agressivas.</i>
 
 342
 00:25:38,479 --> 00:25:39,779
-Ninguém entre em pânico.
+NinguÃ©m entre em pÃ¢nico.
 
 343
 00:25:40,047 --> 00:25:42,249
-Foi só um pequeno acidente.
+Foi sÃ³ um pequeno acidente.
 Eu cuido disso.
 
 344
@@ -1537,7 +1537,7 @@ Eu cuido disso.
 
 345
 00:26:00,726 --> 00:26:02,194
-<i>Como é possível?</i>
+<i>Como Ã© possÃ­vel?</i>
 
 346
 00:26:02,219 --> 00:26:03,823
@@ -1545,11 +1545,11 @@ Eu cuido disso.
 
 347
 00:26:03,848 --> 00:26:05,472
-<i>Era eu, não era?</i>
+<i>Era eu, nÃ£o era?</i>
 
 348
 00:26:05,497 --> 00:26:07,910
-<i>Ou não,
+<i>Ou nÃ£o,
 era ele?</i>
 
 349
@@ -1558,18 +1558,18 @@ era ele?</i>
 
 350
 00:26:10,303 --> 00:26:13,055
-<i>Não pensei nisso antes,
-mas é possível, não é?</i>
+<i>NÃ£o pensei nisso antes,
+mas Ã© possÃ­vel, nÃ£o Ã©?</i>
 
 351
 00:26:13,080 --> 00:26:15,107
 <i>Todo mundo aqui
-é diferente:</i>
+Ã© diferente:</i>
 
 352
 00:26:15,132 --> 00:26:18,272
 <i>Price,
-meu pai, minha mãe.</i>
+meu pai, minha mÃ£e.</i>
 
 353
 00:26:24,828 --> 00:26:26,128
@@ -1578,31 +1578,31 @@ meu pai, minha mãe.</i>
 354
 00:26:45,930 --> 00:26:47,871
 <i>Mas se este mundo
-não é meu,</i>
+nÃ£o Ã© meu,</i>
 
 355
 00:26:52,989 --> 00:26:54,291
-<i>então de quem é?</i>
+<i>entÃ£o de quem Ã©?</i>
 
 356
 00:27:25,001 --> 00:27:27,220
 <i>Esse cara definitivamente
-não sou eu.</i>
+nÃ£o sou eu.</i>
 
 357
 00:27:33,848 --> 00:27:36,089
 <i>E eu definitivamente
-não sou ele.</i>
+nÃ£o sou ele.</i>
 
 358
 00:28:29,721 --> 00:28:31,782
 <i>Eu preciso descobrir
-quem ele é.</i>
+quem ele Ã©.</i>
 
 359
 00:28:40,745 --> 00:28:43,422
-<i>Merda, a inicialização
-está criptografada.</i>
+<i>Merda, a inicializaÃ§Ã£o
+estÃ¡ criptografada.</i>
 
 360
 00:28:43,447 --> 00:28:45,697
@@ -1612,11 +1612,11 @@ do que eu pensava.</i>
 361
 00:29:23,004 --> 00:29:25,621
 <i>Baseado nisso,
-ele não tem problemas sociais</i>
+ele nÃ£o tem problemas sociais</i>
 
 362
 00:29:25,646 --> 00:29:26,946
-<i>ou paranóia.</i>
+<i>ou paranÃ³ia.</i>
 
 363
 00:29:27,475 --> 00:29:29,334
@@ -1638,26 +1638,26 @@ parece perfeito.</i>
 
 367
 00:29:43,311 --> 00:29:45,613
-<i>Mas ninguém
-é tão perfeito quanto parece.</i>
+<i>Mas ninguÃ©m
+Ã© tÃ£o perfeito quanto parece.</i>
 
 368
 00:29:58,239 --> 00:29:59,539
-<i>Qual é, qual é.</i>
+<i>Qual Ã©, qual Ã©.</i>
 
 369
 00:29:59,564 --> 00:30:02,087
 <i>Vou encontrar algo.
-Ele não pode ser tão feliz.</i>
+Ele nÃ£o pode ser tÃ£o feliz.</i>
 
 370
 00:30:02,111 --> 00:30:03,411
-<i>Ninguém é.</i>
+<i>NinguÃ©m Ã©.</i>
 
 371
 00:30:04,181 --> 00:30:06,079
-<i>Você não tem
-prestado atenção?</i>
+<i>VocÃª nÃ£o tem
+prestado atenÃ§Ã£o?</i>
 
 372
 00:30:06,104 --> 00:30:07,694
@@ -1665,7 +1665,7 @@ prestado atenção?</i>
 
 373
 00:30:07,791 --> 00:30:09,840
-<i>As pessoas estão
+<i>As pessoas estÃ£o
 sempre escondendo algo:</i>
 
 374
@@ -1675,8 +1675,8 @@ seus medos, sua vergonha.</i>
 
 375
 00:30:14,349 --> 00:30:16,599
-<i>Eu não me importo
-com o quão feliz ele parece.</i>
+<i>Eu nÃ£o me importo
+com o quÃ£o feliz ele parece.</i>
 
 376
 00:30:17,092 --> 00:30:18,794
@@ -1684,21 +1684,21 @@ com o quão feliz ele parece.</i>
 
 377
 00:30:20,887 --> 00:30:23,857
-<i>A questão é:
-qual é o dele?</i>
+<i>A questÃ£o Ã©:
+qual Ã© o dele?</i>
 
 378
 00:30:33,365 --> 00:30:34,700
-<i>E aqui está.</i>
+<i>E aqui estÃ¡.</i>
 
 379
 00:30:34,959 --> 00:30:36,594
-<i>Uma partição oculta,</i>
+<i>Uma partiÃ§Ã£o oculta,</i>
 
 380
 00:30:36,619 --> 00:30:39,490
 <i>cheia de arquivos
-para que ninguém veja.</i>
+para que ninguÃ©m veja.</i>
 
 381
 00:30:45,732 --> 00:30:48,893
@@ -1706,7 +1706,7 @@ SENHA ENCONTRADA
 
 382
 00:30:57,425 --> 00:30:58,827
-<i>Estas são imagens...</i>
+<i>Estas sÃ£o imagens...</i>
 
 383
 00:31:10,314 --> 00:31:11,650
@@ -1734,40 +1734,40 @@ SENHA ENCONTRADA
 
 389
 00:31:43,789 --> 00:31:45,089
-Quem é você?
+Quem Ã© vocÃª?
 
 390
 00:31:55,627 --> 00:31:56,929
-<i>Eu sei que isso é confuso.</i>
+<i>Eu sei que isso Ã© confuso.</i>
 
 391
 00:31:56,954 --> 00:31:58,808
-O que está fazendo
+O que estÃ¡ fazendo
 no meu apartamento?
 
 392
 00:32:03,424 --> 00:32:05,012
-E por que você
+E por que vocÃª
 se parece comigo?
 
 393
 00:32:10,597 --> 00:32:13,386
 - Acho que devemos conversar.
-- Vou chamar a polícia.
+- Vou chamar a polÃ­cia.
 
 394
 00:32:13,591 --> 00:32:15,659
-Não sei quem você é
+NÃ£o sei quem vocÃª Ã©
 ou o que quer.
 
 395
 00:32:15,684 --> 00:32:18,215
-- Não vamos chamar a polícia.
-- Fique onde está!
+- NÃ£o vamos chamar a polÃ­cia.
+- Fique onde estÃ¡!
 
 396
 00:32:24,094 --> 00:32:25,596
-Você está cometendo um erro.
+VocÃª estÃ¡ cometendo um erro.
 
 397
 00:32:26,727 --> 00:32:28,162
@@ -1775,12 +1775,12 @@ Vamos apenas sentar.
 
 398
 00:32:31,144 --> 00:32:32,979
-Eu prometo a você,
+Eu prometo a vocÃª,
 posso explicar.
 
 399
 00:32:38,597 --> 00:32:39,947
-Meu nome é Elliot Alderson.
+Meu nome Ã© Elliot Alderson.
 
 400
 00:32:39,972 --> 00:32:42,022
@@ -1794,11 +1794,11 @@ de 1986.</i>
 
 402
 00:32:49,504 --> 00:32:50,872
-O mesmo que você.
+O mesmo que vocÃª.
 
 403
 00:32:53,387 --> 00:32:54,862
-Você pode
+VocÃª pode
 ter inventado isso.
 
 404
@@ -1824,7 +1824,7 @@ Estou bem onde estou.
 
 409
 00:33:27,035 --> 00:33:29,313
-Por que você tem
+Por que vocÃª tem
 esses desenhos no computador?
 
 410
@@ -1833,49 +1833,49 @@ Que desenhos?
 
 411
 00:33:35,110 --> 00:33:36,579
-A partição oculta.
+A partiÃ§Ã£o oculta.
 
 412
 00:33:38,425 --> 00:33:39,726
-Como você encontrou?
+Como vocÃª encontrou?
 
 413
 00:33:40,608 --> 00:33:42,158
-Não importa,
+NÃ£o importa,
 preciso que me diga
 
 414
 00:33:42,183 --> 00:33:43,828
-por que você fez
+por que vocÃª fez
 esses desenhos.
 
 415
 00:33:53,933 --> 00:33:56,269
-Você parece exatamente como...
+VocÃª parece exatamente como...
 
 416
 00:34:02,349 --> 00:34:04,855
 Puta merda,
-como isso está acontecendo?
+como isso estÃ¡ acontecendo?
 
 417
 00:34:06,435 --> 00:34:08,185
-É isso que estou
+Ã‰ isso que estou
 tentando descobrir.
 
 418
 00:34:08,986 --> 00:34:10,736
-<i>É por isso
+<i>Ã‰ por isso
 que precisamos conversar.</i>
 
 419
 00:34:42,114 --> 00:34:44,550
 Os arquivos
-na sua partição oculta,
+na sua partiÃ§Ã£o oculta,
 
 420
 00:34:46,662 --> 00:34:48,030
-o que são?
+o que sÃ£o?
 
 421
 00:34:52,609 --> 00:34:54,345
@@ -1884,7 +1884,7 @@ Quando eu fico entediado,
 422
 00:34:55,434 --> 00:34:57,369
 eu crio pessoas
-na minha cabeça.
+na minha cabeÃ§a.
 
 423
 00:34:59,426 --> 00:35:00,726
@@ -1892,12 +1892,12 @@ Como ele.
 
 424
 00:35:01,857 --> 00:35:04,703
-Alguém com uma vida
+AlguÃ©m com uma vida
 mais empolgante.
 
 425
 00:35:06,166 --> 00:35:07,566
-Como um super-herói.
+Como um super-herÃ³i.
 
 426
 00:35:09,448 --> 00:35:11,751
@@ -1906,17 +1906,17 @@ seria computadores.
 
 427
 00:35:13,379 --> 00:35:16,514
-<i>Ele seria técnico
-de cibersegurança pelo dia.</i>
+<i>Ele seria tÃ©cnico
+de ciberseguranÃ§a pelo dia.</i>
 
 428
 00:35:18,083 --> 00:35:20,085
 <i>E um hacker vigilante
-à noite.</i>
+Ã  noite.</i>
 
 429
 00:35:24,220 --> 00:35:25,755
-É isso o que você é?
+Ã‰ isso o que vocÃª Ã©?
 
 430
 00:35:34,246 --> 00:35:35,982
@@ -1934,7 +1934,7 @@ E a fsociety?
 
 433
 00:35:51,478 --> 00:35:53,495
-É só um nome idiota
+Ã‰ sÃ³ um nome idiota
 que eu inventei
 
 434
@@ -1960,11 +1960,11 @@ pensaria.
 
 439
 00:36:27,299 --> 00:36:30,045
-Esse é você, não é?
+Esse Ã© vocÃª, nÃ£o Ã©?
 
 440
 00:36:34,341 --> 00:36:36,559
-Por que você
+Por que vocÃª
 criou essa pessoa?
 
 441
@@ -1973,16 +1973,16 @@ Porque...
 
 442
 00:36:47,102 --> 00:36:51,868
-Às vezes eu fantasiava
+Ã€s vezes eu fantasiava
 em ser igual a ele.
 
 443
 00:36:54,846 --> 00:36:56,414
-Então você quer ser ele?
+EntÃ£o vocÃª quer ser ele?
 
 444
 00:37:01,006 --> 00:37:02,341
-Na verdade, não.
+Na verdade, nÃ£o.
 
 445
 00:37:02,924 --> 00:37:04,225
@@ -1990,19 +1990,19 @@ Olhe para ele.
 
 446
 00:37:05,559 --> 00:37:06,928
-<i>Ele é irritado.</i>
+<i>Ele Ã© irritado.</i>
 
 447
 00:37:08,460 --> 00:37:09,828
-<i>Ele não tem vida.</i>
+<i>Ele nÃ£o tem vida.</i>
 
 448
 00:37:12,030 --> 00:37:13,399
-Ele é solitário.
+Ele Ã© solitÃ¡rio.
 
 449
 00:37:14,499 --> 00:37:15,801
-<i>Ele não é normal.</i>
+<i>Ele nÃ£o Ã© normal.</i>
 
 450
 00:37:26,181 --> 00:37:27,882
@@ -2014,39 +2014,39 @@ Sinto muito.
 
 452
 00:37:33,232 --> 00:37:34,567
-<i>Ele não deveria sentir.</i>
+<i>Ele nÃ£o deveria sentir.</i>
 
 453
 00:37:35,253 --> 00:37:36,588
-<i>Ele está certo.</i>
+<i>Ele estÃ¡ certo.</i>
 
 454
 00:37:36,988 --> 00:37:40,125
-<i>Eu não sou normal,
+<i>Eu nÃ£o sou normal,
 e nunca serei,</i>
 
 455
 00:37:40,576 --> 00:37:42,807
-<i>- não importa em que mundo...</i>
-- O que é isso?
+<i>- nÃ£o importa em que mundo...</i>
+- O que Ã© isso?
 
 456
 00:37:44,299 --> 00:37:45,668
-<i>Você ouviu isso?</i>
+<i>VocÃª ouviu isso?</i>
 
 457
 00:37:46,896 --> 00:37:48,196
-O quê?
+O quÃª?
 
 458
 00:37:50,854 --> 00:37:52,990
-Parecia que você estava
-falando com alguém.
+Parecia que vocÃª estava
+falando com alguÃ©m.
 
 459
 00:37:54,148 --> 00:37:57,265
 <i>- Merda, ele pode nos ouvir.</i>
-- Olha aí, de novo.
+- Olha aÃ­, de novo.
 
 460
 00:38:03,171 --> 00:38:04,672
@@ -2058,7 +2058,7 @@ Isso foi um erro.
 
 462
 00:38:10,138 --> 00:38:12,848
-Aqui não é o meu lugar.
+Aqui nÃ£o Ã© o meu lugar.
 Foi burrice pensar que era.
 
 463
@@ -2071,7 +2071,7 @@ Espere.
 
 465
 00:38:37,173 --> 00:38:38,473
-<i>Você está bem?</i>
+<i>VocÃª estÃ¡ bem?</i>
 
 466
 00:38:42,099 --> 00:38:43,399
@@ -2091,42 +2091,42 @@ Espere.
 
 470
 00:39:19,384 --> 00:39:21,673
-- Alô?
+- AlÃ´?
 <i>- Meu Deus, Elliot.</i>
 
 471
 00:39:22,183 --> 00:39:23,484
-<i>O que você fez?</i>
+<i>O que vocÃª fez?</i>
 
 472
 00:39:25,263 --> 00:39:27,365
 - Angela.
-<i>- Você está fora de controle.</i>
+<i>- VocÃª estÃ¡ fora de controle.</i>
 
 473
 00:39:29,968 --> 00:39:32,203
 <i>- O livro.</i>
-- O quê?
+- O quÃª?
 
 474
 00:39:32,228 --> 00:39:35,116
-<i>Como você conseguiu?
-Você é incrível.</i>
+<i>Como vocÃª conseguiu?
+VocÃª Ã© incrÃ­vel.</i>
 
 475
 00:39:35,141 --> 00:39:37,491
-<i>Este é o melhor presente
-que já ganhei.</i>
+<i>Este Ã© o melhor presente
+que jÃ¡ ganhei.</i>
 
 476
 00:39:37,516 --> 00:39:40,014
 - Espere um segundo.
-<i>- Sério, Elliot,</i>
+<i>- SÃ©rio, Elliot,</i>
 
 477
 00:39:40,039 --> 00:39:42,703
 <i>tenho muita sorte de casar
-com alguém como você.</i>
+com alguÃ©m como vocÃª.</i>
 
 478
 00:39:43,234 --> 00:39:44,549
@@ -2134,70 +2134,70 @@ Angela.
 
 479
 00:39:45,126 --> 00:39:46,826
-Eu não sou
-quem você pensa que sou.
+Eu nÃ£o sou
+quem vocÃª pensa que sou.
 
 480
 00:39:46,851 --> 00:39:48,220
-<i>Não é?</i>
+<i>NÃ£o Ã©?</i>
 
 481
 00:39:48,695 --> 00:39:50,697
-<i>Então o que fez
+<i>EntÃ£o o que fez
 com o meu melhor amigo?</i>
 
 482
 00:39:50,722 --> 00:39:52,691
-Não, você não entende.
+NÃ£o, vocÃª nÃ£o entende.
 
 483
 00:39:57,784 --> 00:39:59,119
-Eu perdi você.
+Eu perdi vocÃª.
 
 484
 00:40:00,042 --> 00:40:01,377
-<i>O quê?</i>
+<i>O quÃª?</i>
 
 485
 00:40:01,650 --> 00:40:03,919
-<i>Você nunca me perdeu.
+<i>VocÃª nunca me perdeu.
 Estou bem aqui.</i>
 
 486
 00:40:06,254 --> 00:40:08,072
-Você não entendeu.
+VocÃª nÃ£o entendeu.
 
 487
 00:40:08,097 --> 00:40:09,832
-<i>Não, eu entendi.</i>
+<i>NÃ£o, eu entendi.</i>
 
 488
 00:40:11,409 --> 00:40:14,471
 <i>Tudo o que precisa fazer
-é aparecer amanhã,</i>
+Ã© aparecer amanhÃ£,</i>
 
 489
 00:40:15,020 --> 00:40:17,597
-<i>e então ficaremos juntos
+<i>e entÃ£o ficaremos juntos
 pelo resto de nossas vidas.</i>
 
 490
 00:40:17,622 --> 00:40:19,172
-<i>Não é isso que você
-também quer?</i>
+<i>NÃ£o Ã© isso que vocÃª
+tambÃ©m quer?</i>
 
 491
 00:40:21,066 --> 00:40:24,169
-É claro, mas...
+Ã‰ claro, mas...
 
 492
 00:40:24,517 --> 00:40:26,915
-<i>Elliot, você sempre
+<i>Elliot, vocÃª sempre
 se preocupa demais.</i>
 
 493
 00:40:27,758 --> 00:40:30,992
-<i>Você precisa
+<i>VocÃª precisa
 se permitir ser feliz.</i>
 
 494
@@ -2206,25 +2206,25 @@ se permitir ser feliz.</i>
 
 495
 00:40:33,891 --> 00:40:36,148
-<i>É uma escolha
-que você tem que fazer,</i>
+<i>Ã‰ uma escolha
+que vocÃª tem que fazer,</i>
 
 496
 00:40:36,173 --> 00:40:38,108
 <i>um interruptor
-que você precisa ligar.</i>
+que vocÃª precisa ligar.</i>
 
 497
 00:40:40,642 --> 00:40:42,011
-<i>Você me ama, Elliot?</i>
+<i>VocÃª me ama, Elliot?</i>
 
 498
 00:40:43,604 --> 00:40:44,973
-O quê?
+O quÃª?
 
 499
 00:40:45,604 --> 00:40:46,972
-<i>Você me ama?</i>
+<i>VocÃª me ama?</i>
 
 500
 00:40:50,685 --> 00:40:52,005
@@ -2236,17 +2236,17 @@ Eu sempre te amei.
 
 502
 00:40:59,686 --> 00:41:03,056
-<i>Ótimo,
-porque eu também te amo.</i>
+<i>Ã“timo,
+porque eu tambÃ©m te amo.</i>
 
 503
 00:41:05,330 --> 00:41:06,630
-<i>Então, que tal?</i>
+<i>EntÃ£o, que tal?</i>
 
 504
 00:41:07,376 --> 00:41:09,612
-<i>Quer começar uma vida nova
-comigo ou não?</i>
+<i>Quer comeÃ§ar uma vida nova
+comigo ou nÃ£o?</i>
 
 505
 00:41:10,268 --> 00:41:11,668
@@ -2255,11 +2255,11 @@ Mais do que tudo.
 506
 00:41:13,595 --> 00:41:16,282
 <i>Tudo bem,
-então está resolvido.</i>
+entÃ£o estÃ¡ resolvido.</i>
 
 507
 00:41:17,608 --> 00:41:18,908
-<i>Até amanhã.</i>
+<i>AtÃ© amanhÃ£.</i>
 
 508
 00:41:29,313 --> 00:41:30,613
@@ -2267,7 +2267,7 @@ então está resolvido.</i>
 
 509
 00:41:35,915 --> 00:41:37,450
-Ligue para alguém.
+Ligue para alguÃ©m.
 
 510
 00:41:43,116 --> 00:41:44,518
@@ -2275,24 +2275,24 @@ Ligue para alguém.
 
 511
 00:41:46,771 --> 00:41:48,306
-<i>Chame uma ambulância.</i>
+<i>Chame uma ambulÃ¢ncia.</i>
 
 512
 00:41:50,365 --> 00:41:51,665
-<i>Não consigo me mexer.</i>
+<i>NÃ£o consigo me mexer.</i>
 
 513
 00:41:54,403 --> 00:41:55,973
-Preciso de uma ambulância.
+Preciso de uma ambulÃ¢ncia.
 
 514
 00:42:01,152 --> 00:42:02,754
-Mas aí eu vou perdê-la.
+Mas aÃ­ eu vou perdÃª-la.
 
 515
 00:42:06,431 --> 00:42:08,300
-E eu não posso
-perdê-la de novo.
+E eu nÃ£o posso
+perdÃª-la de novo.
 
 516
 00:42:38,716 --> 00:42:40,085
@@ -2300,33 +2300,33 @@ Sinto muito.
 
 517
 00:43:06,829 --> 00:43:08,898
-<i>Acho que você também
-não deveria olhar.</i>
+<i>Acho que vocÃª tambÃ©m
+nÃ£o deveria olhar.</i>
 
 518
 00:43:40,516 --> 00:43:43,229
 <i>Por favor,
-não me julgue.</i>
+nÃ£o me julgue.</i>
 
 519
 00:43:43,254 --> 00:43:44,705
-<i>Isso era inevitável.</i>
+<i>Isso era inevitÃ¡vel.</i>
 
 520
 00:43:45,260 --> 00:43:47,025
-<i>Você viu os terremotos.</i>
+<i>VocÃª viu os terremotos.</i>
 
 521
 00:43:47,579 --> 00:43:50,015
-<i>Nós dois não podemos
+<i>NÃ³s dois nÃ£o podemos
 existir nesse mundo.</i>
 
 522
 00:43:51,963 --> 00:43:53,799
-<i>Eu não tive escolha.</i>
+<i>Eu nÃ£o tive escolha.</i>
 
 523
 00:43:54,704 --> 00:43:57,646
-Dê adeus conosco
+DÃª adeus conosco
 t.me/RedWheelBarrowTeam
 
