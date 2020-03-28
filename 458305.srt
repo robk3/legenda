@@ -1,4 +1,14 @@
-﻿1
+1
+00:00:00,167 --> 00:00:08,000
+Baixe ja nosso aplicativo na play store
+Procure por: Smart Play
+
+1.1
+00:00:08,625 --> 00:00:16,628
+Smart Play
+Agradece a Preferencia
+
+1
 00:01:49,574 --> 00:01:52,778
 Hoje vamos fingir
 ser árvores.
