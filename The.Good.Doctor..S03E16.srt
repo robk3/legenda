@@ -1,7 +1,7 @@
 1
 00:00:01,176 --> 00:00:03,291
 Por volta de 60 anos,
-caída na calçada,
+caÃ­da na calÃ§ada,
 
 2
 00:00:03,292 --> 00:00:05,461
@@ -10,13 +10,13 @@ talvez costelas quebradas.
 
 3
 00:00:05,462 --> 00:00:06,923
-- Possível infarto.
+- PossÃ­vel infarto.
 - Caiu?
 
 4
 00:00:06,924 --> 00:00:09,141
-Está muito desorientada,
-não disse nada.
+EstÃ¡ muito desorientada,
+nÃ£o disse nada.
 
 5
 00:00:09,142 --> 00:00:10,647
@@ -24,7 +24,7 @@ Coley?
 
 6
 00:00:11,130 --> 00:00:13,844
-Não,
+NÃ£o,
 eu sou o Dr. Shaun Murphy.
 
 7
@@ -34,7 +34,7 @@ Pode me ajudar, Coley?
 8
 00:00:17,577 --> 00:00:19,810
 Eu preciso,
-é o meu trabalho.
+Ã© o meu trabalho.
 
 9
 00:00:19,811 --> 00:00:22,798
@@ -43,13 +43,13 @@ Checando o pulso.
 
 10
 00:00:24,507 --> 00:00:28,011
-- Pulso radial está normal.
+- Pulso radial estÃ¡ normal.
 - Muito mais fraco na perna.
 
 11
 00:00:28,012 --> 00:00:30,057
 Aneurisma
-torácico descendente.
+torÃ¡cico descendente.
 
 12
 00:00:31,826 --> 00:00:33,918
@@ -67,7 +67,7 @@ com um skate do meu lado.
 
 15
 00:00:42,138 --> 00:00:45,526
-- Mas não posso andar de skate.
+- Mas nÃ£o posso andar de skate.
 - Obviamente.
 
 16
@@ -77,30 +77,30 @@ Ou fumando algo?
 
 17
 00:00:48,073 --> 00:00:50,078
-Não... para ambos.
+NÃ£o... para ambos.
 
 18
 00:00:50,755 --> 00:00:53,095
-Existem universitários
-que se abstêm.
+Existem universitÃ¡rios
+que se abstÃªm.
 
 19
 00:00:53,096 --> 00:00:55,180
-Você é incrivelmente sortudo.
+VocÃª Ã© incrivelmente sortudo.
 
 20
 00:00:55,181 --> 00:00:58,301
-Meio centímetro a mais
-e teria sangrado até a morte.
+Meio centÃ­metro a mais
+e teria sangrado atÃ© a morte.
 
 21
 00:01:02,857 --> 00:01:04,478
-Parede aórtica
-está rasgando.
+Parede aÃ³rtica
+estÃ¡ rasgando.
 
 22
 00:01:04,479 --> 00:01:07,369
-Não esperaria menos,
+NÃ£o esperaria menos,
 60 anos e deve ser sem-teto.
 
 23
@@ -109,7 +109,7 @@ Troque para a sutura 5-0.
 
 24
 00:01:14,112 --> 00:01:16,245
-Não está ótimo,
+NÃ£o estÃ¡ Ã³timo,
 mas melhorou.
 
 25
@@ -133,56 +133,56 @@ Sinto muito, Shaun.
 29
 00:01:37,516 --> 00:01:39,745
 O que houve?
-Achei que estavam ótimos.
+Achei que estavam Ã³timos.
 
 30
 00:01:39,746 --> 00:01:42,299
-Estávamos, e depois,
-acho que não estávamos.
+EstÃ¡vamos, e depois,
+acho que nÃ£o estÃ¡vamos.
 
 31
 00:01:42,300 --> 00:01:43,807
-Pinçamento.
+PinÃ§amento.
 
 32
 00:01:45,260 --> 00:01:48,830
 - Deve estar muito magoado?
-- Não, eu estou bem.
+- NÃ£o, eu estou bem.
 
 33
 00:01:50,772 --> 00:01:52,286
-Todos já passamos por isso.
+Todos jÃ¡ passamos por isso.
 
 34
 00:01:52,287 --> 00:01:54,289
 Ajuda muito aceitar
-que está magoado.
+que estÃ¡ magoado.
 
 35
 00:01:54,290 --> 00:01:57,129
-Não há nada para eu aceitar.
+NÃ£o hÃ¡ nada para eu aceitar.
 
 36
 00:01:58,086 --> 00:02:00,353
-Ela está tendo epistaxe.
+Ela estÃ¡ tendo epistaxe.
 
 37
 00:02:00,354 --> 00:02:02,376
-Ruptura da carótida,
+Ruptura da carÃ³tida,
 dois cateteres!
 
 38
 00:02:02,377 --> 00:02:03,894
-Dê protamina, rápido!
+DÃª protamina, rÃ¡pido!
 
 39
 00:02:06,600 --> 00:02:08,134
-Pressão está a 68 por 44.
+PressÃ£o estÃ¡ a 68 por 44.
 
 40
 00:02:08,135 --> 00:02:10,176
-Aplicando pressão
-nas duas carótidas.
+Aplicando pressÃ£o
+nas duas carÃ³tidas.
 
 41
 00:02:10,177 --> 00:02:11,577
@@ -196,32 +196,32 @@ Continua com hemorragia interna.
 43
 00:02:16,989 --> 00:02:19,279
 Quatro unidades de CH
-e ácido tranexâmico.
+e Ã¡cido tranexÃ¢mico.
 
 44
 00:02:19,280 --> 00:02:21,682
-700 miligramas de ácido.
+700 miligramas de Ã¡cido.
 
 45
 00:02:22,007 --> 00:02:23,425
-Sem perfusão distal.
+Sem perfusÃ£o distal.
 
 46
 00:02:23,426 --> 00:02:25,649
-Precisamos segurar a carótida.
-Lâmina 10.
+Precisamos segurar a carÃ³tida.
+LÃ¢mina 10.
 
 47
 00:02:31,776 --> 00:02:33,576
-Sucção, pinças, vamos!
+SucÃ§Ã£o, pinÃ§as, vamos!
 
 48
 00:02:46,524 --> 00:02:47,979
-Não consigo ver nada.
+NÃ£o consigo ver nada.
 
 49
 00:02:47,980 --> 00:02:49,703
-Ela está com pouco sangue.
+Ela estÃ¡ com pouco sangue.
 
 50
 00:03:01,334 --> 00:03:03,898
@@ -244,22 +244,22 @@ Mrs. G | Darwina | LayHolmes</b>
 
 54
 00:03:35,205 --> 00:03:37,205
-<b>Revisão:
+<b>RevisÃ£o:
 PedroSPJ</b>
 
 55
 00:03:42,012 --> 00:03:43,820
-Jane não deveria
+Jane nÃ£o deveria
 ter morrido.
 
 56
 00:03:44,217 --> 00:03:46,116
-Não assim,
-não daquele jeito.
+NÃ£o assim,
+nÃ£o daquele jeito.
 
 57
 00:03:46,117 --> 00:03:49,001
-A carótida dela estourou.
+A carÃ³tida dela estourou.
 O que deixei passar?
 
 58
@@ -269,22 +269,22 @@ Dr. Murphy.
 
 59
 00:03:55,023 --> 00:03:57,024
-É outra coisa
+Ã‰ outra coisa
 que precisamos aceitar.
 
 60
 00:04:01,926 --> 00:04:03,872
-O próximo paciente
+O prÃ³ximo paciente
 te aguarda no PS.
 
 61
 00:04:14,269 --> 00:04:16,952
 - Como se sente, Aiden?
-- Incrível!
+- IncrÃ­vel!
 
 62
 00:04:16,953 --> 00:04:19,016
-Seja lá
+Seja lÃ¡
 o que fizeram comigo.
 
 63
@@ -294,18 +294,18 @@ o que fizeram comigo.
 
 64
 00:04:22,421 --> 00:04:24,966
-conversando com duas médicas
+conversando com duas mÃ©dicas
 muito atraentes.
 
 65
 00:04:27,553 --> 00:04:31,828
-É o que rola ao misturar erva
+Ã‰ o que rola ao misturar erva
 com minhas habilidades de skate.
 
 66
 00:04:31,829 --> 00:04:33,546
-Você disse
-que não usa drogas.
+VocÃª disse
+que nÃ£o usa drogas.
 
 67
 00:04:33,547 --> 00:04:36,143
@@ -328,15 +328,15 @@ Acreditem, eu lembraria.
 71
 00:04:56,096 --> 00:04:59,190
 Gostaria de pedir
-uma autópsia para a Jane.
+uma autÃ³psia para a Jane.
 
 72
 00:04:59,191 --> 00:05:00,537
-Já falamos sobre isso.
+JÃ¡ falamos sobre isso.
 
 73
 00:05:00,538 --> 00:05:02,893
-Não tem nada suspeito
+NÃ£o tem nada suspeito
 na morte dela.
 
 74
@@ -351,40 +351,40 @@ com Dr. Melendez.
 
 76
 00:05:09,248 --> 00:05:11,163
-Não autorizo a autópsia.
+NÃ£o autorizo a autÃ³psia.
 
 77
 00:05:11,164 --> 00:05:14,720
 - As paredes vasculares...
-- É difícil perder um paciente.
+- Ã‰ difÃ­cil perder um paciente.
 
 78
 00:05:14,721 --> 00:05:16,773
-É tão difícil quanto perder
+Ã‰ tÃ£o difÃ­cil quanto perder
 uma namorada.
 
 79
 00:05:16,774 --> 00:05:21,045
-Estou bem, e não sei por que
-ninguém acredita em mim...
+Estou bem, e nÃ£o sei por que
+ninguÃ©m acredita em mim...
 
 80
 00:05:21,046 --> 00:05:24,919
-- Não é bom estar bem?
-- Não quando algo ruim acontece.
+- NÃ£o Ã© bom estar bem?
+- NÃ£o quando algo ruim acontece.
 
 81
 00:05:24,920 --> 00:05:27,317
-Deveríamos sentir a dor.
+DeverÃ­amos sentir a dor.
 
 82
 00:05:32,496 --> 00:05:36,335
-Se não aprovar a autópsia,
+Se nÃ£o aprovar a autÃ³psia,
 
 83
 00:05:36,336 --> 00:05:38,648
-pegarei a aprovação
-com a família da Jane.
+pegarei a aprovaÃ§Ã£o
+com a famÃ­lia da Jane.
 
 84
 00:05:39,225 --> 00:05:40,525
@@ -392,13 +392,13 @@ Boa sorte com isso.
 
 85
 00:05:40,526 --> 00:05:43,459
-Segundo os papéis,
-ela é indigente.
+Segundo os papÃ©is,
+ela Ã© indigente.
 
 86
 00:06:00,469 --> 00:06:03,716
-Está dizendo que tenho
-lapsos de memória?
+EstÃ¡ dizendo que tenho
+lapsos de memÃ³ria?
 
 87
 00:06:03,717 --> 00:06:06,783
@@ -407,8 +407,8 @@ ou uso de drogas.
 
 88
 00:06:06,784 --> 00:06:10,221
-Tenho certeza que eu já disse
-que não uso drogas.
+Tenho certeza que eu jÃ¡ disse
+que nÃ£o uso drogas.
 
 89
 00:06:13,595 --> 00:06:15,132
@@ -417,22 +417,22 @@ Vivo como um monge.
 90
 00:06:15,522 --> 00:06:18,434
 Dormir, aulas, estudos, repetir.
-Só isso.
+SÃ³ isso.
 
 91
 00:06:18,435 --> 00:06:20,746
-Você também nos disse
+VocÃª tambÃ©m nos disse
 exatamente o oposto.
 
 92
 00:06:37,106 --> 00:06:38,778
 Preciso achar
-a família da Jane
+a famÃ­lia da Jane
 
 93
 00:06:38,779 --> 00:06:41,030
-e pegar a permissão
-para fazer a autópsia.
+e pegar a permissÃ£o
+para fazer a autÃ³psia.
 
 94
 00:06:41,031 --> 00:06:42,383
@@ -440,26 +440,26 @@ Dra. Lim me desejou sorte,
 
 95
 00:06:42,384 --> 00:06:44,688
-mas Jane não tem documentos,
+mas Jane nÃ£o tem documentos,
 bolsa ou telefone.
 
 96
 00:06:44,689 --> 00:06:46,637
-Não sabemos nada sobre ela.
+NÃ£o sabemos nada sobre ela.
 
 97
 00:06:52,226 --> 00:06:55,467
 Isso deveria ser interessante
-para você.
+para vocÃª.
 
 98
 00:06:55,468 --> 00:06:58,497
 - Costumava ser um detetive.
-- E agora sou médico,
+- E agora sou mÃ©dico,
 
 99
 00:06:58,498 --> 00:07:00,760
-como você também é,
+como vocÃª tambÃ©m Ã©,
 e ambos temos um caso.
 
 100
@@ -468,11 +468,11 @@ Um caso entediante.
 
 101
 00:07:02,510 --> 00:07:04,107
-Ele tem cálculos biliares.
+Ele tem cÃ¡lculos biliares.
 
 102
 00:07:12,081 --> 00:07:14,418
-Você e Melendez
+VocÃª e Melendez
 voltaram a ser parceiros?
 
 103
@@ -482,12 +482,12 @@ a ser um bom mentor.
 
 104
 00:07:19,828 --> 00:07:21,801
-Minha reclamação
-não deu em nada.
+Minha reclamaÃ§Ã£o
+nÃ£o deu em nada.
 
 105
 00:07:23,552 --> 00:07:24,852
-Você?
+VocÃª?
 
 106
 00:07:27,497 --> 00:07:30,342
@@ -502,17 +502,17 @@ que focasse no trabalho.
 108
 00:07:32,834 --> 00:07:35,104
 Bom motivo,
-péssimo julgamento do caráter.
+pÃ©ssimo julgamento do carÃ¡ter.
 
 109
 00:07:35,105 --> 00:07:38,509
-E você não gosta que o Melendez
+E vocÃª nÃ£o gosta que o Melendez
 voltou a ser um bom mentor?
 
 110
 00:07:38,510 --> 00:07:40,316
-Não gosto
-que ele goste de você.
+NÃ£o gosto
+que ele goste de vocÃª.
 
 111
 00:07:40,317 --> 00:07:44,192
@@ -521,12 +521,12 @@ e eu sejamos coadjuvantes.
 
 112
 00:07:46,798 --> 00:07:50,092
-Para alguém cínica,
-você é incrivelmente ingênua.
+Para alguÃ©m cÃ­nica,
+vocÃª Ã© incrivelmente ingÃªnua.
 
 113
 00:07:50,414 --> 00:07:51,714
-Direi o que você fez.
+Direi o que vocÃª fez.
 
 114
 00:07:51,715 --> 00:07:54,051
@@ -544,17 +544,17 @@ duvidar do julgamento dele.
 
 117
 00:07:57,659 --> 00:08:01,125
-Fez ele se ressentir com você,
+Fez ele se ressentir com vocÃª,
 Shaun, Park e comigo.
 
 118
 00:08:02,862 --> 00:08:05,678
 Gostaria de pensar que mudar
-o status quo é tão fácil.
+o status quo Ã© tÃ£o fÃ¡cil.
 
 119
 00:08:06,182 --> 00:08:07,866
-Mas sou bem ingênua.
+Mas sou bem ingÃªnua.
 
 120
 00:08:11,079 --> 00:08:14,688
@@ -573,11 +573,11 @@ Achei que estava dormindo.
 123
 00:08:20,950 --> 00:08:23,493
 Ver ondas cerebrais,
-não deve ser tão emocionante.
+nÃ£o deve ser tÃ£o emocionante.
 
 124
 00:08:23,494 --> 00:08:25,691
-Não quando são normais,
+NÃ£o quando sÃ£o normais,
 como as suas.
 
 125
@@ -587,16 +587,16 @@ Exceto essas ondas deltas.
 126
 00:08:30,009 --> 00:08:32,066
 Elas dizem
-que você está dormindo.
+que vocÃª estÃ¡ dormindo.
 
 127
 00:08:41,797 --> 00:08:44,091
-Espero que não planeje fazer
+Espero que nÃ£o planeje fazer
 nenhum corte.
 
 128
 00:08:45,235 --> 00:08:48,972
-Jane prótese no joelho
+Jane prÃ³tese no joelho
 usando o sistema LCS,
 
 129
@@ -606,35 +606,35 @@ ao menos 30 anos.
 
 130
 00:08:51,155 --> 00:08:55,352
-Também tinha muitas cavidades,
+TambÃ©m tinha muitas cavidades,
 coroas e implantes.
 
 131
 00:08:56,403 --> 00:08:58,165
-Isso são pistas, certo?
+Isso sÃ£o pistas, certo?
 
 132
 00:09:00,831 --> 00:09:03,544
-Isso não se trata
-de você perder uma paciente.
+Isso nÃ£o se trata
+de vocÃª perder uma paciente.
 
 133
 00:09:04,303 --> 00:09:06,388
-Está ocupando seu tempo.
+EstÃ¡ ocupando seu tempo.
 
 134
 00:09:07,362 --> 00:09:10,388
-Não larga a Jane
-porque não quer largar a Carly.
+NÃ£o larga a Jane
+porque nÃ£o quer largar a Carly.
 
 135
 00:09:22,926 --> 00:09:24,226
-O quê?
+O quÃª?
 
 136
 00:09:27,426 --> 00:09:30,355
-Você é um médico agora.
-Não achará isso interessante.
+VocÃª Ã© um mÃ©dico agora.
+NÃ£o acharÃ¡ isso interessante.
 
 137
 00:09:47,948 --> 00:09:49,248
@@ -646,32 +646,32 @@ Estou correto?
 
 139
 00:09:54,773 --> 00:09:57,641
-A polícia tem um banco de dados
+A polÃ­cia tem um banco de dados
 de marcas distintivas.
 
 140
 00:09:57,642 --> 00:10:01,682
 Jane Doe, sem teto.
-Com certeza está no sistema.
+Com certeza estÃ¡ no sistema.
 
 141
 00:10:01,683 --> 00:10:03,766
-Como está o Sr. Ginley?
+Como estÃ¡ o Sr. Ginley?
 
 142
 00:10:03,767 --> 00:10:06,390
-É no caso dele
+Ã‰ no caso dele
 que deveriam estar trabalhando.
 
 143
 00:10:06,391 --> 00:10:10,349
-Detectamos cálculos biliares
+Detectamos cÃ¡lculos biliares
 e marcamos a colecistectomia.
 
 144
 00:10:10,350 --> 00:10:13,708
-É um caso muito simples,
-não requer investigação.
+Ã‰ um caso muito simples,
+nÃ£o requer investigaÃ§Ã£o.
 
 145
 00:10:15,141 --> 00:10:16,724
@@ -680,7 +680,7 @@ Com essa atitude,
 146
 00:10:16,725 --> 00:10:18,975
 pode acabar mandando
-mais um pro necrotério.
+mais um pro necrotÃ©rio.
 
 147
 00:10:20,725 --> 00:10:22,475
@@ -688,8 +688,8 @@ Foque nos vivos.
 
 148
 00:10:26,225 --> 00:10:28,850
-Ele está certo.
-Precisamos largar isto de mão.
+Ele estÃ¡ certo.
+Precisamos largar isto de mÃ£o.
 
 149
 00:10:32,100 --> 00:10:33,934
@@ -697,8 +697,8 @@ Shaun.
 
 150
 00:10:36,141 --> 00:10:39,265
-Você e a Carly compartilharam
-muitas primeiras experiências.
+VocÃª e a Carly compartilharam
+muitas primeiras experiÃªncias.
 
 151
 00:10:39,266 --> 00:10:41,591
@@ -707,7 +707,7 @@ que siga em frente.
 
 152
 00:10:43,100 --> 00:10:45,474
-Tive com a Lea também.
+Tive com a Lea tambÃ©m.
 
 153
 00:10:45,475 --> 00:10:47,934
@@ -720,35 +720,35 @@ Certo?
 
 155
 00:10:55,391 --> 00:10:57,683
-Como você segue em frente?
+Como vocÃª segue em frente?
 
 156
 00:11:18,558 --> 00:11:20,575
-Olá, Kenny,
+OlÃ¡, Kenny,
 preciso de um nome.
 
 157
 00:11:22,600 --> 00:11:24,850
-Isso fica entre nós.
+Isso fica entre nÃ³s.
 
 158
 00:11:26,433 --> 00:11:28,767
-Iremos disfarçados.
+Iremos disfarÃ§ados.
 
 159
 00:11:30,225 --> 00:11:33,390
 As causas do sonambulismo
-abrangem motivos mais sérios,
+abrangem motivos mais sÃ©rios,
 
 160
 00:11:33,391 --> 00:11:35,474
-como tumor no cérebro,
-esclerose múltipla,
+como tumor no cÃ©rebro,
+esclerose mÃºltipla,
 
 161
 00:11:35,475 --> 00:11:37,849
 a coisas mundanas,
-como o uso de álcool e droga,
+como o uso de Ã¡lcool e droga,
 
 162
 00:11:37,850 --> 00:11:40,016
@@ -757,16 +757,16 @@ estresse e falta de higiene.
 163
 00:11:40,017 --> 00:11:43,390
 Para eliminarmos alguns motivos,
-precisamos do histórico,
+precisamos do histÃ³rico,
 
 164
 00:11:43,391 --> 00:11:46,557
 mas cada um
-tem a sua própria versão.
+tem a sua prÃ³pria versÃ£o.
 
 165
 00:11:46,558 --> 00:11:48,349
-Então, entrevistamos os dois.
+EntÃ£o, entrevistamos os dois.
 
 166
 00:11:48,350 --> 00:11:50,891
@@ -793,21 +793,21 @@ as minhas notas altas.
 
 171
 00:12:09,558 --> 00:12:11,642
-O que vocês acham?
+O que vocÃªs acham?
 
 172
 00:12:12,433 --> 00:12:15,265
 Precisa se importar com algo
-para ficar estressado, né?
+para ficar estressado, nÃ©?
 
 173
 00:12:15,266 --> 00:12:17,807
-Já que estou mantendo-as alta
-sem me esforçar.
+JÃ¡ que estou mantendo-as alta
+sem me esforÃ§ar.
 
 174
 00:12:17,808 --> 00:12:19,682
-Talvez uma taça de vinho
+Talvez uma taÃ§a de vinho
 em uma festa.
 
 175
@@ -816,12 +816,12 @@ Eu bebo pouco...
 
 176
 00:12:21,433 --> 00:12:23,933
-Quando não estou bebendo muito.
+Quando nÃ£o estou bebendo muito.
 
 177
 00:12:23,934 --> 00:12:26,432
 Cochila,
-faz exercício antes de dormir?
+faz exercÃ­cio antes de dormir?
 
 178
 00:12:26,433 --> 00:12:28,182
@@ -831,7 +831,7 @@ malho 5x na semana.
 179
 00:12:28,183 --> 00:12:31,641
 Nunca antes de dormir,
-que é 0h, 0h30 no máximo.
+que Ã© 0h, 0h30 no mÃ¡ximo.
 
 180
 00:12:31,642 --> 00:12:34,349
@@ -845,7 +845,7 @@ logo antes de dormir.
 
 182
 00:12:40,183 --> 00:12:43,266
-Isso explica as dores de cabeça
+Isso explica as dores de cabeÃ§a
 com que ando acordando.
 
 183
@@ -854,15 +854,15 @@ Nunca achei que fosse ressaca.
 
 184
 00:12:51,017 --> 00:12:53,225
-Ele é um Cro-Magnon.
+Ele Ã© um Cro-Magnon.
 
 185
 00:12:55,059 --> 00:12:56,892
-Ele não sou eu.
+Ele nÃ£o sou eu.
 
 186
 00:12:59,975 --> 00:13:01,892
-Ele não pode ser.
+Ele nÃ£o pode ser.
 
 187
 00:13:11,433 --> 00:13:14,100
@@ -883,7 +883,7 @@ receberam
 
 191
 00:13:25,225 --> 00:13:28,516
-a 4ª edição do evento
+a 4Âª ediÃ§Ã£o do evento
 beneficente Amigos Necessitados.
 
 192
@@ -893,7 +893,7 @@ Maribel Ventane, 33,
 193
 00:13:30,767 --> 00:13:33,307
 estava a um salto
-de conquistar o 1º lugar...
+de conquistar o 1Âº lugar...
 
 194
 00:13:33,308 --> 00:13:36,349
@@ -925,7 +925,7 @@ Jules.
 200
 00:13:48,475 --> 00:13:51,058
 Marco Ventane, 63,
-faleceu em sua residência.
+faleceu em sua residÃªncia.
 
 201
 00:13:51,059 --> 00:13:53,975
@@ -938,7 +938,7 @@ O encontrei.
 
 203
 00:14:30,225 --> 00:14:33,599
-- Você é o Jules Ventane?
+- VocÃª Ã© o Jules Ventane?
 - Sou.
 
 204
@@ -947,12 +947,12 @@ Sou o Dr. Shaun Murphy,
 
 205
 00:14:35,183 --> 00:14:37,641
-tratei recentemente a sua mãe,
+tratei recentemente a sua mÃ£e,
 Maribel.
 
 206
 00:14:37,642 --> 00:14:39,599
-Morreu no centro cirúrgico.
+Morreu no centro cirÃºrgico.
 
 207
 00:14:39,600 --> 00:14:41,390
@@ -965,16 +965,16 @@ Chegou com um aneurisma rompido.
 
 209
 00:14:45,183 --> 00:14:47,182
-Não tínhamos muito o que fazer,
+NÃ£o tÃ­nhamos muito o que fazer,
 
 210
 00:14:47,183 --> 00:14:51,017
-mas gostaríamos de ter certeza
+mas gostarÃ­amos de ter certeza
 da causa da morte.
 
 211
 00:14:54,725 --> 00:14:57,183
-Não me importo
+NÃ£o me importo
 com como ela morreu.
 
 212
@@ -984,7 +984,7 @@ de seguir em frente?
 
 213
 00:15:14,519 --> 00:15:16,395
-Esse é o momento
+Esse Ã© o momento
 para fazer isso.
 
 214
@@ -994,37 +994,37 @@ com os Aidens?
 
 215
 00:15:30,274 --> 00:15:33,391
-São opostos
+SÃ£o opostos
 em todos os quesitos.
 
 216
 00:15:33,392 --> 00:15:35,343
-Então voltamos para a lista
+EntÃ£o voltamos para a lista
 da Dra. Lim.
 
 217
 00:15:35,344 --> 00:15:37,829
 Talvez devemos procurar
-síndromes paraneoplásicas.
+sÃ­ndromes paraneoplÃ¡sicas.
 
 218
 00:15:37,830 --> 00:15:40,297
 Talvez considerar
-problemas psiquiátricos...
+problemas psiquiÃ¡tricos...
 
 219
 00:15:40,298 --> 00:15:43,115
-Pode ser crise psicótica
+Pode ser crise psicÃ³tica
 ou dissociativa.
 
 220
 00:15:43,962 --> 00:15:46,313
-Tenho experiência pessoal
+Tenho experiÃªncia pessoal
 
 221
 00:15:46,314 --> 00:15:48,361
 com pessoas
-com problemas psiquiátricos.
+com problemas psiquiÃ¡tricos.
 
 222
 00:15:48,362 --> 00:15:50,998
@@ -1038,40 +1038,40 @@ E tireotoxicose?
 224
 00:15:54,541 --> 00:15:56,435
 Sem irritabilidade,
-agitação.
+agitaÃ§Ã£o.
 
 225
 00:15:56,436 --> 00:15:59,275
-Síndromes paraneoplásicas
-causam perda de coordenação,
+SÃ­ndromes paraneoplÃ¡sicas
+causam perda de coordenaÃ§Ã£o,
 
 226
 00:15:59,276 --> 00:16:02,046
 - o que poderia ter causado...
-- Experiências pessoais
+- ExperiÃªncias pessoais
 
 227
 00:16:02,047 --> 00:16:04,436
-nós tornam menos efetivos
+nÃ³s tornam menos efetivos
 em detectar sintomas.
 
 228
 00:16:04,437 --> 00:16:07,766
-Sabe que sempre me esforço
+Sabe que sempre me esforÃ§o
 para ser mais objetiva.
 
 229
 00:16:07,767 --> 00:16:09,278
-Dessa vez não está sendo.
+Dessa vez nÃ£o estÃ¡ sendo.
 
 230
 00:16:10,277 --> 00:16:12,994
 A maioria dos casos
-de síndromes paraneoplásicas
+de sÃ­ndromes paraneoplÃ¡sicas
 
 231
 00:16:12,995 --> 00:16:14,395
-contém anticorpos.
+contÃ©m anticorpos.
 
 232
 00:16:14,980 --> 00:16:17,067
@@ -1081,22 +1081,22 @@ um resultado normal.
 233
 00:16:17,068 --> 00:16:18,705
 A maioria
-de todas as doenças
+de todas as doenÃ§as
 
 234
 00:16:18,706 --> 00:16:21,159
-não tem brigas
+nÃ£o tem brigas
 com entidades dia e noite.
 
 235
 00:16:21,160 --> 00:16:23,588
-- É só uma ideia.
-- Está minando a minha.
+- Ã‰ sÃ³ uma ideia.
+- EstÃ¡ minando a minha.
 
 236
 00:16:23,589 --> 00:16:26,088
-A sua é brilhante.
-Vá desperdiçar seu tempo.
+A sua Ã© brilhante.
+VÃ¡ desperdiÃ§ar seu tempo.
 
 237
 00:16:26,089 --> 00:16:27,612
@@ -1104,26 +1104,26 @@ Obrigado aos dois.
 
 238
 00:16:27,613 --> 00:16:29,814
-Faça ressonância
+FaÃ§a ressonÃ¢ncia
 para tumor e esclerose,
 
 239
 00:16:29,815 --> 00:16:34,163
 PL para encefalite e CFS
-para síndromes paraneoplásicas.
+para sÃ­ndromes paraneoplÃ¡sicas.
 
 240
 00:16:35,464 --> 00:16:37,201
-E uma consulta psicológica.
+E uma consulta psicolÃ³gica.
 
 241
 00:16:47,749 --> 00:16:50,512
-MENSAGEM DE MÃE
-NÃO É UMA BOA HORA.
+MENSAGEM DE MÃƒE
+NÃƒO Ã‰ UMA BOA HORA.
 
 242
 00:17:02,794 --> 00:17:04,194
-Não.
+NÃ£o.
 
 243
 00:17:17,352 --> 00:17:18,752
@@ -1135,7 +1135,7 @@ Sou a Dra. Lim.
 
 245
 00:17:23,672 --> 00:17:25,497
-E você é?
+E vocÃª Ã©?
 
 246
 00:17:25,498 --> 00:17:26,916
@@ -1143,20 +1143,20 @@ Trinity.
 
 247
 00:17:27,634 --> 00:17:29,329
-Onde estão seus pais?
+Onde estÃ£o seus pais?
 
 248
 00:17:30,488 --> 00:17:32,480
-Minha mãe
-está na maternidade.
+Minha mÃ£e
+estÃ¡ na maternidade.
 
 249
 00:17:32,481 --> 00:17:34,251
-Ela está tendo um bebê?
+Ela estÃ¡ tendo um bebÃª?
 
 250
 00:17:34,252 --> 00:17:36,300
-Já teve.
+JÃ¡ teve.
 Uma menina.
 
 251
@@ -1165,12 +1165,12 @@ Maravilhoso.
 
 252
 00:17:38,245 --> 00:17:39,847
-E por que está andando
-por aí?
+E por que estÃ¡ andando
+por aÃ­?
 
 253
 00:17:39,848 --> 00:17:43,080
-Minha mãe me mandou na cafeteria
+Minha mÃ£e me mandou na cafeteria
 comprar um salgadinho,
 
 254
@@ -1179,7 +1179,7 @@ mas me perdi.
 
 255
 00:17:45,732 --> 00:17:47,296
-Três vezes?
+TrÃªs vezes?
 
 256
 00:17:53,217 --> 00:17:56,265
@@ -1193,12 +1193,12 @@ Trinity!
 258
 00:18:00,435 --> 00:18:02,093
 Por favor,
-chame a segurança.
+chame a seguranÃ§a.
 
 259
 00:18:22,903 --> 00:18:25,184
 - Pare o carro.
-- Não.
+- NÃ£o.
 
 260
 00:18:25,870 --> 00:18:27,957
@@ -1207,18 +1207,18 @@ chame a segurança.
 
 261
 00:18:27,958 --> 00:18:30,812
-- Preciso da sua permissão!
-- Não faça isso, Shaun!
+- Preciso da sua permissÃ£o!
+- NÃ£o faÃ§a isso, Shaun!
 
 262
 00:18:30,813 --> 00:18:32,532
-- Preciso da sua permissão!
-- Não!
+- Preciso da sua permissÃ£o!
+- NÃ£o!
 
 263
 00:18:32,533 --> 00:18:35,857
-Não pode acabar!
-Não pode acabar!
+NÃ£o pode acabar!
+NÃ£o pode acabar!
 
 264
 00:18:35,858 --> 00:18:37,707
@@ -1227,32 +1227,32 @@ Precisa esquecer a Carly!
 265
 00:18:37,708 --> 00:18:40,226
 - Precisa esquecer a Carly!
-- Não é sobre a Carly!
+- NÃ£o Ã© sobre a Carly!
 
 266
 00:18:40,227 --> 00:18:43,328
-Também não é sobre isso.
-Ele está ligando para a polícia!
+TambÃ©m nÃ£o Ã© sobre isso.
+Ele estÃ¡ ligando para a polÃ­cia!
 
 267
 00:18:43,329 --> 00:18:45,093
 - Abra a porta!
-- Você será preso!
+- VocÃª serÃ¡ preso!
 
 268
 00:18:45,094 --> 00:18:47,664
 - Abra a porta!
-- Ele está ligando pra polícia!
+- Ele estÃ¡ ligando pra polÃ­cia!
 
 269
 00:18:47,665 --> 00:18:50,812
-- Venha aqui! Shaun! Não!
+- Venha aqui! Shaun! NÃ£o!
 - Abra...
 
 270
 00:19:05,413 --> 00:19:08,282
 Meu Deus.
-Shaun, você está bem?
+Shaun, vocÃª estÃ¡ bem?
 
 271
 00:19:08,283 --> 00:19:10,954
@@ -1261,13 +1261,13 @@ Perdi minha cirurgia.
 
 272
 00:19:10,955 --> 00:19:14,415
-Não se preocupe sobre isso.
-Park foi, está tudo bem.
+NÃ£o se preocupe sobre isso.
+Park foi, estÃ¡ tudo bem.
 
 273
 00:19:14,416 --> 00:19:17,642
 - Terei que voltar pra cadeia?
-- Não. Não.
+- NÃ£o. NÃ£o.
 
 274
 00:19:18,492 --> 00:19:20,884
@@ -1277,11 +1277,11 @@ com um ex-policial.
 275
 00:19:20,885 --> 00:19:22,891
 O cara
-não vai prestar queixas,
+nÃ£o vai prestar queixas,
 
 276
 00:19:22,892 --> 00:19:25,857
-mas não pode mais
+mas nÃ£o pode mais
 chegar perto dele.
 
 277
@@ -1291,7 +1291,7 @@ Vamos sair daqui.
 
 278
 00:19:36,231 --> 00:19:39,391
-Park diz que está chateado
+Park diz que estÃ¡ chateado
 sobre a Carly.
 
 279
@@ -1300,7 +1300,7 @@ Todo mundo me diz isso,
 
 280
 00:19:42,452 --> 00:19:45,412
-mas não estou chateado
+mas nÃ£o estou chateado
 sobre a Carly,
 
 281
@@ -1310,12 +1310,12 @@ e eles precisam parar.
 282
 00:19:46,991 --> 00:19:49,224
 Certo,
-então não é sobre a Carly.
+entÃ£o nÃ£o Ã© sobre a Carly.
 
 283
 00:19:49,225 --> 00:19:51,645
 Queria que Carly
-não tivesse terminado comigo.
+nÃ£o tivesse terminado comigo.
 
 284
 00:19:52,198 --> 00:19:54,441
@@ -1329,7 +1329,7 @@ o que ela disse.
 286
 00:19:57,828 --> 00:20:00,482
 Como assim, "o que ela disse"?
-Ela não manda em você.
+Ela nÃ£o manda em vocÃª.
 
 287
 00:20:00,483 --> 00:20:03,163
@@ -1338,7 +1338,7 @@ que eu a amo.
 
 288
 00:20:20,183 --> 00:20:22,876
-E você tem medo
+E vocÃª tem medo
 do que pode acontecer
 
 289
@@ -1352,11 +1352,11 @@ Se eu disser que a amo
 291
 00:20:32,148 --> 00:20:35,240
 e ela me disser
-que não me ama,
+que nÃ£o me ama,
 
 292
 00:20:36,231 --> 00:20:38,509
-então não posso ser
+entÃ£o nÃ£o posso ser
 o namorado dela.
 
 293
@@ -1365,7 +1365,7 @@ E pior ainda, eu...
 
 294
 00:20:42,545 --> 00:20:45,292
-Também não acho que posso
+TambÃ©m nÃ£o acho que posso
 ser amigo dela.
 
 295
@@ -1375,7 +1375,7 @@ E se Lea dissesse...
 296
 00:21:05,021 --> 00:21:08,167
 "Sabe, Shaun?
-Eu também te amo."?
+Eu tambÃ©m te amo."?
 
 297
 00:21:19,171 --> 00:21:21,069
@@ -1402,28 +1402,28 @@ enterrar para sempre?
 
 302
 00:21:34,598 --> 00:21:37,730
-Se é algum consolo,
+Se Ã© algum consolo,
 meio que gosto dele.
 
 303
 00:21:37,731 --> 00:21:40,793
-Acho que ele está apenas
+Acho que ele estÃ¡ apenas
 tentando se divertir.
 
 304
 00:21:40,794 --> 00:21:43,934
-Só que ele está sabotando
-todo o próprio trabalho duro.
+SÃ³ que ele estÃ¡ sabotando
+todo o prÃ³prio trabalho duro.
 
 305
 00:21:43,935 --> 00:21:46,423
-Não é sabotagem.
-É só parte de quem ele é.
+NÃ£o Ã© sabotagem.
+Ã‰ sÃ³ parte de quem ele Ã©.
 
 306
 00:21:46,424 --> 00:21:48,734
 Algumas partes de quem somos
-são péssimas.
+sÃ£o pÃ©ssimas.
 
 307
 00:21:53,745 --> 00:21:55,135
@@ -1431,8 +1431,8 @@ Sinto muito.
 
 308
 00:21:55,136 --> 00:21:58,466
-Eu não devia ter dedurado
-você e Melendez. Estraguei tudo.
+Eu nÃ£o devia ter dedurado
+vocÃª e Melendez. Estraguei tudo.
 
 309
 00:21:59,626 --> 00:22:03,050
@@ -1441,7 +1441,7 @@ de uma bebida de vez em quando.
 
 310
 00:22:05,193 --> 00:22:06,746
-Você viu isso?
+VocÃª viu isso?
 
 311
 00:22:06,747 --> 00:22:08,320
@@ -1449,21 +1449,21 @@ Sim.
 
 312
 00:22:11,433 --> 00:22:13,334
-Você tem um cisto aracnoide
+VocÃª tem um cisto aracnoide
 
 313
 00:22:13,335 --> 00:22:15,197
-que comprime seu hipotálamo,
+que comprime seu hipotÃ¡lamo,
 Aiden.
 
 314
 00:22:15,198 --> 00:22:17,925
 Basicamente,
-só precisamos drená-lo.
+sÃ³ precisamos drenÃ¡-lo.
 
 315
 00:22:20,578 --> 00:22:23,273
-Vai me matar se não drenarem?
+Vai me matar se nÃ£o drenarem?
 
 316
 00:22:27,971 --> 00:22:29,414
@@ -1471,11 +1471,11 @@ Ele sabe dos riscos?
 
 317
 00:22:29,415 --> 00:22:31,167
-Ele sabe que não vai matá-lo,
+Ele sabe que nÃ£o vai matÃ¡-lo,
 
 318
 00:22:31,168 --> 00:22:32,717
-o que é suficiente para Jekyll
+o que Ã© suficiente para Jekyll
 
 319
 00:22:32,718 --> 00:22:34,934
@@ -1488,22 +1488,22 @@ E se perguntarmos a Hyde?
 321
 00:22:38,726 --> 00:22:42,530
 O consentimento precisa
-ser voluntário e consciente.
+ser voluntÃ¡rio e consciente.
 
 322
 00:22:42,531 --> 00:22:44,960
-Também não importa.
-O outro Aiden é um hedonista.
+TambÃ©m nÃ£o importa.
+O outro Aiden Ã© um hedonista.
 
 323
 00:22:44,961 --> 00:22:48,396
-Ele não vai ajudar
+Ele nÃ£o vai ajudar
 o seu alter ego
 
 324
 00:22:48,397 --> 00:22:50,646
 Talvez ele se importe
-mais do que você pensa.
+mais do que vocÃª pensa.
 
 325
 00:22:53,566 --> 00:22:54,888
@@ -1523,7 +1523,7 @@ Trinity, sente-se.
 
 329
 00:23:13,086 --> 00:23:14,977
-Não há ninguém
+NÃ£o hÃ¡ ninguÃ©m
 em nossa maternidade
 
 330
@@ -1532,12 +1532,12 @@ com uma filha chamada Trinity.
 
 331
 00:23:17,878 --> 00:23:21,476
-Então, vou precisar
-de algumas informações,
+EntÃ£o, vou precisar
+de algumas informaÃ§Ãµes,
 
 332
 00:23:22,126 --> 00:23:24,624
-e será muito mais eficiente
+e serÃ¡ muito mais eficiente
 
 333
 00:23:24,625 --> 00:23:26,210
@@ -1561,22 +1561,22 @@ Certo.
 
 338
 00:23:37,978 --> 00:23:39,380
-Você vai pelo menos me dizer
+VocÃª vai pelo menos me dizer
 
 339
 00:23:39,381 --> 00:23:41,416
-o que está fazendo
+o que estÃ¡ fazendo
 neste hospital?
 
 340
 00:23:42,934 --> 00:23:46,650
-Eu só queria
+Eu sÃ³ queria
 te encontrar de novo.
 
 341
 00:23:55,166 --> 00:24:00,166
-Alguém deixou uma bebê
-na emergência há oito anos,
+AlguÃ©m deixou uma bebÃª
+na emergÃªncia hÃ¡ oito anos,
 
 342
 00:24:00,705 --> 00:24:02,638
@@ -1584,41 +1584,41 @@ no Trinity Sunday.
 
 343
 00:24:06,482 --> 00:24:08,474
-Você era tão pequena,
+VocÃª era tÃ£o pequena,
 
 344
 00:24:09,279 --> 00:24:12,892
-tão doente e tão indefesa.
+tÃ£o doente e tÃ£o indefesa.
 
 345
 00:24:14,673 --> 00:24:17,011
 Me matou
-não te levar para casa.
+nÃ£o te levar para casa.
 
 346
 00:24:19,149 --> 00:24:23,097
-Mas olhe para você agora,
-tão forte e saudável.
+Mas olhe para vocÃª agora,
+tÃ£o forte e saudÃ¡vel.
 
 347
 00:24:23,570 --> 00:24:25,183
-E rápida.
+E rÃ¡pida.
 
 348
 00:24:27,970 --> 00:24:29,675
-Precisamos ligar para sua mãe
+Precisamos ligar para sua mÃ£e
 
 349
 00:24:29,676 --> 00:24:31,159
-e avisar onde você está.
+e avisar onde vocÃª estÃ¡.
 
 350
 00:24:31,160 --> 00:24:32,624
-E que você está bem.
+E que vocÃª estÃ¡ bem.
 
 351
 00:24:33,427 --> 00:24:35,363
-Você sabe o número dela?
+VocÃª sabe o nÃºmero dela?
 
 352
 00:24:37,193 --> 00:24:39,303
@@ -1630,7 +1630,7 @@ Mas?
 
 354
 00:24:42,624 --> 00:24:44,531
-Você pode me adotar?
+VocÃª pode me adotar?
 
 355
 00:25:16,444 --> 00:25:17,939
@@ -1642,7 +1642,7 @@ Pobrezinho.
 
 357
 00:25:20,490 --> 00:25:22,949
-Sinto muito por você e Carly.
+Sinto muito por vocÃª e Carly.
 
 358
 00:25:25,880 --> 00:25:30,661
@@ -1650,7 +1650,7 @@ Quero lhe contar como me sinto.
 
 359
 00:25:51,269 --> 00:25:53,253
-Sei que você está sofrendo.
+Sei que vocÃª estÃ¡ sofrendo.
 
 360
 00:25:54,595 --> 00:25:57,561
@@ -1659,13 +1659,13 @@ um grande erro.
 
 361
 00:25:59,687 --> 00:26:02,319
-Você é um homem maravilhoso,
+VocÃª Ã© um homem maravilhoso,
 Shaun.
 
 362
 00:26:03,243 --> 00:26:08,019
 Talvez o mais maravilhoso
-que eu já conheci.
+que eu jÃ¡ conheci.
 
 363
 00:26:11,820 --> 00:26:14,858
@@ -1674,22 +1674,22 @@ que eu já conheci.
 
 364
 00:26:28,022 --> 00:26:29,509
-BEBÊ ENCONTRA LAR
+BEBÃŠ ENCONTRA LAR
 - Achei isso
 
 365
 00:26:29,510 --> 00:26:31,342
-na gaveta da minha mãe.
+na gaveta da minha mÃ£e.
 
 366
 00:26:31,786 --> 00:26:33,562
 Ela sabe
-que você está aqui?
+que vocÃª estÃ¡ aqui?
 
 367
 00:26:34,005 --> 00:26:37,405
-Ela está no Memorial Campbell
-há dois dias.
+Ela estÃ¡ no Memorial Campbell
+hÃ¡ dois dias.
 
 368
 00:26:37,406 --> 00:26:40,527
@@ -1699,16 +1699,16 @@ e na casa de uma amiga.
 369
 00:26:40,528 --> 00:26:44,168
 Desde que eu chegue em casa
-às 18h00, ninguém percebe.
+Ã s 18h00, ninguÃ©m percebe.
 
 370
 00:26:44,169 --> 00:26:46,864
-Já passou desse horário.
+JÃ¡ passou desse horÃ¡rio.
 
 371
 00:26:46,865 --> 00:26:49,155
 Aposto que ela
-está preocupada.
+estÃ¡ preocupada.
 
 372
 00:26:49,156 --> 00:26:51,433
@@ -1716,52 +1716,52 @@ Ela tem uma nova filha.
 
 373
 00:26:53,059 --> 00:26:55,888
-É difícil dividir sua mãe,
-não é?
+Ã‰ difÃ­cil dividir sua mÃ£e,
+nÃ£o Ã©?
 
 374
 00:27:00,240 --> 00:27:02,864
-Se ela ama sua irmã
-com todo coração,
+Se ela ama sua irmÃ£
+com todo coraÃ§Ã£o,
 
 375
 00:27:02,865 --> 00:27:05,960
-parece que não sobra
-muito espaço para você.
+parece que nÃ£o sobra
+muito espaÃ§o para vocÃª.
 
 376
 00:27:10,903 --> 00:27:14,009
-Você ama sua mãe
-com todo seu coração?
+VocÃª ama sua mÃ£e
+com todo seu coraÃ§Ã£o?
 
 377
 00:27:15,425 --> 00:27:18,382
-E o seu pai, também ama ele
-com todo seu coração?
+E o seu pai, tambÃ©m ama ele
+com todo seu coraÃ§Ã£o?
 
 378
 00:27:18,906 --> 00:27:21,929
-Mas isso não parece possível,
-não é?
+Mas isso nÃ£o parece possÃ­vel,
+nÃ£o Ã©?
 
 379
 00:27:24,408 --> 00:27:27,585
-Corações
-são coisas incríveis.
+CoraÃ§Ãµes
+sÃ£o coisas incrÃ­veis.
 
 380
 00:27:28,312 --> 00:27:31,386
-Já segurei alguns nas mãos
+JÃ¡ segurei alguns nas mÃ£os
 muitas vezes.
 
 381
 00:27:32,472 --> 00:27:37,275
-Não dá para saber só de olhar,
+NÃ£o dÃ¡ para saber sÃ³ de olhar,
 mas de algum jeito
 
 382
 00:27:38,376 --> 00:27:41,105
-eles têm todo o espaço
+eles tÃªm todo o espaÃ§o
 que a gente precisa.
 
 383
@@ -1771,22 +1771,22 @@ Dra. B,
 384
 00:27:56,527 --> 00:27:58,619
 por favor,
-diga que você é solteira.
+diga que vocÃª Ã© solteira.
 
 385
 00:28:09,018 --> 00:28:11,676
-Você tem
-um cisto no cérebro.
+VocÃª tem
+um cisto no cÃ©rebro.
 
 386
 00:28:11,677 --> 00:28:16,472
-Se deixar como está, pode levar
-a complicações neurológicas.
+Se deixar como estÃ¡, pode levar
+a complicaÃ§Ãµes neurolÃ³gicas.
 
 387
 00:28:16,473 --> 00:28:20,296
-Perda de visão, depressão,
-disfunções endócrinas.
+Perda de visÃ£o, depressÃ£o,
+disfunÃ§Ãµes endÃ³crinas.
 
 388
 00:28:20,297 --> 00:28:23,192
@@ -1795,8 +1795,8 @@ e drenarmos o cisto,
 
 389
 00:28:23,193 --> 00:28:26,501
-não deve haver
-nenhuma complicação.
+nÃ£o deve haver
+nenhuma complicaÃ§Ã£o.
 
 390
 00:28:27,766 --> 00:28:29,991
@@ -1805,11 +1805,11 @@ Incluindo sonambulismo.
 391
 00:28:36,472 --> 00:28:39,549
 O Professor
-já negou o tratamento?
+jÃ¡ negou o tratamento?
 
 392
 00:28:41,790 --> 00:28:43,995
-Então está pedindo
+EntÃ£o estÃ¡ pedindo
 ao garoto de fraternidade
 
 393
@@ -1823,39 +1823,39 @@ que o garoto de fraternidade
 
 395
 00:28:49,437 --> 00:28:51,760
-é mais do que isso.
+Ã© mais do que isso.
 
 396
 00:28:53,292 --> 00:28:55,076
-Todos nós somos complicados.
+Todos nÃ³s somos complicados.
 
 397
 00:28:55,077 --> 00:28:58,445
-Às vezes, todos somos
-superficiais e idiotas egoístas.
+Ã€s vezes, todos somos
+superficiais e idiotas egoÃ­stas.
 
 398
 00:28:58,446 --> 00:29:01,220
-Mas também somos capazes
-de fazer sacrifícios.
+Mas tambÃ©m somos capazes
+de fazer sacrifÃ­cios.
 
 399
 00:29:04,782 --> 00:29:07,628
-Acho que você mora nele,
+Acho que vocÃª mora nele,
 
 400
 00:29:07,629 --> 00:29:09,935
 da mesma maneira
-que ele mora em você.
+que ele mora em vocÃª.
 
 401
 00:29:11,109 --> 00:29:12,734
-E isso não vai mudar,
+E isso nÃ£o vai mudar,
 
 402
 00:29:12,735 --> 00:29:15,187
-não importa a decisão
-que você tome.
+nÃ£o importa a decisÃ£o
+que vocÃª tome.
 
 403
 00:29:25,820 --> 00:29:27,141
@@ -1868,12 +1868,12 @@ A Maribel morreu.
 405
 00:29:31,006 --> 00:29:33,175
 Acho que ela tinha
-doença renal policística
+doenÃ§a renal policÃ­stica
 
 406
 00:29:33,176 --> 00:29:35,351
 que causa
-dilatação das artérias,
+dilataÃ§Ã£o das artÃ©rias,
 
 407
 00:29:35,352 --> 00:29:37,153
@@ -1883,65 +1883,65 @@ as paredes vasculares,
 408
 00:29:37,154 --> 00:29:40,008
 o que contribui
-para a formação de aneurismas.
+para a formaÃ§Ã£o de aneurismas.
 
 409
 00:29:40,009 --> 00:29:42,577
-Preciso fazer uma autópsia.
+Preciso fazer uma autÃ³psia.
 
 410
 00:29:44,121 --> 00:29:46,116
 - Dr. Melendez...
-- Não aprova.
+- NÃ£o aprova.
 
 411
 00:29:46,117 --> 00:29:49,112
-A Dra. Lim não aprova.
-A família disse não.
+A Dra. Lim nÃ£o aprova.
+A famÃ­lia disse nÃ£o.
 
 412
 00:29:49,113 --> 00:29:52,643
-- Então, o que eu...
-- Você é a chefe da patologia.
+- EntÃ£o, o que eu...
+- VocÃª Ã© a chefe da patologia.
 
 413
 00:29:52,974 --> 00:29:55,476
-Shaun, não vou...
+Shaun, nÃ£o vou...
 
 414
 00:29:55,477 --> 00:30:00,029
-Não consigo fazer o que você
+NÃ£o consigo fazer o que vocÃª
 disse que eu deveria fazer,
 
 415
 00:30:01,539 --> 00:30:04,337
-até que eu resolva
-essa distração.
+atÃ© que eu resolva
+essa distraÃ§Ã£o.
 
 416
 00:30:18,830 --> 00:30:21,568
 Nenhum sinal
-de doença renal policística.
+de doenÃ§a renal policÃ­stica.
 
 417
 00:30:39,625 --> 00:30:42,631
-Sei que nosso término
-tem sido difícil para você.
+Sei que nosso tÃ©rmino
+tem sido difÃ­cil para vocÃª.
 
 418
 00:30:43,050 --> 00:30:44,994
-Tem sido difícil
-para mim também.
+Tem sido difÃ­cil
+para mim tambÃ©m.
 
 419
 00:30:47,124 --> 00:30:50,129
 Mas sei o que vi
-entre você e a Lea.
+entre vocÃª e a Lea.
 
 420
 00:30:57,830 --> 00:31:00,795
 Eu realmente vi algo,
-não vi?
+nÃ£o vi?
 
 421
 00:31:11,100 --> 00:31:13,085
@@ -1949,7 +1949,7 @@ Eu te amo, Carly.
 
 422
 00:31:17,280 --> 00:31:19,848
-Mas você tinha razão,
+Mas vocÃª tinha razÃ£o,
 eu amo mais a Lea.
 
 423
@@ -1958,12 +1958,12 @@ Certo.
 
 424
 00:31:29,561 --> 00:31:31,056
-Então...
+EntÃ£o...
 
 425
 00:31:32,404 --> 00:31:34,677
 Sabe que deve contar
-para ela, não é?
+para ela, nÃ£o Ã©?
 
 426
 00:31:38,340 --> 00:31:40,008
@@ -1976,16 +1976,16 @@ Eu sei.
 428
 00:31:47,302 --> 00:31:50,121
 Mas olha o quanto
-você evoluiu comigo.
+vocÃª evoluiu comigo.
 
 429
 00:31:52,297 --> 00:31:54,216
-O quanto você estava
+O quanto vocÃª estava
 assustado.
 
 430
 00:31:56,549 --> 00:31:58,304
-Quão corajoso você foi.
+QuÃ£o corajoso vocÃª foi.
 
 431
 00:32:16,739 --> 00:32:18,604
@@ -1997,22 +1997,22 @@ Obrigado, Carly.
 
 433
 00:33:07,383 --> 00:33:11,636
-Se você está assistindo isto,
+Se vocÃª estÃ¡ assistindo isto,
 significa que estou morto.
 
 434
 00:33:12,514 --> 00:33:15,373
-<i>E você está acordando
+<i>E vocÃª estÃ¡ acordando
 de uma cirurgia</i>
 
 435
 00:33:15,374 --> 00:33:17,305
 com a qual acha
-que não concordou,
+que nÃ£o concordou,
 
 436
 00:33:17,306 --> 00:33:18,606
-mas por este meio ofereço
+mas por este meio ofereÃ§o
 
 437
 00:33:18,607 --> 00:33:20,752
@@ -2021,7 +2021,7 @@ e ciente consentimento
 
 438
 00:33:20,753 --> 00:33:22,767
-para o procedimento cirúrgico
+para o procedimento cirÃºrgico
 dito.
 
 439
@@ -2042,7 +2042,7 @@ Segundo.
 
 443
 00:33:34,759 --> 00:33:36,455
-Só mais uma coisa,
+SÃ³ mais uma coisa,
 
 444
 00:33:41,597 --> 00:33:42,897
@@ -2050,11 +2050,11 @@ meu conselho,
 
 445
 00:33:46,321 --> 00:33:48,535
-é tentar relaxar um pouco.
+Ã© tentar relaxar um pouco.
 
 446
 00:33:50,027 --> 00:33:51,728
-Nenhum de nós é perfeito.
+Nenhum de nÃ³s Ã© perfeito.
 
 447
 00:33:52,210 --> 00:33:54,952
@@ -2062,7 +2062,7 @@ Mas estamos bem.
 
 448
 00:34:02,719 --> 00:34:04,547
-Nós vamos ficar...
+NÃ³s vamos ficar...
 
 449
 00:34:07,084 --> 00:34:08,384
@@ -2075,12 +2075,12 @@ E aquela garota,
 451
 00:34:14,905 --> 00:34:17,401
 que senta na nossa frente
-em Cálculo Avançado,
+em CÃ¡lculo AvanÃ§ado,
 
 452
 00:34:17,402 --> 00:34:22,045
-o nome dela é Staci com i,
-e ela gosta de você.
+o nome dela Ã© Staci com i,
+e ela gosta de vocÃª.
 
 453
 00:34:23,430 --> 00:34:24,851
@@ -2092,36 +2092,36 @@ Fica de boa, Professor.
 
 455
 00:34:54,523 --> 00:34:55,846
-Está brincando, certo?
+EstÃ¡ brincando, certo?
 
 456
 00:34:55,847 --> 00:34:57,273
-Sei porque sua mãe morreu.
+Sei porque sua mÃ£e morreu.
 
 457
 00:34:57,274 --> 00:34:59,233
 E eu disse
-que não me importo.
+que nÃ£o me importo.
 
 458
 00:34:59,234 --> 00:35:02,820
-Quando examinei o fígado,
+Quando examinei o fÃ­gado,
 encontrei 3 aneurismas,
 
 459
 00:35:02,821 --> 00:35:04,692
-o que é incomum
+o que Ã© incomum
 e me fez perceber
 
 460
 00:35:04,693 --> 00:35:07,354
 que ela tinha
-Síndrome de Ehlers-Danlos.
+SÃ­ndrome de Ehlers-Danlos.
 
 461
 00:35:07,355 --> 00:35:09,887
-É uma doença rara,
-que se não for diagnosticada,
+Ã‰ uma doenÃ§a rara,
+que se nÃ£o for diagnosticada,
 
 462
 00:35:09,888 --> 00:35:11,188
@@ -2129,27 +2129,27 @@ e pode ser fatal.
 
 463
 00:35:11,189 --> 00:35:13,559
-- Quer que ligue pra polícia?
-- É hereditário.
+- Quer que ligue pra polÃ­cia?
+- Ã‰ hereditÃ¡rio.
 
 464
 00:35:13,560 --> 00:35:15,184
-Não, não quero
+NÃ£o, nÃ£o quero
 ser preso de novo,
 
 465
 00:35:15,185 --> 00:35:17,161
-tem muitas cáries?
+tem muitas cÃ¡ries?
 
 466
 00:35:17,162 --> 00:35:19,813
 Talvez tenha herdado
-Síndrome de Ehlers-Danlos
+SÃ­ndrome de Ehlers-Danlos
 
 467
 00:35:19,814 --> 00:35:21,932
-da sua mãe,
-sua vida está em risco.
+da sua mÃ£e,
+sua vida estÃ¡ em risco.
 
 468
 00:35:21,933 --> 00:35:23,699
@@ -2162,17 +2162,17 @@ Tudo bem, adeus.
 
 470
 00:35:36,337 --> 00:35:39,222
-isso é tudo
-o que herdei da minha mãe?
+isso Ã© tudo
+o que herdei da minha mÃ£e?
 
 471
 00:35:41,100 --> 00:35:42,884
 A possibilidade
-de uma doença fatal?
+de uma doenÃ§a fatal?
 
 472
 00:35:50,858 --> 00:35:55,153
-Sua mãe já te chamou de Coley?
+Sua mÃ£e jÃ¡ te chamou de Coley?
 
 473
 00:35:58,902 --> 00:36:00,202
@@ -2184,7 +2184,7 @@ Diminutivo de Colibri,
 
 475
 00:36:06,392 --> 00:36:08,113
-beija-flor em francês.
+beija-flor em francÃªs.
 
 476
 00:36:09,698 --> 00:36:12,785
@@ -2205,7 +2205,7 @@ tatuado no corpo.
 
 480
 00:36:30,445 --> 00:36:34,004
-E Coley foi a última palavra
+E Coley foi a Ãºltima palavra
 que ela disse.
 
 481
@@ -2226,13 +2226,13 @@ Morgan comprou sua briga?
 
 485
 00:37:26,773 --> 00:37:28,417
-É estranho
+Ã‰ estranho
 o trabalho que temos
 
 486
 00:37:28,418 --> 00:37:30,213
 para esconder
-uma amizade platônica?
+uma amizade platÃ´nica?
 
 487
 00:37:30,214 --> 00:37:32,896
@@ -2241,7 +2241,7 @@ Mas vale a pena.
 
 488
 00:38:50,666 --> 00:38:51,966
-Oi, mãe.
+Oi, mÃ£e.
 
 489
 00:38:53,694 --> 00:38:54,994
@@ -2273,7 +2273,7 @@ Eu quero ser seu namorado.
 
 496
 00:39:47,068 --> 00:39:48,722
-Eu também te amo.
+Eu tambÃ©m te amo.
 
 497
 00:39:58,376 --> 00:40:00,076
@@ -2281,11 +2281,11 @@ Mas,
 
 498
 00:40:02,534 --> 00:40:04,147
-você me conhece.
+vocÃª me conhece.
 
 499
 00:40:04,664 --> 00:40:06,890
-Eu sou egoísta,
+Eu sou egoÃ­sta,
 
 500
 00:40:06,891 --> 00:40:10,405
@@ -2298,11 +2298,11 @@ Eu...
 502
 00:40:13,532 --> 00:40:17,595
 Quero dizer, me escuta.
-Não consigo completar uma frase.
+NÃ£o consigo completar uma frase.
 
 503
 00:40:17,596 --> 00:40:19,249
-Sou uma bagunça total.
+Sou uma bagunÃ§a total.
 
 504
 00:40:20,242 --> 00:40:21,542
@@ -2314,7 +2314,7 @@ Como eu poderia, sabe,
 
 506
 00:40:25,641 --> 00:40:27,556
-só depositar tudo em você?
+sÃ³ depositar tudo em vocÃª?
 
 507
 00:40:32,167 --> 00:40:35,327
@@ -2322,12 +2322,12 @@ Por que acha
 
 508
 00:40:35,328 --> 00:40:37,911
-que não consigo lidar
+que nÃ£o consigo lidar
 
 509
 00:40:37,912 --> 00:40:42,112
-com seu egoísmo, carência
-e sua bagunça?
+com seu egoÃ­smo, carÃªncia
+e sua bagunÃ§a?
 
 510
 00:40:42,113 --> 00:40:43,451
@@ -2335,7 +2335,7 @@ Eu acho que consigo.
 
 511
 00:40:46,096 --> 00:40:47,626
-É só...
+Ã‰ sÃ³...
 
 512
 00:40:48,792 --> 00:40:51,188
@@ -2343,25 +2343,25 @@ Sou um desafio para qualquer um,
 
 513
 00:40:51,597 --> 00:40:52,897
-e você é...
+e vocÃª Ã©...
 
 514
 00:40:53,963 --> 00:40:55,263
-você.
+vocÃª.
 
 515
 00:40:56,721 --> 00:41:01,407
 E eu sei que seria
-muito difícil para você.
+muito difÃ­cil para vocÃª.
 
 516
 00:41:02,190 --> 00:41:04,844
-Você precisa das coisas
+VocÃª precisa das coisas
 de certas formas.
 
 517
 00:41:04,845 --> 00:41:07,369
-Você trabalha
+VocÃª trabalha
 de uma certa maneira, e...
 
 518
@@ -2374,11 +2374,11 @@ eu sou autista.
 
 520
 00:41:21,396 --> 00:41:22,696
-Você
+VocÃª
 
 521
 00:41:24,992 --> 00:41:27,917
-não quer ser minha namorada
+nÃ£o quer ser minha namorada
 
 522
 00:41:27,918 --> 00:41:29,702
