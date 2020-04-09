@@ -1,0 +1,4272 @@
+﻿1
+00:00:17,560 --> 00:00:20,070
+Quando você dá um sorriso...
+
+2
+00:00:20,070 --> 00:00:26,060
+o mundo fica muito, muito mais doce
+que o mais açucarado dos doces.
+
+3
+00:01:42,180 --> 00:01:45,230
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Ei, veja e ouça atentamente.
+
+4
+00:01:45,230 --> 00:01:47,640
+{\blur0.564\fad(300,300)\3c&HFF00FF&\c&HEEEEF7&}Uma melodia muito doce.
+
+5
+00:01:47,820 --> 00:01:52,450
+{\blur0.564\fad(300,300)\3c&HFF00FF&\c&HEEEEF7&}A Fada das 3 Horas está me chamando.
+
+6
+00:01:52,450 --> 00:01:55,240
+{\blur0.564\fad(300,300)\3c&HFF00FF&}Bata na porta do sono.
+
+7
+00:01:55,240 --> 00:01:57,870
+{\blur0.564\fad(300,300)\3c&HFF00FF&}Levante, acorde e se apresse.
+
+8
+00:01:57,870 --> 00:02:02,630
+{\blur0.564\fad(300,300)\3c&HFF00FF&}Vamos embarcar no navio para o país dos doces.
+
+9
+00:02:02,630 --> 00:02:05,170
+{\blur0.564\fad(300,300)\3c&HFF00FF&}Ah, eu tenho muitos sonhos.
+
+10
+00:02:05,170 --> 00:02:07,710
+{\blur0.564\fad(300,300)\3c&HFF00FF&}Torta de hortelã e torta de maçã.{\c&HEEEEF7&}
+
+11
+00:02:07,710 --> 00:02:10,090
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Bom bolo e bom humor.{\c&HFFFFFF&\3c&HFF00FF&}
+
+12
+00:02:10,090 --> 00:02:12,040
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Os biscoitos me alegram.{\c&HFFFFFF&\3c&HFF00FF&}
+
+13
+00:02:12,040 --> 00:02:15,310
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Lambendo o pudim de ameixa.{\c&HFFFFFF&\3c&H000131&}
+
+14
+00:02:15,310 --> 00:02:17,600
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Comendo um pouco de choco{\c&HFFFFFF&}late.
+
+15
+00:02:17,770 --> 00:02:22,770
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}A Fada das 3{\c&HFFFFFF&} Horas está observando com um sorriso.
+
+16
+00:02:22,770 --> 00:02:25,270
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Bata na porta do sono.
+
+17
+00:02:25,270 --> 00:02:27,360
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Levante, acorde e se apresse.
+
+18
+00:02:27,730 --> 00:02:32,740
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Vamos embarcar no navio para o país dos doces.
+
+19
+00:02:32,740 --> 00:02:35,240
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Ah, eu tenho muitos sonhos.
+
+20
+00:02:35,240 --> 00:02:37,790
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Torta de hortelã e torta de maçã.
+
+21
+00:02:37,790 --> 00:02:39,910
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Bom bolo e bom humor.
+
+22
+00:02:39,910 --> 00:02:41,930
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Os biscoitos me alegram.
+
+23
+00:02:42,210 --> 00:02:45,290
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Lambendo o pudim de ameixa.
+
+24
+00:02:45,290 --> 00:02:47,710
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}Comendo um pouco de chocolate.
+
+25
+00:02:47,710 --> 00:02:52,220
+{\blur0.564\fad(300,300)\c&HEEEEF7&\3c&HFF00FF&}A Fada das 3 Horas está observando com um sorriso.
+
+26
+00:02:56,510 --> 00:02:56,550
+{\pos(194.865,769.546)\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(m 1195 481.75 b 1054.5 701.875 991.5 974.625 1189.375 1051.75 l 1656.375 991.5 1653.625 660.375)}S{\fs65.853} {\fs225.784}ailor Moon
+
+27
+00:02:56,510 --> 00:02:56,550
+{\pos(180.537,762.021)\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(m 1195 481.75 b 1054.5 701.875 991.5 974.625 1189.375 1051.75 l 1656.375 991.5 1653.625 660.375)}S{\fs65.853} {\fs225.784}ailor Moon
+
+28
+00:02:56,510 --> 00:02:56,550
+{\pos(180.537,762.021)\bord0\blur1.317\clip(m 1195 481.75 b 1054.5 701.875 991.5 974.625 1189.375 1051.75 l 1656.375 991.5 1653.625 660.375)}S{\fs65.853} {\fs225.784}ailor Moon
+
+29
+00:02:56,550 --> 00:02:56,600
+{\pos(223.522,711.219)\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(m 725.125 338.625 b 610.375 494.875 713.625 530.625 630.375 739.5 550.125 839.25 573.25 952.125 670.5 1059.375 l 1438.5 982.125 1438.5 444)}Linda Guerreira
+
+30
+00:02:56,550 --> 00:02:56,600
+{\pos(214.926,705.574)\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(m 725.125 338.625 b 610.375 494.875 713.625 530.625 630.375 739.5 550.125 839.25 573.25 952.125 670.5 1059.375 l 1438.5 982.125 1438.5 444)}Linda Guerreira
+
+31
+00:02:56,550 --> 00:02:56,600
+{\pos(214.926,705.574)\bord0\blur1.317\clip(m 725.125 338.625 b 610.375 494.875 713.625 530.625 630.375 739.5 550.125 839.25 573.25 952.125 670.5 1059.375 l 1438.5 982.125 1438.5 444)}Linda Guerreira
+
+32
+00:02:56,550 --> 00:02:56,600
+{\pos(194.865,769.546)\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(m 725.125 338.625 b 610.375 494.875 713.625 530.625 630.375 739.5 550.125 839.25 573.25 952.125 670.5 1059.375 l 1438.5 982.125 1438.5 444)}S{\fs65.853} {\fs225.784}ailor Moon
+
+33
+00:02:56,550 --> 00:02:56,600
+{\pos(180.537,762.021)\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(m 725.125 338.625 b 610.375 494.875 713.625 530.625 630.375 739.5 550.125 839.25 573.25 952.125 670.5 1059.375 l 1438.5 982.125 1438.5 444)}S{\fs65.853} {\fs225.784}ailor Moon
+
+34
+00:02:56,550 --> 00:02:56,600
+{\pos(180.537,762.021)\bord0\blur1.317\clip(m 725.125 338.625 b 610.375 494.875 713.625 530.625 630.375 739.5 550.125 839.25 573.25 952.125 670.5 1059.375 l 1438.5 982.125 1438.5 444)}S{\fs65.853} {\fs225.784}ailor Moon
+
+35
+00:02:56,600 --> 00:02:59,720
+{\move(223.522,711.219,289.433,696.167)\t(\fscx62\fscy92)\1c&H985258&\3c&H985258&\bord0\blur1.881}Linda Guerreira
+
+36
+00:02:56,600 --> 00:02:59,720
+{\move(214.926,705.574,283.701,692.404)\t(\fscx62\fscy92)\1c&H111611&\3c&H111611&\bord2.446\blur1.504}Linda Guerreira
+
+37
+00:02:56,600 --> 00:02:59,720
+{\move(214.926,705.574,283.701,692.404)\t(\fscx62\fscy92)\bord0\blur1.317}Linda Guerreira
+
+38
+00:02:56,600 --> 00:02:59,720
+{\move(194.865,769.546,269.373,756.376)\t(\fscx62\fscy92)\1c&H985258&\3c&H985258&\bord0\blur1.881}S{\fs65.853} {\fs225.784}ailor Moon
+
+39
+00:02:56,600 --> 00:02:59,720
+{\move(180.537,762.021,255.045,748.85)\t(\fscx62\fscy92)\1c&H111611&\3c&H111611&\bord2.823\blur1.504}S{\fs65.853} {\fs225.784}ailor Moon
+
+40
+00:02:56,600 --> 00:02:59,720
+{\move(180.537,762.021,255.045,748.85)\t(\fscx62\fscy92)\bord0\blur1.317}S{\fs65.853} {\fs225.784}ailor Moon
+
+41
+00:02:59,720 --> 00:02:59,770
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(252,653,1341,962)}Linda Guerreira
+
+42
+00:02:59,720 --> 00:02:59,770
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(252,653,1341,962)}Linda Guerreira
+
+43
+00:02:59,720 --> 00:02:59,770
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(252,653,1341,962)}Linda Guerreira
+
+44
+00:02:59,720 --> 00:02:59,770
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(252,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+45
+00:02:59,720 --> 00:02:59,770
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(252,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+46
+00:02:59,720 --> 00:02:59,770
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(252,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+47
+00:02:59,770 --> 00:02:59,810
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(281,653,1341,962)}Linda Guerreira
+
+48
+00:02:59,770 --> 00:02:59,810
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(281,653,1341,962)}Linda Guerreira
+
+49
+00:02:59,770 --> 00:02:59,810
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(281,653,1341,962)}Linda Guerreira
+
+50
+00:02:59,770 --> 00:02:59,810
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(281,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+51
+00:02:59,770 --> 00:02:59,810
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(281,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+52
+00:02:59,770 --> 00:02:59,810
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(281,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+53
+00:02:59,810 --> 00:02:59,850
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(312,653,1341,962)}Linda Guerreira
+
+54
+00:02:59,810 --> 00:02:59,850
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(312,653,1341,962)}Linda Guerreira
+
+55
+00:02:59,810 --> 00:02:59,850
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(312,653,1341,962)}Linda Guerreira
+
+56
+00:02:59,810 --> 00:02:59,850
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(312,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+57
+00:02:59,810 --> 00:02:59,850
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(312,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+58
+00:02:59,810 --> 00:02:59,850
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(312,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+59
+00:02:59,810 --> 00:02:59,850
+{\pos(960,884.321)\fax-0.4\clip(83,627,315,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+60
+00:02:59,810 --> 00:02:59,850
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,627,315,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+61
+00:02:59,810 --> 00:02:59,850
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,627,315,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+62
+00:02:59,810 --> 00:02:59,850
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,627,315,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+63
+00:02:59,850 --> 00:02:59,890
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(341,653,1341,962)}Linda Guerreira
+
+64
+00:02:59,850 --> 00:02:59,890
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(341,653,1341,962)}Linda Guerreira
+
+65
+00:02:59,850 --> 00:02:59,890
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(341,653,1341,962)}Linda Guerreira
+
+66
+00:02:59,850 --> 00:02:59,890
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(341,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+67
+00:02:59,850 --> 00:02:59,890
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(341,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+68
+00:02:59,850 --> 00:02:59,890
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(341,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+69
+00:02:59,850 --> 00:02:59,890
+{\pos(960,884.321)\fax-0.4\clip(83,630,344,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+70
+00:02:59,850 --> 00:02:59,890
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,630,344,1016)}As Nove Sailor Guerreiras se Reúnem
+O Milagre do Buraco Negro dos Sonhos
+
+71
+00:02:59,850 --> 00:02:59,890
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,630,344,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+72
+00:02:59,850 --> 00:02:59,890
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,630,344,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+73
+00:02:59,890 --> 00:02:59,930
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(372,651,1341,962)}Linda Guerreira
+
+74
+00:02:59,890 --> 00:02:59,930
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(372,651,1341,962)}Linda Guerreira
+
+75
+00:02:59,890 --> 00:02:59,930
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(372,651,1341,962)}Linda Guerreira
+
+76
+00:02:59,890 --> 00:02:59,930
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(372,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+77
+00:02:59,890 --> 00:02:59,930
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(372,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+78
+00:02:59,890 --> 00:02:59,930
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(372,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+79
+00:02:59,890 --> 00:02:59,930
+{\pos(960,884.321)\fax-0.4\clip(83,632,372,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+80
+00:02:59,890 --> 00:02:59,930
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,632,372,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+81
+00:02:59,890 --> 00:02:59,930
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,632,372,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+82
+00:02:59,890 --> 00:02:59,930
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,632,372,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+83
+00:02:59,930 --> 00:02:59,970
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(404,653,1341,962)}Linda Guerreira
+
+84
+00:02:59,930 --> 00:02:59,970
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(404,653,1341,962)}Linda Guerreira
+
+85
+00:02:59,930 --> 00:02:59,970
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(404,653,1341,962)}Linda Guerreira
+
+86
+00:02:59,930 --> 00:02:59,970
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(404,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+87
+00:02:59,930 --> 00:02:59,970
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(404,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+88
+00:02:59,930 --> 00:02:59,970
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(404,653,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+89
+00:02:59,930 --> 00:02:59,970
+{\pos(960,884.321)\fax-0.4\clip(83,635,404,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+90
+00:02:59,930 --> 00:02:59,970
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,635,404,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+91
+00:02:59,930 --> 00:02:59,970
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,635,404,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+92
+00:02:59,930 --> 00:02:59,970
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,635,404,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+93
+00:02:59,970 --> 00:03:00,020
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(432,651,1341,962)}Linda Guerreira
+
+94
+00:02:59,970 --> 00:03:00,020
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(432,651,1341,962)}Linda Guerreira
+
+95
+00:02:59,970 --> 00:03:00,020
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(432,651,1341,962)}Linda Guerreira
+
+96
+00:02:59,970 --> 00:03:00,020
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(432,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+97
+00:02:59,970 --> 00:03:00,020
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(432,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+98
+00:02:59,970 --> 00:03:00,020
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(432,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+99
+00:02:59,970 --> 00:03:00,020
+{\pos(960,884.321)\fax-0.4\clip(83,636,432,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+100
+00:02:59,970 --> 00:03:00,020
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,636,432,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+101
+00:02:59,970 --> 00:03:00,020
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,636,432,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+102
+00:02:59,970 --> 00:03:00,020
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,636,432,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+103
+00:03:00,020 --> 00:03:00,060
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(462,651,1341,962)}Linda Guerreira
+
+104
+00:03:00,020 --> 00:03:00,060
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(462,651,1341,962)}Linda Guerreira
+
+105
+00:03:00,020 --> 00:03:00,060
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(462,651,1341,962)}Linda Guerreira
+
+106
+00:03:00,020 --> 00:03:00,060
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(462,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+107
+00:03:00,020 --> 00:03:00,060
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(462,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+108
+00:03:00,020 --> 00:03:00,060
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(462,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+109
+00:03:00,020 --> 00:03:00,060
+{\pos(960,884.321)\fax-0.4\clip(83,638,464,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+110
+00:03:00,020 --> 00:03:00,060
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,638,464,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+111
+00:03:00,020 --> 00:03:00,060
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,638,464,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+112
+00:03:00,020 --> 00:03:00,060
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,638,464,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+113
+00:03:00,060 --> 00:03:00,100
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(494,650,1341,962)}Linda Guerreira
+
+114
+00:03:00,060 --> 00:03:00,100
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(494,650,1341,962)}Linda Guerreira
+
+115
+00:03:00,060 --> 00:03:00,100
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(494,650,1341,962)}Linda Guerreira
+
+116
+00:03:00,060 --> 00:03:00,100
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(494,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+117
+00:03:00,060 --> 00:03:00,100
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(494,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+118
+00:03:00,060 --> 00:03:00,100
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(494,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+119
+00:03:00,060 --> 00:03:00,100
+{\pos(960,884.321)\fax-0.4\clip(83,639,494,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+120
+00:03:00,060 --> 00:03:00,100
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,639,494,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+121
+00:03:00,060 --> 00:03:00,100
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,639,494,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+122
+00:03:00,060 --> 00:03:00,100
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,639,494,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+123
+00:03:00,100 --> 00:03:00,140
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(525,650,1341,962)}Linda Guerreira
+
+124
+00:03:00,100 --> 00:03:00,140
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(525,650,1341,962)}Linda Guerreira
+
+125
+00:03:00,100 --> 00:03:00,140
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(525,650,1341,962)}Linda Guerreira
+
+126
+00:03:00,100 --> 00:03:00,140
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(525,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+127
+00:03:00,100 --> 00:03:00,140
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(525,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+128
+00:03:00,100 --> 00:03:00,140
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(525,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+129
+00:03:00,100 --> 00:03:00,140
+{\pos(960,884.321)\fax-0.4\clip(83,636,528,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+130
+00:03:00,100 --> 00:03:00,140
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,636,528,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+131
+00:03:00,100 --> 00:03:00,140
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,636,528,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+132
+00:03:00,100 --> 00:03:00,140
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,636,528,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+133
+00:03:00,140 --> 00:03:00,180
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(557,650,1341,962)}Linda Guerreira
+
+134
+00:03:00,140 --> 00:03:00,180
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(557,650,1341,962)}Linda Guerreira
+
+135
+00:03:00,140 --> 00:03:00,180
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(557,650,1341,962)}Linda Guerreira
+
+136
+00:03:00,140 --> 00:03:00,180
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(557,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+137
+00:03:00,140 --> 00:03:00,180
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(557,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+138
+00:03:00,140 --> 00:03:00,180
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(557,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+139
+00:03:00,140 --> 00:03:00,180
+{\pos(960,884.321)\fax-0.4\clip(83,639,557,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+140
+00:03:00,140 --> 00:03:00,180
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,639,557,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+141
+00:03:00,140 --> 00:03:00,180
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,639,557,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+142
+00:03:00,140 --> 00:03:00,180
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,639,557,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+143
+00:03:00,180 --> 00:03:00,230
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(588,651,1341,962)}Linda Guerreira
+
+144
+00:03:00,180 --> 00:03:00,230
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(588,651,1341,962)}Linda Guerreira
+
+145
+00:03:00,180 --> 00:03:00,230
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(588,651,1341,962)}Linda Guerreira
+
+146
+00:03:00,180 --> 00:03:00,230
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(588,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+147
+00:03:00,180 --> 00:03:00,230
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(588,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+148
+00:03:00,180 --> 00:03:00,230
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(588,651,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+149
+00:03:00,180 --> 00:03:00,230
+{\pos(960,884.321)\fax-0.4\clip(83,638,588,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+150
+00:03:00,180 --> 00:03:00,230
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,638,588,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+151
+00:03:00,180 --> 00:03:00,230
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,638,588,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+152
+00:03:00,180 --> 00:03:00,230
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,638,588,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+153
+00:03:00,230 --> 00:03:00,270
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(620,650,1341,962)}Linda Guerreira
+
+154
+00:03:00,230 --> 00:03:00,270
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(620,650,1341,962)}Linda Guerreira
+
+155
+00:03:00,230 --> 00:03:00,270
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(620,650,1341,962)}Linda Guerreira
+
+156
+00:03:00,230 --> 00:03:00,270
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(620,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+157
+00:03:00,230 --> 00:03:00,270
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(620,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+158
+00:03:00,230 --> 00:03:00,270
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(620,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+159
+00:03:00,230 --> 00:03:00,270
+{\pos(960,884.321)\fax-0.4\clip(83,639,617,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+160
+00:03:00,230 --> 00:03:00,270
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,639,617,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+161
+00:03:00,230 --> 00:03:00,270
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,639,617,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+162
+00:03:00,230 --> 00:03:00,270
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,639,617,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+163
+00:03:00,270 --> 00:03:00,310
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(648,650,1341,962)}Linda Guerreira
+
+164
+00:03:00,270 --> 00:03:00,310
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(648,650,1341,962)}Linda Guerreira
+
+165
+00:03:00,270 --> 00:03:00,310
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(648,650,1341,962)}Linda Guerreira
+
+166
+00:03:00,270 --> 00:03:00,310
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(648,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+167
+00:03:00,270 --> 00:03:00,310
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(648,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+168
+00:03:00,270 --> 00:03:00,310
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(648,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+169
+00:03:00,270 --> 00:03:00,310
+{\pos(960,884.321)\fax-0.4\clip(83,639,648,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+170
+00:03:00,270 --> 00:03:00,310
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,639,648,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+171
+00:03:00,270 --> 00:03:00,310
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,639,648,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+172
+00:03:00,270 --> 00:03:00,310
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,639,648,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+173
+00:03:00,310 --> 00:03:00,350
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(680,650,1341,962)}Linda Guerreira
+
+174
+00:03:00,310 --> 00:03:00,350
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(680,650,1341,962)}Linda Guerreira
+
+175
+00:03:00,310 --> 00:03:00,350
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(680,650,1341,962)}Linda Guerreira
+
+176
+00:03:00,310 --> 00:03:00,350
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(680,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+177
+00:03:00,310 --> 00:03:00,350
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(680,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+178
+00:03:00,310 --> 00:03:00,350
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(680,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+179
+00:03:00,310 --> 00:03:00,350
+{\pos(960,884.321)\fax-0.4\clip(83,642,680,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+180
+00:03:00,310 --> 00:03:00,350
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,642,680,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+181
+00:03:00,310 --> 00:03:00,350
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,642,680,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+182
+00:03:00,310 --> 00:03:00,350
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,642,680,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+183
+00:03:00,350 --> 00:03:00,390
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(711,650,1341,962)}Linda Guerreira
+
+184
+00:03:00,350 --> 00:03:00,390
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(711,650,1341,962)}Linda Guerreira
+
+185
+00:03:00,350 --> 00:03:00,390
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(711,650,1341,962)}Linda Guerreira
+
+186
+00:03:00,350 --> 00:03:00,390
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(711,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+187
+00:03:00,350 --> 00:03:00,390
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(711,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+188
+00:03:00,350 --> 00:03:00,390
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(711,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+189
+00:03:00,350 --> 00:03:00,390
+{\pos(960,884.321)\fax-0.4\clip(83,642,711,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+190
+00:03:00,350 --> 00:03:00,390
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,642,711,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+191
+00:03:00,350 --> 00:03:00,390
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,642,711,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+192
+00:03:00,350 --> 00:03:00,390
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,642,711,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+193
+00:03:00,390 --> 00:03:00,430
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(740,650,1341,962)}Linda Guerreira
+
+194
+00:03:00,390 --> 00:03:00,430
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(740,650,1341,962)}Linda Guerreira
+
+195
+00:03:00,390 --> 00:03:00,430
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(740,650,1341,962)}Linda Guerreira
+
+196
+00:03:00,390 --> 00:03:00,430
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(740,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+197
+00:03:00,390 --> 00:03:00,430
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(740,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+198
+00:03:00,390 --> 00:03:00,430
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(740,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+199
+00:03:00,390 --> 00:03:00,430
+{\pos(960,884.321)\fax-0.4\clip(83,639,740,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+200
+00:03:00,390 --> 00:03:00,430
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,639,740,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+201
+00:03:00,390 --> 00:03:00,430
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,639,740,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+202
+00:03:00,390 --> 00:03:00,430
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,639,740,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+203
+00:03:00,430 --> 00:03:00,480
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(771,650,1341,962)}Linda Guerreira
+
+204
+00:03:00,430 --> 00:03:00,480
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(771,650,1341,962)}Linda Guerreira
+
+205
+00:03:00,430 --> 00:03:00,480
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(771,650,1341,962)}Linda Guerreira
+
+206
+00:03:00,430 --> 00:03:00,480
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(771,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+207
+00:03:00,430 --> 00:03:00,480
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(771,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+208
+00:03:00,430 --> 00:03:00,480
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(771,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+209
+00:03:00,430 --> 00:03:00,480
+{\pos(960,884.321)\fax-0.4\clip(83,639,774,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+210
+00:03:00,430 --> 00:03:00,480
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,639,774,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+211
+00:03:00,430 --> 00:03:00,480
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,639,774,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+212
+00:03:00,430 --> 00:03:00,480
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,639,774,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+213
+00:03:00,480 --> 00:03:00,520
+{\pos(289.433,696.167)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(806,647,1341,962)}Linda Guerreira
+
+214
+00:03:00,480 --> 00:03:00,520
+{\pos(283.701,692.404)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.446\blur1.504\clip(806,647,1341,962)}Linda Guerreira
+
+215
+00:03:00,480 --> 00:03:00,520
+{\pos(283.701,692.404)\fscx62\fscy92\bord0\blur1.317\clip(806,647,1341,962)}Linda Guerreira
+
+216
+00:03:00,480 --> 00:03:00,520
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(806,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+217
+00:03:00,480 --> 00:03:00,520
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(806,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+218
+00:03:00,480 --> 00:03:00,520
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(806,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+219
+00:03:00,480 --> 00:03:00,520
+{\pos(960,884.321)\fax-0.4\clip(83,639,803,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+220
+00:03:00,480 --> 00:03:00,520
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,639,803,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+221
+00:03:00,480 --> 00:03:00,520
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,639,803,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+222
+00:03:00,480 --> 00:03:00,520
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,639,803,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+223
+00:03:00,520 --> 00:03:00,560
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(837,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+224
+00:03:00,520 --> 00:03:00,560
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(837,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+225
+00:03:00,520 --> 00:03:00,560
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(837,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+226
+00:03:00,520 --> 00:03:00,560
+{\pos(960,884.321)\fax-0.4\clip(83,639,834,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+227
+00:03:00,520 --> 00:03:00,560
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,639,834,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+228
+00:03:00,520 --> 00:03:00,560
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,639,834,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+229
+00:03:00,520 --> 00:03:00,560
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,639,834,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+230
+00:03:00,560 --> 00:03:00,600
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(863,644,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+231
+00:03:00,560 --> 00:03:00,600
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(863,644,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+232
+00:03:00,560 --> 00:03:00,600
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(863,644,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+233
+00:03:00,560 --> 00:03:00,600
+{\pos(960,884.321)\fax-0.4\clip(83,638,863,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+234
+00:03:00,560 --> 00:03:00,600
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,638,863,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+235
+00:03:00,560 --> 00:03:00,600
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,638,863,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+236
+00:03:00,560 --> 00:03:00,600
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,638,863,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+237
+00:03:00,600 --> 00:03:00,640
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(897,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+238
+00:03:00,600 --> 00:03:00,640
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(897,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+239
+00:03:00,600 --> 00:03:00,640
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(897,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+240
+00:03:00,600 --> 00:03:00,640
+{\pos(960,884.321)\fax-0.4\clip(83,635,894,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+241
+00:03:00,600 --> 00:03:00,640
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,635,894,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+242
+00:03:00,600 --> 00:03:00,640
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,635,894,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+243
+00:03:00,600 --> 00:03:00,640
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,635,894,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+244
+00:03:00,640 --> 00:03:00,680
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(926,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+245
+00:03:00,640 --> 00:03:00,680
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(926,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+246
+00:03:00,640 --> 00:03:00,680
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(926,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+247
+00:03:00,640 --> 00:03:00,680
+{\pos(960,884.321)\fax-0.4\clip(83,632,926,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+248
+00:03:00,640 --> 00:03:00,680
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,632,926,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+249
+00:03:00,640 --> 00:03:00,680
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,632,926,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+250
+00:03:00,640 --> 00:03:00,680
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,632,926,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+251
+00:03:00,680 --> 00:03:00,730
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(951,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+252
+00:03:00,680 --> 00:03:00,730
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(951,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+253
+00:03:00,680 --> 00:03:00,730
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(951,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+254
+00:03:00,680 --> 00:03:00,730
+{\pos(960,884.321)\fax-0.4\clip(83,630,954,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+255
+00:03:00,680 --> 00:03:00,730
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,630,954,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+256
+00:03:00,680 --> 00:03:00,730
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,630,954,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+257
+00:03:00,680 --> 00:03:00,730
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,630,954,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+258
+00:03:00,730 --> 00:03:00,770
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(986,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+259
+00:03:00,730 --> 00:03:00,770
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(986,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+260
+00:03:00,730 --> 00:03:00,770
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(986,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+261
+00:03:00,730 --> 00:03:00,770
+{\pos(960,884.321)\fax-0.4\clip(83,630,983,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+262
+00:03:00,730 --> 00:03:00,770
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,630,983,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+263
+00:03:00,730 --> 00:03:00,770
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,630,983,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+264
+00:03:00,730 --> 00:03:00,770
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,630,983,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+265
+00:03:00,770 --> 00:03:00,810
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1014,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+266
+00:03:00,770 --> 00:03:00,810
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1014,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+267
+00:03:00,770 --> 00:03:00,810
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1014,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+268
+00:03:00,770 --> 00:03:00,810
+{\pos(960,884.321)\fax-0.4\clip(83,630,1014,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+269
+00:03:00,770 --> 00:03:00,810
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,630,1014,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+270
+00:03:00,770 --> 00:03:00,810
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,630,1014,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+271
+00:03:00,770 --> 00:03:00,810
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,630,1014,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+272
+00:03:00,810 --> 00:03:00,850
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1043,638,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+273
+00:03:00,810 --> 00:03:00,850
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1043,638,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+274
+00:03:00,810 --> 00:03:00,850
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1043,638,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+275
+00:03:00,810 --> 00:03:00,850
+{\pos(960,884.321)\fax-0.4\clip(83,632,1046,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+276
+00:03:00,810 --> 00:03:00,850
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,632,1046,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+277
+00:03:00,810 --> 00:03:00,850
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,632,1046,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+278
+00:03:00,810 --> 00:03:00,850
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,632,1046,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+279
+00:03:00,850 --> 00:03:00,890
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1074,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+280
+00:03:00,850 --> 00:03:00,890
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1074,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+281
+00:03:00,850 --> 00:03:00,890
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1074,639,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+282
+00:03:00,850 --> 00:03:00,890
+{\pos(960,884.321)\fax-0.4\clip(83,635,1077,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+283
+00:03:00,850 --> 00:03:00,890
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,635,1077,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+284
+00:03:00,850 --> 00:03:00,890
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,635,1077,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+285
+00:03:00,850 --> 00:03:00,890
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,635,1077,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+286
+00:03:00,890 --> 00:03:00,930
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1109,638,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+287
+00:03:00,890 --> 00:03:00,930
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1109,638,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+288
+00:03:00,890 --> 00:03:00,930
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1109,638,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+289
+00:03:00,890 --> 00:03:00,930
+{\pos(960,884.321)\fax-0.4\clip(83,635,1106,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+290
+00:03:00,890 --> 00:03:00,930
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,635,1106,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+291
+00:03:00,890 --> 00:03:00,930
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,635,1106,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+292
+00:03:00,890 --> 00:03:00,930
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,635,1106,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+293
+00:03:00,930 --> 00:03:00,980
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1137,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+294
+00:03:00,930 --> 00:03:00,980
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1137,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+295
+00:03:00,930 --> 00:03:00,980
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1137,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+296
+00:03:00,930 --> 00:03:00,980
+{\pos(960,884.321)\fax-0.4\clip(83,635,1137,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+297
+00:03:00,930 --> 00:03:00,980
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,635,1137,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+298
+00:03:00,930 --> 00:03:00,980
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,635,1137,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+299
+00:03:00,930 --> 00:03:00,980
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,635,1137,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+300
+00:03:00,980 --> 00:03:01,020
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1169,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+301
+00:03:00,980 --> 00:03:01,020
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1169,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+302
+00:03:00,980 --> 00:03:01,020
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1169,642,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+303
+00:03:00,980 --> 00:03:01,020
+{\pos(960,884.321)\fax-0.4\clip(83,632,1167,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+304
+00:03:00,980 --> 00:03:01,020
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,632,1167,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+305
+00:03:00,980 --> 00:03:01,020
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,632,1167,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+306
+00:03:00,980 --> 00:03:01,020
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,632,1167,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+307
+00:03:01,020 --> 00:03:01,060
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1199,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+308
+00:03:01,020 --> 00:03:01,060
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1199,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+309
+00:03:01,020 --> 00:03:01,060
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1199,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+310
+00:03:01,020 --> 00:03:01,060
+{\pos(960,884.321)\fax-0.4\clip(83,629,1199,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+311
+00:03:01,020 --> 00:03:01,060
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,629,1199,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+312
+00:03:01,020 --> 00:03:01,060
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,629,1199,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+313
+00:03:01,020 --> 00:03:01,060
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,629,1199,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+314
+00:03:01,060 --> 00:03:01,100
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1230,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+315
+00:03:01,060 --> 00:03:01,100
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1230,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+316
+00:03:01,060 --> 00:03:01,100
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1230,650,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+317
+00:03:01,060 --> 00:03:01,100
+{\pos(960,884.321)\fax-0.4\clip(83,630,1227,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+318
+00:03:01,060 --> 00:03:01,100
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,630,1227,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+319
+00:03:01,060 --> 00:03:01,100
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,630,1227,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+320
+00:03:01,060 --> 00:03:01,100
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,630,1227,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+321
+00:03:01,100 --> 00:03:01,140
+{\pos(269.373,756.376)\fscx62\fscy92\1c&H985258&\3c&H985258&\bord0\blur1.881\clip(1265,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+322
+00:03:01,100 --> 00:03:01,140
+{\pos(255.045,748.85)\fscx62\fscy92\1c&H111611&\3c&H111611&\bord2.823\blur1.504\clip(1265,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+323
+00:03:01,100 --> 00:03:01,140
+{\pos(255.045,748.85)\fscx62\fscy92\bord0\blur1.317\clip(1265,647,1341,962)}S{\fs65.853} {\fs225.784}ailor Moon
+
+324
+00:03:01,100 --> 00:03:01,140
+{\pos(960,884.321)\fax-0.4\clip(83,632,1262,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+325
+00:03:01,100 --> 00:03:01,140
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,632,1262,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+326
+00:03:01,100 --> 00:03:01,140
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,632,1262,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+327
+00:03:01,100 --> 00:03:01,140
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,632,1262,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+328
+00:03:01,140 --> 00:03:01,180
+{\pos(960,884.321)\fax-0.4\clip(83,629,1290,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+329
+00:03:01,140 --> 00:03:01,180
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,629,1290,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+330
+00:03:01,140 --> 00:03:01,180
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,629,1290,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+331
+00:03:01,140 --> 00:03:01,180
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,629,1290,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+332
+00:03:01,180 --> 00:03:01,230
+{\pos(960,884.321)\fax-0.4\clip(83,629,1319,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+333
+00:03:01,180 --> 00:03:01,230
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,629,1319,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+334
+00:03:01,180 --> 00:03:01,230
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,629,1319,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+335
+00:03:01,180 --> 00:03:01,230
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,629,1319,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+336
+00:03:01,230 --> 00:03:01,270
+{\pos(960,884.321)\fax-0.4\clip(83,627,1353,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+337
+00:03:01,230 --> 00:03:01,270
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,627,1353,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+338
+00:03:01,230 --> 00:03:01,270
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,627,1353,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+339
+00:03:01,230 --> 00:03:01,270
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,627,1353,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+340
+00:03:01,270 --> 00:03:01,310
+{\pos(960,884.321)\fax-0.4\clip(83,627,1382,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+341
+00:03:01,270 --> 00:03:01,310
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,627,1382,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+342
+00:03:01,270 --> 00:03:01,310
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,627,1382,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+343
+00:03:01,270 --> 00:03:01,310
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,627,1382,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+344
+00:03:01,310 --> 00:03:01,350
+{\pos(960,884.321)\fax-0.4\clip(83,624,1413,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+345
+00:03:01,310 --> 00:03:01,350
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,624,1413,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+346
+00:03:01,310 --> 00:03:01,350
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,624,1413,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+347
+00:03:01,310 --> 00:03:01,350
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,624,1413,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+348
+00:03:01,350 --> 00:03:01,390
+{\pos(960,884.321)\fax-0.4\clip(83,624,1445,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+349
+00:03:01,350 --> 00:03:01,390
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,624,1445,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+350
+00:03:01,350 --> 00:03:01,390
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,624,1445,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+351
+00:03:01,350 --> 00:03:01,390
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,624,1445,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+352
+00:03:01,390 --> 00:03:01,430
+{\pos(960,884.321)\fax-0.4\clip(83,623,1473,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+353
+00:03:01,390 --> 00:03:01,430
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,623,1473,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+354
+00:03:01,390 --> 00:03:01,430
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,623,1473,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+355
+00:03:01,390 --> 00:03:01,430
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,623,1473,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+356
+00:03:01,430 --> 00:03:01,480
+{\pos(960,884.321)\fax-0.4\clip(83,627,1505,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+357
+00:03:01,430 --> 00:03:01,480
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,627,1505,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+358
+00:03:01,430 --> 00:03:01,480
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,627,1505,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+359
+00:03:01,430 --> 00:03:01,480
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,627,1505,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+360
+00:03:01,480 --> 00:03:01,520
+{\pos(960,884.321)\fax-0.4\clip(83,627,1533,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+361
+00:03:01,480 --> 00:03:01,520
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,627,1533,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+362
+00:03:01,480 --> 00:03:01,520
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,627,1533,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+363
+00:03:01,480 --> 00:03:01,520
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,627,1533,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+364
+00:03:01,520 --> 00:03:01,560
+{\pos(960,884.321)\fax-0.4\clip(83,629,1565,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+365
+00:03:01,520 --> 00:03:01,560
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4\clip(83,629,1565,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+366
+00:03:01,520 --> 00:03:01,560
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4\clip(83,629,1565,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+367
+00:03:01,520 --> 00:03:01,560
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4\clip(83,629,1565,1016)}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+368
+00:03:01,560 --> 00:03:08,000
+{\pos(960,884.321)\fax-0.4}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+369
+00:03:01,560 --> 00:03:08,000
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord0.564\blur3.575\fax-0.4}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+370
+00:03:01,560 --> 00:03:07,950
+{\pos(962.865,887.143)\1c&HFF892B&\3c&HFF892B&\bord2.823\blur13.17\fax-0.4}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+371
+00:03:01,560 --> 00:03:08,000
+{\pos(960,884.321)\1c&HAF2704&\3c&HAF2704&\bord11.289\blur37.63\fax-0.4}As Nove Sailor Guerreiras se Reúnem!
+O Milagre do Buraco Negro dos Sonhos
+
+372
+00:03:08,420 --> 00:03:10,920
+Tradução: Augusto Peres
+
+373
+00:03:24,820 --> 00:03:27,810
+{\blur0.564\fad(300,300)}Me desculpe por não ser sincera
+
+374
+00:03:28,180 --> 00:03:31,460
+{\blur0.564\fad(300,300)}Nos meus sonhos posso dizer
+
+375
+00:03:31,460 --> 00:03:34,880
+{\blur0.564\fad(300,300)}Meus pensamentos estão para entrar em curto-circuito
+
+376
+00:03:34,880 --> 00:03:37,620
+{\blur0.564\fad(300,300)}Quero te ver agora mesmo
+
+377
+00:03:38,260 --> 00:03:41,400
+{\blur0.564\fad(300,300)}Estou prestes a chorar sob a luz da Lua
+
+378
+00:03:41,680 --> 00:03:45,350
+{\blur0.564\fad(300,300)}Também não posso telefonar, já é meia-noite
+
+379
+00:03:45,350 --> 00:03:48,520
+{\blur0.564\fad(300,300)}Mas sou ingênua, o que posso fazer?
+
+380
+00:03:48,520 --> 00:03:51,380
+{\blur0.564\fad(300,300)}Meu coração é um caleidoscópio
+
+381
+00:03:52,260 --> 00:03:58,880
+{\blur0.564\fad(300,300)}Com a luz da Lua a nos guiar
+
+382
+00:03:59,100 --> 00:04:04,800
+{\blur0.564\fad(300,300)}Vamos nos reencontrar muitas vezes
+
+383
+00:04:05,600 --> 00:04:09,090
+{\blur0.564\fad(300,300)}Uma infinidade de constelações brilhantes
+
+384
+00:04:09,090 --> 00:04:12,510
+{\blur0.564\fad(300,300)}Prediz a localização do amor
+
+385
+00:04:12,510 --> 00:04:15,820
+{\blur0.564\fad(300,300)}Nascemos no mesmo planeta
+
+386
+00:04:15,820 --> 00:04:18,380
+{\blur0.564\fad(300,300)}Um romance milagroso
+
+387
+00:04:19,360 --> 00:04:21,990
+{\blur0.564\fad(300,300)}Eu acredito nisso
+
+388
+00:04:22,390 --> 00:04:24,990
+{\blur0.564\fad(300,300)}Em um romance milagroso.
+
+389
+00:04:35,700 --> 00:04:36,940
+Que cheiro bom.
+
+390
+00:04:36,550 --> 00:04:38,520
+{\pos(745.074,225.784)\blur1.317}Makoto
+Kino
+
+391
+00:04:37,200 --> 00:04:38,500
+Será que já deu o tempo...?
+
+392
+00:04:40,950 --> 00:04:42,340
+AI!
+
+393
+00:04:42,560 --> 00:04:45,540
+Pra que isso?! Eu só vou ver
+se eles já estão prontos!
+
+394
+00:04:45,540 --> 00:04:50,260
+O tempo no livro de receitas é bem claro e confiável, completamente diferente de você.
+
+395
+00:04:50,560 --> 00:04:51,750
+O que você disse?!
+
+396
+00:04:51,750 --> 00:04:52,740
+O que é?
+
+397
+00:04:54,130 --> 00:04:55,100
+Deixa eu ver.
+
+398
+00:04:59,060 --> 00:04:59,940
+Só mais um pouco.
+
+399
+00:05:00,800 --> 00:05:03,240
+Temos que esperar as bordas ficarem escuras.
+
+400
+00:05:03,890 --> 00:05:05,380
+Viu?
+
+401
+00:05:08,100 --> 00:05:10,410
+Vamos! Vamos! Vamos!
+
+402
+00:05:11,820 --> 00:05:13,660
+A massa ficou dura demais.
+
+403
+00:05:14,020 --> 00:05:16,480
+Não pode colocar o açúcar todo de uma vez.
+
+404
+00:05:17,740 --> 00:05:20,670
+Se fizer com muita pressa,
+não vai sair nada que preste.
+
+405
+00:05:21,220 --> 00:05:22,670
+Você está certa.
+
+406
+00:05:23,360 --> 00:05:24,550
+Espera, Minako-chan.
+
+407
+00:05:25,280 --> 00:05:26,420
+Não sei se você notou,
+
+408
+00:05:26,420 --> 00:05:29,560
+mas só sobraram essas gotas de chocolate agora.
+
+409
+00:05:29,560 --> 00:05:31,760
+É que eu não consigo parar.
+
+410
+00:05:32,000 --> 00:05:34,990
+"Deus não te dá um fardo maior
+do que você possa carregar."
+
+411
+00:05:35,050 --> 00:05:37,520
+Acho que isso não tem nada a ver com o assunto.
+
+412
+00:05:37,520 --> 00:05:41,160
+Melhor a gente desistir de fazer
+biscoitos com gotas de chocolate.
+
+413
+00:05:49,560 --> 00:05:52,160
+O esperado da Ami-chan!
+Você é boa em tudo.
+
+414
+00:05:52,160 --> 00:05:54,660
+Você ficou praticando em segredo, não é?
+
+415
+00:05:54,940 --> 00:05:57,040
+Minha mãe me ensinou.
+
+416
+00:05:57,360 --> 00:05:58,490
+Sua mãe?
+
+417
+00:05:58,490 --> 00:05:59,080
+Isso.
+
+418
+00:05:59,950 --> 00:06:03,400
+Ela era muito ocupada e ficava pouco em casa.
+
+419
+00:06:03,400 --> 00:06:07,120
+Mas quando eu estava no primário, sempre que eu tinha um dia ruim,
+
+420
+00:06:07,120 --> 00:06:10,400
+ela sempre arrumava tempo
+para fazer biscoitos para mim.
+
+421
+00:06:11,170 --> 00:06:12,310
+Ela falava:
+
+422
+00:06:12,320 --> 00:06:15,900
+"Meus biscoitos especiais vão deixar você 100 vezes mais animada!"
+
+423
+00:06:21,740 --> 00:06:23,420
+A Fada das 3 Horas já chegou.
+
+424
+00:06:24,980 --> 00:06:26,320
+Fada das 3 Horas?
+
+425
+00:06:26,980 --> 00:06:27,920
+O que é isso?
+
+426
+00:06:28,840 --> 00:06:30,160
+Essa fada que você falou.
+
+427
+00:06:30,160 --> 00:06:32,720
+Ah, não é nada demais.
+
+428
+00:06:32,720 --> 00:06:34,990
+Agora eu fiquei curiosa.
+Conta pra gente!
+
+429
+00:06:35,110 --> 00:06:40,830
+Minha mãe também assava bolos e doces pra mim quando eu era pequena.
+
+430
+00:06:41,320 --> 00:06:44,960
+E quando eu perguntei porque ela sempre fazia lanches às 15 horas,
+
+431
+00:06:45,800 --> 00:06:49,220
+ela disse que era por causa da <i>Fada das 3 Horas{\r}.</i>
+
+432
+00:06:49,960 --> 00:06:55,880
+Ela disse que existe uma fada que pede para todas as mães darem doces para os filhos às 3 horas.
+
+433
+00:06:56,400 --> 00:07:01,120
+E como eu não entendi quem seria
+essa <i>Fada das 3 Horas{\r},</i>
+
+434
+00:07:01,120 --> 00:07:05,230
+pensei que ela estava falando
+do passarinho que sai do relógio.
+
+435
+00:07:05,860 --> 00:07:07,860
+Uma <i>Fada das 3 Horas{\r}...</i>
+
+436
+00:07:08,660 --> 00:07:12,920
+Os bolos que a minha mãe fazia
+para mim eram especiais.
+
+437
+00:07:13,520 --> 00:07:19,030
+Imagino. E eu sempre achava que
+quando a minha mãe me fazia biscoitos,
+
+438
+00:07:19,030 --> 00:07:21,250
+eu não precisava continuar triste.
+
+439
+00:07:23,860 --> 00:07:25,900
+Fiquei com um pouco de inveja.
+
+440
+00:07:25,900 --> 00:07:31,260
+Porque mesmo no futuro, minha mãe só consegue fazer biscoitos ruins e queimados.
+
+441
+00:07:33,000 --> 00:07:36,160
+Por que você sempre tem que
+abrir a boca nas horas erradas?!
+
+442
+00:07:36,160 --> 00:07:37,300
+É a cara da Usagi.
+
+443
+00:07:37,300 --> 00:07:38,270
+Eu sabia.
+
+444
+00:07:38,920 --> 00:07:41,100
+Estou comovida!
+
+445
+00:07:41,100 --> 00:07:44,520
+Cozinhar coisas traz memórias
+tão maravilhosas!
+
+446
+00:07:44,800 --> 00:07:48,280
+Mas ser feliz no futuro é mais importante do que viver de passado!
+
+447
+00:07:49,180 --> 00:07:50,820
+E no próximo dia dos namorados,
+
+448
+00:07:50,820 --> 00:07:55,280
+eu vou conseguir cozinhar alguma coisa
+e agarrar essa felicidade!
+
+449
+00:07:55,560 --> 00:07:58,700
+Então, se você pode cozinhar coisas...
+
+450
+00:07:58,700 --> 00:08:01,540
+você consegue agarrar felicidade?
+
+451
+00:08:01,820 --> 00:08:03,040
+É claro!
+
+452
+00:08:03,040 --> 00:08:06,280
+É por isso que estamos
+aprendendo a cozinhar agora!
+
+453
+00:08:06,280 --> 00:08:09,860
+Principalmente porque a Mako-chan
+é um gênio na cozinha!
+
+454
+00:08:09,860 --> 00:08:12,020
+Imagina, eu não sou tão boa assim.
+
+455
+00:08:12,020 --> 00:08:16,900
+Então, a senhorita Makoto já
+agarrou a felicidade dela?
+
+456
+00:08:24,970 --> 00:08:28,960
+O importante é a estrada, não o destino final.
+
+457
+00:08:28,960 --> 00:08:33,820
+Mako-chan, não teve um pingo de
+sinceridade na sua explicação.
+
+458
+00:08:33,830 --> 00:08:34,580
+"Very good".
+
+459
+00:08:34,580 --> 00:08:35,570
+Imaginei...
+
+460
+00:08:48,200 --> 00:08:50,940
+Vejam como os meus biscoitos ficaram lindos!
+
+461
+00:08:50,940 --> 00:08:55,180
+Bem diferente dessas coisas FEIAS que você fez!
+
+462
+00:08:56,800 --> 00:08:57,940
+Ah, fica quieta!
+
+463
+00:08:57,940 --> 00:09:00,850
+O que importa nos meus biscoitos é o sabor!
+
+464
+00:09:01,740 --> 00:09:05,550
+Uma mordida te deixa 100 vezes mais corajosa e 100 vezes mais forte!
+
+465
+00:09:05,640 --> 00:09:07,100
+São biscoitos especiais!
+
+466
+00:09:07,440 --> 00:09:11,140
+Nada! Os que eu fiz também estão gostosos...
+
+467
+00:09:19,400 --> 00:09:20,320
+Ai, ai.
+
+468
+00:09:21,060 --> 00:09:23,870
+Olha, os da Chibiusa-chan estão muito bons.
+
+469
+00:09:24,460 --> 00:09:26,380
+É verdade, ficaram ótimos.
+
+470
+00:09:26,900 --> 00:09:30,130
+Não são muito bonitos, mas o gosto é perfeito.
+
+471
+00:09:30,410 --> 00:09:32,130
+Viu? Eu disse!
+
+472
+00:09:32,410 --> 00:09:33,880
+Que crueldade, meninas...!
+
+473
+00:09:35,130 --> 00:09:38,840
+Tudo bem, o Mamo-chan vai dizer que os meus estão bons e vai comer tudo.
+
+474
+00:09:44,050 --> 00:09:47,270
+Não importa o que ela diga,
+eu já ganhei a competição!
+
+475
+00:09:47,550 --> 00:09:48,480
+Competição?
+
+476
+00:09:48,480 --> 00:09:52,420
+Sim. Para saber qual biscoito o
+Mamo-chan vai gostar mais!
+
+477
+00:10:05,620 --> 00:10:06,830
+Qual o problema?
+
+478
+00:10:26,600 --> 00:10:28,560
+Ah, que gatinha linda.
+
+479
+00:10:28,560 --> 00:10:29,600
+O nome dela é Diana.
+
+480
+00:10:30,520 --> 00:10:32,160
+Muito prazer, Diana.
+
+481
+00:10:35,860 --> 00:10:37,940
+Espera, isso faz cócegas!
+
+482
+00:10:47,040 --> 00:10:49,720
+Ei, o que você está fazendo por aqui?
+
+483
+00:10:50,340 --> 00:10:51,980
+Está esperando alguém?
+
+484
+00:10:52,680 --> 00:10:53,900
+Quer um, mamãe?
+
+485
+00:10:55,100 --> 00:10:57,720
+Estou olhando as crianças que saem daqui.
+
+486
+00:10:58,870 --> 00:11:01,120
+Todas parecem tão felizes.
+
+487
+00:11:01,120 --> 00:11:02,480
+É claro.
+
+488
+00:11:02,480 --> 00:11:04,560
+É porque é uma loja de doces!
+
+489
+00:11:04,560 --> 00:11:06,840
+Sim, essa é uma boa cidade.
+
+490
+00:11:07,380 --> 00:11:09,660
+Todas as mães parecem muito gentis.
+
+491
+00:11:10,340 --> 00:11:12,680
+Tem mãe que não é muito gentil.
+
+492
+00:11:13,960 --> 00:11:17,680
+Minha mãe é desajeitada, chorona e boba.
+
+493
+00:11:18,100 --> 00:11:22,000
+E ela vive comendo todos os meus lanches!
+
+494
+00:11:22,980 --> 00:11:26,330
+Bem, eu também como alguns
+dos lanches dela, então...
+
+495
+00:11:28,980 --> 00:11:30,580
+Você é uma menina divertida.
+
+496
+00:11:32,240 --> 00:11:35,180
+Essa cidade realmente é muito acolhedora.
+
+497
+00:11:35,640 --> 00:11:37,620
+Até os doces parecem felizes também.
+
+498
+00:11:38,680 --> 00:11:41,380
+Você consegue saber o que
+os doces estão sentindo?
+
+499
+00:11:41,700 --> 00:11:46,420
+Veja, eles estão quase dançando de alegria porque as crianças os amam tanto!
+
+500
+00:11:58,510 --> 00:12:01,900
+Tudo que eu vejo é que eles parecem deliciosos.
+
+501
+00:12:18,380 --> 00:12:19,710
+Mentira...!
+
+502
+00:12:23,370 --> 00:12:25,090
+Meu nome é Chibiusa!
+
+503
+00:12:28,540 --> 00:12:31,100
+E o meu é Peruru.
+
+504
+00:12:32,180 --> 00:12:33,080
+Peruru?
+
+505
+00:12:41,000 --> 00:12:41,610
+Pois não?
+
+506
+00:12:41,890 --> 00:12:43,260
+Entrega especial!
+
+507
+00:12:43,260 --> 00:12:46,120
+Sua encomenda de "maior amor do mundo"
+acabou de chegar!
+
+508
+00:12:47,730 --> 00:12:51,020
+Aquela pirralha irritante está
+escondida por aqui, não é?
+
+509
+00:12:51,020 --> 00:12:52,600
+Fala da Chibiusa?
+
+510
+00:12:53,730 --> 00:12:55,420
+Ela não é uma pirralha irritante.
+
+511
+00:12:55,620 --> 00:12:57,100
+E ela não veio aqui hoje.
+
+512
+00:12:57,320 --> 00:13:00,590
+É pirralha irritante sim!
+Ela sempre se intromete!
+
+513
+00:13:02,290 --> 00:13:02,970
+Mamo-chan?
+
+514
+00:13:04,560 --> 00:13:06,720
+Quando você comprou essa camisa?
+
+515
+00:13:06,720 --> 00:13:08,000
+Ah, essa?
+
+516
+00:13:09,740 --> 00:13:13,120
+Quando eu fui fazer compras com a Chibiusa.
+
+517
+00:13:17,040 --> 00:13:17,860
+Mamo-chan!
+
+518
+00:13:19,480 --> 00:13:22,110
+Eu sempre quis te perguntar uma coisa.
+
+519
+00:13:22,720 --> 00:13:25,990
+Quem é mais importante para você, a Chibiusa ou eu?
+
+520
+00:13:27,350 --> 00:13:30,440
+Qual das duas você gosta mais?
+
+521
+00:13:30,440 --> 00:13:31,700
+Que pergunta é essa?
+
+522
+00:13:32,530 --> 00:13:34,280
+Você não vai me responder, né?
+
+523
+00:13:36,140 --> 00:13:38,760
+Eu sabia, a Chibiusa é mais importante pra você.
+
+524
+00:13:39,320 --> 00:13:42,400
+E a boba aqui ainda fez
+biscoitos caseiros pra você.
+
+525
+00:13:42,400 --> 00:13:45,300
+Sou a mulher mais azarada do mundo!
+
+526
+00:13:45,580 --> 00:13:46,820
+Você fez biscoitos?
+
+527
+00:13:47,260 --> 00:13:48,680
+Então eu vou fazer um café.
+
+528
+00:13:50,830 --> 00:13:52,000
+Hora das notícias.
+
+529
+00:13:52,000 --> 00:13:53,480
+Em vários países,
+
+530
+00:13:53,480 --> 00:13:58,390
+todas as crianças de algumas cidades foram sequestradas e desapareceram durante a noite.
+
+531
+00:13:58,670 --> 00:14:04,400
+Até o momento, esse crime já foi confirmado em 43 cidades de 27 países diferentes...
+
+532
+00:14:04,400 --> 00:14:07,480
+Não se sabe nenhuma pista sobre o caso...
+
+533
+00:14:07,480 --> 00:14:10,410
+e o paradeiro das crianças
+continua desconhecido.
+
+534
+00:14:12,620 --> 00:14:13,100
+Aqui!
+
+535
+00:14:14,240 --> 00:14:14,840
+O que é?
+
+536
+00:14:15,220 --> 00:14:17,080
+São biscoitos que eu fiz.
+
+537
+00:14:20,840 --> 00:14:24,060
+O quê? Não são bonitos, mas o gosto é bom!
+
+538
+00:14:24,060 --> 00:14:28,860
+Uma mordida te deixa 100 vezes mais corajoso e 100 vezes mais forte!
+
+539
+00:14:28,860 --> 00:14:30,580
+São biscoitos especiais!
+
+540
+00:14:31,840 --> 00:14:32,990
+Posso comê-los?
+
+541
+00:14:35,900 --> 00:14:36,480
+Pode.
+
+542
+00:14:37,660 --> 00:14:38,580
+Até mais!
+
+543
+00:14:43,390 --> 00:14:44,990
+Vamos nos ver de novo!
+
+544
+00:15:39,230 --> 00:15:41,340
+Senhorita Usagi, senhorita Usagi!
+
+545
+00:15:42,070 --> 00:15:44,570
+Mamo-chan, você me ama?
+
+546
+00:15:44,570 --> 00:15:47,460
+Acorde, senhorita Usagi!
+
+547
+00:16:02,260 --> 00:16:04,340
+O que ela está fazendo?
+
+548
+00:16:04,590 --> 00:16:05,440
+Usagi-chan!
+
+549
+00:16:06,800 --> 00:16:08,460
+Vocês também vieram!
+
+550
+00:16:09,310 --> 00:16:12,420
+Vejam, a Chibiusa está muito esquisita.
+
+551
+00:16:12,420 --> 00:16:13,860
+Não é só a Chibiusa.
+
+552
+00:16:14,450 --> 00:16:15,700
+Olha pra lá!
+
+553
+00:16:16,200 --> 00:16:18,470
+Não pode ser, o que é isso?!
+
+554
+00:16:21,610 --> 00:16:25,740
+Parece que todas as crianças da cidade saíram de casa ao mesmo tempo.
+
+555
+00:16:26,160 --> 00:16:28,840
+Será que é algum tipo de jogo que está na moda?
+
+556
+00:16:28,840 --> 00:16:30,080
+N-Não pode ser...
+
+557
+00:16:30,120 --> 00:16:31,920
+Eu ouvi no noticiário...
+
+558
+00:16:31,920 --> 00:16:35,880
+que crianças em vários locais
+do mundo desapareceram.
+
+559
+00:16:36,390 --> 00:16:38,660
+Aposto que isso tem a ver com esse caso.
+
+560
+00:16:40,890 --> 00:16:45,150
+Vocês também estão ouvindo uma flauta?
+
+561
+00:16:45,660 --> 00:16:46,480
+Flauta?
+
+562
+00:16:57,160 --> 00:17:00,980
+Há uma energia estranha saindo dessa melodia!
+
+563
+00:17:15,450 --> 00:17:17,390
+Que tipo de veículo é aquele?
+
+564
+00:17:18,750 --> 00:17:20,560
+Aquilo não é comum.
+
+565
+00:17:21,420 --> 00:17:24,220
+De qualquer forma, as crianças
+não podem embarcar!
+
+566
+00:17:27,270 --> 00:17:28,280
+Chibiusa, espera!
+
+567
+00:17:28,930 --> 00:17:30,460
+Me solte, me solte...
+
+568
+00:17:30,460 --> 00:17:33,040
+Small Lady, por favor, acorde!
+
+569
+00:17:33,370 --> 00:17:34,990
+Acho que eu não tenho escolha...
+
+570
+00:17:36,940 --> 00:17:38,030
+Ai!
+
+571
+00:17:38,230 --> 00:17:40,330
+O que está fazendo, sua idiota?
+
+572
+00:17:42,280 --> 00:17:43,300
+Onde eu estou?
+
+573
+00:17:44,760 --> 00:17:48,170
+É sério que você não lembra de nada?
+
+574
+00:17:48,980 --> 00:17:50,880
+Pessoal, voltem pra casa!
+
+575
+00:17:51,370 --> 00:17:54,210
+Vocês não podem subir numa
+coisa estranha daquelas.
+
+576
+00:17:54,450 --> 00:17:58,750
+Me solta. Vamos para um mundo
+dos sonhos cheio de doces.
+
+577
+00:17:58,750 --> 00:17:59,970
+Meninos, acordem!
+
+578
+00:18:15,280 --> 00:18:16,600
+Não nos atrapalhem.
+
+579
+00:18:17,020 --> 00:18:18,280
+E quem é você?
+
+580
+00:18:18,520 --> 00:18:22,740
+As crianças vieram até aqui por vontade própria.
+
+581
+00:18:22,740 --> 00:18:24,290
+Não fiquem no nosso caminho.
+
+582
+00:18:24,660 --> 00:18:27,020
+Você está atraindo as crianças para cá!
+
+583
+00:18:27,020 --> 00:18:29,540
+Não vou deixar que continue com isso!
+
+584
+00:18:29,540 --> 00:18:33,420
+Ora, ora, temos muitos empecilhos esta noite.
+
+585
+00:18:35,330 --> 00:18:37,160
+Papillotes!
+
+586
+00:18:39,660 --> 00:18:40,680
+O que é isso?
+
+587
+00:18:41,000 --> 00:18:41,940
+É um doce.
+
+588
+00:18:55,720 --> 00:18:56,400
+Monstros?
+
+589
+00:19:01,210 --> 00:19:03,530
+Peguem elas, <i>Bonbon Babies</i>!
+
+590
+00:19:30,460 --> 00:19:31,220
+Sai daqui!
+
+591
+00:19:31,220 --> 00:19:32,200
+Fica longe de mim!
+
+592
+00:19:33,760 --> 00:19:35,420
+Chibiusa, faz alguma coisa!
+
+593
+00:19:35,420 --> 00:19:37,140
+Faz alguma coisa VOCÊ!
+
+594
+00:19:37,140 --> 00:19:38,480
+Não, você!
+
+595
+00:19:38,480 --> 00:19:40,400
+Sou a mais velha, estão eu decido!
+
+596
+00:19:40,900 --> 00:19:42,820
+Vai sonhando!
+
+597
+00:19:45,600 --> 00:19:47,040
+Meninas, transformem-se!
+
+598
+00:19:47,730 --> 00:19:49,960
+{\3c&HFF5E00&\c&H9AF5F9&}MERCURY CRYSTAL POWER!
+
+599
+00:19:57,620 --> 00:19:59,840
+{\3c&H267303&\c&H9AF5F9&}JUPITER CRYSTAL POWER!
+
+600
+00:20:04,520 --> 00:20:06,890
+{\3c&H0506E2&\c&H9AF5F9&}MARS CRYSTAL POWER!
+
+601
+00:20:11,210 --> 00:20:13,850
+{\3c&H0368E4&\c&H9AF5F9&}VENUS CRYSTAL POWER!
+
+602
+00:20:18,300 --> 00:20:19,900
+{\3c&HAA0B9A&\c&H9AF5F9&}MAKE-UP!
+
+603
+00:20:35,150 --> 00:20:36,060
+{\3c&H0368E4&\c&H9AF5F9&}VENUS
+
+604
+00:20:41,120 --> 00:20:43,130
+{\3c&H0368E4&\c&H9AF5F9&}LOVE AND BEAUTY SHOCK!
+
+605
+00:20:59,440 --> 00:21:04,140
+{\3c&H5B23DA&\c&H9AF5F9&}- MOON CRISIS, MAKE-UP!
+{\3c&HAE16E7&}- MOON CRISIS, MAKE-UP!
+
+606
+00:21:36,380 --> 00:21:38,400
+{\3c&H15D9D7&}MOON TIARA ACTION!
+
+607
+00:22:07,880 --> 00:22:09,890
+Quem diabos são vocês?!
+
+608
+00:22:10,120 --> 00:22:11,840
+Estava esperando essa pergunta!
+
+609
+00:22:12,380 --> 00:22:14,820
+Nós defendemos a justiça nesse mundo!
+
+610
+00:22:14,820 --> 00:22:18,900
+Nunca vamos perdoar um vilão
+que sequestra crianças inocentes!
+
+611
+00:22:19,380 --> 00:22:20,730
+Pelo amor e a justiça...
+
+612
+00:22:20,730 --> 00:22:22,730
+Somos as lindas Sailor Guerreiras!
+
+613
+00:22:26,430 --> 00:22:28,600
+Sailor Moon!
+
+614
+00:22:29,420 --> 00:22:31,480
+E Sailor Chibi Moon!
+
+615
+00:22:32,690 --> 00:22:34,420
+Vamos punir você...
+
+616
+00:22:35,080 --> 00:22:36,250
+Em nome da lua!
+
+617
+00:22:36,480 --> 00:22:38,380
+Nós, as outras Sailor Guerreiras...
+
+618
+00:22:38,380 --> 00:22:39,750
+Vamos te punir também!
+
+619
+00:22:48,560 --> 00:22:49,520
+O que é isso?
+
+620
+00:22:51,230 --> 00:22:52,560
+O que está acontecendo?
+
+621
+00:22:54,100 --> 00:22:56,740
+Sinto cheiro de doce.
+
+622
+00:22:58,090 --> 00:22:59,660
+Vem daquela casa!
+
+623
+00:22:59,660 --> 00:23:00,970
+Será que é...
+
+624
+00:23:00,970 --> 00:23:02,520
+Uma casa feita de doces?
+
+625
+00:23:03,970 --> 00:23:06,120
+Sailor Moon! Meninas!
+
+626
+00:23:06,120 --> 00:23:08,240
+O que será que está havendo?
+
+627
+00:23:08,660 --> 00:23:09,400
+Uma ilusão.
+
+628
+00:23:09,840 --> 00:23:12,640
+A música da flauta hipnotizou elas.
+
+629
+00:23:30,000 --> 00:23:33,510
+Quando vocês ficaram pequenas desse jeito?
+
+630
+00:23:33,510 --> 00:23:35,760
+Você ficou também, Venus.
+
+631
+00:23:35,760 --> 00:23:36,960
+É verdade!
+
+632
+00:23:36,960 --> 00:23:39,040
+Todas ficaram do meu tamanho.
+
+633
+00:23:43,840 --> 00:23:44,980
+Parece uma delícia!
+
+634
+00:24:14,370 --> 00:24:15,720
+Tuxedo Kamen-sama!
+
+635
+00:24:16,500 --> 00:24:19,220
+Acho melhor não morder isso, Sailor Moon.
+
+636
+00:24:31,180 --> 00:24:33,610
+Doeu! Doeu! Doeu!
+
+637
+00:24:41,300 --> 00:24:43,360
+Então você está do lado delas?
+
+638
+00:25:15,660 --> 00:25:17,400
+Tuxedo Kamen-sama!
+
+639
+00:25:26,710 --> 00:25:28,410
+Espere! Pare com isso!
+
+640
+00:25:35,200 --> 00:25:36,600
+Peruru?
+
+641
+00:25:36,610 --> 00:25:38,980
+É você, Peruru?
+O que está dizendo?!
+
+642
+00:25:38,990 --> 00:25:43,310
+Meu irmão, desde quando você é violento desse jeito sem pensar?!
+
+643
+00:25:44,360 --> 00:25:46,680
+Pupulan, o que significa isso?
+
+644
+00:25:53,310 --> 00:25:54,760
+Senhora Badiane.
+
+645
+00:25:55,620 --> 00:25:56,760
+Qual o problema?
+
+646
+00:25:57,440 --> 00:25:59,480
+Não vou tolerar atrasos neste plano.
+
+647
+00:25:59,820 --> 00:26:00,640
+Sim.
+
+648
+00:26:01,320 --> 00:26:04,150
+Mas o Peruru apareceu aqui justo agora.
+
+649
+00:26:04,400 --> 00:26:09,540
+Por que levar tantas crianças e por que usar esses métodos tão violentos?!
+
+650
+00:26:10,000 --> 00:26:11,340
+Está sendo rude, Peruru!
+
+651
+00:26:11,570 --> 00:26:13,160
+Eu não vou tolerar isso.
+
+652
+00:26:13,200 --> 00:26:16,080
+Badiane, saiba que eu não confio em você!
+
+653
+00:26:16,840 --> 00:26:20,850
+Badiane está fazendo isso para que as crianças obtenham a felicidade eterna!
+
+654
+00:26:21,140 --> 00:26:22,880
+Eu não vou acreditar nisso!
+
+655
+00:26:23,420 --> 00:26:24,300
+Peruru!
+
+656
+00:26:27,420 --> 00:26:31,610
+Entendo, então essa garotinha está te enganando.
+
+657
+00:26:31,840 --> 00:26:34,110
+Não! Ela não tem nada a ver com isso!
+
+658
+00:26:34,350 --> 00:26:35,990
+Continue seu trabalho.
+
+659
+00:26:35,990 --> 00:26:37,360
+Badiane!
+
+660
+00:26:37,360 --> 00:26:40,380
+Traga a garota junto com as crianças.
+
+661
+00:26:40,660 --> 00:26:41,900
+Como quiser.
+
+662
+00:26:47,230 --> 00:26:48,000
+Badiane!
+
+663
+00:26:51,200 --> 00:26:53,550
+Parece que a luta vai recomeçar.
+
+664
+00:26:54,490 --> 00:26:56,380
+Ataquem, <i>Bonbon Babies</i>!
+
+665
+00:26:56,680 --> 00:26:57,510
+Irmão!
+
+666
+00:26:59,280 --> 00:27:00,540
+{\3c&H267303&\c&H9AF5F9&}JUPITER
+
+667
+00:27:02,750 --> 00:27:05,810
+{\3c&H267303&\c&H9AF5F9&}OAK EVOLUTION!
+
+668
+00:27:07,460 --> 00:27:08,420
+{\3c&HFF5E00&\c&H9AF5F9&}MERCURY
+
+669
+00:27:10,590 --> 00:27:13,060
+{\3c&HFF5E00&\c&H9AF5F9&}AQUA RHAPSODY!
+
+670
+00:27:51,800 --> 00:27:53,480
+NÃO!
+
+671
+00:27:53,720 --> 00:27:54,940
+Tuxedo Kamen!
+
+672
+00:28:00,180 --> 00:28:01,240
+Chibi Moon!
+
+673
+00:28:01,240 --> 00:28:02,490
+Chibi Moon foi...
+
+674
+00:28:04,700 --> 00:28:05,660
+Maldição!
+
+675
+00:28:16,120 --> 00:28:18,800
+{\blur0.564\fad(300,300)}Ei, veja e ouça atentamente.
+
+676
+00:28:18,800 --> 00:28:20,680
+{\blur0.564\fad(300,300)}Uma melodia muito doce.
+
+677
+00:28:21,260 --> 00:28:26,120
+{\blur0.564\fad(300,300)}A Fada das 3 Horas está me chamando.
+
+678
+00:28:22,160 --> 00:28:23,060
+Chibi Moon!
+
+679
+00:28:24,660 --> 00:28:26,100
+Chibi Moon!
+
+680
+00:28:26,120 --> 00:28:28,240
+{\blur0.564\fad(300,300)}Bata na porta do sono.
+
+681
+00:28:28,700 --> 00:28:31,140
+{\blur0.564\fad(300,300)}Levante, acorde e se apresse.
+
+682
+00:28:31,140 --> 00:28:35,940
+{\blur0.564\fad(300,300)}Vamos embarcar no navio para o país dos doces.
+
+683
+00:28:36,300 --> 00:28:38,690
+{\blur0.564\fad(300,300)}Ah, eu tenho muitos sonhos.
+
+684
+00:28:38,690 --> 00:28:41,160
+{\blur0.564\fad(300,300)}Torta de hortelã e torta de maçã.
+
+685
+00:28:41,390 --> 00:28:43,520
+{\blur0.564\fad(300,300)}Bom bolo e bom humor.
+
+686
+00:28:43,520 --> 00:28:45,890
+{\blur0.564\fad(300,300)}Os biscoitos me alegram.
+
+687
+00:28:45,890 --> 00:28:48,620
+{\blur0.564\fad(300,300)}Lambendo o pudim de ameixa.
+
+688
+00:28:48,980 --> 00:28:51,200
+{\blur0.564\fad(300,300)}Comendo um pouco de chocolate...
+
+689
+00:28:58,720 --> 00:28:59,800
+Espera!
+
+690
+00:28:59,880 --> 00:29:01,140
+Você não vai fugir!
+
+691
+00:29:01,140 --> 00:29:03,500
+Diga, quem raios é você?
+
+692
+00:29:07,460 --> 00:29:10,540
+{\blur0.564\fad(300,300)}Ei, veja e ouça atentamente.
+
+693
+00:29:10,630 --> 00:29:12,810
+{\blur0.564\fad(300,300)}Uma melodia muito doce.
+
+694
+00:29:12,810 --> 00:29:18,020
+{\blur0.564\fad(300,300)}A Fada das 3 Horas está me chamando.
+
+695
+00:29:18,180 --> 00:29:20,550
+{\blur0.564\fad(300,300)}Bata na porta do sono.
+
+696
+00:29:20,550 --> 00:29:23,220
+{\blur0.564\fad(300,300)}Levante, acorde e se apresse.
+
+697
+00:29:23,220 --> 00:29:28,190
+{\blur0.564\fad(300,300)}Vamos embarcar no navio para o país dos doces.
+
+698
+00:29:28,190 --> 00:29:30,830
+{\blur0.564\fad(300,300)}Ah, eu tenho muitos sonhos.
+
+699
+00:29:30,830 --> 00:29:32,700
+{\blur0.564\fad(300,300)}Torta de hortelã e torta de maçã.
+
+700
+00:29:33,150 --> 00:29:35,560
+{\blur0.564\fad(300,300)}Bom bolo e bom humor.
+
+701
+00:29:35,740 --> 00:29:37,280
+{\blur0.564\fad(300,300)}Os biscoitos me alegram.
+
+702
+00:29:37,700 --> 00:29:40,820
+{\blur0.564\fad(300,300)}Lambendo o pudim de ameixa.
+
+703
+00:29:40,820 --> 00:29:43,080
+{\blur0.564\fad(300,300)}Comendo um pouco de chocolate.
+
+704
+00:29:43,080 --> 00:29:47,830
+{\blur0.564\fad(300,300)}A Fada das 3 Horas está observando com um sorriso.
+
+705
+00:29:47,830 --> 00:29:50,750
+{\blur0.564\fad(300,300)}Lambendo o pudim de ameixa.
+
+706
+00:29:50,750 --> 00:29:53,170
+{\blur0.564\fad(300,300)}Comendo um pouco de chocolate.
+
+707
+00:29:53,170 --> 00:29:58,000
+{\blur0.564\fad(300,300)}A Fada das 3 Horas está observando com um sorriso.
+
+708
+00:30:03,800 --> 00:30:05,200
+Bom trabalho.
+
+709
+00:30:47,220 --> 00:30:50,340
+Você é a garota que enganou Peruru?
+
+710
+00:30:51,850 --> 00:30:55,120
+Entendo. Sinto uma energia estranha em você.
+
+711
+00:30:57,530 --> 00:31:01,670
+Quer entrar no caixão dos sonhos
+como as outras crianças?
+
+712
+00:31:02,740 --> 00:31:03,990
+É questão de tempo.
+
+713
+00:31:04,910 --> 00:31:10,340
+Em breve, este planeta será completamente
+absorvido pelo meu Buraco Negro dos Sonhos.
+
+714
+00:31:11,500 --> 00:31:13,320
+No centro desse castelo,
+
+715
+00:31:13,320 --> 00:31:19,780
+meu Buraco Negro dos Sonhos está sugando a energia dos sonhos açucarados das crianças...
+
+716
+00:31:19,780 --> 00:31:21,740
+e está ficando cada vez mais poderoso.
+
+717
+00:31:22,860 --> 00:31:26,560
+Logo, ele engolirá este planeta inteiro.
+
+718
+00:31:27,430 --> 00:31:33,240
+E então, todos os tolos humanos da Terra
+passarão a viver em um caixão dos sonhos.
+
+719
+00:31:36,440 --> 00:31:39,710
+Que bela visão isso será!
+
+720
+00:31:40,800 --> 00:31:42,400
+Você é idiota?
+
+721
+00:31:42,700 --> 00:31:44,960
+Isso nunca vai acontecer!
+
+722
+00:31:45,300 --> 00:31:46,840
+Totalmente impossível!
+
+723
+00:31:47,160 --> 00:31:49,970
+É? Por que você acha isso?
+
+724
+00:31:49,970 --> 00:31:53,470
+Porque Sailor Moon está na Terra.
+
+725
+00:31:57,100 --> 00:31:58,440
+Isso não é...
+
+726
+00:31:59,000 --> 00:32:00,990
+nuvem de chuva comum.
+
+727
+00:32:01,300 --> 00:32:03,080
+Mamoru-san está bem.
+
+728
+00:32:03,590 --> 00:32:05,230
+A vida dele não corre perigo.
+
+729
+00:32:08,350 --> 00:32:09,400
+Usako.
+
+730
+00:32:10,580 --> 00:32:11,640
+Mamo-chan.
+
+731
+00:32:12,260 --> 00:32:13,410
+E a Chibiusa?
+
+732
+00:32:19,000 --> 00:32:20,040
+Ela está bem.
+
+733
+00:32:23,900 --> 00:32:27,250
+Aquela pirralha irritante tem que estar bem.
+
+734
+00:32:29,620 --> 00:32:31,180
+É bastante perigoso.
+
+735
+00:32:35,680 --> 00:32:36,990
+Temos que ir rápido.
+
+736
+00:32:37,580 --> 00:32:40,220
+Se o Buraco Negro dos Sonhos nos sugar...
+
+737
+00:32:40,880 --> 00:32:44,000
+nunca poderemos resgatar a Chibiusa-chan.
+
+738
+00:32:44,340 --> 00:32:45,730
+Buraco Negro dos Sonhos?
+
+739
+00:32:46,240 --> 00:32:47,730
+Eu tenho que salvá-la.
+
+740
+00:32:47,970 --> 00:32:51,500
+Será que não estamos caindo em uma armadilha?
+
+741
+00:32:51,600 --> 00:32:53,990
+Nossa única escolha é confiar nele agora.
+
+742
+00:32:56,850 --> 00:32:59,990
+A Chibiusa te deu isso, não é?
+
+743
+00:33:01,540 --> 00:33:02,420
+Eu...
+
+744
+00:33:04,000 --> 00:33:05,440
+Alcançamos a nuvem.
+
+745
+00:33:05,500 --> 00:33:07,640
+Chegaremos assim que passarmos por ela!
+
+746
+00:33:17,500 --> 00:33:21,240
+<i>Eu vou guiar todas as crianças para um mundo de sonhos de verdade.</i>
+
+747
+00:33:21,540 --> 00:33:25,500
+<i>Um mundo só nosso onde ninguém será machucado.</i>
+
+748
+00:33:25,500 --> 00:33:28,820
+<i>Agora, fadas, me emprestem seus poderes.</i>
+
+749
+00:33:29,300 --> 00:33:30,280
+<i>Até mais!</i>
+
+750
+00:33:31,500 --> 00:33:32,940
+<i>Vamos nos ver de novo!</i>
+
+751
+00:33:42,840 --> 00:33:46,540
+O quê?! Há uma quantidade enorme
+de energia maligna aqui.
+
+752
+00:33:46,900 --> 00:33:47,620
+Mas...
+
+753
+00:33:47,620 --> 00:33:49,540
+Eu não vejo nada.
+
+754
+00:34:00,320 --> 00:34:01,190
+O que é isso?
+
+755
+00:34:03,840 --> 00:34:04,660
+Aquilo...
+
+756
+00:34:04,660 --> 00:34:08,350
+é o Castelo Marzipan onde todas
+as crianças sequestradas estão.
+
+757
+00:34:34,800 --> 00:34:36,050
+Um canhão!
+
+758
+00:34:36,050 --> 00:34:37,240
+Carregar munição!
+
+759
+00:34:37,340 --> 00:34:38,700
+Carregar munição!
+
+760
+00:34:38,800 --> 00:34:40,940
+Carregar munição!
+
+761
+00:34:43,560 --> 00:34:45,640
+Nós vamos explodir o Peruru também?
+
+762
+00:34:46,060 --> 00:34:46,840
+Atirar!
+
+763
+00:34:47,840 --> 00:34:50,200
+{\3c&HFF0000&\c&HFFFFFF&}SHINE AQUA ILLUSION!
+
+764
+00:35:22,300 --> 00:35:24,040
+O que significa isso, Peruru?
+
+765
+00:35:24,040 --> 00:35:26,090
+Por que você trouxe forasteiras aqui?
+
+766
+00:35:26,130 --> 00:35:27,840
+Vamos impedir Badiane!
+
+767
+00:35:27,840 --> 00:35:30,650
+Libertem a Chibiusa e todas as crianças!
+
+768
+00:35:30,880 --> 00:35:32,120
+Chibiusa?
+
+769
+00:35:32,120 --> 00:35:36,500
+Ah, aquela garotinha.
+Senhora Badiane se afeiçoou muito a ela.
+
+770
+00:35:36,500 --> 00:35:40,760
+Parece que ela tem o melhor tipo de energia para nutrir o Buraco Negro dos Sonhos.
+
+771
+00:35:42,440 --> 00:35:44,860
+Que horror... É imperdoável!
+
+772
+00:35:45,400 --> 00:35:48,300
+Seu tolo, você vai morrer aqui também.
+
+773
+00:35:48,690 --> 00:35:52,210
+Tenham cuidado. Elas possuem poderes estranhos.
+
+774
+00:35:54,110 --> 00:35:55,090
+Papillotes!
+
+775
+00:36:03,620 --> 00:36:06,340
+{\3c&H267303&\c&HFFFFFF&}SUPREME THUNDER!
+
+776
+00:36:08,630 --> 00:36:11,380
+{\3c&H0368E4&\c&HFFFFFF&}VENUS LOVE-ME CHAIN!
+
+777
+00:36:18,420 --> 00:36:24,180
+A energia das trevas da Senhora Badiane é a fonte do nosso poder e está cada vez mais forte.
+
+778
+00:36:24,720 --> 00:36:27,700
+Agora vocês não têm nenhuma chance de vencer.
+
+779
+00:36:42,290 --> 00:36:43,180
+Esse ataque...!
+
+780
+00:36:43,410 --> 00:36:43,980
+O quê?
+
+781
+00:36:48,290 --> 00:36:51,500
+Meu planeta guardião é Urano,
+o astro dos céus.
+
+782
+00:36:51,500 --> 00:36:53,600
+Sou a Guerreira da luta, Sailor Uranus!
+
+783
+00:36:54,360 --> 00:36:57,360
+Meu planeta guardião é Netuno,
+o astro do mar profundo.
+
+784
+00:36:57,360 --> 00:37:00,220
+Sou a Guerreira envolvente, Sailor Neptune!
+
+785
+00:37:00,890 --> 00:37:03,960
+Meu planeta guardião é Plutão,
+o astro do espaço-tempo.
+
+786
+00:37:03,960 --> 00:37:06,680
+Sou a Guerreira da revolução, Sailor Pluto!
+
+787
+00:37:08,060 --> 00:37:11,820
+Somos as guerreiras do sistema solar externo e graças à nova crise...
+
+788
+00:37:12,620 --> 00:37:14,040
+Nós viemos para cá!
+
+789
+00:37:14,280 --> 00:37:15,780
+Uranus! Neptune!
+
+790
+00:37:15,780 --> 00:37:16,670
+Pluto!
+
+791
+00:37:21,940 --> 00:37:23,680
+{\3c&H5748B1&}DEAD SCREAM.
+
+792
+00:37:35,980 --> 00:37:37,360
+Como nos encontraram?
+
+793
+00:37:37,630 --> 00:37:41,610
+Uma grande quantidade de energia maligna está crescendo nesse castelo.
+
+794
+00:37:42,160 --> 00:37:45,710
+Sailor Moon, a vida da Small Lady
+está correndo perigo, não é?
+
+795
+00:37:47,390 --> 00:37:49,120
+Vocês tinham mais aliadas?
+
+796
+00:37:49,460 --> 00:37:53,620
+Como essas humanas conseguiram encontrar este castelo invisível?!
+
+797
+00:37:53,860 --> 00:37:57,370
+Seus truques não funcionam com o meu espelho.
+
+798
+00:37:58,780 --> 00:38:03,160
+{\3c&H72A20B&}SUBMARINE REFLECTION!
+
+799
+00:38:11,290 --> 00:38:13,040
+{\3c&H08A2BE&}SPACE SWORD...
+
+800
+00:38:13,840 --> 00:38:14,810
+{\3c&H08A2BE&}BLASTER!
+
+801
+00:38:23,820 --> 00:38:24,680
+Maldição!
+
+802
+00:38:26,440 --> 00:38:27,820
+Então são as flautas.
+
+803
+00:38:28,520 --> 00:38:29,260
+{\3c&H0000FF&\c&H9AF5F9&}MARS
+
+804
+00:38:30,650 --> 00:38:34,660
+{\3c&H0000FF&\c&H9AF5F9&}FLAME SNIPER!
+
+805
+00:38:43,420 --> 00:38:44,340
+Malditas!
+
+806
+00:38:47,320 --> 00:38:50,010
+O que planejam fazer com
+as crianças sequestradas?
+
+807
+00:38:50,250 --> 00:38:53,320
+V-Vamos modificar esse planeta...
+
+808
+00:38:53,320 --> 00:38:55,280
+para que as crianças nunca cresçam!
+
+809
+00:38:55,280 --> 00:38:56,660
+O que há de errado nisso?!
+
+810
+00:39:00,840 --> 00:39:03,680
+Senhora Badiane!
+
+811
+00:39:09,480 --> 00:39:11,540
+Um mundo onde as crianças não crescem?
+
+812
+00:39:11,540 --> 00:39:15,270
+Há tantas coisas gostosas que
+só adultos podem fazer.
+
+813
+00:39:15,270 --> 00:39:16,990
+Não sabem o que estão perdendo.
+
+814
+00:39:24,490 --> 00:39:27,340
+O navio ainda está funcionando.
+Embarquem, depressa!
+
+815
+00:39:37,700 --> 00:39:40,020
+Sailor Moon, quem é esse garoto?
+
+816
+00:39:41,550 --> 00:39:43,520
+Ele é o namorado da Chibiusa.
+
+817
+00:39:43,760 --> 00:39:44,540
+Não é?
+
+818
+00:40:16,000 --> 00:40:17,460
+Aqui é território sagrado!
+
+819
+00:40:18,760 --> 00:40:20,520
+Não permitirei que entrem!
+
+820
+00:40:20,940 --> 00:40:23,400
+O que você fez com Chibi Moon e as crianças?!
+
+821
+00:40:23,400 --> 00:40:25,900
+As crianças estão bem abaixo de vocês.
+
+822
+00:40:31,280 --> 00:40:32,140
+Isso é...
+
+823
+00:40:32,140 --> 00:40:33,000
+As crianças...!
+
+824
+00:40:33,000 --> 00:40:33,980
+Que horrível.
+
+825
+00:40:35,600 --> 00:40:38,910
+Pare com isso, sua bruxa de outro mundo!
+
+826
+00:40:45,670 --> 00:40:47,720
+Peruru, seu pequeno tolo.
+
+827
+00:40:48,100 --> 00:40:51,700
+Eu estava prestes a realizar o seu desejo...
+
+828
+00:40:51,700 --> 00:40:55,680
+criando um mundo dos sonhos bonito e doce.
+
+829
+00:40:57,320 --> 00:41:00,680
+Ninguém seria feliz num mundo criado por você!
+
+830
+00:41:02,200 --> 00:41:03,740
+Eu quero proteger o lugar...
+
+831
+00:41:03,740 --> 00:41:08,190
+onde as crianças podem crescer
+perto de suas famílias e amigos!
+
+832
+00:41:08,430 --> 00:41:12,100
+Foi essa garota que te ensinou
+essas bobagens, não foi?
+
+833
+00:41:16,200 --> 00:41:17,450
+- Small Lady!
+- Chibi Moon!
+
+834
+00:41:18,460 --> 00:41:19,450
+Sailor Moon!
+
+835
+00:41:29,450 --> 00:41:30,460
+Que demora!
+
+836
+00:41:31,220 --> 00:41:32,090
+Fica quieta.
+
+837
+00:41:54,320 --> 00:41:55,020
+O quê?
+
+838
+00:41:55,640 --> 00:41:57,110
+É a fonte da energia maligna.
+
+839
+00:41:57,460 --> 00:41:59,620
+Aquilo é o Buraco Negro dos Sonhos?
+
+840
+00:41:59,850 --> 00:42:00,720
+Sim!
+
+841
+00:42:01,360 --> 00:42:06,560
+Ele está devorando a energia dos sonhos das crianças e recuperando suas forças.
+
+842
+00:42:07,260 --> 00:42:08,220
+E também...
+
+843
+00:42:11,840 --> 00:42:12,580
+Pare!
+
+844
+00:42:12,580 --> 00:42:13,540
+Chibi Moon!
+
+845
+00:42:36,770 --> 00:42:39,280
+{\3c&H0000FF&\c&HFFFFFF&}FIRE...
+
+846
+00:42:41,140 --> 00:42:42,880
+{\3c&H0000FF&\c&HFFFFFF&}SOUL!
+
+847
+00:42:47,650 --> 00:42:50,170
+Ela está cercada por uma barreira!
+
+848
+00:42:53,020 --> 00:42:53,940
+Como eu imaginei.
+
+849
+00:42:54,240 --> 00:42:59,680
+Essa garota tem o melhor tipo de energia para nutrir meu Buraco Negro dos Sonhos!
+
+850
+00:43:29,280 --> 00:43:31,450
+O que estão tentando fazer?
+
+851
+00:43:37,660 --> 00:43:42,390
+A energia dos nossos corações preocupados com a Chibiusa vai mover o navio. Então...
+
+852
+00:43:42,620 --> 00:43:44,140
+Entendi! Vamos lá!
+
+853
+00:43:55,020 --> 00:43:58,480
+Como se o seu navio pudesse quebrar essa barreira!
+
+854
+00:43:58,890 --> 00:44:01,180
+Meninas, ajudem Sailor Moon!
+
+855
+00:44:02,180 --> 00:44:02,730
+{\3c&H0000FF&\c&HFFFFFF&}BURNING...
+
+856
+00:44:02,740 --> 00:44:04,850
+{\3c&H5748B1&}DEAD—  {\3c&HFF0000&}SHINE—  {\3c&H08A2BE&}WORLD—
+{\3c&H0368E4&}VENUS—  {\3c&H267303&}SPARKLING—  {\3c&H72A20B&}DEEP—
+
+857
+00:44:24,560 --> 00:44:24,920
+O quê?!
+
+858
+00:44:27,290 --> 00:44:29,000
+Sailor Moon!
+
+859
+00:44:29,000 --> 00:44:30,520
+Devolva a Chibiusa!
+
+860
+00:44:30,750 --> 00:44:36,020
+Meu Buraco Negro dos Sonhos deseja a energia açucarada dessa garota.
+
+861
+00:44:36,560 --> 00:44:38,200
+Não deixarei ela ir!
+
+862
+00:44:38,200 --> 00:44:39,400
+Sailor Moon!
+
+863
+00:44:38,580 --> 00:44:39,400
+Cuidado!
+
+864
+00:44:47,650 --> 00:44:48,540
+Chibiusa!
+
+865
+00:44:47,550 --> 00:44:48,280
+Espere!
+
+866
+00:45:07,920 --> 00:45:09,390
+Devolva a Chibiusa agora!
+
+867
+00:45:09,840 --> 00:45:10,860
+Saiam daqui!
+
+868
+00:45:21,680 --> 00:45:23,200
+Se você chegar mais perto...
+
+869
+00:45:24,350 --> 00:45:25,950
+vai ser sugada também!
+
+870
+00:45:25,950 --> 00:45:30,450
+Idiota. O Buraco Negro dos Sonhos faz parte de mim.
+
+871
+00:45:31,940 --> 00:45:37,710
+Vou usar a energia dessa garota e vou engolir esse planeta inteiro!
+
+872
+00:45:38,140 --> 00:45:39,560
+Eu não vou deixar!
+
+873
+00:45:46,720 --> 00:45:48,850
+Peruru! Sailor Moon!
+
+874
+00:45:49,240 --> 00:45:50,220
+Chibiusa!
+
+875
+00:45:55,100 --> 00:45:56,100
+Chibiusa!
+
+876
+00:46:02,320 --> 00:46:03,240
+Sailor Moon!
+
+877
+00:46:03,240 --> 00:46:04,520
+Sailor Moon!
+
+878
+00:46:15,400 --> 00:46:16,500
+Chibiusa!
+
+879
+00:46:24,890 --> 00:46:25,990
+A transformação...
+
+880
+00:46:28,260 --> 00:46:29,320
+Está sumindo.
+
+881
+00:46:30,750 --> 00:46:31,920
+Sailor Moon!
+
+882
+00:46:41,420 --> 00:46:42,320
+Droga!
+
+883
+00:47:03,780 --> 00:47:04,640
+Sailor Moon?
+
+884
+00:47:05,330 --> 00:47:11,550
+Esses biscoitos são especiais, uma mordida te deixa 100 vezes mais corajoso e 100 vezes mais forte!
+
+885
+00:47:22,960 --> 00:47:25,020
+Sailor Moon, você não pode...
+
+886
+00:47:25,300 --> 00:47:27,760
+Não! Se você entrar lá, você nunca...!
+
+887
+00:47:41,420 --> 00:47:42,440
+Sailor Moon.
+
+888
+00:47:47,170 --> 00:47:48,560
+Que tola!
+
+889
+00:47:48,900 --> 00:47:51,080
+Entrar aqui por vontade própria.
+
+890
+00:48:03,470 --> 00:48:04,110
+Chibiusa!
+
+891
+00:48:14,580 --> 00:48:16,250
+Chibiusa!
+
+892
+00:48:16,450 --> 00:48:17,360
+Chibiusa!
+
+893
+00:48:17,840 --> 00:48:19,640
+Não acorde...
+
+894
+00:48:20,480 --> 00:48:22,960
+Não acorde as crianças que estão dormindo.
+
+895
+00:48:34,620 --> 00:48:35,430
+Usako.
+
+896
+00:48:36,000 --> 00:48:37,590
+Quando você voltou?
+
+897
+00:48:37,630 --> 00:48:41,050
+Mamo-chan, estamos no seu quarto?
+
+898
+00:48:41,050 --> 00:48:42,840
+É claro.
+
+899
+00:48:45,630 --> 00:48:48,150
+Mamo-chan, seus machucados estão melhores?
+
+900
+00:48:49,260 --> 00:48:51,650
+Um machucado desses não é nada demais.
+
+901
+00:48:51,890 --> 00:48:54,100
+Entendi... Fico feliz.
+
+902
+00:48:55,350 --> 00:48:58,160
+Mamo-chan, a Chibiusa não quer acordar.
+
+903
+00:48:58,620 --> 00:48:59,830
+A Chibiusa?
+
+904
+00:49:09,400 --> 00:49:10,600
+Chibiusa.
+
+905
+00:49:12,740 --> 00:49:13,910
+Mamo-chan?
+
+906
+00:49:13,910 --> 00:49:16,380
+Tudo bem. Vamos deixar ela dormir.
+
+907
+00:49:18,320 --> 00:49:21,040
+Ela está tendo um sonho bem feliz agora.
+
+908
+00:49:21,640 --> 00:49:23,100
+Pode continuar dormindo.
+
+909
+00:49:24,080 --> 00:49:29,840
+A partir de agora, podemos ficar sozinhos aqui sem nenhuma interrupção.
+
+910
+00:49:29,850 --> 00:49:33,740
+Mas eu tenho que salvar as crianças
+e os outros primeiro.
+
+911
+00:49:34,060 --> 00:49:35,220
+Eles estão em perigo...
+
+912
+00:49:35,480 --> 00:49:38,120
+Quem se importa com os outros?
+
+913
+00:49:40,260 --> 00:49:42,990
+Já fico feliz se você estiver comigo, Usako.
+
+914
+00:49:44,230 --> 00:49:45,580
+Mamo-chan.
+
+915
+00:49:46,880 --> 00:49:51,680
+Fala a verdade. Quem é mais importante,
+a Chibiusa ou eu?
+
+916
+00:49:52,000 --> 00:49:52,900
+Não seja boba.
+
+917
+00:49:53,500 --> 00:49:55,840
+Claro que você é mais importante, Usako.
+
+918
+00:49:57,220 --> 00:50:01,640
+A única pessoa do mundo que é importante para mim é você, Usako.
+
+919
+00:50:14,620 --> 00:50:15,400
+Mamo-chan.
+
+920
+00:50:17,280 --> 00:50:20,410
+Você fica lindo até quando eu estou sonhando.
+
+921
+00:50:24,060 --> 00:50:27,820
+{\3c&H5B23DA&\c&H9AF5F9&}CRISIS POWER!
+
+922
+00:50:35,840 --> 00:50:36,900
+Isso é impossível!
+
+923
+00:50:40,040 --> 00:50:43,270
+Como você escapou do caixão dos sonhos?!
+
+924
+00:50:44,250 --> 00:50:47,340
+Sailor Moon, qual o seu maior desejo?
+
+925
+00:50:48,350 --> 00:50:50,610
+Largue essa garota agora.
+
+926
+00:50:51,550 --> 00:50:55,690
+Se fizer isso, poderá voltar para
+aquele feliz mundo dos sonhos.
+
+927
+00:50:56,620 --> 00:51:01,700
+Caso contrário, você queimará nas chamas e morrerá junto com essa garota.
+
+928
+00:51:02,640 --> 00:51:03,820
+Pense comigo...
+
+929
+00:51:04,760 --> 00:51:08,080
+Se todos os humanos vivessem em seus sonhos,
+
+930
+00:51:08,490 --> 00:51:10,360
+pensando apenas em si mesmos,
+
+931
+00:51:10,920 --> 00:51:12,860
+ninguém se machucaria.
+
+932
+00:51:13,370 --> 00:51:19,480
+Estou nutrindo esse Buraco Negro dos Sonhos para o bem de toda a humanidade.
+
+933
+00:51:20,440 --> 00:51:24,700
+<i>Quando a minha mãe me fazia biscoitos, eu não precisava continuar triste.</i>
+
+934
+00:51:24,720 --> 00:51:28,480
+<i>Ser feliz no futuro é mais importante
+do que viver de passado!</i>
+
+935
+00:51:28,480 --> 00:51:32,640
+<i>O importante é a estrada, não o destino final.</i>
+
+936
+00:51:32,740 --> 00:51:36,620
+<i>Não teve um pingo de sinceridade
+na sua explicação. "Very good".</i>
+
+937
+00:51:44,460 --> 00:51:45,160
+O quê?
+
+938
+00:51:52,620 --> 00:51:53,440
+Essa luz...
+
+939
+00:51:53,440 --> 00:51:54,240
+Sailor Moon?
+
+940
+00:51:54,720 --> 00:51:55,670
+A Princesa.
+
+941
+00:51:56,660 --> 00:51:58,670
+O que é essa luz?!
+
+942
+00:52:04,210 --> 00:52:05,680
+Sailor Moon!
+
+943
+00:52:11,680 --> 00:52:13,190
+É a Sailor Moon!
+
+944
+00:52:18,930 --> 00:52:20,220
+Sailor Moon...
+
+945
+00:52:20,560 --> 00:52:23,200
+Me entregue a garota agora!
+
+946
+00:52:23,820 --> 00:52:26,950
+Entregue a bela energia açucarada
+que ela possui, rápido!
+
+947
+00:52:28,190 --> 00:52:29,420
+Não vai?!
+
+948
+00:52:29,960 --> 00:52:32,750
+Então vai queimar até que não sobrem nem os osso!
+
+949
+00:53:03,600 --> 00:53:05,160
+<i>Por favor, meninas!</i>
+
+950
+00:53:06,100 --> 00:53:09,520
+Por favor, meninas, me emprestem seus poderes.
+
+951
+00:53:14,360 --> 00:53:15,320
+Sailor Moon.
+
+952
+00:53:21,660 --> 00:53:22,700
+Sailor Moon.
+
+953
+00:53:21,660 --> 00:53:22,700
+Sailor Moon.
+
+954
+00:53:28,250 --> 00:53:29,180
+Sailor Moon.
+
+955
+00:53:28,250 --> 00:53:29,180
+Sailor Moon.
+
+956
+00:53:34,590 --> 00:53:35,620
+Sailor Moon.
+
+957
+00:53:34,590 --> 00:53:35,620
+Sailor Moon.
+
+958
+00:53:47,660 --> 00:53:48,200
+O quê?!
+
+959
+00:53:53,440 --> 00:53:54,700
+Não pode ser!
+
+960
+00:54:12,980 --> 00:54:13,680
+Vamos!
+
+961
+00:54:14,080 --> 00:54:14,430
+Sim.
+
+962
+00:54:26,930 --> 00:54:32,460
+<font color="#f9f59a">{\3c&HB20AF2&}MOON GORGEOUS MEDITATION!</font>
+
+963
+00:54:55,480 --> 00:54:56,580
+A Sailor Moon...
+
+964
+00:54:58,080 --> 00:55:00,980
+perfurou o Buraco Negro dos Sonhos?!
+
+965
+00:56:43,920 --> 00:56:45,780
+Quero que fique com isso.
+
+966
+00:56:46,340 --> 00:56:47,460
+Você vai embora?
+
+967
+00:56:49,950 --> 00:56:56,540
+Sou uma fada que protege a energia bonita e açucarada que existe dentro dos sonhos das crianças.
+
+968
+00:56:57,220 --> 00:56:58,970
+Sempre estarei do seu lado.
+
+969
+00:57:29,940 --> 00:57:31,580
+Obrigado pelos biscoitos.
+
+970
+00:57:32,520 --> 00:57:33,990
+Mande um abraço para Diana.
+
+971
+00:57:37,750 --> 00:57:40,520
+Tchau, Peruru!
+Até logo!
+
+972
+00:58:21,220 --> 00:58:27,880
+{\blur0.564\fad(300,300)}taisetsu na no wa omoide ja naku
+
+973
+00:58:21,220 --> 00:58:27,880
+{\blur0.564\fad(300,300)}As lembranças não são a coisa mais importante para mim
+
+974
+00:58:29,360 --> 00:58:34,980
+{\blur0.564\fad(300,300)}kitto aeru to negau koto
+
+975
+00:58:29,360 --> 00:58:34,980
+{\blur0.564\fad(300,300)}Mais importante é o desejo de ver você
+
+976
+00:58:37,770 --> 00:58:44,140
+{\blur0.564\fad(300,300)}kanjite iru no kanashimi yori mo
+
+977
+00:58:37,770 --> 00:58:44,140
+{\blur0.564\fad(300,300)}Maior que a tristeza, o que estou sentindo
+
+978
+00:58:45,900 --> 00:58:52,300
+{\blur0.564\fad(300,300)}anata ni aete yokatta to
+
+979
+00:58:45,900 --> 00:58:52,300
+{\blur0.564\fad(300,300)}É alegria por ter conhecido alguém como você
+
+980
+00:58:53,740 --> 00:58:57,280
+{\blur0.564\fad(300,300)}saeta yoake no kaze ga
+
+981
+00:58:53,740 --> 00:58:57,280
+{\blur0.564\fad(300,300)}O vento frio do nascer do Sol
+
+982
+00:58:57,870 --> 00:59:01,320
+{\blur0.564\fad(300,300)}hoho no namida kawakasu
+
+983
+00:58:57,870 --> 00:59:01,320
+{\blur0.564\fad(300,300)}Seca as lágrimas na minha bochecha
+
+984
+00:59:01,750 --> 00:59:05,960
+{\blur0.564\fad(300,300)}jaa ne mata ne to egao de
+
+985
+00:59:01,750 --> 00:59:05,960
+{\blur0.564\fad(300,300)}Te digo adeus com um sorriso no rosto
+
+986
+00:59:05,960 --> 00:59:12,400
+{\blur0.564\fad(300,300)}watashi ookiku te wo furu wa
+
+987
+00:59:05,960 --> 00:59:12,400
+{\blur0.564\fad(300,300)}E faço um aceno com a mão
+
+988
+00:59:12,760 --> 00:59:15,740
+{\blur0.564\fad(300,300)}Remember morning moon
+
+989
+00:59:12,760 --> 00:59:15,740
+{\blur0.564\fad(300,300)}Lembre-se do luar da manhã
+
+990
+00:59:17,100 --> 00:59:19,900
+{\blur0.564\fad(300,300)}anata wo yobu koe
+
+991
+00:59:17,100 --> 00:59:19,900
+{\blur0.564\fad(300,300)}Minha voz está chamando por você
+
+992
+00:59:21,730 --> 00:59:25,740
+{\blur0.564\fad(300,300)}kikoeta nara tonde kite
+
+993
+00:59:21,730 --> 00:59:25,740
+{\blur0.564\fad(300,300)}Se escutar, voe de volta para mim
+
+994
+00:59:25,740 --> 00:59:29,030
+{\blur0.564\fad(300,300)}hane no shuuzu de
+
+995
+00:59:25,740 --> 00:59:29,030
+{\blur0.564\fad(300,300)}Com seus sapatos alados
+
+996
+00:59:29,030 --> 00:59:32,400
+{\blur0.564\fad(300,300)}Remember morning moon
+
+997
+00:59:29,030 --> 00:59:32,400
+{\blur0.564\fad(300,300)}Lembre-se do luar da manhã
+
+998
+00:59:33,200 --> 00:59:36,280
+{\blur0.564\fad(300,300)}shinjite iru nara
+
+999
+00:59:33,200 --> 00:59:36,280
+{\blur0.564\fad(300,300)}Se você acredita em nós dois
+
+1000
+00:59:37,990 --> 00:59:44,300
+{\blur0.564\fad(300,300)}futari no kisetsu wa mada tsuzuiteru
+
+1001
+00:59:37,990 --> 00:59:44,300
+{\blur0.564\fad(300,300)}Nosso amor vai continuar florescendo.
+
+1002
+00:59:50,800 --> 00:59:50,840
+{\an5\pos(960,743.205)\bord0\blur1.504\1c&HE4F2D8&\clip(m 1152 686.875 b 1332.625 692.5 1312.5 865.5 1292.5 893.875 1272.375 903.25 1226.5 922 384 908.875 l 381.25 637.875)}FIM
+
+1003
+00:59:50,840 --> 00:59:50,880
+{\an5\pos(960,743.205)\bord0\blur1.504\1c&HE4F2D8&\clip(m 1152 686.875 b 1332.625 692.5 1312.5 865.5 1292.5 893.875 1272.375 903.25 1226.5 922 384 908.875 l 381.25 637.875)}FIM
+
+1004
+00:59:50,880 --> 00:59:50,920
+{\an5\pos(960,743.205)\bord0\blur1.504\1c&HCBE6D4&}FIM
+
+1005
+00:59:50,920 --> 00:59:50,970
+{\an5\pos(960,743.205)\bord0\blur1.504\1c&HCBE6D4&}FIM
+
+1006
+00:59:50,970 --> 00:59:51,010
+{\an5\pos(960,743.205)\bord0\blur1.504\1c&HCBE6D4&}FIM
+
+1007
+00:59:51,010 --> 00:59:51,050
+{\an5\pos(960,743.205)\bord0\blur1.504\1c&HCBE6D4&}FIM
+
+1008
+00:59:51,050 --> 00:59:51,090
+{\an5\pos(960,743.205)\bord0\blur1.504\1c&HC4E3CE&}FIM
+
+1009
+00:59:51,090 --> 00:59:51,130
+{\an5\pos(960,743.205)\bord0\blur1.504\1c&HC4E3CE&}FIM
+
+1010
+00:59:51,130 --> 00:59:57,680
+{\an5\pos(960,743.205)\bord0\blur1.504}FIM
+
