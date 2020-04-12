@@ -1,9 +1,3639 @@
+1.1
+00:00:00,167 --> 00:00:04,000
+Smart Play Plus Agradece a preferencia !!
+Nós avalie na Play Store ⭐⭐⭐⭐⭐
+
 1
-00:00:02,000 --> 00:00:06,000
-Provided by
-torrentgalaxy.to
+00:00:11,846 --> 00:00:13,264
+Vem cá!
 
 2
-00:00:06,500 --> 00:00:12,000
-Find our official proxylist at
-https://proxygalaxy.pw
+00:00:38,122 --> 00:00:40,625
+Olhe. O que você vê?
+
+3
+00:00:42,126 --> 00:00:44,838
+Papai.
+O escorpião precisa de ajuda!
+
+4
+00:00:45,630 --> 00:00:47,966
+A vida é cruel, Satoshi.
+
+5
+00:00:48,091 --> 00:00:50,218
+Ela não se importa
+com seu lugar de origem
+
+6
+00:00:50,677 --> 00:00:52,178
+ou para qual deus você reza.
+
+7
+00:00:52,762 --> 00:00:56,015
+É assim. Então você deve
+encará-la de frente.
+
+8
+00:00:56,808 --> 00:00:58,142
+Está vendo o escorpião?
+
+9
+00:00:59,477 --> 00:01:02,772
+Não importa quantos inimigos,
+ele continua seguindo em frente.
+
+10
+00:01:03,230 --> 00:01:04,941
+Ele é forte. Sim.
+
+11
+00:01:05,525 --> 00:01:06,825
+É rápido.
+
+12
+00:01:07,277 --> 00:01:10,154
+Mas você sabe
+por que o escorpião é temido?
+
+13
+00:01:12,365 --> 00:01:13,665
+Pela determinação.
+
+14
+00:01:18,496 --> 00:01:21,624
+A força de vontade é
+o que torna o destino seu.
+
+15
+00:01:21,833 --> 00:01:25,170
+Aprenda a ser forte,
+aqui e aqui.
+
+16
+00:01:26,129 --> 00:01:28,089
+Prometa-me que vai
+se lembrar disso.
+
+17
+00:01:28,590 --> 00:01:29,890
+Vou lembrar, papai.
+
+18
+00:01:31,092 --> 00:01:32,760
+Vamos para casa.
+
+19
+00:01:33,386 --> 00:01:36,347
+Sua mãe está fazendo o jantar
+e não vai gostar se nos atrasarmos.
+
+20
+00:01:40,435 --> 00:01:41,735
+Segure.
+
+21
+00:01:41,853 --> 00:01:43,813
+Mais rápido, papai! Mais rápido!
+
+22
+00:01:49,152 --> 00:01:50,452
+Mais!
+
+23
+00:01:52,071 --> 00:01:53,462
+Seu pai precisa de um intervalo.
+
+24
+00:02:22,852 --> 00:02:24,437
+Onde está todo mundo, papai?
+
+25
+00:02:24,646 --> 00:02:26,064
+Segure firme, Satoshi.
+
+26
+00:03:57,989 --> 00:03:59,289
+Harumi.
+
+27
+00:04:31,356 --> 00:04:32,656
+Harumi.
+
+28
+00:04:34,817 --> 00:04:36,117
+Harumi.
+
+29
+00:04:36,152 --> 00:04:37,452
+Mamãe...
+
+30
+00:06:59,337 --> 00:07:00,637
+Chega!
+
+31
+00:07:10,890 --> 00:07:13,226
+Chegue mais perto, e ele morre.
+
+32
+00:07:16,521 --> 00:07:17,821
+O que você quer?
+
+33
+00:07:19,566 --> 00:07:20,866
+Ajoelhe-se.
+
+34
+00:07:41,921 --> 00:07:43,840
+Se tocar num fio de cabelo dele...
+
+35
+00:07:45,633 --> 00:07:46,933
+Papai!
+
+36
+00:07:51,014 --> 00:07:52,314
+Papai...
+
+37
+00:07:54,934 --> 00:07:56,234
+Satoshi!
+
+38
+00:07:56,728 --> 00:07:58,028
+Satoshi!
+
+39
+00:07:59,856 --> 00:08:01,156
+Papai.
+
+40
+00:08:06,404 --> 00:08:07,704
+Satoshi.
+
+41
+00:08:08,656 --> 00:08:09,956
+Satoshi!
+
+42
+00:08:10,700 --> 00:08:12,000
+Satoshi.
+
+43
+00:08:15,663 --> 00:08:16,998
+Eu vou matar você!
+
+44
+00:08:17,457 --> 00:08:18,791
+Eu vou matar você!
+
+45
+00:08:39,062 --> 00:08:41,648
+Você vai morrer por isso.
+
+46
+00:08:42,148 --> 00:08:43,448
+Você primeiro.
+
+47
+00:09:13,304 --> 00:09:17,934
+MORTAL KOMBAT LEGENDS:
+A VINGANÇA DO SCORPION
+
+48
+00:09:18,134 --> 00:09:21,134
+<font color=#FF0000>Ajustes de Subpack
+by DanDee</font>
+
+49
+00:10:10,653 --> 00:10:11,953
+Lorde Raiden!
+
+50
+00:10:12,780 --> 00:10:14,080
+Sinto muito. Eu...
+
+51
+00:10:14,449 --> 00:10:15,616
+Eu não sabia.
+
+52
+00:10:15,617 --> 00:10:18,119
+Não. Você fez bem, Liu Kang.
+
+53
+00:10:18,328 --> 00:10:19,829
+Do jeito que você foi ensinado.
+
+54
+00:10:20,496 --> 00:10:22,999
+Rezo para que seja o suficiente.
+
+55
+00:10:25,543 --> 00:10:26,843
+Suficiente?
+
+56
+00:10:27,128 --> 00:10:28,428
+Então chegou a hora.
+
+57
+00:10:28,505 --> 00:10:30,507
+Sim. Não se preocupe.
+
+58
+00:10:30,882 --> 00:10:33,635
+Nós nos preparamos
+para este momento há muito tempo.
+
+59
+00:10:34,260 --> 00:10:36,346
+Eu o escolhi por um motivo, Liu Kang.
+
+60
+00:10:37,514 --> 00:10:39,891
+Os outros vão se reunir.
+
+61
+00:10:40,350 --> 00:10:41,650
+Você deve se apressar.
+
+62
+00:10:41,851 --> 00:10:44,354
+Lorde Raiden. Que outros?
+
+63
+00:10:46,689 --> 00:10:48,233
+Não. Escute...
+
+64
+00:10:48,983 --> 00:10:50,150
+podemos fazer isso dar certo.
+
+65
+00:10:50,151 --> 00:10:51,735
+CAGE É... SILENCIOSO, MAS LETAL
+JOHNNY CAGE - IMITADOR DE NINJA
+
+66
+00:10:51,736 --> 00:10:53,071
+O que tenho que fazer?
+
+67
+00:10:53,571 --> 00:10:56,115
+Que tal arrumar este buraco
+que você chama de lar?
+
+68
+00:10:56,241 --> 00:10:59,369
+Que tal fazer alguma coisa além
+de chorar pela sua carreira?
+
+69
+00:10:59,786 --> 00:11:01,287
+Você só se importa consigo mesmo.
+
+70
+00:11:01,788 --> 00:11:03,456
+Tudo gira em torno de Johnny Cage.
+
+71
+00:11:03,790 --> 00:11:05,166
+Me ligue quando amadurecer!
+
+72
+00:11:10,922 --> 00:11:14,008
+Ainda posso ligar para ela.
+
+73
+00:11:14,384 --> 00:11:15,684
+Já é uma vitória.
+
+74
+00:11:16,219 --> 00:11:17,762
+AVISO DE DESPEJO
+VENCIDO
+
+75
+00:11:20,431 --> 00:11:21,933
+JOHNNY CAGE
+FÁCIL DE MORRER
+
+76
+00:11:22,016 --> 00:11:23,560
+JOHNNY CAGE
+PANCADARIA
+
+77
+00:11:42,328 --> 00:11:44,289
+Oi! Você está na jaula com o Johnny.
+
+78
+00:11:44,998 --> 00:11:48,001
+Olha só.
+Se não é meu empresário sumido.
+
+79
+00:11:48,084 --> 00:11:49,384
+Já era hora de me ligar.
+
+80
+00:11:50,170 --> 00:11:52,672
+Claro que tenho interesse
+em alguma coisa diferente.
+
+81
+00:11:52,755 --> 00:11:54,299
+O que eu tenho lhe falado?
+
+82
+00:11:54,924 --> 00:11:56,467
+China?
+
+83
+00:11:57,260 --> 00:11:59,846
+Tudo bem, Will.
+Que tal um adiantamento?
+
+84
+00:12:00,054 --> 00:12:01,514
+As coisas ficaram um pouco...
+
+85
+00:12:01,890 --> 00:12:03,808
+um pouco apertadas por aqui...
+
+86
+00:12:05,685 --> 00:12:07,312
+Alô?
+
+87
+00:12:08,354 --> 00:12:10,398
+Vou para a China!
+
+88
+00:12:32,170 --> 00:12:33,588
+Chute a cara dele!
+
+89
+00:12:43,473 --> 00:12:46,434
+Vai continuar chorando como um
+mariquinha ou lutar como um homem?
+
+90
+00:13:03,576 --> 00:13:05,328
+Isso mesmo.
+
+91
+00:13:05,703 --> 00:13:07,705
+Isto não é lugar para uma garotinha.
+
+92
+00:13:07,789 --> 00:13:10,792
+<i>Isto não é lugar para uma garotinha.</i>
+
+93
+00:13:10,875 --> 00:13:13,294
+Isto não é lugar para garotinhas.
+
+94
+00:13:14,754 --> 00:13:16,256
+Acha isso engraçado?
+
+95
+00:13:16,464 --> 00:13:18,132
+Parabéns, cadete.
+
+96
+00:13:18,424 --> 00:13:21,594
+Você acabou de virar
+meu novo projeto favorito.
+
+97
+00:13:22,887 --> 00:13:26,307
+<i>Você se acha muito especial,
+não é, princesa?</i>
+
+98
+00:13:26,891 --> 00:13:29,394
+<i>Senhor! Meu nome é Sonya Blade,</i>
+
+99
+00:13:29,477 --> 00:13:33,147
+<i>e serei a melhor soldado
+que já conheceu, senhor!</i>
+
+100
+00:13:33,565 --> 00:13:35,024
+<i>Veremos.</i>
+
+101
+00:13:36,359 --> 00:13:37,694
+Queria me ver, senhor?
+
+102
+00:13:38,111 --> 00:13:39,411
+Sim, queria.
+
+103
+00:13:39,445 --> 00:13:41,406
+Estou montando uma força-tarefa.
+
+104
+00:13:41,614 --> 00:13:43,440
+Coisa de operações especiais
+de alto nível.
+
+105
+00:13:43,867 --> 00:13:45,167
+Você topa?
+
+106
+00:13:52,500 --> 00:13:54,460
+Eu vou matar você!
+
+107
+00:13:55,211 --> 00:13:56,838
+Você vai tentar.
+
+108
+00:14:03,553 --> 00:14:04,853
+Isso!
+
+109
+00:14:10,018 --> 00:14:11,318
+É o meu carro!
+
+110
+00:14:15,523 --> 00:14:17,066
+Ainda não, vagabunda.
+
+111
+00:14:27,577 --> 00:14:29,704
+Meus dentes!
+
+112
+00:14:29,871 --> 00:14:31,873
+Sinceramente, é uma melhora.
+
+113
+00:14:32,707 --> 00:14:34,042
+Merda!
+
+114
+00:14:47,472 --> 00:14:50,225
+Sonya!
+
+115
+00:14:59,025 --> 00:15:00,325
+Ele estará lá.
+
+116
+00:15:01,069 --> 00:15:02,152
+Se não estiver,
+
+117
+00:15:02,153 --> 00:15:04,864
+você não conseguirá se esconder
+de mim em lugar algum.
+
+118
+00:15:05,365 --> 00:15:06,665
+Entendeu?
+
+119
+00:15:30,223 --> 00:15:31,523
+Satoshi.
+
+120
+00:15:31,891 --> 00:15:33,191
+Harumi!
+
+121
+00:15:34,394 --> 00:15:35,694
+O que é isso?
+
+122
+00:15:35,979 --> 00:15:37,279
+Onde estou?
+
+123
+00:15:49,284 --> 00:15:52,287
+Não comece sem mim.
+
+124
+00:15:55,790 --> 00:15:57,667
+Carne fresca.
+
+125
+00:16:04,174 --> 00:16:05,925
+Que droga é essa?
+
+126
+00:16:06,676 --> 00:16:07,976
+Quase isso.
+
+127
+00:16:08,261 --> 00:16:10,388
+É o Submundo.
+
+128
+00:16:15,018 --> 00:16:16,853
+Não adianta.
+
+129
+00:16:17,353 --> 00:16:20,148
+Você é um prisioneiro aqui.
+
+130
+00:16:22,650 --> 00:16:24,027
+Por quanto tempo?
+
+131
+00:16:27,822 --> 00:16:29,699
+Para sempre.
+
+132
+00:16:31,367 --> 00:16:32,911
+Escute.
+
+133
+00:16:40,960 --> 00:16:42,420
+Está ouvindo?
+
+134
+00:16:42,795 --> 00:16:44,964
+A sinfonia do sofrimento.
+
+135
+00:16:45,590 --> 00:16:49,219
+Sua voz se juntará
+aos outros em breve,
+
+136
+00:16:49,385 --> 00:16:53,932
+surgindo para agradar
+o grande Shinnok.
+
+137
+00:16:55,308 --> 00:16:56,608
+Shinnok?
+
+138
+00:16:56,768 --> 00:16:59,604
+O mestre do Submundo.
+
+139
+00:17:00,271 --> 00:17:01,856
+Lá.
+
+140
+00:17:02,524 --> 00:17:07,111
+O único lugar de alívio deste reino.
+
+141
+00:17:07,862 --> 00:17:11,074
+Observe e chore.
+
+142
+00:17:19,374 --> 00:17:21,459
+Afiado o suficiente.
+
+143
+00:17:31,386 --> 00:17:33,721
+Acalme-se.
+
+144
+00:17:33,930 --> 00:17:38,101
+Guarde sua energia
+para o que está por vir.
+
+145
+00:17:44,357 --> 00:17:46,276
+Entende agora?
+
+146
+00:17:46,734 --> 00:17:49,070
+Você sentirá dor,
+
+147
+00:17:49,320 --> 00:17:52,657
+embora não possa mais perecer.
+
+148
+00:17:52,991 --> 00:17:55,368
+Podemos fazer isso
+
+149
+00:17:55,577 --> 00:17:59,122
+por toda a eternidade.
+
+150
+00:18:05,253 --> 00:18:07,088
+O que você disse?
+
+151
+00:18:10,008 --> 00:18:11,509
+Está rezando?
+
+152
+00:18:13,344 --> 00:18:18,308
+Não. Nenhum deus pode ajudá-lo aqui.
+
+153
+00:18:18,558 --> 00:18:20,560
+Não preciso de deus.
+
+154
+00:18:40,079 --> 00:18:45,251
+Sentirei prazer em arrancar
+a carne dos seus ossos!
+
+155
+00:19:17,825 --> 00:19:19,244
+Humano.
+
+156
+00:19:19,661 --> 00:19:22,288
+Você cometeu um grande erro.
+
+157
+00:19:28,503 --> 00:19:30,630
+Há milhares de nós,
+
+158
+00:19:30,964 --> 00:19:32,841
+e só um de vocês.
+
+159
+00:19:39,764 --> 00:19:41,432
+Menos um.
+
+160
+00:20:19,429 --> 00:20:20,729
+Shinnok!
+
+161
+00:20:21,806 --> 00:20:25,560
+Não. Shinnok está indisposto.
+
+162
+00:20:25,727 --> 00:20:27,812
+Então vá buscá-lo para mim.
+
+163
+00:20:27,937 --> 00:20:29,439
+Se eu pudesse.
+
+164
+00:20:30,064 --> 00:20:31,649
+Sou Quan Chi,
+
+165
+00:20:31,733 --> 00:20:33,776
+estou no comando deste reino
+
+166
+00:20:33,860 --> 00:20:35,695
+até que o mestre retorne.
+
+167
+00:20:35,945 --> 00:20:39,199
+A quem devo agradecer
+por estragar meu tapete?
+
+168
+00:20:39,657 --> 00:20:41,284
+Hanzo Hasashi.
+
+169
+00:20:41,367 --> 00:20:44,495
+Sua reputação o precede,
+Hanzo Hasashi.
+
+170
+00:20:44,787 --> 00:20:46,038
+Bem-vindo.
+
+171
+00:20:46,039 --> 00:20:49,417
+Apesar de eu não saber
+como você chegou aqui.
+
+172
+00:20:50,084 --> 00:20:52,795
+O que você quer, Hanzo?
+
+173
+00:20:52,921 --> 00:20:54,589
+Voltar para casa
+
+174
+00:20:54,672 --> 00:20:56,799
+para buscar minha vingança.
+
+175
+00:20:57,008 --> 00:20:58,308
+Casa?
+
+176
+00:21:00,261 --> 00:21:02,138
+Você não pode voltar para casa.
+
+177
+00:21:04,390 --> 00:21:06,476
+Você fará o que eu disser
+
+178
+00:21:06,601 --> 00:21:08,811
+ou vou esfolá-lo vivo.
+
+179
+00:21:15,944 --> 00:21:18,446
+Achou que eu fosse indefeso,
+miserável?
+
+180
+00:21:18,780 --> 00:21:20,990
+Ainda por cima no meu reino.
+
+181
+00:21:22,408 --> 00:21:24,452
+Você pode ser um espírito vingativo,
+
+182
+00:21:24,911 --> 00:21:27,455
+mas até os espíritos têm limites.
+
+183
+00:21:42,136 --> 00:21:46,474
+Além disso, não é o que você quer, é?
+
+184
+00:21:48,560 --> 00:21:51,187
+Há um torneio uma vez por geração.
+
+185
+00:21:52,230 --> 00:21:53,731
+Durante esse período,
+
+186
+00:21:53,898 --> 00:21:55,650
+o véu é levantado
+
+187
+00:21:55,817 --> 00:21:59,320
+para que os guerreiros se reúnam
+para lutar por seus reinos.
+
+188
+00:21:59,571 --> 00:22:01,281
+Posso enviá-lo para lá.
+
+189
+00:22:02,782 --> 00:22:04,909
+Por que eu lutaria por você?
+
+190
+00:22:05,743 --> 00:22:08,788
+Porque ele estará presente.
+
+191
+00:22:13,168 --> 00:22:14,586
+O que você quer?
+
+192
+00:22:15,753 --> 00:22:19,132
+Que bom. É habilidoso e inteligente.
+
+193
+00:22:22,552 --> 00:22:25,638
+Há muito tempo, meu mestre, Shinnok,
+
+194
+00:22:25,722 --> 00:22:28,057
+foi injustamente aprisionado.
+
+195
+00:22:28,183 --> 00:22:30,977
+Esta é a chave para libertá-lo.
+
+196
+00:22:31,144 --> 00:22:33,938
+Está guardada no
+templo de Shang Tsung,
+
+197
+00:22:34,063 --> 00:22:35,773
+o mortal podre
+
+198
+00:22:35,857 --> 00:22:38,651
+que é favorecido
+pelo imperador da Exoterra.
+
+199
+00:22:38,860 --> 00:22:41,779
+O torneio será realizado
+na ilha dele.
+
+200
+00:22:42,238 --> 00:22:43,990
+Pegue essa chave para mim.
+
+201
+00:22:44,782 --> 00:22:47,076
+Quando meu mestre for solto,
+
+202
+00:22:47,202 --> 00:22:49,078
+ele poderá devolver sua família
+
+203
+00:22:49,329 --> 00:22:52,749
+e até você ao reino mortal.
+
+204
+00:22:53,458 --> 00:22:56,336
+Estamos entendidos, Hanzo?
+
+205
+00:22:59,005 --> 00:23:00,798
+Hanzo morreu.
+
+206
+00:23:01,174 --> 00:23:02,926
+Me chame de Scorpion.
+
+207
+00:23:11,309 --> 00:23:13,728
+Segurem o navio! Estou chegando.
+
+208
+00:23:19,609 --> 00:23:22,862
+Passando. Eu estou...
+
+209
+00:23:37,168 --> 00:23:38,494
+Espero que nenhum
+fã tenha visto isso.
+
+210
+00:23:38,495 --> 00:23:39,795
+Estou de mocassim.
+
+211
+00:23:44,467 --> 00:23:46,886
+Liu Kang da Sociedade
+do Lótus Branco.
+
+212
+00:23:46,970 --> 00:23:49,055
+Johnny Cage da superstar variety,
+
+213
+00:23:49,180 --> 00:23:50,807
+mas você devia saber disso.
+
+214
+00:23:51,516 --> 00:23:52,851
+E você é?
+
+215
+00:23:53,768 --> 00:23:55,068
+Não tenho interesse.
+
+216
+00:23:55,436 --> 00:23:56,813
+Você terá.
+
+217
+00:23:56,896 --> 00:23:58,188
+Sempre têm.
+
+218
+00:23:58,189 --> 00:23:59,691
+Então estão nisso também?
+
+219
+00:24:00,400 --> 00:24:03,152
+Sim, treinei muitos anos
+por este momento.
+
+220
+00:24:03,444 --> 00:24:04,744
+É? Escute.
+
+221
+00:24:04,988 --> 00:24:06,573
+Adoro aulas de atuação e tal,
+
+222
+00:24:06,656 --> 00:24:08,867
+mas são uma perda de tempo.
+
+223
+00:24:08,950 --> 00:24:10,451
+Você me entende? Não?
+
+224
+00:24:10,535 --> 00:24:13,287
+Enfim, meu empresário disse
+que isto me deixaria popular de novo.
+
+225
+00:24:13,288 --> 00:24:15,498
+Tipo um acordo de adiantamento.
+Deve ser divertido.
+
+226
+00:24:15,582 --> 00:24:17,417
+Estamos nos aproximando do véu.
+
+227
+00:24:19,460 --> 00:24:22,297
+Quem é esse? Já sei.
+Ele é como o nosso Merlin?
+
+228
+00:24:22,797 --> 00:24:24,132
+É o Lorde Raiden,
+
+229
+00:24:24,382 --> 00:24:26,050
+protetor do Plano Terreno.
+
+230
+00:24:26,259 --> 00:24:28,720
+Pronto! Arrasou. Espere.
+Plano Terreno?
+
+231
+00:24:28,803 --> 00:24:30,513
+Vocês já receberam um roteiro?
+
+232
+00:24:30,597 --> 00:24:31,847
+Eu adoraria uma cópia.
+
+233
+00:24:31,848 --> 00:24:33,600
+Não faço ideia do que está falando,
+
+234
+00:24:33,725 --> 00:24:36,436
+mas sou muito bom improvisando,
+então...
+
+235
+00:24:37,770 --> 00:24:39,070
+Lorde Raiden, não é?
+
+236
+00:24:39,731 --> 00:24:41,031
+Prazer em conhecê-lo.
+
+237
+00:24:41,065 --> 00:24:43,193
+Conte mais sobre este véu.
+
+238
+00:24:44,194 --> 00:24:45,987
+É o espaço entre reinos
+
+239
+00:24:46,196 --> 00:24:49,490
+para evitar que a Exoterra se junte
+ao Plano Terreno.
+
+240
+00:24:49,699 --> 00:24:50,991
+Evitar o quê?
+
+241
+00:24:50,992 --> 00:24:52,452
+Sempre a soldado.
+
+242
+00:24:52,827 --> 00:24:54,287
+Avaliando os riscos.
+
+243
+00:24:55,163 --> 00:24:57,665
+O que protege o véu
+tem menos importância
+
+244
+00:24:57,749 --> 00:24:59,167
+do que o porquê.
+
+245
+00:24:59,626 --> 00:25:01,794
+Se Shao Kahn vencer este torneio,
+
+246
+00:25:01,920 --> 00:25:04,923
+a Terra que conhecem
+deixará de existir.
+
+247
+00:25:05,548 --> 00:25:06,966
+Não tenha medo, Lorde Raiden.
+
+248
+00:25:07,050 --> 00:25:08,384
+Eu, Johnny Cage,
+
+249
+00:25:08,593 --> 00:25:11,137
+vou garantir que o Plano Terreno,
+que idiotice,
+
+250
+00:25:11,221 --> 00:25:12,847
+fique seguro.
+
+251
+00:25:13,056 --> 00:25:14,474
+Você tem a minha palavra.
+
+252
+00:25:21,272 --> 00:25:24,067
+Lorde Raiden,
+estes são os campeões que reuniu?
+
+253
+00:25:24,150 --> 00:25:25,985
+Duvida das minhas escolhas?
+
+254
+00:25:26,152 --> 00:25:27,820
+Não. Eu só quis dizer...
+
+255
+00:25:27,946 --> 00:25:30,865
+Você só enxerga
+o que está na sua frente, Liu Kang.
+
+256
+00:25:31,241 --> 00:25:33,201
+Mas seus olhos o enganam.
+
+257
+00:25:33,284 --> 00:25:35,662
+O que há dentro é o que importa.
+
+258
+00:25:35,954 --> 00:25:37,254
+Sonya Blade,
+
+259
+00:25:37,539 --> 00:25:39,707
+uma guerreira formidável.
+
+260
+00:25:39,999 --> 00:25:42,418
+Ela teve que provar
+seu valor para muitos
+
+261
+00:25:42,502 --> 00:25:44,254
+que acharam que era nada mais
+
+262
+00:25:44,462 --> 00:25:46,089
+que uma garota fraca.
+
+263
+00:25:46,631 --> 00:25:49,676
+Acredite, ela é tudo menos isso.
+
+264
+00:25:49,801 --> 00:25:50,968
+E ele?
+
+265
+00:25:50,969 --> 00:25:52,679
+Ele parece se preocupar
+só consigo mesmo
+
+266
+00:25:52,762 --> 00:25:54,138
+e com riquezas materiais.
+
+267
+00:25:55,306 --> 00:25:57,308
+- Qual é.
+- Isso o manterá vivo
+
+268
+00:25:57,559 --> 00:26:00,478
+até achar algo com que
+se preocupar mais.
+
+269
+00:26:00,770 --> 00:26:03,565
+Algo mais importante que ele mesmo.
+
+270
+00:26:03,898 --> 00:26:05,198
+Está brincando?
+
+271
+00:26:05,358 --> 00:26:08,152
+Paguei mais pelo pacote internacional
+e nem tenho sinal.
+
+272
+00:26:08,319 --> 00:26:09,779
+Raiden, você tem sinal?
+
+273
+00:26:16,870 --> 00:26:18,204
+O que...
+
+274
+00:26:22,584 --> 00:26:23,876
+Fique no navio.
+
+275
+00:26:23,877 --> 00:26:25,837
+Está sob a proteção do Lorde Raiden.
+
+276
+00:26:26,045 --> 00:26:28,548
+Lá fora... não tem nada de bom.
+
+277
+00:26:29,966 --> 00:26:31,551
+Tudo bem. Paparazzi.
+
+278
+00:26:33,094 --> 00:26:34,394
+Chegamos.
+
+279
+00:27:12,300 --> 00:27:13,600
+Olhem.
+
+280
+00:27:23,728 --> 00:27:25,313
+Aquele deve ser o vilão.
+
+281
+00:27:29,108 --> 00:27:31,653
+Um de cada vez, pessoal.
+Um de cada vez.
+
+282
+00:27:31,819 --> 00:27:33,696
+Eu trouxe o suficiente para todos.
+
+283
+00:27:33,780 --> 00:27:34,863
+Onde colocaram meu trailer?
+
+284
+00:27:34,864 --> 00:27:35,881
+BEIJOS E ABRAÇOS, JOHNNY CAGE
+SUPERASTRO!
+
+285
+00:27:35,882 --> 00:27:37,651
+Eu gostaria de me arrumar
+antes da filmagem.
+
+286
+00:27:42,539 --> 00:27:44,332
+Ele não faz ideia
+do que está fazendo.
+
+287
+00:27:44,582 --> 00:27:45,882
+Devemos contar a ele?
+
+288
+00:27:46,042 --> 00:27:48,253
+A jornada dele é de descoberta.
+
+289
+00:27:48,753 --> 00:27:51,422
+Além disso, acho divertido.
+
+290
+00:28:04,352 --> 00:28:06,813
+Lembre-se do nosso trato, Scorpion.
+
+291
+00:29:18,301 --> 00:29:19,761
+Tenham cuidado.
+
+292
+00:29:19,844 --> 00:29:22,388
+Shang Tsung não é confiável.
+
+293
+00:29:22,597 --> 00:29:24,349
+Olhem, o serviço de bufê. Ótimo!
+
+294
+00:29:40,365 --> 00:29:42,325
+Ei, sabe se alguma coisa é orgânica?
+
+295
+00:29:43,409 --> 00:29:45,411
+Só estou perguntando. Nossa.
+
+296
+00:29:53,002 --> 00:29:54,754
+Agora é a sua chance.
+
+297
+00:30:22,699 --> 00:30:24,033
+<i>No início,</i>
+
+298
+00:30:24,450 --> 00:30:26,202
+<i>eram os Deuses Anciões.</i>
+
+299
+00:30:27,453 --> 00:30:29,289
+<i>Com a sabedoria deles,</i>
+
+300
+00:30:29,372 --> 00:30:31,291
+<i>criaram um torneio</i>
+
+301
+00:30:31,374 --> 00:30:33,251
+<i>para proteger cada reino</i>
+
+302
+00:30:33,334 --> 00:30:35,086
+<i>da ameaça de invasão.</i>
+
+303
+00:30:36,087 --> 00:30:37,589
+<i>Uma vez por geração,</i>
+
+304
+00:30:37,922 --> 00:30:40,341
+<i>os melhores guerreiros devem lutar</i>
+
+305
+00:30:40,425 --> 00:30:42,802
+<i>para decidir o destino
+de seus reinos.</i>
+
+306
+00:30:43,136 --> 00:30:45,680
+<i>Ao vencedor, é concedido vida longa</i>
+
+307
+00:30:45,763 --> 00:30:47,307
+<i>e grande poder.</i>
+
+308
+00:30:47,765 --> 00:30:51,019
+<i>Se um reino vencer
+o torneio dez vezes,</i>
+
+309
+00:30:51,311 --> 00:30:53,813
+<i>ele terá o direito
+de se juntar a outro</i>
+
+310
+00:30:53,980 --> 00:30:56,232
+<i>e governar como achar apropriado.</i>
+
+311
+00:30:56,649 --> 00:30:58,610
+<i>Eu, Shang Tsung,</i>
+
+312
+00:30:59,110 --> 00:31:01,446
+<i>emissário do grande Shao Kahn,</i>
+
+313
+00:31:01,654 --> 00:31:03,656
+<i>imperador da Exoterra,</i>
+
+314
+00:31:04,324 --> 00:31:06,576
+<i>vencedor dos últimos nove torneios</i>
+
+315
+00:31:06,659 --> 00:31:08,286
+<i>contra o Plano Terreno,</i>
+
+316
+00:31:08,620 --> 00:31:12,123
+dou as boas-vindas
+a vocês no Mortal Kombat.
+
+317
+00:31:12,248 --> 00:31:13,548
+Isso aí!
+
+318
+00:31:13,583 --> 00:31:15,335
+Mortal Kombat!
+
+319
+00:32:02,298 --> 00:32:05,718
+Como anfitrião deste torneio,
+
+320
+00:32:05,802 --> 00:32:07,470
+acho apropriado
+
+321
+00:32:07,595 --> 00:32:11,391
+oferecer a vocês...
+um pouco de diversão.
+
+322
+00:32:20,149 --> 00:32:21,449
+Kano.
+
+323
+00:32:28,950 --> 00:32:30,250
+Jax!
+
+324
+00:32:40,962 --> 00:32:42,262
+Jax!
+
+325
+00:32:43,923 --> 00:32:45,425
+Escute, seu filho da puta.
+
+326
+00:32:45,550 --> 00:32:47,177
+É melhor abrir esse...
+
+327
+00:32:47,343 --> 00:32:48,643
+seja lá o que for,
+
+328
+00:32:48,720 --> 00:32:52,140
+ou vou usar você como
+meu saco de pancada.
+
+329
+00:32:52,432 --> 00:32:53,766
+Isso é muito sexy.
+
+330
+00:32:58,062 --> 00:33:00,064
+- Princesa.
+- Idiota.
+
+331
+00:33:00,315 --> 00:33:01,733
+Mandei me esperar.
+
+332
+00:33:01,816 --> 00:33:03,116
+Fiquei animado.
+
+333
+00:33:03,359 --> 00:33:05,945
+Você foi pego pelo idiota do Kano.
+
+334
+00:33:06,487 --> 00:33:08,031
+Sim. Isso também.
+
+335
+00:33:09,240 --> 00:33:13,286
+A menos que queira que eu arranque
+esse bigodinho da sua cara,
+
+336
+00:33:13,620 --> 00:33:16,706
+acho melhor me soltar, coroa.
+
+337
+00:33:16,998 --> 00:33:18,333
+Com certeza.
+
+338
+00:33:18,708 --> 00:33:21,044
+Você pode ir embora a qualquer hora.
+
+339
+00:33:21,252 --> 00:33:23,171
+A porta está logo ali.
+
+340
+00:33:25,215 --> 00:33:26,515
+Claro
+
+341
+00:33:26,674 --> 00:33:28,885
+que você precisa passar
+pelo meu campeão.
+
+342
+00:33:31,304 --> 00:33:35,350
+Goro!
+
+343
+00:34:02,502 --> 00:34:04,045
+Que droga é essa?
+
+344
+00:34:22,188 --> 00:34:23,565
+Jax! Não!
+
+345
+00:34:23,648 --> 00:34:24,948
+Relaxe, garota.
+
+346
+00:34:25,065 --> 00:34:26,316
+Deixe comigo.
+
+347
+00:34:26,317 --> 00:34:28,069
+Muito bem, feioso.
+
+348
+00:34:28,152 --> 00:34:30,321
+Quer dançar? Vamos dançar.
+
+349
+00:34:56,347 --> 00:34:57,647
+Eu não faria isso.
+
+350
+00:35:00,852 --> 00:35:02,152
+Já sei.
+
+351
+00:35:02,478 --> 00:35:05,440
+Quan Chi prometeu lhe dar vida
+se fizesse o que ele mandou.
+
+352
+00:35:07,734 --> 00:35:08,984
+Não.
+
+353
+00:35:08,985 --> 00:35:11,529
+Não a você. A outra pessoa.
+
+354
+00:35:11,738 --> 00:35:13,038
+Alguém que você perdeu.
+
+355
+00:35:13,406 --> 00:35:15,700
+Alguém que você gosta.
+
+356
+00:35:15,867 --> 00:35:18,912
+Acha que Quan Chi
+é um homem confiável?
+
+357
+00:35:18,995 --> 00:35:20,872
+Que escolha eu tenho?
+
+358
+00:35:21,289 --> 00:35:22,707
+Todos temos escolhas.
+
+359
+00:35:23,041 --> 00:35:24,459
+Viver no passado
+
+360
+00:35:24,667 --> 00:35:26,586
+ou viver pelo futuro.
+
+361
+00:35:27,795 --> 00:35:29,797
+A chave não vai resolver
+seus problemas.
+
+362
+00:35:30,465 --> 00:35:31,841
+No entanto,
+
+363
+00:35:32,175 --> 00:35:33,635
+vai causar novos problemas.
+
+364
+00:35:34,052 --> 00:35:35,512
+E a minha vingança?
+
+365
+00:35:35,595 --> 00:35:38,556
+Vingança é um fardo muito pesado
+de se carregar.
+
+366
+00:35:39,057 --> 00:35:40,357
+Você é um homem livre.
+
+367
+00:35:40,683 --> 00:35:42,852
+Chegou a hora de começar
+a agir como tal.
+
+368
+00:35:59,994 --> 00:36:02,539
+Pegue-o! Vamos!
+Você pode fazer melhor.
+
+369
+00:36:25,395 --> 00:36:26,695
+É sério, Goro.
+
+370
+00:36:26,729 --> 00:36:28,523
+Você não deveria brincar
+com a comida.
+
+371
+00:36:46,708 --> 00:36:48,626
+Pare! Você vai matá-lo!
+
+372
+00:36:48,751 --> 00:36:50,378
+A ideia é essa.
+
+373
+00:36:50,920 --> 00:36:52,220
+Acabe com ele.
+
+374
+00:37:00,930 --> 00:37:02,230
+Não!
+
+375
+00:37:12,817 --> 00:37:14,109
+É falso.
+
+376
+00:37:14,110 --> 00:37:16,029
+Estes efeitos especiais
+são horríveis.
+
+377
+00:37:20,158 --> 00:37:21,458
+Chega!
+
+378
+00:37:32,086 --> 00:37:34,589
+Você se esqueceu, Lorde Raiden.
+
+379
+00:37:34,923 --> 00:37:37,383
+Você não pode interferir no torneio.
+
+380
+00:37:37,550 --> 00:37:40,053
+Eu não sabia que o torneio
+tinha começado.
+
+381
+00:37:52,190 --> 00:37:54,776
+Estamos aqui para o Mortal Kombat,
+
+382
+00:37:55,610 --> 00:37:57,695
+não para sua barbárie.
+
+383
+00:37:59,239 --> 00:38:01,574
+Como desejar. Kano!
+
+384
+00:38:05,828 --> 00:38:09,499
+Jax! Espere! Vou atrás de você.
+
+385
+00:38:09,666 --> 00:38:10,966
+Entendeu?
+
+386
+00:38:11,125 --> 00:38:12,417
+Aconteça o que acontecer,
+
+387
+00:38:12,418 --> 00:38:14,170
+vou atrás de você.
+
+388
+00:38:15,338 --> 00:38:16,638
+Ela é ótima.
+
+389
+00:38:16,673 --> 00:38:19,133
+Que ótimo método de interpretação.
+
+390
+00:38:19,217 --> 00:38:20,517
+Não tenho razão?
+
+391
+00:38:23,054 --> 00:38:26,224
+Vejo que estamos todos ansiosos
+para começar.
+
+392
+00:38:27,141 --> 00:38:28,441
+Que bom.
+
+393
+00:38:28,726 --> 00:38:30,979
+Eu defini seus oponentes
+
+394
+00:38:31,145 --> 00:38:33,356
+e onde vocês lutarão na ilha.
+
+395
+00:38:33,815 --> 00:38:36,317
+Que o Mortal Kombat comece.
+
+396
+00:38:50,790 --> 00:38:52,709
+Certo? Isso foi estranho.
+
+397
+00:38:52,876 --> 00:38:54,586
+Alguém me drogou
+
+398
+00:38:54,878 --> 00:38:56,671
+ou... Puta merda!
+
+399
+00:39:00,633 --> 00:39:01,933
+Olá?
+
+400
+00:39:01,968 --> 00:39:04,429
+Sonya? Lorde Regan? Radar?
+
+401
+00:39:04,512 --> 00:39:05,812
+Seja qual for seu nome.
+
+402
+00:39:07,765 --> 00:39:09,601
+É melhor isso não virar vídeo direto.
+
+403
+00:39:26,659 --> 00:39:27,701
+Pólvora?
+
+404
+00:39:27,702 --> 00:39:30,163
+Deve ser algum tipo de
+fortaleza antiga.
+
+405
+00:39:43,635 --> 00:39:44,935
+Na mosca.
+
+406
+00:39:54,604 --> 00:39:55,812
+Duro como fóssil.
+
+407
+00:39:55,813 --> 00:39:57,732
+Não tem bufê nem trailers...
+
+408
+00:39:57,815 --> 00:40:00,206
+Meu empresário vai saber disso
+quando eu chegar em casa.
+
+409
+00:40:03,071 --> 00:40:04,371
+Nossa!
+
+410
+00:40:06,157 --> 00:40:07,457
+Olá?
+
+411
+00:40:08,159 --> 00:40:09,941
+Eu deveria receber uma diária,
+pelo menos.
+
+412
+00:40:12,705 --> 00:40:14,249
+Oi, como vai?
+
+413
+00:40:14,749 --> 00:40:17,293
+Que traje maneiro.
+
+414
+00:40:23,258 --> 00:40:24,759
+Estamos ao vivo?
+
+415
+00:40:24,884 --> 00:40:26,845
+Você quer fazer isso agora?
+
+416
+00:40:32,642 --> 00:40:33,942
+Amigo! Dica de profissional.
+
+417
+00:40:34,060 --> 00:40:35,770
+Chupe umas balinhas da próxima vez.
+
+418
+00:40:42,193 --> 00:40:44,571
+Calma! Ainda nem ensaiamos.
+
+419
+00:40:46,990 --> 00:40:49,576
+Idiota! Isso era personalizado.
+
+420
+00:40:49,909 --> 00:40:51,209
+Babaca!
+
+421
+00:40:53,830 --> 00:40:55,373
+Tome isso e isso!
+
+422
+00:40:59,669 --> 00:41:01,504
+E o barril!
+
+423
+00:41:57,143 --> 00:41:58,443
+Vai se ferrar, bonitinho.
+
+424
+00:42:14,577 --> 00:42:15,877
+Maneiro.
+
+425
+00:42:54,701 --> 00:42:55,826
+Qual é!
+
+426
+00:42:55,827 --> 00:42:57,328
+Enfrente-me como homem.
+
+427
+00:43:24,439 --> 00:43:26,608
+Muito bem, idiota.
+Vamos ver o que você sabe.
+
+428
+00:44:28,419 --> 00:44:29,754
+Não é tão divertido agora, é?
+
+429
+00:44:29,879 --> 00:44:31,548
+Seu cretino de sangue frio.
+
+430
+00:44:33,800 --> 00:44:35,100
+Cuidado!
+
+431
+00:44:39,556 --> 00:44:41,099
+Se sacanear a Blade,
+
+432
+00:44:41,182 --> 00:44:42,642
+vai acabar se cortando.
+
+433
+00:45:09,878 --> 00:45:12,088
+Você se movimenta como os Shirai Ryu,
+
+434
+00:45:12,297 --> 00:45:13,923
+mas eles morreram.
+
+435
+00:45:14,299 --> 00:45:16,426
+Quem é você? O que você quer?
+
+436
+00:45:17,051 --> 00:45:18,511
+Vingança.
+
+437
+00:45:22,390 --> 00:45:24,976
+Diga, escória do Lin Kuei.
+
+438
+00:45:25,226 --> 00:45:27,145
+Onde está o Sub-Zero?
+
+439
+00:45:31,524 --> 00:45:33,735
+Morra sabendo que vou matar
+
+440
+00:45:33,818 --> 00:45:37,947
+cada membro restante
+do Lin Kuei nesta ilha.
+
+441
+00:45:38,114 --> 00:45:41,451
+Cada um.
+
+442
+00:46:00,428 --> 00:46:02,680
+Você é o escolhido do Raiden?
+
+443
+00:46:03,389 --> 00:46:06,226
+Não me admira seu reino
+ter perdido tantos torneios.
+
+444
+00:46:15,944 --> 00:46:17,654
+Não quero machucá-la.
+
+445
+00:46:17,987 --> 00:46:19,364
+Poupe-me da sua pena.
+
+446
+00:46:31,793 --> 00:46:33,093
+Não se levante.
+
+447
+00:46:34,087 --> 00:46:37,257
+Não sinto prazer em machucar
+um inimigo tão digno.
+
+448
+00:46:37,382 --> 00:46:38,632
+Mas saiba de uma coisa.
+
+449
+00:46:38,633 --> 00:46:40,134
+Vou fazer o que for preciso
+
+450
+00:46:40,218 --> 00:46:42,679
+para defender o Plano Terreno
+e vencer este torneio.
+
+451
+00:46:44,222 --> 00:46:45,807
+Então você é um tolo.
+
+452
+00:46:46,015 --> 00:46:48,226
+Shao Kahn não pode ser derrotado.
+
+453
+00:46:48,685 --> 00:46:50,061
+Ele vai tomar seu mundo,
+
+454
+00:46:50,144 --> 00:46:53,147
+e você se curvará,
+como inúmeros outros antes de você.
+
+455
+00:46:53,273 --> 00:46:54,565
+Prometo a você
+
+456
+00:46:54,566 --> 00:46:57,110
+que nunca me curvarei
+diante daquele louco.
+
+457
+00:47:00,029 --> 00:47:01,329
+Eu me rendo.
+
+458
+00:47:04,534 --> 00:47:06,911
+O que o faz ter tanta certeza
+de que vencerá?
+
+459
+00:47:07,412 --> 00:47:10,456
+Eu tenho uma coisa
+que ninguém na Exoterra tem.
+
+460
+00:47:10,790 --> 00:47:12,667
+- O quê?
+- Esperança.
+
+461
+00:47:30,518 --> 00:47:32,187
+Impressionante, Raiden.
+
+462
+00:47:32,604 --> 00:47:35,523
+Seus guerreiros chegaram mais longe
+do que imaginei.
+
+463
+00:47:35,648 --> 00:47:38,610
+Eles têm espírito forte, Shang Tsung.
+
+464
+00:47:39,027 --> 00:47:41,196
+Você não vencerá hoje.
+
+465
+00:47:41,446 --> 00:47:44,032
+Já ouvi essas promessas.
+
+466
+00:47:44,741 --> 00:47:49,162
+Felizmente, depois que Goro matar
+quem chegar à última rodada,
+
+467
+00:47:49,621 --> 00:47:51,706
+não terei mais que ouvi-las.
+
+468
+00:47:52,290 --> 00:47:53,833
+E Quan Chi,
+
+469
+00:47:54,459 --> 00:47:56,252
+seu guerreiro do Submundo,
+
+470
+00:47:56,794 --> 00:47:59,005
+provou ser formidável.
+
+471
+00:47:59,130 --> 00:48:01,132
+Pela glória da Exoterra,
+
+472
+00:48:01,424 --> 00:48:04,219
+estou a serviço de Shao Kahn.
+
+473
+00:48:05,512 --> 00:48:06,812
+De fato.
+
+474
+00:48:07,013 --> 00:48:08,348
+Você fracassará.
+
+475
+00:48:08,890 --> 00:48:12,227
+Não importa quantos inimigos puser
+entre os lutadores do Plano Terreno
+
+476
+00:48:12,310 --> 00:48:13,610
+e seu campeão,
+
+477
+00:48:13,645 --> 00:48:15,396
+eles chegarão ao fim.
+
+478
+00:48:17,357 --> 00:48:19,234
+Que bom que acha isso.
+
+479
+00:48:19,484 --> 00:48:22,111
+Certamente,
+você conhece o Dragão Negro.
+
+480
+00:48:22,820 --> 00:48:25,532
+Parece que muitos chegaram à ilha
+
+481
+00:48:25,615 --> 00:48:28,076
+com ordens de matar
+seus amigos do Plano Terreno.
+
+482
+00:48:28,535 --> 00:48:29,953
+Como se atreve!
+
+483
+00:48:31,287 --> 00:48:34,040
+Está me acusando
+de alguma coisa, Lorde Raiden?
+
+484
+00:48:34,123 --> 00:48:36,876
+Você os trouxe aqui
+para interferir no torneio.
+
+485
+00:48:36,960 --> 00:48:38,586
+E violar as regras?
+
+486
+00:48:38,920 --> 00:48:40,922
+Até eu não sou tão audacioso
+
+487
+00:48:41,005 --> 00:48:43,550
+para irritar os Deuses Anciões
+desse modo.
+
+488
+00:48:44,509 --> 00:48:47,136
+Você fracassará, Shang Tsung.
+
+489
+00:48:47,428 --> 00:48:49,764
+Saberemos em breve, não é?
+
+490
+00:49:03,987 --> 00:49:06,698
+<i>O que eu não daria
+por uma frozen margarita.</i>
+
+491
+00:49:11,411 --> 00:49:13,580
+Ei! É sério?
+
+492
+00:49:14,205 --> 00:49:16,541
+Pois é. Veja esta camisa.
+Está ridícula.
+
+493
+00:49:16,666 --> 00:49:18,001
+Mas estou feliz em vê-la.
+
+494
+00:49:18,376 --> 00:49:20,461
+Você não vai acreditar,
+
+495
+00:49:20,628 --> 00:49:22,672
+mas isto não é um filme.
+
+496
+00:49:22,755 --> 00:49:24,055
+Isso é pra valer.
+
+497
+00:49:24,174 --> 00:49:26,384
+Talvez um filme pornô com morte.
+Não sei.
+
+498
+00:49:26,467 --> 00:49:28,136
+Mas eu tive que lutar com um...
+
+499
+00:49:28,303 --> 00:49:29,888
+Nem sei o que era aquilo.
+
+500
+00:49:30,013 --> 00:49:31,431
+Eu mal sobrevivi.
+
+501
+00:49:32,056 --> 00:49:33,433
+Consigo acreditar nisso.
+
+502
+00:49:33,516 --> 00:49:35,560
+Escute, vou tirá-lo daqui,
+
+503
+00:49:35,643 --> 00:49:37,020
+mas precisamos ficar juntos.
+
+504
+00:49:37,103 --> 00:49:39,522
+A primeira regra de combate
+é proteger nossa posição.
+
+505
+00:49:39,981 --> 00:49:42,609
+Vamos achar um esconderijo,
+depois fazemos o reconhecimento.
+
+506
+00:49:42,734 --> 00:49:44,777
+Vamos descobrir onde estamos,
+o que enfrentamos.
+
+507
+00:49:44,903 --> 00:49:46,203
+Uma estratégia boa.
+
+508
+00:49:46,988 --> 00:49:48,740
+Vocês dois sobreviveram. Que bom.
+
+509
+00:49:48,907 --> 00:49:50,863
+Receio que fique mais difícil
+daqui em diante.
+
+510
+00:49:51,451 --> 00:49:52,910
+Espere. O que vai ficar mais difícil?
+
+511
+00:49:52,911 --> 00:49:55,747
+Acabei de lutar com dentes ambulantes
+no lado de uma montanha.
+
+512
+00:49:55,955 --> 00:49:57,415
+Não sou o Tom Cruise.
+
+513
+00:49:57,707 --> 00:49:58,957
+Eu interpreto.
+
+514
+00:49:58,958 --> 00:50:01,252
+Deixo as coisas de dublê
+para os dublês.
+
+515
+00:50:01,544 --> 00:50:03,838
+Escute, querida.
+Temos que sair daqui...
+
+516
+00:50:04,714 --> 00:50:06,424
+Meu pau!
+
+517
+00:50:06,508 --> 00:50:08,968
+Puta merda! Ninguém encosta
+em mim sem permissão.
+
+518
+00:50:09,052 --> 00:50:10,637
+- Entendeu?
+- Entendi.
+
+519
+00:50:10,720 --> 00:50:12,198
+Você disse que sabia onde estamos?
+
+520
+00:50:12,222 --> 00:50:13,263
+Eu sei.
+
+521
+00:50:13,264 --> 00:50:14,641
+Mas vai escurecer em breve.
+
+522
+00:50:14,891 --> 00:50:16,935
+Precisamos armar acampamento.
+Descansar.
+
+523
+00:50:17,185 --> 00:50:18,485
+Concordo.
+
+524
+00:50:22,440 --> 00:50:25,568
+Não esperem por mim. Estou bem.
+
+525
+00:50:25,735 --> 00:50:28,154
+Vou mijar um pouco de sangue antes.
+
+526
+00:50:43,628 --> 00:50:45,463
+Que merda é essa?
+
+527
+00:50:48,341 --> 00:50:49,641
+Acho que vou vomitar.
+
+528
+00:50:54,430 --> 00:50:55,472
+Fique atrás de mim.
+
+529
+00:50:55,473 --> 00:50:56,640
+Eu cuido disso.
+
+530
+00:50:56,641 --> 00:50:58,434
+Estamos em 1950?
+
+531
+00:50:58,560 --> 00:51:00,061
+Para trás, Bruce Lee.
+
+532
+00:51:00,186 --> 00:51:01,521
+Vem com tudo, otário.
+
+533
+00:51:02,522 --> 00:51:04,524
+Pessoal, calma. Tudo bem?
+
+534
+00:51:04,691 --> 00:51:06,359
+Ninguém precisa lutar com ninguém,
+
+535
+00:51:06,442 --> 00:51:09,195
+principalmente com um cara
+que enlouqueceu com um monte de...
+
+536
+00:51:09,279 --> 00:51:11,573
+Dragões Negros. Mercenários.
+
+537
+00:51:11,948 --> 00:51:14,492
+Assassinos. Vilões.
+
+538
+00:51:14,576 --> 00:51:15,910
+Isso. Esses caras.
+
+539
+00:51:15,994 --> 00:51:17,160
+Temos que continuar.
+
+540
+00:51:17,161 --> 00:51:19,080
+Quando o Mortal Kombat é anunciado,
+
+541
+00:51:19,163 --> 00:51:20,372
+deve ser terminado.
+
+542
+00:51:20,373 --> 00:51:22,250
+Você anunciou o Mortal Kombat?
+
+543
+00:51:22,917 --> 00:51:24,794
+- Anunciou?
+- Não.
+
+544
+00:51:24,919 --> 00:51:27,755
+E o senhor, Sr...
+
+545
+00:51:28,006 --> 00:51:29,306
+Scorpion.
+
+546
+00:51:29,966 --> 00:51:31,266
+É sugestivo. Gostei.
+
+547
+00:51:31,301 --> 00:51:32,601
+Anunciou o Mortal Kombat?
+
+548
+00:51:33,845 --> 00:51:37,849
+Que bom. Ótimo.
+Então ninguém precisa morrer. Nossa.
+
+549
+00:51:39,893 --> 00:51:42,020
+Quem está com fome?
+
+550
+00:51:48,526 --> 00:51:50,153
+Sei que você não acreditou antes,
+
+551
+00:51:50,486 --> 00:51:51,653
+mas é tudo verdade.
+
+552
+00:51:51,654 --> 00:51:54,157
+Os Deuses Anciões, o torneio, tudo.
+
+553
+00:51:54,616 --> 00:51:55,908
+O imperador Shao Kahn
+
+554
+00:51:55,909 --> 00:51:58,161
+venceu nove torneios anteriores
+do Mortal Kombat.
+
+555
+00:51:58,453 --> 00:51:59,753
+Se ele vencer o décimo...
+
+556
+00:52:00,622 --> 00:52:01,830
+O que acontece?
+
+557
+00:52:01,831 --> 00:52:03,917
+Vocês todos morrerão.
+
+558
+00:52:04,584 --> 00:52:06,503
+Que ótimo.
+
+559
+00:52:06,586 --> 00:52:10,340
+Monstros, magia,
+isto não pode ser verdade.
+
+560
+00:52:10,423 --> 00:52:12,383
+Alguém deve ter colocado algo
+na minha bebida.
+
+561
+00:52:12,467 --> 00:52:13,717
+Estou alucinando.
+
+562
+00:52:13,718 --> 00:52:15,018
+Controle-se, Johnny.
+
+563
+00:52:15,345 --> 00:52:17,639
+Seja lá o que isto for, é verdade.
+
+564
+00:52:17,889 --> 00:52:20,141
+Não há motivo para ficar
+parado chorando.
+
+565
+00:52:20,808 --> 00:52:22,560
+Se o que Liu Kang diz for verdade,
+
+566
+00:52:22,644 --> 00:52:24,145
+o mundo todo está em apuros,
+
+567
+00:52:24,229 --> 00:52:25,730
+e temos que impedir.
+
+568
+00:52:26,523 --> 00:52:28,066
+Se eu conseguir achar um rádio,
+
+569
+00:52:28,608 --> 00:52:30,026
+a rede de comunicação,
+
+570
+00:52:30,109 --> 00:52:31,486
+posso pedir reforços.
+
+571
+00:52:31,611 --> 00:52:34,132
+Transformar esta ilha
+no próximo exemplo a não ser seguido.
+
+572
+00:52:34,948 --> 00:52:37,116
+Se fosse fácil assim.
+
+573
+00:52:37,408 --> 00:52:39,410
+- Lorde Raiden.
+- Você.
+
+574
+00:52:40,203 --> 00:52:42,247
+O que quer dizer
+com "se fosse fácil assim"?
+
+575
+00:52:42,497 --> 00:52:44,791
+Sabe o que um míssil Hellfire
+pode fazer?
+
+576
+00:52:45,041 --> 00:52:47,335
+Com certeza, é muito
+poderoso na Terra,
+
+577
+00:52:47,836 --> 00:52:50,255
+mas não estamos nela.
+
+578
+00:52:50,964 --> 00:52:54,634
+Esta ilha está num lugar
+entre os reinos,
+
+579
+00:52:54,801 --> 00:52:57,971
+um lugar reservado
+especificamente para o torneio.
+
+580
+00:52:58,805 --> 00:53:00,105
+Claro. Parece ótimo.
+
+581
+00:53:00,139 --> 00:53:02,725
+Então,
+se o que Liu Kang diz for verdade,
+
+582
+00:53:02,934 --> 00:53:05,979
+então você é uma espécie de deus,
+não é?
+
+583
+00:53:06,104 --> 00:53:07,981
+Eu recebi muitos nomes.
+
+584
+00:53:08,189 --> 00:53:09,524
+Caramba, Buda.
+
+585
+00:53:09,649 --> 00:53:11,276
+Estale os dedos, leve-nos para casa.
+
+586
+00:53:11,359 --> 00:53:14,028
+Estou farto de monstros psicopatas
+e comida ruim.
+
+587
+00:53:14,153 --> 00:53:15,195
+E, aliás,
+
+588
+00:53:15,196 --> 00:53:18,241
+nunca mais na vida vou reclamar
+por fazer uma sequência.
+
+589
+00:53:18,491 --> 00:53:19,741
+Ele não pode.
+
+590
+00:53:19,742 --> 00:53:22,412
+Lorde Raiden é proibido
+de interferir no torneio.
+
+591
+00:53:23,121 --> 00:53:25,122
+Um acordo que ele fez
+para salvar o Plano Terreno
+
+592
+00:53:25,123 --> 00:53:26,791
+de ser tomado eras atrás.
+
+593
+00:53:27,000 --> 00:53:29,252
+Isso... Isso é uma loucura.
+
+594
+00:53:29,377 --> 00:53:31,254
+O destino do mundo
+está sendo decidido
+
+595
+00:53:31,337 --> 00:53:33,381
+por uma espécie de torneio de caratê?
+
+596
+00:53:33,464 --> 00:53:34,631
+Está brincando?
+
+597
+00:53:34,632 --> 00:53:37,760
+Vocês são a única esperança
+que restou para o Plano Terreno.
+
+598
+00:53:37,969 --> 00:53:39,269
+Vão para o templo,
+
+599
+00:53:39,387 --> 00:53:41,472
+onde a batalha final
+espera por vocês.
+
+600
+00:53:42,182 --> 00:53:44,726
+E seus destinos ficarão claros.
+
+601
+00:53:44,893 --> 00:53:46,193
+Mas tenham cuidado,
+
+602
+00:53:46,394 --> 00:53:47,937
+há outros nesta ilha
+
+603
+00:53:48,021 --> 00:53:50,565
+que tentarão impedi-los
+de chegar à última rodada.
+
+604
+00:53:55,612 --> 00:53:58,281
+Ótimo. Então estamos ferrados.
+
+605
+00:53:58,698 --> 00:54:01,576
+Se o Lorde Raiden acredita
+que conseguimos, nós conseguimos.
+
+606
+00:54:01,743 --> 00:54:03,828
+Não. Vocês não conseguem.
+
+607
+00:54:04,454 --> 00:54:07,582
+O senhor parece muito divertido,
+Sr. Scorpion.
+
+608
+00:54:07,707 --> 00:54:09,501
+Shang Tsung está na vantagem.
+
+609
+00:54:09,709 --> 00:54:12,253
+Ele tem aquele... monstro.
+
+610
+00:54:12,837 --> 00:54:16,382
+Vão.
+Escondam-se na selva até isso acabar.
+
+611
+00:54:16,758 --> 00:54:18,635
+E deixar a Terra ser destruída?
+
+612
+00:54:18,801 --> 00:54:21,179
+Desculpe, amigo. Jurei defendê-la,
+
+613
+00:54:21,304 --> 00:54:22,604
+não importam as adversidades.
+
+614
+00:54:22,680 --> 00:54:24,265
+Ele não entenderia, Sonya.
+
+615
+00:54:24,349 --> 00:54:25,767
+Alguém como ele
+
+616
+00:54:25,892 --> 00:54:28,102
+nunca conheceu algo
+por que valesse morrer.
+
+617
+00:54:30,396 --> 00:54:32,232
+Vocês não podem sobreviver.
+
+618
+00:54:32,398 --> 00:54:34,025
+Minha determinação é forte.
+
+619
+00:54:34,359 --> 00:54:36,486
+Meu destino é só meu.
+
+620
+00:54:39,030 --> 00:54:41,658
+Você é tão ingênuo
+quanto predestinado ao fracasso.
+
+621
+00:54:42,116 --> 00:54:44,118
+Esperei muito tempo aqui.
+
+622
+00:54:44,369 --> 00:54:46,663
+Saiba que, na próxima vez
+que nos encontrarmos,
+
+623
+00:54:46,788 --> 00:54:49,123
+não vai terminar bem.
+
+624
+00:54:50,542 --> 00:54:52,544
+Isso foi divertido.
+
+625
+00:54:52,669 --> 00:54:53,969
+Cale a boca, Botox.
+
+626
+00:54:54,003 --> 00:54:56,714
+Só estou dizendo
+que ele acabou com o clima daqui.
+
+627
+00:54:56,798 --> 00:54:58,098
+Eu só estava...
+
+628
+00:55:00,009 --> 00:55:01,761
+Calando a boca. Isso.
+
+629
+00:55:02,053 --> 00:55:03,661
+Scorpion tinha razão sobre uma coisa.
+
+630
+00:55:03,847 --> 00:55:05,147
+Já descansamos muito.
+
+631
+00:55:05,390 --> 00:55:06,690
+Devemos continuar.
+
+632
+00:55:12,021 --> 00:55:13,321
+Eu os achei.
+
+633
+00:55:23,241 --> 00:55:26,035
+Chegamos. E agora?
+
+634
+00:55:33,501 --> 00:55:35,003
+Ótimo. É justo.
+
+635
+00:55:35,086 --> 00:55:37,255
+As regras dizem
+que deve ser um combate único.
+
+636
+00:55:37,463 --> 00:55:39,674
+Estes caras não estão aqui
+pelo torneio.
+
+637
+00:55:39,841 --> 00:55:41,467
+Eles foram pagos para matar vocês.
+
+638
+00:55:41,801 --> 00:55:43,101
+Olá, querida.
+
+639
+00:55:43,386 --> 00:55:45,263
+É bom vê-la de novo.
+
+640
+00:55:46,848 --> 00:55:49,392
+Por que não vem aqui
+para eu lhe dar um abraço?
+
+641
+00:55:49,642 --> 00:55:51,644
+Você se sairia melhor que o Jax.
+
+642
+00:55:57,442 --> 00:55:58,985
+Acho que o Raiden estava errado.
+
+643
+00:55:59,110 --> 00:56:00,152
+Você acha?
+
+644
+00:56:00,153 --> 00:56:02,989
+Não. Fiquem juntos. Vamos sobreviver.
+Temos que sobreviver.
+
+645
+00:56:03,072 --> 00:56:04,616
+É melhor sobrevivermos.
+
+646
+00:56:04,699 --> 00:56:06,872
+Preciso voltar para casa
+para matar meu empresário.
+
+647
+00:56:15,418 --> 00:56:16,718
+Preparem-se.
+
+648
+00:56:16,794 --> 00:56:18,094
+Para quê?
+
+649
+00:56:57,794 --> 00:56:59,963
+Viu? Eu sabia que ele gostava de nós.
+
+650
+00:57:09,848 --> 00:57:11,056
+Fique abaixado!
+
+651
+00:57:11,057 --> 00:57:12,357
+Eu sei lutar.
+
+652
+00:57:19,065 --> 00:57:20,274
+Claro que sabe.
+
+653
+00:57:20,275 --> 00:57:21,860
+Fique abaixado.
+
+654
+00:57:25,488 --> 00:57:26,788
+Cara, ela é muito gata.
+
+655
+00:58:25,673 --> 00:58:26,973
+Abaixe-se!
+
+656
+00:58:33,348 --> 00:58:34,648
+Isso!
+
+657
+00:58:36,684 --> 00:58:38,061
+O que é isso?
+
+658
+00:58:38,186 --> 00:58:40,438
+Você desonra este torneio.
+
+659
+00:58:53,826 --> 00:58:55,995
+Você vai morrer pelo que fez.
+
+660
+00:59:35,535 --> 00:59:37,078
+Isso é pelo meu clã!
+
+661
+00:59:38,162 --> 00:59:40,206
+Isto é por minha esposa!
+
+662
+00:59:43,209 --> 00:59:46,296
+E isto por meu filho!
+
+663
+01:00:10,220 --> 01:00:11,278
+Dane-se.
+
+664
+01:00:11,279 --> 01:00:12,931
+Ele não me paga o suficiente
+para isso.
+
+665
+01:00:12,989 --> 01:00:14,289
+Kano!
+
+666
+01:00:15,533 --> 01:00:16,993
+Vá. Salve seu parceiro.
+
+667
+01:00:17,327 --> 01:00:18,627
+Sonya!
+
+668
+01:00:19,245 --> 01:00:20,495
+Parceiro?
+
+669
+01:00:20,496 --> 01:00:22,626
+Raiden disse que o destino
+de vocês ficaria claro.
+
+670
+01:00:23,041 --> 01:00:25,067
+Ali está ela.
+
+671
+01:00:25,068 --> 01:00:26,084
+Quer saber?
+
+672
+01:00:26,085 --> 01:00:28,463
+Acho que não me importo
+de ter minhas bolas esmagadas.
+
+673
+01:00:29,130 --> 01:00:30,548
+Por ela, é o que quero dizer.
+
+674
+01:00:30,798 --> 01:00:32,098
+Isso não melhora a situação.
+
+675
+01:00:47,524 --> 01:00:49,567
+Estou decepcionado.
+
+676
+01:00:50,777 --> 01:00:53,363
+Eu o trouxe aqui por um motivo,
+
+677
+01:00:53,863 --> 01:00:56,115
+e você fracassou comigo.
+
+678
+01:00:56,533 --> 01:00:59,202
+Você é tão fraco quanto
+sua esposa era.
+
+679
+01:00:59,744 --> 01:01:01,621
+Quanto seu filho.
+
+680
+01:01:02,830 --> 01:01:04,707
+Sim, seu tolo.
+
+681
+01:01:04,791 --> 01:01:07,418
+Não foi o Sub-Zero.
+
+682
+01:01:08,461 --> 01:01:10,213
+Eu os matei.
+
+683
+01:01:10,630 --> 01:01:11,930
+<i>Foi fácil.</i>
+
+684
+01:01:12,173 --> 01:01:15,009
+<i>Eu usei feitiçaria
+para esconder minha identidade.</i>
+
+685
+01:01:15,385 --> 01:01:19,055
+<i>Para Lin Kuei fazer
+o que eu quisesse.</i>
+
+686
+01:01:21,266 --> 01:01:23,810
+Você é forte, Scorpion,
+
+687
+01:01:24,394 --> 01:01:26,396
+mas não é imortal.
+
+688
+01:01:26,479 --> 01:01:28,273
+Acho que vou deixá-lo aqui.
+
+689
+01:01:28,815 --> 01:01:31,192
+Assim como deixei seu filho.
+
+690
+01:01:31,484 --> 01:01:33,736
+Para ser comido pelos pássaros.
+
+691
+01:01:40,743 --> 01:01:43,454
+<i>Papai. O escorpião precisa de ajuda!</i>
+
+692
+01:01:43,538 --> 01:01:46,082
+<i>Você sabe por que
+o escorpião é temido?</i>
+
+693
+01:01:46,666 --> 01:01:48,001
+<i>Pela determinação.</i>
+
+694
+01:01:59,179 --> 01:02:01,181
+Vamos, Sonya, querida.
+
+695
+01:02:01,306 --> 01:02:02,807
+Só um pouco mais.
+
+696
+01:02:03,600 --> 01:02:04,725
+Jax!
+
+697
+01:02:04,726 --> 01:02:06,026
+Sonya?
+
+698
+01:02:06,144 --> 01:02:07,645
+Que bom que você conseguiu.
+
+699
+01:02:08,229 --> 01:02:09,564
+Será um prazer
+
+700
+01:02:09,647 --> 01:02:11,900
+vê-la acabar como seu parceiro.
+
+701
+01:02:18,990 --> 01:02:20,825
+Acha que tenho medo de vocês?
+
+702
+01:02:20,950 --> 01:02:22,452
+Podem vir!
+
+703
+01:02:44,891 --> 01:02:46,191
+Merda.
+
+704
+01:02:46,935 --> 01:02:48,235
+Shang Tsung!
+
+705
+01:02:50,063 --> 01:02:51,481
+Estou impressionado, Raiden.
+
+706
+01:02:52,106 --> 01:02:53,441
+Você tinha razão.
+
+707
+01:02:53,691 --> 01:02:55,318
+Ele tem um grande espírito.
+
+708
+01:02:55,568 --> 01:02:57,654
+E uma habilidade melhor ainda.
+
+709
+01:02:57,779 --> 01:03:02,158
+Por favor.
+Sabemos que sua causa é perdida.
+
+710
+01:03:02,742 --> 01:03:04,042
+Goro!
+
+711
+01:03:14,963 --> 01:03:17,298
+Vou fazer um trato com você,
+Liu Kang.
+
+712
+01:03:17,465 --> 01:03:21,135
+Renda-se, e Shao Kahn
+lhe concederá misericórdia.
+
+713
+01:03:21,219 --> 01:03:23,137
+Você pode vir para a Exoterra.
+
+714
+01:03:23,263 --> 01:03:24,681
+Viver como um rei.
+
+715
+01:03:24,889 --> 01:03:27,684
+Vamos lhe mostrar todos os prazeres.
+
+716
+01:03:27,892 --> 01:03:31,104
+Foi assim que Shao Kahn
+o fez trair seu mundo?
+
+717
+01:03:31,187 --> 01:03:33,523
+Não sou fraco como você, Shang Tsung.
+
+718
+01:03:34,482 --> 01:03:37,235
+Então você vai morrer. Lutem!
+
+719
+01:03:59,299 --> 01:04:00,675
+Coitado do Raiden.
+
+720
+01:04:00,925 --> 01:04:05,346
+Deve ser horrível ver
+seu amado escolhido morrer
+
+721
+01:04:05,471 --> 01:04:08,349
+e não poder fazer nada a respeito.
+
+722
+01:04:08,641 --> 01:04:10,935
+A luta ainda não acabou.
+
+723
+01:04:11,060 --> 01:04:12,478
+Pode ser.
+
+724
+01:04:12,562 --> 01:04:14,314
+Quan Chi, cálices.
+
+725
+01:04:14,480 --> 01:04:17,984
+Vamos brindar à iminente vitória
+de nosso imperador.
+
+726
+01:04:18,067 --> 01:04:19,736
+Ótima ideia.
+
+727
+01:04:28,411 --> 01:04:29,711
+Qual é, Liu Kang.
+
+728
+01:04:29,913 --> 01:04:31,581
+Você consegue fazer melhor que isso.
+
+729
+01:04:33,666 --> 01:04:35,168
+Pela Exoterra.
+
+730
+01:04:35,627 --> 01:04:37,212
+Por Shao Kahn.
+
+731
+01:04:46,346 --> 01:04:49,098
+Acabem com ela!
+
+732
+01:04:56,481 --> 01:04:58,441
+O Johnny chegou!
+
+733
+01:05:03,905 --> 01:05:05,205
+Johnny?
+
+734
+01:05:05,323 --> 01:05:07,408
+Não se preocupe, gata. Deixe comigo.
+
+735
+01:05:12,830 --> 01:05:14,130
+Muito bem, rapazes.
+
+736
+01:05:14,207 --> 01:05:16,209
+As câmeras estão rodando.
+Gravem o som.
+
+737
+01:05:18,086 --> 01:05:20,046
+E... ação!
+
+738
+01:05:34,561 --> 01:05:35,895
+Impossível!
+
+739
+01:05:36,145 --> 01:05:38,022
+Puta merda.
+
+740
+01:05:38,189 --> 01:05:40,149
+Johnny Cage sabe lutar.
+
+741
+01:05:40,358 --> 01:05:42,318
+Deixe um pouco para mim.
+
+742
+01:05:45,321 --> 01:05:47,073
+Eu falei que você mudaria de ideia.
+
+743
+01:06:30,158 --> 01:06:31,492
+Muito bem.
+
+744
+01:06:31,826 --> 01:06:34,287
+Na verdade, eu subestimei vocês.
+
+745
+01:06:34,495 --> 01:06:37,123
+Mas agora estou entediado.
+
+746
+01:06:37,540 --> 01:06:40,043
+Goro, a brincadeira acabou.
+
+747
+01:07:05,151 --> 01:07:06,451
+Kano!
+
+748
+01:07:06,569 --> 01:07:07,694
+Fique afastada!
+
+749
+01:07:07,695 --> 01:07:09,405
+Vou cortar a garganta dele.
+
+750
+01:07:44,107 --> 01:07:45,407
+Esperem um pouco.
+
+751
+01:07:50,363 --> 01:07:52,115
+Agora podemos ir.
+
+752
+01:08:09,465 --> 01:08:12,051
+Isso!
+
+753
+01:08:12,218 --> 01:08:13,720
+Viu, Quan Chi,
+
+754
+01:08:13,928 --> 01:08:15,137
+o segredo para vencer
+
+755
+01:08:15,138 --> 01:08:18,640
+é sempre estar alguns passos
+à frente dos inimigos.
+
+756
+01:08:23,854 --> 01:08:25,273
+Achou que eu não sabia
+
+757
+01:08:25,356 --> 01:08:27,609
+que você trairia seu imperador,
+Quan Chi?
+
+758
+01:08:27,901 --> 01:08:29,151
+Você está errado.
+
+759
+01:08:29,152 --> 01:08:30,452
+Eu nunca...
+
+760
+01:08:35,366 --> 01:08:37,535
+Para que tudo isso? Por isso?
+
+761
+01:08:38,870 --> 01:08:41,706
+Ele foi aprisionado
+por um motivo, Quan Chi.
+
+762
+01:08:42,207 --> 01:08:45,417
+Sua triste devoção
+ao deus louco Shinnok
+
+763
+01:08:45,542 --> 01:08:47,837
+o torna tão patético quanto ele.
+
+764
+01:08:48,505 --> 01:08:51,381
+Em breve, o Plano Terreno será
+do Shao Kahn,
+
+765
+01:08:51,466 --> 01:08:54,093
+e o destino dele estará completo.
+
+766
+01:08:54,469 --> 01:08:57,971
+É uma pena que você
+não viverá para ver.
+
+767
+01:08:59,015 --> 01:09:00,517
+Acabe com ele.
+
+768
+01:09:10,109 --> 01:09:11,861
+Isso dói?
+
+769
+01:09:22,830 --> 01:09:27,042
+Em breve, sua fraca espécie acabará.
+
+770
+01:09:46,688 --> 01:09:48,022
+Quem se atreve?
+
+771
+01:09:52,068 --> 01:09:53,368
+Scorpion.
+
+772
+01:09:55,697 --> 01:09:56,997
+Impossível.
+
+773
+01:09:57,156 --> 01:10:01,327
+Parece que subestimei
+seu campeão, Quan Chi.
+
+774
+01:10:02,787 --> 01:10:05,456
+Você é o Scorpion do Submundo, não é?
+
+775
+01:10:07,542 --> 01:10:09,377
+Você matou o Goro.
+
+776
+01:10:09,627 --> 01:10:14,215
+Desse modo, deve assumir seu lugar
+de direito, como campeão da Exoterra.
+
+777
+01:10:14,340 --> 01:10:17,260
+Não quero me envolver no seu jogo.
+
+778
+01:10:17,385 --> 01:10:19,554
+Vim por causa dele.
+
+779
+01:10:21,973 --> 01:10:23,433
+Interessante.
+
+780
+01:10:24,017 --> 01:10:25,810
+Derrote Liu Kang,
+
+781
+01:10:26,019 --> 01:10:29,189
+e Quan Chi fará o que você desejar.
+
+782
+01:10:29,522 --> 01:10:31,316
+Derrote Liu Kang,
+
+783
+01:10:31,399 --> 01:10:35,195
+e meu imperador
+lhe dará tudo que sonhou.
+
+784
+01:10:36,237 --> 01:10:38,698
+A vingança não é a solução, Scorpion.
+
+785
+01:10:38,907 --> 01:10:40,207
+Claro que é.
+
+786
+01:10:40,325 --> 01:10:41,743
+E é sua.
+
+787
+01:10:42,535 --> 01:10:44,162
+Tudo que você precisa fazer
+
+788
+01:10:44,746 --> 01:10:46,122
+é matá-lo.
+
+789
+01:11:03,473 --> 01:11:06,351
+Que bom.
+
+790
+01:11:07,101 --> 01:11:10,230
+Que escolha ele tinha, Lorde Raiden?
+
+791
+01:11:11,689 --> 01:11:14,108
+Sempre tem outra escolha.
+
+792
+01:11:20,406 --> 01:11:22,408
+Agora lutem!
+
+793
+01:11:29,457 --> 01:11:31,376
+O que está fazendo?
+
+794
+01:11:31,793 --> 01:11:33,503
+Vivendo pelo futuro.
+
+795
+01:11:33,962 --> 01:11:35,797
+Me dê a chave.
+
+796
+01:11:38,633 --> 01:11:39,968
+Seu tolo!
+
+797
+01:11:40,093 --> 01:11:43,179
+Shao Kahn vai saber disso e matá-lo.
+
+798
+01:11:43,304 --> 01:11:44,889
+Já estou morto.
+
+799
+01:11:44,973 --> 01:11:47,183
+Liu Kang, eu me rendo.
+
+800
+01:11:47,308 --> 01:11:48,608
+Não!
+
+801
+01:11:49,811 --> 01:11:51,813
+Então o torneio acabou.
+
+802
+01:11:51,980 --> 01:11:53,439
+A Exoterra perdeu.
+
+803
+01:11:53,815 --> 01:11:55,900
+O Plano Terreno está seguro.
+
+804
+01:11:57,777 --> 01:12:00,530
+Vou matar todos vocês.
+
+805
+01:12:00,655 --> 01:12:03,241
+O torneio acabou, Shang Tsung.
+
+806
+01:12:03,324 --> 01:12:07,537
+Não sou mais obrigado
+a não interferir.
+
+807
+01:12:07,662 --> 01:12:09,789
+Volte para o seu imperador.
+
+808
+01:12:09,914 --> 01:12:11,666
+Conte seu fracasso a ele.
+
+809
+01:12:11,916 --> 01:12:14,377
+Você cometeu um erro, Lorde Raiden.
+
+810
+01:12:14,669 --> 01:12:18,256
+O imperador Shao Kahn vai se vingar.
+
+811
+01:12:18,464 --> 01:12:19,764
+Conto com isso.
+
+812
+01:12:20,675 --> 01:12:21,975
+Não.
+
+813
+01:12:24,262 --> 01:12:26,347
+Sem o poder de Shang Tsung,
+
+814
+01:12:26,431 --> 01:12:27,765
+a ilha vai ruir.
+
+815
+01:12:27,849 --> 01:12:29,601
+Temos que ir.
+
+816
+01:12:30,727 --> 01:12:31,894
+E o Scorpion?
+
+817
+01:12:31,895 --> 01:12:33,771
+O rumo dele é outro.
+
+818
+01:12:33,855 --> 01:12:35,155
+- Mas...
+- Agora!
+
+819
+01:12:37,400 --> 01:12:39,444
+Eu sabia que você sobreviveria.
+
+820
+01:12:39,611 --> 01:12:41,905
+Eu o escolhi por um motivo.
+
+821
+01:12:42,155 --> 01:12:43,781
+Me dê a chave,
+
+822
+01:12:43,907 --> 01:12:47,660
+e podemos sair deste lugar
+antes que seja destruído.
+
+823
+01:12:47,994 --> 01:12:49,294
+Venha pegar.
+
+824
+01:12:49,412 --> 01:12:51,331
+Como fez com minha família.
+
+825
+01:12:53,041 --> 01:12:54,751
+Muito bem.
+
+826
+01:12:54,834 --> 01:12:55,918
+Mas, por favor,
+
+827
+01:12:55,919 --> 01:12:59,589
+lute mais que sua mulher.
+
+828
+01:13:20,860 --> 01:13:24,614
+Vou terminar o serviço
+que meus demônios não conseguiram.
+
+829
+01:13:24,739 --> 01:13:28,576
+Morra, seu verme miserável!
+
+830
+01:13:36,960 --> 01:13:38,962
+Hora de morrer.
+
+831
+01:13:39,963 --> 01:13:41,714
+É verdade.
+
+832
+01:13:59,691 --> 01:14:01,526
+Liu! Lorde Randy!
+
+833
+01:14:01,609 --> 01:14:02,909
+Precisam de uma carona?
+
+834
+01:15:18,978 --> 01:15:20,563
+Venha cá!
+
+835
+01:15:26,653 --> 01:15:29,447
+Meu deus vai me vingar.
+
+836
+01:15:30,156 --> 01:15:32,325
+Dane-se seu deus.
+
+837
+01:16:12,198 --> 01:16:15,451
+Então é isso? Nós vencemos?
+
+838
+01:16:15,535 --> 01:16:16,577
+Por enquanto.
+
+839
+01:16:16,578 --> 01:16:18,872
+É isso aí!
+
+840
+01:16:20,498 --> 01:16:21,798
+Posso?
+
+841
+01:16:25,086 --> 01:16:26,796
+É isso aí!
+
+842
+01:16:28,798 --> 01:16:30,098
+Canela.
+
+843
+01:16:30,675 --> 01:16:32,302
+Isso, me dê um tapinha.
+
+844
+01:16:32,385 --> 01:16:33,760
+Não significa que o abraço acabou.
+
+845
+01:16:33,761 --> 01:16:35,061
+- Já chega.
+- Tudo bem.
+
+846
+01:16:36,389 --> 01:16:37,765
+Será que ela vai gostar de mim?
+
+847
+01:16:37,849 --> 01:16:39,684
+Ela não bateu no seu saco, bateu?
+
+848
+01:16:40,059 --> 01:16:41,561
+Sim, bateu, Jax.
+
+849
+01:16:41,853 --> 01:16:43,688
+Ela bateu, sim.
+
+850
+01:16:44,189 --> 01:16:45,648
+Eu fracassei com você.
+
+851
+01:16:45,940 --> 01:16:47,775
+Eu não consegui derrotar o Goro.
+
+852
+01:16:48,318 --> 01:16:49,944
+Se não fosse o Scorpion...
+
+853
+01:16:50,111 --> 01:16:52,030
+Fracassou? Não.
+
+854
+01:16:52,238 --> 01:16:55,825
+Seu destino nunca foi
+derrotar o Goro, Liu Kang.
+
+855
+01:16:56,492 --> 01:16:59,287
+Era derrotar o Shao Kahn.
+
+856
+01:17:01,497 --> 01:17:03,249
+Você fracassou comigo.
+
+857
+01:17:03,750 --> 01:17:05,251
+Sinto muito, mestre.
+
+858
+01:17:05,627 --> 01:17:07,754
+Foi aquele velho tolo, Raiden.
+
+859
+01:17:08,004 --> 01:17:09,339
+- Ele...
+- Silêncio!
+
+860
+01:17:10,089 --> 01:17:11,925
+Reúna nossas forças.
+
+861
+01:17:12,175 --> 01:17:15,595
+Chegou a hora de acabarmos
+com este jogo
+
+862
+01:17:15,803 --> 01:17:18,097
+de uma vez por todas.
+
+863
+01:17:18,400 --> 01:17:27,400
+Legendei.to
+
