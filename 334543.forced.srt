@@ -1,3 +1,20 @@
+0
+00:00:00,167 --> 00:00:04,000
+Smart Play Plus Agradece a preferencia !!
+NÃ³s avalie na Play Store â­â­â­â­â­
+
+1.1
+00:00:04,000 --> 00:00:08,000
+Ei vocÃª ai voce mesmo que ainda nÃ£o deu sua nota
+
+1.2
+00:00:08,005 --> 00:00:012,007
+Nos avalie pois sua avaliaÃ§Ã£o e muito importante
+
+1.3
+00:00:012,007 --> 00:00:016,008
+Conto com vocÃª para nos ajudar â­â­â­â­â­
+
 1
 00:03:07,358 --> 00:03:08,150
 Saroo!
@@ -16,8 +33,8 @@ Suba!
 
 5
 00:03:22,983 --> 00:03:25,441
-Vamos lá!
-Rápido!
+Vamos lÃ¡!
+RÃ¡pido!
 
 6
 00:03:27,691 --> 00:03:29,233
@@ -51,7 +68,7 @@ Cheguei!
 13
 00:04:32,525 --> 00:04:36,108
 Vamos conseguir muito dinheiro hoje.
-Pegamos um monte de carvão.
+Pegamos um monte de carvÃ£o.
 
 14
 00:04:36,483 --> 00:04:37,566
@@ -63,7 +80,7 @@ Nossa, quanto!
 
 16
 00:04:40,816 --> 00:04:43,108
-Você fica dizendo
+VocÃª fica dizendo
 que sou pequeno...
 
 17
@@ -72,11 +89,11 @@ mas viu como sou esperto?
 
 18
 00:04:45,525 --> 00:04:46,775
-Você é mesmo!
+VocÃª Ã© mesmo!
 
 19
 00:04:48,358 --> 00:04:50,066
-Pulou de tão alto!
+Pulou de tÃ£o alto!
 
 20
 00:04:50,316 --> 00:04:51,775
@@ -84,7 +101,7 @@ Sim, muito alto!
 
 21
 00:04:59,233 --> 00:05:01,608
-Dê leite para eles.
+DÃª leite para eles.
 Duas medidas.
 
 22
@@ -126,7 +143,7 @@ Eu tenho leite!
 
 31
 00:06:00,483 --> 00:06:01,358
-É mágica.
+Ã‰ mÃ¡gica.
 
 32
 00:06:06,816 --> 00:06:07,775
@@ -146,7 +163,7 @@ Guddu?
 
 36
 00:06:30,775 --> 00:06:31,816
-Não.
+NÃ£o.
 
 37
 00:06:38,775 --> 00:06:41,150
@@ -172,15 +189,15 @@ Durma.
 
 42
 00:07:05,775 --> 00:07:06,983
-Quanto tempo ficará fora?
+Quanto tempo ficarÃ¡ fora?
 
 43
 00:07:07,358 --> 00:07:09,483
-Fez um ótimo trabalho hoje.
+Fez um Ã³timo trabalho hoje.
 
 44
 00:07:16,775 --> 00:07:17,816
-Quero ir também.
+Quero ir tambÃ©m.
 
 45
 00:07:20,275 --> 00:07:21,400
@@ -196,11 +213,11 @@ Quem vai cuidar da Shekila?
 
 48
 00:07:25,608 --> 00:07:26,566
-Kallu ficará aqui.
+Kallu ficarÃ¡ aqui.
 
 49
 00:07:27,150 --> 00:07:29,483
-Vocês são muito pequenos
+VocÃªs sÃ£o muito pequenos
 para levantar pacotes.
 
 50
@@ -209,12 +226,12 @@ Posso levantar qualquer coisa.
 
 51
 00:07:37,733 --> 00:07:40,150
-Guddu, posso ir também?
+Guddu, posso ir tambÃ©m?
 
 52
 00:07:40,400 --> 00:07:42,691
-Você é muito pequeno,
-não pode fazer isso.
+VocÃª Ã© muito pequeno,
+nÃ£o pode fazer isso.
 
 53
 00:07:42,733 --> 00:07:44,316
@@ -222,17 +239,17 @@ Posso levantar qualquer coisa.
 
 54
 00:07:48,316 --> 00:07:49,858
-Saroo, eu já falei.
+Saroo, eu jÃ¡ falei.
 
 55
 00:07:49,900 --> 00:07:53,275
-É um trabalho noturno.
-Não é para crianças.
+Ã‰ um trabalho noturno.
+NÃ£o Ã© para crianÃ§as.
 
 56
 00:07:53,525 --> 00:07:56,358
-Vá, vá.
-Você é muito pequeno.
+VÃ¡, vÃ¡.
+VocÃª Ã© muito pequeno.
 
 57
 00:07:57,108 --> 00:07:59,400
@@ -276,21 +293,21 @@ Saroo, vamos! Acorde!
 66
 00:09:21,775 --> 00:09:25,775
 -Saroo, acorde!
--Não me incomode, estou dormindo.
+-NÃ£o me incomode, estou dormindo.
 
 67
 00:09:25,816 --> 00:09:28,525
-É minha culpa.
-Eu trouxe você.
+Ã‰ minha culpa.
+Eu trouxe vocÃª.
 
 68
 00:09:28,566 --> 00:09:30,775
-Você é muito novo para isso.
+VocÃª Ã© muito novo para isso.
 
 69
 00:09:30,816 --> 00:09:33,608
-Está muito tarde.
-Você não conseguirá trabalhar.
+EstÃ¡ muito tarde.
+VocÃª nÃ£o conseguirÃ¡ trabalhar.
 
 70
 00:09:40,275 --> 00:09:43,983
@@ -303,7 +320,7 @@ Volto aqui depois.
 72
 00:09:46,150 --> 00:09:48,483
 Espere aqui,
-não vá há lugar nenhum.
+nÃ£o vÃ¡ hÃ¡ lugar nenhum.
 
 73
 00:09:51,150 --> 00:09:52,150
@@ -311,11 +328,11 @@ Guddu...
 
 74
 00:09:53,900 --> 00:09:56,275
-só me traga uns cem jalebis.
+sÃ³ me traga uns cem jalebis.
 
 75
 00:09:56,316 --> 00:09:57,691
-Você quer jalebis?
+VocÃª quer jalebis?
 
 76
 00:09:57,733 --> 00:09:59,733
@@ -324,7 +341,7 @@ Traga uns dois mil jalebis!
 77
 00:09:59,775 --> 00:10:02,608
 Jalebis? Espere aqui,
-não vá a lugar nenhum.
+nÃ£o vÃ¡ a lugar nenhum.
 
 78
 00:10:36,525 --> 00:10:37,816
@@ -361,7 +378,7 @@ Guddu!
 
 86
 00:12:46,608 --> 00:12:47,816
-Alguém me ajude!
+AlguÃ©m me ajude!
 
 87
 00:12:49,816 --> 00:12:50,650
@@ -377,7 +394,7 @@ Guddu!
 
 90
 00:13:38,775 --> 00:13:42,108
-Mãe, eu amo muito você.
+MÃ£e, eu amo muito vocÃª.
 
 91
 00:13:42,608 --> 00:13:45,733
@@ -386,11 +403,11 @@ Guddu, sinto muito sua falta.
 92
 00:14:04,566 --> 00:14:07,691
 O trem na plataforma 2
-está fora de uso.
+estÃ¡ fora de uso.
 
 93
 00:14:07,733 --> 00:14:11,275
-Não fará embarque
+NÃ£o farÃ¡ embarque
 de passageiros.
 
 94
@@ -399,7 +416,7 @@ Socorro!
 
 95
 00:14:12,775 --> 00:14:14,316
-Alguém me ajude!
+AlguÃ©m me ajude!
 
 96
 00:14:15,358 --> 00:14:17,233
@@ -435,7 +452,7 @@ Guddu!
 
 104
 00:16:42,733 --> 00:16:44,525
-Mãe!
+MÃ£e!
 
 105
 00:16:47,733 --> 00:16:49,608
@@ -443,7 +460,7 @@ Guddu!
 
 106
 00:16:52,233 --> 00:16:54,150
-Mãe!
+MÃ£e!
 
 107
 00:17:03,108 --> 00:17:04,566
@@ -465,7 +482,7 @@ Ganestalay?
 111
 00:17:19,358 --> 00:17:21,983
 -Ganestalay?
--Eu não entendo!
+-Eu nÃ£o entendo!
 
 112
 00:17:22,025 --> 00:17:23,691
@@ -474,7 +491,7 @@ Quero ir para casa.
 113
 00:17:23,733 --> 00:17:26,275
 Fale em bengali!
-Eu não te entendo.
+Eu nÃ£o te entendo.
 
 114
 00:17:26,525 --> 00:17:27,733
@@ -486,12 +503,12 @@ Ganestalay?
 
 116
 00:24:17,233 --> 00:24:18,650
-Não ande aí, você vai cair.
+NÃ£o ande aÃ­, vocÃª vai cair.
 
 117
 00:24:20,566 --> 00:24:22,566
 Qual o problema?
-Não entende bengali?
+NÃ£o entende bengali?
 
 118
 00:24:26,525 --> 00:24:27,733
@@ -503,7 +520,7 @@ Sim.
 
 120
 00:24:30,858 --> 00:24:32,316
-Para onde está indo?
+Para onde estÃ¡ indo?
 
 121
 00:24:33,608 --> 00:24:36,275
@@ -512,12 +529,12 @@ Estou perdido.
 
 122
 00:24:37,316 --> 00:24:39,066
-Você veio deste lado
+VocÃª veio deste lado
 ou daquele lado?
 
 123
 00:24:39,733 --> 00:24:41,025
-Eu não sei o lado.
+Eu nÃ£o sei o lado.
 
 124
 00:24:41,608 --> 00:24:42,608
@@ -537,7 +554,7 @@ Eu me chamo Noor.
 
 128
 00:24:59,650 --> 00:25:01,233
-Está com fome?
+EstÃ¡ com fome?
 
 129
 00:25:07,275 --> 00:25:08,566
@@ -557,7 +574,7 @@ Eu tenho que fazer tudo isso...
 
 133
 00:25:35,275 --> 00:25:37,275
-faço marmitas
+faÃ§o marmitas
 para todos os homens.
 
 134
@@ -570,7 +587,7 @@ Todo mundo tem que trabalhar.
 
 136
 00:25:43,983 --> 00:25:47,400
-Eu ajudo minha mãe...
+Eu ajudo minha mÃ£e...
 
 137
 00:25:47,441 --> 00:25:50,816
@@ -578,11 +595,11 @@ a carregar pedras.
 
 138
 00:25:51,983 --> 00:25:53,733
-Sua mãe carrega pedras?
+Sua mÃ£e carrega pedras?
 
 139
 00:26:04,941 --> 00:26:07,566
-O que é isso?
+O que Ã© isso?
 
 140
 00:26:09,483 --> 00:26:10,733
@@ -594,11 +611,11 @@ Deixe um pouco para mim!
 
 142
 00:26:45,983 --> 00:26:48,316
-E agora um pouco de sabão...
+E agora um pouco de sabÃ£o...
 
 143
 00:26:55,983 --> 00:26:57,691
-Há um homem...
+HÃ¡ um homem...
 
 144
 00:26:57,983 --> 00:27:00,150
@@ -606,7 +623,7 @@ que se chama Rama.
 
 145
 00:27:00,900 --> 00:27:02,775
-É um homem muito bom.
+Ã‰ um homem muito bom.
 
 146
 00:27:02,816 --> 00:27:04,900
@@ -614,21 +631,21 @@ Ele ajuda a todos.
 
 147
 00:27:05,775 --> 00:27:08,025
-Ele vai ajudar você também.
+Ele vai ajudar vocÃª tambÃ©m.
 
 148
 00:27:09,650 --> 00:27:11,775
-Ele virá amanhã de manhã.
+Ele virÃ¡ amanhÃ£ de manhÃ£.
 
 149
 00:27:15,775 --> 00:27:18,816
 Ele vai me ajudar
-a encontrar minha mãe?
+a encontrar minha mÃ£e?
 
 150
 00:27:21,691 --> 00:27:26,900
 Ele vai ajudar
-a encontrar sua mãe.
+a encontrar sua mÃ£e.
 
 151
 00:27:29,316 --> 00:27:31,650
@@ -644,7 +661,7 @@ Durma.
 
 154
 00:27:48,816 --> 00:27:50,691
-Ah, meu bebê...
+Ah, meu bebÃª...
 
 155
 00:27:50,733 --> 00:27:52,691
@@ -656,11 +673,11 @@ Imagino por quais mundos viajou.
 
 157
 00:28:01,483 --> 00:28:02,775
-Você é Rama?
+VocÃª Ã© Rama?
 
 158
 00:28:03,191 --> 00:28:05,316
-Sim, mas não o deus.
+Sim, mas nÃ£o o deus.
 
 159
 00:28:24,941 --> 00:28:26,691
@@ -673,21 +690,21 @@ Mais perto.
 161
 00:28:32,733 --> 00:28:35,775
 Vim de muito longe
-para encontrá-lo...
+para encontrÃ¡-lo...
 
 162
 00:28:39,441 --> 00:28:42,775
-e quero levá-lo
+e quero levÃ¡-lo
 para um lugar muito bom.
 
 163
 00:28:43,733 --> 00:28:45,441
-Vai me levar até minha mãe?
+Vai me levar atÃ© minha mÃ£e?
 
 164
 00:28:45,816 --> 00:28:49,150
-De lá tentaremos
-encontrar sua mãe.
+De lÃ¡ tentaremos
+encontrar sua mÃ£e.
 
 165
 00:28:49,775 --> 00:28:52,025
@@ -695,7 +712,7 @@ Eu voltarei essa noite...
 
 166
 00:28:53,816 --> 00:28:55,566
-e vamos procurá-la.
+e vamos procurÃ¡-la.
 
 167
 00:29:10,025 --> 00:29:11,025
@@ -719,21 +736,21 @@ Fez muito bem.
 
 172
 00:29:40,150 --> 00:29:42,650
-É exatamente o que
-estão procurando.
+Ã‰ exatamente o que
+estÃ£o procurando.
 
 173
 00:30:04,275 --> 00:30:06,733
 O que houve,
-por que não bebeu?
+por que nÃ£o bebeu?
 
 174
 00:30:07,441 --> 00:30:08,691
-Não gostou?
+NÃ£o gostou?
 
 175
 00:30:12,775 --> 00:30:14,650
-Por que está triste?
+Por que estÃ¡ triste?
 
 176
 00:30:20,691 --> 00:30:21,691
@@ -793,26 +810,26 @@ Meu bom menino.
 
 190
 00:32:41,150 --> 00:32:43,650
-Quem é meu bom menino?
-Quem é?
+Quem Ã© meu bom menino?
+Quem Ã©?
 
 191
 00:32:47,650 --> 00:32:49,650
-Desculpe, mãe.
+Desculpe, mÃ£e.
 
 192
 00:34:54,441 --> 00:34:57,858
-Então, eu saí do café
+EntÃ£o, eu saÃ­ do cafÃ©
 e comecei a falar com ele.
 
 193
 00:34:57,900 --> 00:34:59,650
 Percebi que ele
-não fala bengali.
+nÃ£o fala bengali.
 
 194
 00:34:59,691 --> 00:35:01,441
-Só hindi.
+SÃ³ hindi.
 
 195
 00:35:02,316 --> 00:35:04,775
@@ -850,15 +867,15 @@ Em que distrito fica Ganestalay?
 
 203
 00:35:28,566 --> 00:35:30,775
-Qual o nome de sua mãe?
+Qual o nome de sua mÃ£e?
 
 204
 00:35:30,816 --> 00:35:32,066
-Mãe.
+MÃ£e.
 
 205
 00:37:10,525 --> 00:37:12,191
-Qual é o seu nome?
+Qual Ã© o seu nome?
 
 206
 00:37:12,816 --> 00:37:13,816
@@ -866,15 +883,15 @@ Amita.
 
 207
 00:37:17,316 --> 00:37:21,066
-Aqui é muito ruim.
+Aqui Ã© muito ruim.
 
 208
 00:37:24,483 --> 00:37:26,941
-Alguém já conseguiu sair daqui?
+AlguÃ©m jÃ¡ conseguiu sair daqui?
 
 209
 00:37:27,525 --> 00:37:28,900
-Já vi acontecer.
+JÃ¡ vi acontecer.
 
 210
 00:37:30,025 --> 00:37:31,816
@@ -882,7 +899,7 @@ O que vai fazer quando sair?
 
 211
 00:37:32,566 --> 00:37:34,400
-Vou comprar um relógio.
+Vou comprar um relÃ³gio.
 
 212
 00:37:50,775 --> 00:37:51,775
@@ -890,7 +907,7 @@ Escreveram?
 
 213
 00:37:52,650 --> 00:37:54,733
-Shondeep! O que está fazendo?
+Shondeep! O que estÃ¡ fazendo?
 
 214
 00:37:54,775 --> 00:37:56,275
@@ -915,11 +932,11 @@ Shondeep!
 219
 00:38:03,316 --> 00:38:05,691
 Venha comigo!
-Você vai levar uma surra!
+VocÃª vai levar uma surra!
 
 220
 00:38:06,733 --> 00:38:08,816
-Não vai se safar!
+NÃ£o vai se safar!
 
 221
 00:38:30,691 --> 00:38:31,983
@@ -947,7 +964,7 @@ Sou eu.
 
 227
 00:38:51,775 --> 00:38:53,816
-Está tudo bem, vou levá-lo.
+EstÃ¡ tudo bem, vou levÃ¡-lo.
 
 228
 00:38:55,983 --> 00:38:57,775
@@ -956,7 +973,7 @@ antes de amanhecer.
 
 229
 00:38:59,775 --> 00:39:04,775
-Todas as estrelas saíram
+Todas as estrelas saÃ­ram
 
 230
 00:39:05,316 --> 00:39:10,025
@@ -964,7 +981,7 @@ Em busca da lua
 
 231
 00:39:11,483 --> 00:39:16,983
-Todas as estrelas saíram
+Todas as estrelas saÃ­ram
 
 232
 00:39:17,525 --> 00:39:22,191
@@ -972,7 +989,7 @@ Em busca da lua
 
 233
 00:39:23,900 --> 00:39:29,733
-Os malfadados saíram
+Os malfadados saÃ­ram
 
 234
 00:39:29,775 --> 00:39:35,733
@@ -980,7 +997,7 @@ Nas ruas
 
 235
 00:39:36,025 --> 00:39:41,775
-Todas as estrelas saíram
+Todas as estrelas saÃ­ram
 
 236
 00:39:41,816 --> 00:39:47,441
@@ -988,15 +1005,15 @@ Em busca da lua
 
 237
 00:39:47,483 --> 00:39:53,650
-Elas saíram
+Elas saÃ­ram
 
 238
 00:39:53,691 --> 00:39:58,858
-Em busca do ladrão
+Em busca do ladrÃ£o
 
 239
 00:39:58,900 --> 00:40:03,775
-Todas as estrelas saíram
+Todas as estrelas saÃ­ram
 
 240
 00:40:19,441 --> 00:40:20,650
@@ -1004,17 +1021,17 @@ Sim, Saroo.
 
 241
 00:40:20,691 --> 00:40:23,691
-Meu nome é Sra. Sood.
+Meu nome Ã© Sra. Sood.
 Sente aqui.
 
 242
 00:40:25,525 --> 00:40:27,775
-O meu trabalho é garantir
+O meu trabalho Ã© garantir
 
 243
 00:40:28,150 --> 00:40:30,650
-que não haja
-uma única criança aqui
+que nÃ£o haja
+uma Ãºnica crianÃ§a aqui
 
 244
 00:40:31,400 --> 00:40:33,733
@@ -1028,7 +1045,7 @@ Por isso estou aqui.
 246
 00:40:37,150 --> 00:40:39,983
 As pessoas
-não gostam de mim aqui.
+nÃ£o gostam de mim aqui.
 
 247
 00:40:43,775 --> 00:40:45,025
@@ -1036,53 +1053,53 @@ Veja isso.
 
 248
 00:40:47,066 --> 00:40:50,650
-Estamos fazendo perguntas sobre você
-há muito tempo.
+Estamos fazendo perguntas sobre vocÃª
+hÃ¡ muito tempo.
 
 249
 00:40:50,691 --> 00:40:53,983
-Nós publicamos em um jornal.
+NÃ³s publicamos em um jornal.
 
 250
 00:40:54,316 --> 00:40:56,566
-Em todos os jornais de Calcutá.
+Em todos os jornais de CalcutÃ¡.
 
 251
 00:40:57,441 --> 00:40:59,858
-Quinze milhões de pessoas
+Quinze milhÃµes de pessoas
 leem esse jornal.
 
 252
 00:40:59,900 --> 00:41:01,525
-É muita gente.
+Ã‰ muita gente.
 
 253
 00:41:03,191 --> 00:41:04,775
-Mas nós não...
+Mas nÃ³s nÃ£o...
 
 254
 00:41:05,775 --> 00:41:07,733
-tivemos uma única resposta.
+tivemos uma Ãºnica resposta.
 
 255
 00:41:07,775 --> 00:41:09,900
-Minha casa é muito longe.
+Minha casa Ã© muito longe.
 
 256
 00:41:11,400 --> 00:41:13,775
-Ninguém respondeu.
+NinguÃ©m respondeu.
 
 257
 00:41:14,650 --> 00:41:17,150
-E minha mãe?
+E minha mÃ£e?
 
 258
 00:41:17,191 --> 00:41:18,441
-Não...
+NÃ£o...
 
 259
 00:41:18,900 --> 00:41:20,650
-nem sua mãe.
+nem sua mÃ£e.
 
 260
 00:41:25,525 --> 00:41:26,525
@@ -1094,20 +1111,20 @@ Saroo...
 
 262
 00:41:30,525 --> 00:41:33,983
-Encontramos uma família
-na Austrália
+Encontramos uma famÃ­lia
+na AustrÃ¡lia
 
 263
 00:41:34,025 --> 00:41:36,775
-que quer cuidar de você.
+que quer cuidar de vocÃª.
 
 264
 00:41:37,900 --> 00:41:40,483
-Sabe onde fica a Austrália?
+Sabe onde fica a AustrÃ¡lia?
 
 265
 00:41:41,191 --> 00:41:42,775
-Gostaria de conhecê-los?
+Gostaria de conhecÃª-los?
 
 266
 00:41:43,733 --> 00:41:46,441
@@ -1124,11 +1141,11 @@ Veja.
 
 269
 00:41:54,775 --> 00:41:56,650
-Este é o John,
+Este Ã© o John,
 
 270
 00:41:56,691 --> 00:41:58,025
-e esta é a Sue.
+e esta Ã© a Sue.
 
 271
 00:42:01,316 --> 00:42:02,400
@@ -1136,11 +1153,11 @@ Esta...
 
 272
 00:42:02,941 --> 00:42:05,733
-é a casa deles.
+Ã© a casa deles.
 
 273
 00:42:06,733 --> 00:42:08,858
-Eles vivem na Tasmânia,
+Eles vivem na TasmÃ¢nia,
 
 274
 00:42:08,900 --> 00:42:10,400
@@ -1148,15 +1165,15 @@ uma pequena ilha...
 
 275
 00:42:10,441 --> 00:42:12,025
-e todo mundo lá é muito legal.
+e todo mundo lÃ¡ Ã© muito legal.
 
 276
 00:42:13,900 --> 00:42:15,733
-São pessoas muito boas!
+SÃ£o pessoas muito boas!
 
 277
 00:42:16,316 --> 00:42:17,316
-Não são?
+NÃ£o sÃ£o?
 
 278
 00:42:18,733 --> 00:42:23,233
@@ -1168,12 +1185,12 @@ Certo?
 
 280
 00:42:29,525 --> 00:42:31,775
-Filho, não pode ficar aqui.
+Filho, nÃ£o pode ficar aqui.
 
 281
 00:42:46,066 --> 00:42:48,650
-Você procurou mesmo
-a minha mãe?
+VocÃª procurou mesmo
+a minha mÃ£e?
 
 282
 00:42:52,191 --> 00:42:54,191
@@ -1181,16 +1198,16 @@ Procurei em todo lugar.
 
 283
 00:43:30,941 --> 00:43:32,983
-Você terá uma boa casa.
+VocÃª terÃ¡ uma boa casa.
 
 284
 00:43:33,400 --> 00:43:35,691
-A Austrália é um lugar
+A AustrÃ¡lia Ã© um lugar
 muito legal.
 
 285
 00:43:51,650 --> 00:43:53,233
-Todos têm um guardanapo?
+Todos tÃªm um guardanapo?
 
 286
 00:43:53,275 --> 00:43:54,733
@@ -1203,11 +1220,11 @@ Chama-se "serviette".
 288
 00:43:55,900 --> 00:43:59,608
 Coloquem no colo,
-para a comida não cair na roupa.
+para a comida nÃ£o cair na roupa.
 
 289
 00:43:59,650 --> 00:44:01,650
-E assim não estragam a roupa.
+E assim nÃ£o estragam a roupa.
 
 290
 00:44:01,691 --> 00:44:05,608
@@ -1216,8 +1233,8 @@ a comer com talheres.
 
 291
 00:44:05,650 --> 00:44:09,650
-Vou perguntar e vocês me dirão
-em inglês o nome de cada coisa.
+Vou perguntar e vocÃªs me dirÃ£o
+em inglÃªs o nome de cada coisa.
 
 292
 00:44:09,691 --> 00:44:10,691
@@ -1240,7 +1257,7 @@ Como se chama isso?
 296
 00:44:18,441 --> 00:44:20,608
 -Faca.
--Não "fada". Faca.
+-NÃ£o "fada". Faca.
 
 297
 00:44:20,650 --> 00:44:21,733
@@ -1271,7 +1288,7 @@ Certo, Manisha, me diga...
 
 303
 00:44:30,733 --> 00:44:32,275
-o que é isso?
+o que Ã© isso?
 
 304
 00:44:32,316 --> 00:44:33,691
@@ -1312,12 +1329,12 @@ Saroo...
 
 313
 00:46:01,316 --> 00:46:03,608
-aqueles são
-sua mamãe e seu papai.
+aqueles sÃ£o
+sua mamÃ£e e seu papai.
 
 314
 00:46:03,650 --> 00:46:04,650
-Diga olá.
+Diga olÃ¡.
 
 315
 01:01:01,733 --> 01:01:03,775
@@ -1325,8 +1342,8 @@ Guddu, jalebis.
 
 316
 01:22:29,900 --> 01:22:31,608
-Não.
-Dê cinco rúpias...
+NÃ£o.
+DÃª cinco rÃºpias...
 
 317
 01:22:31,650 --> 01:22:33,025
@@ -1334,20 +1351,20 @@ e carrego todas.
 
 318
 01:22:33,066 --> 01:22:36,816
-Certo, você venceu, pegue.
+Certo, vocÃª venceu, pegue.
 
 319
 01:22:45,400 --> 01:22:47,816
 Ele estava carregando uma melancia
-e não o vi vindo.
+e nÃ£o o vi vindo.
 
 320
 01:24:16,941 --> 01:24:18,733
-Não se aproxime.
+NÃ£o se aproxime.
 
 321
 01:24:19,983 --> 01:24:21,983
-Não deveria estar cuidando dele?
+NÃ£o deveria estar cuidando dele?
 
 322
 01:24:22,691 --> 01:24:23,816
@@ -1355,11 +1372,11 @@ Onde estava?
 
 323
 01:24:24,441 --> 01:24:26,066
-Você não o ama?
+VocÃª nÃ£o o ama?
 
 324
 01:45:07,608 --> 01:45:08,650
-Mãe?
+MÃ£e?
 
 325
 01:45:09,441 --> 01:45:10,608
@@ -1367,7 +1384,7 @@ Saroo!
 
 326
 01:45:23,900 --> 01:45:26,066
-Procurei tanto por você!
+Procurei tanto por vocÃª!
 
 327
 01:46:00,525 --> 01:46:01,525
@@ -1379,7 +1396,7 @@ Shekila.
 
 329
 01:47:40,775 --> 01:47:41,941
-Ele é seu irmão!
+Ele Ã© seu irmÃ£o!
 
 330
 01:50:39,441 --> 01:50:40,441
@@ -1403,7 +1420,7 @@ Vamos!
 
 335
 01:51:03,858 --> 01:51:05,275
-Ande mais rápido!
+Ande mais rÃ¡pido!
 
 336
 01:51:06,775 --> 01:51:10,816
@@ -1411,7 +1428,7 @@ Estou indo, estou indo...
 
 337
 01:51:10,858 --> 01:51:13,108
-Você vai cair!
+VocÃª vai cair!
 
 338
 01:51:13,400 --> 01:51:14,900
